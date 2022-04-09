@@ -28,7 +28,7 @@ function reset() {
     }
 
     question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
-    answer = 'In ' + movie ':';
+    answer = 'In ' + movie + ':';
     answer1 = actor1 + ' as ' + name1;
 	answer2 = actor2 + ' as ' + name2;
 	answer3 = actor3 + ' as ' + name3;
