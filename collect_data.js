@@ -4883,3 +4883,5 @@ function generate_question() {
     var question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
     var answer = movie + ' as ' + name1 + ', ' + name2 + ', and ' + name3;
 }
+
+generate_question()
