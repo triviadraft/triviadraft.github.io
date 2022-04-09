@@ -4889,7 +4889,7 @@ if (random_list[2]['description']) {
 }
 
 var question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
-var answer = 'In ' + movie + ':';
+var answer = movie + ':';
 var answer1 = actor1 + ' as ' + name1;
 var answer2 = actor2 + ' as ' + name2;
 var answer3 = actor3 + ' as ' + name3;
