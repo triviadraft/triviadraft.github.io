@@ -1,0 +1,362 @@
+{
+    "Raiders of the Lost Ark": {
+        "year": "1981",
+        "name": "Raiders of the Lost Ark",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Indiana Jones and the Temple of Doom": {
+        "year": "1984",
+        "name": "Indiana Jones and the Temple of Doom",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Indiana Jones and the Last Crusade": {
+        "year": "1989",
+        "name": "Indiana Jones and the Last Crusade",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Dick Tracy": {
+        "year": "1990",
+        "name": "Dick Tracy",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Darkman": {
+        "year": "1990",
+        "name": "Darkman",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "The Rocketeer": {
+        "year": "1991",
+        "name": "The Rocketeer",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "The Shadow": {
+        "year": "1994",
+        "name": "The Shadow",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "The Phantom": {
+        "year": "1996",
+        "name": "The Phantom",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "The Mask of Zorro": {
+        "year": "1998",
+        "name": "The Mask of Zorro",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Pirates of the Caribbean: The Curse of the Black Pearl": {
+        "year": "2003",
+        "name": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "The Legend of Zorro": {
+        "year": "2005",
+        "name": "The Legend of Zorro",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Pirates of the Caribbean: Dead Man's Chest": {
+        "year": "2006",
+        "name": "Pirates of the Caribbean: Dead Man's Chest",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Pirates of the Caribbean: At World's End": {
+        "year": "2007",
+        "name": "Pirates of the Caribbean: At World's End",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Indiana Jones and the Kingdom of the Crystal Skull": {
+        "year": "2008",
+        "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Pirates of the Caribbean: On Stranger Tides": {
+        "year": "2011",
+        "name": "Pirates of the Caribbean: On Stranger Tides",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "The Lone Ranger": {
+        "year": "2013",
+        "name": "The Lone Ranger",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Pirates of the Caribbean: Dead Men Tell No Tales": {
+        "year": "2017",
+        "name": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "categories": "Swashbuckling/Pulp"
+    },
+    "Jurassic Park": {
+        "year": "1993",
+        "name": "Jurassic Park",
+        "categories": "Jurassic Park"
+    },
+    "The Lost World: Jurassic Park": {
+        "year": "1997",
+        "name": "The Lost World: Jurassic Park",
+        "categories": "Jurassic Park"
+    },
+    "Jurassic Park III": {
+        "year": "2001",
+        "name": "Jurassic Park III",
+        "categories": "Jurassic Park"
+    },
+    "Jurassic World": {
+        "year": "2015",
+        "name": "Jurassic World",
+        "categories": "Jurassic Park"
+    },
+    "Jurassic World: Fallen Kingdom": {
+        "year": "2018",
+        "name": "Jurassic World: Fallen Kingdom",
+        "categories": "Jurassic Park"
+    },
+    "Alien": {
+        "year": "1979",
+        "name": "Alien",
+        "categories": "Alien/Predator"
+    },
+    "Aliens": {
+        "year": "1986",
+        "name": "Aliens",
+        "categories": "Alien/Predator"
+    },
+    "Predator": {
+        "year": "1987",
+        "name": "Predator",
+        "categories": "Alien/Predator"
+    },
+    "Predator 2": {
+        "year": "1990",
+        "name": "Predator 2",
+        "categories": "Alien/Predator"
+    },
+    "Alien 3": {
+        "year": "1992",
+        "name": "Alien 3",
+        "categories": "Alien/Predator"
+    },
+    "Alien Resurrection": {
+        "year": "1997",
+        "name": "Alien Resurrection",
+        "categories": "Alien/Predator"
+    },
+    "Alien vs. Predator": {
+        "year": "2004",
+        "name": "Alien vs. Predator",
+        "categories": "Alien/Predator"
+    },
+    "Aliens vs. Predator: Requiem": {
+        "year": "2007",
+        "name": "Aliens vs. Predator: Requiem",
+        "categories": "Alien/Predator"
+    },
+    "Predators": {
+        "year": "2010",
+        "name": "Predators",
+        "categories": "Alien/Predator"
+    },
+    "Prometheus": {
+        "year": "2012",
+        "name": "Prometheus",
+        "categories": "Alien/Predator"
+    },
+    "Alien: Covenant": {
+        "year": "2017",
+        "name": "Alien: Covenant",
+        "categories": "Alien/Predator"
+    },
+    "The Predator": {
+        "year": "2018",
+        "name": "The Predator",
+        "categories": "Alien/Predator"
+    },
+    "The Transformers: The Movie": {
+        "year": "1986",
+        "name": "The Transformers: The Movie",
+        "categories": "Hasbro"
+    },
+    "Mighty Morphin Power Rangers: The Movie": {
+        "year": "1995",
+        "name": "Mighty Morphin Power Rangers: The Movie",
+        "categories": "Hasbro"
+    },
+    "Turbo: A Power Rangers Movie": {
+        "year": "1997",
+        "name": "Turbo: A Power Rangers Movie",
+        "categories": "Hasbro"
+    },
+    "Transformers": {
+        "year": "2007",
+        "name": "Transformers",
+        "categories": "Hasbro"
+    },
+    "Transformers: Revenge of the Fallen": {
+        "year": "2009",
+        "name": "Transformers: Revenge of the Fallen",
+        "categories": "Hasbro"
+    },
+    "Transformers: Dark of the Moon": {
+        "year": "2011",
+        "name": "Transformers: Dark of the Moon",
+        "categories": "Hasbro"
+    },
+    "Transformers: Age of Extinction": {
+        "year": "2014",
+        "name": "Transformers: Age of Extinction",
+        "categories": "Hasbro"
+    },
+    "Power Rangers": {
+        "year": "2017",
+        "name": "Power Rangers",
+        "categories": "Hasbro"
+    },
+    "Transformers: The Last Knight": {
+        "year": "2017",
+        "name": "Transformers: The Last Knight",
+        "categories": "Hasbro"
+    },
+    "Bumblebee": {
+        "year": "2018",
+        "name": "Bumblebee",
+        "categories": "Hasbro"
+    },
+    "Planet of the Apes (1968)": {
+        "year": "1968",
+        "name": "Planet of the Apes (1968)",
+        "categories": "Planet of the Apes"
+    },
+    "Beneath the Planet of the Apes": {
+        "year": "1970",
+        "name": "Beneath the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "Escape from the Planet of the Apes": {
+        "year": "1971",
+        "name": "Escape from the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "Conquest of the Planet of the Apes": {
+        "year": "1972",
+        "name": "Conquest of the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "Battle for the Planet of the Apes": {
+        "year": "1973",
+        "name": "Battle for the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "Planet of the Apes (2001)": {
+        "year": "2001",
+        "name": "Planet of the Apes (2001)",
+        "categories": "Planet of the Apes"
+    },
+    "Rise of the Planet of the Apes": {
+        "year": "2011",
+        "name": "Rise of the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "Dawn of the Planet of the Apes": {
+        "year": "2014",
+        "name": "Dawn of the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "War for the Planet of the Apes": {
+        "year": "2017",
+        "name": "War for the Planet of the Apes",
+        "categories": "Planet of the Apes"
+    },
+    "Mad Max": {
+        "year": "1980",
+        "name": "Mad Max",
+        "categories": "Dystopian/Time"
+    },
+    "The Road Warrior": {
+        "year": "1982",
+        "name": "The Road Warrior",
+        "categories": "Dystopian/Time"
+    },
+    "The Terminator": {
+        "year": "1984",
+        "name": "The Terminator",
+        "categories": "Dystopian/Time"
+    },
+    "Back to the Future": {
+        "year": "1985",
+        "name": "Back to the Future",
+        "categories": "Dystopian/Time"
+    },
+    "Mad Max Beyond Thunderdome": {
+        "year": "1985",
+        "name": "Mad Max Beyond Thunderdome",
+        "categories": "Dystopian/Time"
+    },
+    "Back to the Future Part II": {
+        "year": "1989",
+        "name": "Back to the Future Part II",
+        "categories": "Dystopian/Time"
+    },
+    "Back to the Future Part III": {
+        "year": "1990",
+        "name": "Back to the Future Part III",
+        "categories": "Dystopian/Time"
+    },
+    "Terminator 2: Judgment Day": {
+        "year": "1991",
+        "name": "Terminator 2: Judgment Day",
+        "categories": "Dystopian/Time"
+    },
+    "Waterworld": {
+        "year": "1995",
+        "name": "Waterworld",
+        "categories": "Dystopian/Time"
+    },
+    "The Matrix": {
+        "year": "1999",
+        "name": "The Matrix",
+        "categories": "Dystopian/Time"
+    },
+    "The Matrix Reloaded": {
+        "year": "2003",
+        "name": "The Matrix Reloaded",
+        "categories": "Dystopian/Time"
+    },
+    "Terminator 3: Rise of the Machines": {
+        "year": "2003",
+        "name": "Terminator 3: Rise of the Machines",
+        "categories": "Dystopian/Time"
+    },
+    "The Matrix Revolutions": {
+        "year": "2003",
+        "name": "The Matrix Revolutions",
+        "categories": "Dystopian/Time"
+    },
+    "Terminator Salvation": {
+        "year": "2009",
+        "name": "Terminator Salvation",
+        "categories": "Dystopian/Time"
+    },
+    "Snowpiercer": {
+        "year": "2014",
+        "name": "Snowpiercer",
+        "categories": "Dystopian/Time"
+    },
+    "Mad Max: Fury Road": {
+        "year": "2015",
+        "name": "Mad Max: Fury Road",
+        "categories": "Dystopian/Time"
+    },
+    "Terminator Genisys": {
+        "year": "2015",
+        "name": "Terminator Genisys",
+        "categories": "Dystopian/Time"
+    },
+    "Terminator: Dark Fate": {
+        "year": "2019",
+        "name": "Terminator: Dark Fate",
+        "categories": "Dystopian/Time"
+    },
+    "The Matrix Resurrections": {
+        "year": "2021",
+        "name": "The Matrix Resurrections",
+        "categories": "Dystopian/Time"
+    }
+}
