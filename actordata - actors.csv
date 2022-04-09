@@ -1,0 +1,839 @@
+movie,actor,name,level,description
+Raiders of the Lost Ark,Harrison Ford,Indiana Jones,main,archaeology professor and adventurer
+Raiders of the Lost Ark,Karen Allen,Marion Ravenwood,main,"spirited, tough bar owner and Jones' former lover"
+Raiders of the Lost Ark,Paul Freeman,René Belloq,main,"rival archaeologist to Jones, in the employ of the Nazis"
+Raiders of the Lost Ark,Ronald Lacey,Major Arnold Toht,main,sadistic Gestapo agent
+Raiders of the Lost Ark,John Rhys-Davies,Sallah,main,Egyptian excavator and old acquaintance of Jones
+Raiders of the Lost Ark,Denholm Elliott,Marcus Brody,main,museum curator and Jones' loyal friend
+Raiders of the Lost Ark,Wolf Kahler,Colonel Dietrich,supporting,Nazi officer
+Raiders of the Lost Ark,Anthony Higgins,Major Gobler,supporting,Dietrich's right-hand man
+Raiders of the Lost Ark,Don Fellows,Colonel Musgrove,supporting,United States Army Intelligence agent
+Raiders of the Lost Ark,William Hootkins,Major Eaton,supporting,United States Army Intelligence agent
+Raiders of the Lost Ark,George Harris,Simon Katanga,supporting,captain of the Bantu Wind tramp steamer
+Raiders of the Lost Ark,Fred Sorenson,Jock,supporting,Jones' pilot
+Raiders of the Lost Ark,Alfred Molina,Satipo,supporting,Jones' guide
+Raiders of the Lost Ark,Frank Marshall,Flying Wing pilot,minor,
+Raiders of the Lost Ark,Pat Roach,Nazi who brawls with Jones by the Flying Wing,minor,
+Raiders of the Lost Ark,Pat Roach,one of Toht's Nepalese Sherpas,minor,
+Raiders of the Lost Ark,Vic Tablian,Barranca,minor,Jones's treacherous Peruvian guide
+Raiders of the Lost Ark,Vic Tablian,Monkey Man in Cairo,minor,
+Raiders of the Lost Ark,Terry Richards,Cairo swordsman shot by Jones,minor,
+Indiana Jones and the Temple of Doom,Harrison Ford,Indiana Jones,main,archaeologist adventurer
+Indiana Jones and the Temple of Doom,Kate Capshaw,Willie Scott,main,American nightclub singer working in Shanghai
+Indiana Jones and the Temple of Doom,Amrish Puri,Mola Ram,main,Thuggee priest who performs rites of human sacrifices
+Indiana Jones and the Temple of Doom,Roshan Seth,Chattar Lal,main,Prime Minister of the Maharaja of Pankot
+Indiana Jones and the Temple of Doom,Philip Stone,Captain Philip Blumburtt,main,British Indian Army Captain on a routine inspection tour of Pankot
+Indiana Jones and the Temple of Doom,Jonathan Ke Quan,Short Round,main,Indy's 11-year-old Chinese sidekick
+Indiana Jones and the Temple of Doom,Roy Chiao,Lao Che,supporting,Shanghai crime boss who hires Indy to recover the cremated ashes of one of his ancestors
+Indiana Jones and the Temple of Doom,Ron Taylor,voice of Lao Che,supporting,Shanghai crime boss who hires Indy to recover the cremated ashes of one of his ancestors
+Indiana Jones and the Temple of Doom,Chua Kah Joo,Chen,minor,one of Lao Che's two sons
+Indiana Jones and the Temple of Doom,Ric Young,Kao Kan,minor,one of Lao Che's two sons
+Indiana Jones and the Temple of Doom,David Yip,Wu Han,supporting,friend of Indy who is killed in Club Obi Wan
+Indiana Jones and the Temple of Doom,Raj Singh,Zalim Singh,supporting,adolescent Maharajá of Pankot
+Indiana Jones and the Temple of Doom,Katie Leigh,voice of Zalim Singh,supporting,adolescent Maharajá of Pankot
+Indiana Jones and the Temple of Doom,D. R. Nanayakkara,Shaman,supporting,leader of a small village that recruits Indy to retrieve their stolen sacred Shiva lingam stone
+Indiana Jones and the Temple of Doom,Pat Roach,Thuggee overseer in the mines,minor,
+Indiana Jones and the Temple of Doom,Steven Spielberg,person at airport,minor,
+Indiana Jones and the Temple of Doom,George Lucas,person at airport,minor,
+Indiana Jones and the Temple of Doom,Frank Marshall,person at airport,minor,
+Indiana Jones and the Temple of Doom,Kathleen Kennedy,person at airport,minor,
+Indiana Jones and the Temple of Doom,Dan Aykroyd,person at airport,minor,
+Indiana Jones and the Temple of Doom,Tress MacNeille,voice of first slave child in the prison scene,minor,
+Indiana Jones and the Last Crusade,Harrison Ford,Indiana Jones,main,archaeologist professor and adventurer
+Indiana Jones and the Last Crusade,River Phoenix,young Indiana Jones,supporting,
+Indiana Jones and the Last Crusade,Sean Connery,"Henry Jones, Sr.",main,"Indiana's father, a professor of Medieval literature who cared more about looking for the Grail than raising his son"
+Indiana Jones and the Last Crusade,Alex Hyde-White,"young Henry Jones, Sr.",minor,
+Indiana Jones and the Last Crusade,Denholm Elliott,Marcus Brody,main,Indiana's bumbling English colleague
+Indiana Jones and the Last Crusade,Alison Doody,Elsa Schneider,main,"Austrian art professor and Indy's love interest, who is in league with the Nazis"
+Indiana Jones and the Last Crusade,John Rhys-Davies,Sallah,main,friend of Indiana and a professional excavator living in Cairo
+Indiana Jones and the Last Crusade,Julian Glover,Walter Donovan,main,American businessman who sends the Joneses on their quest for the Holy Grail out of a desire for immortality while secretly working with the Nazis
+Indiana Jones and the Last Crusade,Michael Byrne,Ernst Vogel,supporting,brutal SS colonel
+Indiana Jones and the Last Crusade,Kevork Malikyan,Kazim,supporting,leader of the Brotherhood of the Cruciform Sword
+Indiana Jones and the Last Crusade,Robert Eddison,Grail Knight,supporting,guardian of the Grail who drank from the cup of Christ during the Crusades and is immortal as long as he stays within the temple
+Indiana Jones and the Last Crusade,Michael Sheard,Adolf Hitler,minor,a man Jones briefly encounters at the book-burning rally in Berlin
+Indiana Jones and the Last Crusade,Ronald Lacey,Heinrich Himmler,minor,
+Indiana Jones and the Last Crusade,Alexei Sayle,sultan of Hatay,minor,
+Indiana Jones and the Last Crusade,Paul Maxwell,man with the Panama Hat,minor,a man who took possession of the Cross of Coronado
+Indiana Jones and the Last Crusade,Pat Roach,Nazi who accompanies Vogel to the Zeppelin,minor,
+Indiana Jones and the Last Crusade,Richard Young,"Garth / ""Fedora""",minor,leader of the tomb robbers who chased young Indiana Jones and then gives him his hat
+Indiana Jones and the Last Crusade,Eugene Lipinski,G-Man,minor,mysterious agent
+Indiana Jones and the Last Crusade,Vernon Dobtcheff,Butler,minor,
+Dick Tracy,Warren Beatty,Dick Tracy,main,"square-jawed, fast-shooting, hard-hitting, and intelligent police detective sporting a yellow overcoat and fedora"
+Dick Tracy,Al Pacino,"Alphonse ""Big Boy"" Caprice",main,leading crime boss of the city
+Dick Tracy,Madonna,"Breathless ""The Blank"" Mahoney",main,entertainer at Club Ritz who wants to steal Tracy from his girlfriend
+Dick Tracy,Glenne Headly,Tess Trueheart,main,Tracy's girlfriend
+Dick Tracy,Charlie Korsmo,The Kid,main,scrawny street orphan who survives by eating out of garbage cans and is a protege of Steve the Tramp
+Dick Tracy,James Keane,Pat Patton,supporting,Tracy's close associate and second-in-command
+Dick Tracy,Seymour Cassel,Sam Catchem,supporting,Tracy's close associate and third-in-command
+Dick Tracy,Michael J. Pollard,Bug Bailey,supporting,surveillance expert
+Dick Tracy,Charles Durning,Chief Brandon,supporting,chief of police who supports Tracy's crusade
+Dick Tracy,Dick Van Dyke,District Attorney John Fletcher,supporting,corrupt district attorney who refuses to prosecute Caprice as he is on Caprice's payroll
+Dick Tracy,Frank Campanella,Judge Harper,supporting,
+Dick Tracy,Kathy Bates,Stenographer,supporting,
+Dick Tracy,Dustin Hoffman,Mumbles,supporting,Caprice's fast-talking henchman
+Dick Tracy,William Forsythe,Flattop,supporting,"Caprice's top hitman with a square, flat cranium and matching haircut"
+Dick Tracy,Ed O'Ross,Itchy,supporting,Caprice's other hitman
+Dick Tracy,James Tolkan,Numbers,supporting,Caprice's accountant
+Dick Tracy,Mandy Patinkin,88 Keys,supporting,piano player at Club Ritz who becomes The Blank's minion
+Dick Tracy,R. G. Armstrong,Pruneface,supporting,deformed crime boss who becomes one of Caprice's minions
+Dick Tracy,Henry Silva,Influence,supporting,Pruneface's sinister top gunman
+Dick Tracy,Paul Sorvino,Lips Manlis,supporting,original owner of Club Ritz and Caprice's mentor
+Dick Tracy,Chuck Hicks,The Brow,supporting,"criminal with a large, wrinkled forehead"
+Dick Tracy,Neil Summers,Rodent,supporting,"criminal with a pointed nose, small eyes, and buck teeth"
+Dick Tracy,Stig Eldred,Shoulders,supporting,criminal with broad shoulders
+Dick Tracy,Lawrence Steven Meyers,Little Face,supporting,criminal with a big head and a small face
+Dick Tracy,James Caan,Spud Spaldoni,supporting,crime boss who refuses to submit to Caprice
+Dick Tracy,Catherine O'Hara,Texie Garcia,supporting,female criminal who submits to Caprice
+Dick Tracy,Robert Beecher,Ribs Mocca,supporting,criminal who submits to Caprice
+Dick Tracy,Rita Bland,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Lada Boder,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Dee Hengstler,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Liz Imperio,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Michelle Johnston,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Karyne Ortega,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Karen Russell,one of Breathless Mahoney's dancers,minor,
+Dick Tracy,Lew Horn,Lefty Moriarty,minor,
+Dick Tracy,Mike Hagerty,Doorman,minor,
+Dick Tracy,Arthur Malet,Diner Patron,minor,
+Dick Tracy,Bert Remsen,Bartender,minor,
+Dick Tracy,Jack Kehoe,Customer at Raid,minor,
+Dick Tracy,Michael Donovan O'Donnell,McGillicuddy,minor,
+Dick Tracy,Tom Signorelli,Mike,minor,proprietor of the diner Tracy frequents
+Dick Tracy,Jim Wilkey,Stooge,minor,
+Dick Tracy,Mary Woronov,Welfare Person,minor,
+Dick Tracy,Estelle Parsons,Tess Trueheart's mother,minor,
+Dick Tracy,Tony Epper,Steve the Tramp,minor,
+Dick Tracy,Hamilton Camp,store owner,minor,
+Dick Tracy,Bing Russell,Club Ritz patron,minor,
+Dick Tracy,Robert Costanzo,Lips Manlis' bodyguard,minor,
+Dick Tracy,Marshall Bell,goon of Big Boy Caprice,minor,goon who poses as an arresting officer to ensnare Lips
+Dick Tracy,Allen Garfield,reporter,minor,
+Dick Tracy,John Schuck,reporter,minor,
+Dick Tracy,Charles Fleischer,reporter,minor,
+Dick Tracy,Walker Edmiston,voice of radio announcer,minor,
+Dick Tracy,John Moschitta Jr.,voice of radio announcer,minor,
+Dick Tracy,Neil Ross,voice of radio announcer,minor,
+Dick Tracy,Colm Meaney,poiice officer,minor,officer at Tess Trueheart's home
+Dick Tracy,Mike Mazurki,Old Man at Home,minor,
+Dick Tracy,Ian Wolfe,Munger,minor,
+Darkman,Liam Neeson,Dr. Peyton Westlake / Darkman,main,brilliant scientist who was left for dead and burned alive as he returns to seek revenge on those who disfigured him
+Darkman,Frances McDormand,Julie Hastings,main,attorney and Peyton's love interest
+Darkman,Colin Friels,Louis Strack Jr.,main,corrupt and haughty billionaire developer who runs Strack Industries
+Darkman,Larry Drake,Robert G. Durant,main,ruthless and sadistic mob boss who works under the payroll of Strack
+Darkman,Nelson Mashita,"Yakitito ""Yakky"" Yanagito",minor,lab assistant to Peyton Westlake killed by Anderson
+Darkman,Ted Raimi,Rick Anderson,supporting,Robert G. Durant's henchman whose head is run over
+Darkman,Nicholas Worth,Pauly Mazzuchelli,supporting,Robert G. Durant's henchman with a shaved head and a small tattoo of a dagger
+Darkman,Dan Hicks,Skip Altwater,supporting,a man whose left leg is false and is seen during the attack on Darkman's lair while abducting Julie
+Darkman,Jessie Lawrence Ferguson,Eddie Black,supporting,rival crime boss dispatched by Durant
+Darkman,Rafael H. Robledo,Rudy Guzman,minor,collaborator of Durant's who seems to despise Durant
+Darkman,Dan Bell,"Sam ""Smiley"" Rogers",minor,ruthless henchman of Durant's who laughs like a hyena
+Darkman,"Arsenio ""Sonny"" Trinidad",Hung Fat,minor,Chinese Triad boss who owes Durant money
+Darkman,Bridget Hoffman,Computer Voice,minor,
+Darkman,Bruce Campbell,Final Shemp,supporting,"Peyton's last seen disguise looking back over his shoulder at Julie, as he blends into the crowd on a busy street"
+Darkman,Ivan Raimi,hospital staff,minor,
+Darkman,John Landis,hospital staff,minor,
+Darkman,Jenny Agutter,doctor treating Westlake's burns,minor,
+Darkman,Neal McDonough,dockworker,minor,
+Darkman,William Lustig,dockworker,minor,
+Darkman,Scott Spiegel,dockworker,minor,
+Darkman,Stuart Cornfeld,dockworker,minor,
+Darkman,Joel Coen,Oldsmobile driver,minor,
+Darkman,Ethan Coen,Oldsmobile passenger,minor,
+Darkman,Julius Harris,gravedigger,minor,
+Darkman,Professor Toru Tanaka,Hung Fat's Chinese Warrior,minor,
+Darkman,Nathan Jung,Hung Fat's Chinese Warrior,minor,
+The Rocketeer,Billy Campbell,Cliff Secord / The Rocketeer,main,
+The Rocketeer,Jennifer Connelly,Jenny Blake,main,
+The Rocketeer,Alan Arkin,"A. ""Peevy"" Peabody",main,
+The Rocketeer,Timothy Dalton,Neville Sinclair,main,
+The Rocketeer,Terry O'Quinn,Howard Hughes,main,
+The Rocketeer,Ed Lauter,FBI Agent Fitch,supporting,
+The Rocketeer,James Handy,"FBI Agent ""Wooly"" Wolinski",supporting,
+The Rocketeer,Paul Sorvino,Eddie Valentine,supporting,
+The Rocketeer,Jon Polito,Otis Bigelow,supporting,
+The Rocketeer,William Sanderson,Skeets,supporting,
+The Rocketeer,Margo Martindale,Millie,supporting,
+The Rocketeer,John Lavachielli,Rusty,supporting,
+The Rocketeer,Clint Howard,Mark,supporting,
+The Rocketeer,Melora Hardin,South Seas Singer,supporting,
+The Rocketeer,Rick Overton,South Seas Patron,supporting,
+The Rocketeer,Max Grodénchik,Wilmer,minor,
+The Rocketeer,Tiny Ron Taylor,Lothar,supporting,
+The Rocketeer,Eddie Jones,Malcolm,minor,
+The Rocketeer,Don Pugsley,"""Goose""",minor,
+The Rocketeer,Nada Despotovich,Irma,minor,
+The Rocketeer,America Martin,Patsy,minor,
+The Rocketeer,Michael Milhoan,Jeff,minor,
+The Rocketeer,Daniel O'Shea,Mike,minor,
+The Rocketeer,Joe D'Angerio,Stevie,minor,
+The Rocketeer,Tommy J. Huff,Lenny,minor,
+The Rocketeer,Pat Crawford Brown,Mrs. Pye,minor,
+The Rocketeer,Paul DeSouza,Pauly,minor,
+The Rocketeer,Gene Daily,Clark Gable,minor,
+The Rocketeer,Bob Leeman,W.C. Fields,minor,
+The Rocketeer,Julian Barnes,Charlie,minor,
+The Shadow,Alec Baldwin,Lamont Cranston / The Shadow,main,wealthy playboy and former Tibetan drug kingpin that operates as a vigilante
+The Shadow,John Lone,Shiwan Khan,main,descendant of Genghis Khan
+The Shadow,Penelope Ann Miller,Margo Lane,main,socialite that befriends Cranston
+The Shadow,Peter Boyle,"Moses ""Moe"" Shrevnitz",main,taxi cab driver that allies with the Shadow
+The Shadow,Ian McKellen,Dr. Reinhardt Lane,main,scientist who is the father of Margo
+The Shadow,Tim Curry,Farley Claymore,main,scientist and former assistant to Dr. Lane who is allied with Shiwan Khan
+The Shadow,Jonathan Winters,Wainwright Barth,supporting,Lamont’s uncle and a police commissioner
+The Shadow,Sab Shimono,Dr. Roy Tam,supporting,China Town resident who becomes an ally of the Shadow
+The Shadow,Andre Gregory,Burbank,supporting,ally of the Shadow
+The Shadow,James Hong,Li Peng,supporting,servant of the Tulku
+The Shadow,Joseph Maher,Isaac Newboldt,supporting,
+The Shadow,Max Wright,Berger,minor,
+The Shadow,Ethan Phillips,Nelson,minor,
+The Shadow,Abraham Benrubi,Marine guard,minor,
+The Shadow,Steve Hytner,Marine guard,minor,
+The Shadow,Kate McGregor Stewart,Mrs. Shrevnitz,supporting,
+The Shadow,Frank Welker,voice of Phurba,supporting,mystical dagger
+The Shadow,Barry Dennen,voice of Tulku,minor,
+The Phantom,Billy Zane,Kit Walker / Phantom,main,
+The Phantom,Treat Williams,Xander Drax,main,
+The Phantom,Kristy Swanson,Diana Palmer,main,
+The Phantom,Catherine Zeta-Jones,Sala,main,
+The Phantom,James Remar,Quill,main,
+The Phantom,Patrick McGoohan,Mr. Walker / The 20th Phantom,main,
+The Phantom,Radmar Agana Jao,Guran,supporting,
+The Phantom,Robert Coleby,Captain Philip Horton,supporting,
+The Phantom,Cary-Hiroyuki Tagawa,The Great Kabai Sengh,supporting,
+The Phantom,Bill Smitrovich,Dave Palmer,supporting,
+The Phantom,Casey Siemaszko,Morgan,supporting,
+The Phantom,David Proval,Charlie Zephro,supporting,
+The Phantom,Joseph Ragno,Ray Zephro,minor,
+The Phantom,Al Ruscio,Police Commissioner Farley,supporting,
+The Phantom,Samantha Eggar,Lily Palmer,supporting,
+The Phantom,Jon Tenney,Jimmy Wells,supporting,
+The Phantom,John Capodice,Al,supporting,cabby
+The Mask of Zorro,Antonio Banderas,Alejandro Murrieta / Zorro,main,
+The Mask of Zorro,José María de Tavira,young Alejandro Murrieta,minor,
+The Mask of Zorro,Anthony Hopkins,Don Diego de la Vega / Zorro,main,
+The Mask of Zorro,Catherine Zeta-Jones,Elena Montero,main,
+The Mask of Zorro,María Fernández Cruz,infant Elena de la Vega,minor,
+The Mask of Zorro,Mónica Fernández Cruz,infant Elena de la Vega,minor,
+The Mask of Zorro,Stuart Wilson,Don Rafael Montero,main,
+The Mask of Zorro,Matt Letscher,Captain Harrison Love,supporting,
+The Mask of Zorro,Tony Amendola,Don Luiz,supporting,
+The Mask of Zorro,"Pedro Armendáriz, Jr.",Don Pedro,supporting,
+The Mask of Zorro,Victor Rivers,Joaquin Murrieta,supporting,
+The Mask of Zorro,Diego Sieres,young Joaquin Murrieta,minor,
+The Mask of Zorro,William Marquez,Fray Felipe,minor,
+The Mask of Zorro,L. Q. Jones,Three-fingered Jack,minor,
+The Mask of Zorro,Julieta Rosen,Esperanza De La Vega,supporting,Don Diego's beloved wife and Elena's mother
+The Mask of Zorro,Maury Chakin,Prison Warden,minor,
+Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp,Jack Sparrow,main,"eccentric pirate characterized by his slightly drunken swagger, slurred speech and awkwardly flailing hand gestures"
+Pirates of the Caribbean: The Curse of the Black Pearl,Geoffrey Rush,Hector Barbossa,main,captain of the Black Pearl and Captain Jack Sparrow's first mate before he led a mutiny ten years before
+Pirates of the Caribbean: The Curse of the Black Pearl,Orlando Bloom,Will Turner,main,blacksmith's apprentice working in Port Royal
+Pirates of the Caribbean: The Curse of the Black Pearl,Keira Knightley,Elizabeth Swann,main,daughter of Governor Weatherby Swann fascinated with pirates since childhood
+Pirates of the Caribbean: The Curse of the Black Pearl,Jack Davenport,James Norrington,main,officer in the Royal Navy who is in love with Elizabeth and has a deep-seated dislike for pirates
+Pirates of the Caribbean: The Curse of the Black Pearl,Jonathan Pryce,Governor Weatherby Swann,main,"Governor of Jamaica, based in Port Royal, and father of Elizabeth Swann"
+Pirates of the Caribbean: The Curse of the Black Pearl,Kevin R. McNally,Joshamee Gibbs,main,"Jack Sparrow's friend and first mate, once a sailor for the Royal Navy"
+Pirates of the Caribbean: The Curse of the Black Pearl,Lee Arenberg,Pintel,supporting,pirate aboard the Black Pearl
+Pirates of the Caribbean: The Curse of the Black Pearl,Mackenzie Crook,Ragetti,supporting,pirate aboard the Black Pearl with a wooden eye
+Pirates of the Caribbean: The Curse of the Black Pearl,Zoe Saldana,Anamaria,supporting,female pirate who signs up to join Will Turner and Mr. Gibbs for a chance to confront Jack Sparrow for stealing her ship
+Pirates of the Caribbean: The Curse of the Black Pearl,David Bailie,Cotton,supporting,"sailor who had his tongue cut out, is now mute, and has a parrot to talk for him"
+Pirates of the Caribbean: The Curse of the Black Pearl,Martin Klebba,Marty,supporting,dwarf sailor who was hired by Jack and Will to rescue Elizabeth
+Pirates of the Caribbean: The Curse of the Black Pearl,Greg Ellis,Theodore Groves,supporting,Royal Navy officer who works under the command of Commodore James Norrington
+The Legend of Zorro,Antonio Banderas,Don Alejandro de la Vega / Zorro,main,
+The Legend of Zorro,Catherine Zeta-Jones,Eléna de la Vega,main,
+The Legend of Zorro,Rufus Sewell,Count Armand,main,
+The Legend of Zorro,Nick Chinlund,Jacob McGivens,main,
+The Legend of Zorro,Adrián Alonso,Joaquin de la Vega,supporting,Alejandro and Eléna's son
+The Legend of Zorro,Julio Oscar Mechoso,Padre Felipe,supporting,
+The Legend of Zorro,Shuler Hensley,Pike,supporting,
+The Legend of Zorro,Michael Emerson,Harrigan,supporting,
+The Legend of Zorro,Leo Burmester,Colonel Beauregard,supporting,
+The Legend of Zorro,Tony Amendola,Padre Quintero,supporting,
+The Legend of Zorro,"Pedro Armendáriz, Jr.",Governor Riley,supporting,
+The Legend of Zorro,Giovanna Zacarias,Blanca Cortez,minor,
+The Legend of Zorro,Raúl Méndez,Ferroq,supporting,
+The Legend of Zorro,Alberto Reyes,Padre Ignacio,minor,
+Pirates of the Caribbean: Dead Man's Chest,Johnny Depp,Captain Jack Sparrow,main,Captain of the Black Pearl
+Pirates of the Caribbean: Dead Man's Chest,Orlando Bloom,Will Turner,main,blacksmith-turned-pirate who strikes a deal with Cutler Beckett to find Jack Sparrow and his compass so he can save both himself and his fiancée Elizabeth from execution
+Pirates of the Caribbean: Dead Man's Chest,Keira Knightley,Elizabeth Swann,main,"Governor Swann's daughter and Will's fiancée, who is arrested on her wedding day for helping Captain Jack Sparrow escape"
+Pirates of the Caribbean: Dead Man's Chest,Bill Nighy,Davy Jones,main,Captain of the Flying Dutchman
+Pirates of the Caribbean: Dead Man's Chest,Jack Davenport,James Norrington,main,former Commodore who joins the Black Pearl's crew and seeks to regain his honor and career
+Pirates of the Caribbean: Dead Man's Chest,Tom Hollander,Lord Cutler Beckett,main,Chairman of the East India Trading Company
+Pirates of the Caribbean: Dead Man's Chest,Stellan Skarsgård,"""Bootstrap Bill"" Turner",main,crewman aboard the Flying Dutchman who happens to be Will Turner's father
+Pirates of the Caribbean: Dead Man's Chest,Kevin McNally,Joshamee Gibbs,main,the Black Pearl's first mate and Jack Sparrow's loyal friend
+Pirates of the Caribbean: Dead Man's Chest,Jonathan Pryce,Governor Weatherby Swann,main,Elizabeth's father and governor of Port Royal
+Pirates of the Caribbean: Dead Man's Chest,Lee Arenberg,Pintel,supporting,pirate who was imprisoned after the Aztec curse was broken but rejoined Jack's Black Sparrow crew
+Pirates of the Caribbean: Dead Man's Chest,Mackenzie Crook,Ragetti,supporting,Pintel's inseparable crewmate with a wooden eye who has begun reading the Bible
+Pirates of the Caribbean: Dead Man's Chest,Naomie Harris,Tia Dalma,supporting,obeah priestess who Jack Sparrow bartered with for his magic compass
+Pirates of the Caribbean: Dead Man's Chest,Geoffrey Rush,Hector Barbossa,supporting,pirate resurrected by Tia Dalma to save Jack Sparrow from Davy Jones's locker
+Pirates of the Caribbean: At World's End,Johnny Depp,Captain Jack Sparrow,main,pirate dragged to Davy Jones' Locker by the Kraken and Pirate Lord of the Caribbean Sea
+Pirates of the Caribbean: At World's End,Geoffrey Rush,Hector Barbossa,main,resurrected Pirate Lord of the Caspian Sea
+Pirates of the Caribbean: At World's End,Orlando Bloom,Will Turner,main,blacksmith-turned-pirate
+Pirates of the Caribbean: At World's End,Keira Knightley,Elizabeth Swann,main,"Governor Swann's daughter, Will Turner's fiancée, Captain of The Empress, and Pirate Lord of the South China Sea"
+Pirates of the Caribbean: At World's End,Bill Nighy,Davy Jones,main,"malevolent ruler of the ocean realm, Captain of The Flying Dutchman who now serves the East India Trading Company"
+Pirates of the Caribbean: At World's End,Tom Hollander,Cutler Beckett,main,powerful chairman of the East India Trading Company and now armed with a mandate from the King and in possession of Davy Jones' heart
+Pirates of the Caribbean: At World's End,Kevin R. McNally,Joshamee Gibbs,main,"Jack's loyal, if superstitious, first mate"
+Pirates of the Caribbean: At World's End,Jack Davenport,James Norrington,main,"admiral who has allied himself with Beckett and the Company, although he still cares for Elizabeth"
+Pirates of the Caribbean: At World's End,Jonathan Pryce,Weatherby Swann,main,"Governor of Port Royal and father to Elizabeth Swann, now trapped in Beckett's service"
+Pirates of the Caribbean: At World's End,Naomie Harris,Tia Dalma / Calypso,main,obeah witch who travels with the Black Pearl crew to rescue Jack
+Pirates of the Caribbean: At World's End,Lee Arenberg,Pintel,supporting,member of Jack's crew
+Pirates of the Caribbean: At World's End,Mackenzie Crook,Ragetti,supporting,member of Jack's crew
+Pirates of the Caribbean: At World's End,Stellan Skarsgård,Bootstrap Bill Turner,main,"Will's father, cursed to serve an eternity aboard Davy Jones' ship The Flying Dutchman"
+Pirates of the Caribbean: At World's End,Chow Yun-fat,Sao Feng,main,"Pirate Lord of the South China Sea, who captains the Chinese ship The Empress and has a poor history with Sparrow"
+Pirates of the Caribbean: At World's End,David Bailie,Cotton,supporting,Jack's loyal mute crewman
+Pirates of the Caribbean: At World's End,Martin Klebba,Marty,supporting,Jack's loyal dwarf crewman
+Pirates of the Caribbean: At World's End,David Schofield,Mr. Mercer,supporting,"Lord Beckett's henchman, assigned to hold Davy Jones' leash aboard the Dutchman"
+Pirates of the Caribbean: At World's End,Keith Richards,Edward Teague,supporting,"Pirate Lord of Madagascar, Keeper of the Pirata Codex for the Brethren Court and Jack Sparrow's father"
+Pirates of the Caribbean: At World's End,Greg Ellis,Theodore Groves,supporting,second-in-command to Lord Beckett
+Pirates of the Caribbean: At World's End,Lauren Maher,Scarlett,minor,
+Pirates of the Caribbean: At World's End,Vanessa Branch,Giselle,minor,
+Pirates of the Caribbean: At World's End,Angus Barnett,Mullroy,minor,
+Pirates of the Caribbean: At World's End,Giles New,Murtogg,minor,
+Pirates of the Caribbean: At World's End,Reggie Lee,Tai Huang,minor,
+Pirates of the Caribbean: At World's End,Ghassan Massoud,Captain Ammand,minor,Pirate Lord of the Black Sea
+Pirates of the Caribbean: At World's End,Marcel Iureș,Capitaine Chevalle,minor,Pirate Lord of the Mediterranean Sea
+Pirates of the Caribbean: At World's End,Sergio Calderón,Captain Eduardo Villanueva,minor,Pirate Lord of the Adriatic Sea
+Pirates of the Caribbean: At World's End,Takayo Fischer,Mistress Ching,minor,Pirate Lord of the Pacific Ocean
+Pirates of the Caribbean: At World's End,Hakeem Kae-Kazim,Captain Jocard,minor,Pirate Lord of the Atlantic Ocean
+Pirates of the Caribbean: At World's End,Marshall Manesh,Sri Sumbhajee Angria,minor,Pirate Lord of the Indian Ocean
+Pirates of the Caribbean: At World's End,Dominic Scott Kay,Henry Turner,minor,son of Will Turner and Elizabeth Swann
+Indiana Jones and the Kingdom of the Crystal Skull,Harrison Ford,Indiana Jones,main,
+Indiana Jones and the Kingdom of the Crystal Skull,Cate Blanchett,Irina Spalko,main,villainous Soviet agent
+Indiana Jones and the Kingdom of the Crystal Skull,Karen Allen,Marion Ravenwood/Williams,main,
+Indiana Jones and the Kingdom of the Crystal Skull,Ray Winstone,George 'Mac' MicHale,main,"British agent whom Jones worked alongside in World War II, but has now allied with the Russians due to his financial problems"
+Indiana Jones and the Kingdom of the Crystal Skull,John Hurt,Harold 'Ox' Oxley,main,"Mutt's surrogate father and an old friend of Indiana, whom he lost contact with in 1937 and who went insane"
+Indiana Jones and the Kingdom of the Crystal Skull,Jim Broadbent,Dean Charles Stanforth,main,Dean of Marshall College and friend of Jones
+Indiana Jones and the Kingdom of the Crystal Skull,Shia LaBeouf,Mutt Williams,main,motorcycle-riding greaser and Indiana's sidekick and son
+Indiana Jones and the Kingdom of the Crystal Skull,Igor Jijikine,Colonel Antonin Dovchenko,supporting,Spalko's Russian second-in-command
+Indiana Jones and the Kingdom of the Crystal Skull,Joel Stoffer,Taylor,supporting,FBI agent
+Indiana Jones and the Kingdom of the Crystal Skull,Neil Flynn,Paul Smith,supporting,FBI agent
+Indiana Jones and the Kingdom of the Crystal Skull,Alan Dale,General Ross,supporting,man who protests Indiana's innocence
+Indiana Jones and the Kingdom of the Crystal Skull,Andrew Divoff,Grant,supporting,Soviet agent
+Indiana Jones and the Kingdom of the Crystal Skull,Pasha D. Lychnikoff,Roosevelt,supporting,Soviet agent
+Indiana Jones and the Kingdom of the Crystal Skull,Ilia Volok,Russian Suit,minor,man who battles Indiana at Marshall College
+Indiana Jones and the Kingdom of the Crystal Skull,Dimitri Diatchenko,Dimitri,minor,Spalko's right-hand man who battles Indiana at Marshall College
+Indiana Jones and the Kingdom of the Crystal Skull,Ernie Reyes Jr.,cemetary guard,minor,
+Indiana Jones and the Kingdom of the Crystal Skull,Chet Hanks,student in library,minor,
+Pirates of the Caribbean: On Stranger Tides,Johnny Depp,Captain Jack Sparrow,main,former captain of the Black Pearl
+Pirates of the Caribbean: On Stranger Tides,Penélope Cruz,Angelica,main,"Jack's former love interest, and daughter of Blackbeard"
+Pirates of the Caribbean: On Stranger Tides,Ian McShane,Blackbeard,main,"legendary pirate, and captain of the Queen Anne's Revenge"
+Pirates of the Caribbean: On Stranger Tides,Geoffrey Rush,Captain Hector Barbossa,main,"Jack's former-rival-turned-ally, and former captain of the Black Pearl"
+Pirates of the Caribbean: On Stranger Tides,Kevin McNally,Joshamee Gibbs,main,Jack's friend and former first mate
+Pirates of the Caribbean: On Stranger Tides,Sam Claflin,Philip Swift,main,"missionary, kept prisoner aboard Blackbeard's ship"
+Pirates of the Caribbean: On Stranger Tides,Àstrid Bergès-Frisbey,Syrena,supporting,"mermaid captured by Blackbeard, and love interest of Swift"
+Pirates of the Caribbean: On Stranger Tides,Stephen Graham,Scrum,supporting,self-serving member of Blackbeard's crew
+Pirates of the Caribbean: On Stranger Tides,Richard Griffiths,King George II,supporting,
+Pirates of the Caribbean: On Stranger Tides,Greg Ellis,Lt. Cmdr. Theodore Groves,supporting,Barbossa's second-in-command
+Pirates of the Caribbean: On Stranger Tides,Óscar Jaenada,The Spaniard,supporting,King Ferdinand's most trusted agent
+Pirates of the Caribbean: On Stranger Tides,Keith Richards,Captain Edward Teague,supporting,Jack Sparrow's father
+The Lone Ranger,Armie Hammer,John Reid / Lone Ranger,main,"youthful, scrupulous lawyer later deputized a Texas Ranger, who protects his identity as a masked vigilante"
+The Lone Ranger,Johnny Depp,Tonto,main,aged narrator of the events of his life as a Comanche who recruited John Reid to bring justice to those responsible for massacring his tribe during his childhood
+The Lone Ranger,William Fichtner,Butch Cavendish,main,ruthless and cannibalistic outlaw
+The Lone Ranger,Travis Hammer,young Butch Cavendish,minor,
+The Lone Ranger,Tom Wilkinson,Latham Cole,main,burly and unscrupulous railroad tycoon
+The Lone Ranger,Steve Corona,young Latham Cole,minor,
+The Lone Ranger,Ruth Wilson,Rebecca Reid,main,Dan's wife (later widow) and John's love interest / sister-in-law
+The Lone Ranger,Helena Bonham Carter,Red Harrington,main,vory-legged brothel madam who assists Reid and Tonto
+The Lone Ranger,James Badge Dale,Dan Reid,main,John's older brother who is killed by Cavendish
+The Lone Ranger,Bryant Prince,"Daniel ""Danny"" Reid Junior",supporting,"son of Dan Senior and Rebecca, and the nephew of John"
+The Lone Ranger,Barry Pepper,Captain Jay Fuller,main,insecure and inexperienced United States Cavalry officer on Cole's payroll
+The Lone Ranger,Mason Cook,Will,supporting,young boy living in 1930s San Francisco
+The Lone Ranger,Saginaw Grant,Chief Big Bear,supporting,leader of the Comanche
+The Lone Ranger,Harry Treadaway,Frank,supporting,member of Butch's gang who enjoys women's clothing
+The Lone Ranger,Lew Temple,Hollis,supporting,Deputy Ranger
+The Lone Ranger,Leon Rippy,Collins,supporting,traitorous Deputy Ranger secretly working with Butch
+The Lone Ranger,Stephen Root,Habberman,supporting,president of the Transcontinental Railroad Company
+The Lone Ranger,James Frain,Barret,supporting,one of Cole's industry foremen
+The Lone Ranger,Damon Herriman,Ray,supporting,member of Butch's gang
+The Lone Ranger,Joaquín Cosio,Jesus,supporting,member of Butch's gang
+Pirates of the Caribbean: Dead Men Tell No Tales,Johnny Depp,Captain Jack Sparrow,main,former Captain of the Black Pearl who travels with Henry and Carina in search of the Trident of Poseidon
+Pirates of the Caribbean: Dead Men Tell No Tales,Anthony De La Torre,young Jack Sparrow,minor,
+Pirates of the Caribbean: Dead Men Tell No Tales,Javier Bardem,Captain Armando Salazar,main,undead Captain of the Silent Mary who seeks revenge on Jack Sparrow and attempts to steal the Trident of Poseidon to kill every pirate at sea
+Pirates of the Caribbean: Dead Men Tell No Tales,Geoffrey Rush,Captain Hector Barbossa,main,Sparrow's rival and the Captain of the Queen Anne's Revenge
+Pirates of the Caribbean: Dead Men Tell No Tales,Brenton Thwaites,Henry Turner,main,son of Will Turner and Elizabeth Swann who vows to break his father's curse by searching for the Trident
+Pirates of the Caribbean: Dead Men Tell No Tales,Lewis McGowan,young Henry Turner,minor,
+Pirates of the Caribbean: Dead Men Tell No Tales,Kaya Scodelario,Carina Smyth Barbossa,main,"headstrong, altruistic astronomer who was wrongly accused of being a witch"
+Pirates of the Caribbean: Dead Men Tell No Tales,Kevin McNally,Joshamee Gibbs,main,Captain Jack's loyal friend and first mate
+Pirates of the Caribbean: Dead Men Tell No Tales,David Wenham,Lieutenant John Scarfield,supporting,"Royal Navy officer, who commands HMS Essex"
+Pirates of the Caribbean: Dead Men Tell No Tales,Golshifteh Farahani,Shansa,supporting,sea witch
+Pirates of the Caribbean: Dead Men Tell No Tales,Stephen Graham,Scrum,supporting,member of the pirate crew
+Pirates of the Caribbean: Dead Men Tell No Tales,Martin Klebba,Marty,supporting,member of the pirate crew
+Pirates of the Caribbean: Dead Men Tell No Tales,Giles New,Murtogg,supporting,member of the pirate crew
+Pirates of the Caribbean: Dead Men Tell No Tales,Angus Barnett,Mullroy,supporting,member of the pirate crew
+Pirates of the Caribbean: Dead Men Tell No Tales,Orlando Bloom,Will Turner,minor,blacksmith-turned-pirate who was transformed into the Captain of the Flying Dutchman
+Pirates of the Caribbean: Dead Men Tell No Tales,Keira Knightley,Elizabeth Swann,minor,Will's wife and Henry's mother
+Pirates of the Caribbean: Dead Men Tell No Tales,Adam Brown,member of Jack's crew,minor,
+Pirates of the Caribbean: Dead Men Tell No Tales,Danny Kirrane,member of Jack's crew,minor,
+Pirates of the Caribbean: Dead Men Tell No Tales,Delroy Atkinson,member of Jack's crew,minor,
+Pirates of the Caribbean: Dead Men Tell No Tales,Paul McCartney,Uncle Jack,supporting,Jack's paternal uncle
+Jurassic Park,Sam Neill,Dr. Alan Grant,main,
+Jurassic Park,Laura Dern,Dr. Ellie Sattler,main,
+Jurassic Park,Jeff Goldblum,Dr. Ian Malcolm,main,
+Jurassic Park,Richard Attenborough,Dr. John Hammond,main,
+Jurassic Park,Bob Peck,Robert Muldoon,main,
+Jurassic Park,Joseph Mazzello,Tim Murphy,main,
+Jurassic Park,Ariana Richards,Lex Murphy,main,
+Jurassic Park,Samuel L. Jackson,Ray Arnold,main,
+Jurassic Park,Wayne Knight,Dennis Nedry,main,
+Jurassic Park,Martin Ferrero,Donald Gennaro,main,
+Jurassic Park,B.D. Wong,Dr. Henry Wu,main,
+Jurassic Park,Jerry Molen,Dr. Harding,supporting,
+Jurassic Park,Miguel Sandoval,Juanito Rostagno,supporting,
+Jurassic Park,Cameron Thor,Dr. Lewis Dodgson,supporting,
+Jurassic Park,Greg Burson,voice of Mr. DNA,supporting,
+Jurassic Park,Whit Hertford,volunteer boy,minor,
+Jurassic Park,Richard Kiley,voice of Jurassic Park tour vehicle guide,supporting,
+The Lost World: Jurassic Park,Jeff Goldblum,Dr. Ian Malcolm,main,mathematician and chaos theorist
+The Lost World: Jurassic Park,Julianne Moore,Dr. Sarah Harding,main,Malcolm's girlfriend and a behavioral paleontologist
+The Lost World: Jurassic Park,Pete Postlethwaite,Roland Tembo,main,big-game hunter who adheres to his own strict moral code
+The Lost World: Jurassic Park,Arliss Howard,Peter Ludlow,main,Hammond's nephew who has been appointed CEO of InGen
+The Lost World: Jurassic Park,Richard Attenborough,Dr. John Hammond,main,former CEO of InGen who takes steps to redeem himself and preserve Isla Sorna
+The Lost World: Jurassic Park,Vince Vaughn,Nick Van Owen,supporting,"experienced documentarian, photojournalist and environmentalist"
+The Lost World: Jurassic Park,Vanessa Lee Chester,Kelly Curtis,supporting,Malcolm's daughter who stows away in the support trailer to be with him
+The Lost World: Jurassic Park,Peter Stormare,Dieter Stark,supporting,second-in-command of the InGen group under the control of Roland Tembo
+The Lost World: Jurassic Park,Harvey Jason,Ajay Sidhu,supporting,Roland Tembo's hunting partner
+The Lost World: Jurassic Park,Richard Schiff,Eddie Carr,supporting,field equipment expert
+The Lost World: Jurassic Park,Thomas F. Duffy,Dr. Robert Burke,supporting,the InGen hunters' paleontologist
+The Lost World: Jurassic Park,Joseph Mazzello,Tim Murphy,supporting,Lex's younger brother and Hammond's grandson
+The Lost World: Jurassic Park,Ariana Richards,Lex Murphy,supporting,Tim's older sister and Hammond's granddaughter
+The Lost World: Jurassic Park,Camilla Belle,Cathy Bowman,supporting,daughter of a wealthy family that stumbles upon Isla Sorna
+Jurassic Park III,Sam Neill,Dr. Alan Grant,main,paleontologist
+Jurassic Park III,William H. Macy,Paul Kirby,main,businessman
+Jurassic Park III,Téa Leoni,Amanda Kirby,main,Paul's former wife
+Jurassic Park III,Alessandro Nivola,Billy Brennan,main,Dr. Grant's assistant
+Jurassic Park III,Trevor Morgan,Eric Kirby,main,Paul and Amanda's son
+Jurassic Park III,Michael Jeter,Udesky,main,the Kirbys' mercenary associate
+Jurassic Park III,John Diehl,Cooper,supporting,the Kirbys' secondary mercenary associate
+Jurassic Park III,Bruce A. Young,Nash,supporting,pilot of the group's airplane
+Jurassic Park III,Laura Dern,Ellie,supporting,Grant's friend and wife of Mark
+Jurassic Park III,Taylor Nichols,Mark,supporting,Ellie's husband who works for the State Department
+Jurassic Park III,Mark Harelik,Ben Hildebrand,supporting,Amanda's friend who goes parasailing with Eric
+Jurassic Park III,Julio Oscar Mechoso,Enrique Cardoso,supporting,parasailing operator
+Jurassic Park III,Blake Bryan,Charlie,supporting,Mark and Ellie's son
+Jurassic World,Chris Pratt,Owen Grady,main,"Navy veteran and ethologist, and a Velociraptor expert and handler at Jurassic World"
+Jurassic World,Bryce Dallas Howard,Claire Dearing,main,Jurassic World operations manager and aunt to Zach and Gray Mitchell
+Jurassic World,Vincent D'Onofrio,Vic Hoskins,main,"head of InGen's security operations, who wants to use the Velociraptors as military animals"
+Jurassic World,Ty Simpkins,Gray Mitchell,main,one of Claire's nephews and the younger brother of Zach
+Jurassic World,Nick Robinson,Zach Mitchell,main,one of Claire's nephews and the older brother of Gray
+Jurassic World,Omar Sy,Barry,main,Owen's assistant who helps care for the raptors
+Jurassic World,BD Wong,Dr. Henry Wu,main,geneticist who heads the team that created the dinosaurs for Jurassic World and has an alliance with Hoskins
+Jurassic World,Irrfan Khan,Simon Masrani,main,CEO of the Masrani Corporation and the owner of Jurassic World
+Jurassic World,Jake Johnson,Lowery Cruthers,supporting,employee in the park's control room
+Jurassic World,Lauren Lapkus,Vivian,supporting,employee in the park's control room
+Jurassic World,Brian Tee,Hamada,supporting,"leader of the ACU (Asset Containment Unit), a group of security guards installed on Isla Nublar"
+Jurassic World,Katie McGrath,Zara,supporting,Claire's personal assistant
+Jurassic World,Judy Greer,Karen Mitchell,supporting,Claire's sister and mother of Zach and Gray
+Jurassic World,Andy Buckley,Scott Mitchell,supporting,Karen's husband and father of Zach and Gray
+Jurassic World: Fallen Kingdom,Chris Pratt,Owen Grady,main,"Navy veteran and ethologist, and former Velociraptor handler for Jurassic World"
+Jurassic World: Fallen Kingdom,Bryce Dallas Howard,Claire Dearing,main,"Jurassic World's former operations manager, now a dinosaur-rights activist, who has founded the Dinosaur Protection Group to save Isla Nublar's surviving dinosaurs"
+Jurassic World: Fallen Kingdom,Rafe Spall,Eli Mills,main,Lockwood's ambitious assistant who recruits Owen and Claire to rescue the dinosaurs
+Jurassic World: Fallen Kingdom,Justice Smith,Franklin Webb,main,former IT technician for Jurassic World who is now the Dinosaur Protection Group's systems analyst and hacker
+Jurassic World: Fallen Kingdom,Daniella Pineda,Zia Rodriguez,main,former Marine who is now the Dinosaur Protection Grouop's paleoveterinarian
+Jurassic World: Fallen Kingdom,James Cromwell,Sir Benjamin Lockwood,main,Dr. John Hammond's former partner in developing the technology to clone dinosaurs
+Jurassic World: Fallen Kingdom,Toby Jones,Mr. Eversoll,main,auctioneer host at Lockwood Estate who sells the Isla Nublar dinosaurs for profit
+Jurassic World: Fallen Kingdom,Ted Levine,Ken Wheatley,main,seasoned mercenary who commands the rescue operation on Isla Nublar
+Jurassic World: Fallen Kingdom,BD Wong,Dr. Henry Wu,main,former head geneticist of both Jurassic World and the original Jurassic Park.
+Jurassic World: Fallen Kingdom,Isabella Sermon,Maisie Lockwood,supporting,Lockwood's young granddaughter and legal ward following her parents' deaths
+Jurassic World: Fallen Kingdom,Geraldine Chaplin,Iris,supporting,"Lockwood Estate housekeeper, Maisie's nanny, and protector of the Lockwood family secrets"
+Jurassic World: Fallen Kingdom,Jeff Goldblum,Dr. Ian Malcolm,main,expert in chaos theory who once consulted for InGen's Jurassic Park and was a key figure involved in the 1997 San Diego incident
+Jurassic World: Fallen Kingdom,Peter Jason,Senator Sherwood,supporting,American politician who debates about saving the dinosaurs before the volcano erupts
+Alien,Tom Skerritt,Dallas,main,captain of the Nostromo
+Alien,Sigourney Weaver,Ripley,main,warrant officer aboard the Nostromo
+Alien,Veronica Cartwright,Lambert,supporting,the Nostromo's navigator
+Alien,Harry Dean Stanton,Brett,main,engineering technician
+Alien,John Hurt,Kane,main,executive officer who becomes the host for the Alien
+Alien,Ian Holm,Ash,main,the ship's science officer who is revealed to be an android
+Alien,Yaphet Kotto,Parker,supporting,chhief engineer
+Alien,Bolaji Badejo,the Alien,supporting,
+Alien,Eddie Powell,the Alien,minor,
+Alien,Roy Scammell,the Alien,minor,
+Alien,Helen Horton,voice of Mother,supporting,the Nostromo's computer
+Aliens,Sigourney Weaver,Ellen Ripley,main,"sole survivor of an alien attack on her ship, the Nostromo"
+Aliens,Michael Biehn,Dwayne Hicks,main,corporal in the Colonial Marines
+Aliens,Paul Reiser,Carter J. Burke,main,Weyland-Yutani Corporation representative
+Aliens,Lance Henriksen,Bishop,main,android aboard the Sulaco
+Aliens,Carrie Henn,"Rebecca ""Newt"" Jorden",main,young girl in the Hadleys Hope colony on LV-426
+Aliens,Bill Paxton,Hudson,main,Colonial Marine private
+Aliens,Jenette Goldstein,Vasquez,supporting,Colonial Marine private
+Aliens,Mark Rolston,Drake,supporting,Colonial Marine private
+Aliens,Ricco Ross,Frost,supporting,Colonial Marine private
+Aliens,Daniel Kash,Spunkmeyer,supporting,Colonial Marine private
+Aliens,Tip Tipping,Crowe,supporting,Colonial Marine private
+Aliens,Trevor Steedman,Wierzbowski,supporting,Colonial Marine private
+Aliens,Cynthia Dale Scott,Dietrich,supporting,Colonial Marine corporal
+Aliens,Colette Hiller,Ferro,supporting,Colonial Marine corporal
+Aliens,Al Matthews,Sergeant Apone,supporting,
+Aliens,William Hope,Gorman,supporting,the Marines' inexperienced commanding officer
+Aliens,Paul Maxwell,Van Leuwen,minor,member of the board reviewing Ripley's competence
+Aliens,Barbara Coles,cocooned colonist,minor,colonist killed when an alien bursts from her chest
+Aliens,Carl Toop,alien warrior,minor,
+Predator,Arnold Schwarzenegger,"Major Alan ""Dutch"" Schaefer",main,
+Predator,Carl Weathers,Al Dillon,main,"Dutch's Vietnam War buddy, now a CIA operative"
+Predator,Elpidia Carrillo,Anna Gonsalves,supporting,insurgent
+Predator,Bill Duke,Sergeant Mac Eliot,supporting,Blain's friend and a machine gunner
+Predator,Richard Chaves,"Jorge ""Poncho"" Ramírez",supporting,explosives expert
+Predator,Jesse Ventura,Blain Cooper,supporting,"heavy-gunner who uses a minigun dubbed ""Ol' Painless"""
+Predator,Sonny Landham,Billy Sole,supporting,tracker and scout
+Predator,Shane Black,Rick Hawkins,supporting,radio operator
+Predator,R.G. Armstrong,Major General Homer Philips,supporting,
+Predator,Kevin Peter Hall,The Predator / Helicopter Pilot,supporting,
+Predator,Peter Cullen,the Predator's voice,supporting,
+Predator,Sven-Ole Thorsen,Soviet Military Adviser,supporting,
+Predator 2,Danny Glover,Lieutenant Mike Harrigan,main,LAPD Officer investigating rival Jamaican and Colombian drug cartels who is stubborn and often criticized by the superior officers for not obeying orders
+Predator 2,Kevin Peter Hall,City Hunter / The Predator / Elder Predator,supporting,"member of an alien warrior race which hunts aggressive members of other species for sport, uses active camouflage and a plasma weapon, and can see in the infrared spectrum"
+Predator 2,Hal Rayle,voice of the Predator,supporting,
+Predator 2,Gary Busey,Special Agent Peter Keyes,main,man posed as a DEA agent leading a special task force investigating a drug conspiracy as a cover for his attempts to capture the Predator
+Predator 2,Ruben Blades,Detective Danny Archuleta,supporting,member of Harrigan's team and a long-time friend of his
+Predator 2,María Conchita Alonso,Detective Leona Cantrell,supporting,LAPD cop involved in the Jamaican-Colombian gang wars
+Predator 2,Bill Paxton,Detective Jerry Lambert,supporting,"LAPD cop, transferred from another precinct into Metro Command"
+Predator 2,Lilyan Chauvin,Dr. Irene Edwards,supporting,"chief medical examiner and forensic pathologist of Los Angeles who aids Harrigan, in spite of being completely cut out of the official investigation by Keyes' team"
+Predator 2,Robert Davi,Deputy Chief Phil Heinemann,supporting,
+Predator 2,Adam Baldwin,Agent Adam Garber,supporting,member of Keyes' task force
+Predator 2,Kent McCord,Captain Brent Pilgrim,supporting,LAPD cop and Harrigan's immediate boss
+Predator 2,Steve Kahan,Sergeant Neil Reeger,minor,LAPD SWAT Sergeant
+Predator 2,Henry Kingi,"""El Scorpio""",minor,violent member of the Colombian Scorpions
+Predator 2,Morton Downey Jr.,Tony Pope,minor,journalist who reports the gruesome and murderous homicides left by the Predator. He is constantly criticized by the police for interfering with investigations
+Predator 2,Calvin Lockhart,"Willie ""King Willie""",minor,"boss of the Jamaica Voodoo Posse, who appears to be psychic because of his voodoo beliefs"
+Predator 2,Sylvia Kauders,Ruth Albright,minor,elderly lady
+Predator 2,"Billy ""Sly"" Williams",Jackson,minor,paramedic
+Predator 2,Jsu Garcia,Dvorkin,minor,LAPD detective
+Predator 2,Michael Wiseman,Zinck,minor,LAPD officer
+Predator 2,Teri Weigel,Mary,minor,Ramon Vega's Colombian mistress
+Predator 2,Thomas Rosales Jr.,El Scorpio Gang Member,minor,
+Predator 2,Michael Papajohn,gang member in subway,supporting,
+Predator 2,Casey Sander,OWLFP member,minor,
+Predator 2,Pat Skipper,OWLFP member,minor,
+Predator 2,Jim Ishida,reporter,minor,
+Predator 2,Elpidia Carrillo,Anna Gonsalves,supporting,"woman aiding government agents in a videotape, showing the devastating after-effects of the first Predator's self-destruct device to the U.S. Army"
+Alien 3,Sigourney Weaver,Ellen Ripley,main,woman who crash-lands on Fiorina 161 and is once again burdened with the task of destroying another of the alien creatures
+Alien 3,Charles S. Dutton,Leonard Dillon,main,one of Fiorina's inmates who functions as the spiritual and de facto leader amongst the prisoners and attempts to keep the peace in the facility
+Alien 3,Charles Dance,Jonathan Clemens,main,former inmate who now serves as the facility's doctor and treats Ripley after her escape pod crashes
+Alien 3,Brian Glover,Harold Andrews,supporting,prison warden who believes Ripley's presence will cause disruption amongst the inmates and attempts to control the rumors surrounding her and the creature
+Alien 3,Ralph Brown,Francis Aaron,supporting,"assistant of Superintendent Andrews whom prisoners refer to as ""85"" for his IQ score, which annoys him"
+Alien 3,Paul McGann,Walter Golic,supporting,"mass-murderer and outcast amongst the prison population, who becomes very disturbed after being assaulted by the Alien"
+Alien 3,Danny Webb,Robert Morse,supporting,"acerbic, self-centered, and cynical prisoner who is only survivor of the entire incident"
+Alien 3,Lance Henriksen,"voice of the damaged Bishop android, / Bishop II",supporting,"human designer of the android, who wants the Alien Queen that was growing inside Ripley for use in Weyland-Yutani's bioweapons division"
+Alien 3,Tom Woodruff Jr.,"Alien / ""Dragon""",supporting,
+Alien 3,Pete Postlethwaite,David Postlethwaite,supporting,inmate smarter than most who is killed by the Alien in the bait-and-chase sequence
+Alien 3,Holt McCallany,Junior,supporting,leader of inmates who attempt to rape Ripley with a tattoo of a tear drop underneath his right eye
+Alien 3,Peter Guinness,Peter Gregor,supporting,"one of the inmates who attempts to rape Ripley, who is bitten in the neck and killed by the Alien during the bait-and-chase sequence"
+Alien 3,Danielle Edmond,"Rebecca ""Newt"" Jorden",minor,child Ripley forms a maternal bond with in the previous film who briefly returns as a corpse being autopsied
+Alien 3,Christopher Fairbank,Thomas Murphy,minor,
+Alien 3,Phil Davis,Kevin Dodd,minor,
+Alien 3,Vincenzo Nicoli,Alan Jude,minor,
+Alien 3,Leon Herbert,Edward Boggs,minor,
+Alien 3,Christopher John Fields,Daniel Rains,minor,
+Alien 3,Niall Buggy,Eric Buggy,minor,
+Alien 3,Hi Ching,Company Man,minor,
+Alien 3,Carl Chase,Frank Ellis,minor,
+Alien 3,Clive Mantle,Clive William,minor,
+Alien 3,DeObia Oparei,Arthur Walkingstick,minor,
+Alien 3,Paul Brennen,Yoshi Troy,minor,
+Alien Resurrection,Sigourney Weaver,Ellen Ripley / failed seventh clone,main,"clone affected by the Alien Queen's DNA who has enhanced strength and reflexes, acidic blood, and can sense the presence of the Aliens"
+Alien Resurrection,Nicole Fellows,young Ellen Ripley,minor,
+Alien Resurrection,Winona Ryder,Annalee Call,main,synthetic and newest crew member of the Betty
+Alien Resurrection,Dominique Pinon,Dom Vriess,supporting,the Betty's mechanic and a paraplegic with a motorized wheelchair who shares a close friendship with Call and an antagonistic relationship with Johner
+Alien Resurrection,Ron Perlman,Ron Johner,main,"mercenary and member of the Betty's crew who makes bad jokes, has a short temper, and teases Vriess about his handicap"
+Alien Resurrection,Gary Dourdan,Gary Christie,supporting,first mate and second-in-command of the Betty
+Alien Resurrection,Michael Wincott,Frank Elgyn,supporting,captain of the mercenary ship Betty who brings the Betty to the Auriga to sell kidnapped humans in cryostasis to General Perez and is romantically involved with Hillard
+Alien Resurrection,Kim Flowers,Sabra Hillard,supporting,assistant pilot of the Betty who is romantically involved with Elgyn
+Alien Resurrection,Dan Hedaya,General Martin Perez,supporting,commanding officer of the Auriga and supervises the experiments to clone Ripley and study the Aliens
+Alien Resurrection,J. E. Freeman,Dr. Mason Wren,supporting,one of several scientists aboard the Auriga involved in cloning Ripley and studying the Aliens
+Alien Resurrection,Brad Dourif,Dr. Jonathan Gediman,supporting,another of the scientists involved in cloning Ripley and studying the Aliens
+Alien Resurrection,Raymond Cruz,Vincent Distephano,supporting,"soldier stationed aboard the Auriga who, when the Aliens break out, joins the crew in their attempt to escape from the ship"
+Alien Resurrection,Leland Orser,Larry Purvis,supporting,man kidnapped by the crew of the Betty while in cryosleep and delivered to the Auriga to serve as hosts for the Aliens
+Alien Resurrection,Carolyn Campbell,anesthesiologist,minor,
+Alien Resurrection,Marlene Bush,Dr. Carlyn Williamson,minor,third member of the science team responsible for cloning Ripley
+Alien Resurrection,David St. James,Dr. Dan Spraguee,minor,member of the Auriga's science team
+Alien Resurrection,Tom Woodruff Jr.,lead Alien / Alien Queen / Newborn,supporting,
+Alien Resurrection,Joan La Barbara,voice of the Newborn,minor,
+Alien Resurrection,Archie Hahn,voice of the Newborn,minor,
+Alien Resurrection,Steven Gilborn,voice of Father,minor,artificial intelligence system of the USM Auriga.
+Alien vs. Predator,Sanaa Lathan,"Alexa ""Lex"" Woods",main,experienced guide who spent several seasons exploring Arctic and Antarctic environments
+Alien vs. Predator,Raoul Bova,Professor Sebastian De Rosa,main,Italian archaeologist and member of the exploration team who is able to translate the pyramid's hieroglyphs
+Alien vs. Predator,Lance Henriksen,Charles Bishop Weyland,main,"billionaire head of Weyland Corporation and its subsidiary, Weyland Industries, who organizes the expedition"
+Alien vs. Predator,Ewen Bremner,Dr. Graeme Miller,supporting,"Scottish chemical engineer, the main scientist of the exploration team"
+Alien vs. Predator,Colin Salmon,Maxwell Stafford,supporting,assistant to Mr. Weyland and former British Special Forces officer
+Alien vs. Predator,Tommy Flanagan,Mark Verheiden,supporting,member of the armed escort that accompanies the exploration team
+Alien vs. Predator,Carsten Norgaard,Rusten Quinn,minor,head of the drilling team
+Alien vs. Predator,Joseph Rye,Joe Connors,minor,member of the armed escort that accompanies the exploration team
+Alien vs. Predator,Agathe de La Boulaye,Adele Rousseau,minor,member of the armed escort that accompanies the exploration team
+Alien vs. Predator,Sam Troughton,Thomas Parks,minor,econd archaeologist of the exploration team and De Rosa's assistant
+Alien vs. Predator,Petr Jákl,stone,minor,member of the armed escort that accompanies the exploration team
+Alien vs. Predator,Liz May Brice,The Supervisor,minor,supervisor at the Nebraska satellite receiving station that detects the heat bloom in Antarctica
+Alien vs. Predator,Karima Adebibe,Sacrificial Maiden,minor,maiden in flashback to ancient era
+Alien vs. Predator,Tom Woodruff Jr.,"The Alien / ""Grid""",supporting,
+Alien vs. Predator,Ian Whyte,"The Predator / ""Scar"" / ""Chopper"" / ""Celtic / ""Elder""",supporting,one of the three main Predators who come to Earth to create and hunt Aliens within the pyramid as a rite of passage
+Aliens vs. Predator: Requiem,Steven Pasquale,Dallas Howard,main,recently released convict and Ricky's brother.
+Aliens vs. Predator: Requiem,Reiko Aylesworth,Kelly O'Brien,main,soldier returning to her family
+Aliens vs. Predator: Requiem,John Ortiz,Eddie Morales,main,sheriff of Gunnison
+Aliens vs. Predator: Requiem,Johnny Lewis,Ricky Howard,main,student and younger brother of Dallas
+Aliens vs. Predator: Requiem,Sam Trammell,Tim O'Brien,supporting,husband to Kelly and father of Molly
+Aliens vs. Predator: Requiem,Ariel Gade,Molly O'Brien,main,daughter of Kelly and Tim O'Brien
+Aliens vs. Predator: Requiem,Robert Joy,Colonel Stevens,supporting,commander of the military forces
+Aliens vs. Predator: Requiem,Kristen Hager,Jesse Salinger,supporting,"love interest of Ricky, angering her boyfriend, Dale"
+Aliens vs. Predator: Requiem,David Paetkau,Dale Collins,supporting,Jesse's boyfriend who bullies Ricky
+Aliens vs. Predator: Requiem,Matt Ward,Mark,minor,one of Dale's friends
+Aliens vs. Predator: Requiem,Michal Suchánek,Nick,minor,one of Dale's friends
+Aliens vs. Predator: Requiem,David Hornsby,Drew Roberts,minor,pizza parlor supervisor
+Aliens vs. Predator: Requiem,Gina Holden,Carrie Adams,supporting,pregnant waitress and Deputy Ray Adams' wife
+Aliens vs. Predator: Requiem,Chris William Martin,Deputy Ray Adams,supporting,Carrie's husband
+Aliens vs. Predator: Requiem,Chelah Horsdal,Darcy Benson,supporting,mother searching for her son and husband
+Aliens vs. Predator: Requiem,Liam James,Sam Benson,minor,
+Aliens vs. Predator: Requiem,Kurt Max Runte,Buddy Benson,minor,
+Aliens vs. Predator: Requiem,James Chutter,Deputy Joe,minor,
+Aliens vs. Predator: Requiem,Tim Henry,Dr. Lennon,minor,
+Aliens vs. Predator: Requiem,Tom McBeath,Karl,minor,
+Aliens vs. Predator: Requiem,Ty Olsson,Nathan,minor,
+Aliens vs. Predator: Requiem,Rainbow Sun Francks,Earl,minor,
+Aliens vs. Predator: Requiem,Juan Riedinger,Scotty,minor,
+Aliens vs. Predator: Requiem,Dalias Blake,Lieutenant Peter Wood,minor,
+Aliens vs. Predator: Requiem,Curtis Caravaggio,Special Forces Commander,minor,
+Aliens vs. Predator: Requiem,Françoise Yip,Ms. Yutani,minor,CEO of the Yutani Corporation
+Aliens vs. Predator: Requiem,Tom Woodruff Jr.,Aliens and the Predalien,supporting,
+Aliens vs. Predator: Requiem,Ian Whyte,"The Predator / ""Wolf""",supporting,main Predator who arrives on Earth to eliminate the Aliens and all traces of their presence
+Aliens vs. Predator: Requiem,Matthew Charles,voice of Wolf,minor,
+Aliens vs. Predator: Requiem,"Bobby ""Slim"" Jones","""Bull""",minor,a Predator
+Aliens vs. Predator: Requiem,Ian Feuer,"""Atomic""",minor,a Predator
+Predators,Adrien Brody,Royce,main,former U.S. Special Operations Forces veteran turned mercenary who reluctantly assumes leadership of the group of humans
+Predators,Alice Braga,Isabelle,main,sniper from the Israel Defense Forces who failed to save her spotter during a mission
+Predators,Topher Grace,Edwin,main,doctor who does not seem to belong amongst the group of hardened killers until he reveals that he is also a psychopathic murderer
+Predators,Walton Goggins,Stans,supporting,death row inmate from San Quentin State Prison who was scheduled to be executed in two days before suddenly finding himself on the alien planet
+Predators,Oleg Taktarov,Nikolai,supporting,Russian commando from the Spetsnaz Alpha Group who was fighting in Chechnya before finding himself on the alien planet
+Predators,Louis Ozawa Changchien,Hanzo,supporting,"Yakuza Inagawa-kai enforcer who rarely speaks and reveals late in the film that he is missing his leftmost two fingers, having performed yubitsume"
+Predators,Mahershala Ali,Mombasa,supporting,Revolutionary United Front death squad soldier from Sierra Leone
+Predators,Danny Trejo,"""Cuchillo""",supporting,uthless enforcer for the feared Los Zetas Mexican drug cartel who carries twin submachine guns
+Predators,Laurence Fishburne,Ronald Noland,main,United States Army Air Cavalry soldier who has survived on the alien planet for multiple hunting cycles
+Predators,Derek Mears,Classic Predator,minor,
+Predators,Carey Jones,Tracker Predator,minor,
+Predators,Brian Steele,Berserker Predator / Falconer Predator,minor,
+Prometheus,Noomi Rapace,Elizabeth Shaw,main,archaeologist and believer in God
+Prometheus,Michael Fassbender,David,main,android that acts as the ship's butler and maintenance man
+Prometheus,Charlize Theron,Meredith Vickers,main,Weyland Corporation employee who is sent to monitor the expedition
+Prometheus,Idris Elba,Janek,main,captain of the Prometheus
+Prometheus,Guy Pearce,Peter Weyland,main,billionaire founder and CEO of Weyland Corp
+Prometheus,Logan Marshall-Green,Charlie Holloway,main,archaeologist and Shaw's love interest
+Prometheus,Sean Harris,Fifield,supporting,geologist who has become mentally unstable after many missions
+Prometheus,Rafe Spall,Millburn,supporting,biologist
+Prometheus,Kate Dickie,Ford,supporting,ship medic
+Prometheus,Emun Elliott,Chance,supporting,ship pilot
+Prometheus,Benedict Wong,Ravel,supporting,ship pilot
+Prometheus,Patrick Wilson,Shaw's father,supporting,
+Prometheus,Ian Whyte,Engineer,minor,
+Prometheus,Daniel James,Engineer,minor,
+Alien: Covenant,Michael Fassbender,David 8 / Walter One,main,synthetic androids
+Alien: Covenant,Katherine Waterston,Janet Daniels,main,"chief of terraforming for the Covenant mission and the wife/widow of the ship's captain, Jacob Branson and the third in command after Branson and Oram"
+Alien: Covenant,Billy Crudup,Christopher Oram,main,the Covenant's first mate and Karine's husband who is a self-serious man of faith who believes their role on the Covenant is an act of providence
+Alien: Covenant,Danny McBride,Tennessee Faris,main,chief pilot of the Covenant and Maggie's husband
+Alien: Covenant,Demián Bichir,Dan Lope,main,head of the security unit aboard the Covenant and Sergeant Hallett's husband
+Alien: Covenant,Carmen Ejogo,Karine Oram,supporting,the Covenant's biologist and Christopher's wife
+Alien: Covenant,Jussie Smollett,Ricks,supporting,the Covenant's navigator and Upworth's husband
+Alien: Covenant,Callie Hernandez,Upworth,supporting,"the Covenant's communications officer and Ricks' wife, who also has paramedic training"
+Alien: Covenant,Amy Seimetz,Maggie Faris,supporting,pilot of the lander and Tennessee's wife
+Alien: Covenant,Nathaniel Dean,Tom Hallett,supporting,member of the security unit and Lope's husband
+Alien: Covenant,Alexander England,Ankor,supporting,member of the security unit
+Alien: Covenant,Benjamin Rigby,Ledward,supporting,member of the security unit
+Alien: Covenant,Uli Latukefu,Cole,supporting,member of the security unit
+Alien: Covenant,Tess Haubrich,Sarah Rosenthal,supporting,member of the security unit
+The Predator,Boyd Holbrook,Quinn McKenna,main,"Emily's estranged husband, the father of Rory and an Army Ranger Captain who discovers the existence of the Predators and leads the battle against them"
+The Predator,Trevante Rhodes,Nebraska Williams,main,former Marine officer who joins in a special Predator-hunting operation headed up by Quinn and becomes his closest ally
+The Predator,Jacob Tremblay,Rory McKenna,main,"Quinn and Emily's son, who has a form of autism and is bullied in school, but becomes a key player in the fight against the Predators due to his preternatural ability to learn languages"
+The Predator,Keegan-Michael Key,Coyle,main,Marine veteran who teams up with Quinn and Williams to fight the Predators
+The Predator,Olivia Munn,Casey Brackett,main,evolutionary biologist who joins the crew's mission
+The Predator,Sterling K. Brown,Will Traeger,main,"government agent and Director of the ""Stargazer Project"" who jails Quinn, but later needs his help with fighting the Predators"
+The Predator,Thomas Jane,Baxley,supporting,Marine veteran from the Afghanistan and Iraq wars whose Tourette syndrome causes tics and involuntarily swearing
+The Predator,Alfie Allen,Lynch,supporting,"former Marine who teams with several other outsiders, including Quinn, to stop the human-hunting Predators in suburbia"
+The Predator,Augusto Aguilera,Nettles,supporting,former Huey helicopter pilot and religious zealot who has suffered a traumatic brain injury from a crash
+The Predator,Jake Busey,Sean Keyes,supporting,head Stargazer scientist and the son of Peter Keyes
+The Predator,Yvonne Strahovski,Emily Quinn,supporting,McKenna's estranged wife and the mother to Rory
+The Predator,R. J. Fetherstonhaugh,Agent Thomas J. Church,minor,
+The Predator,Peter Shinkoda,Dr. Yamada,minor,
+The Predator,Lochlyn Munro,Lieutenant General Marks,minor,
+The Predator,Nikolas Dukic,Derek,minor,
+The Predator,Gabriel LaBelle,E.J.,minor,
+The Predator,Niall Matter,Sapir,minor,
+The Predator,Mike Dopud,Dupree,minor,
+The Predator,Garry Chalk,Postal Worker,minor,
+The Predator,Brian A. Prince,a Predator,minor,
+The Predator,Kyle Strauts,a Predator,minor,
+The Predator,Françoise Yip,Cullen,minor,"operative of ""Project Stargazer"""
+The Transformers: The Movie,Peter Cullen,Ironhide / Optimus Prime,main,
+The Transformers: The Movie,Judd Nelson,Hot Rod / Rodimus Prime,main,
+The Transformers: The Movie,Robert Stack,Ultra Magnus,supporting,
+The Transformers: The Movie,Neil Ross,Springer / Slag / Bonecrusher,minor,
+The Transformers: The Movie,Susan Blu,Arcee,minor,
+The Transformers: The Movie,Lionel Stander,Kup,supporting,
+The Transformers: The Movie,Frank Welker,Wheelie / Megatron / Soundwave / Frenzy / Rumble,main,
+The Transformers: The Movie,John Moschitta Jr.,Blurr,minor,
+The Transformers: The Movie,Buster Jones,Blaster,minor,
+The Transformers: The Movie,Paul Eiding,Perceptor,minor,
+The Transformers: The Movie,Gregg Berger,Grimlock,minor,
+The Transformers: The Movie,Michael Bell,Swoop / Scrapper,minor,
+The Transformers: The Movie,Scatman Crothers,Jazz,supporting,
+The Transformers: The Movie,Casey Kasem,Cliffjumper,supporting,
+The Transformers: The Movie,Dan Gilvezan,Bumblebee,supporting,
+The Transformers: The Movie,Corey Burton,Brawn / Shockwave / Spike Witwicky,supporting,
+The Transformers: The Movie,Leonard Nimoy,Galvatron,main,
+The Transformers: The Movie,Roger C. Carmel,Cyclonus,minor,
+The Transformers: The Movie,Stanley Jones,Scourge,minor,
+The Transformers: The Movie,Chris Latta,Starscream,supporting,
+The Transformers: The Movie,Arthur Burghardt,Devastator,minor,
+The Transformers: The Movie,Don Messick,Scavenger / Gears,minor,
+The Transformers: The Movie,Jack Angel,Astrotrain / Ramjet,minor,
+The Transformers: The Movie,Ed Gilbert,Blitzwing,minor,
+The Transformers: The Movie,Clive Revill,Kickback,minor,
+The Transformers: The Movie,Hal Rayle,Shrapnel,minor,
+The Transformers: The Movie,Orson Welles,Unicron,main,
+The Transformers: The Movie,Roger C. Carmel,Quintesson Leader,minor,
+The Transformers: The Movie,Eric Idle,Wreck-Gar,supporting,
+The Transformers: The Movie,David Mendenhall,Daniel Witwicky,minor,
+The Transformers: The Movie,Norman Alden,Kranix,minor,
+The Transformers: The Movie,Walker Edmiston,Inferno,minor,
+The Transformers: The Movie,Victor Caroli,Narrator,minor,
+Mighty Morphin Power Rangers: The Movie,Karan Ashley,Aisha Campbell,main,Yellow Ranger
+Mighty Morphin Power Rangers: The Movie,Johnny Yong Bosch,Adam Park,main,Black Ranger
+Mighty Morphin Power Rangers: The Movie,Steve Cardenas,Rocky DeSantos,main,Red Ranger and second-in-command
+Mighty Morphin Power Rangers: The Movie,Jason David Frank,Tommy Oliver,main,"White Ranger, leader, and Kimberly's boyfriend"
+Mighty Morphin Power Rangers: The Movie,Amy Jo Johnson,Kimberly Hart,main,Pink Ranger and Tommy's girlfriend
+Mighty Morphin Power Rangers: The Movie,David Yost,Billy Cranston,main,Blue Ranger
+Mighty Morphin Power Rangers: The Movie,Jason Narvy,"Eugene ""Skull"" Skullovitch",supporting,
+Mighty Morphin Power Rangers: The Movie,Paul Schrier,"Farkas ""Bulk"" Bulkmeier",supporting,
+Mighty Morphin Power Rangers: The Movie,Paul Freeman,Ivan Ooze,main,
+Mighty Morphin Power Rangers: The Movie,Gabrielle Fitzpatrick,Dulcea,supporting,
+Mighty Morphin Power Rangers: The Movie,Nicholas Bell,Zordon,minor,
+Mighty Morphin Power Rangers: The Movie,Peta-Maree Rixon,Alpha 5,minor,
+Mighty Morphin Power Rangers: The Movie,Jean Paul Bell,Mordant,minor,
+Mighty Morphin Power Rangers: The Movie,Kerry Casey,Goldar,minor,
+Mighty Morphin Power Rangers: The Movie,Mark Ginther,Lord Zedd,minor,
+Mighty Morphin Power Rangers: The Movie,Julia Cortez,Rita Repulsa,minor,
+Mighty Morphin Power Rangers: The Movie,Jamie Croft,Fred Kelman,minor,
+Mighty Morphin Power Rangers: The Movie,Paul Goddard,construction worker,minor,
+Mighty Morphin Power Rangers: The Movie,Robert Simper,construction worker,minor,
+Mighty Morphin Power Rangers: The Movie,Kerrigan Mahan,voice of Goldar,supporting,
+Mighty Morphin Power Rangers: The Movie,Robert L. Manahan,voice of Zordon,supporting,
+Mighty Morphin Power Rangers: The Movie,Robert Axelrod,voice of Lord Zedd,supporting,
+Mighty Morphin Power Rangers: The Movie,Barbara Goodson,voice of Rita Repulsa,supporting,
+Mighty Morphin Power Rangers: The Movie,Richard Wood,voice of Alpha 5,supporting,
+Mighty Morphin Power Rangers: The Movie,Martin G. Metcalf,voice of Mordant,supporting,
+Turbo: A Power Rangers Movie,Johnny Yong Bosch,Adam Park / Green Turbo Ranger,main,
+Turbo: A Power Rangers Movie,Nakia Burrise,Tanya Sloan / Yellow Turbo Ranger,main,
+Turbo: A Power Rangers Movie,Steve Cardenas,Rocky DeSantos,supporting,
+Turbo: A Power Rangers Movie,Jason David Frank,Tommy Oliver / Red Turbo Ranger,main,
+Turbo: A Power Rangers Movie,Austin St. John,Jason Lee Scott,supporting,
+Turbo: A Power Rangers Movie,Catherine Sutherland,"Katherine ""Kat"" Hillard / Pink Turbo Ranger",main,
+Turbo: A Power Rangers Movie,Jason Narvy,"Eugene ""Skull"" Skullovitch",supporting,police officer working at Angel Grove
+Turbo: A Power Rangers Movie,Paul Schrier,"Farkus ""Bulk"" Bulkmeier",supporting,police officer working at Angel Grove
+Turbo: A Power Rangers Movie,Hilary Shepard Turner,Divatox,supporting,space pirate who seeks to marry the demon Maligore and conquer the galaxy
+Turbo: A Power Rangers Movie,Amy Jo Johnson,Kimberly Hart,supporting,
+Turbo: A Power Rangers Movie,Blake Foster,Justin Stewart / Blue Turbo Ranger,main,
+Turbo: A Power Rangers Movie,Gregg Bullock,Lt. Jerome Stone,minor,
+Turbo: A Power Rangers Movie,Richard Genelle,Ernie,minor,Angel Grove Gym and Juice Bar's owner
+Turbo: A Power Rangers Movie,Winston Richard,Zordon,minor,inter-dimensional wizard and the Rangers' mentor
+Turbo: A Power Rangers Movie,Robert L. Manahan,voice of Zordon,supporting,inter-dimensional wizard and the Rangers' mentor
+Turbo: A Power Rangers Movie,Donene Kistler,Alpha 5,minor,robot from Edenoi and Zordon's assistant
+Turbo: A Power Rangers Movie,Richard Wood,voice of Alpha 5,supporting,robot from Edenoi and Zordon's assistant
+Turbo: A Power Rangers Movie,Jon Simanton,Lerigot,minor,wizard who holds a magical key that can open portals to worlds and realms
+Turbo: A Power Rangers Movie,Lex Lang,voice of Lerigot / Rygog,supporting,wizard who holds a magical key that can open portals to worlds and realms / Divatox's henchman
+Turbo: A Power Rangers Movie,J.B. Levine,Yara / Bethel,minor,Lerigot's wife and daughter
+Turbo: A Power Rangers Movie,Danny Wayne Stallcup,Elgar,minor,Divatox's dimwitted nephew
+Turbo: A Power Rangers Movie,David Umansky,voice of Elgar,supporting,Divatox's dimwitted nephew
+Turbo: A Power Rangers Movie,Mike Deak,Maligore,minor,Divatox's fiancé
+Turbo: A Power Rangers Movie,Carla Perez,Rita Repulsa,minor,sorcereress who has fought the Rangers
+Turbo: A Power Rangers Movie,Barbara Goodson,voice of Rita Repulsa,supporting,sorcereress who has fought the Rangers
+Transformers,Shia LaBeouf,Sam Witwicky,main,young descendant of an Arctic explorer who stumbles upon a big secret that becomes the Earth's last hope
+Transformers,Josh Duhamel,Captain William Lennox,main,leader of the Army Rangers team in Qatar and allies himself with Sam
+Transformers,Megan Fox,Mikaela Banes,main,classmate of Sam who assists him in his mission by using skills she learned as a juvenile car thief from her convict father
+Transformers,Tyrese Gibson,Sergeant Robert Epps,main,U.S. Air Force Combat Controller and technical sergeant of a Special Operations team based at the U.S. SOCCENT base in Qatar and Lennox's best friend
+Transformers,Rachael Taylor,Maggie Madsen,supporting,former NSA data analyst recruited by the U.S. Defense Department
+Transformers,Anthony Anderson,Glen Witmann,supporting,Maggie's hacker friend
+Transformers,John Turturro,Agent Seymour Simmons,main,special agent of the government agency Sector 7 Advanced Research Division
+Transformers,Jon Voight,John Keller,supporting,U.S. Secretary of Defense
+Transformers,Michael O'Neill,Tom Banachek,minor,head of Sector 7
+Transformers,Kevin Dunn,Ron Witwicky,supporting,Sam's father
+Transformers,Julie White,Judy Witwicky,supporting,Sam's mother
+Transformers,Amaury Nolasco,"ACWO Jorge ""Fig"" Figueroa",minor,Special Operations soldier who survives the destruction of the SOCCENT base in Qatar and was also a member of Captain Lennox's team
+Transformers,Zack Ward,First Sergeant Donnelly,minor,member of Captain Lennox's team
+Transformers,W. Morgan Sheppard,Captain Archibald Witwicky,minor,Sam's great-great-grandfather who accidentally activates Megatron's navigational system while exploring the Arctic Circle.
+Transformers,Bernie Mac,Bobby Bolivia,supporting,used car salesman
+Transformers,John Robinson,Miles Lancaster,minor,Sam's best friend
+Transformers,Travis Van Winkle,Trent DeMarco,minor,Mikaela's ex-boyfriend
+Transformers,Glenn Morshower,Colonel Sharp,supporting,
+Transformers,Peter Cullen,Optimus Prime,main,leader of the Autobots who transforms into a blue and red 1994 Peterbilt 379 semi-trailer truck
+Transformers,Mark Ryan,Bumblebee,supporting,Autobot scout and Sam's new guardian who transforms into a yellow and black Chevrolet Camaro (first a 1977 model and later in the movie a 2007 model)
+Transformers,Darius McCrary,Jazz,supporting,Optimus's second-in-command who transforms into a silver 2007 Pontiac Solstice
+Transformers,Robert Foxworth,Ratchet,supporting,Autobot medic who transforms into a yellow 2007 search and rescue Hummer H2 ambulance
+Transformers,Jess Harnell,Ironhide / Barricade,supporting,Autobot weapons expert who transforms into a black 2007 GMC Topkick C4500 / Decepticon scout and interrogator who transforms into a black 2007 Saleen S281 police car
+Transformers,Hugo Weaving,Megatron,main,leader of the Decepticons who transforms into a silver Cybertronian jet
+Transformers,Jim Wood,Bonecrusher,minor,Decepticon mine sweeper who transforms into a Buffalo H Mine-Protected vehicle
+Transformers,Reno Wilson,Frenzy,minor,"Decepticon hacker and Barricade's minion, who transforms into a PGX Boombox, and later a Nokia 8800"
+Transformers,Charlie Adler,Starscream,supporting,Megatron's second-in-command who transforms into a Lockheed Martin F-22 Raptor
+Transformers: Revenge of the Fallen,Shia LaBeouf,Sam Witwicky,main,recent high school graduate who is unwittingly drawn again into the Autobot cause to unravel an ancient mystery implanted into his mind by the now-destroyed Allspark
+Transformers: Revenge of the Fallen,Megan Fox,Mikaela Banes,main,Sam's girlfriend whom he trusts as the Allspark fragments begin to unravel
+Transformers: Revenge of the Fallen,Josh Duhamel,William Lennox,main,U.S. Army Special Forces Major who establishes NEST to help the Autobots in their battle against the remaining Decepticons
+Transformers: Revenge of the Fallen,Tyrese Gibson,Robert Epps,main,U.S. Air Force Master Sergeant and Combat Controller in Lennox's team who leads NEST's SWAT unit
+Transformers: Revenge of the Fallen,John Turturro,Seymour Simmons,main,"former agent of the recently terminated Sector 7 who now runs a meat shop in New York City with his mother, Tova Simmons"
+Transformers: Revenge of the Fallen,Ramon Rodriguez,Leo Spitz,supporting,college roommate of Sam's who runs an online conspiracy blog and is obsessed with the Transformers
+Transformers: Revenge of the Fallen,Kevin Dunn,Ron Witwicky,supporting,Sam's father
+Transformers: Revenge of the Fallen,Julie White,Judith Witwicky,supporting,Sam's mother
+Transformers: Revenge of the Fallen,Isabel Lucas,Alice,supporting,female pretender sent to spy on Sam in college
+Transformers: Revenge of the Fallen,John Benjamin Hickey,Theodore Galloway,supporting,national security adviser who often chastises NEST and the Autobots for their destructive tactics
+Transformers: Revenge of the Fallen,Glenn Morshower,General Morshower,supporting,supervisor of NEST
+Transformers: Revenge of the Fallen,Matthew Marsden,Graham,minor,British Army NEST officer
+Transformers: Revenge of the Fallen,Rainn Wilson,Professor R.A. Colan,supporting,Sam and Leo's astronomy teacher
+Transformers: Revenge of the Fallen,Michael Papajohn,"Colin ""Cal"" Banes",supporting,Mikaela's father
+Transformers: Revenge of the Fallen,Peter Cullen,Optimus Prime,main,leader of the Autobots who transforms into a blue and red 1994 Peterbilt 379 semi-trailer truck
+Transformers: Revenge of the Fallen,Hugo Weaving,Megatron,main,The Fallen's apprentice and the leader of the Decepticons who transforms into both a Cybertronian tank and jet
+Transformers: Revenge of the Fallen,Tony Todd,The Fallen,supporting,"a Prime who is the first and founder of the Decepticons, as well as the master of Megatron"
+Transformers: Revenge of the Fallen,Mark Ryan,Bumblebee / Jetfire,supporting,Autobot scout and Sam's guardian who transforms into a yellow and black 2009 Chevrolet Camaro / ancient Decepticon-turned-Autobot Seeker who transforms into a Lockheed SR-71 Blackbird
+Transformers: Revenge of the Fallen,Jess Harnell,Ironhide,supporting,Autobot weapons specialist and Optimus's new second-in-command who transforms into a black 2009 GMC Topkick C4500
+Transformers: Revenge of the Fallen,Charlie Adler,Starscream,supporting,Megatron's second-in-command who transforms into a Lockheed Martin F-22 Raptor
+Transformers: Revenge of the Fallen,Robert Foxworth,Ratchet,supporting,Autobot medical officer who transforms into a yellow 2009 search and rescue Hummer H2 ambulance
+Transformers: Revenge of the Fallen,Frank Welker,Soundwave / Reedman / Devastator,supporting,Decepticon communications officer who transforms into a Cybertronian satellite / razor-thin Decepticon composed of thousands of miniature bead-like Decepticons / massive Decepticon who is the combination of nine construction vehicles
+Transformers: Revenge of the Fallen,André Sogliuzzo,Sideswipe,minor,Autobot combat instructor who transforms into a silver 2009 Chevrolet Corvette Stingray concept car
+Transformers: Revenge of the Fallen,Tom Kenny,Wheelie / Skids,supporting,"former Decepticon spy, later turned Autobot, who transforms into a blue toy monster truck / Autobot infiltrator and Mudflap's twin who transforms into a green 2007 Chevrolet Beat"
+Transformers: Revenge of the Fallen,Reno Wilson,Mudflap,supporting,Autobot infiltrator and Skids' twin who transforms into a red 2007 Chevrolet Trax
+Transformers: Revenge of the Fallen,Grey DeLisle,Arcee,minor,female Autobot who transforms into a pink Ducati 848
+Transformers: Revenge of the Fallen,Calvin Wimmer,"Demolishor / ""Wheelbot""",minor,massive Constructicon who transforms into a red and white Terex O&K RH 400 excavator
+Transformers: Revenge of the Fallen,John DiCrosta,"Scalpel / ""Doctor""",minor,spider-like Decepticon who transforms into a microscope
+Transformers: Revenge of the Fallen,Michael York,Prime #1,minor,one of the Seven Primes
+Transformers: Revenge of the Fallen,Kevin Michael Richardson,Prime #2 / Rampage a.k.a. Slapjack,minor,one of the Seven Primes / Constructicon who transforms into a red Caterpillar D9T bulldozer
+Transformers: Revenge of the Fallen,Robin Atkin Downes,Prime #3,minor,one of the Seven Primes
+Transformers: Dark of the Moon,Shia LaBeouf,Sam Witwicky,main,recent college graduate who is once again tied to the fate of Earth's survival
+Transformers: Dark of the Moon,Josh Duhamel,Colonel William Lennox,main,"U.S. Army Special Forces officer who commands the classified strike team NEST, an international joint task-force battling Decepticons with the Autobots"
+Transformers: Dark of the Moon,John Turturro,Seymour Simmons,main,former agent in charge of the terminated Sector 7 unit and now a successful professional writer
+Transformers: Dark of the Moon,Tyrese Gibson,Retired U.S. Air Force Chief Master Sergeant Robert Epps,main,former NCO-in-Charge of the NEST strike team who now works at Kennedy Space Center
+Transformers: Dark of the Moon,Rosie Huntington-Whiteley,Carly Spencer,main,Sam's new girlfriend
+Transformers: Dark of the Moon,Patrick Dempsey,Dylan Gould,main,wealthy car collector and Carly's employer who is secretly working with the Decepticons
+Transformers: Dark of the Moon,Kevin Dunn,Ron Witwicky,supporting,Sam's father
+Transformers: Dark of the Moon,Julie White,Judy Witwicky,supporting,Sam's mother
+Transformers: Dark of the Moon,John Malkovich,Bruce Brazos,supporting,Sam's employer and boss at Accuretta Systems
+Transformers: Dark of the Moon,Frances McDormand,Charlotte Mearing,supporting,Director of National Intelligence
+Transformers: Dark of the Moon,Keiko Agena,aide and assistant of Charlotte Mearing,minor,
+Transformers: Dark of the Moon,Lester Speight,"""Hardcore"" Eddie",minor,former member of NEST
+Transformers: Dark of the Moon,Josh Kelly,Stone,minor,former member of NEST
+Transformers: Dark of the Moon,Alan Tudyk,Dutch Gerhardt,supporting,Simmons' personal assistant
+Transformers: Dark of the Moon,Ken Jeong,"Jerry ""Deep"" Wang",supporting,paranoid software programmer at Sam's work
+Transformers: Dark of the Moon,Glenn Morshower,General Sharp Morshower,supporting,"director of NEST, who communicates with the squad from the Pentagon"
+Transformers: Dark of the Moon,Buzz Aldrin,himself,supporting,astronaut meeting Optimus Prime at the NEST headquarters
+Transformers: Dark of the Moon,Bill O'Reilly,himself,supporting,interviewer of Simmons through his television program The O'Reilly Factor
+Transformers: Dark of the Moon,Elya Baskin,Cosmonaut Dimitri,minor,one of the two surviving Russian cosmonauts who gives Sam information on the Moon missions
+Transformers: Dark of the Moon,Andy Daly,Donnie,minor,mailroom worker who loathes Wang
+Transformers: Dark of the Moon,Iqbal Theba,UN Secretary General,minor,
+Transformers: Dark of the Moon,Sammy Sheik,Faraj,minor,
+Transformers: Dark of the Moon,Anthony Azizi,Sulimani,minor,
+Transformers: Dark of the Moon,"Mindy Sterling as Martha, an insurance agent.",Martha,supporting,insurance agent
+Transformers: Dark of the Moon,Chris Sheffield,Pimply Corporate Kid,minor,
+Transformers: Dark of the Moon,Peter Cullen,Optimus Prime,main,leader of the Autobots and keeper of the Matrix of Leadership who transforms into a blue and red 1994 Peterbilt 379 semi-trailer truck
+Transformers: Dark of the Moon,Hugo Weaving,Megatron,main,leader of the Decepticons who is still badly wounded from the battle in Egypt and transforms into a rusty 10-wheeler 2011 Mack Titan tank-truck
+Transformers: Dark of the Moon,Leonard Nimoy,Sentinel Prime,supporting,Optimus's predecessor as the leader of the Autobots and later a Decepticon double agent who transforms into a red and black Rosenbauer Panther Fire Truck
+Transformers: Dark of the Moon,Mark Ryan,Bumblebee,supporting,Autobot scout and Sam Witwicky's guardian who transforms into a yellow and black 2011 Chevrolet Camaro
+Transformers: Dark of the Moon,Jess Harnell,Ironhide,supporting,Autobot weapons specialist and Optimus Prime's second-in-command who transforms into a black 2009 GMC Topkick C4500
+Transformers: Dark of the Moon,Charlie Adler,Starscream,supporting,Megatron's second-in-command who transforms into a Lockheed Martin F-22 Raptor
+Transformers: Dark of the Moon,Robert Foxworth,Ratchet,supporting,Autobot medical officer who transforms into a white and green 2009 search and rescue Hummer H2 ambulance
+Transformers: Dark of the Moon,James Remar,Sideswipe,supporting,Autobot combat instructor from Revenge of the Fallen who transforms into a silver 2011 Chevrolet Corvette Stingray convertible
+Transformers: Dark of the Moon,Francesco Quinn,Dino/Mirage,minor,Autobot spy who transforms into a red 2011 Ferrari 458 Italia
+Transformers: Dark of the Moon,George Coe,Que/Wheeljack,minor,"Autobot engineer who invents gadgets, equipment, and weapons and transforms into a blue 2009 Mercedes-Benz E550"
+Transformers: Dark of the Moon,Tom Kenny,Wheelie,supporting,former Decepticon drone turned Autobot from Revenge of the Fallen who transforms into a blue radio-controlled toy monster truck
+Transformers: Dark of the Moon,Reno Wilson,Brains,supporting,Wheelie's partner and a fellow former Decepticon drone who transforms into a Lenovo ThinkPad Edge laptop computer
+Transformers: Dark of the Moon,Frank Welker,Shockwave / Soundwave / Barricade,supporting,Decepticon scientist and assassin / Decepticon communications officer who transforms into a silver 2011 Mercedes-Benz SLS AMG / Decepticon scout who mysteriously disappeared after the final battle in the first film
+Transformers: Dark of the Moon,Ron Bottitta,"Roadbuster / ""Amp""",minor,"Autobot Wrecker who transforms into Dale Earnhardt, Jr's Hendrick Motorsports No. 88 AMP Energy/National Guard 2011 Chevrolet Impala"
+Transformers: Dark of the Moon,John DiMaggio,"Leadfoot / ""Target""",minor,leader of the Autobot Wreckers who transforms into Juan Pablo Montoya's Earnhardt Ganassi Racing No. 42 Target 2011 Chevrolet Impala
+Transformers: Dark of the Moon,Keith Szarabajka,Laserbeak,minor,condor-like Decepticon who is fiercely loyal to Soundwave and frequently changes transformation modes
+Transformers: Dark of the Moon,Greg Berg,Igor,minor,deformed Decepticon who serves as a personal servant to Megatron in his exile
