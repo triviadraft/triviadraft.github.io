@@ -4860,24 +4860,25 @@ function random_item(items) {
   return items[Math.floor(Math.random()*items.length)];   
 }
 
+function random_items(n, items) {
+    var shuffled = items.sort(() => 0.5 - Math.random());
+
+    // Get sub-array of first n elements after shuffled
+    return shuffled.slice(0, n);
+}
+
 function generate_question() {
     var movie = random_item(Object.keys(actors_map));
     var category = movies_map[movie]['categories']
     var actor_list = actors_map[movie]['supporting']
-    // var random_list = random.sample(full_list, k=3)
+    var random_list = random_items(3, actor_list)
 
-    // var actor1 = random_list[0]['actor']
-    // var actor2 = random_list[1]['actor']
-    // var actor3 = random_list[2]['actor']
-    // var name1 = random_list[0]['name']
-    // var name2 = random_list[1]['name']
-    // var name3 = random_list[2]['name']
-    var actor1 = actor_list[0]['actor']
-    var actor2 = actor_list[1]['actor']
-    var actor3 = actor_list[2]['actor']
-    var name1 = actor_list[0]['name']
-    var name2 = actor_list[1]['name']
-    var name3 = actor_list[2]['name']
+    var actor1 = random_list[0]['actor']
+    var actor2 = random_list[1]['actor']
+    var actor3 = random_list[2]['actor']
+    var name1 = random_list[0]['name']
+    var name2 = random_list[1]['name']
+    var name3 = random_list[2]['name']
 
     var question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
     var answer = movie + ' as ' + name1 + ', ' + name2 + ', and ' + name3;
