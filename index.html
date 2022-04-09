@@ -5,9 +5,17 @@
     <title>MTS Question Generator</title>
 </head>
 
-<p id="demo"></p>
+<p id="question"></p>
+<br>
+<button onclick="displayAnswer">
+	Display Answer
+</button>
+
+<p id="answer"></p>
 
 <script src="collect_data.js"></script>
+<script src="utils.js"></script>
 <script type="text/javascript" charset="utf-8">
-	document.getElementById("demo").innerHTML = question;
+	document.getElementById("question").innerHTML = question;
+	// document.getElementById("answer").innerHTML = answer;
 </script>

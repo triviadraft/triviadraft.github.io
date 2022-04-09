@@ -4861,3 +4861,4 @@ function random_item(items) {
 }
 
 var question = random_item(Object.keys(movies_map));
+var answer = 'abc'
