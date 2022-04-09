@@ -21,7 +21,7 @@ function reset() {
     }
     var name3 = random_list[2]['name']
     if (random_list[2]['description']) {
-        name1 += ' (' + random_list[2]['description'] + ')'
+        name3 += ' (' + random_list[2]['description'] + ')'
     }
 
     question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
