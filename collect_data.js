@@ -4856,4 +4856,9 @@ var movies_map = {
     }
 }
 
-var question = sample(movies_map.keys())
+function random_item(items) {
+  return items[Math.floor(Math.random()*items.length)];   
+}
+
+
+var question = random_item(Array.from(movies_map.keys())
