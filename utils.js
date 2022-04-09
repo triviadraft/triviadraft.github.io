@@ -35,7 +35,7 @@ function reset() {
 	
 	document.getElementById('question').innerHTML = question
 	document.getElementById('answer').innerHTML = ''
-	document.getElementById('answer1').innerHTML = answer1
-	document.getElementById('answer2').innerHTML = answer2
-	document.getElementById('answer3').innerHTML = answer3
+	document.getElementById('answer1').innerHTML = ''
+	document.getElementById('answer2').innerHTML = ''
+	document.getElementById('answer3').innerHTML = ''
 }
