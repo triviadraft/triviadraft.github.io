@@ -3,5 +3,21 @@ function displayAnswer(answer) {
 }
 
 function reset() { 
-	generate_question()
+	var movie = random_item(Object.keys(actors_map));
+    var category = movies_map[movie]['categories']
+    var actor_list = actors_map[movie]['supporting']
+    var random_list = random_items(3, actor_list)
+
+    var actor1 = random_list[0]['actor']
+    var actor2 = random_list[1]['actor']
+    var actor3 = random_list[2]['actor']
+    var name1 = random_list[0]['name']
+    var name2 = random_list[1]['name']
+    var name3 = random_list[2]['name']
+
+    question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
+    answer = movie + ' as ' + name1 + ', ' + name2 + ', and ' + name3;
+	
+	document.getElementById('question').innerHTML = question
+	document.getElementById('answer').innerHTML = ''
 }
