@@ -12,8 +12,17 @@ function reset() {
     var actor2 = random_list[1]['actor']
     var actor3 = random_list[2]['actor']
     var name1 = random_list[0]['name']
+    if (random_list[0]['description']) {
+        name1 += ' (' + random_list[0]['description'] + ')'
+    }
     var name2 = random_list[1]['name']
+    if (random_list[1]['description']) {
+        name2 += ' (' + random_list[1]['description'] + ')'
+    }
     var name3 = random_list[2]['name']
+    if (random_list[2]['description']) {
+        name1 += ' (' + random_list[2]['description'] + ')'
+    }
 
     question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
     answer = movie + ' as ' + name1 + ', ' + name2 + ', and ' + name3;
