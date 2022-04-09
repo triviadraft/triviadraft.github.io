@@ -9,21 +9,22 @@
 <p id="question"></p>
 <br>
 <button onclick="displayAnswer()">
-	Display Answer
+    Display Answer
 </button>
 
 <p id="answer"></p>
-<p id="answer1"></p>
-<p id="answer2"></p>
-<p id="answer3"></p>
+<ul>
+    <li><p id="answer1"></p></li>
+    <li><p id="answer2"></p></li>
+    <li><p id="answer3"></p></li>
+</ul>
 <br>
 <button onclick="reset()">
-	Reset
+    Reset
 </button>
 
 <script src="collect_data.js"></script>
 <script src="utils.js"></script>
 <script type="text/javascript" charset="utf-8">
-	document.getElementById("question").innerHTML = question;
-	// document.getElementById("answer").innerHTML = answer;
+    document.getElementById("question").innerHTML = question;
 </script>
