@@ -88,4 +88,3 @@ def generate_questions():
             writer.writerows(questions)
 
 create_jsons()
-generate_questions()

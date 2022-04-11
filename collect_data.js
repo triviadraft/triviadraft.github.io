@@ -642,7 +642,7 @@ var actors_map = {
         "minor": [
             {
                 "actor": "Nelson Mashita",
-                "name": "Yakitito \"Yakky\" Yanagito",
+                "name": "Yakkito \"Yakky\" Yanagito",
                 "description": "lab assistant to Peyton Westlake killed by Anderson"
             },
             {
@@ -2373,7 +2373,7 @@ var actors_map = {
             {
                 "actor": "Yaphet Kotto",
                 "name": "Parker",
-                "description": "chhief engineer"
+                "description": "chief engineer"
             },
             {
                 "actor": "Bolaji Badejo",
@@ -2747,7 +2747,7 @@ var actors_map = {
             },
             {
                 "actor": "Lance Henriksen",
-                "name": "voice of the damaged Bishop android, / Bishop II",
+                "name": "voice of the damaged Bishop android / Bishop II",
                 "description": "human designer of the android, who wants the Alien Queen that was growing inside Ripley for use in Weyland-Yutani's bioweapons division"
             },
             {
@@ -2913,7 +2913,7 @@ var actors_map = {
             {
                 "actor": "Dan Hedaya",
                 "name": "General Martin Perez",
-                "description": "commanding officer of the Auriga and supervises the experiments to clone Ripley and study the Aliens"
+                "description": "commanding officer of the Auriga who supervises the experiments to clone Ripley and study the Aliens"
             },
             {
                 "actor": "J. E. Freeman",
@@ -4363,7 +4363,7 @@ var actors_map = {
                 "description": "interviewer of Simmons through his television program The O'Reilly Factor"
             },
             {
-                "actor": "Mindy Sterling as Martha, an insurance agent.",
+                "actor": "Mindy Sterling",
                 "name": "Martha",
                 "description": "insurance agent"
             },
@@ -4488,6 +4488,1051 @@ var actors_map = {
                 "actor": "Greg Berg",
                 "name": "Igor",
                 "description": "deformed Decepticon who serves as a personal servant to Megatron in his exile"
+            }
+        ]
+    },
+    "Transformers: Age of Extinction": {
+        "main": [
+            {
+                "actor": "Mark Wahlberg",
+                "name": "Cade Yeager",
+                "description": "single father and struggling inventor"
+            },
+            {
+                "actor": "Stanley Tucci",
+                "name": "Joshua Joyce",
+                "description": "ambitious, arrogant businessman and the head of KSI who wants to build his own Transformers"
+            },
+            {
+                "actor": "Kelsey Grammer",
+                "name": "Harold Attinger",
+                "description": "rogue CIA operative and government official who created the CIA black-ops unit, Cemetery Wind to eliminate all Transformers, Autobot or Decepticon, from Earth"
+            },
+            {
+                "actor": "Nicola Peltz",
+                "name": "Tessa Yeager",
+                "description": "Cade's daughter who is secretly dating Shane"
+            },
+            {
+                "actor": "Jack Reynor",
+                "name": "Shane Dyson",
+                "description": "Tessa's boyfriend and an Irish rally car driver"
+            },
+            {
+                "actor": "Peter Cullen",
+                "name": "Optimus Prime",
+                "description": "leader of the Autobots who transforms into a rusty 1977 Marmon 97 semi truck and later, a blue and red 2014 Western Star 5700 XE semi-trailer truck with flame decals"
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "Galvatron",
+                "description": "human-made KSI Transformer drone intended to be modeled after Optimus Prime, but ultimately using data downloaded from the remains of Megatron"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Sophia Myles",
+                "name": "Darcy Tyril",
+                "description": "Joshua's geologist assistant and ex-girlfriend"
+            },
+            {
+                "actor": "Li Bingbing",
+                "name": "Su Yueming",
+                "description": "owner of the Chinese factory used by KSI to build their artificial Transformers"
+            },
+            {
+                "actor": "Titus Welliver",
+                "name": "James Savoy",
+                "description": "ruthless, corrupt CIA agent and second in-command of the Cemetery Wind working for Attinger"
+            },
+            {
+                "actor": "T.J. Miller",
+                "name": "Lucas Flannery",
+                "description": "Cade's best friend and a mechanic"
+            },
+            {
+                "actor": "James Bachman",
+                "name": "Gill Wembley",
+                "description": "scientist that works for Joyce"
+            },
+            {
+                "actor": "John Goodman",
+                "name": "Hound",
+                "description": "Autobot commando who is a member of the Wreckers and is the weapons specialist of the team who transforms into an Oshkosh Defense Medium Tactical Vehicle"
+            },
+            {
+                "actor": "Ken Watanabe",
+                "name": "Drift",
+                "description": "Samurai-motif Autobot, tactician and a former Decepticon assassin who transforms into a black and blue 2014 Bugatti Veyron 16.4 Grand Sport Vitesse and a Sikorsky S-97 Raider Helicopter"
+            },
+            {
+                "actor": "Robert Foxworth",
+                "name": "Ratchet / Leadfoot",
+                "description": "Autobot medical officer who transforms into a white and green 2009 Search and rescue Hummer H2 ambulance / Autobot and the leader of the wreckers who appears in archive footage from a KSI drone"
+            },
+            {
+                "actor": "John DiMaggio",
+                "name": "Crosshairs",
+                "description": "Autobot paratrooper and elite sniper, who is also the weapons tactician and mechanic, who transforms into a black and green 2014 Chevrolet Corvette C7 Stingray"
+            },
+            {
+                "actor": "Mark Ryan",
+                "name": "Bumblebee / Lockdown",
+                "description": "leader of Autobots in the absence of Prime who transforms into a black 1967 Chevrolet Camaro and later into a yellow and black 2014 Chevrolet Camaro / extremely powerful, relentless, heavily enhanced, ruthless Cybertronian assassin and bounty hunter who transforms into a grey 2014 Lamborghini Aventador LP 700\u20134 Coupe and is hired by the mysterious Creators to bring Optimus Prime back to them and kill any Autobots who refused to give up his location"
+            },
+            {
+                "actor": "Reno Wilson",
+                "name": "Brains",
+                "description": "former Decepticon drone turned Autobot who survived the Battle of Chicago and has lost his right leg who explains that Galvatron is a recreation of Megatron"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Greg Anderson",
+                "name": "Joshua's assistant",
+                "description": ""
+            },
+            {
+                "actor": "Melanie Specht",
+                "name": "Joshua's assistant",
+                "description": ""
+            },
+            {
+                "actor": "Victoria Summer",
+                "name": "Joshua's assistant",
+                "description": ""
+            },
+            {
+                "actor": "Han Geng",
+                "name": "himself",
+                "description": "singer playing the guitar and singing in a parked car that is magnetized by Lockdown's ship"
+            },
+            {
+                "actor": "Edward T. Welburn",
+                "name": "KSI executive",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Covais",
+                "name": "motorist",
+                "description": ""
+            },
+            {
+                "actor": "Ray Lui",
+                "name": "motorist",
+                "description": ""
+            }
+        ]
+    },
+    "Power Rangers": {
+        "main": [
+            {
+                "actor": "Dacre Montgomery",
+                "name": "Jason Scott / Red Ranger",
+                "description": "leader of the Power Rangers and former star quarterback of Angel Grove High School's football team before a failed prank led to a run-in with the law"
+            },
+            {
+                "actor": "Naomi Scott",
+                "name": "Kimberly Hart / Pink Ranger",
+                "description": "disgraced former cheerleader who took part in a cyberbullying incident by spreading a private image of her friend around school"
+            },
+            {
+                "actor": "RJ Cyler",
+                "name": "Billy Cranston / Blue Ranger",
+                "description": "loner with high-functioning autism who is a target of bullying"
+            },
+            {
+                "actor": "Becky G",
+                "name": "Trini Kwan / Yellow Ranger",
+                "description": "new girl in town who is struggling to make friends, having difficulty relating to her family, and questioning her sexual orientation"
+            },
+            {
+                "actor": "Ludi Lin",
+                "name": "Zack Taylor / Black Ranger",
+                "description": "second in command of the team whose mother is sick, so he lives in fear that he will return home one day to find her dead"
+            },
+            {
+                "actor": "Bill Hader",
+                "name": "voice of Alpha 5",
+                "description": "robot assistant to Zordon"
+            },
+            {
+                "actor": "Bryan Cranston",
+                "name": "Zordon",
+                "description": "the Power Rangers' mentor and the former Red Ranger who lived millions of years ago before his consciousness became a part of the Morphing Grid at the time of his death"
+            },
+            {
+                "actor": "Elizabeth Banks",
+                "name": "Rita Repulsa",
+                "description": "former Green Ranger who went rogue and killed her old team before being subdued by Zordon for millions of years and works to form the monster Goldar"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Fred Tatasciore",
+                "name": "voice of Goldar / vocal effects of Putties",
+                "description": "gigantic winged monster made of gold / stone golems"
+            },
+            {
+                "actor": "David Denman",
+                "name": "Sam Scott",
+                "description": "Jason's father"
+            },
+            {
+                "actor": "Fiona Fu",
+                "name": "Mrs. Taylor",
+                "description": "Zack's mother"
+            },
+            {
+                "actor": "Wesley MacInnes",
+                "name": "Colt Wallace",
+                "description": "school bully who is constantly picking on Billy"
+            },
+            {
+                "actor": "Jason David Frank",
+                "name": "Angel Grove citizen",
+                "description": ""
+            },
+            {
+                "actor": "Amy Jo Johnson",
+                "name": "Angel Grove citizen",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Caroline Cave",
+                "name": "Beverly Scott",
+                "description": "Jason's mother"
+            },
+            {
+                "actor": "Anjali Jay",
+                "name": "Maddy Hart",
+                "description": "Kimberly's mother"
+            },
+            {
+                "actor": "Robert Moloney",
+                "name": "Ted Hart",
+                "description": "Kimberly's father"
+            },
+            {
+                "actor": "Patrick Sabongui",
+                "name": "Mr. Kwan",
+                "description": "Trini's father"
+            },
+            {
+                "actor": "Erica Cerra",
+                "name": "Mrs. Kwan",
+                "description": "Trini's obsessive mother"
+            },
+            {
+                "actor": "Kayden Magnuson",
+                "name": "Pearl Scott",
+                "description": "Jason's sister"
+            },
+            {
+                "actor": "Sarah Grey",
+                "name": "Amanda Clark",
+                "description": ""
+            },
+            {
+                "actor": "Emily Maddison",
+                "name": "Rebecca",
+                "description": ""
+            },
+            {
+                "actor": "Jaime Callica",
+                "name": "Officer Bebe",
+                "description": ""
+            },
+            {
+                "actor": "Matt Shively",
+                "name": "Damo",
+                "description": ""
+            },
+            {
+                "actor": "Garry Chalk",
+                "name": "Captain Bowen",
+                "description": ""
+            },
+            {
+                "actor": "Lisa Berry",
+                "name": "Candace Cranston",
+                "description": "Billy's mother"
+            }
+        ]
+    },
+    "Transformers: The Last Knight": {
+        "main": [
+            {
+                "actor": "Mark Wahlberg",
+                "name": "Cade Yeager",
+                "description": "single father and inventor who helped the Autobots"
+            },
+            {
+                "actor": "Josh Duhamel",
+                "name": "William Lennox",
+                "description": "former NEST commander and U.S. Army Ranger who partnered with the Autobots prior to the events of Dark of the Moon, and now a U.S. Army Special Forces Colonel and reluctant member of the Transformers Reaction Force (TRF)"
+            },
+            {
+                "actor": "Stanley Tucci",
+                "name": "Merlin",
+                "description": "wizard who helped the Guardian Knights"
+            },
+            {
+                "actor": "Anthony Hopkins",
+                "name": "Sir Edmund Burton",
+                "description": "12th Earl of Folgan, an astronomer and historian who knows about the history of the Transformers on Earth"
+            },
+            {
+                "actor": "Laura Haddock",
+                "name": "Viviane Wembly",
+                "description": "professor of English Literature at the University of Oxford and a polo player, who turns out to be a descendant of Merlin"
+            },
+            {
+                "actor": "John Turturro",
+                "name": "Seymour Simmons",
+                "description": "former government agent of sector seven and NEST turned successful writer who hides out in Cuba"
+            },
+            {
+                "actor": "Peter Cullen",
+                "name": "Optimus Prime / Nemesis Prime",
+                "description": "leader of the Autobots, who is searching for the truth about his Creators, and transforms into a blue and red 2014 Western Star 5700 Custom semi-trailer truck"
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "Megatron",
+                "description": "leader of the Decepticons, who possessed a KSI Drone in Age of Extinction and transforms into a Cybertronian jet"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Minti Gorne",
+                "name": "young Viviane",
+                "description": ""
+            },
+            {
+                "actor": "Remi Adeleke",
+                "name": "TRF lieutenant",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Hogan",
+                "name": "Viviane's father",
+                "description": ""
+            },
+            {
+                "actor": "Erik Aadahl",
+                "name": "Bumblebee / ZB-7",
+                "description": "Autobot scout and Optimus Prime's second-in-command, who transforms into a custom-built yellow and black 2017 Chevrolet Camaro with a body kit"
+            },
+            {
+                "actor": "Steven Barr",
+                "name": "Topsin",
+                "description": "Autobot Wrecker who resides in Cuba with Simmons that once transformed into a #48 Hendrick Motorsports Lowe's/Kobalt car"
+            },
+            {
+                "actor": "Mark Ryan",
+                "name": "WWII Tank / Lieutenant",
+                "description": "Autobot veteran of World War I and World War II, and a sentry for Burton's castle, who transforms into an army green Mark IV tank and suffers from 'robot dementia' / elderly Autobot that transforms into a Hawker Hurricane fighter plane that cameos at Burton's castle"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Isabela Moner",
+                "name": "Izabella",
+                "description": "street-wise tomboy who was orphaned by the Battle of Chicago in Dark of the Moon and now lives in the city ruins with Sqweeks and Canopy, her only friends, until meeting Cade"
+            },
+            {
+                "actor": "Jerrod Carmichael",
+                "name": "Jimmy",
+                "description": "young man from South Dakota whom Cade hired through a want ad"
+            },
+            {
+                "actor": "Santiago Cabrera",
+                "name": "Santos",
+                "description": "former Delta Force operative and ruthless commander of the TRF, who seeks to eradicate every Transformer and their human allies regardless of faction"
+            },
+            {
+                "actor": "Glenn Morshower",
+                "name": "General Morshower",
+                "description": "former leader of NEST in Revenge of the Fallen and Dark of the Moon who now supervises TRF operations"
+            },
+            {
+                "actor": "Liam Garrigan",
+                "name": "King Arthur",
+                "description": "legendary knight who first fought with the Knights of Iacon"
+            },
+            {
+                "actor": "Mitch Pileggi",
+                "name": "TRF group leader",
+                "description": ""
+            },
+            {
+                "actor": "Tony Hale",
+                "name": "JPL engineer",
+                "description": ""
+            },
+            {
+                "actor": "Gil Birmingham",
+                "name": "Chief Sherman",
+                "description": ""
+            },
+            {
+                "actor": "Nicola Peltz",
+                "name": "voice of Tessa Yeager",
+                "description": ""
+            },
+            {
+                "actor": "Gemma Chan",
+                "name": "Quintessa",
+                "description": "Cybertronian Sorceress, the \"Prime of Life\" and the creator of the Cybertronians who wants to destroy Unicron (and Earth) and rebuild Cybertron through whatever way possible"
+            },
+            {
+                "actor": "Jim Carter",
+                "name": "Cogman",
+                "description": "polite but sociopathic, human-sized robot who serves as the faithful butler to Sir Edmund Burton"
+            },
+            {
+                "actor": "Omar Sy",
+                "name": "Hot Rod",
+                "description": "Autobot who transforms into a 1975 Citro\u00ebn DS, before upgrading into a 2017 Lamborghini Centenario LP770-4 and is brother-in-arms with Bumblebee and speaks in a thick French accent which he's ashamed of and wishes to remove"
+            },
+            {
+                "actor": "Ken Watanabe",
+                "name": "Drift",
+                "description": "Samurai-motif Autobot tactician and former Decepticon who transforms into a black and red 2017 Mercedes-AMG GT R"
+            },
+            {
+                "actor": "John Goodman",
+                "name": "Hound",
+                "description": "trigger-happy Autobot commando and field medic who transforms into an olive green Mercedes-Benz Unimog military tactical ambulance"
+            },
+            {
+                "actor": "John DiMaggio",
+                "name": "Crosshairs / Nitro Zeus",
+                "description": "cocky Autobot paratrooper and sniper who transforms into a green and black 2017 Chevrolet Corvette C7 Stingray, equipped with a custom split-spoiler / showboating Decepticon hunter who transforms into an JAS 39 Gripen Fighter Jet"
+            },
+            {
+                "actor": "Reno Wilson",
+                "name": "Sqweeks / Mohawk",
+                "description": "small Autobot and Izabella's closest friend who can't transform into a blue Vespa Scooter and only says \"Chihuahua\" due to prior damage / talkative and psychotic Decepticon foot soldier who transforms into a Confederate P51 Combat Fighter Motorcycle"
+            },
+            {
+                "actor": "Jess Harnell",
+                "name": "Barricade",
+                "description": "Decepticon scout who was thought to have been killed in Dark of the Moon who now transforms into a 2016 Ford Mustang police car, featuring a new, sleeker robot mode"
+            },
+            {
+                "actor": "Tom Kenny",
+                "name": "Wheelie",
+                "description": "Autobot and former Decepticon who survived the Chicago battle in Dark of the Moon who transforms into a remote-controlled monster truck"
+            },
+            {
+                "actor": "Steve Buscemi",
+                "name": "Daytrader",
+                "description": "Autobot scavenger who transforms into a cloaked rusty Mercedes-Benz LK Model 1920 dump truck"
+            }
+        ]
+    },
+    "Bumblebee": {
+        "main": [
+            {
+                "actor": "Hailee Steinfeld",
+                "name": "Charlie Watson",
+                "description": "18-year-old girl who finds and befriends Bumblebee"
+            },
+            {
+                "actor": "John Cena",
+                "name": "Jack Burns",
+                "description": "former U.S Army Colonel and agent of Sector 7"
+            },
+            {
+                "actor": "Dylan O'Brien",
+                "name": "Bumblebee/B-127",
+                "description": "young Autobot scout who transforms first into an advanced yellow Cybertronian car, then a yellow 1942 Willys MB jeep, before switching for a rusty yellow 1967 Volkswagen Beetle, and eventually a yellow 1977 Chevrolet Camaro"
+            },
+            {
+                "actor": "Peter Cullen",
+                "name": "Optimus Prime",
+                "description": "leader of the Autobot resistance, who transforms into a 1987 Freightliner FLA semi truck"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Jorge Lendeborg Jr.",
+                "name": "Guillermo \"Memo\" Gutierrez",
+                "description": "Charlie's next-door neighbor who befriends Charlie and Bumblebee"
+            },
+            {
+                "actor": "John Ortiz",
+                "name": "Dr. Powell",
+                "description": "agent of Sector 7"
+            },
+            {
+                "actor": "Jason Drucker",
+                "name": "Otis Watson",
+                "description": "Charlie's younger brother"
+            },
+            {
+                "actor": "Pamela Adlon",
+                "name": "Sally Watson",
+                "description": "Charlie and Otis's mother"
+            },
+            {
+                "actor": "Stephen Schneider",
+                "name": "Ron",
+                "description": "Sally's fianc\u00e9e and Charlie and Otis's soon-to-be stepfather"
+            },
+            {
+                "actor": "Glynn Turman",
+                "name": "General Whalen",
+                "description": "Burns's superior at Sector 7"
+            },
+            {
+                "actor": "Angela Bassett",
+                "name": "Shatter",
+                "description": "female Decepticon triple-changer who transforms into a red 1971 Plymouth GTX and a Harrier Jump Jet"
+            },
+            {
+                "actor": "Justin Theroux",
+                "name": "Dropkick",
+                "description": "Decepticon triple-changer who transforms into a blue 1974 AMC Javelin and a Bell AH-1 SuperCobra"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Len Cariou",
+                "name": "Uncle Hank",
+                "description": "owner of a junkyard where Charlie sources car parts"
+            },
+            {
+                "actor": "Gracie Dzienny",
+                "name": "Tina Lark",
+                "description": "Charlie's mean-spirited classmate"
+            },
+            {
+                "actor": "Ricardo Hoyos",
+                "name": "Tripp Summers",
+                "description": "Charlie's classmate and Tina's boyfriend"
+            },
+            {
+                "actor": "Lenny Jacobson",
+                "name": "Roy",
+                "description": "trailer park resident"
+            },
+            {
+                "actor": "Megyn Price",
+                "name": "Amber",
+                "description": "Roy's girlfriend"
+            },
+            {
+                "actor": "Nick Pilla",
+                "name": "Seymour Simmons",
+                "description": "Sector 7 agent"
+            },
+            {
+                "actor": "Fred Dryer",
+                "name": "Sheriff Lock",
+                "description": "sheriff who enters into a high-speed chase with Charlie, Memo, and Bumblebee"
+            },
+            {
+                "actor": "Edwin Hodge",
+                "name": "Danny Bell",
+                "description": "agent of Sector 7"
+            },
+            {
+                "actor": "Tim Martin Gleason",
+                "name": "Charlie's deceased father",
+                "description": ""
+            },
+            {
+                "actor": "Grey Griffin",
+                "name": "Arcee",
+                "description": "Autobot communications officer"
+            },
+            {
+                "actor": "Steve Blum",
+                "name": "Wheeljack",
+                "description": "Autobot scientist"
+            },
+            {
+                "actor": "Andrew Morgado",
+                "name": "Cliffjumper",
+                "description": "red Autobot and one of Bumblebee's fellow scouts who is executed by Dropkick on one of Saturn's moons"
+            },
+            {
+                "actor": "Kirk Baily",
+                "name": "Brawn",
+                "description": "Autobot commando"
+            },
+            {
+                "actor": "Dennis Singletary",
+                "name": "Ratchet",
+                "description": "Autobot medic"
+            },
+            {
+                "actor": "David Sobolov",
+                "name": "Blitzwing",
+                "description": "Decepticon seeker who transforms into a red and white McDonnell Douglas F-4 Phantom II and is responsible for damaging Bumblebee's voice box"
+            },
+            {
+                "actor": "Jon Bailey",
+                "name": "Shockwave / Soundwave",
+                "description": "Decepticon scientist who orders the destruction of the Autobot Tower /  the Decepticons' communications officer, who leads the Decepticons in Megatron's absence and has a minion named Ravage that he houses in his chest"
+            }
+        ]
+    },
+    "Planet of the Apes (1968)": {
+        "main": [
+            {
+                "actor": "Charlton Heston",
+                "name": "George Taylor",
+                "description": ""
+            },
+            {
+                "actor": "Roddy McDowall",
+                "name": "Dr. Cornelius",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Kim Hunter",
+                "name": "Zira",
+                "description": ""
+            },
+            {
+                "actor": "Maurice Evans",
+                "name": "Dr. Zaius",
+                "description": ""
+            },
+            {
+                "actor": "James Whitmore",
+                "name": "President of the Assembly",
+                "description": ""
+            },
+            {
+                "actor": "James Daly",
+                "name": "Dr. Honorious",
+                "description": ""
+            },
+            {
+                "actor": "Linda Harrison",
+                "name": "Nova",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Robert Gunner",
+                "name": "Landon",
+                "description": ""
+            },
+            {
+                "actor": "Lou Wagner",
+                "name": "Lucius",
+                "description": ""
+            },
+            {
+                "actor": "Woodrow Parfrey",
+                "name": "Dr. Maximus",
+                "description": ""
+            },
+            {
+                "actor": "Jeff Burton",
+                "name": "Dodge",
+                "description": ""
+            },
+            {
+                "actor": "Buck Kartalian",
+                "name": "Julius",
+                "description": ""
+            },
+            {
+                "actor": "Norman Burton",
+                "name": "Hunt Leader",
+                "description": ""
+            },
+            {
+                "actor": "Wright King",
+                "name": "Dr. Galen",
+                "description": ""
+            },
+            {
+                "actor": "Paul Lambert",
+                "name": "Minister",
+                "description": ""
+            },
+            {
+                "actor": "Dianne Stanley",
+                "name": "Stewart",
+                "description": ""
+            }
+        ]
+    },
+    "Beneath the Planet of the Apes": {
+        "supporting": [
+            {
+                "actor": "James Franciscus",
+                "name": "Brent",
+                "description": ""
+            },
+            {
+                "actor": "Kim Hunter",
+                "name": "Zira",
+                "description": ""
+            },
+            {
+                "actor": "Maurice Evans",
+                "name": "Dr. Zaius",
+                "description": ""
+            },
+            {
+                "actor": "Linda Harrison",
+                "name": "Nova",
+                "description": ""
+            },
+            {
+                "actor": "Paul Richards",
+                "name": "Mendez",
+                "description": ""
+            },
+            {
+                "actor": "Charlton Heston",
+                "name": "Taylor",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Victor Buono",
+                "name": "Fat Man",
+                "description": ""
+            },
+            {
+                "actor": "James Gregory",
+                "name": "General Ursus",
+                "description": ""
+            },
+            {
+                "actor": "Jeff Corey",
+                "name": "Caspay",
+                "description": ""
+            },
+            {
+                "actor": "Natalie Trundy",
+                "name": "Albina",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Gomez",
+                "name": "Minister",
+                "description": ""
+            },
+            {
+                "actor": "Don Pedro Colley",
+                "name": "Black Man",
+                "description": ""
+            },
+            {
+                "actor": "David Watson",
+                "name": "Cornelius",
+                "description": ""
+            },
+            {
+                "actor": "Tod Andrews",
+                "name": "Skipper",
+                "description": ""
+            },
+            {
+                "actor": "Gregory Sierra",
+                "name": "Verger",
+                "description": ""
+            },
+            {
+                "actor": "Paul Frees",
+                "name": "end narrator",
+                "description": ""
+            }
+        ]
+    },
+    "Escape from the Planet of the Apes": {
+        "main": [
+            {
+                "actor": "Roddy McDowall",
+                "name": "Dr. Cornelius",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Kim Hunter",
+                "name": "Dr. Zira",
+                "description": ""
+            },
+            {
+                "actor": "Bradford Dillman",
+                "name": "Dr. Lewis Dixon",
+                "description": ""
+            },
+            {
+                "actor": "Natalie Trundy",
+                "name": "Dr. Stephanie Branton",
+                "description": ""
+            },
+            {
+                "actor": "Eric Braeden",
+                "name": "Dr. Otto Hasslein",
+                "description": ""
+            },
+            {
+                "actor": "Sal Mineo",
+                "name": "Dr. Milo",
+                "description": ""
+            },
+            {
+                "actor": "M. Emmet Walsh",
+                "name": "Aide",
+                "description": ""
+            },
+            {
+                "actor": "Ricardo Montalb\u00e1n",
+                "name": "Armando",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "William Windom",
+                "name": "President of the United States",
+                "description": ""
+            },
+            {
+                "actor": "Albert Salmi",
+                "name": "E-1",
+                "description": ""
+            },
+            {
+                "actor": "Jason Evers",
+                "name": "E-2",
+                "description": ""
+            },
+            {
+                "actor": "John Randolph",
+                "name": "Chairman",
+                "description": ""
+            },
+            {
+                "actor": "Harry Lauter",
+                "name": "General Winthrop",
+                "description": ""
+            },
+            {
+                "actor": "Roy Glenn",
+                "name": "Lawyer",
+                "description": ""
+            },
+            {
+                "actor": "Peter Forster",
+                "name": "Cardinal",
+                "description": ""
+            },
+            {
+                "actor": "Bill Bonds",
+                "name": "TV Newscaster",
+                "description": ""
+            },
+            {
+                "actor": "James Bacon",
+                "name": "General Faulkner",
+                "description": ""
+            }
+        ]
+    },
+    "Conquest of the Planet of the Apes": {
+        "main": [
+            {
+                "actor": "Roddy McDowall",
+                "name": "Caesar",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Don Murray",
+                "name": "Governor Breck",
+                "description": ""
+            },
+            {
+                "actor": "Ricardo Montalban",
+                "name": "Armando",
+                "description": ""
+            },
+            {
+                "actor": "Natalie Trundy",
+                "name": "Lisa",
+                "description": ""
+            },
+            {
+                "actor": "Hari Rhodes",
+                "name": "MacDonald",
+                "description": ""
+            },
+            {
+                "actor": "Severn Darden",
+                "name": "Kolp",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Lou Wagner",
+                "name": "Busboy",
+                "description": ""
+            },
+            {
+                "actor": "John Randolph",
+                "name": "Commission Chairman",
+                "description": ""
+            },
+            {
+                "actor": "Asa Maynor",
+                "name": "Mrs. Riley",
+                "description": ""
+            },
+            {
+                "actor": "H. M. Wynant",
+                "name": "Hoskyns",
+                "description": ""
+            },
+            {
+                "actor": "David Chow",
+                "name": "Aldo",
+                "description": ""
+            },
+            {
+                "actor": "Buck Kartalian",
+                "name": "Frank (Gorilla)",
+                "description": ""
+            },
+            {
+                "actor": "John Dennis",
+                "name": "Policeman",
+                "description": ""
+            },
+            {
+                "actor": "Paul Comi",
+                "name": "2nd Policeman",
+                "description": ""
+            },
+            {
+                "actor": "Gordon Jump",
+                "name": "Auctioneer",
+                "description": ""
+            },
+            {
+                "actor": "Dick Spangler",
+                "name": "Announcer",
+                "description": ""
+            }
+        ]
+    },
+    "Battle for the Planet of the Apes": {
+        "main": [
+            {
+                "actor": "Roddy McDowall",
+                "name": "Caesar",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Claude Akins",
+                "name": "Aldo",
+                "description": ""
+            },
+            {
+                "actor": "Natalie Trundy",
+                "name": "Lisa",
+                "description": ""
+            },
+            {
+                "actor": "Severn Darden",
+                "name": "Kolp",
+                "description": ""
+            },
+            {
+                "actor": "Lew Ayres",
+                "name": "Mandemus",
+                "description": ""
+            },
+            {
+                "actor": "John Huston",
+                "name": "Lawgiver",
+                "description": ""
+            },
+            {
+                "actor": "John Landis",
+                "name": "Jake's friend",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Austin Stoker",
+                "name": "MacDonald",
+                "description": ""
+            },
+            {
+                "actor": "Noah Keen",
+                "name": "Teacher",
+                "description": ""
+            },
+            {
+                "actor": "Richard Eastham",
+                "name": "Mutant Captain",
+                "description": ""
+            },
+            {
+                "actor": "France Nuyen",
+                "name": "Alma",
+                "description": ""
+            },
+            {
+                "actor": "Paul Stevens",
+                "name": "Mendez",
+                "description": ""
+            },
+            {
+                "actor": "Heather Lowe",
+                "name": "Doctor",
+                "description": ""
+            },
+            {
+                "actor": "Paul Williams",
+                "name": "Virgil",
+                "description": ""
+            },
+            {
+                "actor": "Bobby Porter",
+                "name": "Cornelius",
+                "description": ""
+            },
+            {
+                "actor": "Michael Stearns",
+                "name": "Jake",
+                "description": ""
+            },
+            {
+                "actor": "Cal Wilson",
+                "name": "Soldier",
+                "description": ""
+            },
+            {
+                "actor": "Pat Cardi",
+                "name": "Young Chimp",
+                "description": ""
             }
         ]
     }
