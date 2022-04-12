@@ -109,7 +109,7 @@ Dick Tracy,Robert Costanzo,Lips Manlis' bodyguard,minor,
 Dick Tracy,Marshall Bell,goon of Big Boy Caprice,minor,goon who poses as an arresting officer to ensnare Lips
 Dick Tracy,Allen Garfield,reporter,minor,
 Dick Tracy,John Schuck,reporter,minor,
-Dick Tracy,Charles Fleischer,reporter,minor,
+Dick Tracy,Charles Fleischer,reporter,supporting,
 Dick Tracy,Walker Edmiston,voice of radio announcer,minor,
 Dick Tracy,John Moschitta Jr.,voice of radio announcer,minor,
 Dick Tracy,Neil Ross,voice of radio announcer,minor,
@@ -1140,3 +1140,235 @@ The Road Warrior,Syd Heylen,Curmudgeon,minor,
 The Road Warrior,Moira Claux,"Rebecca ""Big Rebecca""",minor,female warrior among the settlers who wields a bow and arrow
 The Road Warrior,David Downer,Nathan,minor,member of the settlers who tries to escape the settlement and is fatally wounded by some of Humungus' bikers
 The Road Warrior,Jerry O'Sullivan,"""The Golden Youth""",minor,Wez's companion who is killed by the Feral Kid
+The Terminator,Arnold Schwarzenegger,the Terminator,main,cybernetic android disguised as a human being sent back in time to assassinate Sarah Connor
+The Terminator,Michael Biehn,Kyle Reese,main,human Resistance fighter sent back in time to protect Sarah
+The Terminator,Linda Hamilton,Sarah Connor,main,"19-year-old diner waitress and the Terminator's target, who is soon to be the mother of the future Resistance leader John Connor"
+The Terminator,Paul Winfield,Ed Traxler,supporting,police Lieutenant who tries to protect Sarah
+The Terminator,Lance Henriksen,Vukovich,supporting,member of the LAPD
+The Terminator,Bess Motta,Ginger,supporting,Sarah's roommate whom the T-800 murders after mistaking her for Sarah
+The Terminator,Rick Rossovich,Matt,supporting,Ginger's boyfriend whom the T-800 also murdered
+The Terminator,Earl Boen,Dr. Silberman,supporting,criminal psychologist
+The Terminator,Shawn Schepps,Nancy,minor,Sarah's co-worker at the diner
+The Terminator,Dick Miller,gun shop clerk,minor,
+The Terminator,Franco Columbu,a Terminator in the future,minor,
+The Terminator,Bill Paxton,punk whom the Terminator kills,supporting,
+The Terminator,Brian Thompson,punk whom the Terminator kills,minor,
+The Terminator,Marianne Muellerleile,"""Sarah Connor""",minor,a woman who shares Sarath's name whom the Terminator shoots
+The Terminator,Rick Aiello,bouncer at Tech-Noir,minor,
+The Terminator,Bill Wisher,police officer,minor,"officer who reports a hit-and-run felony on Reese, only to be killed and have his car stolen by the Terminator soon thereafter"
+Back to the Future,Michael J. Fox,Marty McFly,main,high school student and aspiring musician
+Back to the Future,Christopher Lloyd,"Emmett ""Doc"" Brown",main,eccentric scientist experimenting with time travel
+Back to the Future,Lea Thompson,Lorraine Baines-McFly,main,"1955 teenager who grows into Marty's unhappy, alcoholic mother"
+Back to the Future,Crispin Glover,George McFly,main,"nerdy 1955 high schooler who grows into Marty's cowardly, submissive father"
+Back to the Future,Thomas F. Wilson,Biff Tannen,main,1955 high school bully turned George's 1985 boss
+Back to the Future,James Tolkan,Strickland,supporting,Hill Valley high school principal in both 1955 and 1985
+Back to the Future,Claudia Wells,Jennifer Parker,supporting,Marty's girlfriend
+Back to the Future,Marc McClure,Dave McFly,supporting,Marty's brother
+Back to the Future,Wendie Jo Sperber,Linda McFly,supporting,Marty's sister
+Back to the Future,Elsa Raven,Clocktower Lady,minor,
+Back to the Future,Huey Lewis,judge for the Battle of the Bands contest,supporting,
+Back to the Future,Richard L. Duran,Libyan terrorist,minor,
+Back to the Future,Jeff O'Haco,Libyan terrorist,minor,
+Back to the Future,George DiCenzo,Sam Baines,supporting,Lorraine's father
+Back to the Future,Frances Lee McCain,Stella Baines,supporting,Lorraine's mother
+Back to the Future,Jason Hervey,Milton Baines,supporting,Lorraine's younger brother
+Back to the Future,Jeffrey Jay Cohen,Skinhead,supporting,member of Biff's gang
+Back to the Future,Casey Siemaszko,3-D,supporting,member of Biff's gang
+Back to the Future,Billy Zane,Match,supporting,member of Biff's gang
+Back to the Future,Norman Alden,Lou,supporting,cafe owner
+Back to the Future,Donald Fullilove,Goldie Wilson,supporting,Lou's employee and future mayor
+Back to the Future,Harry Waters Jr.,Marvin Berry,supporting,Chuck Berry's cousin
+Back to the Future,Will Hare,Pa Peabody,minor,
+Back to the Future,Courtney Gains,Dixon,minor,youth who interrupts George's and Lorraine's dance
+Mad Max Beyond Thunderdome,Mel Gibson,"Max ""Mad Max"" Rockatansky",main,"former MFP officer and lone warrior who roves the desert aimlessly, his existence entirely based around self-survival"
+Mad Max Beyond Thunderdome,Tina Turner,"Aunty ""Entity""",main,"ruthless, determined ruler of Bartertown"
+Mad Max Beyond Thunderdome,Bruce Spence,"Jedediah ""The Pilot""",supporting,marauding pilot who trades stolen goods in Bartertown
+Mad Max Beyond Thunderdome,Adam Cockburn,Jedediah Jr.,supporting,"Jedediah's son, who often helps his father steal supplies, flying his father's aeroplane while Jedediah procures the goods"
+Mad Max Beyond Thunderdome,Frank Thring,"""The Collector""",supporting,head of Bartertown's trade and exchange network
+Mad Max Beyond Thunderdome,Angelo Rossitto,"""Master""",supporting,"diminutive former engineer, who parlays his technical expertise into building the methane extractor responsible for Bartertown's electricity"
+Mad Max Beyond Thunderdome,Paul Larsson,"""Blaster""",supporting,"Master's silent, mentally-impaired bodyguard"
+Mad Max Beyond Thunderdome,Angry Anderson,"""Ironbar"" Bassey",supporting,head of Bartertown's security and Aunty Entity's Number One Henchman
+Mad Max Beyond Thunderdome,Robert Grubb,The Pig Killer,supporting,"convict in Bartertown sentenced to work in the methane refinery, shovelling pig feces, for the crime of killing one of Underworld's pigs to feed his children"
+Mad Max Beyond Thunderdome,Helen Buday,Savannah Nix,supporting,leader of a tribe of child survivors (or the children of those survivors) from a crashed 747
+Mad Max Beyond Thunderdome,Tom Jennings,Slake M'Thirst,minor,male leader of the child tribe
+Mad Max Beyond Thunderdome,Edwin Hodgeman,Dr. Dealgood,minor,flamboyant Master of Ceremonies and chief auctioneer of Bartertown
+Mad Max Beyond Thunderdome,Rod Zuanic,"""Scrooloose""",minor,misfit child able to copy everyone else's abilities and manners
+Mad Max Beyond Thunderdome,George Spartels,"""Blackfinger""",minor,
+Back to the Future Part II,Michael J. Fox,Marty McFly / Marty McFly Jr. / Marlene McFly,main,
+Back to the Future Part II,Christopher Lloyd,"Emmett ""Doc"" Brown",main,
+Back to the Future Part II,Lea Thompson,Lorraine Baines-McFly,main,
+Back to the Future Part II,Thomas F. Wilson,Biff Tannen / Griff Tannen / Gertrude Tannen,main,
+Back to the Future Part II,Elisabeth Shue,Jennifer Parker,main,
+Back to the Future Part II,James Tolkan,Mr. Strickland,supporting,
+Back to the Future Part II,Jeffrey Weissman,George McFly,supporting,
+Back to the Future Part II,Casey Siemaszko,3-D,supporting,member of Biff's gang
+Back to the Future Part II,Billy Zane,Match,supporting,member of Biff's gang
+Back to the Future Part II,Jeffrey Jay Cohen,Skinhead,supporting,member of Biff's gang
+Back to the Future Part II,Charles Fleischer,Terry,supporting,
+Back to the Future Part II,Harry Waters Jr.,Marvin Berry,supporting,
+Back to the Future Part II,Ricky Dean Logan,Data,minor,member of Griff's gang
+Back to the Future Part II,Darlene Vogel,Spike,minor,member of Griff's gang
+Back to the Future Part II,Jason Scott Lee,Whitey,supporting,member of Griff's gang
+Back to the Future Part II,Elijah Wood,Video Game Boy,supporting,
+Back to the Future Part III,Michael J. Fox,Marty McFly / Seamus McFly,main,
+Back to the Future Part III,Christopher Lloyd,"Emmett ""Doc"" Brown",main,
+Back to the Future Part III,Mary Steenburgen,Clara Clayton,main,
+Back to the Future Part III,Thomas F. Wilson,Buford 'Mad Dog' Tannen / Biff Tannen,main,
+Back to the Future Part III,Lea Thompson,Maggie McFly / Lorraine Baines McFly,main,
+Back to the Future Part III,James Tolkan,Marshal Strickland,supporting,
+Back to the Future Part III,Elisabeth Shue,Jennifer Parker,supporting,
+Back to the Future Part III,Marc McClure,Dave McFly,supporting,Marty's brother
+Back to the Future Part III,Wendie Jo Sperber,Linda McFly,supporting,Marty's sister
+Back to the Future Part III,Jeffrey Weissman,George McFly,supporting,
+Back to the Future Part III,Matt Clark,Chester,supporting,bartender
+Back to the Future Part III,Flea,Douglas J. Needles,supporting,
+Back to the Future Part III,Dub Taylor,Saloon Old-Timer #1,minor,
+Back to the Future Part III,"Harry Carey, Jr.",Saloon Old-Timer #2,minor,
+Back to the Future Part III,Pat Buttram,Saloon Old-Timer #3,minor,
+Back to the Future Part III,Burton Gilliam,Colt Gun Salesman,minor,
+Terminator 2: Judgment Day,Arnold Schwarzenegger,the Terminator,main,"reprogrammed Model 101 Series 800 ""T-800"" Terminator composed of living tissue over a metal endoskeleton"
+Terminator 2: Judgment Day,Linda Hamilton,Sarah Connor,main,self-trained soldier dedicated to preventing the rise of Skynet
+Terminator 2: Judgment Day,Edward Furlong,John Connor,main,"Sarah's son, who is destined to lead the human resistance in opposition to Skynet"
+Terminator 2: Judgment Day,Robert Patrick,T-1000,main,advanced shapeshifting prototype Terminator composed of liquid metal
+Terminator 2: Judgment Day,Earl Boen,Dr. Silberman,supporting,Sarah's psychologist at the Pescadero State Hospital
+Terminator 2: Judgment Day,Joe Morton,Miles Bennett Dyson,supporting,director of special projects at Cyberdyne Systems Corporation
+Terminator 2: Judgment Day,Jenette Goldstein,Janelle Voight,supporting,John's foster mother
+Terminator 2: Judgment Day,Xander Berkeley,Todd Voight,supporting,John's foster father
+Terminator 2: Judgment Day,Cástulo Guerra,Enrique Salceda,minor,Sarah's friend
+Terminator 2: Judgment Day,S. Epatha Merkerson,Tarissa Dyson,supporting,Miles' wife
+Terminator 2: Judgment Day,DeVaughn Nixon,Danny Dyson,minor,Miles' son
+Terminator 2: Judgment Day,Danny Cooksey,Tim,minor,John's friend
+Terminator 2: Judgment Day,Leslie Hamilton Gearren,T-1000 impersonating Sarah when Hamilton is also on-screen,minor,
+Terminator 2: Judgment Day,Don Stanton,guard at the Pescadero hospital,minor,
+Terminator 2: Judgment Day,Dan Stanton,T-1000 imitating guard at the Pescadero hospital ,minor,
+Terminator 2: Judgment Day,Ken Gibbel,abusive orderly,minor,
+Terminator 2: Judgment Day,Robert Winley,man who confronts T-800 in biker bar,minor,
+Terminator 2: Judgment Day,Ron Young,man who confronts T-800 in biker bar,minor,
+Terminator 2: Judgment Day,Charles Robert Brown,man who confronts T-800 in biker bar,minor,
+Terminator 2: Judgment Day,Pete Schrum,man who confronts T-800 in biker bar,minor,
+Terminator 2: Judgment Day,Abdul Salaam El Razzac,Gibbons,minor,Cyberdyne guard
+Terminator 2: Judgment Day,Dean Norris,SWAT team leader,supporting,
+Terminator 2: Judgment Day,Michael Edwards,John Connor of 2029,minor,
+Terminator 2: Judgment Day,Dalton Abbott,infant John in dream sequence,,
+Terminator 2: Judgment Day,William Wisher,man photographing T-800 at mall,,
+Waterworld,Kevin Costner,The Mariner,main,
+Waterworld,Dennis Hopper,The Deacon,main,
+Waterworld,Jeanne Tripplehorn,Helen,main,
+Waterworld,Tina Majorino,Enola,supporting,
+Waterworld,Michael Jeter,Old Gregor,supporting,
+Waterworld,Gerard Murphy,The Nord,supporting,
+Waterworld,R. D. Call,Atoll Enforcer,supporting,
+Waterworld,Kim Coates,Drifter #2,minor,
+Waterworld,John Fleck,Smoker Doctor,minor,
+Waterworld,Robert Joy,Smoker Ledger Guy,minor,
+Waterworld,Jack Black,Smoker Plane Pilot,supporting,
+Waterworld,John Toles-Bey,Smoker Plane Gunner (Ed),minor,
+Waterworld,Robert LaSardo,Smitty,minor,
+Waterworld,Zakes Mokae,Priam,minor,
+Waterworld,Zitto Kazann,Atoll Elder,minor,
+Waterworld,Sab Shimono,Atoll Elder,minor,
+Waterworld,Leonardo Cimino,Atoll Elder,minor,
+Waterworld,Rick Aviles,Atoll Gatesman #1,minor,
+Waterworld,Jack Kehler,Atoll Banker,minor,
+Waterworld,Chris Douridas,Atoller #7,minor,
+Waterworld,Robert A. Silverman,Hydroholic,minor,
+Waterworld,Neil Giuntoli,Hellfire Gunner (Chuck),minor,
+Waterworld,William Preston,Smoker Depth Gauge Guy,minor,
+Waterworld,Sean Whalen,Bone,minor,
+Waterworld,Lee Arenberg,Djeng,supporting,
+The Matrix,Keanu Reeves,Thomas Anderson / Neo,main,"computer programmer, born Thomas A. Anderson, who secretly operates as a hacker named Neo"
+The Matrix,Laurence Fishburne,Morpheus,main,human freed from the Matrix and captain of the Nebuchadnezzar
+The Matrix,Carrie-Anne Moss,Trinity,main,"human freed by Morpheus, a crewmember of the Nebuchadnezzar, and later Neo's romantic interest"
+The Matrix,Hugo Weaving,Agent Smith,main,"sentient ""Agent"" program of the Matrix whose purpose is to destroy Zion and stop humans from getting out of the Matrix"
+The Matrix,Joe Pantoliano,Cypher,main,"human freed by Morpheus, and a crewmember of the Nebuchadnezzar, but one who regrets taking the red pill and seeks to be returned to the Matrix, later betraying the rebels to Agent Smith"
+The Matrix,Marcus Chong,Tank,supporting,"""operator"" of the Nebuchadnezzar and Dozer's brother born outside the Matrix"
+The Matrix,Anthony Ray Parker,Dozer,supporting,pilot of the Nebuchadnezzar and Tank's brother born outside the Matrix
+The Matrix,Julian Arahanga,Apoc,supporting,freed human and a crew member on the Nebuchadnezzar
+The Matrix,Matt Doran,Mouse,supporting,freed human and a programmer on the Nebuchadnezzar
+The Matrix,Gloria Foster,The Oracle,supporting,"prophet who still resides in the Matrix, helping the freed humans with her foresight and wisdom"
+The Matrix,Belinda McClory,Switch,supporting,"human freed by Morpheus, and a crew member of the Nebuchadnezzar"
+The Matrix,Paul Goddard,Agent Brown,minor,"one of two sentient ""Agent"" programs in the Matrix, who works with Agent Smith to destroy Zion and stop humans from escaping the system"
+The Matrix,Robert Taylor,Agent Jones,minor,"one of two sentient ""Agent"" programs in the Matrix who works with Agent Smith to destroy Zion and stop humans from escaping the system"
+The Matrix,Ada Nicodemou,DuJour,minor,
+The Matrix Reloaded,Keanu Reeves,Neo,main,
+The Matrix Reloaded,Laurence Fishburne,Morpheus,main,
+The Matrix Reloaded,Carrie-Anne Moss,Trinity,main,
+The Matrix Reloaded,Hugo Weaving,Smith,main,
+The Matrix Reloaded,Jada Pinkett Smith,Niobe,main,
+The Matrix Reloaded,Harold Perrineau,Link,supporting,
+The Matrix Reloaded,Gloria Foster,the Oracle,supporting,
+The Matrix Reloaded,Randall Duk Kim,the Keymaker,supporting,
+The Matrix Reloaded,Monica Bellucci,Persephone,supporting,
+The Matrix Reloaded,Lambert Wilson,the Merovingian,supporting,
+The Matrix Reloaded,Helmut Bakaitis,the Architect,supporting,
+The Matrix Reloaded,Nathaniel Lees,Captain Mifune,supporting,
+The Matrix Reloaded,Neil Rayment,one of the Twins,minor,
+The Matrix Reloaded,Adrian Rayment,one of the Twins,minor,
+The Matrix Reloaded,Daniel Bernhardt,Agent Johnson,minor,
+The Matrix Reloaded,Leigh Whannell,Axel,supporting,
+The Matrix Reloaded,Collin Chou,Seraph,supporting,
+The Matrix Reloaded,Nona Gaye,Zee,supporting,
+The Matrix Reloaded,Gina Torres,Cas,supporting,
+The Matrix Reloaded,Donald Anjaya Batte,Vector,minor,
+The Matrix Reloaded,Anthony Zerbe,Councillor Hamann,minor,
+The Matrix Reloaded,Roy Jones Jr.,Captain Ballard,minor,
+The Matrix Reloaded,David A. Kilde,Agent Jackson,minor,
+The Matrix Reloaded,Matt McColm,Agent Thompson,minor,
+The Matrix Reloaded,Harry Lennix,Commander Lock,supporting,
+The Matrix Reloaded,Cornel West,Councillor West,minor,
+The Matrix Reloaded,Steve Bastoni,Captain Soren,minor,
+The Matrix Reloaded,Anthony Wong,Ghost,minor,
+The Matrix Reloaded,Ian Bliss,Bane,minor,
+The Matrix Reloaded,Clayton Watson,the Kid,minor,
+Terminator 3: Rise of the Machines,Arnold Schwarzenegger,the Terminator,main,
+Terminator 3: Rise of the Machines,Nick Stahl,John Connor,main,
+Terminator 3: Rise of the Machines,Kristanna Loken,the T-X,supporting,advanced Terminator sent back to murder John's resistance lieutenants
+Terminator 3: Rise of the Machines,Claire Danes,"Katherine ""Kate"" Brewster",supporting,John's future wife
+Terminator 3: Rise of the Machines,David Andrews,Lieutenant General Robert Brewster,supporting,"ate's father who is also the program director at CRS, which has acquired Cyberdyne Systems' remaining assets"
+Terminator 3: Rise of the Machines,Mark Famiglietti,Scott Mason,supporting,Kate Brewster's slain fiancé
+Terminator 3: Rise of the Machines,Earl Boen,Dr. Peter Silberman,supporting,
+Terminator 3: Rise of the Machines,Jay Acovone,LAPD Officer,minor,
+Terminator 3: Rise of the Machines,Kim Robillard,Detective Edwards,minor,
+Terminator 3: Rise of the Machines,Mark Hicks,Detective Bell,minor,
+Terminator 3: Rise of the Machines,Billy D. Lucas,civilian whose car is accidentally wrecked by John,minor,
+The Matrix Revolutions,Keanu Reeves,Neo,main,
+The Matrix Revolutions,Laurence Fishburne,Morpheus,main,
+The Matrix Revolutions,Carrie-Anne Moss,Trinity,main,
+The Matrix Revolutions,Hugo Weaving,Smith,main,
+The Matrix Revolutions,Jada Pinkett Smith,Niobe,main,
+The Matrix Revolutions,Monica Bellucci,Persephone,supporting,
+The Matrix Revolutions,Lambert Wilson,the Merovingian,supporting,
+The Matrix Revolutions,Mary Alice,the Oracle,supporting,
+The Matrix Revolutions,Helmut Bakaitis,the Architect,supporting,
+The Matrix Revolutions,Harold Perrineau,Link,supporting,
+The Matrix Revolutions,Tanveer K. Atwal,Sati,supporting,
+The Matrix Revolutions,Bernard White,Rama Kandra,minor,
+The Matrix Revolutions,Collin Chou,Seraph,supporting,
+The Matrix Revolutions,Nona Gaye,Zee,supporting,
+The Matrix Revolutions,Gina Torres,Cas,supporting,
+The Matrix Revolutions,Bruce Spence,the Trainman,minor,
+The Matrix Revolutions,Ian Bliss,Bane,minor,
+The Matrix Revolutions,Harry Lennix,Commander Lock,supporting,
+The Matrix Revolutions,Anthony Zerbe,Councillor Hamann,minor,
+The Matrix Revolutions,Nathaniel Lee,Captain Mifune,supporting,
+The Matrix Revolutions,Clayton Watson,Kid,minor,
+The Matrix Revolutions,Cornel West,Councillor West,minor,
+The Matrix Revolutions,David Roberts,Captain Roland,minor,
+The Matrix Revolutions,Anthony Wong,Ghost,minor,
+The Matrix Revolutions,Tharini Mudaliar,Kamala,minor,
+The Matrix Revolutions,Henry Blasingame,motion capture of Deus Ex Machina,minor,
+The Matrix Revolutions,Kevin Michael Richardson,voice of Deus Ex Machina,minor,
+Terminator Salvation,Christian Bale,John Connor,main,
+Terminator Salvation,Sam Worthington,Marcus Wright,main,human-terminator hybrid experiment
+Terminator Salvation,Anton Yelchin,Kyle Reese,main,teenage refugee and admirer of John Connor and the Resistance
+Terminator Salvation,Moon Bloodgood,Blair Williams,supporting,no-nonsense and battle-hardened pilot of the Resistance who suffers from survivor's guilt and serves as a romantic interest for Marcus
+Terminator Salvation,Bryce Dallas Howard,Kate Connor,supporting,"wife of John Connor and daughter of Robert Brewster, who supervised the development of Skynet"
+Terminator Salvation,Common,Barnes,supporting,John's right-hand man
+Terminator Salvation,Jane Alexander,Virginia,supporting,leader of a grouop of human refugees
+Terminator Salvation,Helena Bonham Carter,Dr. Serena Kogan / Skynet,supporting,ex-Cyberdyne scientist who convinces Marcus to donate his body for her research and whose face is later used by the Skynet computer to communicate with Marcus
+Terminator Salvation,Michael Ironside,General Ashdown,supporting,leader of the Resistance
+Terminator Salvation,Ivan G'Vera,General Losenko,minor,member of the Resistance
+Terminator Salvation,Roland Kickinger,T-800,minor,
+Terminator Salvation,Jadagrace Berry,Star,minor,mute 8-year-old girl in Kyle's care born after Judgment Day
+Terminator Salvation,Brian Steele,T-600,minor,
+Terminator Salvation,Linda Hamilton,voice of Sarah Connor,supporting,John's mother who died years ago of leukemia but recorded tapes for John

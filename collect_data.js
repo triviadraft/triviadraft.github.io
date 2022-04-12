@@ -456,6 +456,11 @@ var actors_map = {
                 "actor": "Robert Beecher",
                 "name": "Ribs Mocca",
                 "description": "criminal who submits to Caprice"
+            },
+            {
+                "actor": "Charles Fleischer",
+                "name": "reporter",
+                "description": ""
             }
         ],
         "minor": [
@@ -576,11 +581,6 @@ var actors_map = {
             },
             {
                 "actor": "John Schuck",
-                "name": "reporter",
-                "description": ""
-            },
-            {
-                "actor": "Charles Fleischer",
                 "name": "reporter",
                 "description": ""
             },
@@ -6121,6 +6121,1264 @@ var actors_map = {
                 "actor": "Jerry O'Sullivan",
                 "name": "\"The Golden Youth\"",
                 "description": "Wez's companion who is killed by the Feral Kid"
+            }
+        ]
+    },
+    "The Terminator": {
+        "main": [
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "the Terminator",
+                "description": "cybernetic android disguised as a human being sent back in time to assassinate Sarah Connor"
+            },
+            {
+                "actor": "Michael Biehn",
+                "name": "Kyle Reese",
+                "description": "human Resistance fighter sent back in time to protect Sarah"
+            },
+            {
+                "actor": "Linda Hamilton",
+                "name": "Sarah Connor",
+                "description": "19-year-old diner waitress and the Terminator's target, who is soon to be the mother of the future Resistance leader John Connor"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Paul Winfield",
+                "name": "Ed Traxler",
+                "description": "police Lieutenant who tries to protect Sarah"
+            },
+            {
+                "actor": "Lance Henriksen",
+                "name": "Vukovich",
+                "description": "member of the LAPD"
+            },
+            {
+                "actor": "Bess Motta",
+                "name": "Ginger",
+                "description": "Sarah's roommate whom the T-800 murders after mistaking her for Sarah"
+            },
+            {
+                "actor": "Rick Rossovich",
+                "name": "Matt",
+                "description": "Ginger's boyfriend whom the T-800 also murdered"
+            },
+            {
+                "actor": "Earl Boen",
+                "name": "Dr. Silberman",
+                "description": "criminal psychologist"
+            },
+            {
+                "actor": "Bill Paxton",
+                "name": "punk whom the Terminator kills",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Shawn Schepps",
+                "name": "Nancy",
+                "description": "Sarah's co-worker at the diner"
+            },
+            {
+                "actor": "Dick Miller",
+                "name": "gun shop clerk",
+                "description": ""
+            },
+            {
+                "actor": "Franco Columbu",
+                "name": "a Terminator in the future",
+                "description": ""
+            },
+            {
+                "actor": "Brian Thompson",
+                "name": "punk whom the Terminator kills",
+                "description": ""
+            },
+            {
+                "actor": "Marianne Muellerleile",
+                "name": "\"Sarah Connor\"",
+                "description": "a woman who shares Sarath's name whom the Terminator shoots"
+            },
+            {
+                "actor": "Rick Aiello",
+                "name": "bouncer at Tech-Noir",
+                "description": ""
+            },
+            {
+                "actor": "Bill Wisher",
+                "name": "police officer",
+                "description": "officer who reports a hit-and-run felony on Reese, only to be killed and have his car stolen by the Terminator soon thereafter"
+            }
+        ]
+    },
+    "Back to the Future": {
+        "main": [
+            {
+                "actor": "Michael J. Fox",
+                "name": "Marty McFly",
+                "description": "high school student and aspiring musician"
+            },
+            {
+                "actor": "Christopher Lloyd",
+                "name": "Emmett \"Doc\" Brown",
+                "description": "eccentric scientist experimenting with time travel"
+            },
+            {
+                "actor": "Lea Thompson",
+                "name": "Lorraine Baines-McFly",
+                "description": "1955 teenager who grows into Marty's unhappy, alcoholic mother"
+            },
+            {
+                "actor": "Crispin Glover",
+                "name": "George McFly",
+                "description": "nerdy 1955 high schooler who grows into Marty's cowardly, submissive father"
+            },
+            {
+                "actor": "Thomas F. Wilson",
+                "name": "Biff Tannen",
+                "description": "1955 high school bully turned George's 1985 boss"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "James Tolkan",
+                "name": "Strickland",
+                "description": "Hill Valley high school principal in both 1955 and 1985"
+            },
+            {
+                "actor": "Claudia Wells",
+                "name": "Jennifer Parker",
+                "description": "Marty's girlfriend"
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Dave McFly",
+                "description": "Marty's brother"
+            },
+            {
+                "actor": "Wendie Jo Sperber",
+                "name": "Linda McFly",
+                "description": "Marty's sister"
+            },
+            {
+                "actor": "Huey Lewis",
+                "name": "judge for the Battle of the Bands contest",
+                "description": ""
+            },
+            {
+                "actor": "George DiCenzo",
+                "name": "Sam Baines",
+                "description": "Lorraine's father"
+            },
+            {
+                "actor": "Frances Lee McCain",
+                "name": "Stella Baines",
+                "description": "Lorraine's mother"
+            },
+            {
+                "actor": "Jason Hervey",
+                "name": "Milton Baines",
+                "description": "Lorraine's younger brother"
+            },
+            {
+                "actor": "Jeffrey Jay Cohen",
+                "name": "Skinhead",
+                "description": "member of Biff's gang"
+            },
+            {
+                "actor": "Casey Siemaszko",
+                "name": "3-D",
+                "description": "member of Biff's gang"
+            },
+            {
+                "actor": "Billy Zane",
+                "name": "Match",
+                "description": "member of Biff's gang"
+            },
+            {
+                "actor": "Norman Alden",
+                "name": "Lou",
+                "description": "cafe owner"
+            },
+            {
+                "actor": "Donald Fullilove",
+                "name": "Goldie Wilson",
+                "description": "Lou's employee and future mayor"
+            },
+            {
+                "actor": "Harry Waters Jr.",
+                "name": "Marvin Berry",
+                "description": "Chuck Berry's cousin"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Elsa Raven",
+                "name": "Clocktower Lady",
+                "description": ""
+            },
+            {
+                "actor": "Richard L. Duran",
+                "name": "Libyan terrorist",
+                "description": ""
+            },
+            {
+                "actor": "Jeff O'Haco",
+                "name": "Libyan terrorist",
+                "description": ""
+            },
+            {
+                "actor": "Will Hare",
+                "name": "Pa Peabody",
+                "description": ""
+            },
+            {
+                "actor": "Courtney Gains",
+                "name": "Dixon",
+                "description": "youth who interrupts George's and Lorraine's dance"
+            }
+        ]
+    },
+    "Mad Max Beyond Thunderdome": {
+        "main": [
+            {
+                "actor": "Mel Gibson",
+                "name": "Max \"Mad Max\" Rockatansky",
+                "description": "former MFP officer and lone warrior who roves the desert aimlessly, his existence entirely based around self-survival"
+            },
+            {
+                "actor": "Tina Turner",
+                "name": "Aunty \"Entity\"",
+                "description": "ruthless, determined ruler of Bartertown"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Bruce Spence",
+                "name": "Jedediah \"The Pilot\"",
+                "description": "marauding pilot who trades stolen goods in Bartertown"
+            },
+            {
+                "actor": "Adam Cockburn",
+                "name": "Jedediah Jr.",
+                "description": "Jedediah's son, who often helps his father steal supplies, flying his father's aeroplane while Jedediah procures the goods"
+            },
+            {
+                "actor": "Frank Thring",
+                "name": "\"The Collector\"",
+                "description": "head of Bartertown's trade and exchange network"
+            },
+            {
+                "actor": "Angelo Rossitto",
+                "name": "\"Master\"",
+                "description": "diminutive former engineer, who parlays his technical expertise into building the methane extractor responsible for Bartertown's electricity"
+            },
+            {
+                "actor": "Paul Larsson",
+                "name": "\"Blaster\"",
+                "description": "Master's silent, mentally-impaired bodyguard"
+            },
+            {
+                "actor": "Angry Anderson",
+                "name": "\"Ironbar\" Bassey",
+                "description": "head of Bartertown's security and Aunty Entity's Number One Henchman"
+            },
+            {
+                "actor": "Robert Grubb",
+                "name": "The Pig Killer",
+                "description": "convict in Bartertown sentenced to work in the methane refinery, shovelling pig feces, for the crime of killing one of Underworld's pigs to feed his children"
+            },
+            {
+                "actor": "Helen Buday",
+                "name": "Savannah Nix",
+                "description": "leader of a tribe of child survivors (or the children of those survivors) from a crashed 747"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Tom Jennings",
+                "name": "Slake M'Thirst",
+                "description": "male leader of the child tribe"
+            },
+            {
+                "actor": "Edwin Hodgeman",
+                "name": "Dr. Dealgood",
+                "description": "flamboyant Master of Ceremonies and chief auctioneer of Bartertown"
+            },
+            {
+                "actor": "Rod Zuanic",
+                "name": "\"Scrooloose\"",
+                "description": "misfit child able to copy everyone else's abilities and manners"
+            },
+            {
+                "actor": "George Spartels",
+                "name": "\"Blackfinger\"",
+                "description": ""
+            }
+        ]
+    },
+    "Back to the Future Part II": {
+        "main": [
+            {
+                "actor": "Michael J. Fox",
+                "name": "Marty McFly / Marty McFly Jr. / Marlene McFly",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Lloyd",
+                "name": "Emmett \"Doc\" Brown",
+                "description": ""
+            },
+            {
+                "actor": "Lea Thompson",
+                "name": "Lorraine Baines-McFly",
+                "description": ""
+            },
+            {
+                "actor": "Thomas F. Wilson",
+                "name": "Biff Tannen / Griff Tannen / Gertrude Tannen",
+                "description": ""
+            },
+            {
+                "actor": "Elisabeth Shue",
+                "name": "Jennifer Parker",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "James Tolkan",
+                "name": "Mr. Strickland",
+                "description": ""
+            },
+            {
+                "actor": "Jeffrey Weissman",
+                "name": "George McFly",
+                "description": ""
+            },
+            {
+                "actor": "Casey Siemaszko",
+                "name": "3-D",
+                "description": "member of Biff's gang"
+            },
+            {
+                "actor": "Billy Zane",
+                "name": "Match",
+                "description": "member of Biff's gang"
+            },
+            {
+                "actor": "Jeffrey Jay Cohen",
+                "name": "Skinhead",
+                "description": "member of Biff's gang"
+            },
+            {
+                "actor": "Charles Fleischer",
+                "name": "Terry",
+                "description": ""
+            },
+            {
+                "actor": "Harry Waters Jr.",
+                "name": "Marvin Berry",
+                "description": ""
+            },
+            {
+                "actor": "Jason Scott Lee",
+                "name": "Whitey",
+                "description": "member of Griff's gang"
+            },
+            {
+                "actor": "Elijah Wood",
+                "name": "Video Game Boy",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Ricky Dean Logan",
+                "name": "Data",
+                "description": "member of Griff's gang"
+            },
+            {
+                "actor": "Darlene Vogel",
+                "name": "Spike",
+                "description": "member of Griff's gang"
+            }
+        ]
+    },
+    "Back to the Future Part III": {
+        "main": [
+            {
+                "actor": "Michael J. Fox",
+                "name": "Marty McFly / Seamus McFly",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Lloyd",
+                "name": "Emmett \"Doc\" Brown",
+                "description": ""
+            },
+            {
+                "actor": "Mary Steenburgen",
+                "name": "Clara Clayton",
+                "description": ""
+            },
+            {
+                "actor": "Thomas F. Wilson",
+                "name": "Buford 'Mad Dog' Tannen / Biff Tannen",
+                "description": ""
+            },
+            {
+                "actor": "Lea Thompson",
+                "name": "Maggie McFly / Lorraine Baines McFly",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "James Tolkan",
+                "name": "Marshal Strickland",
+                "description": ""
+            },
+            {
+                "actor": "Elisabeth Shue",
+                "name": "Jennifer Parker",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Dave McFly",
+                "description": "Marty's brother"
+            },
+            {
+                "actor": "Wendie Jo Sperber",
+                "name": "Linda McFly",
+                "description": "Marty's sister"
+            },
+            {
+                "actor": "Jeffrey Weissman",
+                "name": "George McFly",
+                "description": ""
+            },
+            {
+                "actor": "Matt Clark",
+                "name": "Chester",
+                "description": "bartender"
+            },
+            {
+                "actor": "Flea",
+                "name": "Douglas J. Needles",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Dub Taylor",
+                "name": "Saloon Old-Timer #1",
+                "description": ""
+            },
+            {
+                "actor": "Harry Carey, Jr.",
+                "name": "Saloon Old-Timer #2",
+                "description": ""
+            },
+            {
+                "actor": "Pat Buttram",
+                "name": "Saloon Old-Timer #3",
+                "description": ""
+            },
+            {
+                "actor": "Burton Gilliam",
+                "name": "Colt Gun Salesman",
+                "description": ""
+            }
+        ]
+    },
+    "Terminator 2: Judgment Day": {
+        "main": [
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "the Terminator",
+                "description": "reprogrammed Model 101 Series 800 \"T-800\" Terminator composed of living tissue over a metal endoskeleton"
+            },
+            {
+                "actor": "Linda Hamilton",
+                "name": "Sarah Connor",
+                "description": "self-trained soldier dedicated to preventing the rise of Skynet"
+            },
+            {
+                "actor": "Edward Furlong",
+                "name": "John Connor",
+                "description": "Sarah's son, who is destined to lead the human resistance in opposition to Skynet"
+            },
+            {
+                "actor": "Robert Patrick",
+                "name": "T-1000",
+                "description": "advanced shapeshifting prototype Terminator composed of liquid metal"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Earl Boen",
+                "name": "Dr. Silberman",
+                "description": "Sarah's psychologist at the Pescadero State Hospital"
+            },
+            {
+                "actor": "Joe Morton",
+                "name": "Miles Bennett Dyson",
+                "description": "director of special projects at Cyberdyne Systems Corporation"
+            },
+            {
+                "actor": "Jenette Goldstein",
+                "name": "Janelle Voight",
+                "description": "John's foster mother"
+            },
+            {
+                "actor": "Xander Berkeley",
+                "name": "Todd Voight",
+                "description": "John's foster father"
+            },
+            {
+                "actor": "S. Epatha Merkerson",
+                "name": "Tarissa Dyson",
+                "description": "Miles' wife"
+            },
+            {
+                "actor": "Dean Norris",
+                "name": "SWAT team leader",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "C\u00e1stulo Guerra",
+                "name": "Enrique Salceda",
+                "description": "Sarah's friend"
+            },
+            {
+                "actor": "DeVaughn Nixon",
+                "name": "Danny Dyson",
+                "description": "Miles' son"
+            },
+            {
+                "actor": "Danny Cooksey",
+                "name": "Tim",
+                "description": "John's friend"
+            },
+            {
+                "actor": "Leslie Hamilton Gearren",
+                "name": "T-1000 impersonating Sarah when Hamilton is also on-screen",
+                "description": ""
+            },
+            {
+                "actor": "Don Stanton",
+                "name": "guard at the Pescadero hospital",
+                "description": ""
+            },
+            {
+                "actor": "Dan Stanton",
+                "name": "T-1000 imitating guard at the Pescadero hospital ",
+                "description": ""
+            },
+            {
+                "actor": "Ken Gibbel",
+                "name": "abusive orderly",
+                "description": ""
+            },
+            {
+                "actor": "Robert Winley",
+                "name": "man who confronts T-800 in biker bar",
+                "description": ""
+            },
+            {
+                "actor": "Ron Young",
+                "name": "man who confronts T-800 in biker bar",
+                "description": ""
+            },
+            {
+                "actor": "Charles Robert Brown",
+                "name": "man who confronts T-800 in biker bar",
+                "description": ""
+            },
+            {
+                "actor": "Pete Schrum",
+                "name": "man who confronts T-800 in biker bar",
+                "description": ""
+            },
+            {
+                "actor": "Abdul Salaam El Razzac",
+                "name": "Gibbons",
+                "description": "Cyberdyne guard"
+            },
+            {
+                "actor": "Michael Edwards",
+                "name": "John Connor of 2029",
+                "description": ""
+            }
+        ],
+        "": [
+            {
+                "actor": "Dalton Abbott",
+                "name": "infant John in dream sequence",
+                "description": ""
+            },
+            {
+                "actor": "William Wisher",
+                "name": "man photographing T-800 at mall",
+                "description": ""
+            }
+        ]
+    },
+    "Waterworld": {
+        "main": [
+            {
+                "actor": "Kevin Costner",
+                "name": "The Mariner",
+                "description": ""
+            },
+            {
+                "actor": "Dennis Hopper",
+                "name": "The Deacon",
+                "description": ""
+            },
+            {
+                "actor": "Jeanne Tripplehorn",
+                "name": "Helen",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Tina Majorino",
+                "name": "Enola",
+                "description": ""
+            },
+            {
+                "actor": "Michael Jeter",
+                "name": "Old Gregor",
+                "description": ""
+            },
+            {
+                "actor": "Gerard Murphy",
+                "name": "The Nord",
+                "description": ""
+            },
+            {
+                "actor": "R. D. Call",
+                "name": "Atoll Enforcer",
+                "description": ""
+            },
+            {
+                "actor": "Jack Black",
+                "name": "Smoker Plane Pilot",
+                "description": ""
+            },
+            {
+                "actor": "Lee Arenberg",
+                "name": "Djeng",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Kim Coates",
+                "name": "Drifter #2",
+                "description": ""
+            },
+            {
+                "actor": "John Fleck",
+                "name": "Smoker Doctor",
+                "description": ""
+            },
+            {
+                "actor": "Robert Joy",
+                "name": "Smoker Ledger Guy",
+                "description": ""
+            },
+            {
+                "actor": "John Toles-Bey",
+                "name": "Smoker Plane Gunner (Ed)",
+                "description": ""
+            },
+            {
+                "actor": "Robert LaSardo",
+                "name": "Smitty",
+                "description": ""
+            },
+            {
+                "actor": "Zakes Mokae",
+                "name": "Priam",
+                "description": ""
+            },
+            {
+                "actor": "Zitto Kazann",
+                "name": "Atoll Elder",
+                "description": ""
+            },
+            {
+                "actor": "Sab Shimono",
+                "name": "Atoll Elder",
+                "description": ""
+            },
+            {
+                "actor": "Leonardo Cimino",
+                "name": "Atoll Elder",
+                "description": ""
+            },
+            {
+                "actor": "Rick Aviles",
+                "name": "Atoll Gatesman #1",
+                "description": ""
+            },
+            {
+                "actor": "Jack Kehler",
+                "name": "Atoll Banker",
+                "description": ""
+            },
+            {
+                "actor": "Chris Douridas",
+                "name": "Atoller #7",
+                "description": ""
+            },
+            {
+                "actor": "Robert A. Silverman",
+                "name": "Hydroholic",
+                "description": ""
+            },
+            {
+                "actor": "Neil Giuntoli",
+                "name": "Hellfire Gunner (Chuck)",
+                "description": ""
+            },
+            {
+                "actor": "William Preston",
+                "name": "Smoker Depth Gauge Guy",
+                "description": ""
+            },
+            {
+                "actor": "Sean Whalen",
+                "name": "Bone",
+                "description": ""
+            }
+        ]
+    },
+    "The Matrix": {
+        "main": [
+            {
+                "actor": "Keanu Reeves",
+                "name": "Thomas Anderson / Neo",
+                "description": "computer programmer, born Thomas A. Anderson, who secretly operates as a hacker named Neo"
+            },
+            {
+                "actor": "Laurence Fishburne",
+                "name": "Morpheus",
+                "description": "human freed from the Matrix and captain of the Nebuchadnezzar"
+            },
+            {
+                "actor": "Carrie-Anne Moss",
+                "name": "Trinity",
+                "description": "human freed by Morpheus, a crewmember of the Nebuchadnezzar, and later Neo's romantic interest"
+            },
+            {
+                "actor": "Hugo Weaving",
+                "name": "Agent Smith",
+                "description": "sentient \"Agent\" program of the Matrix whose purpose is to destroy Zion and stop humans from getting out of the Matrix"
+            },
+            {
+                "actor": "Joe Pantoliano",
+                "name": "Cypher",
+                "description": "human freed by Morpheus, and a crewmember of the Nebuchadnezzar, but one who regrets taking the red pill and seeks to be returned to the Matrix, later betraying the rebels to Agent Smith"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Marcus Chong",
+                "name": "Tank",
+                "description": "\"operator\" of the Nebuchadnezzar and Dozer's brother born outside the Matrix"
+            },
+            {
+                "actor": "Anthony Ray Parker",
+                "name": "Dozer",
+                "description": "pilot of the Nebuchadnezzar and Tank's brother born outside the Matrix"
+            },
+            {
+                "actor": "Julian Arahanga",
+                "name": "Apoc",
+                "description": "freed human and a crew member on the Nebuchadnezzar"
+            },
+            {
+                "actor": "Matt Doran",
+                "name": "Mouse",
+                "description": "freed human and a programmer on the Nebuchadnezzar"
+            },
+            {
+                "actor": "Gloria Foster",
+                "name": "The Oracle",
+                "description": "prophet who still resides in the Matrix, helping the freed humans with her foresight and wisdom"
+            },
+            {
+                "actor": "Belinda McClory",
+                "name": "Switch",
+                "description": "human freed by Morpheus, and a crew member of the Nebuchadnezzar"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Paul Goddard",
+                "name": "Agent Brown",
+                "description": "one of two sentient \"Agent\" programs in the Matrix, who works with Agent Smith to destroy Zion and stop humans from escaping the system"
+            },
+            {
+                "actor": "Robert Taylor",
+                "name": "Agent Jones",
+                "description": "one of two sentient \"Agent\" programs in the Matrix who works with Agent Smith to destroy Zion and stop humans from escaping the system"
+            },
+            {
+                "actor": "Ada Nicodemou",
+                "name": "DuJour",
+                "description": ""
+            }
+        ]
+    },
+    "The Matrix Reloaded": {
+        "main": [
+            {
+                "actor": "Keanu Reeves",
+                "name": "Neo",
+                "description": ""
+            },
+            {
+                "actor": "Laurence Fishburne",
+                "name": "Morpheus",
+                "description": ""
+            },
+            {
+                "actor": "Carrie-Anne Moss",
+                "name": "Trinity",
+                "description": ""
+            },
+            {
+                "actor": "Hugo Weaving",
+                "name": "Smith",
+                "description": ""
+            },
+            {
+                "actor": "Jada Pinkett Smith",
+                "name": "Niobe",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Harold Perrineau",
+                "name": "Link",
+                "description": ""
+            },
+            {
+                "actor": "Gloria Foster",
+                "name": "the Oracle",
+                "description": ""
+            },
+            {
+                "actor": "Randall Duk Kim",
+                "name": "the Keymaker",
+                "description": ""
+            },
+            {
+                "actor": "Monica Bellucci",
+                "name": "Persephone",
+                "description": ""
+            },
+            {
+                "actor": "Lambert Wilson",
+                "name": "the Merovingian",
+                "description": ""
+            },
+            {
+                "actor": "Helmut Bakaitis",
+                "name": "the Architect",
+                "description": ""
+            },
+            {
+                "actor": "Nathaniel Lees",
+                "name": "Captain Mifune",
+                "description": ""
+            },
+            {
+                "actor": "Leigh Whannell",
+                "name": "Axel",
+                "description": ""
+            },
+            {
+                "actor": "Collin Chou",
+                "name": "Seraph",
+                "description": ""
+            },
+            {
+                "actor": "Nona Gaye",
+                "name": "Zee",
+                "description": ""
+            },
+            {
+                "actor": "Gina Torres",
+                "name": "Cas",
+                "description": ""
+            },
+            {
+                "actor": "Harry Lennix",
+                "name": "Commander Lock",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Neil Rayment",
+                "name": "one of the Twins",
+                "description": ""
+            },
+            {
+                "actor": "Adrian Rayment",
+                "name": "one of the Twins",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Bernhardt",
+                "name": "Agent Johnson",
+                "description": ""
+            },
+            {
+                "actor": "Donald Anjaya Batte",
+                "name": "Vector",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Zerbe",
+                "name": "Councillor Hamann",
+                "description": ""
+            },
+            {
+                "actor": "Roy Jones Jr.",
+                "name": "Captain Ballard",
+                "description": ""
+            },
+            {
+                "actor": "David A. Kilde",
+                "name": "Agent Jackson",
+                "description": ""
+            },
+            {
+                "actor": "Matt McColm",
+                "name": "Agent Thompson",
+                "description": ""
+            },
+            {
+                "actor": "Cornel West",
+                "name": "Councillor West",
+                "description": ""
+            },
+            {
+                "actor": "Steve Bastoni",
+                "name": "Captain Soren",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Wong",
+                "name": "Ghost",
+                "description": ""
+            },
+            {
+                "actor": "Ian Bliss",
+                "name": "Bane",
+                "description": ""
+            },
+            {
+                "actor": "Clayton Watson",
+                "name": "the Kid",
+                "description": ""
+            }
+        ]
+    },
+    "Terminator 3: Rise of the Machines": {
+        "main": [
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "the Terminator",
+                "description": ""
+            },
+            {
+                "actor": "Nick Stahl",
+                "name": "John Connor",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Kristanna Loken",
+                "name": "the T-X",
+                "description": "advanced Terminator sent back to murder John's resistance lieutenants"
+            },
+            {
+                "actor": "Claire Danes",
+                "name": "Katherine \"Kate\" Brewster",
+                "description": "John's future wife"
+            },
+            {
+                "actor": "David Andrews",
+                "name": "Lieutenant General Robert Brewster",
+                "description": "ate's father who is also the program director at CRS, which has acquired Cyberdyne Systems' remaining assets"
+            },
+            {
+                "actor": "Mark Famiglietti",
+                "name": "Scott Mason",
+                "description": "Kate Brewster's slain fianc\u00e9"
+            },
+            {
+                "actor": "Earl Boen",
+                "name": "Dr. Peter Silberman",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Jay Acovone",
+                "name": "LAPD Officer",
+                "description": ""
+            },
+            {
+                "actor": "Kim Robillard",
+                "name": "Detective Edwards",
+                "description": ""
+            },
+            {
+                "actor": "Mark Hicks",
+                "name": "Detective Bell",
+                "description": ""
+            },
+            {
+                "actor": "Billy D. Lucas",
+                "name": "civilian whose car is accidentally wrecked by John",
+                "description": ""
+            }
+        ]
+    },
+    "The Matrix Revolutions": {
+        "main": [
+            {
+                "actor": "Keanu Reeves",
+                "name": "Neo",
+                "description": ""
+            },
+            {
+                "actor": "Laurence Fishburne",
+                "name": "Morpheus",
+                "description": ""
+            },
+            {
+                "actor": "Carrie-Anne Moss",
+                "name": "Trinity",
+                "description": ""
+            },
+            {
+                "actor": "Hugo Weaving",
+                "name": "Smith",
+                "description": ""
+            },
+            {
+                "actor": "Jada Pinkett Smith",
+                "name": "Niobe",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Monica Bellucci",
+                "name": "Persephone",
+                "description": ""
+            },
+            {
+                "actor": "Lambert Wilson",
+                "name": "the Merovingian",
+                "description": ""
+            },
+            {
+                "actor": "Mary Alice",
+                "name": "the Oracle",
+                "description": ""
+            },
+            {
+                "actor": "Helmut Bakaitis",
+                "name": "the Architect",
+                "description": ""
+            },
+            {
+                "actor": "Harold Perrineau",
+                "name": "Link",
+                "description": ""
+            },
+            {
+                "actor": "Tanveer K. Atwal",
+                "name": "Sati",
+                "description": ""
+            },
+            {
+                "actor": "Collin Chou",
+                "name": "Seraph",
+                "description": ""
+            },
+            {
+                "actor": "Nona Gaye",
+                "name": "Zee",
+                "description": ""
+            },
+            {
+                "actor": "Gina Torres",
+                "name": "Cas",
+                "description": ""
+            },
+            {
+                "actor": "Harry Lennix",
+                "name": "Commander Lock",
+                "description": ""
+            },
+            {
+                "actor": "Nathaniel Lee",
+                "name": "Captain Mifune",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Bernard White",
+                "name": "Rama Kandra",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Spence",
+                "name": "the Trainman",
+                "description": ""
+            },
+            {
+                "actor": "Ian Bliss",
+                "name": "Bane",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Zerbe",
+                "name": "Councillor Hamann",
+                "description": ""
+            },
+            {
+                "actor": "Clayton Watson",
+                "name": "Kid",
+                "description": ""
+            },
+            {
+                "actor": "Cornel West",
+                "name": "Councillor West",
+                "description": ""
+            },
+            {
+                "actor": "David Roberts",
+                "name": "Captain Roland",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Wong",
+                "name": "Ghost",
+                "description": ""
+            },
+            {
+                "actor": "Tharini Mudaliar",
+                "name": "Kamala",
+                "description": ""
+            },
+            {
+                "actor": "Henry Blasingame",
+                "name": "motion capture of Deus Ex Machina",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Michael Richardson",
+                "name": "voice of Deus Ex Machina",
+                "description": ""
+            }
+        ]
+    },
+    "Terminator Salvation": {
+        "main": [
+            {
+                "actor": "Christian Bale",
+                "name": "John Connor",
+                "description": ""
+            },
+            {
+                "actor": "Sam Worthington",
+                "name": "Marcus Wright",
+                "description": "human-terminator hybrid experiment"
+            },
+            {
+                "actor": "Anton Yelchin",
+                "name": "Kyle Reese",
+                "description": "teenage refugee and admirer of John Connor and the Resistance"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Moon Bloodgood",
+                "name": "Blair Williams",
+                "description": "no-nonsense and battle-hardened pilot of the Resistance who suffers from survivor's guilt and serves as a romantic interest for Marcus"
+            },
+            {
+                "actor": "Bryce Dallas Howard",
+                "name": "Kate Connor",
+                "description": "wife of John Connor and daughter of Robert Brewster, who supervised the development of Skynet"
+            },
+            {
+                "actor": "Common",
+                "name": "Barnes",
+                "description": "John's right-hand man"
+            },
+            {
+                "actor": "Jane Alexander",
+                "name": "Virginia",
+                "description": "leader of a group of human refugees"
+            },
+            {
+                "actor": "Helena Bonham Carter",
+                "name": "Dr. Serena Kogan / Skynet",
+                "description": "ex-Cyberdyne scientist who convinces Marcus to donate his body for her research and whose face is later used by the Skynet computer to communicate with Marcus"
+            },
+            {
+                "actor": "Michael Ironside",
+                "name": "General Ashdown",
+                "description": "leader of the Resistance"
+            },
+            {
+                "actor": "Linda Hamilton",
+                "name": "voice of Sarah Connor",
+                "description": "John's mother who died years ago of leukemia but recorded tapes for John"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Ivan G'Vera",
+                "name": "General Losenko",
+                "description": "member of the Resistance"
+            },
+            {
+                "actor": "Roland Kickinger",
+                "name": "T-800",
+                "description": ""
+            },
+            {
+                "actor": "Jadagrace Berry",
+                "name": "Star",
+                "description": "mute 8-year-old girl in Kyle's care born after Judgment Day"
+            },
+            {
+                "actor": "Brian Steele",
+                "name": "T-600",
+                "description": ""
             }
         ]
     }
