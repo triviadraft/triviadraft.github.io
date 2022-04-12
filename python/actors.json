@@ -5535,5 +5535,593 @@
                 "description": ""
             }
         ]
+    },
+    "Planet of the Apes (2001)": {
+        "main": [
+            {
+                "actor": "Mark Wahlberg",
+                "name": "Captain Leo Davidson",
+                "description": "virtuous astronaut who accidentally enters a portal to another world inhabited by talking humanoid apes and is captured by them"
+            },
+            {
+                "actor": "Tim Roth",
+                "name": "General Thade",
+                "description": "sadistic chimpanzee military commander who wants control over the ape civilization and also intends to marry Ari, but she denies him due to his cold soul"
+            },
+            {
+                "actor": "Helena Bonham Carter",
+                "name": "Ari",
+                "description": "feisty, but benevolent chimpanzee who protests the way humans are treated and helps Leo lead the rebellion"
+            },
+            {
+                "actor": "Michael Clarke Duncan",
+                "name": "Colonel Attar",
+                "description": "gorilla military officer and Thade's former closest associate and second-in-command"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Estella Warren",
+                "name": "Daena",
+                "description": "female slave and Karubi's daughter, she develops a romantic attraction to Leo"
+            },
+            {
+                "actor": "Kris Kristofferson",
+                "name": "Karubi",
+                "description": "Dena's father who is killed by Thade while trying to escape"
+            },
+            {
+                "actor": "Cary-Hiroyuki Tagawa",
+                "name": "General Krull",
+                "description": "firm but fair gorilla and former military leader whose career had been destroyed by Thade"
+            },
+            {
+                "actor": "Paul Giamatti",
+                "name": "Limbo",
+                "description": "comical orangutan who works in the trade business of human slaves and is caught in the conflict between humans and apes and tries his best to simply survive"
+            },
+            {
+                "actor": "Charlton Heston",
+                "name": "Zaius",
+                "description": "Thade's father"
+            },
+            {
+                "actor": "Linda Harrison",
+                "name": "woman in the cart",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "John",
+                "name": "Pericles",
+                "description": "trained chimpanzee in a US Air Force program in 2029, working with Leo on the space station to fly space pods"
+            },
+            {
+                "actor": "Jacob",
+                "name": "Pericles",
+                "description": "trained chimpanzee in a US Air Force program in 2029, working with Leo on the space station to fly space pods"
+            },
+            {
+                "actor": "David Warner",
+                "name": "Senator Sandar",
+                "description": ""
+            },
+            {
+                "actor": "Lisa Marie",
+                "name": "Nova",
+                "description": ""
+            },
+            {
+                "actor": "Eric Avari",
+                "name": "Tival",
+                "description": ""
+            },
+            {
+                "actor": "Luke Eberl",
+                "name": "Birn",
+                "description": ""
+            },
+            {
+                "actor": "Evan Parke",
+                "name": "Gunnar",
+                "description": ""
+            },
+            {
+                "actor": "Glenn Shadix",
+                "name": "Senator Nado",
+                "description": ""
+            },
+            {
+                "actor": "Freda Foh Shen",
+                "name": "Bon",
+                "description": ""
+            },
+            {
+                "actor": "Chris Ellis",
+                "name": "Lt. Karl Vasich",
+                "description": ""
+            },
+            {
+                "actor": "Anne Ramsay",
+                "name": "Lt. Col. Grace Alexander",
+                "description": ""
+            },
+            {
+                "actor": "Andrea Grano",
+                "name": "Maj. Maria Cooper",
+                "description": ""
+            },
+            {
+                "actor": "Michael Jace",
+                "name": "Maj. Frank Santos",
+                "description": ""
+            },
+            {
+                "actor": "Kam Heskin",
+                "name": "friend at Leo's party",
+                "description": ""
+            },
+            {
+                "actor": "Melody Perkins",
+                "name": "friend at Leo's party",
+                "description": ""
+            }
+        ]
+    },
+    "Rise of the Planet of the Apes": {
+        "main": [
+            {
+                "actor": "James Franco",
+                "name": "Dr. William \"Will\" Rodman",
+                "description": "chemist who is trying to discover a cure for his father's Alzheimer's disease by testing ALZ-112 on chimpanzees"
+            },
+            {
+                "actor": "Freida Pinto",
+                "name": "Dr. Caroline Aranha",
+                "description": "primatologist who begins a relationship with Will and grows attached to Caesar"
+            },
+            {
+                "actor": "John Lithgow",
+                "name": "Charles Rodman",
+                "description": "Will's Alzheimer's-afflicted father and a former music teacher who improves after Will gives him the ALZ-112"
+            },
+            {
+                "actor": "Andy Serkis",
+                "name": "Caesar",
+                "description": "chimpanzee whose intelligence is increased from being exposed in the womb to ALZ-112 when the drug is administered to his pregnant mother, and who is raised by Will"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Brian Cox",
+                "name": "John Landon",
+                "description": "manager of the San Bruno Primate Shelter where Caesar is confined"
+            },
+            {
+                "actor": "Tom Felton",
+                "name": "Dodge Landon",
+                "description": "John's son and an animal caretaker at the shelter, who abuses the apes for sport"
+            },
+            {
+                "actor": "David Oyelowo",
+                "name": "Steven Jacobs",
+                "description": "Will's supervisor at Gen-Sys"
+            },
+            {
+                "actor": "Karin Konoval",
+                "name": "Maurice",
+                "description": "Bornean orangutan"
+            },
+            {
+                "actor": "Terry Notary",
+                "name": "Rocket / Bright Eyes",
+                "description": "alpha chimpanzee / Caesar's mother"
+            },
+            {
+                "actor": "Tyler Labine",
+                "name": "Robert Franklin",
+                "description": "chimpanzee handler"
+            },
+            {
+                "actor": "David Hewlett",
+                "name": "Douglas Hunsiker",
+                "description": "Will's hot-headed neighbor"
+            },
+            {
+                "actor": "Chelah Horsdal",
+                "name": "Irena",
+                "description": "Charles' nurse"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Richard Ridings",
+                "name": "Buck",
+                "description": "western lowland gorilla"
+            },
+            {
+                "actor": "Devyn Dalton",
+                "name": "Cornelia",
+                "description": ""
+            },
+            {
+                "actor": "Jay Caputo",
+                "name": "Alpha",
+                "description": "Caesar's father"
+            },
+            {
+                "actor": "Christopher Gordon",
+                "name": "Koba",
+                "description": "treacherous bonobo"
+            },
+            {
+                "actor": "Jamie Harris",
+                "name": "Rodney",
+                "description": "ape sanctuary caretaker"
+            }
+        ]
+    },
+    "Dawn of the Planet of the Apes": {
+        "main": [
+            {
+                "actor": "Andy Serkis",
+                "name": "Caesar",
+                "description": "chimpanzee who is leader to a tribe of enhanced apes"
+            },
+            {
+                "actor": "Toby Kebbell",
+                "name": "Koba",
+                "description": "treacherous bonobo"
+            },
+            {
+                "actor": "Jason Clarke",
+                "name": "Malcolm",
+                "description": "leader of the small group that forms a strong bond with Caesar and the other apes, Alexander's father, and Ellie's husband"
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "Dreyfus",
+                "description": "ex-police officer and the leader of the remaining human survivors"
+            },
+            {
+                "actor": "Keri Russell",
+                "name": "Ellie",
+                "description": "former nurse at the Centers for Disease Control, Malcolm's wife, and Alexander's stepmother"
+            },
+            {
+                "actor": "Kodi Smit-McPhee",
+                "name": "Alexander",
+                "description": "Malcolm's son from a previous marriage and Ellie's stepson"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Judy Greer",
+                "name": "Cornelia",
+                "description": ""
+            },
+            {
+                "actor": "Nick Thurston",
+                "name": "Blue Eyes",
+                "description": "Caesar's son"
+            },
+            {
+                "actor": "Terry Notary",
+                "name": "Rocket",
+                "description": "Caesar's loyal lieutenant"
+            },
+            {
+                "actor": "Karin Konoval",
+                "name": "Maurice",
+                "description": "Bornean orangutan and Caesar's loyal friend and adviser"
+            },
+            {
+                "actor": "Kirk Acevedo",
+                "name": "Carver",
+                "description": "former San Francisco water worker and a member of Malcolm's group"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Doc Shaw",
+                "name": "Ash",
+                "description": "Blue Eyes' friend"
+            },
+            {
+                "actor": "Lee Ross",
+                "name": "Grey",
+                "description": ""
+            },
+            {
+                "actor": "Jon Eyez",
+                "name": "Foster",
+                "description": "member of Malcolm's group"
+            },
+            {
+                "actor": "Enrique Murciano",
+                "name": "Kemp",
+                "description": "member of Malcolm's group"
+            },
+            {
+                "actor": "Keir O'Donnell",
+                "name": "Finney",
+                "description": "ally of Dreyfus"
+            },
+            {
+                "actor": "Kevin Rankin",
+                "name": "McVeigh",
+                "description": "guard at the colony's armory"
+            },
+            {
+                "actor": "Jocko Sims",
+                "name": "Werner",
+                "description": "colony radio operator"
+            }
+        ]
+    },
+    "War for the Planet of the Apes": {
+        "main": [
+            {
+                "actor": "Andy Serkis",
+                "name": "Caesar",
+                "description": "chimpanzee who is leader to a tribe of enhanced apes"
+            },
+            {
+                "actor": "Woody Harrelson",
+                "name": "The Colonel",
+                "description": "leader of the paramilitary organization the Alpha-Omega, who is obsessed with wiping out Caesar and his tribe to preserve humans as the dominant species on Earth"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Steve Zahn",
+                "name": "Bad Ape",
+                "description": ""
+            },
+            {
+                "actor": "Gabriel Chavarria",
+                "name": "Preacher",
+                "description": "crossbowman soldier working under the Colonel in the Alpha-Omega"
+            },
+            {
+                "actor": "Judy Greer",
+                "name": "Cornelia",
+                "description": ""
+            },
+            {
+                "actor": "Karin Konoval",
+                "name": "Maurice",
+                "description": "Bornean orangutan and Caesar's loyal adviser and friend"
+            },
+            {
+                "actor": "Terry Notary",
+                "name": "Rocket",
+                "description": "Caesar's loyal lieutenant"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Toby Kebbell",
+                "name": "Koba",
+                "description": "treacherous bonobo"
+            },
+            {
+                "actor": "Michael Adamthwaite",
+                "name": "Luca",
+                "description": "western lowland gorilla in Caesar's tribe"
+            },
+            {
+                "actor": "Ty Olsson",
+                "name": "Red",
+                "description": ""
+            },
+            {
+                "actor": "Devyn Dalton",
+                "name": "Cornelius",
+                "description": ""
+            },
+            {
+                "actor": "Sara Canning",
+                "name": "Lake",
+                "description": "Blue Eyes' wife"
+            },
+            {
+                "actor": "Aleks Paunovic",
+                "name": "Winter",
+                "description": ""
+            },
+            {
+                "actor": "Amiah Miller",
+                "name": "Nova",
+                "description": "mute orphan girl whom Maurice befriends and cares for"
+            },
+            {
+                "actor": "Max Lloyd-Jones",
+                "name": "Blue Eyes",
+                "description": ""
+            },
+            {
+                "actor": "Roger Cross",
+                "name": "Captain Rod Wilson",
+                "description": "captain from the Alpha-Omega platoon"
+            },
+            {
+                "actor": "Mercedes De La Zerda",
+                "name": "Lang",
+                "description": "Alpha-Omega soldier"
+            }
+        ]
+    },
+    "Mad Max": {
+        "main": [
+            {
+                "actor": "Mel Gibson",
+                "name": "Max Rockatansky",
+                "description": "officer of the Main Force Patrol"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Joanne Samuel",
+                "name": "Jessie Rockatansky",
+                "description": "Max's wife"
+            },
+            {
+                "actor": "Hugh Keays-Byrne",
+                "name": "the Toecutter",
+                "description": "motorcycle gang leader"
+            },
+            {
+                "actor": "Steve Bisley",
+                "name": "Jim \"Goose\" Rains",
+                "description": "member of the Main Force Patrol's motorcycle unit"
+            },
+            {
+                "actor": "Tim Burns",
+                "name": "Johnny the Boy",
+                "description": "young member of Toecutter's gang"
+            },
+            {
+                "actor": "Roger Ward",
+                "name": "Fred \"Fifi\" Macaffee",
+                "description": "Max's Main Force Patrol captain"
+            },
+            {
+                "actor": "Geoff Parry",
+                "name": "Bubba Zanetti",
+                "description": "Toecutter's second in command"
+            },
+            {
+                "actor": "Jonathan Hardy",
+                "name": "Police Commissioner Labatouche",
+                "description": "civil servant who oversees the Main Force Patrol"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Brendan Heath",
+                "name": "Sprog Rockatansky",
+                "description": "Max and Jessie's infant son"
+            },
+            {
+                "actor": "Sheila Florence",
+                "name": "May Swaisey",
+                "description": "old friend of Max"
+            },
+            {
+                "actor": "John Ley",
+                "name": "Charlie",
+                "description": "religious Main Force Patrol officer"
+            },
+            {
+                "actor": "Steve Millichamp",
+                "name": "Roop",
+                "description": "Charlie's patrol partner"
+            },
+            {
+                "actor": "Vincent Gil",
+                "name": "Crawford \"The Nightrider\" Montazano",
+                "description": "member of Toecutter's gang"
+            },
+            {
+                "actor": "Lulu Pinkus",
+                "name": "Nightrider's Girl",
+                "description": ""
+            },
+            {
+                "actor": "Karen Moregold",
+                "name": "Radio Dispatcher",
+                "description": ""
+            },
+            {
+                "actor": "Reg Evans",
+                "name": "Station Master",
+                "description": ""
+            }
+        ]
+    },
+    "The Road Warrior": {
+        "main": [
+            {
+                "actor": "Mel Gibson",
+                "name": "Max \"Mad Max\" Rockatansky",
+                "description": "former member of the Australian highway patrol called the Main Force Patrol (MFP)"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Bruce Spence",
+                "name": "\"The Gyro Captain\"",
+                "description": "wanderer who looks for fuel and supplies who flies in a ramshackle old gyrocopter"
+            },
+            {
+                "actor": "Mike Preston",
+                "name": "Pappagallo",
+                "description": "idealistic leader of the settlers in the barricaded oil refinery"
+            },
+            {
+                "actor": "Max Phipps",
+                "name": "\"The Toadie\"",
+                "description": "gang crier who is an unkempt, bespectacled man and wears a decorated mink stole as a hat"
+            },
+            {
+                "actor": "Vernon Wells",
+                "name": "\"Wez\"",
+                "description": "mohawked, leather-clad biker who serves as Lord Humungus' lieutenant in the gang"
+            },
+            {
+                "actor": "Emil Minty",
+                "name": "The Feral Kid",
+                "description": "boy who lives in the wasteland near the refinery settlement and speaks only in growls and grunts"
+            },
+            {
+                "actor": "Kjell Nilsson",
+                "name": "\"The Humungus\"",
+                "description": "violent yet charismatic and articulate leader of a \"vicious gang of post-holocaust, motorcycle-riding vandals\" who \"loot, rape, and kill the few remaining wasteland dwellers\""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Virginia Hey",
+                "name": "Warrior Woman",
+                "description": "female member of the settlers who initially distrusts Max"
+            },
+            {
+                "actor": "William Zappa",
+                "name": "Zetta",
+                "description": ""
+            },
+            {
+                "actor": "Arkie Whiteley",
+                "name": "The Captain's Girl",
+                "description": "beautiful young woman among the settlers who rejects the Gyro Captain's offer to escape together"
+            },
+            {
+                "actor": "Steven J. Spears",
+                "name": "The Mechanic",
+                "description": ""
+            },
+            {
+                "actor": "Syd Heylen",
+                "name": "Curmudgeon",
+                "description": ""
+            },
+            {
+                "actor": "Moira Claux",
+                "name": "Rebecca \"Big Rebecca\"",
+                "description": "female warrior among the settlers who wields a bow and arrow"
+            },
+            {
+                "actor": "David Downer",
+                "name": "Nathan",
+                "description": "member of the settlers who tries to escape the settlement and is fatally wounded by some of Humungus' bikers"
+            },
+            {
+                "actor": "Jerry O'Sullivan",
+                "name": "\"The Golden Youth\"",
+                "description": "Wez's companion who is killed by the Feral Kid"
+            }
+        ]
     }
 }
