@@ -7381,5 +7381,720 @@
                 "description": ""
             }
         ]
+    },
+    "Snowpiercer": {
+        "main": [
+            {
+                "actor": "Chris Evans",
+                "name": "Curtis Everett",
+                "description": "leader of the revolution"
+            },
+            {
+                "actor": "Song Kang-ho",
+                "name": "Namgoong Minsoo",
+                "description": "specialist who designed the security features on the train"
+            },
+            {
+                "actor": "Ed Harris",
+                "name": "Wilford",
+                "description": "creator and caretaker of the engine"
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Gilliam",
+                "description": "spiritual leader of the tail section"
+            },
+            {
+                "actor": "Tilda Swinton",
+                "name": "Minister Mason",
+                "description": "Wilford's right hand, the second in command on the train and the spokesperson for Wilford for the past 17 years"
+            },
+            {
+                "actor": "Jamie Bell",
+                "name": "Edgar",
+                "description": "Curtis' second-in-command"
+            },
+            {
+                "actor": "Octavia Spencer",
+                "name": "Tanya",
+                "description": "determined mother who is set on getting her son back"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Tyler John Williams",
+                "name": "young Wilford",
+                "description": ""
+            },
+            {
+                "actor": "Adnan Haskovi\u0107",
+                "name": "Franco the Younger",
+                "description": "executor of the army led by Mason"
+            },
+            {
+                "actor": "Clark Middleton",
+                "name": "the Painter",
+                "description": "artist who is often seen drawing other passengers or key events visually chronicling underclass life and death"
+            },
+            {
+                "actor": "Emma Levie",
+                "name": "Claude",
+                "description": "Wilford's assistant"
+            },
+            {
+                "actor": "T\u00f3mas Lemarquis",
+                "name": "Egg-head",
+                "description": "one of Wilford's agents that aids in the New Year celebration massacre"
+            },
+            {
+                "actor": "Steve Park",
+                "name": "Fuyu",
+                "description": "regimented assistant to Mason"
+            },
+            {
+                "actor": "Paul Lazar",
+                "name": "Paul",
+                "description": "one of the rebels in Curtis's army who makes the protein blocks"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Ewen Bremner",
+                "name": "Andrew",
+                "description": "helpless father whose only wish is to protect his son"
+            },
+            {
+                "actor": "Go Ah-sung",
+                "name": "Yona",
+                "description": "17-year-old daughter of Namgoong Minsoo"
+            },
+            {
+                "actor": "Allison Pill",
+                "name": "teacher",
+                "description": "woman teaching classroom of young students, towards the front of the Snowpiercer"
+            },
+            {
+                "actor": "Vlad Ivanov",
+                "name": "Franco the Elder",
+                "description": "seemingly indestructible henchman working for Minister Mason"
+            },
+            {
+                "actor": "Luke Pasqualino",
+                "name": "Grey",
+                "description": "Gilliam's bodyguard, a muscular, agile, fast-moving warrior who is handy with knives"
+            }
+        ]
+    },
+    "Mad Max: Fury Road": {
+        "main": [
+            {
+                "actor": "Tom Hardy",
+                "name": "Max Rockatansky",
+                "description": ""
+            },
+            {
+                "actor": "Charlize Theron",
+                "name": "Imperator Furiosa",
+                "description": ""
+            },
+            {
+                "actor": "Nicholas Hoult",
+                "name": "Nux",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Hugh Keays-Byrne",
+                "name": "Immortan Joe",
+                "description": ""
+            },
+            {
+                "actor": "Rosie Huntington-Whiteley",
+                "name": "The Splendid Angharad",
+                "description": "one of Joe's five wives"
+            },
+            {
+                "actor": "Nathan Jones",
+                "name": "Rictus Erectus",
+                "description": ""
+            },
+            {
+                "actor": "Riley Keough",
+                "name": "Capable",
+                "description": "one of Joe's five wives"
+            },
+            {
+                "actor": "Zo\u00eb Kravitz",
+                "name": "Toast the Knowing",
+                "description": "one of Joe's five wives"
+            },
+            {
+                "actor": "Abbey Lee",
+                "name": "The Dag",
+                "description": "one of Joe's five wives"
+            },
+            {
+                "actor": "Courtney Eaton",
+                "name": "Cheedo the Fragile",
+                "description": "one of Joe's five wives"
+            }
+        ],
+        "": [
+            {
+                "actor": "Josh Helman",
+                "name": "Slit",
+                "description": ""
+            },
+            {
+                "actor": "John Howard",
+                "name": "The People Eater",
+                "description": ""
+            },
+            {
+                "actor": "Richard Carter",
+                "name": "The Bullet Farmer",
+                "description": ""
+            },
+            {
+                "actor": "Angus Sampson",
+                "name": "The Organic Mechanic",
+                "description": ""
+            },
+            {
+                "actor": "iOTA",
+                "name": "The Doof Warrior",
+                "description": ""
+            },
+            {
+                "actor": "Megan Gale",
+                "name": "The Valkyrie",
+                "description": ""
+            },
+            {
+                "actor": "Melissa Jaffer",
+                "name": "Keeper of the Seeds",
+                "description": ""
+            },
+            {
+                "actor": "Melita Jurisic",
+                "name": "one of the Vuvalini",
+                "description": ""
+            },
+            {
+                "actor": "Gillian Jones",
+                "name": "one of the Vuvalini",
+                "description": ""
+            },
+            {
+                "actor": "Joy Smithers",
+                "name": "one of the Vuvalini",
+                "description": ""
+            },
+            {
+                "actor": "Antoinette Kellerman",
+                "name": "one of the Vuvalini",
+                "description": ""
+            },
+            {
+                "actor": "Christina Koch",
+                "name": "one of the Vuvalini",
+                "description": ""
+            },
+            {
+                "actor": "Quentin Kenihan",
+                "name": "Corpus Colossus",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Coco Jack Gillies",
+                "name": "Glory the Child",
+                "description": ""
+            },
+            {
+                "actor": "Chris Patton",
+                "name": "Morsov",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Dunlevy",
+                "name": "The Rock Rider Chief / The Winchman",
+                "description": ""
+            },
+            {
+                "actor": "Richard Norton",
+                "name": "The Prime Imperator",
+                "description": ""
+            }
+        ]
+    },
+    "Terminator Genisys": {
+        "main": [
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "the Terminator / Guardian",
+                "description": "reprogrammed T-800 Terminator who is Sarah's protector and mentor"
+            },
+            {
+                "actor": "Jason Clarke",
+                "name": "John Connor",
+                "description": "leader of the Resistance and Kyle's mentor, who was attacked by T-5000 and turned into a T-3000 Terminator composed of machine phase matter"
+            },
+            {
+                "actor": "Emilia Clarke",
+                "name": "Sarah Connor",
+                "description": "Pops' prot\u00e9g\u00e9e and destined to be John's mother"
+            },
+            {
+                "actor": "Jai Courtney",
+                "name": "Kyle Reese",
+                "description": "Resistance soldier and John's prot\u00e9g\u00e9 destined to be John's father"
+            },
+            {
+                "actor": "Matt Smith",
+                "name": "Alex",
+                "description": "advanced T-5000 Terminator who embodies Skynet"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Brett Azar",
+                "name": "body double for the T-800 Terminator and the Young Guardian in 1973",
+                "description": ""
+            },
+            {
+                "actor": "Willa Taylor",
+                "name": "young Sarah Connor",
+                "description": ""
+            },
+            {
+                "actor": "Bryant Prince",
+                "name": "young Kyle Reese",
+                "description": ""
+            },
+            {
+                "actor": "Wayne Bastrup",
+                "name": "young O'Brien",
+                "description": "LAPD beat cop in 1984 who witnesses the encounter between Kyle and the T-1000"
+            },
+            {
+                "actor": "Ian Etheridge",
+                "name": "Skynet, age 10",
+                "description": ""
+            },
+            {
+                "actor": "Nolan Gross",
+                "name": "Skynet, age 12-14",
+                "description": ""
+            },
+            {
+                "actor": "Seth Meriwether",
+                "name": "Skynet, age 18",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "J. K. Simmons",
+                "name": "O'Brien",
+                "description": "alcoholic police detective from the San Francisco Police Department (SFPD) who investigates time travelers, particularly Terminators"
+            },
+            {
+                "actor": "Dayo Okeniyi",
+                "name": "Danny Dyson",
+                "description": "Miles's son and Cyberdyne Systems' president; he co-creates the operating system Genisys with John Connor"
+            },
+            {
+                "actor": "Courtney B. Vance",
+                "name": "Miles Dyson",
+                "description": "Cyberdyne Systems' CEO who funds the Genisys project"
+            },
+            {
+                "actor": "Michael Gladis",
+                "name": "Lieutenant Matias",
+                "description": "SFPD police lieutenant and O'Brien's superior"
+            },
+            {
+                "actor": "Sandrine Holt",
+                "name": "Detective Cheung",
+                "description": "SFPD police detective"
+            },
+            {
+                "actor": "Byung-Hun Lee",
+                "name": "Cop / T-1000",
+                "description": "shapeshifting prototypical Terminator composed of mimetic polyalloy"
+            }
+        ]
+    },
+    "Terminator: Dark Fate": {
+        "main": [
+            {
+                "actor": "Linda Hamilton",
+                "name": "Sarah Connor",
+                "description": "mother of John Connor, the former future leader of the Human Resistance in the war against Skynet, now a hardened senior woman"
+            },
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "T-800 / Carl",
+                "description": "aging Terminator built by Skynet, and one of several sent back in time to kill John"
+            },
+            {
+                "actor": "Mackenzie Davis",
+                "name": "Grace",
+                "description": "enhanced super soldier from 2042 who was previously taken in by Dani as a teenager"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Maddy Curley",
+                "name": "body double for young Sarah Connor",
+                "description": ""
+            },
+            {
+                "actor": "Jessi Fisher",
+                "name": "body double for present Sarah Connor",
+                "description": ""
+            },
+            {
+                "actor": "Brett Azar",
+                "name": "body double for the young T-800",
+                "description": ""
+            },
+            {
+                "actor": "Stephanie Gil",
+                "name": "10-year-old Grace",
+                "description": ""
+            },
+            {
+                "actor": "Trist\u00e1n Ulloa",
+                "name": "Felipe Gandal",
+                "description": "Dani's uncle and a border coyote"
+            },
+            {
+                "actor": "Alicia Borrachero",
+                "name": "Alicia",
+                "description": "Carl's wife"
+            },
+            {
+                "actor": "Manuel Pacific",
+                "name": "Mateo",
+                "description": "Carl's stepson"
+            },
+            {
+                "actor": "Enrique Arce",
+                "name": "Vicente",
+                "description": "Dani and Diego's father"
+            },
+            {
+                "actor": "Fraser James",
+                "name": "Major Dean",
+                "description": "United States Air Force intelligence officer and Sarah's acquaintance"
+            },
+            {
+                "actor": "Stuart McQuarrie",
+                "name": "Craig",
+                "description": "Dani and Diego's work supervisor"
+            },
+            {
+                "actor": "Steven Cree",
+                "name": "Rigby",
+                "description": "United States Border Patrol agent"
+            },
+            {
+                "actor": "Georgia Simon",
+                "name": "voice of Grace's mother",
+                "description": ""
+            },
+            {
+                "actor": "Aaron Kunitz",
+                "name": "voice of John Connor",
+                "description": ""
+            },
+            {
+                "actor": "Jude Collie",
+                "name": "body double for young John Connor",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Natalia Reyes",
+                "name": "Dani Ramos",
+                "description": "young woman who works with her brother at an automobile assembly plant in Mexico City who is being targeted for termination by the Rev-9"
+            },
+            {
+                "actor": "Gabriel Luna",
+                "name": "Gabriel / Rev-9",
+                "description": "advanced Terminator that originated from Legion and was sent back in time to terminate Dani"
+            },
+            {
+                "actor": "Diego Boneta",
+                "name": "Diego Ramos",
+                "description": "Dani's brother"
+            },
+            {
+                "actor": "Tom Hopper",
+                "name": "William Hardell",
+                "description": "Grace's commanding officer in the Resistance"
+            },
+            {
+                "actor": "Edward Furlong",
+                "name": "John Connor reference",
+                "description": "Sarah's son"
+            }
+        ]
+    },
+    "The Matrix Resurrections": {
+        "main": [
+            {
+                "actor": "Keanu Reeves",
+                "name": "Thomas Anderson / Neo",
+                "description": "prophesised \"One\" from the previous version of the Matrix, who has been repaired by the machines and reinserted into a new version of the Matrix"
+            },
+            {
+                "actor": "Carrie-Anne Moss",
+                "name": "Tiffany / Trinity",
+                "description": "Neo's romantic interest who was freed from the Matrix by Morpheus and killed at the end of the Machine War"
+            },
+            {
+                "actor": "Yahya Abdul-Mateen II",
+                "name": "Morpheus",
+                "description": "alternate version of the hacker who freed Neo from the Matrix"
+            },
+            {
+                "actor": "Jessica Henwick",
+                "name": "Bugs",
+                "description": "gunslinger with a White Rabbit tattoo, and captain of the hovercraft Mnemosyne"
+            },
+            {
+                "actor": "Jonathan Groff",
+                "name": "Smith",
+                "description": "Thomas' business partner and Neo's former arch-nemesis and Agent of the Matrix"
+            },
+            {
+                "actor": "Neil Patrick Harris",
+                "name": "The Analyst",
+                "description": "creator of the current iteration of the Matrix, who masquerades as Thomas' therapist"
+            },
+            {
+                "actor": "Jada Pinkett Smith",
+                "name": "Niobe",
+                "description": "General of the human bastion Io and former captain of the hovercraft Logos"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Priyanka Chopra Jonas",
+                "name": "Sati",
+                "description": "exile program created without a purpose who met Neo shortly before the end of the Machine War"
+            },
+            {
+                "actor": "Lambert Wilson",
+                "name": "the Merovingian",
+                "description": "self-professed trafficker of information who encountered Neo prior to the end of the Machine War and now seeks revenge"
+            },
+            {
+                "actor": "Christina Ricci",
+                "name": "Gwyn de Vere",
+                "description": "business executive at Thomas' video game company"
+            },
+            {
+                "actor": "Chad Stahelski",
+                "name": "Chad",
+                "description": "Tiffany's husband"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Toby Onwumere",
+                "name": "Sequoia",
+                "description": "operator of the Mnemosyne"
+            },
+            {
+                "actor": "Max Riemelt",
+                "name": "Sheperd",
+                "description": "Niobe's most-trusted captain at Io"
+            },
+            {
+                "actor": "Brian J. Smith",
+                "name": "Berg",
+                "description": "crew member of the Mnemosyne who has studied Neo"
+            },
+            {
+                "actor": "Er\u00e9ndira Ibarra",
+                "name": "Lexy",
+                "description": "crew member of the Mnemosyne who idolizes Trinity"
+            },
+            {
+                "actor": "Telma Hopkins",
+                "name": "Freya",
+                "description": "head of botany in Io"
+            },
+            {
+                "actor": "Andrew Lewis Caldwell",
+                "name": "Jude",
+                "description": ""
+            },
+            {
+                "actor": "Ellen Hollman",
+                "name": "Echo",
+                "description": ""
+            },
+            {
+                "actor": "Julian Grey",
+                "name": "Brandon",
+                "description": "one of Tiffany's sons"
+            },
+            {
+                "actor": "Gaige Chat",
+                "name": "Donnie",
+                "description": "one of Tiffany's sons"
+            }
+        ]
+    },
+    "Flash Gordon": {
+        "main": [
+            {
+                "actor": "Sam J. Jones",
+                "name": "Flash Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Max von Sydow",
+                "name": "Emperor Ming the Merciless",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Melody Anderson",
+                "name": "Dale Arden",
+                "description": ""
+            },
+            {
+                "actor": "Topol",
+                "name": "Hans Zarkov",
+                "description": ""
+            },
+            {
+                "actor": "Ornella Muti",
+                "name": "Princess Aura",
+                "description": ""
+            },
+            {
+                "actor": "Timothy Dalton",
+                "name": "Prince Barin",
+                "description": ""
+            },
+            {
+                "actor": "Brian Blessed",
+                "name": "Prince Vultan",
+                "description": ""
+            },
+            {
+                "actor": "Peter Wyngarde",
+                "name": "General Klytus",
+                "description": ""
+            },
+            {
+                "actor": "Mariangela Melato",
+                "name": "General Kala",
+                "description": ""
+            },
+            {
+                "actor": "John Morton",
+                "name": "Airline pilot",
+                "description": ""
+            },
+            {
+                "actor": "William Hootkins as Munson, Dr. Zarkov's assistant",
+                "name": "Munson",
+                "description": "Dr. Zarkov's assistant"
+            },
+            {
+                "actor": "Robbie Coltrane",
+                "name": "Man at Airfield",
+                "description": ""
+            },
+            {
+                "actor": "Deep Roy",
+                "name": "Fellini",
+                "description": "Princess Aura's pet"
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "Dwarf",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Richard O'Brien as Fico",
+                "name": "Fico",
+                "description": ""
+            },
+            {
+                "actor": "John Osborne as Arborian Priest",
+                "name": "Arborian Priest",
+                "description": ""
+            },
+            {
+                "actor": "Philip Stone as Zogi the High Priest",
+                "name": "Zogi the High Priest",
+                "description": ""
+            },
+            {
+                "actor": "John Hallam as General Luro",
+                "name": "General Luro",
+                "description": ""
+            },
+            {
+                "actor": "Suzanne Danielle as Serving Girl",
+                "name": "Serving girl",
+                "description": ""
+            },
+            {
+                "actor": "Peter Duncan",
+                "name": "Young Treeman",
+                "description": ""
+            },
+            {
+                "actor": "John Hollis",
+                "name": "Klytus Observer No. 2",
+                "description": ""
+            },
+            {
+                "actor": "Leon Greene",
+                "name": "Colonel of Battle Control Room",
+                "description": ""
+            },
+            {
+                "actor": "Tony Scannell",
+                "name": "Ming's officer",
+                "description": ""
+            },
+            {
+                "actor": "Bogdan Kominowski",
+                "name": "lieutenant of Ming's Air Force",
+                "description": ""
+            },
+            {
+                "actor": "George Harris as Prince Thun",
+                "name": "Prince Thun",
+                "description": ""
+            },
+            {
+                "actor": "Bob Goody",
+                "name": "Azurian Man",
+                "description": ""
+            },
+            {
+                "actor": "Malcolm Dixon",
+                "name": "Dwarf",
+                "description": ""
+            }
+        ]
     }
 }

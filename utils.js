@@ -7,8 +7,8 @@ function displayAnswer() {
 
 function reset() { 
 	var movie = random_item(Object.keys(actors_map));
-    var category = movies_map[movie]['categories']
-    var actor_list = actors_map[movie]['supporting']
+	var category = random_item(movies_map[movie]['categories'].split(","));
+	var actor_list = actors_map[movie]['supporting']
     var random_list = random_items(3, actor_list)
 
     var actor1 = random_list[0]['actor']
