@@ -9053,9 +9053,9 @@ var movies_map = {
         "name": "Flash Gordon",
         "categories": "Fantasy/Sci-Fi"
     },
-    "Conan the Barbarian": {
-        "year": "2011",
-        "name": "Conan the Barbarian",
+    "Conan the Barbarian (1982)": {
+        "year": "1982",
+        "name": "Conan the Barbarian (1982)",
         "categories": "Fantasy/Sci-Fi"
     },
     "Conan the Destroyer": {
@@ -9128,9 +9128,9 @@ var movies_map = {
         "name": "The League of Extraordinary Gentlemen",
         "categories": "Fantasy/Sci-Fi"
     },
-    "Hellboy": {
-        "year": "2019",
-        "name": "Hellboy",
+    "Hellboy (2004)": {
+        "year": "2004",
+        "name": "Hellboy (2004)",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": {
@@ -9161,6 +9161,11 @@ var movies_map = {
     "Cowboys & Aliens": {
         "year": "2011",
         "name": "Cowboys & Aliens",
+        "categories": "Fantasy/Sci-Fi"
+    },
+    "Conan the Barbarian (2011)": {
+        "year": "2011",
+        "name": "Conan the Barbarian (2011)",
         "categories": "Fantasy/Sci-Fi"
     },
     "John Carter": {
@@ -9206,6 +9211,11 @@ var movies_map = {
     "Ready Player One": {
         "year": "2018",
         "name": "Ready Player One",
+        "categories": "Fantasy/Sci-Fi"
+    },
+    "Hellboy (2019)": {
+        "year": "2019",
+        "name": "Hellboy (2019)",
         "categories": "Fantasy/Sci-Fi"
     },
     "Men in Black: International": {
