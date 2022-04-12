@@ -3,7 +3,7 @@ year,name,categories
 1984,Indiana Jones and the Temple of Doom,Swashbuckling/Pulp
 1989,Indiana Jones and the Last Crusade,Swashbuckling/Pulp
 1990,Dick Tracy,Swashbuckling/Pulp
-1990,Darkman,Swashbuckling/Pulp
+1990,Darkman,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
 1991,The Rocketeer,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
 1994,The Shadow,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
 1996,The Phantom,Swashbuckling/Pulp
@@ -76,10 +76,9 @@ year,name,categories
 1984,Conan the Destroyer,Fantasy/Sci-Fi
 1985,Red Sonja,Fantasy/Sci-Fi
 1986,Labyrinth,Fantasy/Sci-Fi
-1987,RoboCop,Fantasy/Sci-Fi
+1987,RoboCop (1987),Fantasy/Sci-Fi
 1988,Willow,Fantasy/Sci-Fi
 1990,RoboCop 2,Fantasy/Sci-Fi
-1990,Darkman,Fantasy/Sci-Fi
 1993,RoboCop 3,Fantasy/Sci-Fi
 1994,Timecop,Fantasy/Sci-Fi
 1995,Tank Girl,Fantasy/Sci-Fi
@@ -101,7 +100,7 @@ year,name,categories
 2012,Dredd,Fantasy/Sci-Fi
 2013,Oblivion,Fantasy/Sci-Fi
 2013,R.I.P.D.,Fantasy/Sci-Fi
-2014,RoboCop,Fantasy/Sci-Fi
+2014,RoboCop (2014),Fantasy/Sci-Fi
 2014,Hercules,Fantasy/Sci-Fi
 2015,Strange Magic,Fantasy/Sci-Fi
 2018,Ready Player One,Fantasy/Sci-Fi

@@ -8711,7 +8711,7 @@ var movies_map = {
     "Darkman": {
         "year": "1990",
         "name": "Darkman",
-        "categories": "Fantasy/Sci-Fi"
+        "categories": "Fantasy/Sci-Fi,Swashbuckling/Pulp"
     },
     "The Rocketeer": {
         "year": "1991",
@@ -9073,9 +9073,9 @@ var movies_map = {
         "name": "Labyrinth",
         "categories": "Fantasy/Sci-Fi"
     },
-    "RoboCop": {
-        "year": "2014",
-        "name": "RoboCop",
+    "RoboCop (1987)": {
+        "year": "1987",
+        "name": "RoboCop (1987)",
         "categories": "Fantasy/Sci-Fi"
     },
     "Willow": {
@@ -9186,6 +9186,11 @@ var movies_map = {
     "R.I.P.D.": {
         "year": "2013",
         "name": "R.I.P.D.",
+        "categories": "Fantasy/Sci-Fi"
+    },
+    "RoboCop (2014)": {
+        "year": "2014",
+        "name": "RoboCop (2014)",
         "categories": "Fantasy/Sci-Fi"
     },
     "Hercules": {
