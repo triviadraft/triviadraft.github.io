@@ -13,8 +13,7 @@ Raiders of the Lost Ark,George Harris,Simon Katanga,supporting,captain of the Ba
 Raiders of the Lost Ark,Fred Sorenson,Jock,supporting,Jones' pilot
 Raiders of the Lost Ark,Alfred Molina,Satipo,supporting,Jones' guide
 Raiders of the Lost Ark,Frank Marshall,Flying Wing pilot,minor,
-Raiders of the Lost Ark,Pat Roach,Nazi who brawls with Jones by the Flying Wing,minor,
-Raiders of the Lost Ark,Pat Roach,one of Toht's Nepalese Sherpas,minor,
+Raiders of the Lost Ark,Pat Roach,Nazi who brawls with Jones by the Flying Wing / one of Toht's Nepalese Sherpas,supporting,
 Raiders of the Lost Ark,Vic Tablian,Barranca,minor,Jones's treacherous Peruvian guide
 Raiders of the Lost Ark,Vic Tablian,Monkey Man in Cairo,minor,
 Raiders of the Lost Ark,Terry Richards,Cairo swordsman shot by Jones,minor,
@@ -32,7 +31,7 @@ Indiana Jones and the Temple of Doom,David Yip,Wu Han,supporting,friend of Indy 
 Indiana Jones and the Temple of Doom,Raj Singh,Zalim Singh,supporting,adolescent Maharajá of Pankot
 Indiana Jones and the Temple of Doom,Katie Leigh,voice of Zalim Singh,supporting,adolescent Maharajá of Pankot
 Indiana Jones and the Temple of Doom,D. R. Nanayakkara,Shaman,supporting,leader of a small village that recruits Indy to retrieve their stolen sacred Shiva lingam stone
-Indiana Jones and the Temple of Doom,Pat Roach,Thuggee overseer in the mines,minor,
+Indiana Jones and the Temple of Doom,Pat Roach,Thuggee overseer in the mines,supporting,
 Indiana Jones and the Temple of Doom,Steven Spielberg,person at airport,minor,
 Indiana Jones and the Temple of Doom,George Lucas,person at airport,minor,
 Indiana Jones and the Temple of Doom,Frank Marshall,person at airport,minor,
@@ -54,7 +53,7 @@ Indiana Jones and the Last Crusade,Michael Sheard,Adolf Hitler,minor,a man Jones
 Indiana Jones and the Last Crusade,Ronald Lacey,Heinrich Himmler,minor,
 Indiana Jones and the Last Crusade,Alexei Sayle,sultan of Hatay,minor,
 Indiana Jones and the Last Crusade,Paul Maxwell,man with the Panama Hat,minor,a man who took possession of the Cross of Coronado
-Indiana Jones and the Last Crusade,Pat Roach,Nazi who accompanies Vogel to the Zeppelin,minor,
+Indiana Jones and the Last Crusade,Pat Roach,Nazi who accompanies Vogel to the Zeppelin,supporting,
 Indiana Jones and the Last Crusade,Richard Young,"Garth / ""Fedora""",minor,leader of the tomb robbers who chased young Indiana Jones and then gives him his hat
 Indiana Jones and the Last Crusade,Eugene Lipinski,G-Man,minor,mysterious agent
 Indiana Jones and the Last Crusade,Vernon Dobtcheff,Butler,minor,
@@ -1129,7 +1128,7 @@ The Road Warrior,Mel Gibson,"Max ""Mad Max"" Rockatansky",main,former member of 
 The Road Warrior,Bruce Spence,"""The Gyro Captain""",supporting,wanderer who looks for fuel and supplies who flies in a ramshackle old gyrocopter
 The Road Warrior,Mike Preston,Pappagallo,supporting,idealistic leader of the settlers in the barricaded oil refinery
 The Road Warrior,Max Phipps,"""The Toadie""",supporting,"gang crier who is an unkempt, bespectacled man and wears a decorated mink stole as a hat"
-The Road Warrior,Vernon Wells,"""Wez""",supporting,"mohawked, leather-clad biker who serves as Lord Humungus' lieutenant in the gang"
+The Road Warrior,Vernon Wells,"""Wez""",supporting,"mohawked, leather-clad biker and Lord Humungus' lieutenant in the gang"
 The Road Warrior,Emil Minty,The Feral Kid,supporting,boy who lives in the wasteland near the refinery settlement and speaks only in growls and grunts
 The Road Warrior,Kjell Nilsson,"""The Humungus""",supporting,"violent yet charismatic and articulate leader of a ""vicious gang of post-holocaust, motorcycle-riding vandals"" who ""loot, rape, and kill the few remaining wasteland dwellers"""
 The Road Warrior,Virginia Hey,Warrior Woman,minor,female member of the settlers who initially distrusts Max
@@ -1140,7 +1139,7 @@ The Road Warrior,Syd Heylen,Curmudgeon,minor,
 The Road Warrior,Moira Claux,"Rebecca ""Big Rebecca""",minor,female warrior among the settlers who wields a bow and arrow
 The Road Warrior,David Downer,Nathan,minor,member of the settlers who tries to escape the settlement and is fatally wounded by some of Humungus' bikers
 The Road Warrior,Jerry O'Sullivan,"""The Golden Youth""",minor,Wez's companion who is killed by the Feral Kid
-The Terminator,Arnold Schwarzenegger,the Terminator,main,cybernetic android disguised as a human being sent back in time to assassinate Sarah Connor
+The Terminator,Arnold Schwarzenegger,the Terminator,main,cybernetic android pretending to be a human being sent back in time to assassinate Sarah Connor
 The Terminator,Michael Biehn,Kyle Reese,main,human Resistance fighter sent back in time to protect Sarah
 The Terminator,Linda Hamilton,Sarah Connor,main,"19-year-old diner waitress and the Terminator's target, who is soon to be the mother of the future Resistance leader John Connor"
 The Terminator,Paul Winfield,Ed Traxler,supporting,police Lieutenant who tries to protect Sarah
@@ -1361,7 +1360,7 @@ The Matrix Revolutions,Kevin Michael Richardson,voice of Deus Ex Machina,minor,
 Terminator Salvation,Christian Bale,John Connor,main,
 Terminator Salvation,Sam Worthington,Marcus Wright,main,human-terminator hybrid experiment
 Terminator Salvation,Anton Yelchin,Kyle Reese,main,teenage refugee and admirer of John Connor and the Resistance
-Terminator Salvation,Moon Bloodgood,Blair Williams,supporting,no-nonsense and battle-hardened pilot of the Resistance who suffers from survivor's guilt and serves as a romantic interest for Marcus
+Terminator Salvation,Moon Bloodgood,Blair Williams,supporting,no-nonsense and battle-hardened pilot of the Resistance who suffers from survivor's guilt
 Terminator Salvation,Bryce Dallas Howard,Kate Connor,supporting,"wife of John Connor and daughter of Robert Brewster, who supervised the development of Skynet"
 Terminator Salvation,Common,Barnes,supporting,John's right-hand man
 Terminator Salvation,Jane Alexander,Virginia,supporting,leader of a group of human refugees
@@ -1441,7 +1440,7 @@ Terminator: Dark Fate,Maddy Curley,body double for young Sarah Connor,minor,
 Terminator: Dark Fate,Jessi Fisher,body double for present Sarah Connor,minor,
 Terminator: Dark Fate,Arnold Schwarzenegger,T-800 / Carl,main,"aging Terminator built by Skynet, and one of several sent back in time to kill John"
 Terminator: Dark Fate,Brett Azar,body double for the young T-800,minor,
-Terminator: Dark Fate,Mackenzie Davis,Grace,main,enhanced super soldier from 2042 who was previously taken in by Dani as a teenager
+Terminator: Dark Fate,Mackenzie Davis,Grace,main,enhanced super soldier from 2042 who was previously taken in by Dani when she was a teenager
 Terminator: Dark Fate,Stephanie Gil,10-year-old Grace,minor,
 Terminator: Dark Fate,Natalia Reyes,Dani Ramos,supporting,young woman who works with her brother at an automobile assembly plant in Mexico City who is being targeted for termination by the Rev-9
 Terminator: Dark Fate,Gabriel Luna,Gabriel / Rev-9,supporting,advanced Terminator that originated from Legion and was sent back in time to terminate Dani
@@ -1463,7 +1462,7 @@ The Matrix Resurrections,Carrie-Anne Moss,Tiffany / Trinity,main,Neo's romantic 
 The Matrix Resurrections,Yahya Abdul-Mateen II,Morpheus,main,alternate version of the hacker who freed Neo from the Matrix
 The Matrix Resurrections,Jessica Henwick,Bugs,main,"gunslinger with a White Rabbit tattoo, and captain of the hovercraft Mnemosyne"
 The Matrix Resurrections,Jonathan Groff,Smith,main,Thomas' business partner and Neo's former arch-nemesis and Agent of the Matrix
-The Matrix Resurrections,Neil Patrick Harris,The Analyst,main,"creator of the current iteration of the Matrix, who masquerades as Thomas' therapist"
+The Matrix Resurrections,Neil Patrick Harris,The Analyst,main,"creator of the current iteration of the Matrix, who pretends to be Thomas' therapist"
 The Matrix Resurrections,Priyanka Chopra Jonas,Sati,supporting,exile program created without a purpose who met Neo shortly before the end of the Machine War
 The Matrix Resurrections,Jada Pinkett Smith,Niobe,main,General of the human bastion Io and former captain of the hovercraft Logos
 The Matrix Resurrections,Toby Onwumere,Sequoia,minor,operator of the Mnemosyne
@@ -1487,21 +1486,130 @@ Flash Gordon,Timothy Dalton,Prince Barin,supporting,
 Flash Gordon,Brian Blessed,Prince Vultan,supporting,
 Flash Gordon,Peter Wyngarde,General Klytus,supporting,
 Flash Gordon,Mariangela Melato,General Kala,supporting,
-Flash Gordon,Richard O'Brien as Fico,Fico,minor,
-Flash Gordon,John Osborne as Arborian Priest,Arborian Priest,minor,
-Flash Gordon,Philip Stone as Zogi the High Priest,Zogi the High Priest,minor,
-Flash Gordon,John Hallam as General Luro,General Luro,minor,
-Flash Gordon,Suzanne Danielle as Serving Girl,Serving girl,minor,
+Flash Gordon,Richard O'Brien,Fico,minor,
+Flash Gordon,John Osborne,Arborian Priest,minor,
+Flash Gordon,Philip Stone,Zogi the High Priest,minor,
+Flash Gordon,John Hallam,General Luro,minor,
+Flash Gordon,Suzanne Danielle,Serving girl,minor,
 Flash Gordon,John Morton,Airline pilot,supporting,
-Flash Gordon,"William Hootkins as Munson, Dr. Zarkov's assistant",Munson,supporting,Dr. Zarkov's assistant
+Flash Gordon,William Hootkins,Munson,supporting,Dr. Zarkov's assistant
 Flash Gordon,Robbie Coltrane,Man at Airfield,supporting,
 Flash Gordon,Peter Duncan,Young Treeman,minor,
 Flash Gordon,John Hollis,Klytus Observer No. 2,minor,
 Flash Gordon,Leon Greene,Colonel of Battle Control Room,minor,
 Flash Gordon,Tony Scannell,Ming's officer,minor,
 Flash Gordon,Bogdan Kominowski,lieutenant of Ming's Air Force,minor,
-Flash Gordon,George Harris as Prince Thun,Prince Thun,minor,
+Flash Gordon,George Harris,Prince Thun,minor,
 Flash Gordon,Deep Roy,Fellini,supporting,Princess Aura's pet
 Flash Gordon,Bob Goody,Azurian Man,minor,
 Flash Gordon,Kenny Baker,Dwarf,supporting,
 Flash Gordon,Malcolm Dixon,Dwarf,minor,
+Conan the Barbarian (1982),Arnold Schwarzenegger,Conan the Barbarian,main,
+Conan the Barbarian (1982),Jorge Sanz,young Conan,minor,
+Conan the Barbarian (1982),Gerry Lopez,Subotai,supporting,
+Conan the Barbarian (1982),Sandahl Bergman,Valeria,supporting,
+Conan the Barbarian (1982),James Earl Jones,Thulsa Doom,supporting,
+Conan the Barbarian (1982),Max von Sydow,King Osric,supporting,
+Conan the Barbarian (1982),Mako,"Akiro, the Wizard of the Mounds",supporting,
+Conan the Barbarian (1982),William Smith,Conan's father,minor,
+Conan the Barbarian (1982),Sven-Ole Thorsen,Thorgrim,minor,
+Conan the Barbarian (1982),Ben Davidson,Rexor,minor,
+Conan the Barbarian (1982),Cassandra Gava,Witch,minor,
+Conan the Barbarian (1982),Valérie Quennessen,Osric's daughter,minor,
+Conan the Barbarian (1982),Nadiuska,Conan's mother,minor,
+Conan the Destroyer,Arnold Schwarzenegger,Conan,main,
+Conan the Destroyer,Grace Jones,Zula,supporting,
+Conan the Destroyer,Wilt Chamberlain,Bombaata,supporting,
+Conan the Destroyer,Mako,Akiro,supporting,
+Conan the Destroyer,Tracey Walter,Malak,supporting,
+Conan the Destroyer,Sarah Douglas,Queen Taramis,supporting,
+Conan the Destroyer,Olivia d'Abo,Princess Jehnna,supporting,
+Conan the Destroyer,Pat Roach,Thoth-Amon,supporting,
+Conan the Destroyer,Jeff Corey,Grand Vizier,minor,
+Conan the Destroyer,Sven-Ole Thorsen,Togra,minor,
+Conan the Destroyer,André the Giant,the Dagoth monster,supporting,
+Conan the Destroyer,Ferdy Mayne,The Leader,minor,
+Red Sonja,Brigitte Nielsen,Red Sonja,main,
+Red Sonja,Arnold Schwarzenegger,Lord Kalidor,main,
+Red Sonja,Sandahl Bergman,Queen Gedren of Berkubane,supporting,
+Red Sonja,Paul L. Smith,Falkon,supporting,
+Red Sonja,"Ernie Reyes, Jr.",Prince Tarn,supporting,spoiled boy heir of Hablock
+Red Sonja,Ronald Lacey,Ikol,supporting,
+Red Sonja,Pat Roach,Lord Brytag,supporting,
+Red Sonja,Terry Richards,Djart,minor,
+Red Sonja,Janet Agren,Varna,minor,Red Sonja's priestess sister
+Red Sonja,Donna Osterbuhr,Kendra,minor,High Priestess
+Red Sonja,Hans Meyer,Red Sonja's father,minor,
+Red Sonja,Tutte Lemkow,Wizard,minor,
+Red Sonja,Kiyoshi Yamasaki,Kyobo,minor,
+Red Sonja,Tad Horino,Swordmaster,minor,
+Red Sonja,Sven-Ole Thorsen,Lord Brytag's bodyguard,minor,
+Red Sonja,Erik Holmey,Lord Brytag's bodyguard,minor,
+Labyrinth,David Bowie,Jareth,main,king of the goblins
+Labyrinth,Jennifer Connelly,Sarah Williams,main,16-year-old girl who searches through the labyrinth to find her baby brother Toby
+Labyrinth,Toby Froud,Toby Williams,minor,Sarah's baby half-brother
+Labyrinth,Christopher Malcolm,Robert,minor,Sarah and Toby's father
+Labyrinth,Shelley Thompson,Irene,minor,Toby's mother and Sarah's stepmother
+Labyrinth,Natalie Finland,Labyrinth Fairies,minor,bunch of deceitful barefoot fairies that reside in the labyrinth
+Labyrinth,Brian Henson,voice of Hoggle,supporting,dwarfish man
+Labyrinth,Ron Mueck,voice of Ludo,supporting,large beast
+Labyrinth,David Shaughnessy,voice of Sir Didymus / The Hat / one of the Four Guards,supporting,
+Labyrinth,Timothy Bateson,voice of The Worm / one of the Four Guards,supporting,
+Labyrinth,Michael Hordern,voice of The Wiseman,minor,
+Labyrinth,Denise Bryer,voice of The Junk Lady,minor,
+Labyrinth,Anthony Jackson,one of the Four Guards,minor,
+Labyrinth,Douglas Blackwell,one of the Four Guards,minor,
+Labyrinth,David Healy,voice of Right Door Knocker,minor,
+Labyrinth,Robert Beatty,voice of Left Door Knocker,minor,
+Labyrinth,Kevin Clash,voice of Fiery #1,minor,
+Labyrinth,Charles Augins,voice of Fiery #2,minor,
+Labyrinth,Danny John-Jules,voice of Fiery #3 / Fiery #4,minor,
+Labyrinth,Richard Bodkins,voice of Fiery #5,minor,
+Labyrinth,Percy Edwards,voice of Ambrosius,minor,
+RoboCop (1987),Peter Weller,Alex Murphy / RoboCop,main,Detroit police officer murdered in the line of duty who has become a cyborg
+RoboCop (1987),Nancy Allen,Anne Lewis,supporting,tough and loyal police officer
+RoboCop (1987),Daniel O'Herlihy,the Old Man,supporting,chief executive of OCP
+RoboCop (1987),Ronny Cox,Dick Jones,supporting,Senior President of OCP
+RoboCop (1987),Kurtwood Smith,Clarence Boddicker,supporting,crime lord in league with Dick Jones
+RoboCop (1987),Miguel Ferrer,Bob Morton,supporting,"ambitious OCP junior executive responsible for the ""RoboCop"" project"
+RoboCop (1987),Paul McCrane,Emil Antonowsky,minor,member of Boddicker's gang
+RoboCop (1987),Ray Wise,Leon Nash,supporting,member of Boddicker's gang
+RoboCop (1987),Jesse D. Goins,Joe Cox,minor,member of Boddicker's gang
+RoboCop (1987),Calvin Jung,Steve Minh,minor,member of Boddicker's gang
+RoboCop (1987),Robert DoQui,Sergeant Reed,minor,
+RoboCop (1987),Michael Gregory,Lt. Hedgecock,minor,
+RoboCop (1987),Felton Perry,Donald Johnson,minor,OCP employee
+RoboCop (1987),Kevin Page,Mr. Kinney,minor,OCP junior executive who is shot to death by ED-209
+RoboCop (1987),Lee de Broux,Sal,minor,cocaine warehouse owner
+RoboCop (1987),Mario Machado,Casey Wong,supporting,news host
+RoboCop (1987),Leeza Gibbons,Jess Perkins,supporting,news host
+RoboCop (1987),S. D. Nemeth,Bixby Snyder,minor,television show host
+RoboCop (1987),Angie Bollings,Murphy's wife,minor,
+RoboCop (1987),Jason Levine,Murphy's son,minor,
+RoboCop (1987),Paul Verhoeven,dancing nightclub patron,supporting,
+RoboCop (1987),Jon Davison,voice of ED-209,minor,
+RoboCop (1987),John Landis,man in 6000 SUX commercial ,supporting,
+RoboCop (1987),Joan Pirkle,Dick Jones' secretary,minor,
+Willow,Warwick Davis,Willow Ufgood,main,Nelwyn dwarf and aspiring sorcerer who plays a critical role in protecting infant Elora Danan from the evil queen Bavmorda
+Willow,Val Kilmer,Madmartigan,main,boastful immured mercenary swordsman who helps Willow on his quest
+Willow,Kate Greenfield,Elora Danan,minor,infant princess that prophecy says will bring about Queen Bavmorda's downfall
+Willow,Ruth Greenfield,Elora Danan,minor,infant princess that prophecy says will bring about Queen Bavmorda's downfall
+Willow,Rebecca Bearman,Elora Danan,minor,infant princess that prophecy says will bring about Queen Bavmorda's downfall
+Willow,Joanne Whalley,Sorsha,main,Bavmorda's warrior daughter who turns against her mother when she falls in love with Madmartigan
+Willow,Jean Marsh,Queen Bavmorda,supporting,"villainous ruler of Nockmaar, a powerful black sorceress and mother of Sorsha"
+Willow,Patricia Hayes,Fin Raziel,supporting,aging sorceress who is turned into a brush tailed possum due to a curse from Bavmorda
+Willow,Billy Barty,The High Aldwin,supporting,"Nelwyn wizard who commissions Willow to go on his journey, realizing the potential that Willow possesses in magic"
+Willow,Pat Roach,General Kael,supporting,villainous associate to Queen Bavmorda and high commander of her army
+Willow,Gavan O'Herlihy,Airk Thaughbaer,supporting,military commander of the destroyed kingdom of Galladoorn who shares a mixed friendship with Madmartigan
+Willow,Maria Holvöe,Cherlindrea,minor,fairy queen who resides in the forest and updates Willow on the importance of his quest
+Willow,Kevin Pollak,Rool,supporting,one of a brownie duo
+Willow,Rick Overton,Franjean,supporting,one of a brownie duo
+Willow,David J. Steinberg,Meegosh,minor,Willow's closest friend who accompanies Willow partway on his journey
+Willow,Mark Northover,Burglekutt,minor,leader of the Nelwyn village council who maintains a running enmity with Willow
+Willow,Phil Fondacaro,Vohnkar,minor,Nelwyn warrior who also accompanies Willow partway on his journey
+Willow,Julie Peters,Kaiya Ufgood,minor,Willow's wife and a loving mother enthusiastic in caring for Elora
+Willow,Malcolm Dixon,Nelwyn warrior,minor,
+Willow,Tony Cox,Nelwyn warrior,supporting,
+Willow,Kenny Baker,Nelwyn band member,supporting,
+Willow,Zulema Dene,Ethna,minor,midwife
+Willow,Sallyanne Law,Elora Danan's mother,minor,

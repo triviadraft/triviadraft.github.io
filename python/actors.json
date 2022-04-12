@@ -67,22 +67,17 @@
                 "actor": "Alfred Molina",
                 "name": "Satipo",
                 "description": "Jones' guide"
+            },
+            {
+                "actor": "Pat Roach",
+                "name": "Nazi who brawls with Jones by the Flying Wing / one of Toht's Nepalese Sherpas",
+                "description": ""
             }
         ],
         "minor": [
             {
                 "actor": "Frank Marshall",
                 "name": "Flying Wing pilot",
-                "description": ""
-            },
-            {
-                "actor": "Pat Roach",
-                "name": "Nazi who brawls with Jones by the Flying Wing",
-                "description": ""
-            },
-            {
-                "actor": "Pat Roach",
-                "name": "one of Toht's Nepalese Sherpas",
                 "description": ""
             },
             {
@@ -165,6 +160,11 @@
                 "actor": "D. R. Nanayakkara",
                 "name": "Shaman",
                 "description": "leader of a small village that recruits Indy to retrieve their stolen sacred Shiva lingam stone"
+            },
+            {
+                "actor": "Pat Roach",
+                "name": "Thuggee overseer in the mines",
+                "description": ""
             }
         ],
         "minor": [
@@ -177,11 +177,6 @@
                 "actor": "Ric Young",
                 "name": "Kao Kan",
                 "description": "one of Lao Che's two sons"
-            },
-            {
-                "actor": "Pat Roach",
-                "name": "Thuggee overseer in the mines",
-                "description": ""
             },
             {
                 "actor": "Steven Spielberg",
@@ -268,6 +263,11 @@
                 "actor": "Robert Eddison",
                 "name": "Grail Knight",
                 "description": "guardian of the Grail who drank from the cup of Christ during the Crusades and is immortal as long as he stays within the temple"
+            },
+            {
+                "actor": "Pat Roach",
+                "name": "Nazi who accompanies Vogel to the Zeppelin",
+                "description": ""
             }
         ],
         "minor": [
@@ -295,11 +295,6 @@
                 "actor": "Paul Maxwell",
                 "name": "man with the Panama Hat",
                 "description": "a man who took possession of the Cross of Coronado"
-            },
-            {
-                "actor": "Pat Roach",
-                "name": "Nazi who accompanies Vogel to the Zeppelin",
-                "description": ""
             },
             {
                 "actor": "Richard Young",
@@ -6068,7 +6063,7 @@
             {
                 "actor": "Vernon Wells",
                 "name": "\"Wez\"",
-                "description": "mohawked, leather-clad biker who serves as Lord Humungus' lieutenant in the gang"
+                "description": "mohawked, leather-clad biker and Lord Humungus' lieutenant in the gang"
             },
             {
                 "actor": "Emil Minty",
@@ -6129,7 +6124,7 @@
             {
                 "actor": "Arnold Schwarzenegger",
                 "name": "the Terminator",
-                "description": "cybernetic android disguised as a human being sent back in time to assassinate Sarah Connor"
+                "description": "cybernetic android pretending to be a human being sent back in time to assassinate Sarah Connor"
             },
             {
                 "actor": "Michael Biehn",
@@ -7326,7 +7321,7 @@
             {
                 "actor": "Moon Bloodgood",
                 "name": "Blair Williams",
-                "description": "no-nonsense and battle-hardened pilot of the Resistance who suffers from survivor's guilt and serves as a romantic interest for Marcus"
+                "description": "no-nonsense and battle-hardened pilot of the Resistance who suffers from survivor's guilt"
             },
             {
                 "actor": "Bryce Dallas Howard",
@@ -7743,7 +7738,7 @@
             {
                 "actor": "Mackenzie Davis",
                 "name": "Grace",
-                "description": "enhanced super soldier from 2042 who was previously taken in by Dani as a teenager"
+                "description": "enhanced super soldier from 2042 who was previously taken in by Dani when she was a teenager"
             }
         ],
         "minor": [
@@ -7876,7 +7871,7 @@
             {
                 "actor": "Neil Patrick Harris",
                 "name": "The Analyst",
-                "description": "creator of the current iteration of the Matrix, who masquerades as Thomas' therapist"
+                "description": "creator of the current iteration of the Matrix, who pretends to be Thomas' therapist"
             },
             {
                 "actor": "Jada Pinkett Smith",
@@ -8009,7 +8004,7 @@
                 "description": ""
             },
             {
-                "actor": "William Hootkins as Munson, Dr. Zarkov's assistant",
+                "actor": "William Hootkins",
                 "name": "Munson",
                 "description": "Dr. Zarkov's assistant"
             },
@@ -8031,27 +8026,27 @@
         ],
         "minor": [
             {
-                "actor": "Richard O'Brien as Fico",
+                "actor": "Richard O'Brien",
                 "name": "Fico",
                 "description": ""
             },
             {
-                "actor": "John Osborne as Arborian Priest",
+                "actor": "John Osborne",
                 "name": "Arborian Priest",
                 "description": ""
             },
             {
-                "actor": "Philip Stone as Zogi the High Priest",
+                "actor": "Philip Stone",
                 "name": "Zogi the High Priest",
                 "description": ""
             },
             {
-                "actor": "John Hallam as General Luro",
+                "actor": "John Hallam",
                 "name": "General Luro",
                 "description": ""
             },
             {
-                "actor": "Suzanne Danielle as Serving Girl",
+                "actor": "Suzanne Danielle",
                 "name": "Serving girl",
                 "description": ""
             },
@@ -8081,7 +8076,7 @@
                 "description": ""
             },
             {
-                "actor": "George Harris as Prince Thun",
+                "actor": "George Harris",
                 "name": "Prince Thun",
                 "description": ""
             },
@@ -8093,6 +8088,599 @@
             {
                 "actor": "Malcolm Dixon",
                 "name": "Dwarf",
+                "description": ""
+            }
+        ]
+    },
+    "Conan the Barbarian (1982)": {
+        "main": [
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "Conan the Barbarian",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Jorge Sanz",
+                "name": "young Conan",
+                "description": ""
+            },
+            {
+                "actor": "William Smith",
+                "name": "Conan's father",
+                "description": ""
+            },
+            {
+                "actor": "Sven-Ole Thorsen",
+                "name": "Thorgrim",
+                "description": ""
+            },
+            {
+                "actor": "Ben Davidson",
+                "name": "Rexor",
+                "description": ""
+            },
+            {
+                "actor": "Cassandra Gava",
+                "name": "Witch",
+                "description": ""
+            },
+            {
+                "actor": "Val\u00e9rie Quennessen",
+                "name": "Osric's daughter",
+                "description": ""
+            },
+            {
+                "actor": "Nadiuska",
+                "name": "Conan's mother",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Gerry Lopez",
+                "name": "Subotai",
+                "description": ""
+            },
+            {
+                "actor": "Sandahl Bergman",
+                "name": "Valeria",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "Thulsa Doom",
+                "description": ""
+            },
+            {
+                "actor": "Max von Sydow",
+                "name": "King Osric",
+                "description": ""
+            },
+            {
+                "actor": "Mako",
+                "name": "Akiro, the Wizard of the Mounds",
+                "description": ""
+            }
+        ]
+    },
+    "Conan the Destroyer": {
+        "main": [
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "Conan",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Grace Jones",
+                "name": "Zula",
+                "description": ""
+            },
+            {
+                "actor": "Wilt Chamberlain",
+                "name": "Bombaata",
+                "description": ""
+            },
+            {
+                "actor": "Mako",
+                "name": "Akiro",
+                "description": ""
+            },
+            {
+                "actor": "Tracey Walter",
+                "name": "Malak",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Queen Taramis",
+                "description": ""
+            },
+            {
+                "actor": "Olivia d'Abo",
+                "name": "Princess Jehnna",
+                "description": ""
+            },
+            {
+                "actor": "Pat Roach",
+                "name": "Thoth-Amon",
+                "description": ""
+            },
+            {
+                "actor": "Andr\u00e9 the Giant",
+                "name": "the Dagoth monster",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Jeff Corey",
+                "name": "Grand Vizier",
+                "description": ""
+            },
+            {
+                "actor": "Sven-Ole Thorsen",
+                "name": "Togra",
+                "description": ""
+            },
+            {
+                "actor": "Ferdy Mayne",
+                "name": "The Leader",
+                "description": ""
+            }
+        ]
+    },
+    "Red Sonja": {
+        "main": [
+            {
+                "actor": "Brigitte Nielsen",
+                "name": "Red Sonja",
+                "description": ""
+            },
+            {
+                "actor": "Arnold Schwarzenegger",
+                "name": "Lord Kalidor",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Sandahl Bergman",
+                "name": "Queen Gedren of Berkubane",
+                "description": ""
+            },
+            {
+                "actor": "Paul L. Smith",
+                "name": "Falkon",
+                "description": ""
+            },
+            {
+                "actor": "Ernie Reyes, Jr.",
+                "name": "Prince Tarn",
+                "description": "spoiled boy heir of Hablock"
+            },
+            {
+                "actor": "Ronald Lacey",
+                "name": "Ikol",
+                "description": ""
+            },
+            {
+                "actor": "Pat Roach",
+                "name": "Lord Brytag",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Terry Richards",
+                "name": "Djart",
+                "description": ""
+            },
+            {
+                "actor": "Janet Agren",
+                "name": "Varna",
+                "description": "Red Sonja's priestess sister"
+            },
+            {
+                "actor": "Donna Osterbuhr",
+                "name": "Kendra",
+                "description": "High Priestess"
+            },
+            {
+                "actor": "Hans Meyer",
+                "name": "Red Sonja's father",
+                "description": ""
+            },
+            {
+                "actor": "Tutte Lemkow",
+                "name": "Wizard",
+                "description": ""
+            },
+            {
+                "actor": "Kiyoshi Yamasaki",
+                "name": "Kyobo",
+                "description": ""
+            },
+            {
+                "actor": "Tad Horino",
+                "name": "Swordmaster",
+                "description": ""
+            },
+            {
+                "actor": "Sven-Ole Thorsen",
+                "name": "Lord Brytag's bodyguard",
+                "description": ""
+            },
+            {
+                "actor": "Erik Holmey",
+                "name": "Lord Brytag's bodyguard",
+                "description": ""
+            }
+        ]
+    },
+    "Labyrinth": {
+        "main": [
+            {
+                "actor": "David Bowie",
+                "name": "Jareth",
+                "description": "king of the goblins"
+            },
+            {
+                "actor": "Jennifer Connelly",
+                "name": "Sarah Williams",
+                "description": "16-year-old girl who searches through the labyrinth to find her baby brother Toby"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Toby Froud",
+                "name": "Toby Williams",
+                "description": "Sarah's baby half-brother"
+            },
+            {
+                "actor": "Christopher Malcolm",
+                "name": "Robert",
+                "description": "Sarah and Toby's father"
+            },
+            {
+                "actor": "Shelley Thompson",
+                "name": "Irene",
+                "description": "Toby's mother and Sarah's stepmother"
+            },
+            {
+                "actor": "Natalie Finland",
+                "name": "Labyrinth Fairies",
+                "description": "bunch of deceitful barefoot fairies that reside in the labyrinth"
+            },
+            {
+                "actor": "Michael Hordern",
+                "name": "voice of The Wiseman",
+                "description": ""
+            },
+            {
+                "actor": "Denise Bryer",
+                "name": "voice of The Junk Lady",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Jackson",
+                "name": "one of the Four Guards",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Blackwell",
+                "name": "one of the Four Guards",
+                "description": ""
+            },
+            {
+                "actor": "David Healy",
+                "name": "voice of Right Door Knocker",
+                "description": ""
+            },
+            {
+                "actor": "Robert Beatty",
+                "name": "voice of Left Door Knocker",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Clash",
+                "name": "voice of Fiery #1",
+                "description": ""
+            },
+            {
+                "actor": "Charles Augins",
+                "name": "voice of Fiery #2",
+                "description": ""
+            },
+            {
+                "actor": "Danny John-Jules",
+                "name": "voice of Fiery #3 / Fiery #4",
+                "description": ""
+            },
+            {
+                "actor": "Richard Bodkins",
+                "name": "voice of Fiery #5",
+                "description": ""
+            },
+            {
+                "actor": "Percy Edwards",
+                "name": "voice of Ambrosius",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Brian Henson",
+                "name": "voice of Hoggle",
+                "description": "dwarfish man"
+            },
+            {
+                "actor": "Ron Mueck",
+                "name": "voice of Ludo",
+                "description": "large beast"
+            },
+            {
+                "actor": "David Shaughnessy",
+                "name": "voice of Sir Didymus / The Hat / one of the Four Guards",
+                "description": ""
+            },
+            {
+                "actor": "Timothy Bateson",
+                "name": "voice of The Worm / one of the Four Guards",
+                "description": ""
+            }
+        ]
+    },
+    "RoboCop (1987)": {
+        "main": [
+            {
+                "actor": "Peter Weller",
+                "name": "Alex Murphy / RoboCop",
+                "description": "Detroit police officer murdered in the line of duty who has become a cyborg"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Nancy Allen",
+                "name": "Anne Lewis",
+                "description": "tough and loyal police officer"
+            },
+            {
+                "actor": "Daniel O'Herlihy",
+                "name": "the Old Man",
+                "description": "chief executive of OCP"
+            },
+            {
+                "actor": "Ronny Cox",
+                "name": "Dick Jones",
+                "description": "Senior President of OCP"
+            },
+            {
+                "actor": "Kurtwood Smith",
+                "name": "Clarence Boddicker",
+                "description": "crime lord in league with Dick Jones"
+            },
+            {
+                "actor": "Miguel Ferrer",
+                "name": "Bob Morton",
+                "description": "ambitious OCP junior executive responsible for the \"RoboCop\" project"
+            },
+            {
+                "actor": "Ray Wise",
+                "name": "Leon Nash",
+                "description": "member of Boddicker's gang"
+            },
+            {
+                "actor": "Mario Machado",
+                "name": "Casey Wong",
+                "description": "news host"
+            },
+            {
+                "actor": "Leeza Gibbons",
+                "name": "Jess Perkins",
+                "description": "news host"
+            },
+            {
+                "actor": "Paul Verhoeven",
+                "name": "dancing nightclub patron",
+                "description": ""
+            },
+            {
+                "actor": "John Landis",
+                "name": "man in 6000 SUX commercial ",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Paul McCrane",
+                "name": "Emil Antonowsky",
+                "description": "member of Boddicker's gang"
+            },
+            {
+                "actor": "Jesse D. Goins",
+                "name": "Joe Cox",
+                "description": "member of Boddicker's gang"
+            },
+            {
+                "actor": "Calvin Jung",
+                "name": "Steve Minh",
+                "description": "member of Boddicker's gang"
+            },
+            {
+                "actor": "Robert DoQui",
+                "name": "Sergeant Reed",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gregory",
+                "name": "Lt. Hedgecock",
+                "description": ""
+            },
+            {
+                "actor": "Felton Perry",
+                "name": "Donald Johnson",
+                "description": "OCP employee"
+            },
+            {
+                "actor": "Kevin Page",
+                "name": "Mr. Kinney",
+                "description": "OCP junior executive who is shot to death by ED-209"
+            },
+            {
+                "actor": "Lee de Broux",
+                "name": "Sal",
+                "description": "cocaine warehouse owner"
+            },
+            {
+                "actor": "S. D. Nemeth",
+                "name": "Bixby Snyder",
+                "description": "television show host"
+            },
+            {
+                "actor": "Angie Bollings",
+                "name": "Murphy's wife",
+                "description": ""
+            },
+            {
+                "actor": "Jason Levine",
+                "name": "Murphy's son",
+                "description": ""
+            },
+            {
+                "actor": "Jon Davison",
+                "name": "voice of ED-209",
+                "description": ""
+            },
+            {
+                "actor": "Joan Pirkle",
+                "name": "Dick Jones' secretary",
+                "description": ""
+            }
+        ]
+    },
+    "Willow": {
+        "main": [
+            {
+                "actor": "Warwick Davis",
+                "name": "Willow Ufgood",
+                "description": "Nelwyn dwarf and aspiring sorcerer who plays a critical role in protecting infant Elora Danan from the evil queen Bavmorda"
+            },
+            {
+                "actor": "Val Kilmer",
+                "name": "Madmartigan",
+                "description": "boastful immured mercenary swordsman who helps Willow on his quest"
+            },
+            {
+                "actor": "Joanne Whalley",
+                "name": "Sorsha",
+                "description": "Bavmorda's warrior daughter who turns against her mother when she falls in love with Madmartigan"
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Kate Greenfield",
+                "name": "Elora Danan",
+                "description": "infant princess that prophecy says will bring about Queen Bavmorda's downfall"
+            },
+            {
+                "actor": "Ruth Greenfield",
+                "name": "Elora Danan",
+                "description": "infant princess that prophecy says will bring about Queen Bavmorda's downfall"
+            },
+            {
+                "actor": "Rebecca Bearman",
+                "name": "Elora Danan",
+                "description": "infant princess that prophecy says will bring about Queen Bavmorda's downfall"
+            },
+            {
+                "actor": "Maria Holv\u00f6e",
+                "name": "Cherlindrea",
+                "description": "fairy queen who resides in the forest and updates Willow on the importance of his quest"
+            },
+            {
+                "actor": "David J. Steinberg",
+                "name": "Meegosh",
+                "description": "Willow's closest friend who accompanies Willow partway on his journey"
+            },
+            {
+                "actor": "Mark Northover",
+                "name": "Burglekutt",
+                "description": "leader of the Nelwyn village council who maintains a running enmity with Willow"
+            },
+            {
+                "actor": "Phil Fondacaro",
+                "name": "Vohnkar",
+                "description": "Nelwyn warrior who also accompanies Willow partway on his journey"
+            },
+            {
+                "actor": "Julie Peters",
+                "name": "Kaiya Ufgood",
+                "description": "Willow's wife and a loving mother enthusiastic in caring for Elora"
+            },
+            {
+                "actor": "Malcolm Dixon",
+                "name": "Nelwyn warrior",
+                "description": ""
+            },
+            {
+                "actor": "Zulema Dene",
+                "name": "Ethna",
+                "description": "midwife"
+            },
+            {
+                "actor": "Sallyanne Law",
+                "name": "Elora Danan's mother",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Jean Marsh",
+                "name": "Queen Bavmorda",
+                "description": "villainous ruler of Nockmaar, a powerful black sorceress and mother of Sorsha"
+            },
+            {
+                "actor": "Patricia Hayes",
+                "name": "Fin Raziel",
+                "description": "aging sorceress who is turned into a brush tailed possum due to a curse from Bavmorda"
+            },
+            {
+                "actor": "Billy Barty",
+                "name": "The High Aldwin",
+                "description": "Nelwyn wizard who commissions Willow to go on his journey, realizing the potential that Willow possesses in magic"
+            },
+            {
+                "actor": "Pat Roach",
+                "name": "General Kael",
+                "description": "villainous associate to Queen Bavmorda and high commander of her army"
+            },
+            {
+                "actor": "Gavan O'Herlihy",
+                "name": "Airk Thaughbaer",
+                "description": "military commander of the destroyed kingdom of Galladoorn who shares a mixed friendship with Madmartigan"
+            },
+            {
+                "actor": "Kevin Pollak",
+                "name": "Rool",
+                "description": "one of a brownie duo"
+            },
+            {
+                "actor": "Rick Overton",
+                "name": "Franjean",
+                "description": "one of a brownie duo"
+            },
+            {
+                "actor": "Tony Cox",
+                "name": "Nelwyn warrior",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "Nelwyn band member",
                 "description": ""
             }
         ]
