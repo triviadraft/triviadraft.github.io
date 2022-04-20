@@ -39,6 +39,11 @@
         "movie": "Alien",
         "categories": "Alien/Predator"
     },
+    "Star Trek: The Motion Picture": {
+        "release": "12/07/1979",
+        "movie": "Star Trek: The Motion Picture",
+        "categories": "Star Trek"
+    },
     "Mad Max": {
         "release": "03/21/1980",
         "movie": "Mad Max",
@@ -69,6 +74,11 @@
         "movie": "The Road Warrior",
         "categories": "Dystopian/Time"
     },
+    "Star Trek II: The Wrath of Khan": {
+        "release": "06/04/1982",
+        "movie": "Star Trek II: The Wrath of Khan",
+        "categories": "Star Trek"
+    },
     "Return of the Jedi": {
         "release": "05/25/1983",
         "movie": "Return of the Jedi",
@@ -78,6 +88,11 @@
         "release": "05/23/1984",
         "movie": "Indiana Jones and the Temple of Doom",
         "categories": "Swashbuckling/Pulp"
+    },
+    "Star Trek III: The Search for Spock": {
+        "release": "06/01/1984",
+        "movie": "Star Trek III: The Search for Spock",
+        "categories": "Star Trek"
     },
     "Conan the Destroyer": {
         "release": "06/29/1984",
@@ -119,6 +134,11 @@
         "movie": "The Transformers: The Movie",
         "categories": "Hasbro"
     },
+    "Star Trek IV: The Voyage Home": {
+        "release": "11/26/1986",
+        "movie": "Star Trek IV: The Voyage Home",
+        "categories": "Star Trek"
+    },
     "Predator": {
         "release": "06/12/1987",
         "movie": "Predator",
@@ -138,6 +158,11 @@
         "release": "05/24/1989",
         "movie": "Indiana Jones and the Last Crusade",
         "categories": "Swashbuckling/Pulp"
+    },
+    "Star Trek V: The Final Frontier": {
+        "release": "06/09/1989",
+        "movie": "Star Trek V: The Final Frontier",
+        "categories": "Star Trek"
     },
     "Back to the Future Part II": {
         "release": "11/22/1989",
@@ -179,6 +204,11 @@
         "movie": "Terminator 2: Judgment Day",
         "categories": "Dystopian/Time"
     },
+    "Star Trek VI: The Undiscovered Country": {
+        "release": "12/06/1991",
+        "movie": "Star Trek VI: The Undiscovered Country",
+        "categories": "Star Trek"
+    },
     "Alien 3": {
         "release": "05/22/1992",
         "movie": "Alien 3",
@@ -204,6 +234,11 @@
         "movie": "Timecop",
         "categories": "Fantasy/Sci-Fi"
     },
+    "Star Trek Generations": {
+        "release": "11/18/1994",
+        "movie": "Star Trek Generations",
+        "categories": "Star Trek"
+    },
     "Tank Girl": {
         "release": "03/31/1995",
         "movie": "Tank Girl",
@@ -228,6 +263,11 @@
         "release": "06/07/1996",
         "movie": "The Phantom",
         "categories": "Swashbuckling/Pulp"
+    },
+    "Star Trek: First Contact": {
+        "release": "11/22/1996",
+        "movie": "Star Trek: First Contact",
+        "categories": "Star Trek"
     },
     "Turbo: A Power Rangers Movie": {
         "release": "03/28/1997",
@@ -259,6 +299,11 @@
         "movie": "The Mask of Zorro",
         "categories": "Swashbuckling/Pulp"
     },
+    "Star Trek: Insurrection": {
+        "release": "12/11/1998",
+        "movie": "Star Trek: Insurrection",
+        "categories": "Star Trek"
+    },
     "The Matrix": {
         "release": "03/31/1999",
         "movie": "The Matrix",
@@ -279,6 +324,11 @@
         "movie": "Planet of the Apes (2001)",
         "categories": "Planet of the Apes"
     },
+    "Harry Potter and the Sorcerer's Stone": {
+        "release": "11/16/2001",
+        "movie": "Harry Potter and the Sorcerer's Stone",
+        "categories": "Wizarding World"
+    },
     "The Lord of the Rings: The Fellowship of the Ring": {
         "release": "12/19/2001",
         "movie": "The Lord of the Rings: The Fellowship of the Ring",
@@ -293,6 +343,16 @@
         "release": "07/03/2002",
         "movie": "Men in Black II",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "Harry Potter and the Chamber of Secrets": {
+        "release": "11/15/2002",
+        "movie": "Harry Potter and the Chamber of Secrets",
+        "categories": "Wizarding World"
+    },
+    "Star Trek: Nemesis": {
+        "release": "12/13/2002",
+        "movie": "Star Trek: Nemesis",
+        "categories": "Star Trek"
     },
     "The Lord of the Rings: The Two Towers": {
         "release": "12/18/2002",
@@ -334,6 +394,11 @@
         "movie": "Hellboy (2004)",
         "categories": "Fantasy/Sci-Fi"
     },
+    "Harry Potter and the Prisoner of Azkaban": {
+        "release": "06/04/2004",
+        "movie": "Harry Potter and the Prisoner of Azkaban",
+        "categories": "Wizarding World"
+    },
     "Alien vs. Predator": {
         "release": "08/13/2004",
         "movie": "Alien vs. Predator",
@@ -348,6 +413,11 @@
         "release": "10/28/2005",
         "movie": "The Legend of Zorro",
         "categories": "Swashbuckling/Pulp"
+    },
+    "Harry Potter and the Goblet of Fire": {
+        "release": "11/18/2005",
+        "movie": "Harry Potter and the Goblet of Fire",
+        "categories": "Wizarding World"
     },
     "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": {
         "release": "12/09/2005",
@@ -368,6 +438,11 @@
         "release": "07/03/2007",
         "movie": "Transformers",
         "categories": "Hasbro"
+    },
+    "Harry Potter and the Order of the Phoenix": {
+        "release": "07/11/2007",
+        "movie": "Harry Potter and the Order of the Phoenix",
+        "categories": "Wizarding World"
     },
     "Aliens vs. Predator: Requiem": {
         "release": "12/25/2007",
@@ -394,6 +469,11 @@
         "movie": "Star Wars: The Clone Wars",
         "categories": "Star Wars"
     },
+    "Star Trek": {
+        "release": "05/08/2009",
+        "movie": "Star Trek",
+        "categories": "Star Trek"
+    },
     "Terminator Salvation": {
         "release": "05/21/2009",
         "movie": "Terminator Salvation",
@@ -404,6 +484,11 @@
         "movie": "Transformers: Revenge of the Fallen",
         "categories": "Hasbro"
     },
+    "Harry Potter and the Half-Blood Prince": {
+        "release": "07/15/2009",
+        "movie": "Harry Potter and the Half-Blood Prince",
+        "categories": "Wizarding World"
+    },
     "Surrogates": {
         "release": "09/25/2009",
         "movie": "Surrogates",
@@ -413,6 +498,11 @@
         "release": "07/09/2010",
         "movie": "Predators",
         "categories": "Alien/Predator"
+    },
+    "Harry Potter and the Deathly Hallows \u2013 Part 1": {
+        "release": "11/19/2010",
+        "movie": "Harry Potter and the Deathly Hallows \u2013 Part 1",
+        "categories": "Wizarding World"
     },
     "The Chronicles of Narnia: The Voyage of the Dawn Treader": {
         "release": "12/10/2010",
@@ -428,6 +518,11 @@
         "release": "06/29/2011",
         "movie": "Transformers: Dark of the Moon",
         "categories": "Hasbro"
+    },
+    "Harry Potter and the Deathly Hallows \u2013 Part 2": {
+        "release": "07/15/2011",
+        "movie": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "categories": "Wizarding World"
     },
     "Cowboys & Aliens": {
         "release": "07/29/2011",
@@ -473,6 +568,11 @@
         "release": "04/19/2013",
         "movie": "Oblivion",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "Star Trek Into Darkness": {
+        "release": "05/16/2013",
+        "movie": "Star Trek Into Darkness",
+        "categories": "Star Trek"
     },
     "The Lone Ranger": {
         "release": "07/03/2013",
@@ -544,6 +644,16 @@
         "movie": "Star Wars: The Force Awakens",
         "categories": "Star Wars"
     },
+    "Star Trek Beyond": {
+        "release": "07/22/2016",
+        "movie": "Star Trek Beyond",
+        "categories": "Star Trek"
+    },
+    "Fantastic Beasts and Where to Find Them": {
+        "release": "11/18/2016",
+        "movie": "Fantastic Beasts and Where to Find Them",
+        "categories": "Wizarding World"
+    },
     "Rogue One: A Star Wars Story": {
         "release": "12/16/2016",
         "movie": "Rogue One: A Star Wars Story",
@@ -598,6 +708,11 @@
         "release": "09/14/2018",
         "movie": "The Predator",
         "categories": "Alien/Predator"
+    },
+    "Fantastic Beasts: The Crimes of Grindelwald": {
+        "release": "11/16/2018",
+        "movie": "Fantastic Beasts: The Crimes of Grindelwald",
+        "categories": "Wizarding World"
     },
     "Bumblebee": {
         "release": "12/21/2018",

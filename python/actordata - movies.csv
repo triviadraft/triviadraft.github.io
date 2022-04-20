@@ -7,14 +7,17 @@ release,movie,categories
 05/25/1977,Star Wars,Star Wars
 11/15/1978,The Lord of the Rings,Middle-earth
 05/25/1979,Alien,Alien/Predator
+12/07/1979,Star Trek: The Motion Picture,Star Trek
 03/21/1980,Mad Max,Dystopian/Time
 05/21/1980,The Empire Strikes Back,Star Wars
 12/05/1980,Flash Gordon,Fantasy/Sci-Fi
 06/12/1981,Raiders of the Lost Ark,Swashbuckling/Pulp
 05/14/1982,Conan the Barbarian (1982),Fantasy/Sci-Fi
 05/21/1982,The Road Warrior,Dystopian/Time
+06/04/1982,Star Trek II: The Wrath of Khan,Star Trek
 05/25/1983,Return of the Jedi,Star Wars
 05/23/1984,Indiana Jones and the Temple of Doom,Swashbuckling/Pulp
+06/01/1984,Star Trek III: The Search for Spock,Star Trek
 06/29/1984,Conan the Destroyer,Fantasy/Sci-Fi
 10/26/1984,The Terminator,Dystopian/Time
 07/03/1985,Back to the Future,Dystopian/Time
@@ -23,10 +26,12 @@ release,movie,categories
 06/27/1986,Labyrinth,Fantasy/Sci-Fi
 07/18/1986,Aliens,Alien/Predator
 08/08/1986,The Transformers: The Movie,Hasbro
+11/26/1986,Star Trek IV: The Voyage Home,Star Trek
 06/12/1987,Predator,Alien/Predator
 07/17/1987,RoboCop (1987),Fantasy/Sci-Fi
 05/20/1988,Willow,Fantasy/Sci-Fi
 05/24/1989,Indiana Jones and the Last Crusade,Swashbuckling/Pulp
+06/09/1989,Star Trek V: The Final Frontier,Star Trek
 11/22/1989,Back to the Future Part II,Dystopian/Time
 05/25/1990,Back to the Future Part III,Dystopian/Time
 06/15/1990,Dick Tracy,Swashbuckling/Pulp
@@ -35,29 +40,36 @@ release,movie,categories
 11/21/1990,Predator 2,Alien/Predator
 06/21/1991,The Rocketeer,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
 07/03/1991,Terminator 2: Judgment Day,Dystopian/Time
+12/06/1991,Star Trek VI: The Undiscovered Country,Star Trek
 05/22/1992,Alien 3,Alien/Predator
 06/11/1993,Jurassic Park,Jurassic Park
 11/05/1993,RoboCop 3,Fantasy/Sci-Fi
 07/01/1994,The Shadow,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
 09/16/1994,Timecop,Fantasy/Sci-Fi
+11/18/1994,Star Trek Generations,Star Trek
 03/31/1995,Tank Girl,Fantasy/Sci-Fi
 06/30/1995,Judge Dredd,Fantasy/Sci-Fi
 06/30/1995,Mighty Morphin Power Rangers: The Movie,"Fantasy/Sci-Fi,Hasbro"
 07/28/1995,Waterworld,Dystopian/Time
 06/07/1996,The Phantom,Swashbuckling/Pulp
+11/22/1996,Star Trek: First Contact,Star Trek
 03/28/1997,Turbo: A Power Rangers Movie,"Fantasy/Sci-Fi,Hasbro"
 05/23/1997,The Lost World: Jurassic Park,Jurassic Park
 07/02/1997,Men in Black,Fantasy/Sci-Fi
 08/01/1997,Spawn,Fantasy/Sci-Fi
 11/26/1997,Alien Resurrection,Alien/Predator
 07/17/1998,The Mask of Zorro,Swashbuckling/Pulp
+12/11/1998,Star Trek: Insurrection,Star Trek
 03/31/1999,The Matrix,Dystopian/Time
 05/19/1999,Star Wars: Episode I – The Phantom Menace,Star Wars
 07/18/2001,Jurassic Park III,Jurassic Park
 07/27/2001,Planet of the Apes (2001),Planet of the Apes
+11/16/2001,Harry Potter and the Sorcerer's Stone,Wizarding World
 12/19/2001,The Lord of the Rings: The Fellowship of the Ring,Middle-earth
 05/16/2002,Star Wars: Episode II – Attack of the Clones,Star Wars
 07/03/2002,Men in Black II,Fantasy/Sci-Fi
+11/15/2002,Harry Potter and the Chamber of Secrets,Wizarding World
+12/13/2002,Star Trek: Nemesis,Star Trek
 12/18/2002,The Lord of the Rings: The Two Towers,Middle-earth
 05/15/2003,The Matrix Reloaded,Dystopian/Time
 07/02/2003,Terminator 3: Rise of the Machines,Dystopian/Time
@@ -66,25 +78,32 @@ release,movie,categories
 11/05/2003,The Matrix Revolutions,Dystopian/Time
 12/17/2003,The Lord of the Rings: The Return of the King,Middle-earth
 04/02/2004,Hellboy (2004),Fantasy/Sci-Fi
+06/04/2004,Harry Potter and the Prisoner of Azkaban,Wizarding World
 08/13/2004,Alien vs. Predator,Alien/Predator
 05/19/2005,Star Wars: Episode III – Revenge of the Sith,Star Wars
 10/28/2005,The Legend of Zorro,Swashbuckling/Pulp
+11/18/2005,Harry Potter and the Goblet of Fire,Wizarding World
 12/09/2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy/Sci-Fi
 07/07/2006,Pirates of the Caribbean: Dead Man's Chest,Swashbuckling/Pulp
 05/25/2007,Pirates of the Caribbean: At World's End,Swashbuckling/Pulp
 07/03/2007,Transformers,Hasbro
+07/11/2007,Harry Potter and the Order of the Phoenix,Wizarding World
 12/25/2007,Aliens vs. Predator: Requiem,Alien/Predator
 05/17/2008,The Chronicles of Narnia: Prince Caspian,Fantasy/Sci-Fi
 05/22/2008,Indiana Jones and the Kingdom of the Crystal Skull,Swashbuckling/Pulp
 07/11/2008,Hellboy II: The Golden Army,Fantasy/Sci-Fi
 08/15/2008,Star Wars: The Clone Wars,Star Wars
+05/08/2009,Star Trek,Star Trek
 05/21/2009,Terminator Salvation,Dystopian/Time
 06/24/2009,Transformers: Revenge of the Fallen,Hasbro
+07/15/2009,Harry Potter and the Half-Blood Prince,Wizarding World
 09/25/2009,Surrogates,Fantasy/Sci-Fi
 07/09/2010,Predators,Alien/Predator
+11/19/2010,Harry Potter and the Deathly Hallows – Part 1,Wizarding World
 12/10/2010,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fantasy/Sci-Fi
 05/20/2011,Pirates of the Caribbean: On Stranger Tides,Swashbuckling/Pulp
 06/29/2011,Transformers: Dark of the Moon,Hasbro
+07/15/2011,Harry Potter and the Deathly Hallows – Part 2,Wizarding World
 07/29/2011,Cowboys & Aliens,Fantasy/Sci-Fi
 08/05/2011,Rise of the Planet of the Apes,Planet of the Apes
 08/19/2011,Conan the Barbarian (2011),Fantasy/Sci-Fi
@@ -94,6 +113,7 @@ release,movie,categories
 09/21/2012,Dredd,Fantasy/Sci-Fi
 12/14/2012,The Hobbit: An Unexpected Journey,Middle-earth
 04/19/2013,Oblivion,Fantasy/Sci-Fi
+05/16/2013,Star Trek Into Darkness,Star Trek
 07/03/2013,The Lone Ranger,Swashbuckling/Pulp
 07/19/2013,R.I.P.D.,Fantasy/Sci-Fi
 12/13/2013,The Hobbit: The Desolation of Smaug,Middle-earth
@@ -108,6 +128,8 @@ release,movie,categories
 06/12/2015,Jurassic World,Jurassic Park
 07/01/2015,Terminator Genisys,Dystopian/Time
 12/18/2015,Star Wars: The Force Awakens,Star Wars
+07/22/2016,Star Trek Beyond,Star Trek
+11/18/2016,Fantastic Beasts and Where to Find Them,Wizarding World
 12/16/2016,Rogue One: A Star Wars Story,Star Wars
 03/24/2017,Power Rangers,"Fantasy/Sci-Fi,Hasbro"
 05/19/2017,Alien: Covenant,Alien/Predator
@@ -119,6 +141,7 @@ release,movie,categories
 05/25/2018,Solo: A Star Wars Story,Star Wars
 06/22/2018,Jurassic World: Fallen Kingdom,Jurassic Park
 09/14/2018,The Predator,Alien/Predator
+11/16/2018,Fantastic Beasts: The Crimes of Grindelwald,Wizarding World
 12/21/2018,Bumblebee,Hasbro
 04/12/2019,Hellboy (2019),Fantasy/Sci-Fi
 06/14/2019,Men in Black: International,Fantasy/Sci-Fi

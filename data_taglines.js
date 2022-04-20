@@ -53,6 +53,13 @@ var tagline_map = {
         "A word of warning...",
         "In space no one can hear you scream... This Halloween in theatres, everyone will hear you scream"
     ],
+    "Star Trek: The Motion Picture": [
+        "There is no comparison.",
+        "The human adventure is just beginning.",
+        "It will startle your senses, challenge your intellect, and alter your perception of the future by taking you there.",
+        "A living object of infinite proportions and divine power is searching the universe for its origins, determined to find its creator, and about to encounter a 23rd century starship from Earth called Enterprise.",
+        "An army of technicians has been working for years to perfect this great starship. When completed, she will be superior to anything in space. But time has run out, and the ship has to depart unfinished, in search of the greatest mystery ever to confront the human race."
+    ],
     "Mad Max": [
         "He rules the roads.",
         "They murdered his family...... Now he's going to run them over!",
@@ -92,6 +99,13 @@ var tagline_map = {
         "In the future, cities will become deserts, roads will become battlefields and the hope of mankind will appear as a stranger.",
         "When all that's left is one last chance, pray that he's still out there ... somewhere!"
     ],
+    "Star Trek II: The Wrath of Khan": [
+        "Prepare yourself for Warp-10 excitement!",
+        "At the end of the universe lies the beginning of vengeance.",
+        "A scientist discovered the Genesis Device. A madman stole the Genesis Device. An admiral pursued the Genesis Device. They all wanted the Genesis Device. Now, none can escape the Genesis Device.",
+        "In the life of every warrior, there is a battle destined to be his greatest or his last. A battle that will reunite two old friends... and two old enemies. A battle between the starship Enterprise and the wrath of Khan.",
+        "Somewhere in the darkest reaches of the universe, a battle is about to begin. A battle between good and evil, between a warrior and a madman. A battle that will take you from the end of time to the beginning of creation. A battle between the awesome power of the starship Enterprise and the wrath of Khan."
+    ],
     "Return of the Jedi": [
         "Coming May 25, 1983 to your galaxy.",
         "The Empire Falls....",
@@ -103,6 +117,13 @@ var tagline_map = {
         "The hero is back!",
         "Trust him.",
         "The man in the hat is back..."
+    ],
+    "Star Trek III: The Search for Spock": [
+        "Join the search.",
+        "The final voyage of the starship Enterprise.",
+        "A dying planet. A fight for life. The search for Spock.",
+        "The needs of the one outweigh the needs of the many.",
+        "Kirk must battle the Klingons to protect the Genesis Planet and save a friend's life."
     ],
     "Conan the Destroyer": [
         "The most powerful legend of all is back in a new adventure.",
@@ -161,6 +182,14 @@ var tagline_map = {
         "Escape into fantasy this summer, into the incredible rock and roll adventure.",
         "Beyond good. Beyond evil. Beyond your wildest imagination."
     ],
+    "Star Trek IV: The Voyage Home": [
+        "How on Earth can they save the future?",
+        "The crew of the starship Enterprise is coming home.",
+        "The key to saving the future, can be found only in the past.",
+        "Only the technology of the future, can save what's endangering the past.",
+        "Star Date: 1986.",
+        "They travelled back where 23rd century man had never gone before. To a mad, crazy, outrageous time: 1986."
+    ],
     "Predator": [
         "If it bleeds, we can kill it...",
         "Nothing like it has ever been on earth before.",
@@ -185,6 +214,13 @@ var tagline_map = {
         "He's back in an all new adventure. Memorial Day 1989.",
         "Have the adventure of your life keeping up with the Joneses",
         "The man with the hat is back. And this time, he's bringing his Dad."
+    ],
+    "Star Trek V: The Final Frontier": [
+        "The greatest Enterprise of all is adventure.",
+        "Adventure and imagination will meet at the final frontier.",
+        "The crew of the starship Enterprise is taking you where no one has gone before.",
+        "It's a place beyond mystery, beyond time, and until now, beyond reach. The last barrier in the universe is about to be broken.",
+        "An expedition to a remote planet. A surrender to a Vulcan renegade. An attack by an ancient enemy. A race towards the center of the galaxy."
     ],
     "Back to the Future Part II": [
         "Getting back was only the beginning.",
@@ -236,6 +272,13 @@ var tagline_map = {
         "Hasta La Vista, Baby!",
         "This time there are two."
     ],
+    "Star Trek VI: The Undiscovered Country": [
+        "The battle for peace has begun.",
+        "On the verge of peace. On the brink of war.",
+        "An epic journey is about to begin to an undiscovered country.",
+        "Between war and peace, there exists the undiscovered country, the final mission.",
+        "The crew of the starship Enterprise fights not to win battles, but to end them forever."
+    ],
     "Alien 3": [
         "In 1979, we discovered in space, no one can hear you scream. In 1992, we will discover, on Earth, everyone can hear you scream.",
         "In 1979, it came from within. In 1986, it was gone forever. In 1992, our worst fears have come true. It's back.",
@@ -268,6 +311,13 @@ var tagline_map = {
         "They killed his wife ten years ago. There's still time to save her. Murder is forever... until now.",
         "Turn back the clock, and you're history."
     ],
+    "Star Trek Generations": [
+        "Two captains. One destiny.",
+        "The torch of adventure is about to be passed.",
+        "Beyond time. Beyond the known universe. Beyond imagination. An adventure for a new generation.",
+        "Nothing you have seen, nothing you have imagined can prepare you for the next generation of adventure.",
+        "Travel into the limits of time and space as the next generation of heroes takes you beyond the final frontier."
+    ],
     "Tank Girl": [
         "In the future, the odds of survival are 1000 to 1. That's just the way she likes it.",
         "In the future, the odds of survival are 1000 to 1.",
@@ -292,6 +342,13 @@ var tagline_map = {
     "The Phantom": [
         "The ghost who walks. The man who cannot die.",
         "Slam evil!"
+    ],
+    "Star Trek: First Contact": [
+        "Prepare for assimilation.",
+        "There is no thrill like First Contact.",
+        "The battle to save the future has begun.",
+        "Planet Earth. Population 9 billion. None human.",
+        "The treachery of a queen. The courage of a captain. The destiny of a planet."
     ],
     "Turbo: A Power Rangers Movie": [
         "Shift Into Turbo!",
@@ -324,6 +381,13 @@ var tagline_map = {
         "No one has seen his face....but everyone....knows this mark.",
         "This summer, justice leaves its mark.",
         "The sword. The mask. The legend. He isn't just one man... HE'S ZORRO!"
+    ],
+    "Star Trek: Insurrection": [
+        "Meet the new face of evil.",
+        "The battle for paradise has begun.",
+        "Eternity awaits beyond the final frontier.",
+        "The ultimate battle between good and evil begins.",
+        "The future of the galaxy, and the survival of a race, depend on an act of rebellion."
     ],
     "The Matrix": [
         "Free your mind",
@@ -378,6 +442,12 @@ var tagline_map = {
         "On July 27th, take back the planet.",
         "You'll be sorry you were ever born human"
     ],
+    "Harry Potter and the Sorcerer's Stone": [
+        "Let The Magic Begin.",
+        "Journey beyond your imagination",
+        "The Magic Begins November 16th.",
+        "Hidden deep within in the school lies an object that can make you immortal,that can make you powerful,that can make you deadly!"
+    ],
     "The Lord of the Rings: The Fellowship of the Ring": [
         "The Legend Comes to Life",
         "One Ring To Rule Them All.",
@@ -406,6 +476,20 @@ var tagline_map = {
         "This Summer, They're Back in Business. They're Back in Action. They're Back in Black.",
         "Time to put on the last suit you'll ever wear...again...",
         "Back In Black."
+    ],
+    "Harry Potter and the Chamber of Secrets": [
+        "Dobby has come to warn you Sir.",
+        "Hogwarts is back in session.",
+        "The Chamber of Secrets has been opened. Enemies of the heir... beware!",
+        "Something evil has returned to Hogwarts!",
+        "The Chamber of Secrets has opened...",
+        "The second year begins November 15"
+    ],
+    "Star Trek: Nemesis": [
+        "A generation's final journey begins.",
+        "The ultimate battle for Earth begins.",
+        "A nemesis will betray a generation, and their final journey will begin.",
+        "For every good in the universe, there is an evil. And the only way to conquer it is to face it."
     ],
     "The Lord of the Rings: The Two Towers": [
         "A New Power Is Rising.",
@@ -458,6 +542,18 @@ var tagline_map = {
         "Sent to destroy",
         "In the Absence of Light Darkness Prevails"
     ],
+    "Harry Potter and the Prisoner of Azkaban": [
+        "Have you seen this wizard?",
+        "Something wicked this way comes.",
+        "Have you seen this wizard? Approach with extreme caution! Do not attempt to use magic against this man!",
+        "Everything will change.",
+        "The time has come.",
+        "Cast your spell in IMAX.",
+        "Mysteries will unfold.",
+        "Secrets will be revealed.",
+        "Character will be tested.",
+        "Darkness will descend."
+    ],
     "Alien vs. Predator": [
         "Whoever wins... We lose.",
         "It's our planet....It's their war.",
@@ -468,6 +564,12 @@ var tagline_map = {
     ],
     "The Legend of Zorro": [
         "This Fall, adventure begins with a Z."
+    ],
+    "Harry Potter and the Goblet of Fire": [
+        "Everything is about to change.",
+        "Difficult times lie ahead, Harry.",
+        "Dark and difficult times lie ahead.",
+        "On November 18 Everything Will Change."
     ],
     "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": [
         "Some journeys take us far from home. Some adventures lead us to our destiny.",
@@ -488,6 +590,16 @@ var tagline_map = {
         "You haven't seen it all until you've seen it in IMAX",
         "This July, our world will be transformed.",
         "Most have come to destroy us. Some have come to protect us."
+    ],
+    "Harry Potter and the Order of the Phoenix": [
+        "The rebellion begins.",
+        "Evil must be confronted.",
+        "You will lose everything.",
+        "Only one can survive.",
+        "The only way is rebellion.",
+        "No one can protect you.",
+        "Make a final stand.",
+        "Dissent will not be tolerated."
     ],
     "Aliens vs. Predator: Requiem": [
         "This Christmas there will be no peace on Earth.",
@@ -513,6 +625,10 @@ var tagline_map = {
         "From the visionary director of Pan's Labyrinth",
         "Good never looked so bad."
     ],
+    "Star Trek": [
+        "The future begins.",
+        "Before Guardians of the Galaxy... There was Star Trek!"
+    ],
     "Terminator Salvation": [
         "The End Begins",
         "We Fight Back"
@@ -526,6 +642,10 @@ var tagline_map = {
         "They have returned. They have evolved.",
         "Revenge is coming."
     ],
+    "Harry Potter and the Half-Blood Prince": [
+        "Once again I must ask too much of you, Harry.",
+        "Dark secrets revealed."
+    ],
     "Surrogates": [
         "How do you save humanity when the only thing that's real is you?",
         "Human perfection. What could go wrong?"
@@ -535,6 +655,14 @@ var tagline_map = {
         "The Hunt Is On",
         "This summer, fear is reborn.",
         "The most dangerous killers on the planet... but this is not our planet."
+    ],
+    "Harry Potter and the Deathly Hallows \u2013 Part 1": [
+        "Trust no one.",
+        "It all ends here.",
+        "Nowhere is safe.",
+        "Part 1 Of The Epic Finale",
+        "The end begins.",
+        "The hunt begins."
     ],
     "The Chronicles of Narnia: The Voyage of the Dawn Treader": [
         "Return to magic. Return to hope. Return to Narnia.",
@@ -551,6 +679,11 @@ var tagline_map = {
         "The battles are over. The war begins.",
         "The invasion begins",
         "The invasion we always feared. An enemy we never expected."
+    ],
+    "Harry Potter and the Deathly Hallows \u2013 Part 2": [
+        "It All Ends Here",
+        "It All Ends",
+        "The Last Enemy Is Death"
     ],
     "Cowboys & Aliens": [
         "First contact. Last stand."
@@ -607,6 +740,12 @@ var tagline_map = {
     ],
     "Oblivion": [
         "Earth is a memory worth fighting for."
+    ],
+    "Star Trek Into Darkness": [
+        "Beyond the darkness, lies greatness.",
+        "In our darkest hour, when our leaders have fallen, a hero will rise.",
+        "They have one chance to save us all",
+        "Earth will fall"
     ],
     "The Lone Ranger": [
         "Never Take Off the Mask",
@@ -674,6 +813,14 @@ var tagline_map = {
         "The force is calling to you. Just let it in.",
         "A long time ago in a galaxy far, far away..."
     ],
+    "Fantastic Beasts and Where to Find Them": [
+        "From J.K. Rowling's wizarding world.",
+        "J.K. Rowling invites you to a new era of the wizarding world.",
+        "Explore a new era of J.K. Rowling's wizarding world.",
+        "What would you do if your beasts escaped?",
+        "Where did the beasts hide?",
+        "Explore a new era of the wizarding world before Harry Potter."
+    ],
     "Rogue One: A Star Wars Story": [
         "A rebellion built on hope.",
         "Save the Rebellion. Save the dream."
@@ -735,6 +882,10 @@ var tagline_map = {
         "Hunting season opens.",
         "The Hunt is Bigger.",
         "Join the Hunt in 2018."
+    ],
+    "Fantastic Beasts: The Crimes of Grindelwald": [
+        "The fate of one will change the future of all.",
+        "Who will change the future?"
     ],
     "Bumblebee": [
         "Every adventure has a beginning",
