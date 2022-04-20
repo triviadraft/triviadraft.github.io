@@ -1214,6 +1214,19 @@ var tagline_map = {
         "Your move",
         "Crime has a new enemy."
     ],
+    "Captain America: The Winter Soldier": [
+        "In heroes we trust."
+    ],
+    "The Amazing Spider-Man 2": [
+        "No more secrets.",
+        "His greatest battle begins.",
+        "Rise of Electro"
+    ],
+    "X-Men: Days of Future Past": [
+        "His past. Our future.",
+        "Every hero, every power will unite.",
+        "The future begins."
+    ],
     "Snowpiercer": [
         "AD 2031: the passengers in the train are the only survivors on Earth.",
         "Fight your way to the front",
@@ -1232,6 +1245,11 @@ var tagline_map = {
         "Before he was a legend, he was a man.",
         "Discover the truth behind the legend"
     ],
+    "Guardians of the Galaxy": [
+        "You're welcome.",
+        "All heroes start somewhere.",
+        "When things get bad, they'll do their worst."
+    ],
     "The Hobbit: The Battle of the Five Armies": [
         "The Defining Chapter",
         "Witness the defining chapter of the Middle-Earth saga.",
@@ -1242,6 +1260,12 @@ var tagline_map = {
         "They're as different as night and day. But sometimes even enemies just need a little magic.",
         "Everyone deserves to be loved.",
         "From the mind of George Lucas"
+    ],
+    "Kingsman: The Secret Service": [
+        "Manners maketh man."
+    ],
+    "Avengers: Age of Ultron": [
+        "A new age begins"
     ],
     "Mad Max: Fury Road": [
         "WHAT A LOVELY DAY",
@@ -1258,11 +1282,61 @@ var tagline_map = {
         "New Mission. New Fate.",
         "Reset the Future."
     ],
+    "Ant-Man": [
+        "Heroes don't get any bigger.",
+        "No shield. No armor. No problem."
+    ],
+    "Fantastic Four (2015)": [
+        "Change is coming.",
+        "When you change the world, prepare to defend it.",
+        "Beyond darkness... beyond fear... lies the fantastic."
+    ],
     "Star Wars: The Force Awakens": [
         "Every generation has a story.",
         "Coming to your galaxy this winter.",
         "The force is calling to you. Just let it in.",
         "A long time ago in a galaxy far, far away..."
+    ],
+    "Deadpool": [
+        "With great power comes great irresponsibility.",
+        "Witness the beginning of a happy ending",
+        "Bad ass. Smart ass. Great ass.",
+        "A new class of superhero.",
+        "Sit on this",
+        "Wait 'til you get a load of me",
+        "Size matters",
+        "Feel the love Valentine's Day",
+        "Justice has a new face",
+        "They messed with his face and kidnapped his girl. He's not used to being a hero, but he'll give it a whirl."
+    ],
+    "Batman v Superman: Dawn of Justice": [
+        "Who will win?"
+    ],
+    "Captain America: Civil War": [
+        "Divided We Fall",
+        "Whose side are you on?",
+        "United we stand. Divided we fall"
+    ],
+    "X-Men: Apocalypse": [
+        "Prepare for the Apocalypse.",
+        "Only the strong will survive",
+        "Defend",
+        "Destroy"
+    ],
+    "Suicide Squad": [
+        "Justice has a bad side.",
+        "Worst. Heroes. Ever.",
+        "We need them bad.",
+        "In squad we trust",
+        "Good Night",
+        "It feels good to be bad."
+    ],
+    "Doctor Strange": [
+        "Open your mind. Change your reality.",
+        "Question reality. Change your destiny.",
+        "The impossibilities are endless.",
+        "Expand your mind",
+        "Open your mind"
     ],
     "Fantastic Beasts and Where to Find Them": [
         "From J.K. Rowling's wizarding world.",
@@ -1276,11 +1350,32 @@ var tagline_map = {
         "A rebellion built on hope.",
         "Save the Rebellion. Save the dream."
     ],
+    "The Lego Batman Movie": [
+        "Always be yourself. Unless you can be Batman.",
+        "Who says bats can't swim?",
+        "Checkin' out these sick beats",
+        "Hey 'puter, I'm home",
+        "Always be yourself... unless you can be Batman",
+        "I have aged phenomenally",
+        "Do I have sunburn or am I always this hot?",
+        "He's taking them under his wing... of awesomeness!",
+        "He's Rogue Too"
+    ],
+    "Logan": [
+        "His time has come",
+        "One Last Time."
+    ],
     "Power Rangers": [
         "Back to action!",
         "Together we are more",
         "Go go",
         "It's morphin time!"
+    ],
+    "Guardians of the Galaxy Vol. 2": [
+        "This summer, the galaxy won't save itself.",
+        "Obviously.",
+        "Anyone can save the galaxy once.",
+        "You only get one chance to save the galaxy twice."
     ],
     "Alien: Covenant": [
         "Run",
@@ -1296,6 +1391,11 @@ var tagline_map = {
     "Pirates of the Caribbean: Dead Men Tell No Tales": [
         "All pirates must die."
     ],
+    "Wonder Woman": [
+        "Power. Grace. Wisdom. Wonder.",
+        "Wonder. Power. Courage.",
+        "The future of justice begins with her"
+    ],
     "Transformers: The Last Knight": [
         "Rethink your heroes",
         "Every legend hides a secret",
@@ -1303,13 +1403,41 @@ var tagline_map = {
         "For one world to live, the other must die.",
         "They have been here forever."
     ],
+    "Spider-Man: Homecoming": [
+        "Homework can wait. The city can't."
+    ],
     "War for the Planet of the Apes": [
         "For freedom. For family. For the planet."
+    ],
+    "Kingsman: The Golden Circle": [
+        "Reports of my death have been greatly exaggerated."
+    ],
+    "Thor: Ragnarok": [
+        "No Hammer. No Problem.",
+        "Thunder Will Reign.",
+        "Let The Games Begin"
+    ],
+    "Justice League": [
+        "Unite",
+        "Justice for all.",
+        "Unite the League.",
+        "You can't save the world alone.",
+        "All In",
+        "Stronger together in IMAX."
     ],
     "Star Wars: The Last Jedi": [
         "Let the Past Die",
         "Always in Motion is the Future",
         "Light Years Ahead. Discover Dolby Cinema."
+    ],
+    "Black Panther": [
+        "Long live the king.",
+        "Hero. Legend. King.",
+        "A king will rise.",
+        "The Avengers have a new king.",
+        "All Hail the King.",
+        "Respect The Throne",
+        "His father's legacy. His people's rage. Her king's love. Her nation's honor. His country's orders. His nation's security. His enemy's revenge. Her son's survival. His king's commands. Her brother's keeper. His people's pride."
     ],
     "Ready Player One": [
         "A better reality awaits.",
@@ -1317,6 +1445,20 @@ var tagline_map = {
         "An adventure too big for the real world",
         "Accept your reality... or fight for a better one.",
         "A world at stake. A quest for the ultimate prize. ARE YOU READY?"
+    ],
+    "Avengers: Infinity War": [
+        "An entire universe. Once and for all.",
+        "Destiny arrives.",
+        "Where will you be, when it all ends?"
+    ],
+    "Deadpool 2": [
+        "Prepare for the second coming.",
+        "Be the first to see the second coming.",
+        "The second coming.",
+        "Their biggest adventure hits the biggest screen.",
+        "You never forget your second time.",
+        "He's not coming alone.",
+        "From the studio that killed Wolverine."
     ],
     "Solo: A Star Wars Story": [
         "Never tell him the odds."
@@ -1327,6 +1469,14 @@ var tagline_map = {
         "Off the Island. Into your Home.",
         "The Next Stage of Evolution."
     ],
+    "Ant-Man and the Wasp": [
+        "Real heroes. Not actual size."
+    ],
+    "Teen Titans Go! To the Movies": [
+        "It's about courage. It's about action. It's the super hero movie to end all super hero movies... Hopefully.",
+        "Because if Aquaman can get a movie, anyone can.",
+        "They can't save the world... at all"
+    ],
     "The Predator": [
         "You'll never see him coming.",
         "The Hunt has Evolved",
@@ -1334,13 +1484,42 @@ var tagline_map = {
         "The Hunt is Bigger.",
         "Join the Hunt in 2018."
     ],
+    "Venom": [
+        "Embrace your inner anti-hero.",
+        "The world has enough Superheroes.",
+        "We Are..."
+    ],
     "Fantastic Beasts: The Crimes of Grindelwald": [
         "The fate of one will change the future of all.",
         "Who will change the future?"
     ],
+    "Spider-Man: Into the Spider-Verse": [
+        "Enter a universe where more than one wears the mask.",
+        "What makes you different is what makes you Spider-Man."
+    ],
+    "Aquaman": [
+        "Home is calling.",
+        "A tide is coming.",
+        "He's not from around here."
+    ],
     "Bumblebee": [
         "Every adventure has a beginning",
         "Every Hero Has a Beginning"
+    ],
+    "Polar": [
+        "If the Job doesn't kill you, Retirement will."
+    ],
+    "Captain Marvel": [
+        "Discover what makes a (her)o.",
+        "Higher. Further. Faster.",
+        "Everything begins with a (her)o."
+    ],
+    "Shazam!": [
+        "If you want to save the world, say the magic word.",
+        "Just say the word.",
+        "He's not so serious",
+        "Every Hero Has A Secret",
+        "Just Say the Word."
     ],
     "Hellboy (2019)": [
         "Demons Have Demons Too.",
@@ -1357,9 +1536,24 @@ var tagline_map = {
         "He's got demons.",
         "Darkness calls."
     ],
+    "Avengers: Endgame": [
+        "Avenge the fallen.",
+        "Nothing can prepare you for the end.",
+        "Whatever It Takes!",
+        "Part of the journey is the end."
+    ],
+    "Dark Phoenix": [
+        "A Phoenix will rise. The X-Men will fall.",
+        "Every Hero Has a Dark Side",
+        "The Phoenix will rise.",
+        "The X-Men's Final Battle will be Their Greatest."
+    ],
     "Men in Black: International": [
         "The Universe is Expanding",
         "The world's not going to save itself"
+    ],
+    "Joker": [
+        "Put on a happy face."
     ],
     "Terminator: Dark Fate": [
         "Welcome to the Day after Judgment Day.",
@@ -1371,9 +1565,54 @@ var tagline_map = {
         "No one's ever really gone.",
         "The saga comes to an end. the story lives forever"
     ],
+    "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)": [
+        "Mind Over Mayhem",
+        "Prey for Gotham!",
+        "Mayhem at its finest!",
+        "Gotham's worst brings out their best. Meet Harley Quinn, Black Canary, Huntress, Renee Montoya, and Cassandra Cain."
+    ],
     "Bloodshot": [
         "Being a hero is in his blood.",
         "You Don't Need a Past to Have a Future"
+    ],
+    "The Old Guard": [
+        "Forever is Harder Than It Looks",
+        "Whatever it takes."
+    ],
+    "The New Mutants": [
+        "Everyone has demons.",
+        "There is something new to fear.",
+        "It's time to face your demons.",
+        "Power this big can't be contained.",
+        "Hell has frozen over.",
+        "They will never let you out."
+    ],
+    "Wonder Woman 1984": [
+        "A new era of wonder begins."
+    ],
+    "Zack Snyder's Justice League": [
+        "Us United"
+    ],
+    "Black Widow": [
+        "She's Done Running From Her Past.",
+        "Go back to where it all began!",
+        "Her World. Her Secrets. Her Legacy."
+    ],
+    "The Suicide Squad": [
+        "They're dying to save the world.",
+        "Don't get too attached.",
+        "Boom."
+    ],
+    "Shang-Chi and the Legend of the Ten Rings": [
+        "A Marvel legend will rise."
+    ],
+    "Eternals": [
+        "In the beginning...",
+        "The Marvel Universe becomes Eternal.",
+        "The end was just the beginning."
+    ],
+    "Spider-Man: No Way Home": [
+        "The Multiverse Unleashed."
     ],
     "The Matrix Resurrections": [
         "It's been another life, beyond the one...",

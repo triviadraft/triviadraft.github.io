@@ -2,7 +2,7 @@ var movie_map = {
     "Batman (1966)": {
         "release": "07/30/1966",
         "movie": "Batman (1966)",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Planet of the Apes (1968)": {
         "release": "02/08/1968",
@@ -42,7 +42,7 @@ var movie_map = {
     "Superman": {
         "release": "12/15/1978",
         "movie": "Superman",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Superman"
     },
     "Alien": {
         "release": "05/25/1979",
@@ -77,7 +77,7 @@ var movie_map = {
     "Superman II": {
         "release": "06/19/1981",
         "movie": "Superman II",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Superman"
     },
     "Swamp Thing": {
         "release": "02/19/1982",
@@ -107,7 +107,7 @@ var movie_map = {
     "Superman III": {
         "release": "06/17/1983",
         "movie": "Superman III",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Superman"
     },
     "Indiana Jones and the Temple of Doom": {
         "release": "05/23/1984",
@@ -187,7 +187,7 @@ var movie_map = {
     "Superman IV: The Quest for Peace": {
         "release": "07/24/1987",
         "movie": "Superman IV: The Quest for Peace",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Superman"
     },
     "Willow": {
         "release": "05/20/1988",
@@ -212,7 +212,7 @@ var movie_map = {
     "Batman (1989)": {
         "release": "06/23/1989",
         "movie": "Batman (1989)",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Back to the Future Part II": {
         "release": "11/22/1989",
@@ -267,7 +267,7 @@ var movie_map = {
     "Batman Returns": {
         "release": "06/19/1992",
         "movie": "Batman Returns",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Jurassic Park": {
         "release": "06/11/1993",
@@ -282,7 +282,7 @@ var movie_map = {
     "Batman: Mask of the Phantasm": {
         "release": "12/25/1993",
         "movie": "Batman: Mask of the Phantasm",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "The Crow": {
         "release": "05/13/1994",
@@ -317,7 +317,7 @@ var movie_map = {
     "Batman Forever": {
         "release": "06/16/1995",
         "movie": "Batman Forever",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Judge Dredd": {
         "release": "06/30/1995",
@@ -367,7 +367,7 @@ var movie_map = {
     "Batman & Robin": {
         "release": "06/20/1997",
         "movie": "Batman & Robin",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Men in Black": {
         "release": "07/02/1997",
@@ -422,7 +422,7 @@ var movie_map = {
     "X-Men": {
         "release": "07/14/2000",
         "movie": "X-Men",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Jurassic Park III": {
         "release": "07/18/2001",
@@ -457,7 +457,7 @@ var movie_map = {
     "Spider-Man": {
         "release": "05/03/2002",
         "movie": "Spider-Man",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Star Wars: Episode II \u2013 Attack of the Clones": {
         "release": "05/16/2002",
@@ -502,7 +502,7 @@ var movie_map = {
     "X2": {
         "release": "05/02/2003",
         "movie": "X2",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "The Matrix Reloaded": {
         "release": "05/15/2003",
@@ -557,7 +557,7 @@ var movie_map = {
     "Spider-Man 2": {
         "release": "06/30/2004",
         "movie": "Spider-Man 2",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Catwoman": {
         "release": "07/23/2004",
@@ -597,7 +597,7 @@ var movie_map = {
     "Batman Begins": {
         "release": "06/15/2005",
         "movie": "Batman Begins",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Fantastic Four (2005)": {
         "release": "07/08/2005",
@@ -632,12 +632,12 @@ var movie_map = {
     "X-Men: The Last Stand": {
         "release": "05/26/2006",
         "movie": "X-Men: The Last Stand",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Superman Returns": {
         "release": "06/28/2006",
         "movie": "Superman Returns",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Superman"
     },
     "Pirates of the Caribbean: Dead Man's Chest": {
         "release": "07/07/2006",
@@ -652,7 +652,7 @@ var movie_map = {
     "Spider-Man 3": {
         "release": "05/04/2007",
         "movie": "Spider-Man 3",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Pirates of the Caribbean: At World's End": {
         "release": "05/25/2007",
@@ -717,7 +717,7 @@ var movie_map = {
     "The Dark Knight": {
         "release": "07/18/2008",
         "movie": "The Dark Knight",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Star Wars: The Clone Wars": {
         "release": "08/15/2008",
@@ -742,7 +742,7 @@ var movie_map = {
     "X-Men Origins: Wolverine": {
         "release": "05/01/2009",
         "movie": "X-Men Origins: Wolverine",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Star Trek": {
         "release": "05/08/2009",
@@ -827,7 +827,7 @@ var movie_map = {
     "X-Men: First Class": {
         "release": "06/03/2011",
         "movie": "X-Men: First Class",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Green Lantern": {
         "release": "06/17/2011",
@@ -892,12 +892,12 @@ var movie_map = {
     "The Amazing Spider-Man": {
         "release": "07/03/2012",
         "movie": "The Amazing Spider-Man",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "The Dark Knight Rises": {
         "release": "07/20/2012",
         "movie": "The Dark Knight Rises",
-        "categories": "Comic Book,DC"
+        "categories": "Batman,Comic Book,DC"
     },
     "Dredd": {
         "release": "09/21/2012",
@@ -927,7 +927,7 @@ var movie_map = {
     "Man of Steel": {
         "release": "06/14/2013",
         "movie": "Man of Steel",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Superman"
     },
     "The Lone Ranger": {
         "release": "07/03/2013",
@@ -947,7 +947,7 @@ var movie_map = {
     "The Wolverine": {
         "release": "07/26/2013",
         "movie": "The Wolverine",
-        "categories": "Comic Book,Marvel"
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "2 Guns": {
         "release": "08/02/2013",
@@ -977,17 +977,17 @@ var movie_map = {
     "Captain America: The Winter Soldier": {
         "release": "04/04/2014",
         "movie": "Captain America: The Winter Soldier",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "The Amazing Spider-Man 2": {
         "release": "05/02/2014",
         "movie": "The Amazing Spider-Man 2",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "X-Men: Days of Future Past": {
         "release": "05/23/2014",
         "movie": "X-Men: Days of Future Past",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Snowpiercer": {
         "release": "06/27/2014",
@@ -1012,12 +1012,12 @@ var movie_map = {
     "Guardians of the Galaxy": {
         "release": "08/01/2014",
         "movie": "Guardians of the Galaxy",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Big Hero 6": {
         "release": "11/07/2014",
         "movie": "Big Hero 6",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "The Hobbit: The Battle of the Five Armies": {
         "release": "12/17/2014",
@@ -1032,12 +1032,12 @@ var movie_map = {
     "Kingsman: The Secret Service": {
         "release": "02/13/2015",
         "movie": "Kingsman: The Secret Service",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Avengers: Age of Ultron": {
         "release": "05/01/2015",
         "movie": "Avengers: Age of Ultron",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Mad Max: Fury Road": {
         "release": "05/15/2015",
@@ -1057,12 +1057,12 @@ var movie_map = {
     "Ant-Man": {
         "release": "07/17/2015",
         "movie": "Ant-Man",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Fantastic Four (2015)": {
         "release": "08/07/2015",
         "movie": "Fantastic Four (2015)",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Star Wars: The Force Awakens": {
         "release": "12/18/2015",
@@ -1072,22 +1072,22 @@ var movie_map = {
     "Deadpool": {
         "release": "02/12/2016",
         "movie": "Deadpool",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Batman v Superman: Dawn of Justice": {
         "release": "03/25/2016",
         "movie": "Batman v Superman: Dawn of Justice",
-        "categories": ""
+        "categories": "Batman,Comic Book,DC,Superman"
     },
     "Captain America: Civil War": {
         "release": "05/06/2016",
         "movie": "Captain America: Civil War",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "X-Men: Apocalypse": {
         "release": "05/27/2016",
         "movie": "X-Men: Apocalypse",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Star Trek Beyond": {
         "release": "07/22/2016",
@@ -1097,12 +1097,12 @@ var movie_map = {
     "Suicide Squad": {
         "release": "08/05/2016",
         "movie": "Suicide Squad",
-        "categories": ""
+        "categories": "Batman,Comic Book,DC"
     },
     "Doctor Strange": {
         "release": "11/04/2016",
         "movie": "Doctor Strange",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Fantastic Beasts and Where to Find Them": {
         "release": "11/18/2016",
@@ -1117,12 +1117,12 @@ var movie_map = {
     "The Lego Batman Movie": {
         "release": "02/10/2017",
         "movie": "The Lego Batman Movie",
-        "categories": ""
+        "categories": "Batman,Comic Book,DC"
     },
     "Logan": {
         "release": "03/03/2017",
         "movie": "Logan",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Power Rangers": {
         "release": "03/24/2017",
@@ -1132,7 +1132,7 @@ var movie_map = {
     "Guardians of the Galaxy Vol. 2": {
         "release": "05/05/2017",
         "movie": "Guardians of the Galaxy Vol. 2",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Alien: Covenant": {
         "release": "05/19/2017",
@@ -1147,7 +1147,7 @@ var movie_map = {
     "Wonder Woman": {
         "release": "06/02/2017",
         "movie": "Wonder Woman",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Transformers: The Last Knight": {
         "release": "06/21/2017",
@@ -1157,7 +1157,7 @@ var movie_map = {
     "Spider-Man: Homecoming": {
         "release": "07/07/2017",
         "movie": "Spider-Man: Homecoming",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "War for the Planet of the Apes": {
         "release": "07/14/2017",
@@ -1167,17 +1167,17 @@ var movie_map = {
     "Kingsman: The Golden Circle": {
         "release": "09/22/2017",
         "movie": "Kingsman: The Golden Circle",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Thor: Ragnarok": {
         "release": "11/03/2017",
         "movie": "Thor: Ragnarok",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Justice League": {
         "release": "11/17/2017",
         "movie": "Justice League",
-        "categories": ""
+        "categories": "Batman,Comic Book,DC,Superman"
     },
     "Star Wars: The Last Jedi": {
         "release": "12/15/2017",
@@ -1187,7 +1187,7 @@ var movie_map = {
     "Black Panther": {
         "release": "02/16/2018",
         "movie": "Black Panther",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Ready Player One": {
         "release": "03/29/2018",
@@ -1197,12 +1197,12 @@ var movie_map = {
     "Avengers: Infinity War": {
         "release": "04/27/2018",
         "movie": "Avengers: Infinity War",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Deadpool 2": {
         "release": "05/18/2018",
         "movie": "Deadpool 2",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Solo: A Star Wars Story": {
         "release": "05/25/2018",
@@ -1217,12 +1217,12 @@ var movie_map = {
     "Ant-Man and the Wasp": {
         "release": "07/06/2018",
         "movie": "Ant-Man and the Wasp",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Teen Titans Go! To the Movies": {
         "release": "07/27/2018",
         "movie": "Teen Titans Go! To the Movies",
-        "categories": ""
+        "categories": "Batman,Comic Book,DC"
     },
     "The Predator": {
         "release": "09/14/2018",
@@ -1232,7 +1232,7 @@ var movie_map = {
     "Venom": {
         "release": "10/05/2018",
         "movie": "Venom",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Fantastic Beasts: The Crimes of Grindelwald": {
         "release": "11/16/2018",
@@ -1242,12 +1242,12 @@ var movie_map = {
     "Spider-Man: Into the Spider-Verse": {
         "release": "12/14/2018",
         "movie": "Spider-Man: Into the Spider-Verse",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Aquaman": {
         "release": "12/21/2018",
         "movie": "Aquaman",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Bumblebee": {
         "release": "12/21/2018",
@@ -1257,17 +1257,17 @@ var movie_map = {
     "Polar": {
         "release": "01/25/2019",
         "movie": "Polar",
-        "categories": ""
+        "categories": "Comic Book"
     },
     "Captain Marvel": {
         "release": "03/08/2019",
         "movie": "Captain Marvel",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Shazam!": {
         "release": "04/05/2019",
         "movie": "Shazam!",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Hellboy (2019)": {
         "release": "04/12/2019",
@@ -1277,32 +1277,32 @@ var movie_map = {
     "Avengers: Endgame": {
         "release": "04/26/2019",
         "movie": "Avengers: Endgame",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Dark Phoenix": {
         "release": "06/07/2019",
         "movie": "Dark Phoenix",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Men in Black: International": {
         "release": "06/14/2019",
         "movie": "Men in Black: International",
-        "categories": "Comic Book,Fantasy/Sci-Fi"
+        "categories": "Comic Book,Fantasy/Sci-Fi,Marvel"
     },
     "Spider-Man: Far From Home": {
         "release": "07/02/2019",
         "movie": "Spider-Man: Far From Home",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "The Kitchen": {
         "release": "08/09/2019",
         "movie": "The Kitchen",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Joker": {
         "release": "10/04/2019",
         "movie": "Joker",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Terminator: Dark Fate": {
         "release": "11/01/2019",
@@ -1317,7 +1317,7 @@ var movie_map = {
     "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)": {
         "release": "02/07/2020",
         "movie": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Bloodshot": {
         "release": "03/13/2020",
@@ -1327,57 +1327,57 @@ var movie_map = {
     "The Old Guard": {
         "release": "07/10/2020",
         "movie": "The Old Guard",
-        "categories": ""
+        "categories": "Comic Book"
     },
     "The New Mutants": {
         "release": "08/28/2020",
         "movie": "The New Mutants",
-        "categories": ""
+        "categories": "Comic Book,Marvel,X-Men"
     },
     "Wonder Woman 1984": {
         "release": "12/25/2020",
         "movie": "Wonder Woman 1984",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Zack Snyder's Justice League": {
         "release": "03/18/2021",
         "movie": "Zack Snyder's Justice League",
-        "categories": ""
+        "categories": "Batman,Comic Book,DC,Superman"
     },
     "Black Widow": {
         "release": "07/09/2021",
         "movie": "Black Widow",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "The Suicide Squad": {
         "release": "08/05/2021",
         "movie": "The Suicide Squad",
-        "categories": ""
+        "categories": "Comic Book,DC"
     },
     "Shang-Chi and the Legend of the Ten Rings": {
         "release": "09/03/2021",
         "movie": "Shang-Chi and the Legend of the Ten Rings",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Venom: Let There Be Carnage": {
         "release": "10/01/2021",
         "movie": "Venom: Let There Be Carnage",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Eternals": {
         "release": "11/05/2021",
         "movie": "Eternals",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "Spider-Man: No Way Home": {
         "release": "12/17/2021",
         "movie": "Spider-Man: No Way Home",
-        "categories": ""
+        "categories": "Comic Book,Marvel,Spider-Man"
     },
     "The King's Man": {
         "release": "12/22/2021",
         "movie": "The King's Man",
-        "categories": ""
+        "categories": "Comic Book,Marvel"
     },
     "The Matrix Resurrections": {
         "release": "12/22/2021",

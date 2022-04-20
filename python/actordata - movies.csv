@@ -1,5 +1,5 @@
 release,movie,categories
-07/30/1966,Batman (1966),"Comic Book,DC"
+07/30/1966,Batman (1966),"Batman,Comic Book,DC"
 02/08/1968,Planet of the Apes (1968),Planet of the Apes
 05/26/1970,Beneath the Planet of the Apes,Planet of the Apes
 05/21/1971,Escape from the Planet of the Apes,Planet of the Apes
@@ -7,20 +7,20 @@ release,movie,categories
 06/15/1973,Battle for the Planet of the Apes,Planet of the Apes
 05/25/1977,Star Wars,Star Wars
 11/15/1978,The Lord of the Rings,Middle-earth
-12/15/1978,Superman,"Comic Book,DC"
+12/15/1978,Superman,"Comic Book,DC,Superman"
 05/25/1979,Alien,Alien/Predator
 12/07/1979,Star Trek: The Motion Picture,Star Trek
 03/21/1980,Mad Max,Dystopian/Time
 05/21/1980,The Empire Strikes Back,Star Wars
 12/05/1980,Flash Gordon,Fantasy/Sci-Fi
 06/12/1981,Raiders of the Lost Ark,Swashbuckling/Pulp
-06/19/1981,Superman II,"Comic Book,DC"
+06/19/1981,Superman II,"Comic Book,DC,Superman"
 02/19/1982,Swamp Thing,"Comic Book,DC"
 05/14/1982,Conan the Barbarian (1982),Fantasy/Sci-Fi
 05/21/1982,The Road Warrior,Dystopian/Time
 06/04/1982,Star Trek II: The Wrath of Khan,Star Trek
 05/25/1983,Return of the Jedi,Star Wars
-06/17/1983,Superman III,"Comic Book,DC"
+06/17/1983,Superman III,"Comic Book,DC,Superman"
 05/23/1984,Indiana Jones and the Temple of Doom,Swashbuckling/Pulp
 06/01/1984,Star Trek III: The Search for Spock,Star Trek
 06/29/1984,Conan the Destroyer,Fantasy/Sci-Fi
@@ -36,12 +36,12 @@ release,movie,categories
 11/26/1986,Star Trek IV: The Voyage Home,Star Trek
 06/12/1987,Predator,Alien/Predator
 07/17/1987,RoboCop (1987),Fantasy/Sci-Fi
-07/24/1987,Superman IV: The Quest for Peace,"Comic Book,DC"
+07/24/1987,Superman IV: The Quest for Peace,"Comic Book,DC,Superman"
 05/20/1988,Willow,Fantasy/Sci-Fi
 05/12/1989,The Return of Swamp Thing,"Comic Book,DC"
 05/24/1989,Indiana Jones and the Last Crusade,Swashbuckling/Pulp
 06/09/1989,Star Trek V: The Final Frontier,Star Trek
-06/23/1989,Batman (1989),"Comic Book,DC"
+06/23/1989,Batman (1989),"Batman,Comic Book,DC"
 11/22/1989,Back to the Future Part II,Dystopian/Time
 05/25/1990,Back to the Future Part III,Dystopian/Time
 06/15/1990,Dick Tracy,"Comic Book,Swashbuckling/Pulp"
@@ -52,17 +52,17 @@ release,movie,categories
 07/03/1991,Terminator 2: Judgment Day,Dystopian/Time
 12/06/1991,Star Trek VI: The Undiscovered Country,Star Trek
 05/22/1992,Alien 3,Alien/Predator
-06/19/1992,Batman Returns,"Comic Book,DC"
+06/19/1992,Batman Returns,"Batman,Comic Book,DC"
 06/11/1993,Jurassic Park,Jurassic Park
 11/05/1993,RoboCop 3,Fantasy/Sci-Fi
-12/25/1993,Batman: Mask of the Phantasm,"Comic Book,DC"
+12/25/1993,Batman: Mask of the Phantasm,"Batman,Comic Book,DC"
 05/13/1994,The Crow,Comic Book
 07/01/1994,The Shadow,"Comic Book,Fantasy/Sci-Fi,Swashbuckling/Pulp"
 07/29/1994,The Mask,Comic Book
 09/16/1994,Timecop,"Comic Book,Fantasy/Sci-Fi"
 11/18/1994,Star Trek Generations,Star Trek
 03/31/1995,Tank Girl,"Comic Book,Fantasy/Sci-Fi"
-06/16/1995,Batman Forever,"Comic Book,DC"
+06/16/1995,Batman Forever,"Batman,Comic Book,DC"
 06/30/1995,Judge Dredd,"Comic Book,Fantasy/Sci-Fi"
 06/30/1995,Mighty Morphin Power Rangers: The Movie,"Fantasy/Sci-Fi,Hasbro"
 07/28/1995,Waterworld,Dystopian/Time
@@ -72,7 +72,7 @@ release,movie,categories
 11/22/1996,Star Trek: First Contact,Star Trek
 03/28/1997,Turbo: A Power Rangers Movie,"Fantasy/Sci-Fi,Hasbro"
 05/23/1997,The Lost World: Jurassic Park,Jurassic Park
-06/20/1997,Batman & Robin,"Comic Book,DC"
+06/20/1997,Batman & Robin,"Batman,Comic Book,DC"
 07/02/1997,Men in Black,"Comic Book,Fantasy/Sci-Fi,Marvel"
 08/01/1997,Spawn,"Comic Book,Fantasy/Sci-Fi"
 08/15/1997,Steel,"Comic Book,DC"
@@ -83,14 +83,14 @@ release,movie,categories
 03/31/1999,The Matrix,Dystopian/Time
 05/19/1999,Star Wars: Episode I – The Phantom Menace,Star Wars
 08/06/1999,Mystery Men,Comic Book
-07/14/2000,X-Men,"Comic Book,Marvel"
+07/14/2000,X-Men,"Comic Book,Marvel,X-Men"
 07/18/2001,Jurassic Park III,Jurassic Park
 07/20/2001,Ghost World,Comic Book
 07/27/2001,Planet of the Apes (2001),Planet of the Apes
 11/16/2001,Harry Potter and the Sorcerer's Stone,Wizarding World
 12/19/2001,The Lord of the Rings: The Fellowship of the Ring,Middle-earth
 03/22/2002,Blade II,"Comic Book,Marvel"
-05/03/2002,Spider-Man,"Comic Book,Marvel"
+05/03/2002,Spider-Man,"Comic Book,Marvel,Spider-Man"
 05/16/2002,Star Wars: Episode II – Attack of the Clones,Star Wars
 07/03/2002,Men in Black II,"Comic Book,Fantasy/Sci-Fi,Marvel"
 07/12/2002,Road to Perdition,DC
@@ -99,7 +99,7 @@ release,movie,categories
 12/18/2002,The Lord of the Rings: The Two Towers,Middle-earth
 02/14/2003,Daredevil,"Comic Book,Marvel"
 04/16/2003,Bulletproof Monk,Comic Book
-05/02/2003,X2,"Comic Book,Marvel"
+05/02/2003,X2,"Comic Book,Marvel,X-Men"
 05/15/2003,The Matrix Reloaded,Dystopian/Time
 06/20/2003,Hulk,"Comic Book,Marvel"
 07/02/2003,Terminator 3: Rise of the Machines,Dystopian/Time
@@ -110,7 +110,7 @@ release,movie,categories
 04/02/2004,Hellboy (2004),"Comic Book,Fantasy/Sci-Fi"
 04/16/2004,The Punisher,"Comic Book,Marvel"
 06/04/2004,Harry Potter and the Prisoner of Azkaban,Wizarding World
-06/30/2004,Spider-Man 2,"Comic Book,Marvel"
+06/30/2004,Spider-Man 2,"Comic Book,Marvel,Spider-Man"
 07/23/2004,Catwoman,"Comic Book,DC"
 08/13/2004,Alien vs. Predator,Alien/Predator
 12/08/2004,Blade: Trinity,"Comic Book,Marvel"
@@ -118,18 +118,18 @@ release,movie,categories
 02/18/2005,Constantine,"Comic Book,DC"
 02/18/2005,Son of the Mask,Comic Book
 05/19/2005,Star Wars: Episode III – Revenge of the Sith,Star Wars
-06/15/2005,Batman Begins,"Comic Book,DC"
+06/15/2005,Batman Begins,"Batman,Comic Book,DC"
 07/08/2005,Fantastic Four (2005),"Comic Book,Marvel"
 09/23/2005,A History of Violence,DC
 10/28/2005,The Legend of Zorro,Swashbuckling/Pulp
 11/18/2005,Harry Potter and the Goblet of Fire,Wizarding World
 12/09/2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy/Sci-Fi
 03/17/2006,V for Vendetta,DC
-05/26/2006,X-Men: The Last Stand,"Comic Book,Marvel"
-06/28/2006,Superman Returns,"Comic Book,DC"
+05/26/2006,X-Men: The Last Stand,"Comic Book,Marvel,X-Men"
+06/28/2006,Superman Returns,"Comic Book,DC,Superman"
 07/07/2006,Pirates of the Caribbean: Dead Man's Chest,Swashbuckling/Pulp
 02/16/2007,Ghost Rider,"Comic Book,Marvel"
-05/04/2007,Spider-Man 3,"Comic Book,Marvel"
+05/04/2007,Spider-Man 3,"Comic Book,Marvel,Spider-Man"
 05/25/2007,Pirates of the Caribbean: At World's End,Swashbuckling/Pulp
 06/15/2007,Fantastic Four: Rise of the Silver Surfer,"Comic Book,Marvel"
 07/03/2007,Transformers,Hasbro
@@ -142,12 +142,12 @@ release,movie,categories
 06/13/2008,The Incredible Hulk,"Comic Book,Marvel"
 06/27/2008,Wanted,Comic Book
 07/11/2008,Hellboy II: The Golden Army,"Comic Book,Fantasy/Sci-Fi"
-07/18/2008,The Dark Knight,"Comic Book,DC"
+07/18/2008,The Dark Knight,"Batman,Comic Book,DC"
 08/15/2008,Star Wars: The Clone Wars,Star Wars
 12/05/2008,Punisher: War Zone,"Comic Book,Marvel"
 12/25/2008,The Spirit,Comic Book
 03/06/2009,Watchmen,"Comic Book,DC"
-05/01/2009,X-Men Origins: Wolverine,"Comic Book,Marvel"
+05/01/2009,X-Men Origins: Wolverine,"Comic Book,Marvel,X-Men"
 05/08/2009,Star Trek,Star Trek
 05/21/2009,Terminator Salvation,Dystopian/Time
 06/24/2009,Transformers: Revenge of the Fallen,Hasbro
@@ -164,7 +164,7 @@ release,movie,categories
 05/06/2011,Thor,"Comic Book,Marvel"
 05/13/2011,Priest,Comic Book
 05/20/2011,Pirates of the Caribbean: On Stranger Tides,Swashbuckling/Pulp
-06/03/2011,X-Men: First Class,"Comic Book,Marvel"
+06/03/2011,X-Men: First Class,"Comic Book,Marvel,X-Men"
 06/17/2011,Green Lantern,"Comic Book,DC"
 06/29/2011,Transformers: Dark of the Moon,Hasbro
 07/15/2011,Harry Potter and the Deathly Hallows – Part 2,Wizarding World
@@ -177,102 +177,102 @@ release,movie,categories
 05/04/2012,The Avengers,"Comic Book,Marvel"
 05/25/2012,Men in Black 3,"Comic Book,Fantasy/Sci-Fi,Marvel"
 06/08/2012,Prometheus,Alien/Predator
-07/03/2012,The Amazing Spider-Man,"Comic Book,Marvel"
-07/20/2012,The Dark Knight Rises,"Comic Book,DC"
+07/03/2012,The Amazing Spider-Man,"Comic Book,Marvel,Spider-Man"
+07/20/2012,The Dark Knight Rises,"Batman,Comic Book,DC"
 09/21/2012,Dredd,"Comic Book,Fantasy/Sci-Fi"
 12/14/2012,The Hobbit: An Unexpected Journey,Middle-earth
 04/19/2013,Oblivion,Fantasy/Sci-Fi
 05/03/2013,Iron Man 3,"Comic Book,Marvel"
 05/16/2013,Star Trek Into Darkness,Star Trek
-06/14/2013,Man of Steel,"Comic Book,DC"
+06/14/2013,Man of Steel,"Comic Book,DC,Superman"
 07/03/2013,The Lone Ranger,Swashbuckling/Pulp
 07/19/2013,R.I.P.D.,"Comic Book,Fantasy/Sci-Fi"
 07/19/2013,Red 2,"Comic Book,DC"
-07/26/2013,The Wolverine,"Comic Book,Marvel"
+07/26/2013,The Wolverine,"Comic Book,Marvel,X-Men"
 08/02/2013,2 Guns,Comic Book
 08/16/2013,Kick-Ass 2,"Comic Book,Marvel"
 11/08/2013,Thor: The Dark World,"Comic Book,Marvel"
 12/13/2013,The Hobbit: The Desolation of Smaug,Middle-earth
 02/12/2014,RoboCop (2014),Fantasy/Sci-Fi
-04/04/2014,Captain America: The Winter Soldier,
-05/02/2014,The Amazing Spider-Man 2,
-05/23/2014,X-Men: Days of Future Past,
+04/04/2014,Captain America: The Winter Soldier,"Comic Book,Marvel"
+05/02/2014,The Amazing Spider-Man 2,"Comic Book,Marvel,Spider-Man"
+05/23/2014,X-Men: Days of Future Past,"Comic Book,Marvel,X-Men"
 06/27/2014,Snowpiercer,Dystopian/Time
 06/27/2014,Transformers: Age of Extinction,Hasbro
 07/11/2014,Dawn of the Planet of the Apes,Planet of the Apes
 07/25/2014,Hercules,Fantasy/Sci-Fi
-08/01/2014,Guardians of the Galaxy,
-11/07/2014,Big Hero 6,
+08/01/2014,Guardians of the Galaxy,"Comic Book,Marvel"
+11/07/2014,Big Hero 6,"Comic Book,Marvel"
 12/17/2014,The Hobbit: The Battle of the Five Armies,Middle-earth
 01/23/2015,Strange Magic,Fantasy/Sci-Fi
-02/13/2015,Kingsman: The Secret Service,
-05/01/2015,Avengers: Age of Ultron,
+02/13/2015,Kingsman: The Secret Service,"Comic Book,Marvel"
+05/01/2015,Avengers: Age of Ultron,"Comic Book,Marvel"
 05/15/2015,Mad Max: Fury Road,Dystopian/Time
 06/12/2015,Jurassic World,Jurassic Park
 07/01/2015,Terminator Genisys,Dystopian/Time
-07/17/2015,Ant-Man,
-08/07/2015,Fantastic Four (2015),
+07/17/2015,Ant-Man,"Comic Book,Marvel"
+08/07/2015,Fantastic Four (2015),"Comic Book,Marvel"
 12/18/2015,Star Wars: The Force Awakens,Star Wars
-02/12/2016,Deadpool,
-03/25/2016,Batman v Superman: Dawn of Justice,
-05/06/2016,Captain America: Civil War,
-05/27/2016,X-Men: Apocalypse,
+02/12/2016,Deadpool,"Comic Book,Marvel,X-Men"
+03/25/2016,Batman v Superman: Dawn of Justice,"Batman,Comic Book,DC,Superman"
+05/06/2016,Captain America: Civil War,"Comic Book,Marvel,Spider-Man"
+05/27/2016,X-Men: Apocalypse,"Comic Book,Marvel,X-Men"
 07/22/2016,Star Trek Beyond,Star Trek
-08/05/2016,Suicide Squad,
-11/04/2016,Doctor Strange,
+08/05/2016,Suicide Squad,"Batman,Comic Book,DC"
+11/04/2016,Doctor Strange,"Comic Book,Marvel"
 11/18/2016,Fantastic Beasts and Where to Find Them,Wizarding World
 12/16/2016,Rogue One: A Star Wars Story,Star Wars
-02/10/2017,The Lego Batman Movie,
-03/03/2017,Logan,
+02/10/2017,The Lego Batman Movie,"Batman,Comic Book,DC"
+03/03/2017,Logan,"Comic Book,Marvel,X-Men"
 03/24/2017,Power Rangers,"Fantasy/Sci-Fi,Hasbro"
-05/05/2017,Guardians of the Galaxy Vol. 2,
+05/05/2017,Guardians of the Galaxy Vol. 2,"Comic Book,Marvel"
 05/19/2017,Alien: Covenant,Alien/Predator
 05/26/2017,Pirates of the Caribbean: Dead Men Tell No Tales,Swashbuckling/Pulp
-06/02/2017,Wonder Woman,
+06/02/2017,Wonder Woman,"Comic Book,DC"
 06/21/2017,Transformers: The Last Knight,Hasbro
-07/07/2017,Spider-Man: Homecoming,
+07/07/2017,Spider-Man: Homecoming,"Comic Book,Marvel,Spider-Man"
 07/14/2017,War for the Planet of the Apes,Planet of the Apes
-09/22/2017,Kingsman: The Golden Circle,
-11/03/2017,Thor: Ragnarok,
-11/17/2017,Justice League,
+09/22/2017,Kingsman: The Golden Circle,"Comic Book,Marvel"
+11/03/2017,Thor: Ragnarok,"Comic Book,Marvel"
+11/17/2017,Justice League,"Batman,Comic Book,DC,Superman"
 12/15/2017,Star Wars: The Last Jedi,Star Wars
-02/16/2018,Black Panther,
+02/16/2018,Black Panther,"Comic Book,Marvel"
 03/29/2018,Ready Player One,Fantasy/Sci-Fi
-04/27/2018,Avengers: Infinity War,
-05/18/2018,Deadpool 2,
+04/27/2018,Avengers: Infinity War,"Comic Book,Marvel,Spider-Man"
+05/18/2018,Deadpool 2,"Comic Book,Marvel,X-Men"
 05/25/2018,Solo: A Star Wars Story,Star Wars
 06/22/2018,Jurassic World: Fallen Kingdom,Jurassic Park
-07/06/2018,Ant-Man and the Wasp,
-07/27/2018,Teen Titans Go! To the Movies,
+07/06/2018,Ant-Man and the Wasp,"Comic Book,Marvel"
+07/27/2018,Teen Titans Go! To the Movies,"Batman,Comic Book,DC"
 09/14/2018,The Predator,Alien/Predator
-10/05/2018,Venom,
+10/05/2018,Venom,"Comic Book,Marvel,Spider-Man"
 11/16/2018,Fantastic Beasts: The Crimes of Grindelwald,Wizarding World
-12/14/2018,Spider-Man: Into the Spider-Verse,
-12/21/2018,Aquaman,
+12/14/2018,Spider-Man: Into the Spider-Verse,"Comic Book,Marvel,Spider-Man"
+12/21/2018,Aquaman,"Comic Book,DC"
 12/21/2018,Bumblebee,Hasbro
-01/25/2019,Polar,
-03/08/2019,Captain Marvel,
-04/05/2019,Shazam!,
+01/25/2019,Polar,Comic Book
+03/08/2019,Captain Marvel,"Comic Book,Marvel"
+04/05/2019,Shazam!,"Comic Book,DC"
 04/12/2019,Hellboy (2019),"Comic Book,Fantasy/Sci-Fi"
-04/26/2019,Avengers: Endgame,
-06/07/2019,Dark Phoenix,
-06/14/2019,Men in Black: International,"Comic Book,Fantasy/Sci-Fi"
-07/02/2019,Spider-Man: Far From Home,
-08/09/2019,The Kitchen,
-10/04/2019,Joker,
+04/26/2019,Avengers: Endgame,"Comic Book,Marvel,Spider-Man"
+06/07/2019,Dark Phoenix,"Comic Book,Marvel,X-Men"
+06/14/2019,Men in Black: International,"Comic Book,Fantasy/Sci-Fi,Marvel"
+07/02/2019,Spider-Man: Far From Home,"Comic Book,Marvel,Spider-Man"
+08/09/2019,The Kitchen,"Comic Book,DC"
+10/04/2019,Joker,"Comic Book,DC"
 11/01/2019,Terminator: Dark Fate,Dystopian/Time
 12/20/2019,Star Wars: The Rise of Skywalker,Star Wars
-02/07/2020,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),
+02/07/2020,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),"Comic Book,DC"
 03/13/2020,Bloodshot,"Comic Book,Fantasy/Sci-Fi"
-07/10/2020,The Old Guard,
-08/28/2020,The New Mutants,
-12/25/2020,Wonder Woman 1984,
-03/18/2021,Zack Snyder's Justice League,
-07/09/2021,Black Widow,
-08/05/2021,The Suicide Squad,
-09/03/2021,Shang-Chi and the Legend of the Ten Rings,
-10/01/2021,Venom: Let There Be Carnage,
-11/05/2021,Eternals,
-12/17/2021,Spider-Man: No Way Home,
-12/22/2021,The King's Man,
+07/10/2020,The Old Guard,Comic Book
+08/28/2020,The New Mutants,"Comic Book,Marvel,X-Men"
+12/25/2020,Wonder Woman 1984,"Comic Book,DC"
+03/18/2021,Zack Snyder's Justice League,"Batman,Comic Book,DC,Superman"
+07/09/2021,Black Widow,"Comic Book,Marvel"
+08/05/2021,The Suicide Squad,"Comic Book,DC"
+09/03/2021,Shang-Chi and the Legend of the Ten Rings,"Comic Book,Marvel"
+10/01/2021,Venom: Let There Be Carnage,"Comic Book,Marvel,Spider-Man"
+11/05/2021,Eternals,"Comic Book,Marvel"
+12/17/2021,Spider-Man: No Way Home,"Comic Book,Marvel,Spider-Man"
+12/22/2021,The King's Man,"Comic Book,Marvel"
 12/22/2021,The Matrix Resurrections,Dystopian/Time
