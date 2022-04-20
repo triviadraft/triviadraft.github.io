@@ -3,49 +3,61 @@ import json
 import random
 
 def create_jsons():
-    # create a dictionary
-    actors_dict = {}
-    
-    # Open a csv reader called DictReader
-    with open(r'actordata - actors.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        
-        # Convert each row into a dictionary
-        # and add it to data
-        for row in csvReader:
-            movie = row['movie']
+    # movie data
+    movie_dict = {}
 
-            if movie not in actors_dict:
-                actors_dict[movie] = {}
-
-            level = row['level']
-            if level not in actors_dict[movie]:
-                actors_dict[movie][level] = []
-
-            actor_dict = {}
-            actor_dict['actor'] = row['actor']
-            actor_dict['name'] = row['name']
-            actor_dict['description'] = row['description']
-
-            actors_dict[movie][level].append(actor_dict)
-
-    # Open a json writer, and use the json.dumps()
-    # function to dump data
-    with open(r'actors.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(actors_dict, indent=4))
-
-    movies_dict = {}
-    # Open a csv reader called DictReader
     with open(r'actordata - movies.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['name']
-            movies_dict[movie] = row
+            movie_dict[movie] = row
+
+    with open(r'movies.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(movie_dict, indent=4))
+
+
+    # actor data
+    actor_dict = {}
+
+    with open(r'actordata - actors.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+
+        for row in csvReader:
+            movie = row['movie']
+
+            if movie not in actor_dict:
+                actor_dict[movie] = {}
+
+            level = row['level']
+            if level not in actor_dict[movie]:
+                actor_dict[movie][level] = []
+
+            single_actor_dict = {}
+            single_actor_dict['actor'] = row['actor']
+            single_actor_dict['name'] = row['name']
+            single_actor_dict['description'] = row['description']
+
+            actor_dict[movie][level].append(single_actor_dict)
+
+    with open(r'actors.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(actor_dict, indent=4))
+
+    # tagline data
+    tagline_dict = {}
+    with open(r'actordata - taglines.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            movie = row['movie']
+
+            if movie not in tagline_dict:
+                tagline_dict[movie] = []
+
+            tagline_dict[movie].append(row['tagline'])
 
     # Open a json writer, and use the json.dumps()
     # function to dump data
-    with open(r'movies.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(movies_dict, indent=4))
+    with open(r'taglines.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(tagline_dict, indent=4))
 
 def generate_questions():
     # create a dictionary

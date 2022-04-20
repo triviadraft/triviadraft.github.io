@@ -7,3 +7,22 @@
 </head>
 
 Taglines
+
+<p id="question"></p>
+<br>
+<button onclick="displayAnswer()">
+    Display Answer
+</button>
+
+<strong><p id="answer"></p></strong>
+
+<br><button onclick="resetTaglines()">
+    Reset
+</button>
+
+<script src="utils.js"></script>
+<script src="movie_data.js"></script>
+<script src="collect_tagline_data.js"></script>
+<script type="text/javascript" charset="utf-8">
+    document.getElementById("question").innerHTML = question;
+</script>

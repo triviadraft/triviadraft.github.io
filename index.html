@@ -8,7 +8,7 @@
 
 <p id="question"></p>
 <br>
-<button onclick="displayAnswer()">
+<button onclick="displayActorsAnswer()">
     Display Answer
 </button>
 
@@ -18,14 +18,16 @@
     <li><p id="answer2"></p></li>
     <li><p id="answer3"></p></li>
 </ul>
-<br><button onclick="reset()">
+<br><button onclick="resetActors()">
     Reset
 </button>
 
 <a style="text-align: center;" href="taglines.html"  target="_self">Taglines</a>
 
-<script src="collect_data.js"></script>
 <script src="utils.js"></script>
+<script src="actor_data.js"></script>
+<script src="movie_data.js"></script>
+<script src="collect_actor_data.js"></script>
 <script type="text/javascript" charset="utf-8">
     document.getElementById("question").innerHTML = question;
 </script>
