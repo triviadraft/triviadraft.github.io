@@ -24,6 +24,16 @@ var movie_map = {
         "movie": "Battle for the Planet of the Apes",
         "categories": "Planet of the Apes"
     },
+    "Star Wars": {
+        "release": "05/25/1977",
+        "movie": "Star Wars",
+        "categories": "Star Wars"
+    },
+    "The Lord of the Rings": {
+        "release": "11/15/1978",
+        "movie": "The Lord of the Rings",
+        "categories": "Middle-earth"
+    },
     "Alien": {
         "release": "05/25/1979",
         "movie": "Alien",
@@ -33,6 +43,11 @@ var movie_map = {
         "release": "03/21/1980",
         "movie": "Mad Max",
         "categories": "Dystopian/Time"
+    },
+    "The Empire Strikes Back": {
+        "release": "05/21/1980",
+        "movie": "The Empire Strikes Back",
+        "categories": "Star Wars"
     },
     "Flash Gordon": {
         "release": "12/05/1980",
@@ -53,6 +68,11 @@ var movie_map = {
         "release": "05/21/1982",
         "movie": "The Road Warrior",
         "categories": "Dystopian/Time"
+    },
+    "Return of the Jedi": {
+        "release": "05/25/1983",
+        "movie": "Return of the Jedi",
+        "categories": "Star Wars"
     },
     "Indiana Jones and the Temple of Doom": {
         "release": "05/23/1984",
@@ -189,15 +209,15 @@ var movie_map = {
         "movie": "Tank Girl",
         "categories": "Fantasy/Sci-Fi"
     },
-    "Mighty Morphin Power Rangers: The Movie": {
-        "release": "06/30/1995",
-        "movie": "Mighty Morphin Power Rangers: The Movie",
-        "categories": "Fantasy/Sci-Fi,Hasbro"
-    },
     "Judge Dredd": {
         "release": "06/30/1995",
         "movie": "Judge Dredd",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "Mighty Morphin Power Rangers: The Movie": {
+        "release": "06/30/1995",
+        "movie": "Mighty Morphin Power Rangers: The Movie",
+        "categories": "Fantasy/Sci-Fi,Hasbro"
     },
     "Waterworld": {
         "release": "07/28/1995",
@@ -244,6 +264,11 @@ var movie_map = {
         "movie": "The Matrix",
         "categories": "Dystopian/Time"
     },
+    "Star Wars: Episode I \u2013 The Phantom Menace": {
+        "release": "05/19/1999",
+        "movie": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "categories": "Star Wars"
+    },
     "Jurassic Park III": {
         "release": "07/18/2001",
         "movie": "Jurassic Park III",
@@ -254,10 +279,25 @@ var movie_map = {
         "movie": "Planet of the Apes (2001)",
         "categories": "Planet of the Apes"
     },
+    "The Lord of the Rings: The Fellowship of the Ring": {
+        "release": "12/19/2001",
+        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "categories": "Middle-earth"
+    },
+    "Star Wars: Episode II \u2013 Attack of the Clones": {
+        "release": "05/16/2002",
+        "movie": "Star Wars: Episode II \u2013 Attack of the Clones",
+        "categories": "Star Wars"
+    },
     "Men in Black II": {
         "release": "07/03/2002",
         "movie": "Men in Black II",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "The Lord of the Rings: The Two Towers": {
+        "release": "12/18/2002",
+        "movie": "The Lord of the Rings: The Two Towers",
+        "categories": "Middle-earth"
     },
     "The Matrix Reloaded": {
         "release": "05/15/2003",
@@ -284,6 +324,11 @@ var movie_map = {
         "movie": "The Matrix Revolutions",
         "categories": "Dystopian/Time"
     },
+    "The Lord of the Rings: The Return of the King": {
+        "release": "12/17/2003",
+        "movie": "The Lord of the Rings: The Return of the King",
+        "categories": "Middle-earth"
+    },
     "Hellboy (2004)": {
         "release": "04/02/2004",
         "movie": "Hellboy (2004)",
@@ -293,6 +338,11 @@ var movie_map = {
         "release": "08/13/2004",
         "movie": "Alien vs. Predator",
         "categories": "Alien/Predator"
+    },
+    "Star Wars: Episode III \u2013 Revenge of the Sith": {
+        "release": "05/19/2005",
+        "movie": "Star Wars: Episode III \u2013 Revenge of the Sith",
+        "categories": "Star Wars"
     },
     "The Legend of Zorro": {
         "release": "10/28/2005",
@@ -338,6 +388,11 @@ var movie_map = {
         "release": "07/11/2008",
         "movie": "Hellboy II: The Golden Army",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "Star Wars: The Clone Wars": {
+        "release": "08/15/2008",
+        "movie": "Star Wars: The Clone Wars",
+        "categories": "Star Wars"
     },
     "Terminator Salvation": {
         "release": "05/21/2009",
@@ -409,6 +464,11 @@ var movie_map = {
         "movie": "Dredd",
         "categories": "Fantasy/Sci-Fi"
     },
+    "The Hobbit: An Unexpected Journey": {
+        "release": "12/14/2012",
+        "movie": "The Hobbit: An Unexpected Journey",
+        "categories": "Middle-earth"
+    },
     "Oblivion": {
         "release": "04/19/2013",
         "movie": "Oblivion",
@@ -424,20 +484,25 @@ var movie_map = {
         "movie": "R.I.P.D.",
         "categories": "Fantasy/Sci-Fi"
     },
+    "The Hobbit: The Desolation of Smaug": {
+        "release": "12/13/2013",
+        "movie": "The Hobbit: The Desolation of Smaug",
+        "categories": "Middle-earth"
+    },
     "RoboCop (2014)": {
         "release": "02/12/2014",
         "movie": "RoboCop (2014)",
         "categories": "Fantasy/Sci-Fi"
     },
-    "Transformers: Age of Extinction": {
-        "release": "06/27/2014",
-        "movie": "Transformers: Age of Extinction",
-        "categories": "Hasbro"
-    },
     "Snowpiercer": {
         "release": "06/27/2014",
         "movie": "Snowpiercer",
         "categories": "Dystopian/Time"
+    },
+    "Transformers: Age of Extinction": {
+        "release": "06/27/2014",
+        "movie": "Transformers: Age of Extinction",
+        "categories": "Hasbro"
     },
     "Dawn of the Planet of the Apes": {
         "release": "07/11/2014",
@@ -448,6 +513,11 @@ var movie_map = {
         "release": "07/25/2014",
         "movie": "Hercules",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "The Hobbit: The Battle of the Five Armies": {
+        "release": "12/17/2014",
+        "movie": "The Hobbit: The Battle of the Five Armies",
+        "categories": "Middle-earth"
     },
     "Strange Magic": {
         "release": "01/23/2015",
@@ -468,6 +538,16 @@ var movie_map = {
         "release": "07/01/2015",
         "movie": "Terminator Genisys",
         "categories": "Dystopian/Time"
+    },
+    "Star Wars: The Force Awakens": {
+        "release": "12/18/2015",
+        "movie": "Star Wars: The Force Awakens",
+        "categories": "Star Wars"
+    },
+    "Rogue One: A Star Wars Story": {
+        "release": "12/16/2016",
+        "movie": "Rogue One: A Star Wars Story",
+        "categories": "Star Wars"
     },
     "Power Rangers": {
         "release": "03/24/2017",
@@ -494,10 +574,20 @@ var movie_map = {
         "movie": "War for the Planet of the Apes",
         "categories": "Planet of the Apes"
     },
+    "Star Wars: The Last Jedi": {
+        "release": "12/15/2017",
+        "movie": "Star Wars: The Last Jedi",
+        "categories": "Star Wars"
+    },
     "Ready Player One": {
         "release": "03/29/2018",
         "movie": "Ready Player One",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "Solo: A Star Wars Story": {
+        "release": "05/25/2018",
+        "movie": "Solo: A Star Wars Story",
+        "categories": "Star Wars"
     },
     "Jurassic World: Fallen Kingdom": {
         "release": "06/22/2018",
@@ -529,6 +619,11 @@ var movie_map = {
         "movie": "Terminator: Dark Fate",
         "categories": "Dystopian/Time"
     },
+    "Star Wars: The Rise of Skywalker": {
+        "release": "12/20/2019",
+        "movie": "Star Wars: The Rise of Skywalker",
+        "categories": "Star Wars"
+    },
     "Bloodshot": {
         "release": "03/13/2020",
         "movie": "Bloodshot",
@@ -538,65 +633,5 @@ var movie_map = {
         "release": "12/22/2021",
         "movie": "The Matrix Resurrections",
         "categories": "Dystopian/Time"
-    },
-    "Star Wars": {
-        "release": "05/25/1977",
-        "movie": "Star Wars",
-        "categories": "Star Wars"
-    },
-    "The Empire Strikes Back": {
-        "release": "05/21/1980",
-        "movie": "The Empire Strikes Back",
-        "categories": "Star Wars"
-    },
-    "Return of the Jedi": {
-        "release": "05/25/1983",
-        "movie": "Return of the Jedi",
-        "categories": "Star Wars"
-    },
-    "Star Wars: Episode I \u2013 The Phantom Menace": {
-        "release": "05/19/1999",
-        "movie": "Star Wars: Episode I \u2013 The Phantom Menace",
-        "categories": "Star Wars"
-    },
-    "Star Wars: Episode II \u2013 Attack of the Clones": {
-        "release": "05/16/2002",
-        "movie": "Star Wars: Episode II \u2013 Attack of the Clones",
-        "categories": "Star Wars"
-    },
-    "Star Wars: Episode III \u2013 Revenge of the Sith": {
-        "release": "05/19/2005",
-        "movie": "Star Wars: Episode III \u2013 Revenge of the Sith",
-        "categories": "Star Wars"
-    },
-    "Star Wars: The Clone Wars": {
-        "release": "08/15/2008",
-        "movie": "Star Wars: The Clone Wars",
-        "categories": "Star Wars"
-    },
-    "Star Wars: The Force Awakens": {
-        "release": "12/18/2015",
-        "movie": "Star Wars: The Force Awakens",
-        "categories": "Star Wars"
-    },
-    "Rogue One: A Star Wars Story": {
-        "release": "12/16/2016",
-        "movie": "Rogue One: A Star Wars Story",
-        "categories": "Star Wars"
-    },
-    "Star Wars: The Last Jedi": {
-        "release": "12/15/2017",
-        "movie": "Star Wars: The Last Jedi",
-        "categories": "Star Wars"
-    },
-    "Solo: A Star Wars Story": {
-        "release": "05/25/2018",
-        "movie": "Solo: A Star Wars Story",
-        "categories": "Star Wars"
-    },
-    "Star Wars: The Rise of Skywalker": {
-        "release": "12/20/2019",
-        "movie": "Star Wars: The Rise of Skywalker",
-        "categories": "Star Wars"
     }
 }

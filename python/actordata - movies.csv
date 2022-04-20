@@ -4,12 +4,16 @@ release,movie,categories
 05/21/1971,Escape from the Planet of the Apes,Planet of the Apes
 06/30/1972,Conquest of the Planet of the Apes,Planet of the Apes
 06/15/1973,Battle for the Planet of the Apes,Planet of the Apes
+05/25/1977,Star Wars,Star Wars
+11/15/1978,The Lord of the Rings,Middle-earth
 05/25/1979,Alien,Alien/Predator
 03/21/1980,Mad Max,Dystopian/Time
+05/21/1980,The Empire Strikes Back,Star Wars
 12/05/1980,Flash Gordon,Fantasy/Sci-Fi
 06/12/1981,Raiders of the Lost Ark,Swashbuckling/Pulp
 05/14/1982,Conan the Barbarian (1982),Fantasy/Sci-Fi
 05/21/1982,The Road Warrior,Dystopian/Time
+05/25/1983,Return of the Jedi,Star Wars
 05/23/1984,Indiana Jones and the Temple of Doom,Swashbuckling/Pulp
 06/29/1984,Conan the Destroyer,Fantasy/Sci-Fi
 10/26/1984,The Terminator,Dystopian/Time
@@ -37,8 +41,8 @@ release,movie,categories
 07/01/1994,The Shadow,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
 09/16/1994,Timecop,Fantasy/Sci-Fi
 03/31/1995,Tank Girl,Fantasy/Sci-Fi
-06/30/1995,Mighty Morphin Power Rangers: The Movie,"Fantasy/Sci-Fi,Hasbro"
 06/30/1995,Judge Dredd,Fantasy/Sci-Fi
+06/30/1995,Mighty Morphin Power Rangers: The Movie,"Fantasy/Sci-Fi,Hasbro"
 07/28/1995,Waterworld,Dystopian/Time
 06/07/1996,The Phantom,Swashbuckling/Pulp
 03/28/1997,Turbo: A Power Rangers Movie,"Fantasy/Sci-Fi,Hasbro"
@@ -48,16 +52,22 @@ release,movie,categories
 11/26/1997,Alien Resurrection,Alien/Predator
 07/17/1998,The Mask of Zorro,Swashbuckling/Pulp
 03/31/1999,The Matrix,Dystopian/Time
+05/19/1999,Star Wars: Episode I – The Phantom Menace,Star Wars
 07/18/2001,Jurassic Park III,Jurassic Park
 07/27/2001,Planet of the Apes (2001),Planet of the Apes
+12/19/2001,The Lord of the Rings: The Fellowship of the Ring,Middle-earth
+05/16/2002,Star Wars: Episode II – Attack of the Clones,Star Wars
 07/03/2002,Men in Black II,Fantasy/Sci-Fi
+12/18/2002,The Lord of the Rings: The Two Towers,Middle-earth
 05/15/2003,The Matrix Reloaded,Dystopian/Time
 07/02/2003,Terminator 3: Rise of the Machines,Dystopian/Time
 07/09/2003,Pirates of the Caribbean: The Curse of the Black Pearl,Swashbuckling/Pulp
 07/11/2003,The League of Extraordinary Gentlemen,Fantasy/Sci-Fi
 11/05/2003,The Matrix Revolutions,Dystopian/Time
+12/17/2003,The Lord of the Rings: The Return of the King,Middle-earth
 04/02/2004,Hellboy (2004),Fantasy/Sci-Fi
 08/13/2004,Alien vs. Predator,Alien/Predator
+05/19/2005,Star Wars: Episode III – Revenge of the Sith,Star Wars
 10/28/2005,The Legend of Zorro,Swashbuckling/Pulp
 12/09/2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy/Sci-Fi
 07/07/2006,Pirates of the Caribbean: Dead Man's Chest,Swashbuckling/Pulp
@@ -67,6 +77,7 @@ release,movie,categories
 05/17/2008,The Chronicles of Narnia: Prince Caspian,Fantasy/Sci-Fi
 05/22/2008,Indiana Jones and the Kingdom of the Crystal Skull,Swashbuckling/Pulp
 07/11/2008,Hellboy II: The Golden Army,Fantasy/Sci-Fi
+08/15/2008,Star Wars: The Clone Wars,Star Wars
 05/21/2009,Terminator Salvation,Dystopian/Time
 06/24/2009,Transformers: Revenge of the Fallen,Hasbro
 09/25/2009,Surrogates,Fantasy/Sci-Fi
@@ -81,41 +92,37 @@ release,movie,categories
 05/25/2012,Men in Black 3,Fantasy/Sci-Fi
 06/08/2012,Prometheus,Alien/Predator
 09/21/2012,Dredd,Fantasy/Sci-Fi
+12/14/2012,The Hobbit: An Unexpected Journey,Middle-earth
 04/19/2013,Oblivion,Fantasy/Sci-Fi
 07/03/2013,The Lone Ranger,Swashbuckling/Pulp
 07/19/2013,R.I.P.D.,Fantasy/Sci-Fi
+12/13/2013,The Hobbit: The Desolation of Smaug,Middle-earth
 02/12/2014,RoboCop (2014),Fantasy/Sci-Fi
-06/27/2014,Transformers: Age of Extinction,Hasbro
 06/27/2014,Snowpiercer,Dystopian/Time
+06/27/2014,Transformers: Age of Extinction,Hasbro
 07/11/2014,Dawn of the Planet of the Apes,Planet of the Apes
 07/25/2014,Hercules,Fantasy/Sci-Fi
+12/17/2014,The Hobbit: The Battle of the Five Armies,Middle-earth
 01/23/2015,Strange Magic,Fantasy/Sci-Fi
 05/15/2015,Mad Max: Fury Road,Dystopian/Time
 06/12/2015,Jurassic World,Jurassic Park
 07/01/2015,Terminator Genisys,Dystopian/Time
+12/18/2015,Star Wars: The Force Awakens,Star Wars
+12/16/2016,Rogue One: A Star Wars Story,Star Wars
 03/24/2017,Power Rangers,"Fantasy/Sci-Fi,Hasbro"
 05/19/2017,Alien: Covenant,Alien/Predator
 05/26/2017,Pirates of the Caribbean: Dead Men Tell No Tales,Swashbuckling/Pulp
 06/21/2017,Transformers: The Last Knight,Hasbro
 07/14/2017,War for the Planet of the Apes,Planet of the Apes
+12/15/2017,Star Wars: The Last Jedi,Star Wars
 03/29/2018,Ready Player One,Fantasy/Sci-Fi
+05/25/2018,Solo: A Star Wars Story,Star Wars
 06/22/2018,Jurassic World: Fallen Kingdom,Jurassic Park
 09/14/2018,The Predator,Alien/Predator
 12/21/2018,Bumblebee,Hasbro
 04/12/2019,Hellboy (2019),Fantasy/Sci-Fi
 06/14/2019,Men in Black: International,Fantasy/Sci-Fi
 11/01/2019,Terminator: Dark Fate,Dystopian/Time
+12/20/2019,Star Wars: The Rise of Skywalker,Star Wars
 03/13/2020,Bloodshot,Fantasy/Sci-Fi
 12/22/2021,The Matrix Resurrections,Dystopian/Time
-05/25/1977,Star Wars,Star Wars
-05/21/1980,The Empire Strikes Back,Star Wars
-05/25/1983,Return of the Jedi,Star Wars
-05/19/1999,Star Wars: Episode I – The Phantom Menace,Star Wars
-05/16/2002,Star Wars: Episode II – Attack of the Clones,Star Wars
-05/19/2005,Star Wars: Episode III – Revenge of the Sith,Star Wars
-08/15/2008,Star Wars: The Clone Wars,Star Wars
-12/18/2015,Star Wars: The Force Awakens,Star Wars
-12/16/2016,Rogue One: A Star Wars Story,Star Wars
-12/15/2017,Star Wars: The Last Jedi,Star Wars
-05/25/2018,Solo: A Star Wars Story,Star Wars
-12/20/2019,Star Wars: The Rise of Skywalker,Star Wars

@@ -27,6 +27,23 @@
     "Battle for the Planet of the Apes": [
         "The final chapter in the incredible Apes saga. The most suspenseful showdown ever filmed as two civilizations battle for the right to inherit what's left of the earth!"
     ],
+    "Star Wars": [
+        "It's Back! The Force will be with you for three weeks only.",
+        "May the Force be with you. One year old today.",
+        "The force will be with you",
+        "Somewhere, in space, this could all be happening right now.",
+        "The original is back.",
+        "A long time ago in a galaxy far, far away...",
+        "Coming to your galaxy this summer."
+    ],
+    "The Lord of the Rings": [
+        "Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
+        "Fantasy...beyond your imagination",
+        "A single dream is more powerful than a thousand realities",
+        "Fantasy Beyond Your Imagination",
+        "One man cast a lingering spell of awe and wonder, of magical innocence overcoming evil, of simple courage conquering fear - he gave us the legend that will live forever in our minds. J.R.R. Tolkein triumphed with the perception that a single dream is more powerful than a thousand realities. Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
+        "From J.R.R. Tolkien's Magical The Lord of the Rings Trilogy"
+    ],
     "Alien": [
         "In space no one can hear you scream.",
         "The Scariest Movie Ever Made. Experience it only on the big screen",
@@ -46,6 +63,11 @@
         "The last law in a world gone out of control. Pray that he's out there somewhere.",
         "When the gangs take over the highway... ...Remember he's on your side.",
         "The Film That Started It All"
+    ],
+    "The Empire Strikes Back": [
+        "The Adventure Continues...",
+        "The Star Wars saga continues",
+        "The battle continues..."
     ],
     "Flash Gordon": [
         "He'll save every one of us!!",
@@ -69,6 +91,12 @@
         "Ruthless... Savage... Spectacular",
         "In the future, cities will become deserts, roads will become battlefields and the hope of mankind will appear as a stranger.",
         "When all that's left is one last chance, pray that he's still out there ... somewhere!"
+    ],
+    "Return of the Jedi": [
+        "Coming May 25, 1983 to your galaxy.",
+        "The Empire Falls....",
+        "Return To A Galaxy Far, Far Away",
+        "The Saga Continues."
     ],
     "Indiana Jones and the Temple of Doom": [
         "If adventure has a name... it must be Indiana Jones.",
@@ -246,17 +274,17 @@
         "That's just the way she likes it.",
         "In 2033, justice rides a tank and wears lip gloss"
     ],
+    "Judge Dredd": [
+        "One man is Judge, Jury, AND Executioner.",
+        "One man is the law",
+        "In the future, one man is the law."
+    ],
     "Mighty Morphin Power Rangers: The Movie": [
         "Six teenagers have discovered the power to fight the forces of evil. Now the fate of the universe is in their hands.",
         "The power of teamwork overcomes all!",
         "The Power Is On!",
         "Each has a power. Each has a purpose, and together they will face their greatest adventure.",
         "You ooze you lose."
-    ],
-    "Judge Dredd": [
-        "One man is Judge, Jury, AND Executioner.",
-        "One man is the law",
-        "In the future, one man is the law."
     ],
     "Waterworld": [
         "Beyond the horizon lies the secret to a new beginning."
@@ -314,6 +342,15 @@
         "The Future Will Not Be User Friendly",
         "The World's population thinks it's real. On March 31st, they will see the \"Real World\"."
     ],
+    "Star Wars: Episode I \u2013 The Phantom Menace": [
+        "At last we will reveal ourselves to the Jedi.",
+        "One Race. One Adventure. The One to Own.",
+        "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+        "The saga begins Spring 1999",
+        "The Saga Begins May 19th",
+        "The Force Returns May 19th",
+        "One truth, one hate."
+    ],
     "Jurassic Park III": [
         "Disaster is an Instinct.",
         "This Time It's Not Just A Walk In The Park!",
@@ -341,6 +378,26 @@
         "On July 27th, take back the planet.",
         "You'll be sorry you were ever born human"
     ],
+    "The Lord of the Rings: The Fellowship of the Ring": [
+        "The Legend Comes to Life",
+        "One Ring To Rule Them All.",
+        "You will find adventure, or adventure will find you.",
+        "One ring to rule them all, One ring to find them, One ring to bring them all and in the darkness bind them",
+        "Its power corrupts all who desire it. Only one has the will to resist it. A Fellowship of nine must destroy it.",
+        "Fate Has Chosen Him. A Fellowship Will Protect Him. Evil Will Hunt Them.",
+        "Middle Earth comes alive...",
+        "Even the smallest person can change the course of the future.",
+        "All we have to decide is what to do with the time that we are given",
+        "Power can be held in the smallest of things..."
+    ],
+    "Star Wars: Episode II \u2013 Attack of the Clones": [
+        "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
+        "The Saga Continues.",
+        "The Attack Begins May 16th",
+        "The Saga Continues May 16th",
+        "The Clones Are Coming",
+        "Size matters not. Except on an IMAX Screen."
+    ],
     "Men in Black II": [
         "We Got A World To Save",
         "Same Planet. New Scum.",
@@ -349,6 +406,13 @@
         "This Summer, They're Back in Business. They're Back in Action. They're Back in Black.",
         "Time to put on the last suit you'll ever wear...again...",
         "Back In Black."
+    ],
+    "The Lord of the Rings: The Two Towers": [
+        "A New Power Is Rising.",
+        "The Battle for Middle-earth Begins!",
+        "All will be sacrificed... All will be lost... Unless all unite against evil.",
+        "The fellowship is broken. The power of darkness grows...",
+        "The Journey Continues December 18th"
     ],
     "The Matrix Reloaded": [
         "Free your mind.",
@@ -382,6 +446,11 @@
         "Everything that has a beginning has an end.",
         "The IMAX Revolution"
     ],
+    "The Lord of the Rings: The Return of the King": [
+        "The eye of the enemy is moving.",
+        "This Christmas the journey ends.",
+        "There can be no triumph without loss. No victory without suffering. No freedom without sacrifice."
+    ],
     "Hellboy (2004)": [
         "From the Dark Side to Our Side",
         "Give Evil Hell",
@@ -393,6 +462,9 @@
         "Whoever wins... We lose.",
         "It's our planet....It's their war.",
         "The enemy of my enemy....is my friend."
+    ],
+    "Star Wars: Episode III \u2013 Revenge of the Sith": [
+        "The saga is complete."
     ],
     "The Legend of Zorro": [
         "This Fall, adventure begins with a Z."
@@ -529,6 +601,10 @@
     "Dredd": [
         "Judgment is coming"
     ],
+    "The Hobbit: An Unexpected Journey": [
+        "From the smallest beginnings come the greatest legends.",
+        "One journey started it all."
+    ],
     "Oblivion": [
         "Earth is a memory worth fighting for."
     ],
@@ -540,10 +616,18 @@
         "To protect and serve the living",
         "They're defending our world one soul at a time."
     ],
+    "The Hobbit: The Desolation of Smaug": [
+        "Beyond darkness... beyond desolation... lies the greatest danger of all."
+    ],
     "RoboCop (2014)": [
         "We've got the future under control.",
         "Your move",
         "Crime has a new enemy."
+    ],
+    "Snowpiercer": [
+        "AD 2031: the passengers in the train are the only survivors on Earth.",
+        "Fight your way to the front",
+        "We move forward"
     ],
     "Transformers: Age of Extinction": [
         "Prepare for extinction.",
@@ -551,17 +635,17 @@
         "Stand together or face extinction.",
         "This is not war, it's extinction"
     ],
-    "Snowpiercer": [
-        "AD 2031: the passengers in the train are the only survivors on Earth.",
-        "Fight your way to the front",
-        "We move forward"
-    ],
     "Dawn of the Planet of the Apes": [
         "One last chance for peace."
     ],
     "Hercules": [
         "Before he was a legend, he was a man.",
         "Discover the truth behind the legend"
+    ],
+    "The Hobbit: The Battle of the Five Armies": [
+        "The Defining Chapter",
+        "Witness the defining chapter of the Middle-Earth saga.",
+        "The epic conclusion to 'The Hobbit' trilogy."
     ],
     "Strange Magic": [
         "For ages two worlds lived divided: the magical and the mysterious. Until someone crossed the line...",
@@ -583,6 +667,16 @@
         "He's Back.",
         "New Mission. New Fate.",
         "Reset the Future."
+    ],
+    "Star Wars: The Force Awakens": [
+        "Every generation has a story.",
+        "Coming to your galaxy this winter.",
+        "The force is calling to you. Just let it in.",
+        "A long time ago in a galaxy far, far away..."
+    ],
+    "Rogue One: A Star Wars Story": [
+        "A rebellion built on hope.",
+        "Save the Rebellion. Save the dream."
     ],
     "Power Rangers": [
         "Back to action!",
@@ -614,12 +708,20 @@
     "War for the Planet of the Apes": [
         "For freedom. For family. For the planet."
     ],
+    "Star Wars: The Last Jedi": [
+        "Let the Past Die",
+        "Always in Motion is the Future",
+        "Light Years Ahead. Discover Dolby Cinema."
+    ],
     "Ready Player One": [
         "A better reality awaits.",
         "Break Free",
         "An adventure too big for the real world",
         "Accept your reality... or fight for a better one.",
         "A world at stake. A quest for the ultimate prize. ARE YOU READY?"
+    ],
+    "Solo: A Star Wars Story": [
+        "Never tell him the odds."
     ],
     "Jurassic World: Fallen Kingdom": [
         "Life finds a way.",
@@ -661,6 +763,12 @@
         "Welcome to the Day after Judgment Day.",
         "Choose Your Fate."
     ],
+    "Star Wars: The Rise of Skywalker": [
+        "Every Generation Has A Legend.",
+        "The Saga Concludes.",
+        "No one's ever really gone.",
+        "The saga comes to an end. the story lives forever"
+    ],
     "Bloodshot": [
         "Being a hero is in his blood.",
         "You Don't Need a Past to Have a Future"
@@ -670,69 +778,5 @@
         "The choice is yours.",
         "Return to the source.",
         "Re-enter."
-    ],
-    "Star Wars": [
-        "It's Back! The Force will be with you for three weeks only.",
-        "May the Force be with you. One year old today.",
-        "The force will be with you",
-        "Somewhere, in space, this could all be happening right now.",
-        "The original is back.",
-        "A long time ago in a galaxy far, far away...",
-        "Coming to your galaxy this summer."
-    ],
-    "The Empire Strikes Back": [
-        "The Adventure Continues...",
-        "The Star Wars saga continues",
-        "The battle continues..."
-    ],
-    "Return of the Jedi": [
-        "Coming May 25, 1983 to your galaxy.",
-        "The Empire Falls....",
-        "Return To A Galaxy Far, Far Away",
-        "The Saga Continues."
-    ],
-    "Star Wars: Episode I \u2013 The Phantom Menace": [
-        "At last we will reveal ourselves to the Jedi.",
-        "One Race. One Adventure. The One to Own.",
-        "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
-        "The saga begins Spring 1999",
-        "The Saga Begins May 19th",
-        "The Force Returns May 19th",
-        "One truth, one hate."
-    ],
-    "Star Wars: Episode II \u2013 Attack of the Clones": [
-        "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
-        "The Saga Continues.",
-        "The Attack Begins May 16th",
-        "The Saga Continues May 16th",
-        "The Clones Are Coming",
-        "Size matters not. Except on an IMAX Screen."
-    ],
-    "Star Wars: Episode III \u2013 Revenge of the Sith": [
-        "The saga is complete."
-    ],
-    "Star Wars: The Force Awakens": [
-        "Every generation has a story.",
-        "Coming to your galaxy this winter.",
-        "The force is calling to you. Just let it in.",
-        "A long time ago in a galaxy far, far away..."
-    ],
-    "Rogue One: A Star Wars Story": [
-        "A rebellion built on hope.",
-        "Save the Rebellion. Save the dream."
-    ],
-    "Star Wars: The Last Jedi": [
-        "Let the Past Die",
-        "Always in Motion is the Future",
-        "Light Years Ahead. Discover Dolby Cinema."
-    ],
-    "Solo: A Star Wars Story": [
-        "Never tell him the odds."
-    ],
-    "Star Wars: The Rise of Skywalker": [
-        "Every Generation Has A Legend.",
-        "The Saga Concludes.",
-        "No one's ever really gone.",
-        "The saga comes to an end. the story lives forever"
     ]
 }
