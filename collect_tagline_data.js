@@ -17,7 +17,7 @@ function displayAnswers(x) {
     document.getElementById('answer3').innerHTML = answers[2];
     document.getElementById('answer4').innerHTML = answers[3];
     document.getElementById('answer5').innerHTML = answers[4];
-    x.style.display = 'none';
+    document.getElementById('displayBtn').style.display = 'none';
 }
 
 function reset() { 
@@ -48,6 +48,7 @@ function reset() {
     document.getElementById('answer3').innerHTML = '';
     document.getElementById('answer4').innerHTML = '';
     document.getElementById('answer5').innerHTML = '';
+    document.getElementById('displayBtn').style.display = 'block';
 }
 
 var movies = randomItems(5, Object.keys(tagline_map));
