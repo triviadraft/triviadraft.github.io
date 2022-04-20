@@ -37,7 +37,7 @@ var movie_map = {
     "The Lord of the Rings": {
         "release": "11/15/1978",
         "movie": "The Lord of the Rings",
-        "categories": "Middle-earth"
+        "categories": "Animated,Middle-earth"
     },
     "Superman": {
         "release": "12/15/1978",
@@ -78,6 +78,11 @@ var movie_map = {
         "release": "06/19/1981",
         "movie": "Superman II",
         "categories": "Comic Book,DC,Superman"
+    },
+    "Heavy Metal": {
+        "release": "08/07/1981",
+        "movie": "Heavy Metal",
+        "categories": "Animated"
     },
     "Swamp Thing": {
         "release": "02/19/1982",
@@ -167,7 +172,7 @@ var movie_map = {
     "The Transformers: The Movie": {
         "release": "08/08/1986",
         "movie": "The Transformers: The Movie",
-        "categories": "Hasbro"
+        "categories": "Animated,Hasbro"
     },
     "Star Trek IV: The Voyage Home": {
         "release": "11/26/1986",
@@ -219,6 +224,11 @@ var movie_map = {
         "movie": "Back to the Future Part II",
         "categories": "Dystopian/Time"
     },
+    "Teenage Mutant Ninja Turtles (1990)": {
+        "release": "03/30/1990",
+        "movie": "Teenage Mutant Ninja Turtles (1990)",
+        "categories": "Teenage Mutant Ninja Turtles"
+    },
     "Back to the Future Part III": {
         "release": "05/25/1990",
         "movie": "Back to the Future Part III",
@@ -243,6 +253,11 @@ var movie_map = {
         "release": "11/21/1990",
         "movie": "Predator 2",
         "categories": "Alien/Predator"
+    },
+    "Teenage Mutant Ninja Turtles II: The Secret of the Ooze": {
+        "release": "03/22/1991",
+        "movie": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "categories": "Teenage Mutant Ninja Turtles"
     },
     "The Rocketeer": {
         "release": "06/21/1991",
@@ -269,6 +284,11 @@ var movie_map = {
         "movie": "Batman Returns",
         "categories": "Batman,Comic Book,DC"
     },
+    "Teenage Mutant Ninja Turtles III": {
+        "release": "03/19/1993",
+        "movie": "Teenage Mutant Ninja Turtles III",
+        "categories": "Teenage Mutant Ninja Turtles"
+    },
     "Jurassic Park": {
         "release": "06/11/1993",
         "movie": "Jurassic Park",
@@ -282,7 +302,7 @@ var movie_map = {
     "Batman: Mask of the Phantasm": {
         "release": "12/25/1993",
         "movie": "Batman: Mask of the Phantasm",
-        "categories": "Batman,Comic Book,DC"
+        "categories": "Animated,Batman,Comic Book,DC"
     },
     "The Crow": {
         "release": "05/13/1994",
@@ -418,6 +438,11 @@ var movie_map = {
         "release": "08/06/1999",
         "movie": "Mystery Men",
         "categories": "Comic Book"
+    },
+    "Heavy Metal 2000": {
+        "release": "07/10/2000",
+        "movie": "Heavy Metal 2000",
+        "categories": "Animated"
     },
     "X-Men": {
         "release": "07/14/2000",
@@ -569,6 +594,11 @@ var movie_map = {
         "movie": "Alien vs. Predator",
         "categories": "Alien/Predator"
     },
+    "The Incredibles": {
+        "release": "11/05/2004",
+        "movie": "The Incredibles",
+        "categories": "Animated"
+    },
     "Blade: Trinity": {
         "release": "12/08/2004",
         "movie": "Blade: Trinity",
@@ -649,6 +679,11 @@ var movie_map = {
         "movie": "Ghost Rider",
         "categories": "Comic Book,Marvel"
     },
+    "TMNT": {
+        "release": "03/23/2007",
+        "movie": "TMNT",
+        "categories": "Animated,Teenage Mutant Ninja Turtles"
+    },
     "Spider-Man 3": {
         "release": "05/04/2007",
         "movie": "Spider-Man 3",
@@ -722,7 +757,7 @@ var movie_map = {
     "Star Wars: The Clone Wars": {
         "release": "08/15/2008",
         "movie": "Star Wars: The Clone Wars",
-        "categories": "Star Wars"
+        "categories": "Animated,Star Wars"
     },
     "Punisher: War Zone": {
         "release": "12/05/2008",
@@ -863,6 +898,11 @@ var movie_map = {
         "release": "08/19/2011",
         "movie": "Conan the Barbarian (2011)",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "The Adventures of Tintin": {
+        "release": "12/21/2011",
+        "movie": "The Adventures of Tintin",
+        "categories": "Animated"
     },
     "Ghost Rider: Spirit of Vengeance": {
         "release": "02/17/2012",
@@ -1014,10 +1054,15 @@ var movie_map = {
         "movie": "Guardians of the Galaxy",
         "categories": "Comic Book,Marvel"
     },
+    "Teenage Mutant Ninja Turtles (2014)": {
+        "release": "08/08/2014",
+        "movie": "Teenage Mutant Ninja Turtles (2014)",
+        "categories": "Teenage Mutant Ninja Turtles"
+    },
     "Big Hero 6": {
         "release": "11/07/2014",
         "movie": "Big Hero 6",
-        "categories": "Comic Book,Marvel"
+        "categories": "Animated,Comic Book,Marvel"
     },
     "The Hobbit: The Battle of the Five Armies": {
         "release": "12/17/2014",
@@ -1027,7 +1072,7 @@ var movie_map = {
     "Strange Magic": {
         "release": "01/23/2015",
         "movie": "Strange Magic",
-        "categories": "Fantasy/Sci-Fi"
+        "categories": "Animated,Fantasy/Sci-Fi"
     },
     "Kingsman: The Secret Service": {
         "release": "02/13/2015",
@@ -1089,6 +1134,11 @@ var movie_map = {
         "movie": "X-Men: Apocalypse",
         "categories": "Comic Book,Marvel,X-Men"
     },
+    "Teenage Mutant Ninja Turtles: Out of the Shadows": {
+        "release": "06/03/2016",
+        "movie": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+        "categories": "Teenage Mutant Ninja Turtles"
+    },
     "Star Trek Beyond": {
         "release": "07/22/2016",
         "movie": "Star Trek Beyond",
@@ -1117,7 +1167,7 @@ var movie_map = {
     "The Lego Batman Movie": {
         "release": "02/10/2017",
         "movie": "The Lego Batman Movie",
-        "categories": "Batman,Comic Book,DC"
+        "categories": "Animated,Batman,Comic Book,DC"
     },
     "Logan": {
         "release": "03/03/2017",
@@ -1209,6 +1259,11 @@ var movie_map = {
         "movie": "Solo: A Star Wars Story",
         "categories": "Star Wars"
     },
+    "Incredibles 2": {
+        "release": "06/15/2018",
+        "movie": "Incredibles 2",
+        "categories": "Animated"
+    },
     "Jurassic World: Fallen Kingdom": {
         "release": "06/22/2018",
         "movie": "Jurassic World: Fallen Kingdom",
@@ -1222,7 +1277,7 @@ var movie_map = {
     "Teen Titans Go! To the Movies": {
         "release": "07/27/2018",
         "movie": "Teen Titans Go! To the Movies",
-        "categories": "Batman,Comic Book,DC"
+        "categories": "Animated,Batman,Comic Book,DC"
     },
     "The Predator": {
         "release": "09/14/2018",
@@ -1242,7 +1297,7 @@ var movie_map = {
     "Spider-Man: Into the Spider-Verse": {
         "release": "12/14/2018",
         "movie": "Spider-Man: Into the Spider-Verse",
-        "categories": "Comic Book,Marvel,Spider-Man"
+        "categories": "Animated,Comic Book,Marvel,Spider-Man"
     },
     "Aquaman": {
         "release": "12/21/2018",

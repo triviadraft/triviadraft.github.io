@@ -107,6 +107,13 @@ var tagline_map = {
         "The Man of Steel meets his match!",
         "The Man of Steel is back, and better than ever!"
     ],
+    "Heavy Metal": [
+        "Sex and crime and rock 'n' roll!",
+        "Louder and nastier then ever!",
+        "A step beyond science-fiction.",
+        "A universe of mystery. A universe of magic. A universe of awesome good...and terrifying evil.",
+        "Columbia Pictures takes you beyond the future into a universe you've never seen before. A universe of mystery. A universe of magic. A universe of sexual fantasies. A universe of awesome good. A universe of terrifying evil."
+    ],
     "Swamp Thing": [
         "Science transformed him into a monster. Love changed him even more!",
         "The comic book legend lives!"
@@ -297,6 +304,14 @@ var tagline_map = {
         "Do You Remember... The Future?",
         "It's About Time."
     ],
+    "Teenage Mutant Ninja Turtles (1990)": [
+        "Heroes in a half shell!",
+        "Lean, Green And On The Screen.",
+        "They're mean, green and on the screen",
+        "This ain't no cartoon.",
+        "Lean, green and on the screen everywhere.",
+        "Hey dude, this is NO cartoon!"
+    ],
     "Back to the Future Part III": [
         "They've saved the best trip for last... But this time they may have gone too far."
     ],
@@ -323,6 +338,10 @@ var tagline_map = {
         "The Ultimate Hunter.",
         "This time he's coming to a different kind of jungle",
         "This Time... Los Angeles, 1997."
+    ],
+    "Teenage Mutant Ninja Turtles II: The Secret of the Ooze": [
+        "Cowabunga, it's the new turtle movie.",
+        "Back by bodacious demand."
     ],
     "The Rocketeer": [
         "Three years before the United States declares war, Cliff Secord leads America's first battle against the Nazis.",
@@ -362,6 +381,13 @@ var tagline_map = {
         "Above Gotham, Looms Its Greatest Hero",
         "The Bat, the Cat, the Penguin",
         "Returns June 19"
+    ],
+    "Teenage Mutant Ninja Turtles III": [
+        "The Most Exciting Adventure in 400 Years",
+        "Turtles in time",
+        "The Turtles Are Back....In Time",
+        "They're Back in Time . . . for Their NEWEST MOVIE Adventure!",
+        "Ancient Japan, 1593. Without a map. Without a clue. Without a pizza."
     ],
     "Jurassic Park": [
         "Life finds a way.",
@@ -778,6 +804,15 @@ var tagline_map = {
         "It's our planet....It's their war.",
         "The enemy of my enemy....is my friend."
     ],
+    "The Incredibles": [
+        "Save The Day",
+        "Discover the Side of Superheroes You've Never Seen Before",
+        "Expect The Incredible",
+        "Twice the hero he used to be",
+        "Super cool",
+        "No gut, no glory",
+        "Sock'er Mom"
+    ],
     "Blade: Trinity": [
         "Where it began so it shall end.",
         "The final hunt begins.",
@@ -851,6 +886,9 @@ var tagline_map = {
         "He's the only one that can walk on both worlds.",
         "Lets Ride !",
         "Long ago, he made a deal... to save someone he loved... What he didn't know was the price he would have to pay..."
+    ],
+    "TMNT": [
+        "Raising Shell In 2007"
     ],
     "Spider-Man 3": [
         "Next summer, the greatest battle lies... within.",
@@ -1094,6 +1132,9 @@ var tagline_map = {
     "Conan the Barbarian (2011)": [
         "Enter An Age Undreamed Of"
     ],
+    "The Adventures of Tintin": [
+        "This year, discover how far adventure will take you."
+    ],
     "Ghost Rider: Spirit of Vengeance": [
         "He rides again."
     ],
@@ -1250,6 +1291,12 @@ var tagline_map = {
         "All heroes start somewhere.",
         "When things get bad, they'll do their worst."
     ],
+    "Teenage Mutant Ninja Turtles (2014)": [
+        "The leader. The brains. The attitude. And Mikey.",
+        "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
+        "Meet the new face of justice.",
+        "Brothers become legends."
+    ],
     "The Hobbit: The Battle of the Five Armies": [
         "The Defining Chapter",
         "Witness the defining chapter of the Middle-Earth saga.",
@@ -1322,6 +1369,11 @@ var tagline_map = {
         "Only the strong will survive",
         "Defend",
         "Destroy"
+    ],
+    "Teenage Mutant Ninja Turtles: Out of the Shadows": [
+        "Raise some shell.",
+        "Only one team can defend us all.",
+        "Brawl with Bebop. Run with Rocksteady."
     ],
     "Suicide Squad": [
         "Justice has a bad side.",
@@ -1462,6 +1514,12 @@ var tagline_map = {
     ],
     "Solo: A Star Wars Story": [
         "Never tell him the odds."
+    ],
+    "Incredibles 2": [
+        "It's been too long, dahlings.",
+        "Back to work.",
+        "Almost ready.",
+        "Suit up."
     ],
     "Jurassic World: Fallen Kingdom": [
         "Life finds a way.",
