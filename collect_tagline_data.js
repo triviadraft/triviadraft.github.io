@@ -21,6 +21,8 @@ function displayAnswers(x) {
 }
 
 function reset() { 
+    movies = randomItems(5, Object.keys(tagline_map));
+
     questions = [];
     answers = [];
     for (const movie of movies) {
