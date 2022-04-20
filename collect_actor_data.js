@@ -7,6 +7,20 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function displayAnswer(n) { 
+    document.getElementById('answer' + n).innerHTML = answers[n - 1];
+}
+
+function displayAnswers() { 
+    document.getElementById('answer' + n).innerHTML = answers[n - 1];
+
+    document.getElementById('answer1').innerHTML = answer1;
+    document.getElementById('answer2').innerHTML = answer2;
+    document.getElementById('answer3').innerHTML = answer3;
+    document.getElementById('answer4').innerHTML = answer3;
+    document.getElementById('answer5').innerHTML = answer3;
+}
+
 function displayActorsAnswer() { 
     document.getElementById('answer').innerHTML = answer;
     document.getElementById('answer1').innerHTML = answer1;
