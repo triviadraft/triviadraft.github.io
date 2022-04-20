@@ -1,4 +1,13 @@
 {
+    "Batman (1966)": [
+        "He's here big as life in a real Bat-epic",
+        "From the famous character \"BATMAN\"",
+        "All Brand-New! Never Seen on TV!",
+        "Made in Spectacular Color",
+        "WHAM! NOW It's All on the Cinema Screens in COLOUR!",
+        "FOR THE FIRST TIME ON THE MOTION PICTURE SCREEN IN COLOR! Adam West as Batman and Burt Ward as Robin together with all their fantastic derring-do and their dastardly villains, too!",
+        "MEN DIE! WOMEN SIGH! Beneath that Batcape - he's all man!"
+    ],
     "Planet of the Apes (1968)": [
         "Somewhere in the universe there must be something better than man. In a matter of time, an astronaut will wing through the centuries and find the answer. He may find the most terrifying one of all on the planet where apes are the rulers and man the beast.",
         "An unusual and important motion picture from the author of \"The Bridge on the River Kwai\"!",
@@ -44,6 +53,10 @@
         "One man cast a lingering spell of awe and wonder, of magical innocence overcoming evil, of simple courage conquering fear - he gave us the legend that will live forever in our minds. J.R.R. Tolkein triumphed with the perception that a single dream is more powerful than a thousand realities. Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
         "From J.R.R. Tolkien's Magical The Lord of the Rings Trilogy"
     ],
+    "Superman": [
+        "You'll believe a man can fly.",
+        "The movie that makes a legend come to life."
+    ],
     "Alien": [
         "In space no one can hear you scream.",
         "The Scariest Movie Ever Made. Experience it only on the big screen",
@@ -87,6 +100,17 @@
         "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
         "The Return of the Great Adventure."
     ],
+    "Superman II": [
+        "Miraculously freed from eternal orbit, the three outlaws from Krypton descend to earth, for the ultimate confrontation.",
+        "The adventure continues",
+        "The three outlaws from Krypton descend to Earth to confront the Man of Steel in a cosmic battle for world supremacy.",
+        "The Man of Steel meets his match!",
+        "The Man of Steel is back, and better than ever!"
+    ],
+    "Swamp Thing": [
+        "Science transformed him into a monster. Love changed him even more!",
+        "The comic book legend lives!"
+    ],
     "Conan the Barbarian (1982)": [
         "He conquered an empire with his sword. She conquered HIM with her bare hands.",
         "Slave. Barbarian. Warrior. Thief... Conan.",
@@ -112,6 +136,13 @@
         "Return To A Galaxy Far, Far Away",
         "The Saga Continues."
     ],
+    "Superman III": [
+        "If the world's most powerful computer can control even Superman...no one on earth is safe.",
+        "Alexander Salkind Presents Christopher Reeve and Richard Pryor as you never seen them before. With more action, more twists, and more fun than Superman has ever had before!",
+        "This time is gonna be the best time of all!",
+        "The world's super hero in his toughest adventure yet!",
+        "Superman vs. the king of computerized crime!"
+    ],
     "Indiana Jones and the Temple of Doom": [
         "If adventure has a name... it must be Indiana Jones.",
         "The hero is back!",
@@ -134,6 +165,22 @@
         "In the Year of Darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the Future by changing the Past. The plan required something that felt no pity. No pain. No fear. Something unstoppable. They created 'THE TERMINATOR'",
         "The thing that won't die, in the nightmare that won't end.",
         "Your future is in its hands."
+    ],
+    "Supergirl": [
+        "The legend begins...",
+        "Her legend is just beginning.",
+        "Adventure runs in her family.",
+        "She has all the power of the universe, but she still has to learn about love.",
+        "The most incredible girl you'll ever meet.",
+        "From out of another galaxy and into your hearts comes... Supergirl",
+        "Her first adventure on Earth.",
+        "She'll be with you this summer.",
+        "She taught him what it was to fly. He taught her what it was to love.",
+        "She's traveled twenty million light years to save her home... and the adventure is just beginning.",
+        "Get your summer off to a flying start.",
+        "You'll believe a GIRL can fly!",
+        "Her first great adventure.",
+        "Adventure Runs In The Family!"
     ],
     "Back to the Future": [
         "He's the only kid ever to get into trouble before he was born.",
@@ -174,6 +221,12 @@
         "Somewhere in deepest space, all hell is breaking loose.",
         "They're Even Scarier The Second Time Around!"
     ],
+    "Howard the Duck": [
+        "You will believe that a duck can talk.",
+        "Trapped in a world he never made.",
+        "A new breed of hero.",
+        "More adventure than humanly possible."
+    ],
     "The Transformers: The Movie": [
         "A monster planet destroys everything in its path, while Optimus Prime and Megatron battle to the death.",
         "It is the year 2005, and a new evil threatens the galaxy in the most incredible adventure you've ever seen.",
@@ -204,11 +257,21 @@
         "The future of law enforcement.",
         "Part man. Part machine. All cop."
     ],
+    "Superman IV: The Quest for Peace": [
+        "Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us."
+    ],
     "Willow": [
         "Adventure doesn't come any bigger than this.",
         "Forget all you know, or think you know.",
         "A world where heroes come in all sizes and adventure is the greatest magic of all",
         "Beyond Good... Beyond Evil... Beyond your wildest imagination..."
+    ],
+    "The Return of Swamp Thing": [
+        "He's got a grudge, 'cos they turned him to sludge!",
+        "A monster of a comedy!",
+        "Vicious mutants! Raw terror! Sheer nightgowns!",
+        "America's favorite super hero is back in action!",
+        "Why can't men be more like plants?"
     ],
     "Indiana Jones and the Last Crusade": [
         "He's back in an all new adventure. Memorial Day 1989.",
@@ -221,6 +284,10 @@
         "The crew of the starship Enterprise is taking you where no one has gone before.",
         "It's a place beyond mystery, beyond time, and until now, beyond reach. The last barrier in the universe is about to be broken.",
         "An expedition to a remote planet. A surrender to a Vulcan renegade. An attack by an ancient enemy. A race towards the center of the galaxy."
+    ],
+    "Batman (1989)": [
+        "Only one will claim the night.",
+        "Justice is always Darkest before the Dawn."
     ],
     "Back to the Future Part II": [
         "Getting back was only the beginning.",
@@ -289,6 +356,13 @@
         "Our worst fears have come true. It's back!",
         "3 times the suspense. 3 times the danger. 3 times the terror."
     ],
+    "Batman Returns": [
+        "From the Sewers of Gotham, and New Villain Emerges. From the Rooftops of Gotham, the Purrrfect Enemy Comes to Life. And the Only One Who Can Save this City, is a Creature of the Night.",
+        "While She Craves a Romance She can Sink Her Claws Into, He Plots a Fowl Reign of Destruction,",
+        "Above Gotham, Looms Its Greatest Hero",
+        "The Bat, the Cat, the Penguin",
+        "Returns June 19"
+    ],
     "Jurassic Park": [
         "Life finds a way.",
         "Remember. Return. Relive in 3D. Celebrate the 20th Anniversary of the adventure 65 million years in the making.",
@@ -303,9 +377,25 @@
         "Chaos... Corruption... Civil War... He's back to lay down the law.",
         "He's back. Back online, back on duty."
     ],
+    "Batman: Mask of the Phantasm": [
+        "The Dark Knight fights to save Gotham City from its deadliest enemy."
+    ],
+    "The Crow": [
+        "It Can't Rain All The Time.",
+        "Nothing is trivial.",
+        "Believe in angels.",
+        "In a world without justice, one man was chosen to protect the innocent.",
+        "Real love is forever.",
+        "Darker than the bat."
+    ],
     "The Shadow": [
         "The Shadow Knows!",
         "Who knows what evil lurks in the hearts of men?"
+    ],
+    "The Mask": [
+        "S-S-S-S-S-Smokin!!!",
+        "From zero to hero",
+        "Stanley Ipkiss is not the man he used to be."
     ],
     "Timecop": [
         "They killed his wife ten years ago. There's still time to save her. Murder is forever... until now.",
@@ -324,6 +414,11 @@
         "That's just the way she likes it.",
         "In 2033, justice rides a tank and wears lip gloss"
     ],
+    "Batman Forever": [
+        "Half a face and some riddles ain't nothing for the Knight.",
+        "In a chaotic Time, Justice wears a mask.",
+        "Courage Now, Truth Always, Batman Forever!"
+    ],
     "Judge Dredd": [
         "One man is Judge, Jury, AND Executioner.",
         "One man is the law",
@@ -339,9 +434,20 @@
     "Waterworld": [
         "Beyond the horizon lies the secret to a new beginning."
     ],
+    "Barb Wire": [
+        "Don't call me babe!",
+        "No laws. No limits. No turning back."
+    ],
     "The Phantom": [
         "The ghost who walks. The man who cannot die.",
         "Slam evil!"
+    ],
+    "The Crow: City of Angels": [
+        "There will be another.",
+        "Belive in the power of another.",
+        "In a world where the forces of darkness rule, justice is about to take flight.",
+        "The spectacular sequel to \"The Crow\"!",
+        "It's another time. It's another world. And another has been chosen."
     ],
     "Star Trek: First Contact": [
         "Prepare for assimilation.",
@@ -358,6 +464,11 @@
         "Something has survived",
         "They're Walking Our Streets"
     ],
+    "Batman & Robin": [
+        "Strength Now. Courage Always. Family, Above All. Batman and Robin!",
+        "Heroes. Villains. Triple Threat.",
+        "Strength. Courage. Honor. And loyalty. On June 20, it ALL comes together..."
+    ],
     "Men in Black": [
         "Protecting the earth from the scum of the universe",
         "More secretive than the C.I.A. - More powerful than the F.B.I. - And they're looking for a few good men - They are the Men in Black"
@@ -366,6 +477,10 @@
         "Born in darkness. Sworn to justice.",
         "From flesh to steel. From blood to blade. From man...to Spawn.",
         "The Evil has a new enemy. The Justice has a new Weapon. And the world has a new hero."
+    ],
+    "Steel": [
+        "Heroes don't come any bigger.",
+        "Man. Metal. Hero."
     ],
     "Alien Resurrection": [
         "It's been more than 200 years...The beginning has just started.",
@@ -381,6 +496,14 @@
         "No one has seen his face....but everyone....knows this mark.",
         "This summer, justice leaves its mark.",
         "The sword. The mask. The legend. He isn't just one man... HE'S ZORRO!"
+    ],
+    "Blade": [
+        "The power of an immortal. The soul of a human. The heart of a hero.",
+        "Against an army of immortals, one warrior must draw first blood.",
+        "Vampire Hunter",
+        "Sometimes it takes one to kill one.",
+        "Have you given blood lately?",
+        "Part Man. Part Vampire. All Hero."
     ],
     "Star Trek: Insurrection": [
         "Meet the new face of evil.",
@@ -415,6 +538,23 @@
         "The Force Returns May 19th",
         "One truth, one hate."
     ],
+    "Mystery Men": [
+        "This summer expect the unexpected",
+        "Universal Pictures presents a new league of heroes that step to a different beat.",
+        "We're not your classic heroes, we're the other guys.",
+        "They're not your average superheroes."
+    ],
+    "X-Men": [
+        "Evolution Begins.",
+        "Join the Evolution.",
+        "Change is coming. The evolution begins july 14th.",
+        "Protecting Those Who Fear Them.",
+        "The time is coming when all that we are afraid of will be all that can save us.",
+        "Trust a few. Fear the rest.",
+        "Protecting those who fear them.",
+        "We're Not What You Think",
+        "The future is here."
+    ],
     "Jurassic Park III": [
         "Disaster is an Instinct.",
         "This Time It's Not Just A Walk In The Park!",
@@ -435,6 +575,11 @@
         "Only the Strongest Survived",
         "You know how the dream started. You know how the fantasy ended. Time to evolve from point A to site B. Get ready for the Evolution of Adventure",
         "With every sound, with every heartbeat, there will be more to fear than ever before"
+    ],
+    "Ghost World": [
+        "I want to make love\" to him\" - \"I'm going to tell him you said that\"",
+        "Accentuate the negative.",
+        "They're high school graduates, and the world's got hell to pay!"
     ],
     "Planet of the Apes (2001)": [
         "The battle begins November 20th",
@@ -459,6 +604,29 @@
         "Even the smallest person can change the course of the future.",
         "All we have to decide is what to do with the time that we are given",
         "Power can be held in the smallest of things..."
+    ],
+    "Blade II": [
+        "In A World Beyond The One We Know, The Forces Of Darkness Fear One Man...Blade!",
+        "Know The Mark",
+        "One Man Still Has The Edge",
+        "One man is still the cutting edge",
+        "Last time he fought against his sworn enemies....This time he will fight with them.",
+        "Faster. Sharper. Deadlier.",
+        "When Evil Strikes, One Man, Still Has The Edge.",
+        "Let the combat begin"
+    ],
+    "Spider-Man": [
+        "With great power comes great responsibility.",
+        "An Ordinary Man. An Extraordinary Power.",
+        "Get Ready For The Ultimate Spin!",
+        "Do you want to know who I am? I'm Spider-Man",
+        "Next Summer, One Hero will take you for the Ultimate Spin",
+        "On May Third, the Entire World Will Connect to the Web.",
+        "A Gift. A Curse. A Destiny.",
+        "If somebody told you I was just your average guy, not a care in the world... somebody lied.",
+        "This is my gift. It is my curse.",
+        "Go for the ultimate spin",
+        "Turn your world upside down"
     ],
     "Star Wars: Episode II \u2013 Attack of the Clones": [
         "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
@@ -498,10 +666,43 @@
         "The fellowship is broken. The power of darkness grows...",
         "The Journey Continues December 18th"
     ],
+    "Daredevil": [
+        "A Guardian Devil.",
+        "He is the man without fear",
+        "Take the dare.",
+        "When justice is blind, it knows no fear.",
+        "When the streets have gone to Hell - have faith in the Devil.",
+        "Justice is blind. So is he.",
+        "A man without hope, is a man without... fear.",
+        "A daring new vision"
+    ],
+    "Bulletproof Monk": [
+        "A power beyond measure requires a protector without equal.",
+        "Don't mess with the monk",
+        "A monk. A punk. A chick. In a kick-ass flick.",
+        "To fulfill the prophecy, he must find the one to take his place."
+    ],
+    "X2": [
+        "The time has come for those who are different to stand united",
+        "Get ready for the return of the Evolution",
+        "Evolution Continues.",
+        "The ones we fear most, will be all that can save us... again.",
+        "In this world wide conspiracy the only thing you can count on... Is the X factor.",
+        "First, they were fighting for acceptance. Now, they're battling for survival.",
+        "X-Men United"
+    ],
     "The Matrix Reloaded": [
         "Free your mind.",
         "Reload in IMAX: Think big.",
         "Reload before the revolution begins."
+    ],
+    "Hulk": [
+        "Unleash the fury!",
+        "What if everything you were forced to keep inside was suddenly set free?",
+        "The inner beast will be released",
+        "Rage. Power. Freedom.",
+        "On June 20th Let it All Out",
+        "Unleash the hero within"
     ],
     "Terminator 3: Rise of the Machines": [
         "Next Summer, the machines will rise.",
@@ -542,6 +743,14 @@
         "Sent to destroy",
         "In the Absence of Light Darkness Prevails"
     ],
+    "The Punisher": [
+        "This Is Not Revenge. It's Punishment!",
+        "Frank Castle has died...but has been reborn as THE PUNISHER.",
+        "Judge, Jury, and Executioner is what The Punisher is.",
+        "On April 16th, one man fights for justice, NATURAL JUSTICE.",
+        "The punishment has begun.",
+        "He has a plan... he has an enemy... this Summer... he will execute them both"
+    ],
     "Harry Potter and the Prisoner of Azkaban": [
         "Have you seen this wizard?",
         "Something wicked this way comes.",
@@ -554,13 +763,57 @@
         "Character will be tested.",
         "Darkness will descend."
     ],
+    "Spider-Man 2": [
+        "Sacrifice",
+        "Destiny",
+        "Choice",
+        "This summer a man will face his destiny. A hero will be revealed",
+        "Take Another Spin In IMAX"
+    ],
+    "Catwoman": [
+        "CATch Her In IMAX"
+    ],
     "Alien vs. Predator": [
         "Whoever wins... We lose.",
         "It's our planet....It's their war.",
         "The enemy of my enemy....is my friend."
     ],
+    "Blade: Trinity": [
+        "Where it began so it shall end.",
+        "The final hunt begins.",
+        "He's fought the forces of darkness alone...until now."
+    ],
+    "Elektra": [
+        "She's the last thing that stands between good and evil.",
+        "Looks can kill.",
+        "She was left for dead. Now she's back with vengeance.",
+        "Born to fight. Trained to kill.",
+        "Before she can find peace she will wage war."
+    ],
+    "Constantine": [
+        "Hell wants him. Heaven won't take him. Earth needs him.",
+        "The wager between heaven and hell is on Earth"
+    ],
+    "Son of the Mask": [
+        "Who's next?",
+        "The next generation of mischief",
+        "The Power of Mischief",
+        "Sequel to the #1 box-office hit."
+    ],
     "Star Wars: Episode III \u2013 Revenge of the Sith": [
         "The saga is complete."
+    ],
+    "Batman Begins": [
+        "The Legend Begins",
+        "This Summer, Evil Fears The Knight.",
+        "A Legend is Born",
+        "The Legend Lives On!"
+    ],
+    "Fantastic Four (2005)": [
+        "4 times the action. 4 times the adventure. 4 times the fantastic.",
+        "When an experimental space voyage goes wrong, four people are dramatically changed by cosmic rays to become the Fantastic Four.",
+        "Fun. Fabulous. Fantastic.",
+        "Prepare for the fantastic."
     ],
     "The Legend of Zorro": [
         "This Fall, adventure begins with a Z."
@@ -579,11 +832,42 @@
         "The beloved masterpiece comes to life December 9",
         "Evil Has Reigned For 100 Years..."
     ],
+    "X-Men: The Last Stand": [
+        "Take a Stand",
+        "Whose Side Will You Be On?",
+        "Evolution will make a last stand."
+    ],
+    "Superman Returns": [
+        "On June 30, 2006! Look Up In The Sky!"
+    ],
     "Pirates of the Caribbean: Dead Man's Chest": [
         "Captain Jack is back."
     ],
+    "Ghost Rider": [
+        "Long ago he made a deal to save someone he loved.",
+        "Hell Is About To Be Unleashed",
+        "His Curse Will Become His Power",
+        "Was everything he sacrificed truly worth?",
+        "He's the only one that can walk on both worlds.",
+        "Lets Ride !",
+        "Long ago, he made a deal... to save someone he loved... What he didn't know was the price he would have to pay..."
+    ],
+    "Spider-Man 3": [
+        "Next summer, the greatest battle lies... within.",
+        "The battle within.",
+        "How long can any man fight the darkness... before he finds it in himself?",
+        "Every hero has a choice, to face the darkness... or be consumed by it.",
+        "One man will fight to find the hero within",
+        "The greatest battle lies within."
+    ],
     "Pirates of the Caribbean: At World's End": [
         "At the End of the World, the Adventure Begins"
+    ],
+    "Fantastic Four: Rise of the Silver Surfer": [
+        "Rise",
+        "Discover the secret of the Surfer",
+        "The forces that made them fantastic, will give rise to a new power, and nothing will ever be the same.",
+        "Who will rise?"
     ],
     "Transformers": [
         "Their war. Our world.",
@@ -601,12 +885,20 @@
         "Make a final stand.",
         "Dissent will not be tolerated."
     ],
+    "30 Days of Night": [
+        "They're Coming!",
+        "Welcome to Barrow (Alaska), Inhabitants: (scratched number 588') 15"
+    ],
     "Aliens vs. Predator: Requiem": [
         "This Christmas there will be no peace on Earth.",
         "The Last Place On Earth We Want To Be Is In The Middle",
         "The last place we want to be is in the middle.",
         "It began on their world. It will end on ours.",
         "In space, no one can hear you scream. On Earth, it won't matter."
+    ],
+    "Iron Man": [
+        "Heroes aren't born. They're built.",
+        "Get ready for a different breed of heavy metal hero."
     ],
     "The Chronicles of Narnia: Prince Caspian": [
         "A New Age Has Begun.",
@@ -619,11 +911,58 @@
         "In May, the adventure continues.",
         "The adventure continues . . ."
     ],
+    "The Incredible Hulk": [
+        "On June 13, get ready to unleash the beast.",
+        "This summer, our only hope is something incredible",
+        "This June, a hero shows his true colors",
+        "You'll like him when he's angry."
+    ],
+    "Wanted": [
+        "Choose your destiny.",
+        "Their world. Her rules. His destiny.",
+        "Brutal, Sexy, Built to thrill"
+    ],
     "Hellboy II: The Golden Army": [
         "Saving the world is a hell of a job",
         "Believe it or not - he's the good guy",
         "From the visionary director of Pan's Labyrinth",
         "Good never looked so bad."
+    ],
+    "The Dark Knight": [
+        "Why So Serious?",
+        "Welcome to a world without rules.",
+        "Out of the darkness...comes the Knight.",
+        "The night is darkest before the dawn.",
+        "It's All Part of the Plan",
+        "I Believe In Harvey Dent."
+    ],
+    "Punisher: War Zone": [
+        "Vengeance has a name.",
+        "Vengeance is Coming.",
+        "Our Future Rests in His Hands."
+    ],
+    "The Spirit": [
+        "Down these mean streets a man must come. A hero born, murdered, and born again.",
+        "My city screams. She is my lover. And I am her spirit.",
+        "I'm gonna kill you all kinds of dead.",
+        "Face my power.",
+        "He's something the world needs..."
+    ],
+    "Watchmen": [
+        "This city is afraid of me. I've seen its true face.",
+        "Who will save us now?",
+        "Someone's killing our super heroes.",
+        "None of you seem to understand. I'm not locked in here with you. You're locked in here with me.",
+        "Justice is coming to all of us. No matter what we do.",
+        "The existence of life is a highly overrated phenomenon.",
+        "I am used to going out at 3am and doing something stupid.",
+        "We were supposed to make the world a better place.",
+        "We're society's only protection.",
+        "A world at peace. There had to be sacrifice.",
+        "Who watches the Watchmen?"
+    ],
+    "X-Men Origins: Wolverine": [
+        "Witness the Origin."
     ],
     "Star Trek": [
         "The future begins.",
@@ -650,11 +989,46 @@
         "How do you save humanity when the only thing that's real is you?",
         "Human perfection. What could go wrong?"
     ],
+    "Kick-Ass": [
+        "I can't fly. But I can kick your ass.",
+        "I can't read your mind. But I can kick your ass.",
+        "I can't be invisible. But I can kick your ass.",
+        "I can't see through walls. But I can kick your ass.",
+        "Shut Up. Kick-Ass.",
+        "A new breed of superheroes will be revealed.",
+        "Have fear. They're here."
+    ],
+    "The Losers": [
+        "Anyone Else Would Be Dead By Now.",
+        "You Don't Give Them Orders. You Just Turn Them Loose.",
+        "Aisha - Search And Destroy",
+        "Clay - Operational Control",
+        "Cougar - Long-Range Eliminations",
+        "Jensen - Comms And Tech",
+        "Pooch - Transpo And Heavy Weps",
+        "Roque - Demo And Tactical"
+    ],
+    "Iron Man 2": [
+        "It's not the armor that makes the hero, but the man inside."
+    ],
+    "Jonah Hex": [
+        "Revenge gets ugly"
+    ],
     "Predators": [
         "Fear is Reborn",
         "The Hunt Is On",
         "This summer, fear is reborn.",
         "The most dangerous killers on the planet... but this is not our planet."
+    ],
+    "Red": [
+        "Still Armed. Still Dangerous. Still Got It.",
+        "He's Got Time To Kill.",
+        "Killer Company Man.",
+        "Aims To Please.",
+        "Doesn't Get Out Much.",
+        "Looking For A Little Action.",
+        "A High Caliber Woman.",
+        "There's No Substitute for Experience."
     ],
     "Harry Potter and the Deathly Hallows \u2013 Part 1": [
         "Trust no one.",
@@ -668,8 +1042,31 @@
         "Return to magic. Return to hope. Return to Narnia.",
         "Take the voyage. Live the adventure. Discover Narnia like you've never seen it before."
     ],
+    "Thor": [
+        "Two worlds. One hero.",
+        "The god of thunder. The king of Asgard. The god of mischief. The guardian of worlds. The goddess of war. The woman of science.",
+        "Courage is immortal"
+    ],
+    "Priest": [
+        "Vampire Killer",
+        "The War is Eternal. His Mission is Just the Beginning.",
+        "This war will never end. His mission is just the beginning."
+    ],
     "Pirates of the Caribbean: On Stranger Tides": [
         "Pirate's Life."
+    ],
+    "X-Men: First Class": [
+        "Before he was Professor X, he was Charles. Before he was Magneto, he was Erik. Before they were enemies, they were allies.",
+        "Witness the origin",
+        "The story begins",
+        "Their powers would make them different. But destiny would make them allies.",
+        "Witness the beginning.",
+        "Witness the moment that will change our world."
+    ],
+    "Green Lantern": [
+        "One of us... becomes one of them.",
+        "In brightest day, in blackest night, no evil shall escape my sight, let those who worship evil's might, beware my power, Green Lantern's Light.",
+        "In our darkest hour, there will be light."
     ],
     "Transformers: Dark of the Moon": [
         "Earth goes dark",
@@ -685,6 +1082,9 @@
         "It All Ends",
         "The Last Enemy Is Death"
     ],
+    "Captain America: The First Avenger": [
+        "When patriots become heroes"
+    ],
     "Cowboys & Aliens": [
         "First contact. Last stand."
     ],
@@ -694,8 +1094,14 @@
     "Conan the Barbarian (2011)": [
         "Enter An Age Undreamed Of"
     ],
+    "Ghost Rider: Spirit of Vengeance": [
+        "He rides again."
+    ],
     "John Carter": [
         "Lost in Our World. Found in Another."
+    ],
+    "The Avengers": [
+        "Avengers Assemble!"
     ],
     "Men in Black 3": [
         "They are back... in time.",
@@ -731,6 +1137,24 @@
         "They Are Us",
         "Nothing and No One but Them"
     ],
+    "The Amazing Spider-Man": [
+        "The untold story begins.",
+        "His past was kept from him. His search for answers has just begun."
+    ],
+    "The Dark Knight Rises": [
+        "The Legend Ends",
+        "A Fire Will Rise",
+        "Rise",
+        "Why Do We Fall?",
+        "Legend",
+        "Welcome to the Reckoning",
+        "The Fire Rises",
+        "It's Always The Darkest Before The Dawn",
+        "Every Legend Has An End",
+        "Hope is Lost. Faith is Broken. A Fire Will Rise.",
+        "Let the Games Begin",
+        "Every Hero has a Journey. Every Journey has an End."
+    ],
     "Dredd": [
         "Judgment is coming"
     ],
@@ -741,11 +1165,19 @@
     "Oblivion": [
         "Earth is a memory worth fighting for."
     ],
+    "Iron Man 3": [
+        "Prepare for heavy metal!",
+        "Unleash the power behind the armor.",
+        "Even heroes fall."
+    ],
     "Star Trek Into Darkness": [
         "Beyond the darkness, lies greatness.",
         "In our darkest hour, when our leaders have fallen, a hero will rise.",
         "They have one chance to save us all",
         "Earth will fall"
+    ],
+    "Man of Steel": [
+        "Accomplish Wonder."
     ],
     "The Lone Ranger": [
         "Never Take Off the Mask",
@@ -754,6 +1186,25 @@
     "R.I.P.D.": [
         "To protect and serve the living",
         "They're defending our world one soul at a time."
+    ],
+    "Red 2": [
+        "The best never rest.",
+        "They're ex-CIA, but they're back in action."
+    ],
+    "The Wolverine": [
+        "When he's most vulnerable, he's most dangerous.",
+        "The hero. The fugitive. The warrior. The survivor. The legend.",
+        "The fight of his life will be for his own.",
+        "When enemies rise... when immortality ends... the ultimate battle begins."
+    ],
+    "2 Guns": [
+        "2 Guns, 1 Bank."
+    ],
+    "Kick-Ass 2": [
+        "You Can't Fight Your Destiny."
+    ],
+    "Thor: The Dark World": [
+        "There was darkness."
     ],
     "The Hobbit: The Desolation of Smaug": [
         "Beyond darkness... beyond desolation... lies the greatest danger of all."
@@ -929,95 +1380,5 @@
         "The choice is yours.",
         "Return to the source.",
         "Re-enter."
-    ],
-    "Batman (1966)": [
-        "He's here big as life in a real Bat-epic",
-        "From the famous character \"BATMAN\"",
-        "All Brand-New! Never Seen on TV!",
-        "Made in Spectacular Color",
-        "WHAM! NOW It's All on the Cinema Screens in COLOUR!",
-        "FOR THE FIRST TIME ON THE MOTION PICTURE SCREEN IN COLOR! Adam West as Batman and Burt Ward as Robin together with all their fantastic derring-do and their dastardly villains, too!",
-        "MEN DIE! WOMEN SIGH! Beneath that Batcape - he's all man!"
-    ],
-    "Superman": [
-        "You'll believe a man can fly.",
-        "The movie that makes a legend come to life."
-    ],
-    "Superman II": [
-        "Miraculously freed from eternal orbit, the three outlaws from Krypton descend to earth, for the ultimate confrontation.",
-        "The adventure continues",
-        "The three outlaws from Krypton descend to Earth to confront the Man of Steel in a cosmic battle for world supremacy.",
-        "The Man of Steel meets his match!",
-        "The Man of Steel is back, and better than ever!"
-    ],
-    "Swamp Thing": [
-        "Science transformed him into a monster. Love changed him even more!",
-        "The comic book legend lives!"
-    ],
-    "Superman III": [
-        "If the world's most powerful computer can control even Superman...no one on earth is safe.",
-        "Alexander Salkind Presents Christopher Reeve and Richard Pryor as you never seen them before. With more action, more twists, and more fun than Superman has ever had before!",
-        "This time is gonna be the best time of all!",
-        "The world's super hero in his toughest adventure yet!",
-        "Superman vs. the king of computerized crime!"
-    ],
-    "Supergirl": [
-        "The legend begins...",
-        "Her legend is just beginning.",
-        "Adventure runs in her family.",
-        "She has all the power of the universe, but she still has to learn about love.",
-        "The most incredible girl you'll ever meet.",
-        "From out of another galaxy and into your hearts comes... Supergirl",
-        "Her first adventure on Earth.",
-        "She'll be with you this summer.",
-        "She taught him what it was to fly. He taught her what it was to love.",
-        "She's traveled twenty million light years to save her home... and the adventure is just beginning.",
-        "Get your summer off to a flying start.",
-        "You'll believe a GIRL can fly!",
-        "Her first great adventure.",
-        "Adventure Runs In The Family!"
-    ],
-    "Howard the Duck": [
-        "You will believe that a duck can talk.",
-        "Trapped in a world he never made.",
-        "A new breed of hero.",
-        "More adventure than humanly possible."
-    ],
-    "Superman IV: The Quest for Peace": [
-        "Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us."
-    ],
-    "The Return of Swamp Thing": [
-        "He's got a grudge, 'cos they turned him to sludge!",
-        "A monster of a comedy!",
-        "Vicious mutants! Raw terror! Sheer nightgowns!",
-        "America's favorite super hero is back in action!",
-        "Why can't men be more like plants?"
-    ],
-    "Batman (1989)": [
-        "Only one will claim the night.",
-        "Justice is always Darkest before the Dawn."
-    ],
-    "Batman Returns": [
-        "From the Sewers of Gotham, and New Villain Emerges. From the Rooftops of Gotham, the Purrrfect Enemy Comes to Life. And the Only One Who Can Save this City, is a Creature of the Night.",
-        "While She Craves a Romance She can Sink Her Claws Into, He Plots a Fowl Reign of Destruction,",
-        "Above Gotham, Looms Its Greatest Hero",
-        "The Bat, the Cat, the Penguin",
-        "Returns June 19"
-    ],
-    "Batman: Mask of the Phantasm": [
-        "The Dark Knight fights to save Gotham City from its deadliest enemy."
-    ],
-    "The Crow": [
-        "It Can't Rain All The Time.",
-        "Nothing is trivial.",
-        "Believe in angels.",
-        "In a world without justice, one man was chosen to protect the innocent.",
-        "Real love is forever.",
-        "Darker than the bat."
-    ],
-    "The Mask": [
-        "S-S-S-S-S-Smokin!!!",
-        "From zero to hero",
-        "Stanley Ipkiss is not the man he used to be."
     ]
 }
