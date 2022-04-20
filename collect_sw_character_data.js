@@ -67,7 +67,7 @@ for (const character of characters) {
         var question = 'What is the homeworld of ' + character + '?';
         var answer = sw_character_map[character]['homeworld'];
     } else {
-        var question = character + 'is what species?';
+        var question = character + ' is what species?';
         var answer = sw_character_map[character]['species'];
     }
 
