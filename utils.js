@@ -15,7 +15,6 @@ function resetTaglines() {
   		answer += ' (' + year + ')'
 	}
 
-
 	document.getElementById('question').innerHTML = question
 	document.getElementById('answer').innerHTML = ''
 }
