@@ -28,11 +28,25 @@ function reset() {
             question = 'Who portrays ' + character + '?';
             answer = sw_character_map[character]['actor'];
         } else if (question_type == 'homeworld') {
-            question = 'What is the homeworld of ' + character + '?';
-            answer = sw_character_map[character]['homeworld'];
+            var homeworld = sw_character_map[character]['homeworld']
+
+            if (!homeworld) {
+                question = 'Who portrays ' + character + '?';
+                answer = sw_character_map[character]['actor'];
+            } else {
+                question = 'What is the homeworld of ' + character + '?';
+                answer = sw_character_map[character]['homeworld'];
+            }
         } else {
-            question = character + ' is what species?';
-            answer = sw_character_map[character]['species'];
+            var species = sw_character_map[character]['species'];
+
+            if (species.startsWith('Human')) {
+                question = 'Who portrays ' + character + '?';
+                answer = sw_character_map[character]['actor'];
+            } else {
+                question = character + ' is what species?';
+                answer = species;
+            }
         }
 
         questions.push(question);
@@ -64,11 +78,25 @@ for (const character of characters) {
         var question = 'Who portrays ' + character + '?';
         var answer = sw_character_map[character]['actor'];
     } else if (question_type == 'homeworld') {
-        var question = 'What is the homeworld of ' + character + '?';
-        var answer = sw_character_map[character]['homeworld'];
+        var homeworld = sw_character_map[character]['homeworld']
+
+        if (!homeworld) {
+            var question = 'Who portrays ' + character + '?';
+            var answer = sw_character_map[character]['actor'];
+        } else {
+            var question = 'What is the homeworld of ' + character + '?';
+            var answer = sw_character_map[character]['homeworld'];
+        }
     } else {
-        var question = character + ' is what species?';
-        var answer = sw_character_map[character]['species'];
+        var species = sw_character_map[character]['species'];
+
+        if (species.startsWith('Human')) {
+            var question = 'Who portrays ' + character + '?';
+            var answer = sw_character_map[character]['actor'];
+        } else {
+            var question = character + ' is what species?';
+            var answer = species;
+        }
     }
 
     questions.push(question);
