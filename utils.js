@@ -20,7 +20,6 @@ function resetTaglines() {
 	document.getElementById('answer').innerHTML = ''
 }
 
-
 function displayActorsAnswer() { 
 	document.getElementById('answer').innerHTML = answer
 	document.getElementById('answer1').innerHTML = answer1
