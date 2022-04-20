@@ -1,36 +1,70 @@
-movie,tagline
-Raiders of the Lost Ark,Indiana Jones - the new hero from the creators of JAWS and STAR WARS.
-Raiders of the Lost Ark,The Return of the Great Adventure.
-Indiana Jones and the Temple of Doom,If adventure has a name... it must be Indiana Jones.
-Indiana Jones and the Temple of Doom,The hero is back!
-Indiana Jones and the Temple of Doom,Trust him.
-Indiana Jones and the Temple of Doom,The man in the hat is back...
-Indiana Jones and the Last Crusade,He's back in an all new adventure. Memorial Day 1989.
-Indiana Jones and the Last Crusade,Have the adventure of your life keeping up with the Joneses
-Indiana Jones and the Last Crusade,"The man with the hat is back. And this time, he's bringing his Dad."
-Dick Tracy,Their turf. Their game. Their rules. They didn't count on HIS law...
-Dick Tracy,I'm on my way.
-Darkman,Who is Darkman? Find out this August.
-Darkman,"In the darkest hour, there is a light that shines on every human being...but ONE!"
-Darkman,"They destroyed everything he had, everything he was. Now, crime has a new enemy and justice has a new face."
-The Rocketeer,"Three years before the United States declares war, Cliff Secord leads America's first battle against the Nazis."
-The Rocketeer,An Ordinary Man Forced to Become An Extraordinary Hero.
-The Shadow,The Shadow Knows!
-The Shadow,Who knows what evil lurks in the hearts of men?
-The Phantom,The ghost who walks. The man who cannot die.
-The Phantom,Slam evil!
-The Mask of Zorro,"When freedom is a memory and justice is outlawed, the just must become outlaws."
-The Mask of Zorro,No one has seen his face....but everyone....knows this mark.
-The Mask of Zorro,"This summer, justice leaves its mark."
-The Mask of Zorro,The sword. The mask. The legend. He isn't just one man... HE'S ZORRO!
-Pirates of the Caribbean: The Curse of the Black Pearl,Prepare to be blown out of the water.
-Pirates of the Caribbean: The Curse of the Black Pearl,Over 3000 Islands of Paradise -- For Some it's A Blessing -- For Others... It's A Curse.
-The Legend of Zorro,"This Fall, adventure begins with a Z."
-Pirates of the Caribbean: Dead Man's Chest,Captain Jack is back.
-Pirates of the Caribbean: At World's End,"At the End of the World, the Adventure Begins"
-Indiana Jones and the Kingdom of the Crystal Skull,"In May, the adventure continues."
-Indiana Jones and the Kingdom of the Crystal Skull,The adventure continues . . .
-Pirates of the Caribbean: On Stranger Tides,Pirate's Life.
-The Lone Ranger,Never Take Off the Mask
-The Lone Ranger,Discover the Untold Story of an American Legend.
-Pirates of the Caribbean: Dead Men Tell No Tales,All pirates must die.
+release,movie,tagline
+06/12/1981,Raiders of the Lost Ark,Indiana Jones - the new hero from the creators of JAWS and STAR WARS.
+06/12/1981,Raiders of the Lost Ark,The Return of the Great Adventure.
+05/23/1984,Indiana Jones and the Temple of Doom,If adventure has a name... it must be Indiana Jones.
+05/23/1984,Indiana Jones and the Temple of Doom,The hero is back!
+05/23/1984,Indiana Jones and the Temple of Doom,Trust him.
+05/23/1984,Indiana Jones and the Temple of Doom,The man in the hat is back...
+05/24/1989,Indiana Jones and the Last Crusade,He's back in an all new adventure. Memorial Day 1989.
+05/24/1989,Indiana Jones and the Last Crusade,Have the adventure of your life keeping up with the Joneses
+05/24/1989,Indiana Jones and the Last Crusade,"The man with the hat is back. And this time, he's bringing his Dad."
+06/15/1990,Dick Tracy,Their turf. Their game. Their rules. They didn't count on HIS law...
+06/15/1990,Dick Tracy,I'm on my way.
+08/24/1990,Darkman,Who is Darkman? Find out this August.
+08/24/1990,Darkman,"In the darkest hour, there is a light that shines on every human being...but ONE!"
+08/24/1990,Darkman,"They destroyed everything he had, everything he was. Now, crime has a new enemy and justice has a new face."
+06/21/1991,The Rocketeer,"Three years before the United States declares war, Cliff Secord leads America's first battle against the Nazis."
+06/21/1991,The Rocketeer,An Ordinary Man Forced to Become An Extraordinary Hero.
+07/01/1994,The Shadow,The Shadow Knows!
+07/01/1994,The Shadow,Who knows what evil lurks in the hearts of men?
+06/07/1996,The Phantom,The ghost who walks. The man who cannot die.
+06/07/1996,The Phantom,Slam evil!
+07/17/1998,The Mask of Zorro,"When freedom is a memory and justice is outlawed, the just must become outlaws."
+07/17/1998,The Mask of Zorro,No one has seen his face....but everyone....knows this mark.
+07/17/1998,The Mask of Zorro,"This summer, justice leaves its mark."
+07/17/1998,The Mask of Zorro,The sword. The mask. The legend. He isn't just one man... HE'S ZORRO!
+07/09/2003,Pirates of the Caribbean: The Curse of the Black Pearl,Prepare to be blown out of the water.
+07/09/2003,Pirates of the Caribbean: The Curse of the Black Pearl,Over 3000 Islands of Paradise -- For Some it's A Blessing -- For Others... It's A Curse.
+10/28/2005,The Legend of Zorro,"This Fall, adventure begins with a Z."
+07/07/2006,Pirates of the Caribbean: Dead Man's Chest,Captain Jack is back.
+05/25/2007,Pirates of the Caribbean: At World's End,"At the End of the World, the Adventure Begins"
+05/22/2008,Indiana Jones and the Kingdom of the Crystal Skull,"In May, the adventure continues."
+05/22/2008,Indiana Jones and the Kingdom of the Crystal Skull,The adventure continues . . .
+05/20/2011,Pirates of the Caribbean: On Stranger Tides,Pirate's Life.
+07/03/2013,The Lone Ranger,Never Take Off the Mask
+07/03/2013,The Lone Ranger,Discover the Untold Story of an American Legend.
+05/26/2017,Pirates of the Caribbean: Dead Men Tell No Tales,All pirates must die.
+06/11/1993,Jurassic Park,Life finds a way.
+06/11/1993,Jurassic Park,Remember. Return. Relive in 3D. Celebrate the 20th Anniversary of the adventure 65 million years in the making.
+06/11/1993,Jurassic Park,Welcome to...
+06/11/1993,Jurassic Park,Unleash the Beasts.
+06/11/1993,Jurassic Park,Caution! Alive Inside.
+06/11/1993,Jurassic Park,The Park is open.
+06/11/1993,Jurassic Park,An adventure 65 million years in the making.
+06/11/1993,Jurassic Park,The most phenomenal discovery of our time... becomes the greatest adventure of all time.
+05/23/1997,The Lost World: Jurassic Park,Something has survived
+05/23/1997,The Lost World: Jurassic Park,They're Walking Our Streets
+07/18/2001,Jurassic Park III,Disaster is an Instinct.
+07/18/2001,Jurassic Park III,This Time It's Not Just A Walk In The Park!
+07/18/2001,Jurassic Park III,Something Unexpected Has Evolved.
+07/18/2001,Jurassic Park III,Evolution of Adventure!
+07/18/2001,Jurassic Park III,Dream... Fantasy... Destruction... Evolution of Adventure
+07/18/2001,Jurassic Park III,Survival of the Fittest
+07/18/2001,Jurassic Park III,What didn't kill them Made them stronger
+07/18/2001,Jurassic Park III,An Instinct for Destruction
+07/18/2001,Jurassic Park III,Chaos Reigns
+07/18/2001,Jurassic Park III,Nature Takes No Prisoners
+07/18/2001,Jurassic Park III,Their Time Has Come.
+07/18/2001,Jurassic Park III,Their World. Their Rules.
+07/18/2001,Jurassic Park III,Evolve or Die.
+07/18/2001,Jurassic Park III,Fiercer. Faster. Free.
+07/18/2001,Jurassic Park III,Terror Evolves.
+07/18/2001,Jurassic Park III,Only the Strongest Survive
+07/18/2001,Jurassic Park III,Only the Strongest Survived
+07/18/2001,Jurassic Park III,You know how the dream started. You know how the fantasy ended. Time to evolve from point A to site B. Get ready for the Evolution of Adventure
+07/18/2001,Jurassic Park III,"With every sound, with every heartbeat, there will be more to fear than ever before"
+06/12/2015,Jurassic World,The park is open.
+06/22/2018,Jurassic World: Fallen Kingdom,Life finds a way.
+06/22/2018,Jurassic World: Fallen Kingdom,The park is gone.
+06/22/2018,Jurassic World: Fallen Kingdom,Off the Island. Into your Home.
+06/22/2018,Jurassic World: Fallen Kingdom,The Next Stage of Evolution.
