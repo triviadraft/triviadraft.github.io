@@ -1,4 +1,4 @@
-var actor_map = {
+var sw_character_map = {
     "Ahsoka Tano": {
         "name": "Ahsoka Tano",
         "homeworld": "Shili",
