@@ -55,7 +55,7 @@ questions = [];
 answers = [];
 for (const character of characters) {
     var question = 'Who portrays ' + character + '?'
-    var answer = sw_charapter_map[character]['actor'];
+    var answer = sw_character_map[character]['actor'];
 
     questions.push(question);
     answers.push(answer);
