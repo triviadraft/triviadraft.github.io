@@ -59,6 +59,18 @@ def create_jsons():
     with open(r'taglines.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(tagline_dict, indent=4))
 
+    # star wars character data
+    sw_character_dict = {}
+    with open(r'actordata - sw-characters.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            name = row['name']
+            sw_character_dict[name] = row
+
+    with open(r'sw-characters.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(sw_character_dict, indent=4))
+
+
 def generate_questions():
     # create a dictionary
     movie_dict = {}

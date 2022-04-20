@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <title>MTS Question Generator</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 85%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 5px;
+        }
+
+        td:nth-child(1) {
+                width: 3%;
+        }
+
+
+        td:nth-child(2) {
+                width: 80%;
+        }
+
+        td:nth-child(3) {
+                width: 17%;
+        }
+    </style>
+</head>
+
+<center><h1>Star Wars Characterss</h1></center>
+
+<table>
+    <tr>
+        <th></th>
+        <th>Question</th>
+        <th>Answer</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td><p id="question1"></p></td>
+        <td><p id="answer1"></p></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td><p id="question2"></p></td>
+        <td><p id="answer2"></p></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td><p id="question3"></p></td>
+        <td><p id="answer3"></p></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td><p id="question4"></p></td>
+        <td><p id="answer4"></p></td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td><p id="question5"></p></td>
+        <td><p id="answer5"></p></td>
+    </tr>
+</table>
+<br>
+
+<button id="displayBtn" onclick="displayAnswers()">
+    Display Answers
+</button>
+<br>
+<br>
+
+<button id="resetBtn" onclick="reset()">
+    Reset
+</button>
+<br>
+<br>
+<br>
+<br>
+
+<a style="text-align: center;" href="index.html"  target="_self">Supporting Actors</a>
+<br>
+
+<a style="text-align: center;" href="taglines.html"  target="_self">Taglines</a>
+
+<script src="data_sw_characters.js"></script>
+<script src="collect_sw_character_data.js"></script>
+<script type="text/javascript" charset="utf-8">
+    document.getElementById("question1").innerHTML = questions[0];
+    document.getElementById("question2").innerHTML = questions[1];
+    document.getElementById("question3").innerHTML = questions[2];
+    document.getElementById("question4").innerHTML = questions[3];
+    document.getElementById("question5").innerHTML = questions[4];
+</script>
