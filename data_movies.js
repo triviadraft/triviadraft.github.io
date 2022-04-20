@@ -449,6 +449,11 @@ var movie_map = {
         "movie": "X-Men",
         "categories": "Comic Book,Marvel,X-Men"
     },
+    "Unbreakable": {
+        "release": "11/22/2000",
+        "movie": "Unbreakable",
+        "categories": "Mixed Bag"
+    },
     "Jurassic Park III": {
         "release": "07/18/2001",
         "movie": "Jurassic Park III",
@@ -463,6 +468,11 @@ var movie_map = {
         "release": "07/27/2001",
         "movie": "Planet of the Apes (2001)",
         "categories": "Planet of the Apes"
+    },
+    "From Hell": {
+        "release": "10/19/2001",
+        "movie": "From Hell",
+        "categories": "Graphic Novel"
     },
     "Harry Potter and the Sorcerer's Stone": {
         "release": "11/16/2001",
@@ -497,7 +507,7 @@ var movie_map = {
     "Road to Perdition": {
         "release": "07/12/2002",
         "movie": "Road to Perdition",
-        "categories": "DC"
+        "categories": "DC,Graphic Novel"
     },
     "Harry Potter and the Chamber of Secrets": {
         "release": "11/15/2002",
@@ -619,6 +629,11 @@ var movie_map = {
         "movie": "Son of the Mask",
         "categories": "Comic Book"
     },
+    "Sin City": {
+        "release": "04/01/2005",
+        "movie": "Sin City",
+        "categories": "Graphic Novel"
+    },
     "Star Wars: Episode III \u2013 Revenge of the Sith": {
         "release": "05/19/2005",
         "movie": "Star Wars: Episode III \u2013 Revenge of the Sith",
@@ -634,10 +649,15 @@ var movie_map = {
         "movie": "Fantastic Four (2005)",
         "categories": "Comic Book,Marvel"
     },
+    "Sky High": {
+        "release": "07/29/2005",
+        "movie": "Sky High",
+        "categories": "Mixed Bag"
+    },
     "A History of Violence": {
         "release": "09/23/2005",
         "movie": "A History of Violence",
-        "categories": "DC"
+        "categories": "DC,Graphic Novel"
     },
     "The Legend of Zorro": {
         "release": "10/28/2005",
@@ -657,7 +677,7 @@ var movie_map = {
     "V for Vendetta": {
         "release": "03/17/2006",
         "movie": "V for Vendetta",
-        "categories": "DC"
+        "categories": "DC,Graphic Novel"
     },
     "X-Men: The Last Stand": {
         "release": "05/26/2006",
@@ -678,6 +698,11 @@ var movie_map = {
         "release": "02/16/2007",
         "movie": "Ghost Rider",
         "categories": "Comic Book,Marvel"
+    },
+    "300": {
+        "release": "03/09/2007",
+        "movie": "300",
+        "categories": "Graphic Novel"
     },
     "TMNT": {
         "release": "03/23/2007",
@@ -772,7 +797,7 @@ var movie_map = {
     "Watchmen": {
         "release": "03/06/2009",
         "movie": "Watchmen",
-        "categories": "Comic Book,DC"
+        "categories": "Comic Book,DC,Graphic Novel"
     },
     "X-Men Origins: Wolverine": {
         "release": "05/01/2009",
@@ -829,6 +854,11 @@ var movie_map = {
         "movie": "Predators",
         "categories": "Alien/Predator"
     },
+    "Scott Pilgrim vs. the World": {
+        "release": "08/13/2010",
+        "movie": "Scott Pilgrim vs. the World",
+        "categories": "Graphic Novel"
+    },
     "Red": {
         "release": "10/15/2010",
         "movie": "Red",
@@ -843,6 +873,11 @@ var movie_map = {
         "release": "12/10/2010",
         "movie": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "The Green Hornet": {
+        "release": "01/14/2011",
+        "movie": "The Green Hornet",
+        "categories": "Mixed Bag"
     },
     "Thor": {
         "release": "05/06/2011",
@@ -887,7 +922,7 @@ var movie_map = {
     "Cowboys & Aliens": {
         "release": "07/29/2011",
         "movie": "Cowboys & Aliens",
-        "categories": "Fantasy/Sci-Fi"
+        "categories": "Fantasy/Sci-Fi,Graphic Novel"
     },
     "Rise of the Planet of the Apes": {
         "release": "08/05/2011",
@@ -952,7 +987,7 @@ var movie_map = {
     "Oblivion": {
         "release": "04/19/2013",
         "movie": "Oblivion",
-        "categories": "Fantasy/Sci-Fi"
+        "categories": "Fantasy/Sci-Fi,Graphic Novel"
     },
     "Iron Man 3": {
         "release": "05/03/2013",
@@ -1009,10 +1044,20 @@ var movie_map = {
         "movie": "The Hobbit: The Desolation of Smaug",
         "categories": "Middle-earth"
     },
+    "I, Frankenstein": {
+        "release": "01/24/2014",
+        "movie": "I, Frankenstein",
+        "categories": "Graphic Novel"
+    },
     "RoboCop (2014)": {
         "release": "02/12/2014",
         "movie": "RoboCop (2014)",
         "categories": "Fantasy/Sci-Fi"
+    },
+    "300: Rise of an Empire": {
+        "release": "03/07/2014",
+        "movie": "300: Rise of an Empire",
+        "categories": "Graphic Novel"
     },
     "Captain America: The Winter Soldier": {
         "release": "04/04/2014",
@@ -1047,7 +1092,7 @@ var movie_map = {
     "Hercules": {
         "release": "07/25/2014",
         "movie": "Hercules",
-        "categories": "Fantasy/Sci-Fi"
+        "categories": "Fantasy/Sci-Fi,Graphic Novel"
     },
     "Guardians of the Galaxy": {
         "release": "08/01/2014",
@@ -1058,6 +1103,11 @@ var movie_map = {
         "release": "08/08/2014",
         "movie": "Teenage Mutant Ninja Turtles (2014)",
         "categories": "Teenage Mutant Ninja Turtles"
+    },
+    "Sin City: A Dame to Kill For": {
+        "release": "08/22/2014",
+        "movie": "Sin City: A Dame to Kill For",
+        "categories": "Graphic Novel"
     },
     "Big Hero 6": {
         "release": "11/07/2014",
@@ -1164,6 +1214,11 @@ var movie_map = {
         "movie": "Rogue One: A Star Wars Story",
         "categories": "Star Wars"
     },
+    "Split": {
+        "release": "01/20/2017",
+        "movie": "Split",
+        "categories": "Mixed Bag"
+    },
     "The Lego Batman Movie": {
         "release": "02/10/2017",
         "movie": "The Lego Batman Movie",
@@ -1213,6 +1268,11 @@ var movie_map = {
         "release": "07/14/2017",
         "movie": "War for the Planet of the Apes",
         "categories": "Planet of the Apes"
+    },
+    "Atomic Blonde": {
+        "release": "07/28/2017",
+        "movie": "Atomic Blonde",
+        "categories": "Graphic Novel"
     },
     "Kingsman: The Golden Circle": {
         "release": "09/22/2017",
@@ -1309,6 +1369,11 @@ var movie_map = {
         "movie": "Bumblebee",
         "categories": "Hasbro"
     },
+    "Glass": {
+        "release": "01/18/2019",
+        "movie": "Glass",
+        "categories": "Mixed Bag"
+    },
     "Polar": {
         "release": "01/25/2019",
         "movie": "Polar",
@@ -1379,10 +1444,20 @@ var movie_map = {
         "movie": "Bloodshot",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
+    "Extraction": {
+        "release": "04/24/2020",
+        "movie": "Extraction",
+        "categories": "Graphic Novel"
+    },
     "The Old Guard": {
         "release": "07/10/2020",
         "movie": "The Old Guard",
         "categories": "Comic Book"
+    },
+    "Project Power": {
+        "release": "08/14/2020",
+        "movie": "Project Power",
+        "categories": "Mixed Bag"
     },
     "The New Mutants": {
         "release": "08/28/2020",

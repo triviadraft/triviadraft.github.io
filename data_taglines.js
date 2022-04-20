@@ -581,6 +581,12 @@ var tagline_map = {
         "We're Not What You Think",
         "The future is here."
     ],
+    "Unbreakable": [
+        "Shattering cinemas soon.",
+        "Are You Ready For The Truth?",
+        "Are You Unbreakable?",
+        "Some things are only revealed by accident"
+    ],
     "Jurassic Park III": [
         "Disaster is an Instinct.",
         "This Time It's Not Just A Walk In The Park!",
@@ -612,6 +618,9 @@ var tagline_map = {
         "Rule the planet.",
         "On July 27th, take back the planet.",
         "You'll be sorry you were ever born human"
+    ],
+    "From Hell": [
+        "Only the legend will survive."
     ],
     "Harry Potter and the Sorcerer's Stone": [
         "Let The Magic Begin.",
@@ -670,6 +679,12 @@ var tagline_map = {
         "This Summer, They're Back in Business. They're Back in Action. They're Back in Black.",
         "Time to put on the last suit you'll ever wear...again...",
         "Back In Black."
+    ],
+    "Road to Perdition": [
+        "Pray for Michael Sullivan",
+        "Every father is a hero to his son.",
+        "Every son holds the future for his father.",
+        "The innocence of a son is surpassed only by the father's will to save it."
     ],
     "Harry Potter and the Chamber of Secrets": [
         "Dobby has come to warn you Sir.",
@@ -835,6 +850,17 @@ var tagline_map = {
         "The Power of Mischief",
         "Sequel to the #1 box-office hit."
     ],
+    "Sin City": [
+        "Hell of a way to end a partnership.",
+        "In a City, There is a Shaky Truce Between Those Who Rule the Streets, and Those Who Rule Everything",
+        "Walk down the right back alley in Sin City and you can find anything.",
+        "She smells like angels ought to smell.",
+        "Skinny little Nancy Callahan. She grew up. She filled out.",
+        "You're gonna love this, baby.",
+        "Do I take this cop down and risk it all?",
+        "There is no justice without sin.",
+        "Deadly little Miho"
+    ],
     "Star Wars: Episode III \u2013 Revenge of the Sith": [
         "The saga is complete."
     ],
@@ -849,6 +875,14 @@ var tagline_map = {
         "When an experimental space voyage goes wrong, four people are dramatically changed by cosmic rays to become the Fantastic Four.",
         "Fun. Fabulous. Fantastic.",
         "Prepare for the fantastic."
+    ],
+    "Sky High": [
+        "Brains, Brawn And Beyond.",
+        "Saving The World... One Homework Assignment At A Time."
+    ],
+    "A History of Violence": [
+        "Everyone has something to hide.",
+        "Tom Stall had the perfect life... until he became a hero."
     ],
     "The Legend of Zorro": [
         "This Fall, adventure begins with a Z."
@@ -866,6 +900,13 @@ var tagline_map = {
         "The White Witch Cometh",
         "The beloved masterpiece comes to life December 9",
         "Evil Has Reigned For 100 Years..."
+    ],
+    "V for Vendetta": [
+        "Remember, remember the 5th of November, the gun powder treason and plot. I know of no reason why the gun powder treason should ever be forgot.",
+        "I am an idea. And ideas are bulletproof",
+        "An uncompromising vision of the future from the creators of 'The Matrix' trilogy",
+        "People should not be afraid of their governments. Governments should be afraid of their people.",
+        "Freedom! Forever!"
     ],
     "X-Men: The Last Stand": [
         "Take a Stand",
@@ -886,6 +927,16 @@ var tagline_map = {
         "He's the only one that can walk on both worlds.",
         "Lets Ride !",
         "Long ago, he made a deal... to save someone he loved... What he didn't know was the price he would have to pay..."
+    ],
+    "300": [
+        "Feel the wrath in IMAX",
+        "Spartans, tonight, we dine in hell!",
+        "Based on Frank Miller's Graphic Novel",
+        "Thirsty for Spartan blood!",
+        "Pledged to crush!",
+        "This is where we fight, this is where they die!!",
+        "What does it mean to turn one of the great graphic novels of our time into a major motion picture?",
+        "Spartans, prepare for glory!"
     ],
     "TMNT": [
         "Raising Shell In 2007"
@@ -1058,6 +1109,11 @@ var tagline_map = {
         "This summer, fear is reborn.",
         "The most dangerous killers on the planet... but this is not our planet."
     ],
+    "Scott Pilgrim vs. the World": [
+        "An epic of epic epicness.",
+        "Get the hot girl. Defeat her evil exes. Hit love where it hurts.",
+        "An epic comeback of epic epicness."
+    ],
     "Red": [
         "Still Armed. Still Dangerous. Still Got It.",
         "He's Got Time To Kill.",
@@ -1079,6 +1135,9 @@ var tagline_map = {
     "The Chronicles of Narnia: The Voyage of the Dawn Treader": [
         "Return to magic. Return to hope. Return to Narnia.",
         "Take the voyage. Live the adventure. Discover Narnia like you've never seen it before."
+    ],
+    "The Green Hornet": [
+        "Protect the law by breaking it."
     ],
     "Thor": [
         "Two worlds. One hero.",
@@ -1250,10 +1309,18 @@ var tagline_map = {
     "The Hobbit: The Desolation of Smaug": [
         "Beyond darkness... beyond desolation... lies the greatest danger of all."
     ],
+    "I, Frankenstein": [
+        "In the battle between good and evil, an immortal holds the key.",
+        "200 years later, he's still alive."
+    ],
     "RoboCop (2014)": [
         "We've got the future under control.",
         "Your move",
         "Crime has a new enemy."
+    ],
+    "300: Rise of an Empire": [
+        "Seize your glory",
+        "The battle of glory continues"
     ],
     "Captain America: The Winter Soldier": [
         "In heroes we trust."
@@ -1296,6 +1363,10 @@ var tagline_map = {
         "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
         "Meet the new face of justice.",
         "Brothers become legends."
+    ],
+    "Sin City: A Dame to Kill For": [
+        "There is no justice without sin.",
+        "Outlaws Will Become Heroes in a City Without Justice"
     ],
     "The Hobbit: The Battle of the Five Armies": [
         "The Defining Chapter",
@@ -1402,6 +1473,9 @@ var tagline_map = {
         "A rebellion built on hope.",
         "Save the Rebellion. Save the dream."
     ],
+    "Split": [
+        "Kevin has 23 distinct personalities. The 24th is about to be unleashed."
+    ],
     "The Lego Batman Movie": [
         "Always be yourself. Unless you can be Batman.",
         "Who says bats can't swim?",
@@ -1460,6 +1534,9 @@ var tagline_map = {
     ],
     "War for the Planet of the Apes": [
         "For freedom. For family. For the planet."
+    ],
+    "Atomic Blonde": [
+        "Talents can be overrated."
     ],
     "Kingsman: The Golden Circle": [
         "Reports of my death have been greatly exaggerated."
@@ -1564,6 +1641,12 @@ var tagline_map = {
         "Every adventure has a beginning",
         "Every Hero Has a Beginning"
     ],
+    "Glass": [
+        "You Cannot Contain What You Are.",
+        "Real villains are among us. Real heroes are within us.",
+        "The World of Superheroes will be Shattered.",
+        "It Has Begun."
+    ],
     "Polar": [
         "If the Job doesn't kill you, Retirement will."
     ],
@@ -1636,6 +1719,9 @@ var tagline_map = {
     "The Old Guard": [
         "Forever is Harder Than It Looks",
         "Whatever it takes."
+    ],
+    "Project Power": [
+        "What would you risk for 5 minutes of pure power?"
     ],
     "The New Mutants": [
         "Everyone has demons.",
