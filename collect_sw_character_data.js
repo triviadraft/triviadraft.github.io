@@ -31,7 +31,7 @@ function reset() {
             question = 'What is the homeworld of ' + character + '?';
             answer = sw_character_map[character]['homeworld'];
         } else {
-            question = character + 'is what species?';
+            question = character + ' is what species?';
             answer = sw_character_map[character]['species'];
         }
 
