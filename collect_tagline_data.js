@@ -48,7 +48,7 @@ function reset() {
     document.getElementById('answer3').innerHTML = '';
     document.getElementById('answer4').innerHTML = '';
     document.getElementById('answer5').innerHTML = '';
-    document.getElementById('displayBtn').style.display = 'block';
+    document.getElementById('displayBtn').style.display = '';
 }
 
 var movies = randomItems(5, Object.keys(tagline_map));
