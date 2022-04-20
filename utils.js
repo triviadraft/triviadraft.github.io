@@ -10,9 +10,10 @@ function resetTaglines() {
     question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?'
     answer = movie
 
-    if !(movie.includes('(1') || movie.includes('(2')) {
-	  answer += ' (' + movie_map[movie]['year'] + ')'
+    if (!movie.includes('(1') && !movie.includes('(2')) {
+	 	answer += ' (' + movie_map[movie]['year'] + ')'
 	}
+
 
 	document.getElementById('question').innerHTML = question
 	document.getElementById('answer').innerHTML = ''
