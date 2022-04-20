@@ -190,11 +190,11 @@ The Shadow,Kate McGregor Stewart,Mrs. Shrevnitz,supporting,
 The Shadow,Frank Welker,voice of Phurba,supporting,mystical dagger
 The Shadow,Barry Dennen,voice of Tulku,minor,
 The Phantom,Billy Zane,Kit Walker / Phantom,main,
-The Phantom,Treat Williams,Xander Drax,main,
+The Phantom,Treat Williams,Xander Drax,supporting,
 The Phantom,Kristy Swanson,Diana Palmer,main,
 The Phantom,Catherine Zeta-Jones,Sala,main,
-The Phantom,James Remar,Quill,main,
-The Phantom,Patrick McGoohan,Mr. Walker / The 20th Phantom,main,
+The Phantom,James Remar,Quill,supporting,
+The Phantom,Patrick McGoohan,Mr. Walker / The 20th Phantom,supporting,
 The Phantom,Radmar Agana Jao,Guran,supporting,
 The Phantom,Robert Coleby,Captain Philip Horton,supporting,
 The Phantom,Cary-Hiroyuki Tagawa,The Great Kabai Sengh,supporting,
@@ -503,7 +503,7 @@ Predator 2,Jim Ishida,reporter,minor,
 Predator 2,Elpidia Carrillo,Anna Gonsalves,supporting,"woman aiding government agents in a videotape, showing the devastating after-effects of the first Predator's self-destruct device to the U.S. Army"
 Alien 3,Sigourney Weaver,Ellen Ripley,main,woman who crash-lands on Fiorina 161 and is once again burdened with the task of destroying another of the alien creatures
 Alien 3,Charles S. Dutton,Leonard Dillon,main,one of Fiorina's inmates who functions as the spiritual and de facto leader amongst the prisoners and attempts to keep the peace in the facility
-Alien 3,Charles Dance,Jonathan Clemens,main,former inmate who now serves as the facility's doctor and treats Ripley after her escape pod crashes
+Alien 3,Charles Dance,Jonathan Clemens,main,former inmate and the facility's doctor who treats Ripley after her escape pod crashes
 Alien 3,Brian Glover,Harold Andrews,supporting,prison warden who believes Ripley's presence will cause disruption amongst the inmates and attempts to control the rumors surrounding her and the creature
 Alien 3,Ralph Brown,Francis Aaron,supporting,"assistant of Superintendent Andrews whom prisoners refer to as ""85"" for his IQ score, which annoys him"
 Alien 3,Paul McGann,Walter Golic,supporting,"mass-murderer and outcast amongst the prison population, who becomes very disturbed after being assaulted by the Alien"
@@ -835,7 +835,7 @@ Transformers: Dark of the Moon,Frank Welker,Shockwave / Soundwave / Barricade,su
 Transformers: Dark of the Moon,Ron Bottitta,"Roadbuster / ""Amp""",minor,"Autobot Wrecker who transforms into Dale Earnhardt, Jr's Hendrick Motorsports No. 88 AMP Energy/National Guard 2011 Chevrolet Impala"
 Transformers: Dark of the Moon,John DiMaggio,"Leadfoot / ""Target""",minor,leader of the Autobot Wreckers who transforms into Juan Pablo Montoya's Earnhardt Ganassi Racing No. 42 Target 2011 Chevrolet Impala
 Transformers: Dark of the Moon,Keith Szarabajka,Laserbeak,minor,condor-like Decepticon who is fiercely loyal to Soundwave and frequently changes transformation modes
-Transformers: Dark of the Moon,Greg Berg,Igor,minor,deformed Decepticon who serves as a personal servant to Megatron in his exile
+Transformers: Dark of the Moon,Greg Berg,Igor,minor,deformed Decepticon who is a personal servant to Megatron in his exile
 Transformers: Age of Extinction,Mark Wahlberg,Cade Yeager,main,single father and struggling inventor
 Transformers: Age of Extinction,Stanley Tucci,Joshua Joyce,main,"ambitious, arrogant businessman and the head of KSI who wants to build his own Transformers"
 Transformers: Age of Extinction,Kelsey Grammer,Harold Attinger,main,"rogue CIA operative and government official who created the CIA black-ops unit, Cemetery Wind to eliminate all Transformers, Autobot or Decepticon, from Earth"
@@ -909,7 +909,7 @@ Transformers: The Last Knight,Peter Cullen,Optimus Prime / Nemesis Prime,main,"l
 Transformers: The Last Knight,Frank Welker,Megatron,main,"leader of the Decepticons, who possessed a KSI Drone in Age of Extinction and transforms into a Cybertronian jet"
 Transformers: The Last Knight,Gemma Chan,Quintessa,supporting,"Cybertronian Sorceress, the ""Prime of Life"" and the creator of the Cybertronians who wants to destroy Unicron (and Earth) and rebuild Cybertron through whatever way possible"
 Transformers: The Last Knight,Erik Aadahl,Bumblebee / ZB-7,minor,"Autobot scout and Optimus Prime's second-in-command, who transforms into a custom-built yellow and black 2017 Chevrolet Camaro with a body kit"
-Transformers: The Last Knight,Jim Carter,Cogman,supporting,"polite but sociopathic, human-sized robot who serves as the faithful butler to Sir Edmund Burton"
+Transformers: The Last Knight,Jim Carter,Cogman,supporting,"polite but sociopathic, human-sized robot who is the faithful butler to Sir Edmund Burton"
 Transformers: The Last Knight,Omar Sy,Hot Rod,supporting,"Autobot who transforms into a 1975 Citroën DS, before upgrading into a 2017 Lamborghini Centenario LP770-4 and is brother-in-arms with Bumblebee and speaks in a thick French accent which he's ashamed of and wishes to remove"
 Transformers: The Last Knight,Ken Watanabe,Drift,supporting,Samurai-motif Autobot tactician and former Decepticon who transforms into a black and red 2017 Mercedes-AMG GT R
 Transformers: The Last Knight,John Goodman,Hound,supporting,trigger-happy Autobot commando and field medic who transforms into an olive green Mercedes-Benz Unimog military tactical ambulance
@@ -1092,7 +1092,7 @@ Dawn of the Planet of the Apes,Keir O'Donnell,Finney,minor,ally of Dreyfus
 Dawn of the Planet of the Apes,Kevin Rankin,McVeigh,minor,guard at the colony's armory
 Dawn of the Planet of the Apes,Jocko Sims,Werner,minor,colony radio operator
 War for the Planet of the Apes,Andy Serkis,Caesar,main,chimpanzee who is leader to a tribe of enhanced apes
-War for the Planet of the Apes,Woody Harrelson,The Colonel,main,"leader of the paramilitary organization the Alpha-Omega, who is obsessed with wiping out Caesar and his tribe to preserve humans as the dominant species on Earth"
+War for the Planet of the Apes,Woody Harrelson,The Colonel,main,"leader of the paramilitary organization the Alpha-Omega, who is obsessed with wiping out Caesar and his tribe to preserve humans"
 War for the Planet of the Apes,Steve Zahn,Bad Ape,supporting,
 War for the Planet of the Apes,Toby Kebbell,Koba,minor,treacherous bonobo
 War for the Planet of the Apes,Gabriel Chavarria,Preacher,supporting,crossbowman soldier working under the Colonel in the Alpha-Omega
@@ -1127,7 +1127,7 @@ Mad Max,Reg Evans,Station Master,minor,
 The Road Warrior,Mel Gibson,"Max ""Mad Max"" Rockatansky",main,former member of the Australian highway patrol called the Main Force Patrol (MFP)
 The Road Warrior,Bruce Spence,"""The Gyro Captain""",supporting,wanderer who looks for fuel and supplies who flies in a ramshackle old gyrocopter
 The Road Warrior,Mike Preston,Pappagallo,supporting,idealistic leader of the settlers in the barricaded oil refinery
-The Road Warrior,Max Phipps,"""The Toadie""",supporting,"gang crier who is an unkempt, bespectacled man and wears a decorated mink stole as a hat"
+The Road Warrior,Max Phipps,"""The Toadie""",supporting,"gang crier who is an unkempt, bespectacled man and wears a decorated mink stole like a hat"
 The Road Warrior,Vernon Wells,"""Wez""",supporting,"mohawked, leather-clad biker and Lord Humungus' lieutenant in the gang"
 The Road Warrior,Emil Minty,The Feral Kid,supporting,boy who lives in the wasteland near the refinery settlement and speaks only in growls and grunts
 The Road Warrior,Kjell Nilsson,"""The Humungus""",supporting,"violent yet charismatic and articulate leader of a ""vicious gang of post-holocaust, motorcycle-riding vandals"" who ""loot, rape, and kill the few remaining wasteland dwellers"""
@@ -1275,7 +1275,7 @@ Waterworld,Neil Giuntoli,Hellfire Gunner (Chuck),minor,
 Waterworld,William Preston,Smoker Depth Gauge Guy,minor,
 Waterworld,Sean Whalen,Bone,minor,
 Waterworld,Lee Arenberg,Djeng,supporting,
-The Matrix,Keanu Reeves,Thomas Anderson / Neo,main,"computer programmer, born Thomas A. Anderson, who secretly operates as a hacker named Neo"
+The Matrix,Keanu Reeves,Thomas Anderson / Neo,main,"computer programmer, born Thomas A. Anderson, who is secretly a hacker named Neo"
 The Matrix,Laurence Fishburne,Morpheus,main,human freed from the Matrix and captain of the Nebuchadnezzar
 The Matrix,Carrie-Anne Moss,Trinity,main,"human freed by Morpheus, a crewmember of the Nebuchadnezzar, and later Neo's romantic interest"
 The Matrix,Hugo Weaving,Agent Smith,main,"sentient ""Agent"" program of the Matrix whose purpose is to destroy Zion and stop humans from getting out of the Matrix"
@@ -1349,7 +1349,7 @@ The Matrix Revolutions,Bruce Spence,the Trainman,minor,
 The Matrix Revolutions,Ian Bliss,Bane,minor,
 The Matrix Revolutions,Harry Lennix,Commander Lock,supporting,
 The Matrix Revolutions,Anthony Zerbe,Councillor Hamann,minor,
-The Matrix Revolutions,Nathaniel Lee,Captain Mifune,supporting,
+The Matrix Revolutions,Nathaniel Lees,Captain Mifune,supporting,
 The Matrix Revolutions,Clayton Watson,Kid,minor,
 The Matrix Revolutions,Cornel West,Councillor West,minor,
 The Matrix Revolutions,David Roberts,Captain Roland,minor,
@@ -1581,8 +1581,8 @@ RoboCop (1987),Michael Gregory,Lt. Hedgecock,minor,
 RoboCop (1987),Felton Perry,Donald Johnson,minor,OCP employee
 RoboCop (1987),Kevin Page,Mr. Kinney,minor,OCP junior executive who is shot to death by ED-209
 RoboCop (1987),Lee de Broux,Sal,minor,cocaine warehouse owner
-RoboCop (1987),Mario Machado,Casey Wong,supporting,news host
-RoboCop (1987),Leeza Gibbons,Jess Perkins,supporting,news host
+RoboCop (1987),Mario Machado,Casey Wong,minor,news host
+RoboCop (1987),Leeza Gibbons,Jess Perkins,minor,news host
 RoboCop (1987),S. D. Nemeth,Bixby Snyder,minor,television show host
 RoboCop (1987),Angie Bollings,Murphy's wife,minor,
 RoboCop (1987),Jason Levine,Murphy's son,minor,
@@ -1613,3 +1613,171 @@ Willow,Tony Cox,Nelwyn warrior,supporting,
 Willow,Kenny Baker,Nelwyn band member,supporting,
 Willow,Zulema Dene,Ethna,minor,midwife
 Willow,Sallyanne Law,Elora Danan's mother,minor,
+RoboCop 2,Peter Weller,Alex Murphy / RoboCop,main,
+RoboCop 2,Nancy Allen,Officer Anne Lewis,supporting,
+RoboCop 2,Belinda Bauer,Dr. Juliette Faxx,supporting,
+RoboCop 2,Dan O'Herlihy,"""The Old Man"" OCP President",supporting,
+RoboCop 2,Felton Perry,Donald Johnson,minor,
+RoboCop 2,Tom Noonan,Cain,supporting,
+RoboCop 2,Willard E. Pugh,Mayor Marvin Kuzak,minor,
+RoboCop 2,Gabriel Damon,Hob,supporting,
+RoboCop 2,Galyn Görg,Angie,minor,
+RoboCop 2,Stephen Lee,Officer Duffy,minor,
+RoboCop 2,Robert DoQui,Sgt. Reed,minor,
+RoboCop 2,Ken Lerner,Delaney,minor,
+RoboCop 2,Jeff McCarthy,Holzgang,minor,
+RoboCop 2,John Doolittle,Schenk,minor,
+RoboCop 2,Angie Bolling,Ellen Murphy,minor,
+RoboCop 2,Brandon Smith,Flint,minor,
+RoboCop 2,Thomas Rosales Jr.,Chet,minor,
+RoboCop 2,Tzi Ma,Tak Akita,minor,
+RoboCop 2,Wanda De Jesus,Estevez,minor,
+RoboCop 2,George Cheung,Gilette,minor,
+RoboCop 2,Phil Rubenstein,Poulos,minor,
+RoboCop 2,Michael Medeiros,Catzo,minor,
+RoboCop 2,Roger Aaron Brown,Whittaker,minor,
+RoboCop 2,Mark Rolston,Stef,supporting,
+RoboCop 2,Gary Bullock,Doc,minor,
+RoboCop 2,Linda Thompson,Mother with Baby,minor,
+RoboCop 2,John Glover,Magnavolt Salesman,supporting,
+RoboCop 2,Mario Machado,Casey Wong,minor,
+RoboCop 2,Leeza Gibbons,Jess Perkins,minor,
+RoboCop 2,John Ingle,Surgeon General,minor,
+RoboCop 2,Fabiana Udenio,Sunblock Woman,minor,
+RoboCop 2,Barry Martin,OCP Cop,minor,
+RoboCop 2,Patricia Charbonneau,Lab Tech Linda Garcia,minor,
+RoboCop 2,Frank Miller,Frank,supporting,
+RoboCop 2,Jerry L. Nelson,Darren Thomas,minor,
+RoboCop 3,Robert Burke,Alex Murphy / RoboCop,main,
+RoboCop 3,Nancy Allen,Anne Lewis,supporting,
+RoboCop 3,Jill Hennessy,Dr. Marie Lazarus,supporting,
+RoboCop 3,Remy Ryan,Nikko Halloran,supporting,
+RoboCop 3,Rip Torn,The CEO,supporting,
+RoboCop 3,John Castle,Paul McDaggett,minor,
+RoboCop 3,Bruce Locke,Otomo,minor,
+RoboCop 3,Jodi Long,Keiko Halloran,minor,
+RoboCop 3,John Posey,David Halloran,minor,
+RoboCop 3,Mako,Kanemitsu,supporting,
+RoboCop 3,Felton Perry,Donald Johnson,minor,
+RoboCop 3,Robert DoQui,Sgt. Warren Reed,minor,
+RoboCop 3,Bradley Whitford,Jeffrey Fleck,supporting,
+RoboCop 3,CCH Pounder,Bertha,minor,
+RoboCop 3,Daniel von Bargen,Moreno,minor,
+RoboCop 3,Stanley Anderson,Zack,minor,
+RoboCop 3,Stephen Root,Coontz,supporting,
+RoboCop 3,Eva LaRue Callahan,Debbie Dix,minor,
+RoboCop 3,S.D. Nemeth,Bixby Snyder,minor,
+RoboCop 3,Mario Machado,Casey Wong,minor,
+RoboCop 3,Jeff Garlin,Donut Jerk,supporting,
+RoboCop 3,Lee Arenberg,Hold-up Man,supporting,
+Timecop,Jean-Claude Van Damme,Agent Max Walker,main,
+Timecop,Mia Sara,Melissa Walker,main,
+Timecop,Ron Silver,Senator Aaron McComb,supporting,
+Timecop,Bruce McGill,Commander Eugene Matuzak,supporting,
+Timecop,Gloria Reuben,Agent Sarah Fielding,supporting,
+Timecop,Scott Bellis,Ricky,supporting,
+Timecop,Jason Schombing,Agent Lyle Atwood,minor,
+Timecop,Scott Lawrence,George Spota,supporting,
+Timecop,Kenneth Welsh,Senator Utley,minor,
+Timecop,Brad Loree,Reyes,minor,
+Timecop,Kevin McNulty,Jack Parker,minor,
+Timecop,Gabrielle Rose,Judge Marshall,minor,
+Timecop,Callum Keith Rennie,Stranger,minor,
+Timecop,Steven Lambert,Lansing,minor,
+Timecop,Richard Faraci,Cole,minor,
+Timecop,Veena Sood,Nurse,minor,
+Tank Girl,Lori Petty,Tank Girl,main,
+Tank Girl,Ice-T,T-Saint,main,
+Tank Girl,Naomi Watts,Jet Girl,main,
+Tank Girl,Don Harvey,Sgt. Small,supporting,
+Tank Girl,Jeff Kober,Booga,minor,
+Tank Girl,Reg E. Cathey,Deetee,supporting,
+Tank Girl,Scott Coffey,Donner,minor,
+Tank Girl,Malcolm McDowell,Kesslee,supporting,
+Tank Girl,Stacy Linn Ramsower,Sam,supporting,
+Tank Girl,Ann Cusack,Sub Girl,supporting,
+Tank Girl,Brian Wimmer,Richard,minor,
+Tank Girl,Iggy Pop,Rat Face,supporting,
+Tank Girl,Dawn Robinson,Model,minor,
+Tank Girl,Billy L. Sullivan,Max,minor,
+Tank Girl,James Hong,Che'tsai,supporting,
+Tank Girl,Charles Lucia,Capt. Derouche,minor,
+Tank Girl,Harlan Clark,Additional Ripper,minor,
+Tank Girl,Doug Jones,Additional Ripper,supporting,
+Tank Girl,Ata Scanlan,Additional Ripper,minor,
+Tank Girl,Alvarez Wortham,Additional Ripper,minor,
+Tank Girl,Roz Witt,Dr. Nikita,minor,
+Tank Girl,Brixton Karnes,Pilot,minor,
+Tank Girl,Will 'Nahkohe' Strickland,Razor Ray,minor,
+Tank Girl,Charles Robert Harden,Zack,minor,
+Tank Girl,Tom Noga,Foreman,minor,
+Tank Girl,Bojesse Christopher,Town,minor,
+Tank Girl,John David Bland,Trooper Wayne,minor,
+Tank Girl,Jo Farkas,Sand Hermit,minor,
+Tank Girl,Stanton Davis,Father,minor,
+Tank Girl,Jillian Balch,Mother,minor,
+Tank Girl,Richard Schiff,Trooper in Trench,supporting,
+Judge Dredd,Sylvester Stallone,Judge Joseph Dredd,main,
+Judge Dredd,Armand Assante,Rico,main,
+Judge Dredd,Diane Lane,Judge Hershey,main,
+Judge Dredd,Rob Schneider,Fergie,main,
+Judge Dredd,Jürgen Prochnow,Judge Griffin,supporting,
+Judge Dredd,Max von Sydow,Chief Justice Fargo,supporting,
+Judge Dredd,Joanna Miles,Judge McGruder,supporting,
+Judge Dredd,Joan Chen,Dr. Ilsa Hayden,supporting,
+Judge Dredd,Balthazar Getty,Cadet Nathan Olmeyer,minor,
+Judge Dredd,Ian Dury,Geiger,minor,
+Judge Dredd,Mitchell Ryan,Vartis Hammond,minor,
+Judge Dredd,Bradley Lavelle,Chief Judge Hunter,minor,
+Judge Dredd,Scott Wilson,Pa Angel,supporting,
+Judge Dredd,Christopher Adamson,Mean Machine Angel,minor,
+Judge Dredd,Ewen Bremner,Junior Angel,supporting,
+Judge Dredd,Phil Smeeton,Link Angel,minor,
+Judge Dredd,Maurice Roëves,Warden Miller,minor,
+Judge Dredd,James Remar,the Block Warlord,supporting,
+Judge Dredd,Pat Starr,Lily Hammond,minor,
+Judge Dredd,Lex Daniel,Judge Brisco,minor,rookie
+Judge Dredd,Angus MacInnes,Judge Silver,supporting,
+Judge Dredd,Peter Marinker,Judge Esposito,minor,
+Judge Dredd,Mark Moraghan,Judge Monroe,minor,
+Judge Dredd,Louise Delamere,Judge Meeker,minor,
+Judge Dredd,Al Sapienza,Judge Gellar,minor,
+Judge Dredd,Adrienne Barbeau,voice of Hall of Justice Central Computer,supporting,
+Judge Dredd,James Earl Jones,opening text crawl narrator,supporting,
+Men in Black,Tommy Lee Jones,Kevin Brown / Agent K,main,J's grizzled and humorless mentor
+Men in Black,Will Smith,James Darrell Edwards III / Agent J,main,"former NYPD detective, newly recruited to the MIB"
+Men in Black,Linda Fiorentino,Dr. Laurel Weaver / Agent L,main,deputy medical examiner and later J's partner
+Men in Black,Vincent D'Onofrio,the Bug,main,"giant alien insect who comes to earth to kidnap the Galaxy and use it to destroy the Arquillians, conceling his identity underneath the skin of a farmer he killed"
+Men in Black,Rip Torn,Chief Zed,main,head of the MIB
+Men in Black,Tony Shalhoub,Jack Jeebs,supporting,alien arms dealer who seems to own a pawn shop
+Men in Black,Siobhan Fallon Hogan,Beatrice,supporting,Edgar's abused wife
+Men in Black,Mike Nussbaum,Gentle Rosenberg,minor,"Arquillian jeweler who is the guardian of ""the Galaxy"""
+Men in Black,Jon Gries,Nick,supporting,van driver and American smuggler who unknowingly carries a literal alien among his posse
+Men in Black,Sergio Calderón,Jose,minor,
+Men in Black,John Alexander,Mikey,minor,alien who pretends to be a Mexican being snuck across the border
+Men in Black,Patrick Breen,Mr. Redgick,minor,
+Men in Black,Becky Ann Baker,Mrs. Redgick,minor,
+Men in Black,Carel Struycken,Arquillian,minor,
+Men in Black,Fredric Lehne,Agent Janus,minor,
+Men in Black,Kent Faulcon,Jake Jensen,minor,
+Men in Black,Richard Hamilton,Agent D,supporting,K's former partner who retires after deciding he is too old for the job
+Men in Black,David Cross,Newton,supporting,morgue attendant
+Men in Black,Sean Whalen,Passport Officer,minor,
+Men in Black,Tim Blaney,voice of Frank the Pug,supporting,
+Men in Black,Mark Setrakian,Rosenberg Alien,minor,
+Men in Black,Brad Abrell,a Worm Guy,minor,worm-like alien that works for Men in Black
+Men in Black,Thom Fountain,a Worm Guy,minor,worm-like alien that works for Men in Black
+Men in Black,Carl J. Johnson,a Worm Guy,minor,worm-like alien that works for Men in Black
+Men in Black,Drew Massey,a Worm Guy,minor,worm-like alien that works for Men in Black
+Spawn,Michael Jai White,CIA Agent Al Simmons / Spawn,main,
+Spawn,John Leguizamo,Clown / Violator,main,
+Spawn,Martin Sheen,CIA Director Jason Wynn,main,
+Spawn,Theresa Randle,Wanda Blake,supporting,
+Spawn,Nicol Williamson,Nicholas Cogliostro,supporting,
+Spawn,D. B. Sweeney,CIA Agent Terry Fitzgerald,supporting,
+Spawn,Melinda Clarke,CIA Agent Jessica Priest,minor,
+Spawn,Miko Hughes,Zack,minor,
+Spawn,Sydni Beaudoin,Cyan Simmons-Fitzgerald,minor,
+Spawn,Michael Papajohn,Glen,supporting,Zack's father
+Spawn,Frank Welker,voice of Malebolgia,supporting,
+Spawn,Todd McFarlane,homeless man,supporting,
