@@ -1013,11 +1013,6 @@ var actor_map = {
                 "description": ""
             },
             {
-                "actor": "Treat Williams",
-                "name": "Xander Drax",
-                "description": ""
-            },
-            {
                 "actor": "Kristy Swanson",
                 "name": "Diana Palmer",
                 "description": ""
@@ -1025,6 +1020,13 @@ var actor_map = {
             {
                 "actor": "Catherine Zeta-Jones",
                 "name": "Sala",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Treat Williams",
+                "name": "Xander Drax",
                 "description": ""
             },
             {
@@ -1036,9 +1038,7 @@ var actor_map = {
                 "actor": "Patrick McGoohan",
                 "name": "Mr. Walker / The 20th Phantom",
                 "description": ""
-            }
-        ],
-        "supporting": [
+            },
             {
                 "actor": "Radmar Agana Jao",
                 "name": "Guran",
@@ -2716,7 +2716,7 @@ var actor_map = {
             {
                 "actor": "Charles Dance",
                 "name": "Jonathan Clemens",
-                "description": "former inmate who now serves as the facility's doctor and treats Ripley after her escape pod crashes"
+                "description": "former inmate and the facility's doctor who treats Ripley after her escape pod crashes"
             }
         ],
         "supporting": [
@@ -4482,7 +4482,7 @@ var actor_map = {
             {
                 "actor": "Greg Berg",
                 "name": "Igor",
-                "description": "deformed Decepticon who serves as a personal servant to Megatron in his exile"
+                "description": "deformed Decepticon who is a personal servant to Megatron in his exile"
             }
         ]
     },
@@ -4886,7 +4886,7 @@ var actor_map = {
             {
                 "actor": "Jim Carter",
                 "name": "Cogman",
-                "description": "polite but sociopathic, human-sized robot who serves as the faithful butler to Sir Edmund Burton"
+                "description": "polite but sociopathic, human-sized robot who is the faithful butler to Sir Edmund Burton"
             },
             {
                 "actor": "Omar Sy",
@@ -5865,7 +5865,7 @@ var actor_map = {
             {
                 "actor": "Woody Harrelson",
                 "name": "The Colonel",
-                "description": "leader of the paramilitary organization the Alpha-Omega, who is obsessed with wiping out Caesar and his tribe to preserve humans as the dominant species on Earth"
+                "description": "leader of the paramilitary organization the Alpha-Omega, who is obsessed with wiping out Caesar and his tribe to preserve humans"
             }
         ],
         "supporting": [
@@ -6058,7 +6058,7 @@ var actor_map = {
             {
                 "actor": "Max Phipps",
                 "name": "\"The Toadie\"",
-                "description": "gang crier who is an unkempt, bespectacled man and wears a decorated mink stole as a hat"
+                "description": "gang crier who is an unkempt, bespectacled man and wears a decorated mink stole like a hat"
             },
             {
                 "actor": "Vernon Wells",
@@ -6862,7 +6862,7 @@ var actor_map = {
             {
                 "actor": "Keanu Reeves",
                 "name": "Thomas Anderson / Neo",
-                "description": "computer programmer, born Thomas A. Anderson, who secretly operates as a hacker named Neo"
+                "description": "computer programmer, born Thomas A. Anderson, who is secretly a hacker named Neo"
             },
             {
                 "actor": "Laurence Fishburne",
@@ -7236,7 +7236,7 @@ var actor_map = {
                 "description": ""
             },
             {
-                "actor": "Nathaniel Lee",
+                "actor": "Nathaniel Lees",
                 "name": "Captain Mifune",
                 "description": ""
             }
@@ -8474,16 +8474,6 @@ var actor_map = {
                 "description": "member of Boddicker's gang"
             },
             {
-                "actor": "Mario Machado",
-                "name": "Casey Wong",
-                "description": "news host"
-            },
-            {
-                "actor": "Leeza Gibbons",
-                "name": "Jess Perkins",
-                "description": "news host"
-            },
-            {
                 "actor": "Paul Verhoeven",
                 "name": "dancing nightclub patron",
                 "description": ""
@@ -8534,6 +8524,16 @@ var actor_map = {
                 "actor": "Lee de Broux",
                 "name": "Sal",
                 "description": "cocaine warehouse owner"
+            },
+            {
+                "actor": "Mario Machado",
+                "name": "Casey Wong",
+                "description": "news host"
+            },
+            {
+                "actor": "Leeza Gibbons",
+                "name": "Jess Perkins",
+                "description": "news host"
             },
             {
                 "actor": "S. D. Nemeth",
@@ -8681,6 +8681,902 @@ var actor_map = {
             {
                 "actor": "Kenny Baker",
                 "name": "Nelwyn band member",
+                "description": ""
+            }
+        ]
+    },
+    "RoboCop 2": {
+        "main": [
+            {
+                "actor": "Peter Weller",
+                "name": "Alex Murphy / RoboCop",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Nancy Allen",
+                "name": "Officer Anne Lewis",
+                "description": ""
+            },
+            {
+                "actor": "Belinda Bauer",
+                "name": "Dr. Juliette Faxx",
+                "description": ""
+            },
+            {
+                "actor": "Dan O'Herlihy",
+                "name": "\"The Old Man\" OCP President",
+                "description": ""
+            },
+            {
+                "actor": "Tom Noonan",
+                "name": "Cain",
+                "description": ""
+            },
+            {
+                "actor": "Gabriel Damon",
+                "name": "Hob",
+                "description": ""
+            },
+            {
+                "actor": "Mark Rolston",
+                "name": "Stef",
+                "description": ""
+            },
+            {
+                "actor": "John Glover",
+                "name": "Magnavolt Salesman",
+                "description": ""
+            },
+            {
+                "actor": "Frank Miller",
+                "name": "Frank",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Felton Perry",
+                "name": "Donald Johnson",
+                "description": ""
+            },
+            {
+                "actor": "Willard E. Pugh",
+                "name": "Mayor Marvin Kuzak",
+                "description": ""
+            },
+            {
+                "actor": "Galyn G\u00f6rg",
+                "name": "Angie",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Lee",
+                "name": "Officer Duffy",
+                "description": ""
+            },
+            {
+                "actor": "Robert DoQui",
+                "name": "Sgt. Reed",
+                "description": ""
+            },
+            {
+                "actor": "Ken Lerner",
+                "name": "Delaney",
+                "description": ""
+            },
+            {
+                "actor": "Jeff McCarthy",
+                "name": "Holzgang",
+                "description": ""
+            },
+            {
+                "actor": "John Doolittle",
+                "name": "Schenk",
+                "description": ""
+            },
+            {
+                "actor": "Angie Bolling",
+                "name": "Ellen Murphy",
+                "description": ""
+            },
+            {
+                "actor": "Brandon Smith",
+                "name": "Flint",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Rosales Jr.",
+                "name": "Chet",
+                "description": ""
+            },
+            {
+                "actor": "Tzi Ma",
+                "name": "Tak Akita",
+                "description": ""
+            },
+            {
+                "actor": "Wanda De Jesus",
+                "name": "Estevez",
+                "description": ""
+            },
+            {
+                "actor": "George Cheung",
+                "name": "Gilette",
+                "description": ""
+            },
+            {
+                "actor": "Phil Rubenstein",
+                "name": "Poulos",
+                "description": ""
+            },
+            {
+                "actor": "Michael Medeiros",
+                "name": "Catzo",
+                "description": ""
+            },
+            {
+                "actor": "Roger Aaron Brown",
+                "name": "Whittaker",
+                "description": ""
+            },
+            {
+                "actor": "Gary Bullock",
+                "name": "Doc",
+                "description": ""
+            },
+            {
+                "actor": "Linda Thompson",
+                "name": "Mother with Baby",
+                "description": ""
+            },
+            {
+                "actor": "Mario Machado",
+                "name": "Casey Wong",
+                "description": ""
+            },
+            {
+                "actor": "Leeza Gibbons",
+                "name": "Jess Perkins",
+                "description": ""
+            },
+            {
+                "actor": "John Ingle",
+                "name": "Surgeon General",
+                "description": ""
+            },
+            {
+                "actor": "Fabiana Udenio",
+                "name": "Sunblock Woman",
+                "description": ""
+            },
+            {
+                "actor": "Barry Martin",
+                "name": "OCP Cop",
+                "description": ""
+            },
+            {
+                "actor": "Patricia Charbonneau",
+                "name": "Lab Tech Linda Garcia",
+                "description": ""
+            },
+            {
+                "actor": "Jerry L. Nelson",
+                "name": "Darren Thomas",
+                "description": ""
+            }
+        ]
+    },
+    "RoboCop 3": {
+        "main": [
+            {
+                "actor": "Robert Burke",
+                "name": "Alex Murphy / RoboCop",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Nancy Allen",
+                "name": "Anne Lewis",
+                "description": ""
+            },
+            {
+                "actor": "Jill Hennessy",
+                "name": "Dr. Marie Lazarus",
+                "description": ""
+            },
+            {
+                "actor": "Remy Ryan",
+                "name": "Nikko Halloran",
+                "description": ""
+            },
+            {
+                "actor": "Rip Torn",
+                "name": "The CEO",
+                "description": ""
+            },
+            {
+                "actor": "Mako",
+                "name": "Kanemitsu",
+                "description": ""
+            },
+            {
+                "actor": "Bradley Whitford",
+                "name": "Jeffrey Fleck",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Root",
+                "name": "Coontz",
+                "description": ""
+            },
+            {
+                "actor": "Jeff Garlin",
+                "name": "Donut Jerk",
+                "description": ""
+            },
+            {
+                "actor": "Lee Arenberg",
+                "name": "Hold-up Man",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "John Castle",
+                "name": "Paul McDaggett",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Locke",
+                "name": "Otomo",
+                "description": ""
+            },
+            {
+                "actor": "Jodi Long",
+                "name": "Keiko Halloran",
+                "description": ""
+            },
+            {
+                "actor": "John Posey",
+                "name": "David Halloran",
+                "description": ""
+            },
+            {
+                "actor": "Felton Perry",
+                "name": "Donald Johnson",
+                "description": ""
+            },
+            {
+                "actor": "Robert DoQui",
+                "name": "Sgt. Warren Reed",
+                "description": ""
+            },
+            {
+                "actor": "CCH Pounder",
+                "name": "Bertha",
+                "description": ""
+            },
+            {
+                "actor": "Daniel von Bargen",
+                "name": "Moreno",
+                "description": ""
+            },
+            {
+                "actor": "Stanley Anderson",
+                "name": "Zack",
+                "description": ""
+            },
+            {
+                "actor": "Eva LaRue Callahan",
+                "name": "Debbie Dix",
+                "description": ""
+            },
+            {
+                "actor": "S.D. Nemeth",
+                "name": "Bixby Snyder",
+                "description": ""
+            },
+            {
+                "actor": "Mario Machado",
+                "name": "Casey Wong",
+                "description": ""
+            }
+        ]
+    },
+    "Timecop": {
+        "main": [
+            {
+                "actor": "Jean-Claude Van Damme",
+                "name": "Agent Max Walker",
+                "description": ""
+            },
+            {
+                "actor": "Mia Sara",
+                "name": "Melissa Walker",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Ron Silver",
+                "name": "Senator Aaron McComb",
+                "description": ""
+            },
+            {
+                "actor": "Bruce McGill",
+                "name": "Commander Eugene Matuzak",
+                "description": ""
+            },
+            {
+                "actor": "Gloria Reuben",
+                "name": "Agent Sarah Fielding",
+                "description": ""
+            },
+            {
+                "actor": "Scott Bellis",
+                "name": "Ricky",
+                "description": ""
+            },
+            {
+                "actor": "Scott Lawrence",
+                "name": "George Spota",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Jason Schombing",
+                "name": "Agent Lyle Atwood",
+                "description": ""
+            },
+            {
+                "actor": "Kenneth Welsh",
+                "name": "Senator Utley",
+                "description": ""
+            },
+            {
+                "actor": "Brad Loree",
+                "name": "Reyes",
+                "description": ""
+            },
+            {
+                "actor": "Kevin McNulty",
+                "name": "Jack Parker",
+                "description": ""
+            },
+            {
+                "actor": "Gabrielle Rose",
+                "name": "Judge Marshall",
+                "description": ""
+            },
+            {
+                "actor": "Callum Keith Rennie",
+                "name": "Stranger",
+                "description": ""
+            },
+            {
+                "actor": "Steven Lambert",
+                "name": "Lansing",
+                "description": ""
+            },
+            {
+                "actor": "Richard Faraci",
+                "name": "Cole",
+                "description": ""
+            },
+            {
+                "actor": "Veena Sood",
+                "name": "Nurse",
+                "description": ""
+            }
+        ]
+    },
+    "Tank Girl": {
+        "main": [
+            {
+                "actor": "Lori Petty",
+                "name": "Tank Girl",
+                "description": ""
+            },
+            {
+                "actor": "Ice-T",
+                "name": "T-Saint",
+                "description": ""
+            },
+            {
+                "actor": "Naomi Watts",
+                "name": "Jet Girl",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Don Harvey",
+                "name": "Sgt. Small",
+                "description": ""
+            },
+            {
+                "actor": "Reg E. Cathey",
+                "name": "Deetee",
+                "description": ""
+            },
+            {
+                "actor": "Malcolm McDowell",
+                "name": "Kesslee",
+                "description": ""
+            },
+            {
+                "actor": "Stacy Linn Ramsower",
+                "name": "Sam",
+                "description": ""
+            },
+            {
+                "actor": "Ann Cusack",
+                "name": "Sub Girl",
+                "description": ""
+            },
+            {
+                "actor": "Iggy Pop",
+                "name": "Rat Face",
+                "description": ""
+            },
+            {
+                "actor": "James Hong",
+                "name": "Che'tsai",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Additional Ripper",
+                "description": ""
+            },
+            {
+                "actor": "Richard Schiff",
+                "name": "Trooper in Trench",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Jeff Kober",
+                "name": "Booga",
+                "description": ""
+            },
+            {
+                "actor": "Scott Coffey",
+                "name": "Donner",
+                "description": ""
+            },
+            {
+                "actor": "Brian Wimmer",
+                "name": "Richard",
+                "description": ""
+            },
+            {
+                "actor": "Dawn Robinson",
+                "name": "Model",
+                "description": ""
+            },
+            {
+                "actor": "Billy L. Sullivan",
+                "name": "Max",
+                "description": ""
+            },
+            {
+                "actor": "Charles Lucia",
+                "name": "Capt. Derouche",
+                "description": ""
+            },
+            {
+                "actor": "Harlan Clark",
+                "name": "Additional Ripper",
+                "description": ""
+            },
+            {
+                "actor": "Ata Scanlan",
+                "name": "Additional Ripper",
+                "description": ""
+            },
+            {
+                "actor": "Alvarez Wortham",
+                "name": "Additional Ripper",
+                "description": ""
+            },
+            {
+                "actor": "Roz Witt",
+                "name": "Dr. Nikita",
+                "description": ""
+            },
+            {
+                "actor": "Brixton Karnes",
+                "name": "Pilot",
+                "description": ""
+            },
+            {
+                "actor": "Will 'Nahkohe' Strickland",
+                "name": "Razor Ray",
+                "description": ""
+            },
+            {
+                "actor": "Charles Robert Harden",
+                "name": "Zack",
+                "description": ""
+            },
+            {
+                "actor": "Tom Noga",
+                "name": "Foreman",
+                "description": ""
+            },
+            {
+                "actor": "Bojesse Christopher",
+                "name": "Town",
+                "description": ""
+            },
+            {
+                "actor": "John David Bland",
+                "name": "Trooper Wayne",
+                "description": ""
+            },
+            {
+                "actor": "Jo Farkas",
+                "name": "Sand Hermit",
+                "description": ""
+            },
+            {
+                "actor": "Stanton Davis",
+                "name": "Father",
+                "description": ""
+            },
+            {
+                "actor": "Jillian Balch",
+                "name": "Mother",
+                "description": ""
+            }
+        ]
+    },
+    "Judge Dredd": {
+        "main": [
+            {
+                "actor": "Sylvester Stallone",
+                "name": "Judge Joseph Dredd",
+                "description": ""
+            },
+            {
+                "actor": "Armand Assante",
+                "name": "Rico",
+                "description": ""
+            },
+            {
+                "actor": "Diane Lane",
+                "name": "Judge Hershey",
+                "description": ""
+            },
+            {
+                "actor": "Rob Schneider",
+                "name": "Fergie",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "J\u00fcrgen Prochnow",
+                "name": "Judge Griffin",
+                "description": ""
+            },
+            {
+                "actor": "Max von Sydow",
+                "name": "Chief Justice Fargo",
+                "description": ""
+            },
+            {
+                "actor": "Joanna Miles",
+                "name": "Judge McGruder",
+                "description": ""
+            },
+            {
+                "actor": "Joan Chen",
+                "name": "Dr. Ilsa Hayden",
+                "description": ""
+            },
+            {
+                "actor": "Scott Wilson",
+                "name": "Pa Angel",
+                "description": ""
+            },
+            {
+                "actor": "Ewen Bremner",
+                "name": "Junior Angel",
+                "description": ""
+            },
+            {
+                "actor": "James Remar",
+                "name": "the Block Warlord",
+                "description": ""
+            },
+            {
+                "actor": "Angus MacInnes",
+                "name": "Judge Silver",
+                "description": ""
+            },
+            {
+                "actor": "Adrienne Barbeau",
+                "name": "voice of Hall of Justice Central Computer",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "opening text crawl narrator",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Balthazar Getty",
+                "name": "Cadet Nathan Olmeyer",
+                "description": ""
+            },
+            {
+                "actor": "Ian Dury",
+                "name": "Geiger",
+                "description": ""
+            },
+            {
+                "actor": "Mitchell Ryan",
+                "name": "Vartis Hammond",
+                "description": ""
+            },
+            {
+                "actor": "Bradley Lavelle",
+                "name": "Chief Judge Hunter",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Adamson",
+                "name": "Mean Machine Angel",
+                "description": ""
+            },
+            {
+                "actor": "Phil Smeeton",
+                "name": "Link Angel",
+                "description": ""
+            },
+            {
+                "actor": "Maurice Ro\u00ebves",
+                "name": "Warden Miller",
+                "description": ""
+            },
+            {
+                "actor": "Pat Starr",
+                "name": "Lily Hammond",
+                "description": ""
+            },
+            {
+                "actor": "Lex Daniel",
+                "name": "Judge Brisco",
+                "description": "rookie"
+            },
+            {
+                "actor": "Peter Marinker",
+                "name": "Judge Esposito",
+                "description": ""
+            },
+            {
+                "actor": "Mark Moraghan",
+                "name": "Judge Monroe",
+                "description": ""
+            },
+            {
+                "actor": "Louise Delamere",
+                "name": "Judge Meeker",
+                "description": ""
+            },
+            {
+                "actor": "Al Sapienza",
+                "name": "Judge Gellar",
+                "description": ""
+            }
+        ]
+    },
+    "Men in Black": {
+        "main": [
+            {
+                "actor": "Tommy Lee Jones",
+                "name": "Kevin Brown / Agent K",
+                "description": "J's grizzled and humorless mentor"
+            },
+            {
+                "actor": "Will Smith",
+                "name": "James Darrell Edwards III / Agent J",
+                "description": "former NYPD detective, newly recruited to the MIB"
+            },
+            {
+                "actor": "Linda Fiorentino",
+                "name": "Dr. Laurel Weaver / Agent L",
+                "description": "deputy medical examiner and later J's partner"
+            },
+            {
+                "actor": "Vincent D'Onofrio",
+                "name": "the Bug",
+                "description": "giant alien insect who comes to earth to kidnap the Galaxy and use it to destroy the Arquillians, conceling his identity underneath the skin of a farmer he killed"
+            },
+            {
+                "actor": "Rip Torn",
+                "name": "Chief Zed",
+                "description": "head of the MIB"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Tony Shalhoub",
+                "name": "Jack Jeebs",
+                "description": "alien arms dealer who seems to own a pawn shop"
+            },
+            {
+                "actor": "Siobhan Fallon Hogan",
+                "name": "Beatrice",
+                "description": "Edgar's abused wife"
+            },
+            {
+                "actor": "Jon Gries",
+                "name": "Nick",
+                "description": "van driver and American smuggler who unknowingly carries a literal alien among his posse"
+            },
+            {
+                "actor": "Richard Hamilton",
+                "name": "Agent D",
+                "description": "K's former partner who retires after deciding he is too old for the job"
+            },
+            {
+                "actor": "David Cross",
+                "name": "Newton",
+                "description": "morgue attendant"
+            },
+            {
+                "actor": "Tim Blaney",
+                "name": "voice of Frank the Pug",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Mike Nussbaum",
+                "name": "Gentle Rosenberg",
+                "description": "Arquillian jeweler who is the guardian of \"the Galaxy\""
+            },
+            {
+                "actor": "Sergio Calder\u00f3n",
+                "name": "Jose",
+                "description": ""
+            },
+            {
+                "actor": "John Alexander",
+                "name": "Mikey",
+                "description": "alien who pretends to be a Mexican being snuck across the border"
+            },
+            {
+                "actor": "Patrick Breen",
+                "name": "Mr. Redgick",
+                "description": ""
+            },
+            {
+                "actor": "Becky Ann Baker",
+                "name": "Mrs. Redgick",
+                "description": ""
+            },
+            {
+                "actor": "Carel Struycken",
+                "name": "Arquillian",
+                "description": ""
+            },
+            {
+                "actor": "Fredric Lehne",
+                "name": "Agent Janus",
+                "description": ""
+            },
+            {
+                "actor": "Kent Faulcon",
+                "name": "Jake Jensen",
+                "description": ""
+            },
+            {
+                "actor": "Sean Whalen",
+                "name": "Passport Officer",
+                "description": ""
+            },
+            {
+                "actor": "Mark Setrakian",
+                "name": "Rosenberg Alien",
+                "description": ""
+            },
+            {
+                "actor": "Brad Abrell",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Thom Fountain",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Carl J. Johnson",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Drew Massey",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            }
+        ]
+    },
+    "Spawn": {
+        "main": [
+            {
+                "actor": "Michael Jai White",
+                "name": "CIA Agent Al Simmons / Spawn",
+                "description": ""
+            },
+            {
+                "actor": "John Leguizamo",
+                "name": "Clown / Violator",
+                "description": ""
+            },
+            {
+                "actor": "Martin Sheen",
+                "name": "CIA Director Jason Wynn",
+                "description": ""
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Theresa Randle",
+                "name": "Wanda Blake",
+                "description": ""
+            },
+            {
+                "actor": "Nicol Williamson",
+                "name": "Nicholas Cogliostro",
+                "description": ""
+            },
+            {
+                "actor": "D. B. Sweeney",
+                "name": "CIA Agent Terry Fitzgerald",
+                "description": ""
+            },
+            {
+                "actor": "Michael Papajohn",
+                "name": "Glen",
+                "description": "Zack's father"
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "voice of Malebolgia",
+                "description": ""
+            },
+            {
+                "actor": "Todd McFarlane",
+                "name": "homeless man",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Melinda Clarke",
+                "name": "CIA Agent Jessica Priest",
+                "description": ""
+            },
+            {
+                "actor": "Miko Hughes",
+                "name": "Zack",
+                "description": ""
+            },
+            {
+                "actor": "Sydni Beaudoin",
+                "name": "Cyan Simmons-Fitzgerald",
                 "description": ""
             }
         ]

@@ -17,5 +17,22 @@ var tagline_map = {
     "Dick Tracy": [
         "Their turf. Their game. Their rules. They didn't count on HIS law...",
         "I'm on my way."
+    ],
+    "Darkman": [
+        "Who is Darkman? Find out this August.",
+        "In the darkest hour, there is a light that shines on every human being...but ONE!",
+        "They destroyed everything he had, everything he was. Now, crime has a new enemy and justice has a new face."
+    ],
+    "The Rocketeer": [
+        "Three years before the United States declares war, Cliff Secord leads America's first battle against the Nazis.",
+        "An Ordinary Man Forced to Become An Extraordinary Hero."
+    ],
+    "The Shadow": [
+        "The Shadow Knows!",
+        "Who knows what evil lurks in the hearts of men?"
+    ],
+    "The Phantom": [
+        "The ghost who walks. The man who cannot die.",
+        "Slam evil!"
     ]
 }
