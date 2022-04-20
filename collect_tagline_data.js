@@ -10,5 +10,6 @@ var question = 'What ' + category + ' film has the tagline "' + random_tagline +
 var answer = movie
 
 if (!movie.includes('(1') && !movie.includes('(2')) {
-  answer += ' (' + movie_map[movie]['year'] + ')'
+  var year = movie_map[movie]['release'].slice(-4)
+  answer += ' (' + year + ')'
 }

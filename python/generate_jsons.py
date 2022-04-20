@@ -9,7 +9,7 @@ def create_jsons():
     with open(r'actordata - movies.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
-            movie = row['name']
+            movie = row['movie']
             movie_dict[movie] = row
 
     with open(r'movies.json', 'w', encoding='utf-8') as jsonf:

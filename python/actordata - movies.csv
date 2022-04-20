@@ -1,109 +1,109 @@
-year,name,categories
-1981,Raiders of the Lost Ark,Swashbuckling/Pulp
-1984,Indiana Jones and the Temple of Doom,Swashbuckling/Pulp
-1989,Indiana Jones and the Last Crusade,Swashbuckling/Pulp
-1990,Dick Tracy,Swashbuckling/Pulp
-1990,Darkman,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
-1991,The Rocketeer,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
-1994,The Shadow,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
-1996,The Phantom,Swashbuckling/Pulp
-1998,The Mask of Zorro,Swashbuckling/Pulp
-2003,Pirates of the Caribbean: The Curse of the Black Pearl,Swashbuckling/Pulp
-2005,The Legend of Zorro,Swashbuckling/Pulp
-2006,Pirates of the Caribbean: Dead Man's Chest,Swashbuckling/Pulp
-2007,Pirates of the Caribbean: At World's End,Swashbuckling/Pulp
-2008,Indiana Jones and the Kingdom of the Crystal Skull,Swashbuckling/Pulp
-2011,Pirates of the Caribbean: On Stranger Tides,Swashbuckling/Pulp
-2013,The Lone Ranger,Swashbuckling/Pulp
-2017,Pirates of the Caribbean: Dead Men Tell No Tales,Swashbuckling/Pulp
-1993,Jurassic Park,Jurassic Park
-1997,The Lost World: Jurassic Park,Jurassic Park
-2001,Jurassic Park III,Jurassic Park
-2015,Jurassic World,Jurassic Park
-2018,Jurassic World: Fallen Kingdom,Jurassic Park
-1979,Alien,Alien/Predator
-1986,Aliens,Alien/Predator
-1987,Predator,Alien/Predator
-1990,Predator 2,Alien/Predator
-1992,Alien 3,Alien/Predator
-1997,Alien Resurrection,Alien/Predator
-2004,Alien vs. Predator,Alien/Predator
-2007,Aliens vs. Predator: Requiem,Alien/Predator
-2010,Predators,Alien/Predator
-2012,Prometheus,Alien/Predator
-2017,Alien: Covenant,Alien/Predator
-2018,The Predator,Alien/Predator
-1986,The Transformers: The Movie,Hasbro
-1995,Mighty Morphin Power Rangers: The Movie,"Fantasy/Sci-Fi,Hasbro"
-1997,Turbo: A Power Rangers Movie,"Fantasy/Sci-Fi,Hasbro"
-2007,Transformers,Hasbro
-2009,Transformers: Revenge of the Fallen,Hasbro
-2011,Transformers: Dark of the Moon,Hasbro
-2014,Transformers: Age of Extinction,Hasbro
-2017,Power Rangers,"Fantasy/Sci-Fi,Hasbro"
-2017,Transformers: The Last Knight,Hasbro
-2018,Bumblebee,Hasbro
-1968,Planet of the Apes (1968),Planet of the Apes
-1970,Beneath the Planet of the Apes,Planet of the Apes
-1971,Escape from the Planet of the Apes,Planet of the Apes
-1972,Conquest of the Planet of the Apes,Planet of the Apes
-1973,Battle for the Planet of the Apes,Planet of the Apes
-2001,Planet of the Apes (2001),Planet of the Apes
-2011,Rise of the Planet of the Apes,Planet of the Apes
-2014,Dawn of the Planet of the Apes,Planet of the Apes
-2017,War for the Planet of the Apes,Planet of the Apes
-1980,Mad Max,Dystopian/Time
-1982,The Road Warrior,Dystopian/Time
-1984,The Terminator,Dystopian/Time
-1985,Back to the Future,Dystopian/Time
-1985,Mad Max Beyond Thunderdome,Dystopian/Time
-1989,Back to the Future Part II,Dystopian/Time
-1990,Back to the Future Part III,Dystopian/Time
-1991,Terminator 2: Judgment Day,Dystopian/Time
-1995,Waterworld,Dystopian/Time
-1999,The Matrix,Dystopian/Time
-2003,The Matrix Reloaded,Dystopian/Time
-2003,Terminator 3: Rise of the Machines,Dystopian/Time
-2003,The Matrix Revolutions,Dystopian/Time
-2009,Terminator Salvation,Dystopian/Time
-2014,Snowpiercer,Dystopian/Time
-2015,Mad Max: Fury Road,Dystopian/Time
-2015,Terminator Genisys,Dystopian/Time
-2019,Terminator: Dark Fate,Dystopian/Time
-2021,The Matrix Resurrections,Dystopian/Time
-1980,Flash Gordon,Fantasy/Sci-Fi
-1982,Conan the Barbarian (1982),Fantasy/Sci-Fi
-1984,Conan the Destroyer,Fantasy/Sci-Fi
-1985,Red Sonja,Fantasy/Sci-Fi
-1986,Labyrinth,Fantasy/Sci-Fi
-1987,RoboCop (1987),Fantasy/Sci-Fi
-1988,Willow,Fantasy/Sci-Fi
-1990,RoboCop 2,Fantasy/Sci-Fi
-1993,RoboCop 3,Fantasy/Sci-Fi
-1994,Timecop,Fantasy/Sci-Fi
-1995,Tank Girl,Fantasy/Sci-Fi
-1995,Judge Dredd,Fantasy/Sci-Fi
-1997,Men in Black,Fantasy/Sci-Fi
-1997,Spawn,Fantasy/Sci-Fi
-2002,Men in Black II,Fantasy/Sci-Fi
-2003,The League of Extraordinary Gentlemen,Fantasy/Sci-Fi
-2004,Hellboy (2004),Fantasy/Sci-Fi
-2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy/Sci-Fi
-2008,The Chronicles of Narnia: Prince Caspian,Fantasy/Sci-Fi
-2008,Hellboy II: The Golden Army,Fantasy/Sci-Fi
-2009,Surrogates,Fantasy/Sci-Fi
-2010,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fantasy/Sci-Fi
-2011,Cowboys & Aliens,Fantasy/Sci-Fi
-2011,Conan the Barbarian (2011),Fantasy/Sci-Fi
-2012,John Carter,Fantasy/Sci-Fi
-2012,Men in Black 3,Fantasy/Sci-Fi
-2012,Dredd,Fantasy/Sci-Fi
-2013,Oblivion,Fantasy/Sci-Fi
-2013,R.I.P.D.,Fantasy/Sci-Fi
-2014,RoboCop (2014),Fantasy/Sci-Fi
-2014,Hercules,Fantasy/Sci-Fi
-2015,Strange Magic,Fantasy/Sci-Fi
-2018,Ready Player One,Fantasy/Sci-Fi
-2019,Hellboy (2019),Fantasy/Sci-Fi
-2019,Men in Black: International,Fantasy/Sci-Fi
-2020,Bloodshot,Fantasy/Sci-Fi
+release,movie,categories
+02/08/1968,Planet of the Apes (1968),Planet of the Apes
+05/26/1970,Beneath the Planet of the Apes,Planet of the Apes
+05/21/1971,Escape from the Planet of the Apes,Planet of the Apes
+06/30/1972,Conquest of the Planet of the Apes,Planet of the Apes
+06/15/1973,Battle for the Planet of the Apes,Planet of the Apes
+05/25/1979,Alien,Alien/Predator
+03/21/1980,Mad Max,Dystopian/Time
+12/05/1980,Flash Gordon,Fantasy/Sci-Fi
+06/12/1981,Raiders of the Lost Ark,Swashbuckling/Pulp
+05/14/1982,Conan the Barbarian (1982),Fantasy/Sci-Fi
+05/21/1982,The Road Warrior,Dystopian/Time
+05/23/1984,Indiana Jones and the Temple of Doom,Swashbuckling/Pulp
+06/29/1984,Conan the Destroyer,Fantasy/Sci-Fi
+10/26/1984,The Terminator,Dystopian/Time
+07/03/1985,Back to the Future,Dystopian/Time
+07/03/1985,Red Sonja,Fantasy/Sci-Fi
+07/10/1985,Mad Max Beyond Thunderdome,Dystopian/Time
+06/27/1986,Labyrinth,Fantasy/Sci-Fi
+07/18/1986,Aliens,Alien/Predator
+08/08/1986,The Transformers: The Movie,Hasbro
+06/12/1987,Predator,Alien/Predator
+07/17/1987,RoboCop (1987),Fantasy/Sci-Fi
+05/20/1988,Willow,Fantasy/Sci-Fi
+05/24/1989,Indiana Jones and the Last Crusade,Swashbuckling/Pulp
+11/22/1989,Back to the Future Part II,Dystopian/Time
+05/25/1990,Back to the Future Part III,Dystopian/Time
+06/15/1990,Dick Tracy,Swashbuckling/Pulp
+06/22/1990,RoboCop 2,Fantasy/Sci-Fi
+08/24/1990,Darkman,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
+11/21/1990,Predator 2,Alien/Predator
+06/21/1991,The Rocketeer,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
+07/03/1991,Terminator 2: Judgment Day,Dystopian/Time
+05/22/1992,Alien 3,Alien/Predator
+06/11/1993,Jurassic Park,Jurassic Park
+11/05/1993,RoboCop 3,Fantasy/Sci-Fi
+07/01/1994,The Shadow,"Fantasy/Sci-Fi,Swashbuckling/Pulp"
+09/16/1994,Timecop,Fantasy/Sci-Fi
+03/31/1995,Tank Girl,Fantasy/Sci-Fi
+06/30/1995,Mighty Morphin Power Rangers: The Movie,"Fantasy/Sci-Fi,Hasbro"
+06/30/1995,Judge Dredd,Fantasy/Sci-Fi
+07/28/1995,Waterworld,Dystopian/Time
+06/07/1996,The Phantom,Swashbuckling/Pulp
+03/28/1997,Turbo: A Power Rangers Movie,"Fantasy/Sci-Fi,Hasbro"
+05/23/1997,The Lost World: Jurassic Park,Jurassic Park
+07/02/1997,Men in Black,Fantasy/Sci-Fi
+08/01/1997,Spawn,Fantasy/Sci-Fi
+11/26/1997,Alien Resurrection,Alien/Predator
+07/17/1998,The Mask of Zorro,Swashbuckling/Pulp
+03/31/1999,The Matrix,Dystopian/Time
+07/18/2001,Jurassic Park III,Jurassic Park
+07/27/2001,Planet of the Apes (2001),Planet of the Apes
+07/03/2002,Men in Black II,Fantasy/Sci-Fi
+05/15/2003,The Matrix Reloaded,Dystopian/Time
+07/02/2003,Terminator 3: Rise of the Machines,Dystopian/Time
+07/09/2003,Pirates of the Caribbean: The Curse of the Black Pearl,Swashbuckling/Pulp
+07/11/2003,The League of Extraordinary Gentlemen,Fantasy/Sci-Fi
+11/05/2003,The Matrix Revolutions,Dystopian/Time
+04/02/2004,Hellboy (2004),Fantasy/Sci-Fi
+08/13/2004,Alien vs. Predator,Alien/Predator
+10/28/2005,The Legend of Zorro,Swashbuckling/Pulp
+12/09/2005,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",Fantasy/Sci-Fi
+07/07/2006,Pirates of the Caribbean: Dead Man's Chest,Swashbuckling/Pulp
+05/25/2007,Pirates of the Caribbean: At World's End,Swashbuckling/Pulp
+07/03/2007,Transformers,Hasbro
+12/25/2007,Aliens vs. Predator: Requiem,Alien/Predator
+05/17/2008,The Chronicles of Narnia: Prince Caspian,Fantasy/Sci-Fi
+05/22/2008,Indiana Jones and the Kingdom of the Crystal Skull,Swashbuckling/Pulp
+07/11/2008,Hellboy II: The Golden Army,Fantasy/Sci-Fi
+05/21/2009,Terminator Salvation,Dystopian/Time
+06/24/2009,Transformers: Revenge of the Fallen,Hasbro
+09/25/2009,Surrogates,Fantasy/Sci-Fi
+07/09/2010,Predators,Alien/Predator
+12/10/2010,The Chronicles of Narnia: The Voyage of the Dawn Treader,Fantasy/Sci-Fi
+05/20/2011,Pirates of the Caribbean: On Stranger Tides,Swashbuckling/Pulp
+06/29/2011,Transformers: Dark of the Moon,Hasbro
+07/29/2011,Cowboys & Aliens,Fantasy/Sci-Fi
+08/05/2011,Rise of the Planet of the Apes,Planet of the Apes
+08/19/2011,Conan the Barbarian (2011),Fantasy/Sci-Fi
+03/09/2012,John Carter,Fantasy/Sci-Fi
+05/25/2012,Men in Black 3,Fantasy/Sci-Fi
+06/08/2012,Prometheus,Alien/Predator
+09/21/2012,Dredd,Fantasy/Sci-Fi
+04/19/2013,Oblivion,Fantasy/Sci-Fi
+07/03/2013,The Lone Ranger,Swashbuckling/Pulp
+07/19/2013,R.I.P.D.,Fantasy/Sci-Fi
+02/12/2014,RoboCop (2014),Fantasy/Sci-Fi
+06/27/2014,Transformers: Age of Extinction,Hasbro
+06/27/2014,Snowpiercer,Dystopian/Time
+07/11/2014,Dawn of the Planet of the Apes,Planet of the Apes
+07/25/2014,Hercules,Fantasy/Sci-Fi
+01/23/2015,Strange Magic,Fantasy/Sci-Fi
+05/15/2015,Mad Max: Fury Road,Dystopian/Time
+06/12/2015,Jurassic World,Jurassic Park
+07/01/2015,Terminator Genisys,Dystopian/Time
+03/24/2017,Power Rangers,"Fantasy/Sci-Fi,Hasbro"
+05/19/2017,Alien: Covenant,Alien/Predator
+05/26/2017,Pirates of the Caribbean: Dead Men Tell No Tales,Swashbuckling/Pulp
+06/21/2017,Transformers: The Last Knight,Hasbro
+07/14/2017,War for the Planet of the Apes,Planet of the Apes
+03/29/2018,Ready Player One,Fantasy/Sci-Fi
+06/22/2018,Jurassic World: Fallen Kingdom,Jurassic Park
+09/14/2018,The Predator,Alien/Predator
+12/21/2018,Bumblebee,Hasbro
+04/12/2019,Hellboy (2019),Fantasy/Sci-Fi
+06/14/2019,Men in Black: International,Fantasy/Sci-Fi
+11/01/2019,Terminator: Dark Fate,Dystopian/Time
+03/13/2020,Bloodshot,Fantasy/Sci-Fi
+12/22/2021,The Matrix Resurrections,Dystopian/Time
