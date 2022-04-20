@@ -5,6 +5,18 @@
         "species": "Togruta",
         "actor": "Ashley Eckstein (voice)"
     },
+    "Benthic \"Two Tubes\"": {
+        "name": "Benthic \"Two Tubes\"",
+        "homeworld": "Yar Togna",
+        "species": "Tognath",
+        "actor": "Aidan Cook"
+    },
+    "Bistan": {
+        "name": "Bistan",
+        "homeworld": "Iakar",
+        "species": "Iakaru",
+        "actor": "Nick Kellington"
+    },
     "C-3PO": {
         "name": "C-3PO",
         "homeworld": "Tatooine",
@@ -71,6 +83,12 @@
         "species": "Human (Alderaanian)",
         "actor": "Carrie Fisher, Aidan Barton (III), Ingvild Deila (RO)"
     },
+    "Lobot": {
+        "name": "Lobot",
+        "homeworld": "Bespin",
+        "species": "Human",
+        "actor": "John Hollis"
+    },
     "Luke Skywalker": {
         "name": "Luke Skywalker",
         "homeworld": "Tatooine",
@@ -118,6 +136,18 @@
         "homeworld": "Naboo",
         "species": "Gungan (Otolla)",
         "actor": "Steven Speirs (voice)"
+    },
+    "Saw Gerrera": {
+        "name": "Saw Gerrera",
+        "homeworld": "Onderon",
+        "species": "Human (Onderonian)",
+        "actor": "Forest Whitaker"
+    },
+    "Stass Allie": {
+        "name": "Stass Allie",
+        "homeworld": "Tholoth",
+        "species": "Tholothian",
+        "actor": "Lily Nyamwasa"
     },
     "Teedo": {
         "name": "Teedo",
