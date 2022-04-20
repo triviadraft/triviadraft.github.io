@@ -4,8 +4,6 @@ function randomItem(items) {
 
 function randomItems(n, items) {
     var shuffled = items.sort(() => 0.5 - Math.random());
-
-    // Get sub-array of first n elements after shuffled
     return shuffled.slice(0, n);
 }
 

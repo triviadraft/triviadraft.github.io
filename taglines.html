@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <title>MTS Question Generator</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+    </style>
 </head>
 
 <center><h1>IG Taglines</h1></center>
@@ -53,27 +65,27 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><p id="question"></p></td>
+        <td><p id="question1"></p></td>
         <td><p id="answer"></p></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><p id="question"></p></td>
+        <td><p id="question2"></p></td>
         <td><p id="answer"></p></td>
     </tr>
     <tr>
         <td>3</td>
-        <td><p id="question"></p></td>
+        <td><p id="question3"></p></td>
         <td><p id="answer"></p></td>
     </tr>
     <tr>
         <td>4</td>
-        <td><p id="question"></p></td>
+        <td><p id="question4"></p></td>
         <td><p id="answer"></p></td>
     </tr>
     <tr>
         <td>5</td>
-        <td><p id="question"></p></td>
+        <td><p id="question5"></p></td>
         <td><p id="answer"></p></td>
     </tr>
 </table>
@@ -86,5 +98,10 @@
 <script src="data_taglines.js"></script>
 <script src="collect_tagline_data.js"></script>
 <script type="text/javascript" charset="utf-8">
-    document.getElementById("question").innerHTML = question;
+    document.getElementById("question").innerHTML = question
+    document.getElementById("question1").innerHTML = questions[0]
+    document.getElementById("question2").innerHTML = questions[1]
+    document.getElementById("question3").innerHTML = questions[2]
+    document.getElementById("question4").innerHTML = questions[3]
+    document.getElementById("question5").innerHTML = questions[4]
 </script>
