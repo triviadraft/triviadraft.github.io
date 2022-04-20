@@ -22,13 +22,22 @@ function reset() {
     questions = [];
     answers = [];
     for (const character of characters) {
-        var question = 'Who portrays ' + character + '?';
-        var answer = sw_character_map[character]['actor'];
+        question_type = randomItem(question_types);
+
+        if (question_type == 'actor') {
+            question = 'Who portrays ' + character + '?';
+            answer = sw_character_map[character]['actor'];
+        } else if (question_type == 'homeworld') {
+            question = 'What is the homeworld of ' + character + '?';
+            answer = sw_character_map[character]['homeworld'];
+        } else {
+            question = character + 'is what species?';
+            answer = sw_character_map[character]['species'];
+        }
 
         questions.push(question);
         answers.push(answer);
     }
-
 
     document.getElementById("question1").innerHTML = questions[0];
     document.getElementById("question2").innerHTML = questions[1];
@@ -48,8 +57,19 @@ var characters = randomItems(5, Object.keys(sw_character_map));
 questions = [];
 answers = [];
 for (const character of characters) {
-    var question = 'Who portrays ' + character + '?';
-    var answer = sw_character_map[character]['actor'];
+    var question_types = ['actor','homeworld','species'];
+    var question_type = randomItem(question_types);
+
+    if (question_type == 'actor') {
+        var question = 'Who portrays ' + character + '?';
+        var answer = sw_character_map[character]['actor'];
+    } else if (question_type == 'homeworld') {
+        var question = 'What is the homeworld of ' + character + '?';
+        var answer = sw_character_map[character]['homeworld'];
+    } else {
+        var question = character + 'is what species?';
+        var answer = sw_character_map[character]['species'];
+    }
 
     questions.push(question);
     answers.push(answer);
