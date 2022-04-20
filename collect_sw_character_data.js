@@ -17,24 +17,18 @@ function displayAnswers() {
 }
 
 function reset() { 
-    movies = randomItems(5, Object.keys(tagline_map));
+    characters = randomItems(5, Object.keys(sw_character_map));
 
     questions = [];
     answers = [];
-    for (const movie of movies) {
-        var category = randomItem(movie_map[movie]['categories'].split(","));
-        var random_tagline = randomItem(tagline_map[movie]);
-        var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
-        var answer = movie;
-
-        if (!movie.includes('(1') && !movie.includes('(2')) {
-            var year = movie_map[movie]['release'].slice(-4);
-            answer += ' (' + year + ')';
-        }
+    for (const character of characters) {
+        var question = 'Who portrays ' + character + '?';
+        var answer = sw_character_map[character]['actor'];
 
         questions.push(question);
         answers.push(answer);
     }
+
 
     document.getElementById("question1").innerHTML = questions[0];
     document.getElementById("question2").innerHTML = questions[1];
@@ -54,7 +48,7 @@ var characters = randomItems(5, Object.keys(sw_character_map));
 questions = [];
 answers = [];
 for (const character of characters) {
-    var question = 'Who portrays ' + character + '?'
+    var question = 'Who portrays ' + character + '?';
     var answer = sw_character_map[character]['actor'];
 
     questions.push(question);
