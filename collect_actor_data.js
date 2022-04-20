@@ -1,7 +1,18 @@
-var movie = random_item(Object.keys(actor_map));
-var category = random_item(movie_map[movie]['categories'].split(","));
+function randomItem(items) {
+  return items[Math.floor(Math.random()*items.length)];   
+}
+
+function randomItems(n, items) {
+    var shuffled = items.sort(() => 0.5 - Math.random());
+
+    // Get sub-array of first n elements after shuffled
+    return shuffled.slice(0, n);
+}
+
+var movie = randomItem(Object.keys(actor_map));
+var category = randomItem(movie_map[movie]['categories'].split(","));
 var actor_list = actor_map[movie]['supporting']
-var random_list = random_items(3, actor_list)
+var random_list = randomItems(3, actor_list)
 
 var actor1 = random_list[0]['actor']
 var actor2 = random_list[1]['actor']

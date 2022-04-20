@@ -1,23 +1,11 @@
-function random_item(items) {
-  return items[Math.floor(Math.random()*items.length)];   
-}
-
-function random_items(n, items) {
-    var shuffled = items.sort(() => 0.5 - Math.random());
-
-    // Get sub-array of first n elements after shuffled
-    return shuffled.slice(0, n);
-}
-
-
 function displayAnswer() { 
 	document.getElementById('answer').innerHTML = answer
 }
 
 function resetTaglines() { 
-	var movie = random_item(Object.keys(tagline_map));
-    var category = random_item(movie_map[movie]['categories'].split(","))
-    var random_tagline = random_item(tagline_map[movie])
+	var movie = randomItem(Object.keys(tagline_map));
+    var category = randomItem(movie_map[movie]['categories'].split(","))
+    var random_tagline = randomItem(tagline_map[movie])
 
     var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?'
     var answer = movie + '(' + movie_map[movie]['year'] + ')'	
@@ -34,10 +22,10 @@ function displayActorsAnswer() {
 }
 
 function resetActors() { 
-	var movie = random_item(Object.keys(actor_map));
-	var category = random_item(movie_map[movie]['categories'].split(","));
+	var movie = randomItem(Object.keys(actor_map));
+	var category = randomItem(movie_map[movie]['categories'].split(","));
 	var actor_list = actor_map[movie]['supporting']
-    var random_list = random_items(3, actor_list)
+    var random_list = randomItems(3, actor_list)
 
     var actor1 = random_list[0]['actor']
     var actor2 = random_list[1]['actor']

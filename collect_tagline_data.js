@@ -1,3 +1,7 @@
+function randomItem(items) {
+  return items[Math.floor(Math.random()*items.length)];   
+}
+
 var movie = random_item(Object.keys(tagline_map));
 var category = random_item(movie_map[movie]['categories'].split(","))
 var random_tagline = random_item(tagline_map[movie])
