@@ -7,8 +7,8 @@ function resetTaglines() {
     var category = randomItem(movie_map[movie]['categories'].split(","))
     var random_tagline = randomItem(tagline_map[movie])
 
-    var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?'
-    var answer = movie + ' (' + movie_map[movie]['year'] + ')'	
+    question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?'
+    answer = movie + ' (' + movie_map[movie]['year'] + ')'	
 	document.getElementById('question').innerHTML = question
 	document.getElementById('answer').innerHTML = ''
 }
