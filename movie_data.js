@@ -538,5 +538,65 @@ var movie_map = {
         "release": "12/22/2021",
         "movie": "The Matrix Resurrections",
         "categories": "Dystopian/Time"
+    },
+    "Star Wars": {
+        "release": "05/25/1977",
+        "movie": "Star Wars",
+        "categories": "Star Wars"
+    },
+    "The Empire Strikes Back": {
+        "release": "05/21/1980",
+        "movie": "The Empire Strikes Back",
+        "categories": "Star Wars"
+    },
+    "Return of the Jedi": {
+        "release": "05/25/1983",
+        "movie": "Return of the Jedi",
+        "categories": "Star Wars"
+    },
+    "Star Wars: Episode I \u2013 The Phantom Menace": {
+        "release": "05/19/1999",
+        "movie": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "categories": "Star Wars"
+    },
+    "Star Wars: Episode II \u2013 Attack of the Clones": {
+        "release": "05/16/2002",
+        "movie": "Star Wars: Episode II \u2013 Attack of the Clones",
+        "categories": "Star Wars"
+    },
+    "Star Wars: Episode III \u2013 Revenge of the Sith": {
+        "release": "05/19/2005",
+        "movie": "Star Wars: Episode III \u2013 Revenge of the Sith",
+        "categories": "Star Wars"
+    },
+    "Star Wars: The Clone Wars": {
+        "release": "08/15/2008",
+        "movie": "Star Wars: The Clone Wars",
+        "categories": "Star Wars"
+    },
+    "Star Wars: The Force Awakens": {
+        "release": "12/18/2015",
+        "movie": "Star Wars: The Force Awakens",
+        "categories": "Star Wars"
+    },
+    "Rogue One: A Star Wars Story": {
+        "release": "12/16/2016",
+        "movie": "Rogue One: A Star Wars Story",
+        "categories": "Star Wars"
+    },
+    "Star Wars: The Last Jedi": {
+        "release": "12/15/2017",
+        "movie": "Star Wars: The Last Jedi",
+        "categories": "Star Wars"
+    },
+    "Solo: A Star Wars Story": {
+        "release": "05/25/2018",
+        "movie": "Solo: A Star Wars Story",
+        "categories": "Star Wars"
+    },
+    "Star Wars: The Rise of Skywalker": {
+        "release": "12/20/2019",
+        "movie": "Star Wars: The Rise of Skywalker",
+        "categories": "Star Wars"
     }
 }

@@ -670,5 +670,69 @@ var tagline_map = {
         "The choice is yours.",
         "Return to the source.",
         "Re-enter."
+    ],
+    "Star Wars": [
+        "It's Back! The Force will be with you for three weeks only.",
+        "May the Force be with you. One year old today.",
+        "The force will be with you",
+        "Somewhere, in space, this could all be happening right now.",
+        "The original is back.",
+        "A long time ago in a galaxy far, far away...",
+        "Coming to your galaxy this summer."
+    ],
+    "The Empire Strikes Back": [
+        "The Adventure Continues...",
+        "The Star Wars saga continues",
+        "The battle continues..."
+    ],
+    "Return of the Jedi": [
+        "Coming May 25, 1983 to your galaxy.",
+        "The Empire Falls....",
+        "Return To A Galaxy Far, Far Away",
+        "The Saga Continues."
+    ],
+    "Star Wars: Episode I \u2013 The Phantom Menace": [
+        "At last we will reveal ourselves to the Jedi.",
+        "One Race. One Adventure. The One to Own.",
+        "Every generation has a legend. Every journey has a first step. Every saga has a beginning.",
+        "The saga begins Spring 1999",
+        "The Saga Begins May 19th",
+        "The Force Returns May 19th",
+        "One truth, one hate."
+    ],
+    "Star Wars: Episode II \u2013 Attack of the Clones": [
+        "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
+        "The Saga Continues.",
+        "The Attack Begins May 16th",
+        "The Saga Continues May 16th",
+        "The Clones Are Coming",
+        "Size matters not. Except on an IMAX Screen."
+    ],
+    "Star Wars: Episode III \u2013 Revenge of the Sith": [
+        "The saga is complete."
+    ],
+    "Star Wars: The Force Awakens": [
+        "Every generation has a story.",
+        "Coming to your galaxy this winter.",
+        "The force is calling to you. Just let it in.",
+        "A long time ago in a galaxy far, far away..."
+    ],
+    "Rogue One: A Star Wars Story": [
+        "A rebellion built on hope.",
+        "Save the Rebellion. Save the dream."
+    ],
+    "Star Wars: The Last Jedi": [
+        "Let the Past Die",
+        "Always in Motion is the Future",
+        "Light Years Ahead. Discover Dolby Cinema."
+    ],
+    "Solo: A Star Wars Story": [
+        "Never tell him the odds."
+    ],
+    "Star Wars: The Rise of Skywalker": [
+        "Every Generation Has A Legend.",
+        "The Saga Concludes.",
+        "No one's ever really gone.",
+        "The saga comes to an end. the story lives forever"
     ]
 }
