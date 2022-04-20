@@ -13,7 +13,7 @@
         td, th {
             border: 1px solid #dddddd;
             text-align: left;
-            padding: 8px;
+            padding: 5px;
         }
 
         td:nth-child(1) {
@@ -32,14 +32,6 @@
 </head>
 
 <center><h1>IG Taglines</h1></center>
-
-
-<button onclick="displayAnswers()">
-    Display Answers
-</button>
-
-<strong><p id="answer"></p></strong>
-<br>
 
 <table>
     <tr>
@@ -74,6 +66,10 @@
     </tr>
 </table>
 <br>
+
+<button onclick="displayAnswers(this)">
+    Display Answers
+</button>
 
 <button onclick="reset()">
     Reset

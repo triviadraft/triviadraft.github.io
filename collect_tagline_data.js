@@ -11,12 +11,13 @@ function displayAnswer(n) {
     document.getElementById('answer' + n).innerHTML = answers[n - 1];
 }
 
-function displayAnswers() {
+function displayAnswers(x) {
     document.getElementById('answer1').innerHTML = answers[0];
     document.getElementById('answer2').innerHTML = answers[1];
     document.getElementById('answer3').innerHTML = answers[2];
     document.getElementById('answer4').innerHTML = answers[3];
     document.getElementById('answer5').innerHTML = answers[4];
+    x.style.display = 'none';
 }
 
 function reset() { 
