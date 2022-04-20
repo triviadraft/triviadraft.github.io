@@ -17,6 +17,12 @@ var sw_character_map = {
         "species": "Human (clone)",
         "actor": "Temuera Morrison, Dee Bradley Baker (voice)"
     },
+    "Cornelius Evazan": {
+        "name": "Cornelius Evazan",
+        "homeworld": "Alsakan",
+        "species": "Human",
+        "actor": "Alfie Curtis, Michael Smiley (RO)"
+    },
     "Darth Sidious / Sheev Palpatine": {
         "name": "Darth Sidious / Sheev Palpatine",
         "homeworld": "Naboo",
@@ -94,6 +100,18 @@ var sw_character_map = {
         "homeworld": "Yavin 4",
         "species": "Human",
         "actor": "Oscar Isaac"
+    },
+    "Ponda Baba": {
+        "name": "Ponda Baba",
+        "homeworld": "Ando",
+        "species": "Aqualish",
+        "actor": "Tommy Ilsley"
+    },
+    "Proxima": {
+        "name": "Proxima",
+        "homeworld": "Corellia",
+        "species": "Grindalid",
+        "actor": "Linda Hunt (voice)"
     },
     "Roos Tarpals": {
         "name": "Roos Tarpals",
