@@ -119,6 +119,12 @@
         "species": "BB-series astromech droid",
         "actor": "Dave Chapman, Brian Herring"
     },
+    "Beaumont Kin": {
+        "name": "Beaumont Kin",
+        "homeworld": "Lerct",
+        "species": "Human",
+        "actor": "Dominic Monaghan"
+    },
     "Ben Quadinaros": {
         "name": "Ben Quadinaros",
         "homeworld": "Tund",
@@ -165,7 +171,7 @@
         "name": "Boba Fett",
         "homeworld": "Kamino",
         "species": "Human (clone)",
-        "actor": "Mark Austin (IV - special), Jeremy Bulloch (V, VI), John Morton (V), Jason Wingreen (voice in V), Temuera Morrison (voice in V - rerelease), Don Bies (VI - special), Daniel Logan"
+        "actor": "Mark Austin (IV - special), Jeremy Bulloch (V, VI), John Morton (V), Jason Wingreen (voice in V), Temuera Morrison (voice in V - rerelease), Don Bies (VI - special), Daniel Logan (II)"
     },
     "Bodhi Rook": {
         "name": "Bodhi Rook",
@@ -203,11 +209,23 @@
         "species": "3PO-series protocol droid",
         "actor": "Anthony Daniels"
     },
+    "C'ai Threnalli": {
+        "name": "C'ai Threnalli",
+        "homeworld": "Abednedo",
+        "species": "Abednedo",
+        "actor": "Paul Kasey"
+    },
     "Cassian Jeron Andor": {
         "name": "Cassian Jeron Andor",
         "homeworld": "Fest",
         "species": "Human",
         "actor": "Diego Luna"
+    },
+    "Cassio Tagge": {
+        "name": "Cassio Tagge",
+        "homeworld": "Tepasi",
+        "species": "Human",
+        "actor": "Don Henderson"
     },
     "CC-2224 / Cody": {
         "name": "CC-2224 / Cody",
@@ -346,6 +364,12 @@
         "homeworld": "Vulpter",
         "species": "Vulptereen",
         "actor": ""
+    },
+    "Eeth Koth": {
+        "name": "Eeth Koth",
+        "homeworld": "Iridonia",
+        "species": "Zabrak (Iridonian)",
+        "actor": "Hassani Shapi"
     },
     "Ello Asty": {
         "name": "Ello Asty",
@@ -527,6 +551,12 @@
         "species": "3PO-series protocol droid",
         "actor": "Chris Parsons"
     },
+    "Kaljach Sonmi": {
+        "name": "Kaljach Sonmi",
+        "homeworld": "",
+        "species": "Heptooinian",
+        "actor": ""
+    },
     "Kaydel Ko Connix": {
         "name": "Kaydel Ko Connix",
         "homeworld": "Dulathia",
@@ -587,6 +617,12 @@
         "species": "Human",
         "actor": "John Hollis"
     },
+    "Logray": {
+        "name": "Logray",
+        "homeworld": "Endor",
+        "species": "Ewok",
+        "actor": "Mike Edmonds"
+    },
     "Lor San Tekka": {
         "name": "Lor San Tekka",
         "homeworld": "",
@@ -640,6 +676,12 @@
         "homeworld": "Champala",
         "species": "Chagrian",
         "actor": "Jerome Blake (I, III), David Bowers (II, III)"
+    },
+    "Master Codebreaker": {
+        "name": "Master Codebreaker",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Justin Theroux"
     },
     "Maul / Darth Maul": {
         "name": "Maul / Darth Maul",
@@ -736,6 +778,18 @@
         "homeworld": "",
         "species": "Human",
         "actor": "John Williams"
+    },
+    "Omi": {
+        "name": "Omi",
+        "homeworld": "Vodran",
+        "species": "Dianoga",
+        "actor": ""
+    },
+    "Oola": {
+        "name": "Oola",
+        "homeworld": "Ryloth",
+        "species": "Twi'lek",
+        "actor": "Femi Taylor"
     },
     "Oppo Rancisis": {
         "name": "Oppo Rancisis",
@@ -1067,6 +1121,12 @@
         "species": "Human",
         "actor": "Temirlan Blaev"
     },
+    "Temmin \"Snap\" Wexley": {
+        "name": "Temmin \"Snap\" Wexley",
+        "homeworld": "Akiva",
+        "species": "Human",
+        "actor": "Greg Grunberg"
+    },
     "Thanisson": {
         "name": "Thanisson",
         "homeworld": "",
@@ -1091,6 +1151,12 @@
         "species": "",
         "actor": "Tom Rodgers"
     },
+    "Ubbla Mollbro": {
+        "name": "Ubbla Mollbro",
+        "homeworld": "",
+        "species": "Xi'Dec",
+        "actor": ""
+    },
     "Ushos O. Statura": {
         "name": "Ushos O. Statura",
         "homeworld": "Garel",
@@ -1103,17 +1169,41 @@
         "species": "Human",
         "actor": "Thandiwe Newton"
     },
+    "Vanden Willard": {
+        "name": "Vanden Willard",
+        "homeworld": "Alderaan",
+        "species": "Human (Alderaanian)",
+        "actor": "Eddie Byrne, Michael Bell (voice)"
+    },
+    "Wald": {
+        "name": "Wald",
+        "homeworld": "Tatooine",
+        "species": "Rodian",
+        "actor": "Warwick Davis"
+    },
     "Watto": {
         "name": "Watto",
         "homeworld": "Toydaria",
         "species": "Toydarian",
         "actor": "Andrew Secombe"
     },
+    "Weazel": {
+        "name": "Weazel",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "actor": "Warwick Davis"
+    },
     "Wedge Antilles": {
         "name": "Wedge Antilles",
         "homeworld": "Corellia",
         "species": "Human (Corellian)",
         "actor": "Denis Lawson, David Ankrum (voice in IV, RO)"
+    },
+    "Weeteef Cyu-Bee": {
+        "name": "Weeteef Cyu-Bee",
+        "homeworld": "Tal Pi",
+        "species": "Talpini",
+        "actor": "Warwick Davis"
     },
     "Whorm Loathsom": {
         "name": "Whorm Loathsom",
@@ -1131,7 +1221,19 @@
         "name": "Wilhuff Tarkin",
         "homeworld": "Eriadu",
         "species": "Human",
-        "actor": "Peter Cushing, Wayne Pygram (III), Guy Henry (RO)"
+        "actor": "Peter Cushing (IV), Wayne Pygram (III), Guy Henry (RO)"
+    },
+    "Wollivan": {
+        "name": "Wollivan",
+        "homeworld": "Rina Major",
+        "species": "Blarina",
+        "actor": "Warwick Davis"
+    },
+    "Wuher": {
+        "name": "Wuher",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "actor": "Ted Burnett"
     },
     "Yaddle": {
         "name": "Yaddle",
@@ -1162,6 +1264,12 @@
         "homeworld": "",
         "species": "Human",
         "actor": "Jett Lucas"
+    },
+    "Zev Senesca": {
+        "name": "Zev Senesca",
+        "homeworld": "Kestic Station",
+        "species": "Human",
+        "actor": "Christopher Malcolm"
     },
     "Ziro Desilijic Tiure": {
         "name": "Ziro Desilijic Tiure",

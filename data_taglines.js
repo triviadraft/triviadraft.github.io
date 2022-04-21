@@ -470,7 +470,7 @@ var tagline_map = {
     ],
     "The Crow: City of Angels": [
         "There will be another.",
-        "Belive in the power of another.",
+        "Believe in the power of another.",
         "In a world where the forces of darkness rule, justice is about to take flight.",
         "The spectacular sequel to \"The Crow\"!",
         "It's another time. It's another world. And another has been chosen."

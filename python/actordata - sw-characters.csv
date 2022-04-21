@@ -19,6 +19,7 @@ Barriss Offee,Mirial,Mirialan,Nalini Krishan
 Baze Malbus,Jedha,Human,Jiang Wen
 Bazine Netal,Chaaktil,Human,Anna Brewster
 BB-8,Hosnian Prime,BB-series astromech droid,"Dave Chapman, Brian Herring"
+Beaumont Kin,Lerct,Human,Dominic Monaghan
 Ben Quadinaros,Tund,Toong,
 Ben Solo / Kylo Ren,Chandrila,Human (Chandrilan),Adam Driver
 "Benthic ""Two Tubes""",Yar Togna,Tognath,Aidan Cook
@@ -26,14 +27,16 @@ Beru Whitesun Lars,Tatooine,Human,"Shelagh Fraser (IV), Bonnie Maree Piesse (II,
 Bib Fortuna,Ryloth,Twi'lek,"Michael Carter (VI), Erik Bauersfeld (voice in VI), Matthew Wood (I)"
 Biggs Darklighter,Tatooine,Human,Garrick Hagon
 Bistan,Iakar,Iakaru,Nick Kellington
-Boba Fett,Kamino,Human (clone),"Mark Austin (IV - special), Jeremy Bulloch (V, VI), John Morton (V), Jason Wingreen (voice in V), Temuera Morrison (voice in V - rerelease), Don Bies (VI - special), Daniel Logan"
+Boba Fett,Kamino,Human (clone),"Mark Austin (IV - special), Jeremy Bulloch (V, VI), John Morton (V), Jason Wingreen (voice in V), Temuera Morrison (voice in V - rerelease), Don Bies (VI - special), Daniel Logan (II)"
 Bodhi Rook,Jedha,Human,Riz Ahmed
 Boga,Utapau,Varactyl,
 Boles Roor,Sneeve,Sneevel,
 Bollie Prindel,,Urodel,Ian Whyte
 Breha Organa,Alderaan,Human (Alderaanian),Rebecca Jackson Mendoza
 C-3PO,Tatooine,3PO-series protocol droid,Anthony Daniels
+C'ai Threnalli,Abednedo,Abednedo,Paul Kasey
 Cassian Jeron Andor,Fest,Human,Diego Luna
+Cassio Tagge,Tepasi,Human,Don Henderson
 CC-2224 / Cody,Kamino,Human (clone),"Temuera Morrison (III), Dee Bradley Baker (voice in TCW)"
 CC-5052 / Bly,Kamino,Human (clone),
 Chewbacca,Kashyyyk,Wookiee,"Peter Mayhew, Joonas Suotamo"
@@ -57,6 +60,7 @@ Dooku / Darth Tyranus,Serenno,Human (Serennian),Christopher Lee
 Dormé,Naboo,Human (Naboo),Rose Byrne
 Dryden Vos,,,Paul Bettany
 Dud Bolt,Vulpter,Vulptereen,
+Eeth Koth,Iridonia,Zabrak (Iridonian),Hassani Shapi
 Ello Asty,Abednedo,Abednedo,"Paul Kasey, Matthew Wood (voice)"
 Enfys Nest,,Human,Erin Kellyman
 Enric Pryde,Alsakan,Human,Richard E. Grant
@@ -87,6 +91,7 @@ Joclad Danva,,Human,Kyle Rowling
 Jyn Erso,Vallt,Human,"Felicity Jones, Beau Gadsdon, Dolly Gadsdon"
 K-2SO,Vulpter,KX-series security droid,Alan Tudyk
 K-3PO,,3PO-series protocol droid,Chris Parsons
+Kaljach Sonmi,,Heptooinian,
 Kaydel Ko Connix,Dulathia,Human,Billie Lourd
 Ki-Adi-Mundi,Cerea,Cerean,Silas Carson
 Kit Fisto,Glee Anselm,Nautolan,"Zachariah Jensen (II), Daniel Zizmor (II), Ben Cooke (III)"
@@ -97,6 +102,7 @@ L3-37,,,Phoebe Waller-Bridge
 Landonis Balthazar Calrissian,Socorro,Human,"Billy Dee Williams, Donald Glover (S)"
 Leia Skywalker Organa Solo,Alderaan,Human (Alderaanian),"Carrie Fisher, Aidan Barton (III), Ingvild Deila (RO)"
 Lobot,Bespin,Human,John Hollis
+Logray,Endor,Ewok,Mike Edmonds
 Lor San Tekka,,Human,Max von Sydow
 Lorth Needa,Coruscant,Human,Michael Culver
 Lott Dod,Neimoidia,Neimoidian,"Silas Carson, Toby Longworth (voice)"
@@ -106,6 +112,7 @@ Lyra Erso,Aria Prime,Human,Valene Kane
 Mace Windu,Haruun Kal,Human,Samuel L. Jackson
 Malakili,Corellia,Human (Corellian),"Paul Brooke, Ernie Fosselius (voice)"
 Mas Amedda,Champala,Chagrian,"Jerome Blake (I, III), David Bowers (II, III)"
+Master Codebreaker,,Human,Justin Theroux
 Maul / Darth Maul,Dathomir,Zabrak (Dathomirian),"Ray Park, Peter Serafinowicz (voice in I), Sam Witwer (voice in S)"
 Max Rebo,Orto,Ortolan,
 Maximilian Veers,Denon,Human,Julian Glover
@@ -122,6 +129,8 @@ Nute Gunray,Neimoidia,Neimoidian,Silas Carson
 Obi-Wan Kenobi,Stewjon,Human,"Alec Guinness, Ewan McGregor, James Arnold Taylor (voice in TCW)"
 Ody Mandrell,Tatooine,Er'Kit,Matthew Wood (voice)
 Oma Tres,,Human,John Williams
+Omi,Vodran,Dianoga,
+Oola,Ryloth,Twi'lek,Femi Taylor
 Oppo Rancisis,Thisspias,Thisspiasian,
 Orson Callan Krennic,Lexrul,Human,Ben Mendelsohn
 Owen Lars,Tatooine,Human,"Phil Brown (IV), Joel Edgerton (II, III)"
@@ -177,21 +186,30 @@ Taun We,Kamino,Kaminoan,Rena Owen (voice)
 Teedo,Jakku,Teedo,"Kiran Shah, David Acord (voice)"
 Teemto Pagalies,Moonus Mandel,Veknoid,
 Temiri Blagg,Cantonica,Human,Temirlan Blaev
+"Temmin ""Snap"" Wexley",Akiva,Human,Greg Grunberg
 Thanisson,,Human,Thomas Brodie-Sangster
 Tion Medon,Utapau,Pau'an,Bruce Spence
 Tobias Beckett,Glee Anselm,Human,Woody Harrelson
 Trudgen,,,Tom Rodgers
+Ubbla Mollbro,,Xi'Dec,
 Ushos O. Statura,Garel,Human,Ken Leung
 Val,Solarine,Human,Thandiwe Newton
+Vanden Willard,Alderaan,Human (Alderaanian),"Eddie Byrne, Michael Bell (voice)"
+Wald,Tatooine,Rodian,Warwick Davis
 Watto,Toydaria,Toydarian,Andrew Secombe
+Weazel,Tatooine,Human,Warwick Davis
 Wedge Antilles,Corellia,Human (Corellian),"Denis Lawson, David Ankrum (voice in IV, RO)"
+Weeteef Cyu-Bee,Tal Pi,Talpini,Warwick Davis
 Whorm Loathsom,Kerkoidia,Kerkoiden,Corey Burton (voice)
 Wicket Wystri Warrick,Endor,Ewok,Warwick Davis
-Wilhuff Tarkin,Eriadu,Human,"Peter Cushing, Wayne Pygram (III), Guy Henry (RO)"
+Wilhuff Tarkin,Eriadu,Human,"Peter Cushing (IV), Wayne Pygram (III), Guy Henry (RO)"
+Wollivan,Rina Major,Blarina,Warwick Davis
+Wuher,Tatooine,Human,Ted Burnett
 Yaddle,,,Phil Eason
 Yarael Poof,Quermia,Quermian,Michelle Taylor
 Yoda,,,"Frank Oz, Tom Kane (voice in TCW)"
 Zam Wesell,Zolan,Clawdite,Leeanna Walsman
 Zett Jukassa,,Human,Jett Lucas
+Zev Senesca,Kestic Station,Human,Christopher Malcolm
 Ziro Desilijic Tiure,Sleheyron / Coruscant,Hutt,Corey Burton (voice)
 Zorii Bliss,Kijimi,Human,Keri Russell
