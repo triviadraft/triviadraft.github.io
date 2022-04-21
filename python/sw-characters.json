@@ -47,6 +47,12 @@
         "species": "Togruta",
         "actor": "Ashley Eckstein (voice)"
     },
+    "Aks Moe": {
+        "name": "Aks Moe",
+        "homeworld": "Malastare",
+        "species": "Gran",
+        "actor": "Mark Coulier, Marc Silk (voice)"
+    },
     "Amilyn Holdo": {
         "name": "Amilyn Holdo",
         "homeworld": "Gatalenta",
@@ -65,11 +71,35 @@
         "species": "Human",
         "actor": "Silas Carson"
     },
+    "Antoc Merrick": {
+        "name": "Antoc Merrick",
+        "homeworld": "Virujansi",
+        "species": "Human",
+        "actor": "Ben Daniels"
+    },
     "Armitage Hux": {
         "name": "Armitage Hux",
         "homeworld": "Arkanis",
         "species": "Human",
         "actor": "Domhnall Gleeson"
+    },
+    "Asajj Ventress": {
+        "name": "Asajj Ventress",
+        "homeworld": "Dathomir",
+        "species": "Zabrak (Dathomirian)",
+        "actor": "Nika Futterman (voice)"
+    },
+    "Ask Aak": {
+        "name": "Ask Aak",
+        "homeworld": "Malastare",
+        "species": "Gran",
+        "actor": "Steven Boyle (II), Paul Spence (III)"
+    },
+    "Aurodia Ventafoli": {
+        "name": "Aurodia Ventafoli",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Sema-Tawi Smart, Baraka May (voice)"
     },
     "Aurra Sing": {
         "name": "Aurra Sing",
@@ -124,6 +154,12 @@
         "homeworld": "Lerct",
         "species": "Human",
         "actor": "Dominic Monaghan"
+    },
+    "Bellava Parnadee": {
+        "name": "Bellava Parnadee",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Tanya Moodie"
     },
     "Ben Quadinaros": {
         "name": "Ben Quadinaros",
@@ -197,6 +233,12 @@
         "species": "Urodel",
         "actor": "Ian Whyte"
     },
+    "Boolio": {
+        "name": "Boolio",
+        "homeworld": "Sinta IV",
+        "species": "Ovissian",
+        "actor": "Aidan Cook, Mark Hamill (voice)"
+    },
     "Breha Organa": {
         "name": "Breha Organa",
         "homeworld": "Alderaan",
@@ -214,6 +256,12 @@
         "homeworld": "Abednedo",
         "species": "Abednedo",
         "actor": "Paul Kasey"
+    },
+    "Caluan Ematt": {
+        "name": "Caluan Ematt",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Andrew Jack"
     },
     "Cassian Jeron Andor": {
         "name": "Cassian Jeron Andor",
@@ -329,6 +377,12 @@
         "species": "Human",
         "actor": "Richard Oldfield"
     },
+    "Dex Tiree": {
+        "name": "Dex Tiree",
+        "homeworld": "Onderon",
+        "species": "Human (Onderonian)",
+        "actor": "Jeremy Sinden, Harry Shearer (voice)"
+    },
     "Dexter Jettster": {
         "name": "Dexter Jettster",
         "homeworld": "Ojom",
@@ -340,6 +394,12 @@
         "homeworld": "",
         "species": "Human",
         "actor": "Benicio Del Toro"
+    },
+    "Dobbu Scay": {
+        "name": "Dobbu Scay",
+        "homeworld": "",
+        "species": "",
+        "actor": "Mark Hamill (voice)"
     },
     "Dooku / Darth Tyranus": {
         "name": "Dooku / Darth Tyranus",
@@ -389,6 +449,12 @@
         "species": "Human",
         "actor": "Richard E. Grant"
     },
+    "Even Piell": {
+        "name": "Even Piell",
+        "homeworld": "Lannik",
+        "species": "Lannik",
+        "actor": "Michaela Cottrell"
+    },
     "Figrin D'an": {
         "name": "Figrin D'an",
         "homeworld": "Bith",
@@ -413,6 +479,12 @@
         "species": "Human",
         "actor": "Kenneth Colley"
     },
+    "FN-2199": {
+        "name": "FN-2199",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Liang Yang, David Acord (voice)"
+    },
     "Fodesinbeed Annodue": {
         "name": "Fodesinbeed Annodue",
         "homeworld": "Pollillus",
@@ -424,6 +496,12 @@
         "homeworld": "Grange",
         "species": "Human",
         "actor": "Mads Mikkelsen"
+    },
+    "Garven Dreis": {
+        "name": "Garven Dreis",
+        "homeworld": "Virujansi",
+        "species": "Human",
+        "actor": "Drewe Henley"
     },
     "Gasgano": {
         "name": "Gasgano",
@@ -527,6 +605,12 @@
         "species": "Human",
         "actor": "Kyle Rowling"
     },
+    "John D. Branon": {
+        "name": "John D. Branon",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jack Klaff"
+    },
     "Jon \"Dutch\" Vander": {
         "name": "Jon \"Dutch\" Vander",
         "homeworld": "Onderon",
@@ -563,6 +647,12 @@
         "species": "Human",
         "actor": "Billie Lourd"
     },
+    "Kendal Ozzel": {
+        "name": "Kendal Ozzel",
+        "homeworld": "Carida",
+        "species": "Human",
+        "actor": "Michael Sheard"
+    },
     "Ki-Adi-Mundi": {
         "name": "Ki-Adi-Mundi",
         "homeworld": "Cerea",
@@ -587,6 +677,12 @@
         "species": "Trodatome",
         "actor": "Nick Kellington"
     },
+    "Korr Sella": {
+        "name": "Korr Sella",
+        "homeworld": "Hosnian Prime",
+        "species": "Human",
+        "actor": "Maisie Richardson-Sellers"
+    },
     "Kuruk": {
         "name": "Kuruk",
         "homeworld": "",
@@ -604,6 +700,24 @@
         "homeworld": "Socorro",
         "species": "Human",
         "actor": "Billy Dee Williams, Donald Glover (S)"
+    },
+    "Lanever Villecham": {
+        "name": "Lanever Villecham",
+        "homeworld": "Tarsunt",
+        "species": "Tarsunt",
+        "actor": "Derek Arnold"
+    },
+    "Lanzora Garan": {
+        "name": "Lanzora Garan",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Mandeep Dhillon"
+    },
+    "Larma D'Acy": {
+        "name": "Larma D'Acy",
+        "homeworld": "Warlentta",
+        "species": "Human",
+        "actor": "Amanda Lawrence"
     },
     "Leia Skywalker Organa Solo": {
         "name": "Leia Skywalker Organa Solo",
@@ -767,6 +881,12 @@
         "species": "Human",
         "actor": "Alec Guinness, Ewan McGregor, James Arnold Taylor (voice in TCW)"
     },
+    "Ochi": {
+        "name": "Ochi",
+        "homeworld": "Bestoon",
+        "species": "",
+        "actor": "Liam Cook"
+    },
     "Ody Mandrell": {
         "name": "Ody Mandrell",
         "homeworld": "Tatooine",
@@ -797,6 +917,12 @@
         "species": "Thisspiasian",
         "actor": ""
     },
+    "Orn Free Taa": {
+        "name": "Orn Free Taa",
+        "homeworld": "Ryloth",
+        "species": "Twi'lek (Rutian)",
+        "actor": ""
+    },
     "Orson Callan Krennic": {
         "name": "Orson Callan Krennic",
         "homeworld": "Lexrul",
@@ -820,6 +946,12 @@
         "homeworld": "Hays Minor",
         "species": "Human",
         "actor": "Veronica Ngo"
+    },
+    "Pao": {
+        "name": "Pao",
+        "homeworld": "Pipada",
+        "species": "Drabatan",
+        "actor": "Derek Arnold"
     },
     "Pateesa": {
         "name": "Pateesa",
@@ -1073,6 +1205,12 @@
         "species": "Pa'lowick",
         "actor": "Annie Arbogast"
     },
+    "Taidu Sefla": {
+        "name": "Taidu Sefla",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Babou Ceesay"
+    },
     "Tak": {
         "name": "Tak",
         "homeworld": "Coruscant",
@@ -1133,6 +1271,12 @@
         "species": "Human",
         "actor": "Thomas Brodie-Sangster"
     },
+    "Theron Nett": {
+        "name": "Theron Nett",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Robert O'Mahoney"
+    },
     "Tion Medon": {
         "name": "Tion Medon",
         "homeworld": "Utapau",
@@ -1156,6 +1300,18 @@
         "homeworld": "",
         "species": "Xi'Dec",
         "actor": ""
+    },
+    "Ubialla Gheal": {
+        "name": "Ubialla Gheal",
+        "homeworld": "",
+        "species": "",
+        "actor": "Sema-Tawi Smart"
+    },
+    "Unkar Plutt": {
+        "name": "Unkar Plutt",
+        "homeworld": "Crul / Jakku",
+        "species": "Crolute",
+        "actor": "Simon Pegg"
     },
     "Ushos O. Statura": {
         "name": "Ushos O. Statura",
@@ -1228,6 +1384,12 @@
         "homeworld": "Rina Major",
         "species": "Blarina",
         "actor": "Warwick Davis"
+    },
+    "Wrobie Tyce": {
+        "name": "Wrobie Tyce",
+        "homeworld": "Warlentta",
+        "species": "Human",
+        "actor": "Vinette Robinson"
     },
     "Wuher": {
         "name": "Wuher",
