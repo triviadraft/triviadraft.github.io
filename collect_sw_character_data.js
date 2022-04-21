@@ -13,7 +13,7 @@ function displayAnswers() {
     document.getElementById('answer3').innerHTML = answers[2];
     document.getElementById('answer4').innerHTML = answers[3];
     document.getElementById('answer5').innerHTML = answers[4];
-    document.getElementById('displayBtn').style.display = 'none';
+    document.getElementById('displayBtn').disabled = true;
 }
 
 function reset() { 
@@ -67,7 +67,7 @@ function reset() {
     document.getElementById('answer3').innerHTML = '';
     document.getElementById('answer4').innerHTML = '';
     document.getElementById('answer5').innerHTML = '';
-    document.getElementById('displayBtn').style.display = '';
+    document.getElementById('displayBtn').disabled = false;
 }
 
 var characters = randomItems(5, Object.keys(sw_character_map));
