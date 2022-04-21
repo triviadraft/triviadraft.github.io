@@ -33,7 +33,7 @@
         "name": "Anakin Skywalker / Darth Vader",
         "homeworld": "Tatooine",
         "species": "Human",
-        "actor": "David Prowse, James Earl Jones, Sebastian Shaw (VI), Jake Lloyd (I), Hayden Christensen, Matt Lanter (voice in TCW), Spencer Wilding (RO), Daniel Naprous (RO)"
+        "actor": "David Prowse, James Earl Jones (voice), Sebastian Shaw (VI), Jake Lloyd (I), Hayden Christensen, Matt Lanter (voice in TCW), Spencer Wilding (RO), Daniel Naprous (RO)"
     },
     "Antidar Williams": {
         "name": "Antidar Williams",
@@ -53,6 +53,12 @@
         "species": "Human (Alderaanian)",
         "actor": "Jimmy Smits"
     },
+    "Baze Malbus": {
+        "name": "Baze Malbus",
+        "homeworld": "Jedha",
+        "species": "Human",
+        "actor": "Jiang Wen"
+    },
     "Bazine Netal": {
         "name": "Bazine Netal",
         "homeworld": "Chaaktil",
@@ -64,6 +70,12 @@
         "homeworld": "Tund",
         "species": "Toong",
         "actor": ""
+    },
+    "Ben Solo / Kylo Ren": {
+        "name": "Ben Solo / Kylo Ren",
+        "homeworld": "Chandrila",
+        "species": "Human (Chandrilan)",
+        "actor": "Adam Driver"
     },
     "Benthic \"Two Tubes\"": {
         "name": "Benthic \"Two Tubes\"",
@@ -94,6 +106,12 @@
         "homeworld": "Utapau",
         "species": "Varactyl",
         "actor": ""
+    },
+    "Bollie Prindel": {
+        "name": "Bollie Prindel",
+        "homeworld": "",
+        "species": "Urodel",
+        "actor": "Ian Whyte"
     },
     "C-3PO": {
         "name": "C-3PO",
@@ -130,6 +148,12 @@
         "homeworld": "Endor",
         "species": "Ewok",
         "actor": "Jane Busby"
+    },
+    "Chirrut \u00cemwe": {
+        "name": "Chirrut \u00cemwe",
+        "homeworld": "Jedha",
+        "species": "Human",
+        "actor": "Donnie Yen"
     },
     "Cornelius Evazan": {
         "name": "Cornelius Evazan",
@@ -179,11 +203,29 @@
         "species": "Human (Naboo)",
         "actor": "Rose Byrne"
     },
+    "Ello Asty": {
+        "name": "Ello Asty",
+        "homeworld": "Abednedo",
+        "species": "Abednedo",
+        "actor": "Paul Kasey, Matthew Wood (voice)"
+    },
+    "Finn / FN-2187": {
+        "name": "Finn / FN-2187",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "John Boyega"
+    },
     "Firmus Piett": {
         "name": "Firmus Piett",
         "homeworld": "Axxila",
         "species": "Human",
         "actor": "Kenneth Colley"
+    },
+    "Fodesinbeed Annodue": {
+        "name": "Fodesinbeed Annodue",
+        "homeworld": "Pollillus",
+        "species": "Troig",
+        "actor": "Greg Proops, Scott Capurro"
     },
     "Greedo": {
         "name": "Greedo",
@@ -359,6 +401,12 @@
         "species": "Human (Chandrilan)",
         "actor": "Caroline Blakiston, Genevieve O'Reilly"
     },
+    "Moroff": {
+        "name": "Moroff",
+        "homeworld": "",
+        "species": "Gigoran",
+        "actor": "Ian Whyte"
+    },
     "Nien Nunb": {
         "name": "Nien Nunb",
         "homeworld": "Sullust",
@@ -479,6 +527,12 @@
         "species": "Ardennian",
         "actor": "Katy Kartwheel, Jon Favreau (voice)"
     },
+    "Roodown": {
+        "name": "Roodown",
+        "homeworld": "Abednedo",
+        "species": "Abednedo",
+        "actor": "Ian Whyte"
+    },
     "Roos Tarpals": {
         "name": "Roos Tarpals",
         "homeworld": "Naboo",
@@ -490,6 +544,12 @@
         "homeworld": "Tatooine",
         "species": "Hutt",
         "actor": "David Acord (voice)"
+    },
+    "Rugor Nass": {
+        "name": "Rugor Nass",
+        "homeworld": "Naboo",
+        "species": "Gungan (Ankura)",
+        "actor": "Brian Blessed (voice)"
     },
     "Rune Haako": {
         "name": "Rune Haako",
@@ -509,17 +569,41 @@
         "species": "Human (Onderonian)",
         "actor": "Forest Whitaker"
     },
+    "Sebulba": {
+        "name": "Sebulba",
+        "homeworld": "Malastare",
+        "species": "Dug",
+        "actor": "Lewis MacLeod (voice)"
+    },
     "Sly Moore": {
         "name": "Sly Moore",
         "homeworld": "Umbara",
         "species": "Umbaran",
         "actor": "Sandi Finlay"
     },
+    "Snoke": {
+        "name": "Snoke",
+        "homeworld": "Exegol",
+        "species": "",
+        "actor": "Andy Serkis"
+    },
     "Stass Allie": {
         "name": "Stass Allie",
         "homeworld": "Tholoth",
         "species": "Tholothian",
         "actor": "Lily Nyamwasa"
+    },
+    "Tallissan Lintra": {
+        "name": "Tallissan Lintra",
+        "homeworld": "Pippip 3",
+        "species": "Human",
+        "actor": "Hermione Corfield"
+    },
+    "Tarfful": {
+        "name": "Tarfful",
+        "homeworld": "Kashyyyk",
+        "species": "Wookiee",
+        "actor": "Michael Kingma"
     },
     "Teedo": {
         "name": "Teedo",
@@ -610,5 +694,11 @@
         "homeworld": "Sleheyron / Coruscant",
         "species": "Hutt",
         "actor": "Corey Burton (voice)"
+    },
+    "Zorii Bliss": {
+        "name": "Zorii Bliss",
+        "homeworld": "Kijimi",
+        "species": "Human",
+        "actor": "Keri Russell"
     }
 }
