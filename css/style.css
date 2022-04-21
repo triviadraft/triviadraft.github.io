@@ -1,3 +1,10 @@
+/* general */
+body {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0;
+    background-color: #cc0000;
+}
+
 /* header */
 header {
     height: 70px;
@@ -38,4 +45,10 @@ li a:hover:not(.active) {
 
 .active {
     background-color: #000000;
+}
+
+/* main content of a page */
+#main {
+    background-color:#ffffff;
+    padding-top: 20px;
 }

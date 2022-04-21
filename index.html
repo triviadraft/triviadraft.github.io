@@ -14,28 +14,26 @@
         <li class="navlink"><a href="sw-characters.html">SW Characters</a></li>
     </ul>
 </header>
-<br>
 
-<center><h1>IG Supporting Actors</h1></center>
+<div id="main">
+    <p id="question"></p>
+    <br>
+    <button onclick="displayActorsAnswer()">
+        Display Answer
+    </button>
 
-<p id="question"></p>
-<br>
-<button onclick="displayActorsAnswer()">
-    Display Answer
-</button>
+    <strong><p id="answer"></p></strong>
+    <ul>
+        <li><p id="answer1"></p></li>
+        <li><p id="answer2"></p></li>
+        <li><p id="answer3"></p></li>
+    </ul>
+    <br>
 
-<strong><p id="answer"></p></strong>
-<ul>
-    <li><p id="answer1"></p></li>
-    <li><p id="answer2"></p></li>
-    <li><p id="answer3"></p></li>
-</ul>
-<br>
-
-<button onclick="resetActors()">
-    Reset
-</button>
-<br>
+    <button onclick="resetActors()">
+        Reset
+    </button>
+</div>
 
 <script src="data_movies.js"></script>
 <script src="data_actors.js"></script>
