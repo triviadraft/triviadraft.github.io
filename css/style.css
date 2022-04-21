@@ -1,0 +1,41 @@
+/* header */
+header {
+    height: 70px;
+    background-color: #cc0000;
+}
+
+/* navigation */
+#nav {
+    list-style-type: none;
+    margin-left: 2%;
+    overflow: hidden;
+}
+
+.navlink  {
+    float: left;
+    border-top:1px solid #bbbbbb;
+    border-bottom:1px solid #bbbbbb;
+    border-right:1px solid #bbbbbb;
+}
+
+.navlink a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navlink:first-child {
+    border-left: 1px solid #bbbbbb;
+}
+
+
+li a:hover:not(.active) {
+    background-color: #990000;
+}
+
+.active {
+    background-color: #000000;
+}
