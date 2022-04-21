@@ -38,18 +38,21 @@ header {
     border-left: 1px solid #bbbbbb;
 }
 
-
 li a:hover:not(.active) {
-    background-color: #990000;
+    background-color: #585858;
 }
 
 .active {
     background-color: #000000;
 }
 
+.inactive {
+    background-color: #C0C0C0;
+}
+
 /* main content of a page */
 #main {
     background-color:#ffffff;
     padding-top: 20px;
-    margin: 10px 0 0 20px;
+    margin: 10px 0 0 30px;
 }
