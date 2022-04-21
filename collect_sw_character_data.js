@@ -42,7 +42,11 @@ function reset() {
             var question = 'What is the homeworld of ' + character + '?';
             var answer = homeworld;
         } else if (question_type == 'species') {
-            var question = character + ' is what species?';
+            if (species.includes('droid')) {
+                var question = character + ' is what droid model?';
+            } else {
+                var question = character + ' is what species?';
+            }
             var answer = species;
         } else if (question_type == 'actor') {
             var question = 'Who portrays ' + character + '?';
@@ -90,7 +94,11 @@ for (const character of characters) {
         var question = 'What is the homeworld of ' + character + '?';
         var answer = homeworld;
     } else if (question_type == 'species') {
-        var question = character + ' is what species?';
+        if (species.includes('droid')) {
+            var question = character + ' is what droid model?';
+        } else {
+            var question = character + ' is what species?';
+        }
         var answer = species;
     } else if (question_type == 'actor') {
         var question = 'Who portrays ' + character + '?';
