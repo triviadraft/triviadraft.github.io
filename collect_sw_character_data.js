@@ -22,31 +22,30 @@ function reset() {
     questions = [];
     answers = [];
     for (const character of characters) {
-        question_type = randomItem(question_types);
+        var question_types = [];
+        var homeworld = sw_character_map[character]['homeworld'];
+        var species = sw_character_map[character]['species'];
+        var actor = sw_character_map[character]['actor'];
+        if (homeworld) {
+            question_types.push('homeworld');
+        }
+        if (species) {
+            question_types.push('species');
+        }
+        if (actor) {
+            question_types.push('actor');
+        }
+        var question_type = randomItem(question_types);
 
-        if (question_type == 'actor') {
-            question = 'Who portrays ' + character + '?';
-            answer = sw_character_map[character]['actor'];
-        } else if (question_type == 'homeworld') {
-            var homeworld = sw_character_map[character]['homeworld']
-
-            if (!homeworld) {
-                question = 'Who portrays ' + character + '?';
-                answer = sw_character_map[character]['actor'];
-            } else {
-                question = 'What is the homeworld of ' + character + '?';
-                answer = sw_character_map[character]['homeworld'];
-            }
-        } else {
-            var species = sw_character_map[character]['species'];
-
-            if (species.startsWith('Human')) {
-                question = 'Who portrays ' + character + '?';
-                answer = sw_character_map[character]['actor'];
-            } else {
-                question = character + ' is what species?';
-                answer = species;
-            }
+        if (question_type == 'homeworld') {
+            var question = 'Who portrays ' + character + '?';
+            var answer = actor;
+        } else if (question_type == 'species') {
+            var question = 'What is the homeworld of ' + character + '?';
+            var answer = homeworld;
+        } else if (question_type == 'actor') {
+            var question = character + ' is what species?';
+            var answer = species;
         }
 
         questions.push(question);
@@ -71,32 +70,30 @@ var characters = randomItems(5, Object.keys(sw_character_map));
 questions = [];
 answers = [];
 for (const character of characters) {
-    var question_types = ['actor','homeworld','species'];
+    var question_types = [];
+    var homeworld = sw_character_map[character]['homeworld'];
+    var species = sw_character_map[character]['species'];
+    var actor = sw_character_map[character]['actor'];
+    if (homeworld) {
+        question_types.push('homeworld');
+    }
+    if (species) {
+        question_types.push('species');
+    }
+    if (actor) {
+        question_types.push('actor');
+    }
     var question_type = randomItem(question_types);
 
-    if (question_type == 'actor') {
+    if (question_type == 'homeworld') {
         var question = 'Who portrays ' + character + '?';
-        var answer = sw_character_map[character]['actor'];
-    } else if (question_type == 'homeworld') {
-        var homeworld = sw_character_map[character]['homeworld']
-
-        if (!homeworld) {
-            var question = 'Who portrays ' + character + '?';
-            var answer = sw_character_map[character]['actor'];
-        } else {
-            var question = 'What is the homeworld of ' + character + '?';
-            var answer = sw_character_map[character]['homeworld'];
-        }
-    } else {
-        var species = sw_character_map[character]['species'];
-
-        if (species.startsWith('Human')) {
-            var question = 'Who portrays ' + character + '?';
-            var answer = sw_character_map[character]['actor'];
-        } else {
-            var question = character + ' is what species?';
-            var answer = species;
-        }
+        var answer = actor;
+    } else if (question_type == 'species') {
+        var question = 'What is the homeworld of ' + character + '?';
+        var answer = homeworld;
+    } else if (question_type == 'actor') {
+        var question = character + ' is what species?';
+        var answer = species;
     }
 
     questions.push(question);

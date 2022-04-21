@@ -6,20 +6,20 @@ def create_jsons():
     # movie data
     movie_dict = {}
 
-    with open(r'actordata - movies.csv', encoding='utf-8') as csvf:
+    with open(r'python/actordata - movies.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
             movie_dict[movie] = row
 
-    with open(r'movies.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(movie_dict, indent=4))
 
 
     # actor data
     actor_dict = {}
 
-    with open(r'actordata - actors.csv', encoding='utf-8') as csvf:
+    with open(r'python/actordata - actors.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
 
         for row in csvReader:
@@ -39,12 +39,12 @@ def create_jsons():
 
             actor_dict[movie][level].append(single_actor_dict)
 
-    with open(r'actors.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/actors.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(actor_dict, indent=4))
 
     # tagline data
     tagline_dict = {}
-    with open(r'actordata - taglines.csv', encoding='utf-8') as csvf:
+    with open(r'python/actordata - taglines.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
@@ -56,31 +56,31 @@ def create_jsons():
 
     # Open a json writer, and use the json.dumps()
     # function to dump data
-    with open(r'taglines.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/taglines.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(tagline_dict, indent=4))
 
     # star wars character data
     sw_character_dict = {}
-    with open(r'actordata - sw-characters.csv', encoding='utf-8') as csvf:
+    with open(r'python/actordata - sw-characters.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             name = row['name']
             sw_character_dict[name] = row
 
-    with open(r'sw-characters.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/sw-characters.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(sw_character_dict, indent=4))
 
 
 def generate_questions():
     # create a dictionary
     movie_dict = {}
-    with open('movies.json') as json_file:
+    with open('python/movies.json') as json_file:
         data = json.load(json_file)
         for movie in data.keys():
             movie_dict[movie] = data[movie]
 
     questions = []
-    with open('actors.json') as json_file:
+    with open('python/actors.json') as json_file:
         data = json.load(json_file)
 
         question_count = 20

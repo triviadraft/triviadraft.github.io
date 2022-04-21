@@ -1,9 +1,27 @@
 {
+    "4-LOM": {
+        "name": "4-LOM",
+        "homeworld": "",
+        "species": "LOM-series protocol droid",
+        "actor": "Chris Parsons"
+    },
     "Ahsoka Tano": {
         "name": "Ahsoka Tano",
         "homeworld": "Shili",
         "species": "Togruta",
         "actor": "Ashley Eckstein (voice)"
+    },
+    "Babu Frik": {
+        "name": "Babu Frik",
+        "homeworld": "Kijimi",
+        "species": "Anzellan",
+        "actor": "Shirley Henderson (voice)"
+    },
+    "Ben Quadinaros": {
+        "name": "Ben Quadinaros",
+        "homeworld": "Tund",
+        "species": "Toong",
+        "actor": ""
     },
     "Benthic \"Two Tubes\"": {
         "name": "Benthic \"Two Tubes\"",
@@ -17,6 +35,12 @@
         "species": "Iakaru",
         "actor": "Nick Kellington"
     },
+    "Boga": {
+        "name": "Boga",
+        "homeworld": "Utapau",
+        "species": "Varactyl",
+        "actor": ""
+    },
     "C-3PO": {
         "name": "C-3PO",
         "homeworld": "Tatooine",
@@ -28,6 +52,12 @@
         "homeworld": "Kamino",
         "species": "Human (clone)",
         "actor": "Temuera Morrison, Dee Bradley Baker (voice)"
+    },
+    "Chirpa": {
+        "name": "Chirpa",
+        "homeworld": "Endor",
+        "species": "Ewok",
+        "actor": "Jane Busby"
     },
     "Cornelius Evazan": {
         "name": "Cornelius Evazan",
@@ -59,6 +89,18 @@
         "species": "Rodian",
         "actor": "Paul Blake, Larry Ward (voice)"
     },
+    "Hurst Romodi": {
+        "name": "Hurst Romodi",
+        "homeworld": "Virujansi",
+        "species": "Human",
+        "actor": "Andy de la Tour"
+    },
+    "Jamillia": {
+        "name": "Jamillia",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Ayesha Dharker"
+    },
     "Jannah": {
         "name": "Jannah",
         "homeworld": "",
@@ -71,11 +113,29 @@
         "species": "Gungan (Otolla)",
         "actor": "Ahmed Best"
     },
+    "K-3PO": {
+        "name": "K-3PO",
+        "homeworld": "",
+        "species": "3PO-series protocol droid",
+        "actor": "Chris Parsons"
+    },
     "Kaydel Ko Connix": {
         "name": "Kaydel Ko Connix",
         "homeworld": "Dulathia",
         "species": "Human",
         "actor": "Billie Lourd"
+    },
+    "Klaud": {
+        "name": "Klaud",
+        "homeworld": "",
+        "species": "Trodatome",
+        "actor": "Nick Kellington"
+    },
+    "Landonis Balthazar Calrissian": {
+        "name": "Landonis Balthazar Calrissian",
+        "homeworld": "Socorro",
+        "species": "Human",
+        "actor": "Billy Dee Williams, Donald Glover (S)"
     },
     "Leia Skywalker Organa Solo": {
         "name": "Leia Skywalker Organa Solo",
@@ -113,6 +173,18 @@
         "species": "Human (Chandrilan)",
         "actor": "Caroline Blakiston, Genevieve O'Reilly"
     },
+    "Nien Nunb": {
+        "name": "Nien Nunb",
+        "homeworld": "Sullust",
+        "species": "Sullustan",
+        "actor": "Mike Quinn, Richard Bonehill, Kipsang Rotich (voice)"
+    },
+    "Pateesa": {
+        "name": "Pateesa",
+        "homeworld": "",
+        "species": "Rancor",
+        "actor": ""
+    },
     "Poe Dameron": {
         "name": "Poe Dameron",
         "homeworld": "Yavin 4",
@@ -131,17 +203,41 @@
         "species": "Grindalid",
         "actor": "Linda Hunt (voice)"
     },
+    "PZ-4CO": {
+        "name": "PZ-4CO",
+        "homeworld": "",
+        "species": "PZ protocol droid",
+        "actor": ""
+    },
+    "R2-D2": {
+        "name": "R2-D2",
+        "homeworld": "Naboo",
+        "species": "R2 series astromech droid",
+        "actor": "Kenny Baker, Jimmy Vee"
+    },
     "Roos Tarpals": {
         "name": "Roos Tarpals",
         "homeworld": "Naboo",
         "species": "Gungan (Otolla)",
         "actor": "Steven Speirs (voice)"
     },
+    "Rune Haako": {
+        "name": "Rune Haako",
+        "homeworld": "Neimoidia",
+        "species": "Neimoidian",
+        "actor": "Jerome Blake (I), James Taylor (voice in I), Alan Ruscoe (II), Chris Truswell (voice in II), Sandy Thompson (III)"
+    },
     "Saw Gerrera": {
         "name": "Saw Gerrera",
         "homeworld": "Onderon",
         "species": "Human (Onderonian)",
         "actor": "Forest Whitaker"
+    },
+    "Sly Moore": {
+        "name": "Sly Moore",
+        "homeworld": "Umbara",
+        "species": "Umbaran",
+        "actor": "Sandi Finlay"
     },
     "Stass Allie": {
         "name": "Stass Allie",
@@ -155,6 +251,12 @@
         "species": "Teedo",
         "actor": "Kiran Shah, David Acord (voice)"
     },
+    "Temiri Blagg": {
+        "name": "Temiri Blagg",
+        "homeworld": "Cantonica",
+        "species": "Human",
+        "actor": "Temirlan Blaev"
+    },
     "Tion Medon": {
         "name": "Tion Medon",
         "homeworld": "Utapau",
@@ -167,11 +269,41 @@
         "species": "Human",
         "actor": "Ken Leung"
     },
+    "Watto": {
+        "name": "Watto",
+        "homeworld": "Toydaria",
+        "species": "Toydarian",
+        "actor": "Andrew Secombe"
+    },
+    "Whorm Loathsom": {
+        "name": "Whorm Loathsom",
+        "homeworld": "Kerkoidia",
+        "species": "Kerkoiden",
+        "actor": "Corey Burton (voice)"
+    },
+    "Wicket Wystri Warrick": {
+        "name": "Wicket Wystri Warrick",
+        "homeworld": "Endor",
+        "species": "Ewok",
+        "actor": "Warwick Davis"
+    },
     "Wilhuff Tarkin": {
         "name": "Wilhuff Tarkin",
         "homeworld": "Eriadu",
         "species": "Human",
         "actor": "Peter Cushing, Wayne Pygram (III), Guy Henry (RO)"
+    },
+    "Yaddle": {
+        "name": "Yaddle",
+        "homeworld": "",
+        "species": "",
+        "actor": "Phil Eason"
+    },
+    "Yarael Poof": {
+        "name": "Yarael Poof",
+        "homeworld": "Quermia",
+        "species": "Quermian",
+        "actor": "Michelle Taylor"
     },
     "Ziro Desilijic Tiure": {
         "name": "Ziro Desilijic Tiure",
