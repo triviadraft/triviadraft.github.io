@@ -28,15 +28,12 @@ function reset() {
         var species = sw_character_map[character]['species'];
         var actor = sw_character_map[character]['actor'];
         if (homeworld) {
-            console.log('has homeworld ' + homeworld);
             question_types.push('homeworld');
         }
-        if (species) {
-            console.log('has species ' + species);
+        if (species && !species.startsWith('Human')) {
             question_types.push('species');
         }
         if (actor) {
-            console.log('has actor ' + actor);
             question_types.push('actor');
         }
         var question_type = randomItem(question_types);
@@ -81,7 +78,7 @@ for (const character of characters) {
     if (homeworld) {
         question_types.push('homeworld');
     }
-    if (species) {
+    if (species && !species.startsWith('Human')) {
         question_types.push('species');
     }
     if (actor) {
