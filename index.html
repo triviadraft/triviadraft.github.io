@@ -16,11 +16,17 @@
 </header>
 
 <div id="main">
-    <p id="question"></p>
-    <br>
-    <button onclick="displayActorsAnswer()">
+    <button id="displayBtn" onclick="displayAnswer()">
         Display Answer
     </button>
+    <button id="resetBtn" onclick="reset()" style="margin-left: 10px">
+        Reset
+    </button>
+    <br>
+    <br>
+
+    <p id="question"></p>
+    <br>
 
     <strong><p id="answer"></p></strong>
     <ul>
@@ -29,10 +35,6 @@
         <li><p id="answer3"></p></li>
     </ul>
     <br>
-
-    <button onclick="resetActors()">
-        Reset
-    </button>
 </div>
 <br>
 

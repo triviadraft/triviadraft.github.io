@@ -7,8 +7,12 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
-function displayAnswer(n) { 
-    document.getElementById('answer' + n).innerHTML = answers[n - 1];
+function displayAnswer() { 
+    document.getElementById('answer').innerHTML = answer;
+    document.getElementById('answer1').innerHTML = answer1;
+    document.getElementById('answer2').innerHTML = answer2;
+    document.getElementById('answer3').innerHTML = answer3;
+    document.getElementById('displayBtn').disabled = true;
 }
 
 function displayAnswers() { 
@@ -21,14 +25,7 @@ function displayAnswers() {
     document.getElementById('answer5').innerHTML = answer3;
 }
 
-function displayActorsAnswer() { 
-    document.getElementById('answer').innerHTML = answer;
-    document.getElementById('answer1').innerHTML = answer1;
-    document.getElementById('answer2').innerHTML = answer2;
-    document.getElementById('answer3').innerHTML = answer3;
-}
-
-function resetActors() { 
+function reset() { 
     var movie = randomItem(Object.keys(actor_map));
     var category = randomItem(movie_map[movie]['categories'].split(","));
     var actor_list = actor_map[movie]['supporting'];
@@ -61,6 +58,7 @@ function resetActors() {
     document.getElementById('answer1').innerHTML = '';
     document.getElementById('answer2').innerHTML = '';
     document.getElementById('answer3').innerHTML = '';
+    document.getElementById('displayBtn').disabled = false;
 }
 
 var movie = randomItem(Object.keys(actor_map));
