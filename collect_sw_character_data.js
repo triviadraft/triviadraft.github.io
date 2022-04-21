@@ -42,14 +42,14 @@ function reset() {
         var question_type = randomItem(question_types);
 
         if (question_type == 'homeworld') {
-            var question = 'Who portrays ' + character + '?';
-            var answer = actor;
-        } else if (question_type == 'species') {
             var question = 'What is the homeworld of ' + character + '?';
             var answer = homeworld;
-        } else if (question_type == 'actor') {
+        } else if (question_type == 'species') {
             var question = character + ' is what species?';
             var answer = species;
+        } else if (question_type == 'actor') {
+            var question = 'Who portrays ' + character + '?';
+            var answer = actor;
         }
 
         questions.push(question);
@@ -90,14 +90,14 @@ for (const character of characters) {
     var question_type = randomItem(question_types);
 
     if (question_type == 'homeworld') {
-        var question = 'Who portrays ' + character + '?';
-        var answer = actor;
-    } else if (question_type == 'species') {
         var question = 'What is the homeworld of ' + character + '?';
         var answer = homeworld;
-    } else if (question_type == 'actor') {
+    } else if (question_type == 'species') {
         var question = character + ' is what species?';
         var answer = species;
+    } else if (question_type == 'actor') {
+        var question = 'Who portrays ' + character + '?';
+        var answer = actor;
     }
 
     questions.push(question);
