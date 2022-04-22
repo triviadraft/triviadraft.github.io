@@ -26,9 +26,9 @@ function displayAnswers() {
 }
 
 function reset() { 
-    var movie = randomItem(Object.keys(actor_map));
+    var movie = randomItem(Object.keys(ig_actor_map));
     var category = randomItem(movie_map[movie]['categories'].split(","));
-    var actor_list = actor_map[movie]['supporting'];
+    var actor_list = ig_actor_map[movie]['supporting'];
     var random_list = randomItems(3, actor_list);
 
     var actor1 = random_list[0]['actor'];
@@ -61,9 +61,9 @@ function reset() {
     document.getElementById('displayBtn').disabled = false;
 }
 
-var movie = randomItem(Object.keys(actor_map));
+var movie = randomItem(Object.keys(ig_actor_map));
 var category = randomItem(movie_map[movie]['categories'].split(","));
-var actor_list = actor_map[movie]['supporting'];
+var actor_list = ig_actor_map[movie]['supporting'];
 var random_list = randomItems(3, actor_list);
 
 var actor1 = random_list[0]['actor'];

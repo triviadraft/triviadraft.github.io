@@ -3,16 +3,88 @@ import json
 import random
 
 def create_jsons():
-    # movie data
-    movie_dict = {}
+    # oscars data
+    actor_oscar_dict = {}
+    with open(r'python/csv/Oscars - Actors.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            name = row['Name']
+            actor_oscar_dict[name] = {}
+            if row['Lead']:
+                actor_oscar_dict[name]['lead'] = []
+
+                lead_movie_names = row['Lead'].split('), ')
+                for movie_name in lead_movie_names:
+                    if ')' in movie_name:
+                        lead_movie_dict = {
+                            'movie': movie_name[:-7],
+                            'year': movie_name[len(movie_name)-5:len(movie_name)-1],
+                        }
+                        actor_oscar_dict[name]['lead'].append(lead_movie_dict)
+                    else:
+                        lead_movie_dict = {
+                            'movie': movie_name[:-6],
+                            'year': movie_name[len(movie_name)-4:len(movie_name)],
+                        }
+                        actor_oscar_dict[name]['lead'].append(lead_movie_dict)
+            if row['Supporting']:
+                actor_oscar_dict[name]['supporting'] = []
+
+                supp_movie_names = row['Supporting'].split('), ')
+                for movie_name in supp_movie_names:
+                    if ')' in movie_name:
+                        supp_movie_dict = {
+                            'movie': movie_name[:-7],
+                            'year': movie_name[len(movie_name)-5:len(movie_name)-1],
+                        }
+                        actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
+                    else:
+                        supp_movie_dict = {
+                            'movie': movie_name[:-6],
+                            'year': movie_name[len(movie_name)-4:len(movie_name)],
+                        }
+                        actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
+
+    with open(r'python/actor-oscars.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(actor_oscar_dict, indent=4))
+
+
+    # director data
+    director_dict = {}
+    with open(r'python/csv/Directors - Directors.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            name = row['Name']
+            director_dict[name] = []
+            movie_names = row['Movies'].split('), ')
+            for movie_name in movie_names:
+                if ')' in movie_name:
+                    single_movie_dict = {
+                        'movie': movie_name[:-7],
+                        'year': movie_name[len(movie_name)-5:len(movie_name)-1],
+                    }
+                    director_dict[name].append(single_movie_dict)
+                else:
+                    single_movie_dict = {
+                        'movie': movie_name[:-6],
+                        'year': movie_name[len(movie_name)-4:len(movie_name)],
+                    }
+                    director_dict[name].append(single_movie_dict)
+
+    with open(r'python/directors.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(director_dict, indent=4))
+
+
+    # ig movie data
+    ig_movie_dict = {}
     with open(r'python/csv/actordata - movies.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
-            movie_dict[movie] = row
+            ig_movie_dict[movie] = row
 
-    with open(r'python/movies.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(movie_dict, indent=4))
+    with open(r'python/ig-movies.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(ig_movie_dict, indent=4))
 
 
     # ig actor data
@@ -67,52 +139,6 @@ def create_jsons():
 
     with open(r'python/sw-characters.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(sw_character_dict, indent=4))
-
-
-    # oscars data
-    actor_oscar_dict = {}
-    with open(r'python/csv/Oscars - Actors.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            name = row['Name']
-            actor_oscar_dict[name] = {}
-            if row['Lead']:
-                actor_oscar_dict[name]['lead'] = []
-
-                lead_movie_names = row['Lead'].split('), ')
-                for movie_name in lead_movie_names:
-                    if ')' in movie_name:
-                        lead_movie_dict = {
-                            'movie': movie_name[:-7],
-                            'year': movie_name[len(movie_name)-5:len(movie_name)-1],
-                        }
-                        actor_oscar_dict[name]['lead'].append(lead_movie_dict)
-                    else:
-                        lead_movie_dict = {
-                            'movie': movie_name[:-6],
-                            'year': movie_name[len(movie_name)-4:len(movie_name)],
-                        }
-                        actor_oscar_dict[name]['lead'].append(lead_movie_dict)
-            if row['Supporting']:
-                actor_oscar_dict[name]['supporting'] = []
-
-                supp_movie_names = row['Supporting'].split('), ')
-                for movie_name in supp_movie_names:
-                    if ')' in movie_name:
-                        supp_movie_dict = {
-                            'movie': movie_name[:-7],
-                            'year': movie_name[len(movie_name)-5:len(movie_name)-1],
-                        }
-                        actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
-                    else:
-                        supp_movie_dict = {
-                            'movie': movie_name[:-6],
-                            'year': movie_name[len(movie_name)-4:len(movie_name)],
-                        }
-                        actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
-
-    with open(r'python/actor-oscars.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(actor_oscar_dict, indent=4))
 
 
 def generate_questions():

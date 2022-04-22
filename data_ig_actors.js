@@ -1,4 +1,4 @@
-var actor_map = {
+var ig_actor_map = {
     "Raiders of the Lost Ark": {
         "main": [
             {
