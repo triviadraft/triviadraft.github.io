@@ -21,15 +21,36 @@ function reset() {
 
     questions = [];
     answers = [];
-    for (const movie of movies) {
-        var category = randomItem(movie_map[movie]['categories'].split(","));
-        var random_tagline = randomItem(tagline_map[movie]);
-        var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
-        var answer = movie;
+    for (const actor of actors) {
+        var question_types = [];
+        var lead_movies = actor_oscar_map[actor]['lead'];
+        var supp_movies = actor_oscar_map[actor]['supporting'];
+        if (lead_movies) {
+            question_types.push('lead_movie');
+            question_types.push('lead_year');
+        }
+        if (supp_movies) {
+            question_types.push('supporting_movie');
+            question_types.push('supporting_year');
+        }
+        var question_type = randomItem(question_types);
 
-        if (!movie.includes('(1') && !movie.includes('(2')) {
-            var year = movie_map[movie]['release'].slice(-4);
-            answer += ' (' + year + ')';
+        if (question_type == 'lead_movie') {
+            var lead_movie = randomItem(lead_movies);
+            var question = actor + ' was nominated for their lead performance for what ' + lead_movie['year'] + ' movie?';
+            var answer = lead_movie['movie'];
+        } else if (question_type == 'lead_year') {
+            var lead_movie = randomItem(lead_movies);
+            var question = actor + ' was nominated for their lead performance in ' + lead_movie['movie'] + ' in what year?';
+            var answer = lead_movie['year'];
+        } else if (question_type == 'supporting_movie') {
+            var supp_movie = randomItem(supp_movies);
+            var question = actor + ' was nominated for their supporting performance for what ' + supp_movie['year'] + ' movie?';
+            var answer = supp_movie['movie'];
+        } else if (question_type == 'supporting_year') {
+            var supp_movie = randomItem(supp_movies);
+            var question = actor + ' was nominated for their supporting performance in ' + supp_movie['movie'] + ' in what year?';
+            var answer = supp_movie['year'];
         }
 
         questions.push(question);
