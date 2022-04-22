@@ -69,19 +69,19 @@ for (const actor of actors) {
 
     if (question_type == 'lead_movie') {
         var lead_movie = randomItem(lead_movies);
-        var question = actor + ' was nominated for their ' + question_type + 'performance for what ' + lead_movie['year'] + ' movie?';
+        var question = actor + ' was nominated for their lead performance for what ' + lead_movie['year'] + ' movie?';
         var answer = lead_movie['movie'];
     } else if (question_type == 'lead_year') {
         var lead_movie = randomItem(lead_movies);
-        var question = actor + ' was nominated for their ' + question_type + 'performance in ' + lead_movie['movie'] + ' in what year?';
+        var question = actor + ' was nominated for their lead performance in ' + lead_movie['movie'] + ' in what year?';
         var answer = lead_movie['year'];
     } else if (question_type == 'supporting_movie') {
         var supp_movie = randomItem(supp_movies);
-        var question = actor + ' was nominated for their ' + question_type + 'performance for what ' + supp_movie['year'] + ' movie?';
+        var question = actor + ' was nominated for their supporting performance for what ' + supp_movie['year'] + ' movie?';
         var answer = supp_movie['movie'];
     } else if (question_type == 'supporting_year') {
         var supp_movie = randomItem(supp_movies);
-        var question = actor + ' was nominated for their ' + question_type + 'performance in ' + supp_movie['movie'] + ' in what year?';
+        var question = actor + ' was nominated for their supporting performance in ' + supp_movie['movie'] + ' in what year?';
         var answer = supp_movie['year'];
     }
 
