@@ -15,7 +15,7 @@ def create_jsons():
 
                 lead_movie_names = row['Lead'].split('), ')
                 for movie_name in lead_movie_names:
-                    if ')' in movie_name:
+                    if movie_name.endswith(')'):
                         lead_movie_dict = {
                             'movie': movie_name[:-7],
                             'year': movie_name[len(movie_name)-5:len(movie_name)-1],
@@ -32,7 +32,7 @@ def create_jsons():
 
                 supp_movie_names = row['Supporting'].split('), ')
                 for movie_name in supp_movie_names:
-                    if ')' in movie_name:
+                    if movie_name.endswith(')'):
                         supp_movie_dict = {
                             'movie': movie_name[:-7],
                             'year': movie_name[len(movie_name)-5:len(movie_name)-1],
@@ -58,7 +58,7 @@ def create_jsons():
             director_dict[name] = []
             movie_names = row['Movies'].split('), ')
             for movie_name in movie_names:
-                if ')' in movie_name:
+                if movie_name.endswith(')'):
                     single_movie_dict = {
                         'movie': movie_name[:-7],
                         'year': movie_name[len(movie_name)-5:len(movie_name)-1],
