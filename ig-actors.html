@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <title>MTS Question Generator</title>
+</head>
+
+<header>
+    <ul id="nav">
+        <li class="navlink"><a class="inactive" href="index.html">Oscars</a></li>
+        <li class="navlink"><a class="active" href="ig-actors.html">IG Supporting Actors</a></li>
+        <li class="navlink"><a class="inactive" href="taglines.html">IG Taglines</a></li>
+        <li class="navlink"><a class="inactive" href="sw-characters.html">SW Characters</a></li>
+    </ul>
+</header>
+
+<div id="main">
+    <button id="displayBtn" onclick="displayAnswer()">
+        Display Answer
+    </button>
+    <button id="resetBtn" onclick="reset()" style="margin-left: 15px">
+        Reset
+    </button>
+    <br>
+    <br>
+
+    <p id="question"></p>
+    <br>
+
+    <strong><p id="answer"></p></strong>
+    <ul>
+        <li><p id="answer1"></p></li>
+        <li><p id="answer2"></p></li>
+        <li><p id="answer3"></p></li>
+    </ul>
+    <br>
+</div>
+<br>
+
+<script src="data_movies.js"></script>
+<script src="data_actors.js"></script>
+<script src="collect_actor_data.js"></script>
+<script type="text/javascript" charset="utf-8">
+    document.getElementById("question").innerHTML = question;
+</script>
