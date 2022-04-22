@@ -1,4 +1,4 @@
-var ig_actor_map = {
+var director_map = {
     "Aaron Sorkin": [
         {
             "movie": "Molly's Game",
