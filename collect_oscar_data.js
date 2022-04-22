@@ -83,6 +83,7 @@ for (const actor of actors) {
         var supp_movie = randomItem(supp_movies);
         var question = actor + ' was nominated for their ' + question_type + 'performance in ' + supp_movie['movie'] + ' in what year?';
         var answer = supp_movie['year'];
+    }
 
     questions.push(question);
     answers.push(answer);
