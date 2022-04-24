@@ -2,7 +2,7 @@ import csv
 import json
 import random
 
-def create_jsons():
+def generate_jsons():
     # oscars data
     actor_oscar_dict = {}
     with open(r'python/csv/Oscars - Actors.csv', encoding='utf-8') as csvf:
@@ -45,7 +45,7 @@ def create_jsons():
                         }
                         actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
 
-    with open(r'python/actor-oscars.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/json/actor-oscars.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(actor_oscar_dict, indent=4))
 
 
@@ -71,7 +71,7 @@ def create_jsons():
                     }
                     director_dict[name].append(single_movie_dict)
 
-    with open(r'python/directors.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/json/directors.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(director_dict, indent=4))
 
 
@@ -83,7 +83,7 @@ def create_jsons():
             movie = row['movie']
             ig_movie_dict[movie] = row
 
-    with open(r'python/ig-movies.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(ig_movie_dict, indent=4))
 
 
@@ -109,7 +109,7 @@ def create_jsons():
 
             ig_actor_dict[movie][level].append(single_actor_dict)
 
-    with open(r'python/ig-actors.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/json/ig-actors.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(ig_actor_dict, indent=4))
 
 
@@ -125,7 +125,7 @@ def create_jsons():
 
             tagline_dict[movie].append(row['tagline'])
 
-    with open(r'python/taglines.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/json/ig-taglines.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(tagline_dict, indent=4))
 
 
@@ -137,48 +137,7 @@ def create_jsons():
             name = row['name']
             sw_character_dict[name] = row
 
-    with open(r'python/sw-characters.json', 'w', encoding='utf-8') as jsonf:
+    with open(r'python/json/sw-characters.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(sw_character_dict, indent=4))
 
-
-def generate_questions():
-    # create a dictionary
-    movie_dict = {}
-    with open('python/movies.json') as json_file:
-        data = json.load(json_file)
-        for movie in data.keys():
-            movie_dict[movie] = data[movie]
-
-    questions = []
-    with open('python/actors.json') as json_file:
-        data = json.load(json_file)
-
-        question_count = 20
-        for n in range(question_count):
-            movie = random.choice(list(data))
-            category = movie_dict[movie]['categories']
-            full_list = data[movie]['supporting']
-            random_list = random.sample(full_list, k=3)
-
-            actor1 = random_list[0]['actor']
-            actor2 = random_list[1]['actor']
-            actor3 = random_list[2]['actor']
-            name1 = random_list[0]['name']
-            name2 = random_list[1]['name']
-            name3 = random_list[2]['name']
-
-            question = f'{n+1}. What {category} film includes {actor1}, {actor2}, and {actor3}?'
-            answer = f'{n+1}. {movie} as {name1}, {name2}, and {name3}'
-            questions.append({
-                'question': question,
-                'answer': answer
-            })
-
-        print(questions)
-        fieldnames = ['question', 'answer']
-        with open('questions.csv', 'w', encoding='UTF8', newline='') as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
-            writer.writeheader()
-            writer.writerows(questions)
-
-create_jsons()
+generate_jsons()
