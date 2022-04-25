@@ -5,17 +5,35 @@
         "species": "2-1B-series medical droid",
         "actor": "Denny Delk (voice)"
     },
+    "4-A7": {
+        "name": "4-A7",
+        "homeworld": "",
+        "species": "RA-7 protocol droid",
+        "actor": "James Arnold Taylor (voice)"
+    },
     "4-LOM": {
         "name": "4-LOM",
         "homeworld": "",
         "species": "LOM-series protocol droid",
         "actor": "Chris Parsons"
     },
+    "4D6-J-A7": {
+        "name": "4D6-J-A7",
+        "homeworld": "",
+        "species": "RA-7 protocol droid",
+        "actor": "Nathan Plant"
+    },
     "8D8": {
         "name": "8D8",
         "homeworld": "",
         "species": "8D-series smelter droid",
         "actor": ""
+    },
+    "A'Koba": {
+        "name": "A'Koba",
+        "homeworld": "Tatooine",
+        "species": "Tusken Raider",
+        "actor": "Peter Diamond"
     },
     "Aayla Secura": {
         "name": "Aayla Secura",
@@ -41,6 +59,12 @@
         "species": "Mon Calamari",
         "actor": "Tom Wilton, Chris Terrio (voice)"
     },
+    "Agen Kolar": {
+        "name": "Agen Kolar",
+        "homeworld": "Coruscant",
+        "species": "Zabrak (Iridonian)",
+        "actor": "Tux Akindoyeni"
+    },
     "Ahsoka Tano": {
         "name": "Ahsoka Tano",
         "homeworld": "Shili",
@@ -53,17 +77,53 @@
         "species": "Gran",
         "actor": "Mark Coulier, Marc Silk (voice)"
     },
+    "Alayus Bolandin": {
+        "name": "Alayus Bolandin",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Hal Fowler"
+    },
+    "Amee": {
+        "name": "Amee",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "actor": "Katie Lucas"
+    },
+    "Ames Uravan": {
+        "name": "Ames Uravan",
+        "homeworld": "Christophsis",
+        "species": "Human",
+        "actor": "Robert Benedetti-Hall"
+    },
     "Amilyn Holdo": {
         "name": "Amilyn Holdo",
         "homeworld": "Gatalenta",
         "species": "Human",
         "actor": "Laura Dern"
     },
+    "Amuncie Tidian": {
+        "name": "Amuncie Tidian",
+        "homeworld": "",
+        "species": "Boosodian",
+        "actor": "Nick Kellington"
+    },
     "Anakin Skywalker / Darth Vader": {
         "name": "Anakin Skywalker / Darth Vader",
         "homeworld": "Tatooine",
         "species": "Human",
         "actor": "David Prowse, James Earl Jones (voice), Sebastian Shaw (VI), Jake Lloyd (I), Hayden Christensen, Matt Lanter (voice in TCW), Spencer Wilding (RO), Daniel Naprous (RO)"
+    },
+    "Anj Zavor": {
+        "name": "Anj Zavor",
+        "homeworld": "Majoros",
+        "species": "Human",
+        "actor": "Henry Roberts (IV)"
+    },
+    "Ansiv Garmuth": {
+        "name": "Ansiv Garmuth",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Ralph Ineson"
     },
     "Antidar Williams": {
         "name": "Antidar Williams",
@@ -77,6 +137,24 @@
         "species": "Human",
         "actor": "Ben Daniels"
     },
+    "Apailana": {
+        "name": "Apailana",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Keisha Castle-Hughes"
+    },
+    "Arashell Sar": {
+        "name": "Arashell Sar",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Sara Heller"
+    },
+    "Arhul Hextrophon": {
+        "name": "Arhul Hextrophon",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Nick Joseph"
+    },
     "Arleil Schous": {
         "name": "Arleil Schous",
         "homeworld": "",
@@ -89,11 +167,23 @@
         "species": "Human",
         "actor": "Domhnall Gleeson"
     },
+    "Arro Basteren": {
+        "name": "Arro Basteren",
+        "homeworld": "Ertegas",
+        "species": "Human",
+        "actor": "James Harkness"
+    },
     "Arvel Crynyd": {
         "name": "Arvel Crynyd",
         "homeworld": "",
         "species": "Human",
         "actor": "Hilton McRae"
+    },
+    "Arven Wendik": {
+        "name": "Arven Wendik",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Clarence Smith"
     },
     "Asajj Ventress": {
         "name": "Asajj Ventress",
@@ -112,6 +202,12 @@
         "homeworld": "",
         "species": "Human",
         "actor": "Sema-Tawi Smart, Baraka May (voice)"
+    },
+    "Auromae Iselo": {
+        "name": "Auromae Iselo",
+        "homeworld": "",
+        "species": "Melbu",
+        "actor": "Derek Arnold"
     },
     "Aurra Sing": {
         "name": "Aurra Sing",
@@ -143,11 +239,23 @@
         "species": "Duros",
         "actor": "Jon Berg"
     },
+    "Barion Raner": {
+        "name": "Barion Raner",
+        "homeworld": "Ord Mantell",
+        "species": "Human",
+        "actor": "Ariyon Bakare"
+    },
     "Barriss Offee": {
         "name": "Barriss Offee",
         "homeworld": "Mirial",
         "species": "Mirialan",
         "actor": "Nalini Krishan"
+    },
+    "Bastian": {
+        "name": "Bastian",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Tosin Cole"
     },
     "Baze Malbus": {
         "name": "Baze Malbus",
@@ -191,6 +299,18 @@
         "species": "Human (Chandrilan)",
         "actor": "Adam Driver"
     },
+    "Ben Teene": {
+        "name": "Ben Teene",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Ben Morris"
+    },
+    "Bene": {
+        "name": "Bene",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Mousy McCallum"
+    },
     "Benthic \"Two Tubes\"": {
         "name": "Benthic \"Two Tubes\"",
         "homeworld": "Yar Togna",
@@ -233,6 +353,12 @@
         "species": "Human",
         "actor": "Robert Watts"
     },
+    "Bob Hudsol": {
+        "name": "Bob Hudsol",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "John William Ault"
+    },
     "Boba Fett": {
         "name": "Boba Fett",
         "homeworld": "Kamino",
@@ -262,6 +388,12 @@
         "homeworld": "",
         "species": "Urodel",
         "actor": "Ian Whyte"
+    },
+    "Bolvan": {
+        "name": "Bolvan",
+        "homeworld": "",
+        "species": "",
+        "actor": "John Forgeham"
     },
     "Bom Vindin": {
         "name": "Bom Vindin",
@@ -311,6 +443,12 @@
         "species": "Human",
         "actor": "John Ratzenberger"
     },
+    "Bultar Swan": {
+        "name": "Bultar Swan",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Mimi Daraphet"
+    },
     "C-3PO": {
         "name": "C-3PO",
         "homeworld": "Tatooine",
@@ -340,6 +478,12 @@
         "homeworld": "Alderaan",
         "species": "Human (Alderaanian)",
         "actor": "Bruce Boa"
+    },
+    "Casido": {
+        "name": "Casido",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Rufus Wright"
     },
     "Cassian Jeron Andor": {
         "name": "Cassian Jeron Andor",
@@ -371,6 +515,12 @@
         "species": "Human (clone)",
         "actor": ""
     },
+    "Cellheim Anujo": {
+        "name": "Cellheim Anujo",
+        "homeworld": "",
+        "species": "",
+        "actor": "T.V. Moore, Dean Mitchell"
+    },
     "Chewbacca": {
         "name": "Chewbacca",
         "homeworld": "Kashyyyk",
@@ -394,6 +544,12 @@
         "homeworld": "Jedha",
         "species": "Human",
         "actor": "Donnie Yen"
+    },
+    "Cin Drallig": {
+        "name": "Cin Drallig",
+        "homeworld": "Lavisar",
+        "species": "Human",
+        "actor": "Nick Gillard"
     },
     "Cliegg Lars": {
         "name": "Cliegg Lars",
@@ -437,11 +593,29 @@
         "species": "Human (clone)",
         "actor": "Dee Bradley Baker (voice)"
     },
+    "Cypress": {
+        "name": "Cypress",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Gerry Abrams"
+    },
+    "CZ-3": {
+        "name": "CZ-3",
+        "homeworld": "",
+        "species": "CZ-series secretary/business communications droid",
+        "actor": ""
+    },
     "D-O": {
         "name": "D-O",
         "homeworld": "",
         "species": "",
         "actor": "J. J. Abrams (voice), Robin Guiver (puppet), Lynn Robertson Bruce (puppet)"
+    },
+    "Daine Jir": {
+        "name": "Daine Jir",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Al Lampert"
     },
     "Dak Ralter": {
         "name": "Dak Ralter",
@@ -461,17 +635,35 @@
         "species": "Human (Naboo)",
         "actor": "Ian McDiarmid, Marjorie Eaton (V), Ian Abercrombie (voice in TCW)"
     },
+    "Daultay Dofine": {
+        "name": "Daultay Dofine",
+        "homeworld": "Neimoidia",
+        "species": "Neimoidian",
+        "actor": "Alan Ruscoe, Chris Sanders (voice)"
+    },
     "Davish Krail": {
         "name": "Davish Krail",
         "homeworld": "Dantooine",
         "species": "Human",
         "actor": "Graham Ashley"
     },
+    "Davits Draven": {
+        "name": "Davits Draven",
+        "homeworld": "Pendarr III",
+        "species": "Human",
+        "actor": "Alistair Petrie"
+    },
     "Debnoli": {
         "name": "Debnoli",
         "homeworld": "",
         "species": "Human",
         "actor": "George Oliver"
+    },
+    "Dellso Prin": {
+        "name": "Dellso Prin",
+        "homeworld": "",
+        "species": "Cingulon",
+        "actor": "Nick Kellington"
     },
     "Dengar": {
         "name": "Dengar",
@@ -509,6 +701,12 @@
         "species": "Lamproid",
         "actor": ""
     },
+    "Dine\u00e9 Ellberger": {
+        "name": "Dine\u00e9 Ellberger",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Celia Imrie"
+    },
     "DJ": {
         "name": "DJ",
         "homeworld": "",
@@ -545,11 +743,23 @@
         "species": "Human (Serennian)",
         "actor": "Christopher Lee"
     },
+    "Dopheld Mitaka": {
+        "name": "Dopheld Mitaka",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Sebastian Armesto"
+    },
     "Dorm\u00e9": {
         "name": "Dorm\u00e9",
         "homeworld": "Naboo",
         "species": "Human (Naboo)",
         "actor": "Rose Byrne"
+    },
+    "Drawd Munbrin": {
+        "name": "Drawd Munbrin",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Andrew Woodall"
     },
     "Dryden Vos": {
         "name": "Dryden Vos",
@@ -563,11 +773,53 @@
         "species": "Vulptereen",
         "actor": ""
     },
+    "Dunstig Pterro": {
+        "name": "Dunstig Pterro",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Tony Pitts"
+    },
+    "Edmos Khurgee": {
+        "name": "Edmos Khurgee",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Christopher Muncke"
+    },
+    "Edon Kappehl": {
+        "name": "Edon Kappehl",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Dan Euston"
+    },
+    "Edrio \"Two Tubes\"": {
+        "name": "Edrio \"Two Tubes\"",
+        "homeworld": "Yar Togna",
+        "species": "Tognath",
+        "actor": "Aidan Cook"
+    },
+    "Edrison Peavey": {
+        "name": "Edrison Peavey",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Adrian Edmondson"
+    },
     "Eeth Koth": {
         "name": "Eeth Koth",
         "homeworld": "Iridonia",
         "species": "Zabrak (Iridonian)",
         "actor": "Hassani Shapi"
+    },
+    "Eirta\u00e9": {
+        "name": "Eirta\u00e9",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Friday \"Liz\" Wilson"
+    },
+    "Elan Sel'Sabagno": {
+        "name": "Elan Sel'Sabagno",
+        "homeworld": "",
+        "species": "Balosar",
+        "actor": "Matt Doran"
     },
     "Elis Helrot": {
         "name": "Elis Helrot",
@@ -581,6 +833,18 @@
         "species": "Abednedo",
         "actor": "Paul Kasey, Matthew Wood (voice)"
     },
+    "Elyhek Rue": {
+        "name": "Elyhek Rue",
+        "homeworld": "Brentaal IV",
+        "species": "Human",
+        "actor": "Mykel Mills"
+    },
+    "Enfield": {
+        "name": "Enfield",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Ron Conrad"
+    },
     "Enfys Nest": {
         "name": "Enfys Nest",
         "homeworld": "",
@@ -593,11 +857,41 @@
         "species": "Human",
         "actor": "Richard E. Grant"
     },
+    "Erich S. Datoo": {
+        "name": "Erich S. Datoo",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Rocky Marshall"
+    },
     "Even Piell": {
         "name": "Even Piell",
         "homeworld": "Lannik",
         "species": "Lannik",
         "actor": "Michaela Cottrell"
+    },
+    "Faddera Rabar": {
+        "name": "Faddera Rabar",
+        "homeworld": "",
+        "species": "Dyplotid",
+        "actor": "Barbara Fadden"
+    },
+    "Falthina Sharest": {
+        "name": "Falthina Sharest",
+        "homeworld": "Corellia",
+        "species": "Human (Corellian)",
+        "actor": "Anna Francolini"
+    },
+    "Fang Zar": {
+        "name": "Fang Zar",
+        "homeworld": "Sern Prime",
+        "species": "Human",
+        "actor": "Warren Owens"
+    },
+    "Farns Monsbee": {
+        "name": "Farns Monsbee",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Simon Farnaby"
     },
     "Feltipern Trevagg": {
         "name": "Feltipern Trevagg",
@@ -605,11 +899,23 @@
         "species": "Gotal",
         "actor": ""
     },
+    "Fema Baab": {
+        "name": "Fema Baab",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Olive Levi"
+    },
     "Figrin D'an": {
         "name": "Figrin D'an",
         "homeworld": "Bith",
         "species": "Bith",
         "actor": ""
+    },
+    "Finch Dallow": {
+        "name": "Finch Dallow",
+        "homeworld": "Aduba",
+        "species": "Human",
+        "actor": "Kevin Layne"
     },
     "Finis Valorum": {
         "name": "Finis Valorum",
@@ -629,17 +935,41 @@
         "species": "Human",
         "actor": "Kenneth Colley"
     },
+    "FN-2003": {
+        "name": "FN-2003",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Pip Andersen"
+    },
     "FN-2199": {
         "name": "FN-2199",
         "homeworld": "",
         "species": "Human",
         "actor": "Liang Yang, David Acord (voice)"
     },
+    "FN-3181": {
+        "name": "FN-3181",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Michael Giacchino"
+    },
+    "FN-9330": {
+        "name": "FN-9330",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Nigel Godrich"
+    },
     "Fodesinbeed Annodue": {
         "name": "Fodesinbeed Annodue",
         "homeworld": "Pollillus",
         "species": "Troig",
         "actor": "Greg Proops, Scott Capurro"
+    },
+    "Frobb": {
+        "name": "Frobb",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Geoff Bell"
     },
     "Galen Walton Erso": {
         "name": "Galen Walton Erso",
@@ -665,6 +995,18 @@
         "species": "Xexto",
         "actor": ""
     },
+    "Gelan Yees": {
+        "name": "Gelan Yees",
+        "homeworld": "",
+        "species": "Sabat",
+        "actor": "Dilu Miah"
+    },
+    "Geno Namit": {
+        "name": "Geno Namit",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Hugh Skinner"
+    },
     "Gherant": {
         "name": "Gherant",
         "homeworld": "",
@@ -676,6 +1018,24 @@
         "homeworld": "Mon Cala",
         "species": "Mon Calamari",
         "actor": "Tim Rose, Erik Bauersfeld (voice in VI, VII), Tom Kane (voice in VIII)"
+    },
+    "Giddean Danu": {
+        "name": "Giddean Danu",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Christopher Kirby"
+    },
+    "Goneril": {
+        "name": "Goneril",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Amira Ghazalla"
+    },
+    "Gorin": {
+        "name": "Gorin",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Michael Gould"
     },
     "Grakchawwaa": {
         "name": "Grakchawwaa",
@@ -701,11 +1061,29 @@
         "species": "Kaleesh",
         "actor": "Matthew Wood (voice)"
     },
+    "Grondorn Muse": {
+        "name": "Grondorn Muse",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Dave Holland"
+    },
     "Grummgar": {
         "name": "Grummgar",
         "homeworld": "Dowut",
         "species": "Dowutin",
         "actor": "Patrick Comerford, Don Austen, Andy Heath, Katherine Smee, Lynn Robertson Bruce, Iestyn Evans"
+    },
+    "Guich": {
+        "name": "Guich",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jeffery Kissoon"
+    },
+    "Guila Angira": {
+        "name": "Guila Angira",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Aki Omoshaybi"
     },
     "Han Solo": {
         "name": "Han Solo",
@@ -713,11 +1091,29 @@
         "species": "Human (Corellian)",
         "actor": "Harrison Ford, Alden Ehrenreich (S)"
     },
+    "Harter Kalonia": {
+        "name": "Harter Kalonia",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Harriet Walter"
+    },
+    "Heff Tobber": {
+        "name": "Heff Tobber",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Toby Hefferman"
+    },
     "Hem Dazon": {
         "name": "Hem Dazon",
         "homeworld": "",
         "species": "Arcona",
         "actor": "Laine Liska"
+    },
+    "Hermione Bagwa": {
+        "name": "Hermione Bagwa",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Susie Porter"
     },
     "Het Nkik": {
         "name": "Het Nkik",
@@ -731,11 +1127,17 @@
         "species": "Saurin",
         "actor": ""
     },
+    "Huetrin Jones": {
+        "name": "Huetrin Jones",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jack Greenlees"
+    },
     "Hurst Romodi": {
         "name": "Hurst Romodi",
         "homeworld": "Virujansi",
         "species": "Human",
-        "actor": "Andy de la Tour"
+        "actor": "Ian Selby (IV), Andy de la Tour (RO)"
     },
     "Ickabel G'ont": {
         "name": "Ickabel G'ont",
@@ -743,17 +1145,41 @@
         "species": "Bith",
         "actor": ""
     },
+    "Idrosen Gawat": {
+        "name": "Idrosen Gawat",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Togo Igawa"
+    },
     "IG-88B": {
         "name": "IG-88B",
         "homeworld": "",
         "species": "IG-88 assassin droid",
         "actor": ""
     },
+    "Infrablue Zedbeddy Coggins": {
+        "name": "Infrablue Zedbeddy Coggins",
+        "homeworld": "",
+        "species": "Zenezian",
+        "actor": "Kiran Shah"
+    },
+    "J. K. Burtola": {
+        "name": "J. K. Burtola",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Alex Knoll"
+    },
     "Jabba Desilijic Tiure": {
         "name": "Jabba Desilijic Tiure",
         "homeworld": "Nal Hutta / Tatooine",
         "species": "Hutt",
         "actor": "Toby Philpott (VI), David Barclay (VI), Mike Edmonds (VI), Larry Ward (voice in VI), Kevin Michael Richardson (voice in TCW)"
+    },
+    "Jaldine Gerams": {
+        "name": "Jaldine Gerams",
+        "homeworld": "Fresia",
+        "species": "Human",
+        "actor": "Geraldine James"
     },
     "Jamillia": {
         "name": "Jamillia",
@@ -779,11 +1205,29 @@
         "species": "Human",
         "actor": "Naomi Ackie"
     },
+    "Janu Godalhi": {
+        "name": "Janu Godalhi",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Pablo Hidalgo"
+    },
     "Jar Jar Binks": {
         "name": "Jar Jar Binks",
         "homeworld": "Naboo",
         "species": "Gungan (Otolla)",
         "actor": "Ahmed Best"
+    },
+    "Jav Mefran": {
+        "name": "Jav Mefran",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Francis Magee"
+    },
+    "Jaycris Tubbs": {
+        "name": "Jaycris Tubbs",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jamie Christopher"
     },
     "Jek Tono Porkins": {
         "name": "Jek Tono Porkins",
@@ -797,11 +1241,23 @@
         "species": "Human",
         "actor": "Jenny Cresswell"
     },
+    "Jeremoch Colton": {
+        "name": "Jeremoch Colton",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jeremy Bulloch"
+    },
     "Jeroen Webb": {
         "name": "Jeroen Webb",
         "homeworld": "Ralltiir",
         "species": "Human",
         "actor": "Norwich Duff"
+    },
+    "Jerus Jannick": {
+        "name": "Jerus Jannick",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Dominic West"
     },
     "Jess": {
         "name": "Jess",
@@ -820,6 +1276,30 @@
         "homeworld": "",
         "species": "Human",
         "actor": "Adam Bareham"
+    },
+    "Jira": {
+        "name": "Jira",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "actor": "Margaret Towner"
+    },
+    "Jobal Naberrie": {
+        "name": "Jobal Naberrie",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Trisha Noble"
+    },
+    "Jober Tavson": {
+        "name": "Jober Tavson",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Michael Jibson"
+    },
+    "Jocasta Nu": {
+        "name": "Jocasta Nu",
+        "homeworld": "Coruscant",
+        "species": "Human (Coruscanti)",
+        "actor": "Alethea McGrath"
     },
     "Joclad Danva": {
         "name": "Joclad Danva",
@@ -857,11 +1337,23 @@
         "species": "3PO-series protocol droid",
         "actor": "Chris Parsons"
     },
+    "K-OHN": {
+        "name": "K-OHN",
+        "homeworld": "",
+        "species": "L-1 tactical droid",
+        "actor": "Dee Tails"
+    },
     "Kabe": {
         "name": "Kabe",
         "homeworld": "Chad",
         "species": "Chadra-Fan",
         "actor": ""
+    },
+    "Kado Oquon\u00e9": {
+        "name": "Kado Oquon\u00e9",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Angus Wright"
     },
     "Kaljach Sonmi": {
         "name": "Kaljach Sonmi",
@@ -869,11 +1361,23 @@
         "species": "Heptooinian",
         "actor": ""
     },
+    "Kaplan": {
+        "name": "Kaplan",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Pip Torrens"
+    },
     "Kardue'sai'Malloc": {
         "name": "Kardue'sai'Malloc",
         "homeworld": "Devaron",
         "species": "Devaronian",
         "actor": ""
+    },
+    "Karjj": {
+        "name": "Karjj",
+        "homeworld": "",
+        "species": "Crocin",
+        "actor": "Kiran Shah"
     },
     "Kaydel Ko Connix": {
         "name": "Kaydel Ko Connix",
@@ -923,11 +1427,29 @@
         "species": "Trodatome",
         "actor": "Nick Kellington"
     },
+    "KMD-RA-71": {
+        "name": "KMD-RA-71",
+        "homeworld": "",
+        "species": "RA-7 protocol droid",
+        "actor": "Nathan Plant"
+    },
     "Korr Sella": {
         "name": "Korr Sella",
         "homeworld": "Hosnian Prime",
         "species": "Human",
         "actor": "Maisie Richardson-Sellers"
+    },
+    "Korso": {
+        "name": "Korso",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "John Tui"
+    },
+    "KRONOS-327": {
+        "name": "KRONOS-327",
+        "homeworld": "",
+        "species": "IG-86 sentinel droid",
+        "actor": "Corey Burton (voice)"
     },
     "Kuruk": {
         "name": "Kuruk",
@@ -941,6 +1463,12 @@
         "species": "",
         "actor": "Phoebe Waller-Bridge"
     },
+    "Lama Su": {
+        "name": "Lama Su",
+        "homeworld": "Kamino",
+        "species": "Kaminoan",
+        "actor": "Anthony Phelan"
+    },
     "Landonis Balthazar Calrissian": {
         "name": "Landonis Balthazar Calrissian",
         "homeworld": "Socorro",
@@ -952,6 +1480,12 @@
         "homeworld": "Tarsunt",
         "species": "Tarsunt",
         "actor": "Derek Arnold"
+    },
+    "Lank Paze": {
+        "name": "Lank Paze",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Paul Bazely"
     },
     "Lanzora Garan": {
         "name": "Lanzora Garan",
@@ -977,11 +1511,23 @@
         "species": "Human (Alderaanian)",
         "actor": "Carrie Fisher, Aidan Barton (III), Ingvild Deila (RO)"
     },
+    "Lema Eelyak": {
+        "name": "Lema Eelyak",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Claudia Sermbezis"
+    },
     "Lennox": {
         "name": "Lennox",
         "homeworld": "",
         "species": "Human",
         "actor": "John Dicks"
+    },
+    "Lexi": {
+        "name": "Lexi",
+        "homeworld": "Corellia",
+        "species": "Human",
+        "actor": "Lily Newmark"
     },
     "Lirin Car'n": {
         "name": "Lirin Car'n",
@@ -1019,6 +1565,12 @@
         "species": "Neimoidian",
         "actor": "Silas Carson, Toby Longworth (voice)"
     },
+    "Lovey": {
+        "name": "Lovey",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Lily Cole"
+    },
     "Luke Skywalker": {
         "name": "Luke Skywalker",
         "homeworld": "Tatooine",
@@ -1030,6 +1582,12 @@
         "homeworld": "Mirial",
         "species": "Mirialan",
         "actor": "Mary Oyaya (II), Fay David (III), Olivia d'Abo (voice in IX)"
+    },
+    "Lunae Minx": {
+        "name": "Lunae Minx",
+        "homeworld": "Ryloth",
+        "species": "Twi'lek",
+        "actor": "Katie Lucas"
     },
     "Lyra Erso": {
         "name": "Lyra Erso",
@@ -1054,6 +1612,36 @@
         "homeworld": "Corellia",
         "species": "Human (Corellian)",
         "actor": "Paul Brooke, Ernie Fosselius (voice)"
+    },
+    "Mal\u00e9-Dee": {
+        "name": "Mal\u00e9-Dee",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Kee Chan"
+    },
+    "Mandetat": {
+        "name": "Mandetat",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jack Laskey"
+    },
+    "Maoi Madakor": {
+        "name": "Maoi Madakor",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Bronagh Gallagher"
+    },
+    "Margo": {
+        "name": "Margo",
+        "homeworld": "Imroosia",
+        "species": "Imroosian",
+        "actor": "Charlotte Louise"
+    },
+    "Mari Amithest": {
+        "name": "Mari Amithest",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Phoebe Yiamkiati"
     },
     "Mas Amedda": {
         "name": "Mas Amedda",
@@ -1097,11 +1685,35 @@
         "species": "Sarkan",
         "actor": ""
     },
+    "Melee": {
+        "name": "Melee",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "actor": "Megan Udall"
+    },
     "Merc Sunlet": {
         "name": "Merc Sunlet",
         "homeworld": "Tirac Munda",
         "species": "Human",
         "actor": "Ted Western"
+    },
+    "Merumeru": {
+        "name": "Merumeru",
+        "homeworld": "Kashyyyk",
+        "species": "Wookiee",
+        "actor": "Axel Dench"
+    },
+    "Meta": {
+        "name": "Meta",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Morgan Dameron"
+    },
+    "Min Sakul": {
+        "name": "Min Sakul",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Leanne Best"
     },
     "Moden Canady": {
         "name": "Moden Canady",
@@ -1139,6 +1751,12 @@
         "species": "Nimbanel",
         "actor": "Annette Jones (IV), Richard Bonehill (VI)"
     },
+    "Mote\u00e9": {
+        "name": "Mote\u00e9",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Kristy Wright"
+    },
     "Muftak": {
         "name": "Muftak",
         "homeworld": "Orto Plutonia",
@@ -1150,6 +1768,12 @@
         "homeworld": "Byss",
         "species": "Abyssin",
         "actor": ""
+    },
+    "Mytus Adema": {
+        "name": "Mytus Adema",
+        "homeworld": "Planetoid A.17",
+        "species": "Human",
+        "actor": "Jack Roth"
     },
     "Nabrun Leids": {
         "name": "Nabrun Leids",
@@ -1163,11 +1787,29 @@
         "species": "Bith",
         "actor": ""
     },
+    "Naley Frifa": {
+        "name": "Naley Frifa",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "L'ain Freefall"
+    },
+    "Nastia Unamo": {
+        "name": "Nastia Unamo",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Kate Fleetwood"
+    },
     "Nee Alavar": {
         "name": "Nee Alavar",
         "homeworld": "",
         "species": "Human",
         "actor": "Rena Owen"
+    },
+    "Neepers Panpick": {
+        "name": "Neepers Panpick",
+        "homeworld": "",
+        "species": "",
+        "actor": "Kiran Shah"
     },
     "Nemet": {
         "name": "Nemet",
@@ -1187,11 +1829,35 @@
         "species": "Sullustan",
         "actor": "Mike Quinn, Richard Bonehill, Kipsang Rotich (voice)"
     },
+    "Niv Lek": {
+        "name": "Niv Lek",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "James McArdle"
+    },
+    "Nodin Chavdri": {
+        "name": "Nodin Chavdri",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Navin Chowdhry"
+    },
+    "Nossit Cicer": {
+        "name": "Nossit Cicer",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Tim Steed"
+    },
     "Notluwiski Papanoida": {
         "name": "Notluwiski Papanoida",
         "homeworld": "Pantora",
         "species": "Pantoran",
         "actor": "George Lucas"
+    },
+    "Nower Jebel": {
+        "name": "Nower Jebel",
+        "homeworld": "Uyter",
+        "species": "Human",
+        "actor": "Jonathan Aris"
     },
     "Nute Gunray": {
         "name": "Nute Gunray",
@@ -1229,17 +1895,35 @@
         "species": "Human",
         "actor": "John Williams"
     },
+    "Omalin Fisker": {
+        "name": "Omalin Fisker",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Francesca Longrigg"
+    },
     "Omi": {
         "name": "Omi",
         "homeworld": "Vodran",
         "species": "Dianoga",
         "actor": ""
     },
+    "Oniho Zaya": {
+        "name": "Oniho Zaya",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Josiah Oniha"
+    },
     "Oola": {
         "name": "Oola",
         "homeworld": "Ryloth",
         "species": "Twi'lek",
         "actor": "Femi Taylor"
+    },
+    "Oolin Musters": {
+        "name": "Oolin Musters",
+        "homeworld": "",
+        "species": "Blutopian",
+        "actor": "Kiran Shah"
     },
     "Oppo Rancisis": {
         "name": "Oppo Rancisis",
@@ -1258,6 +1942,18 @@
         "homeworld": "Lexrul",
         "species": "Human",
         "actor": "Ben Mendelsohn"
+    },
+    "Osleo Prennert": {
+        "name": "Osleo Prennert",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Lorne Peterson"
+    },
+    "Ottilie": {
+        "name": "Ottilie",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Samantha Colley"
     },
     "Owen Lars": {
         "name": "Owen Lars",
@@ -1283,6 +1979,12 @@
         "species": "Human",
         "actor": "Veronica Ngo"
     },
+    "Pammich Nerro Goode": {
+        "name": "Pammich Nerro Goode",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Crystal Clarke"
+    },
     "Pao": {
         "name": "Pao",
         "homeworld": "Pipada",
@@ -1295,11 +1997,23 @@
         "species": "Ewok",
         "actor": "Kenny Baker"
     },
+    "Passel Argente": {
+        "name": "Passel Argente",
+        "homeworld": "Kooriva",
+        "species": "Koorivar",
+        "actor": "Steven Boyle (II), Marty Wetherill (III)"
+    },
     "Pateesa": {
         "name": "Pateesa",
         "homeworld": "",
         "species": "Rancor",
         "actor": ""
+    },
+    "Pello Scrambas": {
+        "name": "Pello Scrambas",
+        "homeworld": "Alderaan",
+        "species": "Human",
+        "actor": "Eddie Eddon"
     },
     "Phasma": {
         "name": "Phasma",
@@ -1337,11 +2051,41 @@
         "species": "Siniteen",
         "actor": ""
     },
+    "Pooja Naberrie": {
+        "name": "Pooja Naberrie",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Hayley Mooy"
+    },
+    "Porro Dolphe": {
+        "name": "Porro Dolphe",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Benedict Taylor"
+    },
+    "Praji": {
+        "name": "Praji",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "George Roubicek"
+    },
+    "Prescott": {
+        "name": "Prescott",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Peter Diamond"
+    },
     "Proxima": {
         "name": "Proxima",
         "homeworld": "Corellia",
         "species": "Grindalid",
         "actor": "Linda Hunt (voice)"
+    },
+    "Pru Sweevant": {
+        "name": "Pru Sweevant",
+        "homeworld": "Narq",
+        "species": "Narquois",
+        "actor": "Kiran Shah"
     },
     "PZ-4CO": {
         "name": "PZ-4CO",
@@ -1360,6 +2104,12 @@
         "homeworld": "Naboo",
         "species": "Human (Naboo)",
         "actor": "Hugh Quarshie"
+    },
+    "Quay Tolsite": {
+        "name": "Quay Tolsite",
+        "homeworld": "Oba Diah",
+        "species": "Pyke",
+        "actor": "Dee Tails"
     },
     "Quiggold": {
         "name": "Quiggold",
@@ -1385,17 +2135,35 @@
         "species": "R4-P astromech droid",
         "actor": ""
     },
+    "Rab\u00e9 Tonsort": {
+        "name": "Rab\u00e9 Tonsort",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Cristina da Silva"
+    },
     "Raddus": {
         "name": "Raddus",
         "homeworld": "Mon Cala",
         "species": "Mon Calamari",
         "actor": "Paul Kasey, Stephen Stanton (voice)"
     },
+    "Ralakili": {
+        "name": "Ralakili",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Clint Howard"
+    },
     "Ralo Surrel": {
         "name": "Ralo Surrel",
         "homeworld": "",
         "species": "Human",
         "actor": "Russell Balogh"
+    },
+    "Rasett Milio": {
+        "name": "Rasett Milio",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Alan Rushton"
     },
     "Raymus Antilles": {
         "name": "Raymus Antilles",
@@ -1409,6 +2177,12 @@
         "species": "Human",
         "actor": "Iko Uwais"
     },
+    "Rebolt": {
+        "name": "Rebolt",
+        "homeworld": "Corellia",
+        "species": "Human",
+        "actor": "Ian Kenny"
+    },
     "Ree-Yees": {
         "name": "Ree-Yees",
         "homeworld": "Kinyen",
@@ -1421,17 +2195,41 @@
         "species": "Ranat",
         "actor": "Sadie Eden"
     },
+    "Regineer Teed": {
+        "name": "Regineer Teed",
+        "homeworld": "",
+        "species": "",
+        "actor": "Dee Tails"
+    },
+    "Resdox": {
+        "name": "Resdox",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "James McGrath"
+    },
     "Rey Skywalker": {
         "name": "Rey Skywalker",
         "homeworld": "Jakku",
         "species": "Human",
         "actor": "Daisy Ridley, Cailey Fleming (VII)"
     },
+    "Ric Oli\u00e9": {
+        "name": "Ric Oli\u00e9",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Ralph Brown"
+    },
     "Rio Durant": {
         "name": "Rio Durant",
         "homeworld": "Ardennia",
         "species": "Ardennian",
         "actor": "Katy Kartwheel, Jon Favreau (voice)"
+    },
+    "Rodinon": {
+        "name": "Rodinon",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Richard Riddell"
     },
     "Romas Navander": {
         "name": "Romas Navander",
@@ -1469,11 +2267,23 @@
         "species": "Hutt",
         "actor": "David Acord (voice)"
     },
+    "Ruescott Melshi": {
+        "name": "Ruescott Melshi",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Duncan Pow"
+    },
     "Rugor Nass": {
         "name": "Rugor Nass",
         "homeworld": "Naboo",
         "species": "Gungan (Ankura)",
         "actor": "Brian Blessed (voice)"
+    },
+    "Rumitar Shay": {
+        "name": "Rumitar Shay",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Akshay Kumar"
     },
     "Rune Haako": {
         "name": "Rune Haako",
@@ -1481,11 +2291,29 @@
         "species": "Neimoidian",
         "actor": "Jerome Blake (I), James Taylor (voice in I), Alan Ruscoe (II), Chris Truswell (voice in II), Sandy Thompson (III)"
     },
+    "Ruwee Naberrie": {
+        "name": "Ruwee Naberrie",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Graeme Blundell"
+    },
     "Rycar Ryjerd": {
         "name": "Rycar Ryjerd",
         "homeworld": "",
         "species": "Bimm",
         "actor": ""
+    },
+    "Ryle Torsyn": {
+        "name": "Ryle Torsyn",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "John Ketteringham"
+    },
+    "Ryoo Naberrie": {
+        "name": "Ryoo Naberrie",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Keira Wingate"
     },
     "Sab\u00e9": {
         "name": "Sab\u00e9",
@@ -1505,6 +2333,12 @@
         "species": "Iktotchi",
         "actor": "Khan Bonfils (I), Jesse Jensen (II), Kenji Oates (III)"
     },
+    "Sagwa": {
+        "name": "Sagwa",
+        "homeworld": "Kashyyyk",
+        "species": "Wookiee",
+        "actor": "Attila Vajda"
+    },
     "Sai'torr Kal Fas": {
         "name": "Sai'torr Kal Fas",
         "homeworld": "Saurin",
@@ -1516,6 +2350,12 @@
         "homeworld": "Kowak",
         "species": "Kowakian monkey-lizard",
         "actor": "Mark Dodson (voice), Tim Rose (puppet)"
+    },
+    "Saucer Head": {
+        "name": "Saucer Head",
+        "homeworld": "",
+        "species": "",
+        "actor": "Steven Bridges"
     },
     "Saw Gerrera": {
         "name": "Saw Gerrera",
@@ -1529,17 +2369,41 @@
         "species": "Dug",
         "actor": "Lewis MacLeod (voice)"
     },
+    "Seek": {
+        "name": "Seek",
+        "homeworld": "Tatooine",
+        "species": "Human",
+        "actor": "Oliver Walpole"
+    },
     "Senni Tonnika": {
         "name": "Senni Tonnika",
         "homeworld": "",
         "species": "",
         "actor": "Angela Staines"
     },
+    "Serchill Rostok": {
+        "name": "Serchill Rostok",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Matt Rippy"
+    },
     "Shaak Ti": {
         "name": "Shaak Ti",
         "homeworld": "Shili",
         "species": "Togruta",
         "actor": "Orli Shoshan (II), Maria Brill (III)"
+    },
+    "Shaef Corssin": {
+        "name": "Shaef Corssin",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Michael Shaeffer"
+    },
+    "Sharp": {
+        "name": "Sharp",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Matthew Sharp"
     },
     "Shmi Skywalker Lars": {
         "name": "Shmi Skywalker Lars",
@@ -1553,11 +2417,35 @@
         "species": "Delphidian",
         "actor": "Cavin Cornwall"
     },
+    "Silvasu Fi": {
+        "name": "Silvasu Fi",
+        "homeworld": "",
+        "species": "",
+        "actor": "Stephanie Silva"
+    },
     "Sio Bibble": {
         "name": "Sio Bibble",
         "homeworld": "Naboo",
         "species": "Human (Naboo)",
         "actor": "Oliver Ford Davies"
+    },
+    "Sirro Argonne": {
+        "name": "Sirro Argonne",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Richard Franklin"
+    },
+    "Siward Cass": {
+        "name": "Siward Cass",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Patrick Jordan"
+    },
+    "Sinuth": {
+        "name": "Sinuth",
+        "homeworld": "",
+        "species": "",
+        "actor": "Slim Khezri"
     },
     "Slowen Lo": {
         "name": "Slowen Lo",
@@ -1577,11 +2465,47 @@
         "species": "",
         "actor": "Andy Serkis"
     },
+    "Snook Uccorfay": {
+        "name": "Snook Uccorfay",
+        "homeworld": "",
+        "species": "",
+        "actor": "Nick Kellington"
+    },
+    "Sola Naberrie": {
+        "name": "Sola Naberrie",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Claudia Karvan"
+    },
+    "Sotorus Ramda": {
+        "name": "Sotorus Ramda",
+        "homeworld": "Rine-cathe 111",
+        "species": "Human",
+        "actor": "Richard Cunningham"
+    },
     "Stass Allie": {
         "name": "Stass Allie",
         "homeworld": "Tholoth",
         "species": "Tholothian",
         "actor": "Lily Nyamwasa"
+    },
+    "Stomeroni Starck": {
+        "name": "Stomeroni Starck",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Noah Segan"
+    },
+    "Stordan Tonc": {
+        "name": "Stordan Tonc",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Jordan Stephens"
+    },
+    "Suday Bascus": {
+        "name": "Suday Bascus",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Orion Lee"
     },
     "Sun'il Ei'de": {
         "name": "Sun'il Ei'de",
@@ -1605,6 +2529,18 @@
         "name": "Sy-O",
         "homeworld": "",
         "species": "Exogorth",
+        "actor": ""
+    },
+    "Tabala Zo": {
+        "name": "Tabala Zo",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Philicia Saunders"
+    },
+    "Tag Greenley": {
+        "name": "Tag Greenley",
+        "homeworld": "",
+        "species": "",
         "actor": ""
     },
     "Taidu Sefla": {
@@ -1631,11 +2567,23 @@
         "species": "Human",
         "actor": "Hermione Corfield"
     },
+    "Tanbris": {
+        "name": "Tanbris",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Andy Bradford"
+    },
     "Tarfful": {
         "name": "Tarfful",
         "homeworld": "Kashyyyk",
         "species": "Wookiee",
         "actor": "Michael Kingma"
+    },
+    "Taslin Brance": {
+        "name": "Taslin Brance",
+        "homeworld": "Rinn",
+        "species": "Human",
+        "actor": "Emun Elliott"
     },
     "Tasu Leech": {
         "name": "Tasu Leech",
@@ -1648,6 +2596,24 @@
         "homeworld": "Kamino",
         "species": "Kaminoan",
         "actor": "Rena Owen (voice)"
+    },
+    "TB-2": {
+        "name": "TB-2",
+        "homeworld": "",
+        "species": "2-1B-series medical droid",
+        "actor": "Tim Brock (voice)"
+    },
+    "TC-14": {
+        "name": "TC-14",
+        "homeworld": "",
+        "species": "TC-series protocol droid",
+        "actor": "John Fensom, Lindsay Duncan (voice)"
+    },
+    "TC-70": {
+        "name": "TC-70",
+        "homeworld": "",
+        "species": "TC-series protocol droid",
+        "actor": "Nika Futterman (voice)"
     },
     "Tech Mo'r": {
         "name": "Tech Mo'r",
@@ -1691,11 +2657,35 @@
         "species": "Human",
         "actor": "Greg Grunberg"
     },
+    "Tenzigo Weems": {
+        "name": "Tenzigo Weems",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Eric MacLennan"
+    },
+    "Terr Taneel": {
+        "name": "Terr Taneel",
+        "homeworld": "Neelanon",
+        "species": "Human",
+        "actor": "Amanda Lucas"
+    },
+    "Tey How": {
+        "name": "Tey How",
+        "homeworld": "",
+        "species": "Neimoidian",
+        "actor": "Amanda Lucas (voice), Mark Silk (voice)"
+    },
     "Thanisson": {
         "name": "Thanisson",
         "homeworld": "",
         "species": "Human",
         "actor": "Thomas Brodie-Sangster"
+    },
+    "Theomet Danl\u00e9": {
+        "name": "Theomet Danl\u00e9",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Steve John Shepherd"
     },
     "Theron Nett": {
         "name": "Theron Nett",
@@ -1715,6 +2705,18 @@
         "species": "Pau'an",
         "actor": "Bruce Spence"
     },
+    "Tivik": {
+        "name": "Tivik",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Daniel Mays"
+    },
+    "TK-421": {
+        "name": "TK-421",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Stephen Bayley"
+    },
     "Tobias Beckett": {
         "name": "Tobias Beckett",
         "homeworld": "Glee Anselm",
@@ -1727,11 +2729,29 @@
         "species": "Human (Chandrilan)",
         "actor": "Brigitte Kahn"
     },
+    "Toshma Jefkin": {
+        "name": "Toshma Jefkin",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Christopher Patrick Nolan"
+    },
+    "Trech Molock": {
+        "name": "Trech Molock",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Charlie Gray"
+    },
     "Trinto Duaba": {
         "name": "Trinto Duaba",
         "homeworld": "Stennaros",
         "species": "Stennes Shifter",
         "actor": "Salo Gardner (VII)"
+    },
+    "Tritt Opan": {
+        "name": "Tritt Opan",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Patrick O'Kane"
     },
     "Trudgen": {
         "name": "Trudgen",
@@ -1739,11 +2759,29 @@
         "species": "",
         "actor": "Tom Rodgers"
     },
+    "Tundra Dowmeia": {
+        "name": "Tundra Dowmeia",
+        "homeworld": "Mon Cala",
+        "species": "Quarren",
+        "actor": "Jeremy Prestoe"
+    },
+    "Tynnra Pamlo": {
+        "name": "Tynnra Pamlo",
+        "homeworld": "Taris",
+        "species": "Human",
+        "actor": "Sharon Duncan-Brewster"
+    },
     "Tzizvvt": {
         "name": "Tzizvvt",
         "homeworld": "Jandoon",
         "species": "Brizzit",
         "actor": ""
+    },
+    "U-3PO": {
+        "name": "U-3PO",
+        "homeworld": "",
+        "species": "3PO-series protocol droid",
+        "actor": "Wendy Leech"
     },
     "Ubbla Mollbro": {
         "name": "Ubbla Mollbro",
@@ -1781,6 +2819,36 @@
         "species": "Human (Alderaanian)",
         "actor": "Eddie Byrne, Michael Bell (voice)"
     },
+    "Vane\u00e9": {
+        "name": "Vane\u00e9",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Martin Gordon"
+    },
+    "Varmik": {
+        "name": "Varmik",
+        "homeworld": "",
+        "species": "Hassk",
+        "actor": "Paul Warren"
+    },
+    "Vasp Vaspar": {
+        "name": "Vasp Vaspar",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Fares Fares"
+    },
+    "Vlex Onopin": {
+        "name": "Vlex Onopin",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Weston Gavin"
+    },
+    "Voren Na'al": {
+        "name": "Voren Na'al",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Derek Lyons"
+    },
     "Wald": {
         "name": "Wald",
         "homeworld": "Tatooine",
@@ -1817,6 +2885,12 @@
         "species": "Human",
         "actor": "Ian Liston"
     },
+    "Whie Malreaux": {
+        "name": "Whie Malreaux",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Coinneach Alexander"
+    },
     "Whorm Loathsom": {
         "name": "Whorm Loathsom",
         "homeworld": "Kerkoidia",
@@ -1835,11 +2909,23 @@
         "species": "Human",
         "actor": "Peter Cushing (IV), Wayne Pygram (III), Guy Henry (RO)"
     },
+    "Wodibin": {
+        "name": "Wodibin",
+        "homeworld": "Chanceuxi",
+        "species": "Suerton",
+        "actor": "Warwick Davis"
+    },
     "Wollivan": {
         "name": "Wollivan",
         "homeworld": "Rina Major",
         "species": "Blarina",
         "actor": "Warwick Davis"
+    },
+    "Wona Goban": {
+        "name": "Wona Goban",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Gabby Wong"
     },
     "Wrobie Tyce": {
         "name": "Wrobie Tyce",
@@ -1853,6 +2939,12 @@
         "species": "Human",
         "actor": "Ted Burnett"
     },
+    "Wullf Yularen": {
+        "name": "Wullf Yularen",
+        "homeworld": "Coruscant",
+        "species": "Human (Coruscanti)",
+        "actor": "Robert Clarke (IV), Tom Kane (voice in TCW)"
+    },
     "Wyron Serper": {
         "name": "Wyron Serper",
         "homeworld": "",
@@ -1864,6 +2956,12 @@
         "homeworld": "",
         "species": "",
         "actor": "Phil Eason"
+    },
+    "Yan\u00e9": {
+        "name": "Yan\u00e9",
+        "homeworld": "Naboo",
+        "species": "Human (Naboo)",
+        "actor": "Candice Orwell"
     },
     "Yarael Poof": {
         "name": "Yarael Poof",
@@ -1888,6 +2986,12 @@
         "homeworld": "",
         "species": "",
         "actor": "Frank Oz, Tom Kane (voice in TCW)"
+    },
+    "Yolo Ziff": {
+        "name": "Yolo Ziff",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Stefan Grube"
     },
     "Zam Wesell": {
         "name": "Zam Wesell",
