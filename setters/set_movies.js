@@ -1,4 +1,16595 @@
 var movie_map = {
+    "Internal Affairs (1990)": {
+        "title": "Internal Affairs",
+        "year": "1990",
+        "synopsis": "In L.A., an agent is determined to catch Dennis, a cop and father whose reputation is clean despite his use of officers as pawns for corrupt purposes.",
+        "directors": [
+            "Mike Figgis"
+        ],
+        "leads": [
+            "Richard Gere",
+            "Andy Garc\u00eda",
+            "Nancy Travis"
+        ],
+        "music": [
+            "Brian Banks",
+            "Mike Figgis",
+            "Anthony Marinelli"
+        ]
+    },
+    "Leatherface: The Texas Chainsaw Massacre III (1990)": {
+        "title": "Leatherface: The Texas Chainsaw Massacre III",
+        "year": "1990",
+        "synopsis": "A perverted gas station attendant threatens a couple with a shotgun. They take a deserted path to seek help but meet up with a cannibalistic clan.",
+        "directors": [
+            "Jeff Burr"
+        ],
+        "leads": [
+            "Kate Hodge",
+            "William Butler",
+            "Ken Foree"
+        ],
+        "music": [
+            "Jim Manzie",
+            "Pat Regan"
+        ]
+    },
+    "Tremors (1990)": {
+        "title": "Tremors",
+        "year": "1990",
+        "synopsis": "Natives of a small isolated town, Perfection, Nevada, defend themselves against strange underground creatures killing them one by one.",
+        "directors": [
+            "Ron Underwood"
+        ],
+        "leads": [
+            "Kevin Bacon",
+            "Fred Ward",
+            "Finn Carter"
+        ],
+        "music": [
+            "Ernest Troost"
+        ]
+    },
+    "Cinema Paradiso (1990)": {
+        "title": "Cinema Paradiso",
+        "year": "1990",
+        "synopsis": "A filmmaker recalls his childhood in Sicily when falling in love with the cinema of his home village and forms a deep friendship with a projectionist.",
+        "directors": [
+            "Giuseppe Tornatore"
+        ],
+        "leads": [
+            "Philippe Noiret",
+            "Salvatore Cascio",
+            "Agnese Nano"
+        ],
+        "music": [
+            "Ennio Morricone",
+            "Andrea Morricone"
+        ]
+    },
+    "Heart Condition (1990)": {
+        "title": "Heart Condition",
+        "year": "1990",
+        "synopsis": "A racist cop receives a heart transplant from a dead black lawyer who returns as a ghost to ask him to take down the men who murdered him.",
+        "directors": [
+            "James D. Parriott"
+        ],
+        "leads": [
+            "Bob Hoskins",
+            "Denzel Washington",
+            "Chloe Webb"
+        ],
+        "music": [
+            "Patrick Leonard"
+        ]
+    },
+    "Hard to Kill (1990)": {
+        "title": "Hard to Kill",
+        "year": "1990",
+        "synopsis": "Left for dead with his wife killed in their house, an L.A. detective awakens after seven years in a coma and works to expose the Senator to blame.",
+        "directors": [
+            "Bruce Malmuth"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Kelly LeBrock",
+            "William Sadler"
+        ],
+        "music": [
+            "David Michael Frank"
+        ]
+    },
+    "Nightbreed (1990)": {
+        "title": "Nightbreed",
+        "year": "1990",
+        "synopsis": "A man is drawn to the mythical Midian, where friendly monsters are hiding from humanity. A sadistic serial killer is looking for a patsy.",
+        "directors": [
+            "Clive Barker"
+        ],
+        "leads": [
+            "Craig Sheffer",
+            "Anne Bobby",
+            "David Cronenberg"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Revenge (1990)": {
+        "title": "Revenge",
+        "year": "1990",
+        "synopsis": "A retired Navy pilot comes to Mexico, where he falls in love with the wife of a powerful crime boss. The boss learns of an affair and seeks payback.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Anthony Quinn",
+            "Madeleine Stowe"
+        ],
+        "music": [
+            "Jack Nitzsche"
+        ]
+    },
+    "The Hunt for Red October (1990)": {
+        "title": "The Hunt for Red October",
+        "year": "1990",
+        "synopsis": "In 1984, a Soviet submarine captain in a stealthy new submarine violates orders and heads for the U.S. A CIA agent tries to determine his motives.",
+        "directors": [
+            "John McTiernan"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Alec Baldwin",
+            "Scott Glenn"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "House Party (1990)": {
+        "title": "House Party",
+        "year": "1990",
+        "synopsis": "After fighting with a bully, Kid sneaks out to attend Play's party. He crashes a college reunion, avoids three thugs, and nearly sleeps with pretty Sydney.",
+        "directors": [
+            "Reginald Hudlin"
+        ],
+        "leads": [
+            "Christopher Reid",
+            "Christopher Martin",
+            "Robin Harris"
+        ],
+        "music": [
+            "Lenny White",
+            "Marcus Miller"
+        ]
+    },
+    "Joe Versus the Volcano (1990)": {
+        "title": "Joe Versus the Volcano",
+        "year": "1990",
+        "synopsis": "A hypochondriac that thinks he is dying accepts an offer to hurl himself into an island volcano. He bonds with a yacht captain on the wild trip there.",
+        "directors": [
+            "John Patrick Shanley"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Meg Ryan",
+            "Lloyd Bridges"
+        ],
+        "music": [
+            "Georges Delerue"
+        ]
+    },
+    "Blue Steel (1990)": {
+        "title": "Blue Steel",
+        "year": "1990",
+        "synopsis": "NYPD rookie Megan shoots a market robber and leaves behind a gun taken by trader Eugene. He becomes a serial killer who is obsessed with her.",
+        "directors": [
+            "Kathryn Bigelow"
+        ],
+        "leads": [
+            "Jamie Lee Curtis",
+            "Ron Silver",
+            "Clancy Brown"
+        ],
+        "music": [
+            "Brad Fiedel"
+        ]
+    },
+    "Pretty Woman (1990)": {
+        "title": "Pretty Woman",
+        "year": "1990",
+        "synopsis": "In Hollywood, unlucky prostitute Vivian is hired to be corporate raider Edward's escort for functions. Their relationship develops over a weeklong stay.",
+        "directors": [
+            "Garry Marshall"
+        ],
+        "leads": [
+            "Richard Gere",
+            "Julia Roberts",
+            "Ralph Bellamy"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Teenage Mutant Ninja Turtles (1990)": {
+        "title": "Teenage Mutant Ninja Turtles",
+        "year": "1990",
+        "synopsis": "A radioactive ooze mutates four sewer turtles into ninjas. A former pupil of their rat sensei spreads lawlessness in New York City with criminals.",
+        "directors": [
+            "Steve Barron"
+        ],
+        "leads": [
+            "Judith Hoag",
+            "Elias Koteas",
+            "Jay Patterson"
+        ],
+        "music": [
+            "John Du Prez"
+        ]
+    },
+    "I Love You to Death (1990)": {
+        "title": "I Love You to Death",
+        "year": "1990",
+        "synopsis": "In Tacoma, Joey works with wife Rosalie in their pizza parlor. She learns he is cheating on her so hires professionals to kill him. He does not notice.",
+        "directors": [
+            "Lawrence Kasdan"
+        ],
+        "leads": [
+            "Kevin Kline",
+            "Tracey Ullman",
+            "William Hurt"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "The Guardian (1990)": {
+        "title": "The Guardian",
+        "year": "1990",
+        "synopsis": "A young couple with a newborn baby do not realize that the nanny they hired is a magical nymph who sacrifices infants to an evil tree.",
+        "directors": [
+            "William Friedkin"
+        ],
+        "leads": [
+            "Jenny Seagrove",
+            "Dwier Brown",
+            "Carey Lowell"
+        ],
+        "music": [
+            "Jack Hues"
+        ]
+    },
+    "Tales from the Darkside: The Movie (1990)": {
+        "title": "Tales from the Darkside: The Movie",
+        "year": "1990",
+        "synopsis": "To distract Betty, a witch who intends to serve him for a dinner party, young Timmy reads three scary stories: Lot 249, Cat from Hell, and Lover's Vow.",
+        "directors": [
+            "John Harrison"
+        ],
+        "leads": [
+            "Deborah Harry",
+            "Christian Slater",
+            "David Johansen"
+        ],
+        "music": [
+            "John Harrison",
+            "Chaz Jankel",
+            "Jim Manzie",
+            "Pat Regan",
+            "Donald Rubinstein"
+        ]
+    },
+    "Bird on a Wire (1990)": {
+        "title": "Bird on a Wire",
+        "year": "1990",
+        "synopsis": "In Detroit, a lawyer learns a gas station attendant is her thought-dead ex-boyfriend and a relocated FBI informant. Criminals chase him for revenge.",
+        "directors": [
+            "John Badham"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Goldie Hawn",
+            "David Carradine"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Cadillac Man (1990)": {
+        "title": "Cadillac Man",
+        "year": "1990",
+        "synopsis": "Joey has two days to sell 12 cars to keep his job and please his girlfriends. An armed motorcyclist enters his dealership then takes citizens hostage.",
+        "directors": [
+            "Roger Donaldson"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Tim Robbins",
+            "Pamela Reed"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "Back to the Future Part III (1990)": {
+        "title": "Back to the Future Part III",
+        "year": "1990",
+        "synopsis": "Marty learns about Doc Brown's death in 1885 and travels back in time to save him. With no fuel, the two must figure how to escape the Old West.",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "leads": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Mary Steenburgen"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Total Recall (1990)": {
+        "title": "Total Recall",
+        "year": "1990",
+        "synopsis": "In 2084, after Douglas has vacation memories of Mars implanted in his mind, he recalls he was a secret agent fighting Mars' governor Cohaagen.",
+        "directors": [
+            "Paul Verhoeven"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Rachel Ticotin",
+            "Sharon Stone"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Another 48 Hrs. (1990)": {
+        "title": "Another 48 Hrs.",
+        "year": "1990",
+        "synopsis": "Jack Cates once again enlists the aid of ex-con Reggie Hammond - this time to take down The Iceman, a ruthless drug lord operating in the San Francisco bay area.",
+        "directors": [
+            "Walter Hill"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Nick Nolte",
+            "Brion James"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Dick Tracy (1990)": {
+        "title": "Dick Tracy",
+        "year": "1990",
+        "synopsis": "A detective finds his life complicated when singer Breathless Mahoney makes advances towards him while he battles Big Boy Caprice's syndicate.",
+        "directors": [
+            "Warren Beatty"
+        ],
+        "leads": [
+            "Warren Beatty",
+            "Al Pacino",
+            "Madonna"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Gremlins 2: The New Batch (1990)": {
+        "title": "Gremlins 2: The New Batch",
+        "year": "1990",
+        "synopsis": "In Manhattan, Mogwai Gizmo multiplies inside a high-rise building. Led by Mohawk, fresh gremlins take control. Billy scrambles to stop their escape.",
+        "directors": [
+            "Joe Dante"
+        ],
+        "leads": [
+            "Zach Galligan",
+            "Phoebe Cates",
+            "John Glover"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Betsy's Wedding (1990)": {
+        "title": "Betsy's Wedding",
+        "year": "1990",
+        "synopsis": "In Long Island, Eddie is a construction contractor with two grown daughters. Betsy is marrying, and Connie, a police officer, bonds with a Mafia man.",
+        "directors": [
+            "Alan Alda"
+        ],
+        "leads": [
+            "Alan Alda",
+            "Madeline Kahn",
+            "Molly Ringwald"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "RoboCop 2 (1990)": {
+        "title": "RoboCop 2",
+        "year": "1990",
+        "synopsis": "A cyborg law officer is the sole officer on duty. He takes on a crime boss, the spread of a drug called Nuke, and a psychologist's new police droid.",
+        "directors": [
+            "Irvin Kershner"
+        ],
+        "leads": [
+            "Peter Weller",
+            "Nancy Allen",
+            "Daniel O'Herlihy"
+        ],
+        "music": [
+            "Leonard Rosenman"
+        ]
+    },
+    "Days of Thunder (1990)": {
+        "title": "Days of Thunder",
+        "year": "1990",
+        "synopsis": "A young stock car driver develops a rivalry with a fellow racer that threatens his career when the two smash their cars. A doctor helps him recover.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Robert Duvall",
+            "Nicole Kidman"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Die Hard 2 (1990)": {
+        "title": "Die Hard 2",
+        "year": "1990",
+        "synopsis": "In Washington, D.C., John McClane works to stop rogue military operatives who have taken over an air traffic control system. He contends with police.",
+        "directors": [
+            "Renny Harlin"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Bonnie Bedelia",
+            "William Atherton"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Ghost (1990)": {
+        "title": "Ghost",
+        "year": "1990",
+        "synopsis": "After a young banker is murdered, his spirit stays behind to warn his potter girlfriend of danger from a co-worker with the help of a reluctant psychic.",
+        "directors": [
+            "Jerry Zucker"
+        ],
+        "leads": [
+            "Patrick Swayze",
+            "Demi Moore",
+            "Whoopi Goldberg"
+        ],
+        "music": [
+            "Maurice Jarre"
+        ]
+    },
+    "Quick Change (1990)": {
+        "title": "Quick Change",
+        "year": "1990",
+        "synopsis": "With the aid of his girlfriend and his best friend, a man dressed as a clown robs a New York bank, but the escape from the city proves challenging.",
+        "directors": [
+            "Howard Franklin",
+            "Bill Murray"
+        ],
+        "leads": [
+            "Bill Murray",
+            "Geena Davis",
+            "Randy Quaid"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Arachnophobia (1990)": {
+        "title": "Arachnophobia",
+        "year": "1990",
+        "synopsis": "A species of South American killer spider hitches a lift to the U.S. in a coffin and starts to breed and kill in Canaima, California.",
+        "directors": [
+            "Frank Marshall"
+        ],
+        "leads": [
+            "Jeff Daniels",
+            "Harley Jane Kozak",
+            "John Goodman"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "Navy SEALs (1990)": {
+        "title": "Navy SEALs",
+        "year": "1990",
+        "synopsis": "A battle-hardened SEAL team sets off to destroy Stinger missiles that terrorists have acquired and prevent their plot to derail regional treaty talks.",
+        "directors": [
+            "Lewis Teague"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Michael Biehn",
+            "Joanne Whalley-Kilmer"
+        ],
+        "music": [
+            "Sylvester Levay"
+        ]
+    },
+    "The Freshman (1990)": {
+        "title": "The Freshman",
+        "year": "1990",
+        "synopsis": "An NYU film school student accepts a job with a local mobster who takes him under his wing. He is tasked with delivering a rare Komodo dragon.",
+        "directors": [
+            "Andrew Bergman"
+        ],
+        "leads": [
+            "Marlon Brando",
+            "Matthew Broderick",
+            "Bruno Kirby"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Presumed Innocent (1990)": {
+        "title": "Presumed Innocent",
+        "year": "1990",
+        "synopsis": "An attorney investigates the murder and rape of a colleague in her apartment, but he has a conflict of interest since he cheated on his wife with her.",
+        "directors": [
+            "Alan J. Pakula"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Brian Dennehy",
+            "Raul Julia"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Problem Child (1990)": {
+        "title": "Problem Child",
+        "year": "1990",
+        "synopsis": "Junior, a 7-year-old boy just short of a monster, is adopted by a loving man and his wacky wife. The mischievous boy pushes them to the limits.",
+        "directors": [
+            "Dennis Dugan"
+        ],
+        "leads": [
+            "John Ritter",
+            "Amy Yasbeck",
+            "Michael Richards"
+        ],
+        "music": [
+            "Miles Goodman"
+        ]
+    },
+    "Young Guns II (1990)": {
+        "title": "Young Guns II",
+        "year": "1990",
+        "synopsis": "In 1881, a cattle baron pays Pat Garrett to arrest outlaw Billy the Kid, who races to safety in Mexico while being trailed. In 1950, a man says he is him.",
+        "directors": [
+            "Geoff Murphy"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Kiefer Sutherland",
+            "Lou Diamond Phillips"
+        ],
+        "music": [
+            "Alan Silvestri",
+            "Jon Bon Jovi"
+        ]
+    },
+    "Mo' Better Blues (1990)": {
+        "title": "Mo' Better Blues",
+        "year": "1990",
+        "synopsis": "A jazz trumpeter forms his own band, the Bleek Gilliam Quartet. His rivalry with a saxophonist on stage spills into their professional relationship.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Spike Lee",
+            "Wesley Snipes"
+        ],
+        "music": [
+            "Bill Lee"
+        ]
+    },
+    "Air America (1990)": {
+        "title": "Air America",
+        "year": "1990",
+        "synopsis": "In 1969, a a helicopter traffic pilot and his mentor find themselves recruited unwittingly into a covert CIA airlift organization smuggling heroin in Laos.",
+        "directors": [
+            "Roger Spottiswoode"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Robert Downey Jr.",
+            "Nancy Travis"
+        ],
+        "music": [
+            "Charles Gross"
+        ]
+    },
+    "Flatliners (1990)": {
+        "title": "Flatliners",
+        "year": "1990",
+        "synopsis": "Five medical students experiment with near-death experiences until the dark consequences of past tragedies manifest as visions they must confront.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Kiefer Sutherland",
+            "Julia Roberts",
+            "William Baldwin"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Two Jakes (1990)": {
+        "title": "The Two Jakes",
+        "year": "1990",
+        "synopsis": "In 1948 L.A., private eye Jake Gittes is asked by realtor Jake Berman to catch his wife's infidelity. Berman kills his wife's lover, his business partner.",
+        "directors": [
+            "Jack Nicholson"
+        ],
+        "leads": [
+            "Jack Nicholson",
+            "Harvey Keitel",
+            "Meg Tilly"
+        ],
+        "music": [
+            "Van Dyke Parks"
+        ]
+    },
+    "My Blue Heaven (1990)": {
+        "title": "My Blue Heaven",
+        "year": "1990",
+        "synopsis": "An all too uptight FBI agent must protect a larger than life mobster with a heart of gold, currently under witness protection in the suburbs.",
+        "directors": [
+            "Herbert Ross"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Rick Moranis",
+            "Joan Cusack"
+        ],
+        "music": [
+            "Ira Newborn"
+        ]
+    },
+    "The Exorcist III (1990)": {
+        "title": "The Exorcist III",
+        "year": "1990",
+        "synopsis": "A police lieutenant investigates a series of murders, which have all the hallmarks of the deceased Gemini serial killer. He is led to question the patients of a psychiatric ward.",
+        "directors": [
+            "William Peter Blatty"
+        ],
+        "leads": [
+            "George C. Scott",
+            "Ed Flanders",
+            "Jason Miller"
+        ],
+        "music": [
+            "Barry De Vorzon"
+        ]
+    },
+    "Wild at Heart (1990)": {
+        "title": "Wild at Heart",
+        "year": "1990",
+        "synopsis": "Just released from a prison stay, Sailor and Lula decide to run to California. They are chased by a detective and a gangster hired by Lula's mother.",
+        "directors": [
+            "David Lynch"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Laura Dern",
+            "Willem Dafoe"
+        ],
+        "music": [
+            "Angelo Badalamenti"
+        ]
+    },
+    "Pump Up the Volume (1990)": {
+        "title": "Pump Up the Volume",
+        "year": "1990",
+        "synopsis": "In Phoenix, a high school student starts a pirate radio station that functions as the sole outlet for his angst and aggression. His classmates tune in.",
+        "directors": [
+            "Allan Moyle"
+        ],
+        "leads": [
+            "Christian Slater",
+            "Scott Paulin",
+            "Ellen Greene"
+        ],
+        "music": [
+            "Cliff Martinez"
+        ]
+    },
+    "Darkman (1990)": {
+        "title": "Darkman",
+        "year": "1990",
+        "synopsis": "Peyton is making a breakthrough in synthetic skin when gangsters destroy his lab. Burned beyond recognition, he becomes an unstable superhero.",
+        "directors": [
+            "Sam Raimi"
+        ],
+        "leads": [
+            "Liam Neeson",
+            "Frances McDormand",
+            "Colin Friels"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Men at Work (1990)": {
+        "title": "Men at Work",
+        "year": "1990",
+        "synopsis": "Two lazy garbage men discover a local politician's corpse in one of their cans. They uncover a conspiracy involving illegal toxic waste dumping.",
+        "directors": [
+            "Emilio Estevez"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Emilio Estevez",
+            "Leslie Hope"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ]
+    },
+    "The Witches (1990)": {
+        "title": "The Witches",
+        "year": "1990",
+        "synopsis": "In England, a 9-year-old orphan spies on a witch convention and must stop them with his grandma, even after they have turned him into a mouse.",
+        "directors": [
+            "Nicolas Roeg"
+        ],
+        "leads": [
+            "Anjelica Huston",
+            "Mai Zetterling",
+            "Rowan Atkinson"
+        ],
+        "music": [
+            "Stanley Myers"
+        ]
+    },
+    "Postcards from the Edge (1990)": {
+        "title": "Postcards from the Edge",
+        "year": "1990",
+        "synopsis": "Recovering drug addict actress Suzanne works to stay positive even as she is forced to move back in with her harsh mother to avoid unemployment.",
+        "directors": [
+            "Mike Nichols"
+        ],
+        "leads": [
+            "Meryl Streep",
+            "Shirley MacLaine",
+            "Dennis Quaid"
+        ],
+        "music": [
+            "Carly Simon"
+        ]
+    },
+    "State of Grace (1990)": {
+        "title": "State of Grace",
+        "year": "1990",
+        "synopsis": "In New York, cop Terry is recruited to return to his hometown and infiltrate the Irish crime group run by his close friend Jackie's older brother Frankie.",
+        "directors": [
+            "Phil Joanou"
+        ],
+        "leads": [
+            "Sean Penn",
+            "Ed Harris",
+            "Gary Oldman"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Goodfellas (1990)": {
+        "title": "Goodfellas",
+        "year": "1990",
+        "synopsis": "From 1955 to 1980 in Brooklyn, Henry Hill climbs the Mafia ranks under Jimmy Conway's guidance. When he is poor, he becomes an FBI informant.",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Ray Liotta",
+            "Joe Pesci"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Miller's Crossing (1990)": {
+        "title": "Miller's Crossing",
+        "year": "1990",
+        "synopsis": "Tom Reagan, an advisor to a Prohibition-era crime boss, tries to keep the peace between warring mobs but gets caught in divided loyalties.",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "leads": [
+            "Gabriel Byrne",
+            "Marcia Gay Harden",
+            "John Turturro"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "King of New York (1990)": {
+        "title": "King of New York",
+        "year": "1990",
+        "synopsis": "A drug kingpin is released from prison and seeks to take total control of the criminal underworld in order to give back to the community.",
+        "directors": [
+            "Abel Ferrara"
+        ],
+        "leads": [
+            "Christopher Walken",
+            "Laurence Fishburne",
+            "David Caruso"
+        ],
+        "music": [
+            "Joe Delia"
+        ]
+    },
+    "Marked for Death (1990)": {
+        "title": "Marked for Death",
+        "year": "1990",
+        "synopsis": "In Chicago, a former DEA troubleshooter returns to his hometown to find it taken over by a gang of vicious Jamaican drug dealers led by Screwface. ",
+        "directors": [
+            "Dwight H. Little"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Joanna Pacula",
+            "Keith David"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Mr. Destiny (1990)": {
+        "title": "Mr. Destiny",
+        "year": "1990",
+        "synopsis": "Larry blames his problems on his striking out in a key moment of a high school baseball game. On his 35th birthday, he visits a reality where he won.",
+        "directors": [
+            "James Orr"
+        ],
+        "leads": [
+            "James Belushi",
+            "Linda Hamilton",
+            "Jon Lovitz"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "The Hot Spot (1990)": {
+        "title": "The Hot Spot",
+        "year": "1990",
+        "synopsis": "In a small Texas town, a drifter working as a car salesman gets into trouble with authorities and two women after he starts a fire and robs a bank.",
+        "directors": [
+            "Dennis Hopper"
+        ],
+        "leads": [
+            "Don Johnson",
+            "Virginia Madsen",
+            "Jennifer Connelly"
+        ],
+        "music": [
+            "Jack Nitzsche"
+        ]
+    },
+    "Night of the Living Dead (1990)": {
+        "title": "Night of the Living Dead",
+        "year": "1990",
+        "synopsis": "A group of people are trapped inside a farmhouse as legions of the walking dead try to get inside and use them for food.",
+        "directors": [
+            "Tom Savini"
+        ],
+        "leads": [
+            "Tony Todd",
+            "Patricia Tallman",
+            "Tom Towles"
+        ],
+        "music": [
+            "Paul McCollough"
+        ]
+    },
+    "Reversal of Fortune (1990)": {
+        "title": "Reversal of Fortune",
+        "year": "1990",
+        "synopsis": "Wealthy Sunny lies brain-dead, her husband Claus accused of attempted murder. He says he's innocent and hires a law professor for his appeal.",
+        "directors": [
+            "Barbet Schroeder"
+        ],
+        "leads": [
+            "Glenn Close",
+            "Jeremy Irons",
+            "Ron Silver"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Graveyard Shift (1990)": {
+        "title": "Graveyard Shift",
+        "year": "1990",
+        "synopsis": "In a rat-infested textile mill, deadly accidents start happening, but its corrupt foreman keeps workers in danger. Newly hired John finds a big creature.",
+        "directors": [
+            "Ralph S. Singleton"
+        ],
+        "leads": [
+            "David Andrews",
+            "Kelly Wolf",
+            "Stephen Macht"
+        ],
+        "music": [
+            "Brian Banks",
+            "Anthony Marinelli"
+        ]
+    },
+    "Jacob's Ladder (1990)": {
+        "title": "Jacob's Ladder",
+        "year": "1990",
+        "synopsis": "Mourning his dead child, a haunted Vietnam War veteran attempts to uncover his past while suffering from a severe case of dissociation.",
+        "directors": [
+            "Adrian Lyne"
+        ],
+        "leads": [
+            "Tim Robbins",
+            "Elizabeth Pe\u00f1a",
+            "Danny Aiello"
+        ],
+        "music": [
+            "Maurice Jarre"
+        ]
+    },
+    "Child's Play 2 (1990)": {
+        "title": "Child's Play 2",
+        "year": "1990",
+        "synopsis": "After Andy's mother is admitted to a psychiatric hospital, Andy is placed in foster care, and Chucky remains determined to claim his soul.",
+        "directors": [
+            "John Lafia"
+        ],
+        "leads": [
+            "Alex Vincent",
+            "Brad Dourif",
+            "Christine Elise"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Dances with Wolves (1990)": {
+        "title": "Dances with Wolves",
+        "year": "1990",
+        "synopsis": "In 1863, John Dunbar, assigned to a remote Civil War outpost, befriends wolves and Lakota Sioux Indians, making him an aberration in the military.",
+        "directors": [
+            "Kevin Costner"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Mary McDonnell",
+            "Graham Greene"
+        ],
+        "music": [
+            "John Barry"
+        ]
+    },
+    "Cyrano de Bergerac (1990)": {
+        "title": "Cyrano de Bergerac",
+        "year": "1990",
+        "synopsis": "In 1640 Paris, a charismatic swordsman poet with a large nose loves Roxane. She wants handsome Christian, whom he secretly composes letters for.",
+        "directors": [
+            "Jean-Paul Rappeneau"
+        ],
+        "leads": [
+            "G\u00e9rard Depardieu",
+            "Anne Brochet",
+            "Vincent Perez"
+        ],
+        "music": [
+            "Jean-Claude Petit"
+        ]
+    },
+    "Home Alone (1990)": {
+        "title": "Home Alone",
+        "year": "1990",
+        "synopsis": "Inventive eight-year-old Kevin adroitly protects his house from the Wet Bandits duo when his family leaves him at home before a Christmas vacation.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Rocky V (1990)": {
+        "title": "Rocky V",
+        "year": "1990",
+        "synopsis": "Retired from fighting and suffering brain damage, Rocky reopens Mickey's gym and agrees to train Tommy Gunn but neglects his bullied son Robert.",
+        "directors": [
+            "John G. Avildsen"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Burt Young"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "The Rescuers Down Under (1990)": {
+        "title": "The Rescuers Down Under",
+        "year": "1990",
+        "synopsis": "The R.A.S. agents, Miss Bianca and Bernard, race to Australia to save a little boy and a rare golden eagle from a murderous poacher.",
+        "directors": [
+            "Hendel Butoy",
+            "Mike Gabriel"
+        ],
+        "leads": [
+            "Bob Newhart",
+            "Eva Gabor",
+            "John Candy"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "Predator 2 (1990)": {
+        "title": "Predator 2",
+        "year": "1990",
+        "synopsis": "In 1997 Los Angeles, a police officer tries to solve a set of murders believed to involve drugs, but he learns a nearly invisible alien is seeking trophies.",
+        "directors": [
+            "Stephen Hopkins"
+        ],
+        "leads": [
+            "Danny Glover",
+            "Gary Busey",
+            "Rub\u00e9n Blades"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Three Men and a Little Lady (1990)": {
+        "title": "Three Men and a Little Lady",
+        "year": "1990",
+        "synopsis": "Three ex-dads quickly discover how empty life is without their daughter and go to outrageous lengths to win her back.",
+        "directors": [
+            "Emile Ardolino"
+        ],
+        "leads": [
+            "Tom Selleck",
+            "Steve Guttenberg",
+            "Ted Danson"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Misery (1990)": {
+        "title": "Misery",
+        "year": "1990",
+        "synopsis": "After nurse Annie rescues novelist Paul Sheldon from a crash, she keeps him in her remote home, holds him captive, and forces him to write a story.",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "leads": [
+            "James Caan",
+            "Kathy Bates",
+            "Richard Farnsworth"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "The Grifters (1990)": {
+        "title": "The Grifters",
+        "year": "1990",
+        "synopsis": "A small-time con man in a hospital has loyalty to both his estranged mother and his older girlfriend, both of whom are talented swindlers themselves.",
+        "directors": [
+            "Stephen Frears"
+        ],
+        "leads": [
+            "John Cusack",
+            "Anjelica Huston",
+            "Annette Bening"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Edward Scissorhands (1990)": {
+        "title": "Edward Scissorhands",
+        "year": "1990",
+        "synopsis": "An unfinished artificial man with scissor blades instead of hands is taken in by a suburban family and falls in love with their teenage daughter Kim.",
+        "directors": [
+            "Tim Burton"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Winona Ryder",
+            "Dianne Wiest"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "The Rookie (1990)": {
+        "title": "The Rookie",
+        "year": "1990",
+        "synopsis": "In L.A., a veteran police officer is teamed up with a younger detective to take down a German crime lord following an investigation into a car theft ring.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "Charlie Sheen",
+            "Raul Julia"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "Havana (1990)": {
+        "title": "Havana",
+        "year": "1990",
+        "synopsis": "In 1958 Cuba, a professional gambler falls for a woman heavily involved in the Cuban Revolution by smuggling radios and selling a sewn diamond.",
+        "directors": [
+            "Sydney Pollack"
+        ],
+        "leads": [
+            "Robert Redford",
+            "Lena Olin",
+            "Alan Arkin"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "Look Who's Talking Too (1990)": {
+        "title": "Look Who's Talking Too",
+        "year": "1990",
+        "synopsis": "James and Mollie's precocious toddler Mikey is frustrated at all the attention his smart-mouthed infant sister Julie is getting. Their rivalry heats up.",
+        "directors": [
+            "Amy Heckerling"
+        ],
+        "leads": [
+            "John Travolta",
+            "Kirstie Alley",
+            "Bruce Willis"
+        ],
+        "music": [
+            "David Kitay"
+        ]
+    },
+    "Hamlet (1990)": {
+        "title": "Hamlet",
+        "year": "1990",
+        "synopsis": "A prince returns to Denmark, his father murdered and his mother remarrying the killer Claudius, his uncle. He feigns a madness as war slowly brews.",
+        "directors": [
+            "Franco Zeffirelli"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Glenn Close",
+            "Alan Bates"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Awakenings (1990)": {
+        "title": "Awakenings",
+        "year": "1990",
+        "synopsis": "In 1969, Malcolm administers L-Dopa to catatonic patients who survived an epidemic. Patients such as Leonard awaken and deal with their new lives.",
+        "directors": [
+            "Penny Marshall"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Robin Williams",
+            "John Heard"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Kindergarten Cop (1990)": {
+        "title": "Kindergarten Cop",
+        "year": "1990",
+        "synopsis": "An L.A. detective poses as a kindergarten teacher in Oregon to locate a drug dealer's ex-wife whose testimony may be enough to keep him in prison.",
+        "directors": [
+            "Ivan Reitman"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Penelope Ann Miller",
+            "Pamela Reed"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "The Bonfire of the Vanities (1990)": {
+        "title": "The Bonfire of the Vanities",
+        "year": "1990",
+        "synopsis": "When his mistress runs over a black teenager, a Wall Street bond trader sees his life unravel in the spotlight and interests a tired, alcoholic journalist.",
+        "directors": [
+            "Brian De Palma"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Bruce Willis",
+            "Melanie Griffith"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "The Long Walk Home (1990)": {
+        "title": "The Long Walk Home",
+        "year": "1990",
+        "synopsis": "In 1955 Montgomery, Miriam and the black maid she gives rides to must decide how to respond to a boycott of city-owned buses to end segregation.",
+        "directors": [
+            "Richard Pearce"
+        ],
+        "leads": [
+            "Sissy Spacek",
+            "Whoopi Goldberg",
+            "Dwight Schultz"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "The Russia House (1990)": {
+        "title": "The Russia House",
+        "year": "1990",
+        "synopsis": "A British publisher finds himself working for both the CIA and MI6 to investigate people in Moscow after he gets and gives a nuclear war manuscript.",
+        "directors": [
+            "Fred Schepisi"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Michelle Pfeiffer",
+            "Roy Scheider"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The Godfather Part III (1990)": {
+        "title": "The Godfather Part III",
+        "year": "1990",
+        "synopsis": "In 1979, to legitimize his business dealings in New York and Italy, mafia don Michael seeks to avow for his sins and train his nephew Vincent.",
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Diane Keaton",
+            "Talia Shire"
+        ],
+        "music": [
+            "Carmine Coppola"
+        ]
+    },
+    "White Fang (1991)": {
+        "title": "White Fang",
+        "year": "1991",
+        "synopsis": "In 1896, during the Klondike Gold Rush, Jack moves to Alaska from San Francisco to locate his dead father's mining claim and meets a wolfdog.",
+        "directors": [
+            "Randal Kleiser"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Klaus Maria Brandauer",
+            "Seymour Cassel"
+        ],
+        "music": [
+            "Basil Poledouris",
+            "Hans Zimmer"
+        ]
+    },
+    "L.A. Story (1991)": {
+        "title": "L.A. Story",
+        "year": "1991",
+        "synopsis": "With an L.A. freeway billboard's help, a weather presenter works to attract an English newspaper journalist trying to reconcile with her ex-husband.",
+        "directors": [
+            "Mick Jackson"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Victoria Tennant",
+            "Richard E. Grant"
+        ],
+        "music": [
+            "Peter Melnick"
+        ]
+    },
+    "Sleeping with the Enemy (1991)": {
+        "title": "Sleeping with the Enemy",
+        "year": "1991",
+        "synopsis": "Laura fakes her death and moves to escape her abusive husband, but has her new life interrupted when he tracks her down from Cape Cod to Iowa.",
+        "directors": [
+            "Joseph Ruben"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Patrick Bergin",
+            "Kevin Anderson"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The NeverEnding Story II: The Next Chapter (1991)": {
+        "title": "The NeverEnding Story II: The Next Chapter",
+        "year": "1991",
+        "synopsis": "A young boy with a distant father enters a world of make-believe and magic through a portal within an antique book.",
+        "directors": [
+            "George T. Miller"
+        ],
+        "leads": [
+            "Jonathan Brandis",
+            "Kenny Morrison",
+            "Clarissa Burt"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "The Silence of the Lambs (1991)": {
+        "title": "The Silence of the Lambs",
+        "year": "1991",
+        "synopsis": "A young FBI trainee interrogates an incarcerated cannibal psychiatrist to catch another serial killer, a madman who skins his young female victims.",
+        "directors": [
+            "Jonathan Demme"
+        ],
+        "leads": [
+            "Jodie Foster",
+            "Anthony Hopkins",
+            "Scott Glenn"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Nothing but Trouble (1991)": {
+        "title": "Nothing but Trouble",
+        "year": "1991",
+        "synopsis": "A businessman and three friends are captured by a sadistic judge and his equally odd family in the backwoods of a bizarre mansion in Valkenvania.",
+        "directors": [
+            "Dan Aykroyd"
+        ],
+        "leads": [
+            "Chevy Chase",
+            "Dan Aykroyd",
+            "Demi Moore"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "The Doors (1991)": {
+        "title": "The Doors",
+        "year": "1991",
+        "synopsis": "Jim Morrison becomes the lead singer and composer of a famous and influential 1960s rock band, starting as a UCLA film student in Los Angeles an dying in Paris at age 27 in 1971.",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "leads": [
+            "Val Kilmer",
+            "Meg Ryan",
+            "Kevin Dillon"
+        ],
+        "music": [
+            "The Doors"
+        ]
+    },
+    "New Jack City (1991)": {
+        "title": "New Jack City",
+        "year": "1991",
+        "synopsis": "A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.",
+        "directors": [
+            "Mario Van Peebles"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Ice-T",
+            "Chris Rock"
+        ],
+        "music": [
+            "Vassal Benford",
+            "Michel Colombian"
+        ]
+    },
+    "The Hard Way (1991)": {
+        "title": "The Hard Way",
+        "year": "1991",
+        "synopsis": "An action movie star researching a role is allowed to tag along with a hardboiled New York City policeman, who finds him superficial and irritating.",
+        "directors": [
+            "John Badham"
+        ],
+        "leads": [
+            "Michael J. Fox",
+            "James Woods",
+            "Stephen Lang"
+        ],
+        "music": [
+            "Arthur B. Rubinstein"
+        ]
+    },
+    "Class Action (1991)": {
+        "title": "Class Action",
+        "year": "1991",
+        "synopsis": "Attorney Jed represents a plaintiff injured in a car accident. His opponent is his daughter Maggie, a lawyer for ARGO, whose station wagons explode.",
+        "directors": [
+            "Michael Apted"
+        ],
+        "leads": [
+            "Gene Hackman",
+            "Mary Elizabeth Mastrantonio",
+            "Colin Friels"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "The Perfect Weapon (1991)": {
+        "title": "The Perfect Weapon",
+        "year": "1991",
+        "synopsis": "A construction worker trained in Kenpo fights the Korean mafia after they kill his mentor for refusing to let them use his antique store to peddle drugs.",
+        "directors": [
+            "Mark DiSalle"
+        ],
+        "leads": [
+            "Jeff Speakman",
+            "John Dye",
+            "Mako"
+        ],
+        "music": [
+            "Gary Chang"
+        ]
+    },
+    "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)": {
+        "title": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "year": "1991",
+        "synopsis": "Four ninja turtles and pizza deliverer Keno attack the Shredder for the last canister of the ooze that mutated them. He unleashes Tokka and Rahzar.",
+        "directors": [
+            "Michael Pressman"
+        ],
+        "leads": [
+            "Paige Turco",
+            "David Warner",
+            "Ernie Reyes Jr."
+        ],
+        "music": [
+            "John Du Prez"
+        ]
+    },
+    "Career Opportunities (1991)": {
+        "title": "Career Opportunities",
+        "year": "1991",
+        "synopsis": "Jim lands a job as an overnight janitor at a local Target store. One evening working after hours, he finds himself alone with the rich, mistreated Josie.",
+        "directors": [
+            "Bryan Gordon"
+        ],
+        "leads": [
+            "Frank Whaley",
+            "Jennifer Connelly",
+            "Dermot Mulroney"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Oscar (1991)": {
+        "title": "Oscar",
+        "year": "1991",
+        "synopsis": "A gangster attempts to keep a promise he made to his dying father: giving up his life of crime. His spoiled daughter aspires to marry and move out.",
+        "directors": [
+            "John Landis"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Ornella Muti",
+            "Don Ameche"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "What About Bob? (1991)": {
+        "title": "What About Bob?",
+        "year": "1991",
+        "synopsis": "A psychotherapist loses his mind after one of his dependent patients, an obsessive-compulsive neurotic, tracks him down during his vacation.",
+        "directors": [
+            "Frank Oz"
+        ],
+        "leads": [
+            "Bill Murray",
+            "Richard Dreyfuss",
+            "Julie Hagerty"
+        ],
+        "music": [
+            "Miles Goodman"
+        ]
+    },
+    "Backdraft (1991)": {
+        "title": "Backdraft",
+        "year": "1991",
+        "synopsis": "In Chicago, two firefighter brothers of Engine 17 who lost their father on a call must work together while a dangerous serial arsonist is on the loose.",
+        "directors": [
+            "Ron Howard"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "William Baldwin",
+            "Scott Glenn"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Drop Dead Fred (1991)": {
+        "title": "Drop Dead Fred",
+        "year": "1991",
+        "synopsis": "In Minneapolis, a young woman finds her already unstable life rocked by the presence of a rambunctious imaginary friend from childhood.",
+        "directors": [
+            "Ate de Jong"
+        ],
+        "leads": [
+            "Phoebe Cates",
+            "Rik Mayall",
+            "Marsha Mason"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Hudson Hawk (1991)": {
+        "title": "Hudson Hawk",
+        "year": "1991",
+        "synopsis": "After a cat burglar is released from prison, he is blackmailed by the wild Mayflowers to steal works of Leonardo da Vinci for a machine to make gold.",
+        "directors": [
+            "Michael Lehmann"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Danny Aiello",
+            "Andie MacDowell"
+        ],
+        "music": [
+            "Michael Kamen",
+            "Robert Kraft"
+        ]
+    },
+    "Thelma & Louise (1991)": {
+        "title": "Thelma & Louise",
+        "year": "1991",
+        "synopsis": "A ditzy housewife and a sharp-tongued waitress decide to hit the road, but after one shoots a man who tried to rape the other, the two flee to Mexico.",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "leads": [
+            "Susan Sarandon",
+            "Geena Davis",
+            "Harvey Keitel"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Wild Hearts Can't Be Broken (1991)": {
+        "title": "Wild Hearts Can't Be Broken",
+        "year": "1991",
+        "synopsis": "Thrilled by a performance she sees at a fair, a girl tries to become a daredevil who rides horses off of high dives. A stunt accident leaves her blind.",
+        "directors": [
+            "Steve Miner"
+        ],
+        "leads": [
+            "Gabrielle Anwar",
+            "Michael Schoeffling",
+            "Cliff Robertson"
+        ],
+        "music": [
+            "Mason Daring"
+        ]
+    },
+    "City Slickers (1991)": {
+        "title": "City Slickers",
+        "year": "1991",
+        "synopsis": "On the verge of turning 40, an unhappy Manhattan yuppie is roped into joining his two friends on a cattle drive in the southwest.",
+        "directors": [
+            "Ron Underwood"
+        ],
+        "leads": [
+            "Billy Crystal",
+            "Daniel Stern",
+            "Bruno Kirby"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Don't Tell Mom the Babysitter's Dead (1991)": {
+        "title": "Don't Tell Mom the Babysitter's Dead",
+        "year": "1991",
+        "synopsis": "Five siblings are left alone all summer when their evil babysitter dies. Teenager Sue Ellen finds a sweet job in fashion by lying about her age.",
+        "directors": [
+            "Stephen Herek"
+        ],
+        "leads": [
+            "Christina Applegate",
+            "Joanna Cassidy",
+            "Keith Coogan"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Jungle Fever (1991)": {
+        "title": "Jungle Fever",
+        "year": "1991",
+        "synopsis": "In Harlem, black architect Flipper begins an affair with his Italian secretary Angie. Thrown out by his wife, he moves in with his Baptist preacher father.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Annabella Sciorra",
+            "Spike Lee"
+        ],
+        "music": [
+            "Terence Blanchard",
+            "Stevie Wonder"
+        ]
+    },
+    "Robin Hood: Prince of Thieves (1991)": {
+        "title": "Robin Hood: Prince of Thieves",
+        "year": "1991",
+        "synopsis": "When Robin and fellow prisoner Azeem come to England and the Sheriff of Nottingham's tyranny, they decide to fight back to save the kingdom.",
+        "directors": [
+            "Kevin Reynolds"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Morgan Freeman",
+            "Christian Slater"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Dying Young (1991)": {
+        "title": "Dying Young",
+        "year": "1991",
+        "synopsis": "After her boyfriend cheats on her, Hilary works as a caretaker for a rich 28-year-old man dying from leukemia. The two fall in love on a coast vacation.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Campbell Scott",
+            "Vincent D'Onofrio"
+        ],
+        "music": [
+            "James Newton Howard",
+            "Kenny G"
+        ]
+    },
+    "The Rocketeer (1991)": {
+        "title": "The Rocketeer",
+        "year": "1991",
+        "synopsis": "In 1938, a pilot in love with an actress discovers a prototype jetpack that allows him to become a high-flying masked hero. Nazis want his rocket.",
+        "directors": [
+            "Joe Johnston"
+        ],
+        "leads": [
+            "Bill Campbell",
+            "Alan Arkin",
+            "Jennifer Connelly"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "The Naked Gun 2\u00bd: The Smell of Fear (1991)": {
+        "title": "The Naked Gun 2\u00bd: The Smell of Fear",
+        "year": "1991",
+        "synopsis": "Frank Drebin discovers that his ex-girlfriend's new oil executive boyfriend is involved in a scheme to kidnap a scientist who advocates solar energy.",
+        "directors": [
+            "David Zucker"
+        ],
+        "leads": [
+            "Leslie Nielsen",
+            "Priscilla Presley",
+            "George Kennedy"
+        ],
+        "music": [
+            "Ira Newborn"
+        ]
+    },
+    "Terminator 2: Judgment Day (1991)": {
+        "title": "Terminator 2: Judgment Day",
+        "year": "1991",
+        "synopsis": "A cyborg like the one who failed to kill Sarah must now protect her teenage son John Connor from the T-1000, a shapeshifting android assassin.",
+        "directors": [
+            "James Cameron"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Linda Hamilton",
+            "Robert Patrick"
+        ],
+        "music": [
+            "Brad Fiedel"
+        ]
+    },
+    "Slacker (1991)": {
+        "title": "Slacker",
+        "year": "1991",
+        "synopsis": "Over a single day in Austin, the overducated, social misfits, and oddballs grapple with feelings of social exclusion and of political marginalization.",
+        "directors": [
+            "Richard Linklater"
+        ],
+        "leads": [
+            "Richard Linklater",
+            "Kim Krizan",
+            "Mark James"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Regarding Henry (1991)": {
+        "title": "Regarding Henry",
+        "year": "1991",
+        "synopsis": "In New York City, an attorney from a dysfunctional family struggles to regain his memory and recover speech and mobility after he survives a shooting.",
+        "directors": [
+            "Mike Nichols"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Annette Bening",
+            "Mikki Allen"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Boyz n the Hood (1991)": {
+        "title": "Boyz n the Hood",
+        "year": "1991",
+        "synopsis": "Tre is sent to live with his father in South Central L.A., where he learns proper values. His friends Doughboy and Ricky are drawn into gang culture.",
+        "directors": [
+            "John Singleton"
+        ],
+        "leads": [
+            "Ice Cube",
+            "Cuba Gooding Jr.",
+            "Morris Chestnut"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "Point Break (1991)": {
+        "title": "Point Break",
+        "year": "1991",
+        "synopsis": "An FBI agent goes undercover to catch a gang of California surfers who may be bank robbers. He befriends their leader as well as a female surfer.",
+        "directors": [
+            "Kathryn Bigelow"
+        ],
+        "leads": [
+            "Patrick Swayze",
+            "Keanu Reeves",
+            "Gary Busey"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Bill & Ted's Bogus Journey (1991)": {
+        "title": "Bill & Ted's Bogus Journey",
+        "year": "1991",
+        "synopsis": "In 2691, a tyrant builds android replicas of Bill and Ted and sends them to kill the originals, who end up recruiting Death to stop the ruin of their band.",
+        "directors": [
+            "Pete Hewitt"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Alex Winter",
+            "William Sadler"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Dutch (1991)": {
+        "title": "Dutch",
+        "year": "1991",
+        "synopsis": "A man agrees to bring his wealthy girlfriend's son Doyle home from his Georgia school to Chicago. The drive is difficult, with prostitutes and shelters.",
+        "directors": [
+            "Peter Faiman"
+        ],
+        "leads": [
+            "Ed O'Neill",
+            "Ethan Embry",
+            "JoBeth Williams"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Another You (1991)": {
+        "title": "Another You",
+        "year": "1991",
+        "synopsis": "A former mental patient is purposefully mistaken for a missing brewery heir by actors. A con man befriends him for a community service obligation.",
+        "directors": [
+            "Maurice Phillips"
+        ],
+        "leads": [
+            "Richard Pryor",
+            "Gene Wilder",
+            "Mercedes Ruehl"
+        ],
+        "music": [
+            "Charles Gross"
+        ]
+    },
+    "Life Stinks (1991)": {
+        "title": "Life Stinks",
+        "year": "1991",
+        "synopsis": "A rich businessman bets a corporate rival that he can live on the streets of L.A. for 30 days. He befriends skid row inhabitants and falls in love.",
+        "directors": [
+            "Mel Brooks"
+        ],
+        "leads": [
+            "Mel Brooks",
+            "Lesley Ann Warren",
+            "Jeffrey Tambor"
+        ],
+        "music": [
+            "John Morris"
+        ]
+    },
+    "Mobsters (1991)": {
+        "title": "Mobsters",
+        "year": "1991",
+        "synopsis": "In 1917 to 1931 New York, Lucky Luciano, Meyer Lansky, Bugsy Siegel, and Frank Costello build a bootlegging empire but clash with Mafia leaders.",
+        "directors": [
+            "Michael Karbelnikoff"
+        ],
+        "leads": [
+            "Christian Slater",
+            "Patrick Dempsey",
+            "Richard Grieco"
+        ],
+        "music": [
+            "Michael Small"
+        ]
+    },
+    "Hot Shots! (1991)": {
+        "title": "Hot Shots!",
+        "year": "1991",
+        "synopsis": "A talented, unstable fighter pilot must overcome the ghosts of his father and save a mission sabotaged by greedy weapons manufacturers.",
+        "directors": [
+            "Jim Abrahams"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Cary Elwes",
+            "Valeria Golino"
+        ],
+        "music": [
+            "Sylvester Levay"
+        ]
+    },
+    "Doc Hollywood (1991)": {
+        "title": "Doc Hollywood",
+        "year": "1991",
+        "synopsis": "A young doctor on his way to a Beverly Hills job interview crashes in a South Carolina town and is sentenced to 32 hours of work in a medical clinic.",
+        "directors": [
+            "Michael Caton-Jones"
+        ],
+        "leads": [
+            "Michael J. Fox",
+            "Julie Warner",
+            "Barnard Hughes"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Double Impact (1991)": {
+        "title": "Double Impact",
+        "year": "1991",
+        "synopsis": "In Hong Kong, twin baby brothers are separated when their parents are killed. 25 years later, a bodyguard reunites them to avenge their deaths.",
+        "directors": [
+            "Sheldon Lettich"
+        ],
+        "leads": [
+            "Jean-Claude van Damme",
+            "Geoffrey Lewis",
+            "Alan Scarfe"
+        ],
+        "music": [
+            "Arthur Kempel"
+        ]
+    },
+    "Barton Fink (1991)": {
+        "title": "Barton Fink",
+        "year": "1991",
+        "synopsis": "In 1941, a renowned New York playwright moves to Hollywood to write for the movies but develops writer's block while staying in an eerie hotel.",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "leads": [
+            "John Turturro",
+            "John Goodman",
+            "Judy Davis"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Dead Again (1991)": {
+        "title": "Dead Again",
+        "year": "1991",
+        "synopsis": "A woman who has lost her memory is taken in by an L.A. orphanage. A private eye tracks down her identity and finds a dramatic past life connection.",
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "leads": [
+            "Kenneth Branagh",
+            "Emma Thompson",
+            "Andy Garc\u00eda"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Child's Play 3 (1991)": {
+        "title": "Child's Play 3",
+        "year": "1991",
+        "synopsis": "Chucky returns for revenge against Andy, the young boy who defeated him, and now a teenager living in a military academy.",
+        "directors": [
+            "Jack Bender"
+        ],
+        "leads": [
+            "Justin Whalin",
+            "Brad Dourif",
+            "Jeremy Sylvers"
+        ],
+        "music": [
+            "Cory Lerios",
+            "John D'Andrea"
+        ]
+    },
+    "Freddy's Dead: The Final Nightmare (1991)": {
+        "title": "Freddy's Dead: The Final Nightmare",
+        "year": "1991",
+        "synopsis": "Dream-haunting Freddy Krueger returns to prowl the nightmares of Springwood's last surviving teenager, and of a woman whose personal connection to Krueger may mean his doom.",
+        "directors": [
+            "Rachel Talalay"
+        ],
+        "leads": [
+            "Lisa Zane",
+            "Robert Englund",
+            "Yaphet Kotto"
+        ],
+        "music": [
+            "Brian May"
+        ]
+    },
+    "The Fisher King (1991)": {
+        "title": "The Fisher King",
+        "year": "1991",
+        "synopsis": "Former radio DJ Jack, who unwittingly prompted a mass murder, finds redemption in helping Parry, a confused homeless man seeking the Holy Grail.",
+        "directors": [
+            "Terry Gilliam"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Jeff Bridges",
+            "Amanda Plummer"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Necessary Roughness (1991)": {
+        "title": "Necessary Roughness",
+        "year": "1991",
+        "synopsis": "The Texas State University Armadillos are forced to start the season with new coaches and players after all but one player are banned for violations.",
+        "directors": [
+            "Stan Dragoti"
+        ],
+        "leads": [
+            "Scott Bakula",
+            "Robert Loggia",
+            "Harley Jane Kozak"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "My Own Private Idaho (1991)": {
+        "title": "My Own Private Idaho",
+        "year": "1991",
+        "synopsis": "Street hustler Mike and the Portland mayor's son Scott travel to Idaho to find Mike's brother then to Italy to locate Mike's mother. Mike falls for Scott.",
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "leads": [
+            "River Phoenix",
+            "Keanu Reeves",
+            "James Russo"
+        ],
+        "music": [
+            "Bill Stafford"
+        ]
+    },
+    "Ricochet (1991)": {
+        "title": "Ricochet",
+        "year": "1991",
+        "synopsis": "A Los Angeles district attorney faces a vengeful criminal he arrested when he was a cop. He is believed insane and framed for embezzling funds.",
+        "directors": [
+            "Russell Mulcahy"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "John Lithgow",
+            "Ice-T"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Suburban Commando (1991)": {
+        "title": "Suburban Commando",
+        "year": "1991",
+        "synopsis": "After failing to rescue a president, interstellar hero Shep Ramsey crash-lands on Earth. He moves to the cabin of a meek architect Charlie and his wife.",
+        "directors": [
+            "Burt Kennedy"
+        ],
+        "leads": [
+            "Hulk Hogan",
+            "Christopher Lloyd",
+            "Shelley Duvall"
+        ],
+        "music": [
+            "David Michael Frank"
+        ]
+    },
+    "The Man in the Moon (1991)": {
+        "title": "The Man in the Moon",
+        "year": "1991",
+        "synopsis": "In 1957 Louisiana, 14-year-old Dani is close with her sister, who is soon going to college. Both girls fall in love with the same 17-year-old neighbor.",
+        "directors": [
+            "Robert Mulligan"
+        ],
+        "leads": [
+            "Reese Witherspoon",
+            "Emily Warfield",
+            "Sam Waterston"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "City of Hope (1991)": {
+        "title": "City of Hope",
+        "year": "1991",
+        "synopsis": "In New Jersey, an old apartment block stands in the way of a major commercial development. The buildings' contractor Joe is pushed to torch them.",
+        "directors": [
+            "John Sayles"
+        ],
+        "leads": [
+            "Vincent Spano",
+            "Tony Lo Bianco",
+            "Joe Morton"
+        ],
+        "music": [
+            "Mason Daring"
+        ]
+    },
+    "Frankie and Johnny (1991)": {
+        "title": "Frankie and Johnny",
+        "year": "1991",
+        "synopsis": "In New York City, a scarred caf\u00e9 waitress meets a man newly released from prison when he is hired as a cook. They discuss their lives and fall in love.",
+        "directors": [
+            "Garry Marshall"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Michelle Pfeiffer",
+            "H\u00e9ctor Elizondo"
+        ],
+        "music": [
+            "Marvin Hamlisch"
+        ]
+    },
+    "Little Man Tate (1991)": {
+        "title": "Little Man Tate",
+        "year": "1991",
+        "synopsis": "A single mother raises a 7-year-old child prodigy with remarkable math and reading capabilities on her own, struggling to enable him to show his gift.",
+        "directors": [
+            "Jodie Foster"
+        ],
+        "leads": [
+            "Adam Hann-Byrd",
+            "Jodie Foster",
+            "Dianne Wiest"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "House Party 2 (1991)": {
+        "title": "House Party 2",
+        "year": "1991",
+        "synopsis": "When Kid's college money is stolen by a crooked music promoter who promised a record deal, Play resolves to stage a pajama party in a dining hall.",
+        "directors": [
+            "Doug McHenry",
+            "George Jackson"
+        ],
+        "leads": [
+            "Christopher Reid",
+            "Christopher Martin",
+            "Martin Lawrence"
+        ],
+        "music": [
+            "Vassal Benford"
+        ]
+    },
+    "Curly Sue (1991)": {
+        "title": "Curly Sue",
+        "year": "1991",
+        "synopsis": "In Chicago, a homeless man and a small girl, who survive by conning people, encounter a divorce lawyer who soon allows the two to stay with her.",
+        "directors": [
+            "John Hughes"
+        ],
+        "leads": [
+            "James Belushi",
+            "Kelly Lynch",
+            "Alisan Porter"
+        ],
+        "music": [
+            "Georges Delerue"
+        ]
+    },
+    "Billy Bathgate (1991)": {
+        "title": "Billy Bathgate",
+        "year": "1991",
+        "synopsis": "In 1935, a poor Irish-American teenager finds first love while becoming the gofer prot\u00e9g\u00e9 of Jewish gangster Dutch Schultz, who commits murders.",
+        "directors": [
+            "Robert Benton"
+        ],
+        "leads": [
+            "Dustin Hoffman",
+            "Nicole Kidman",
+            "Loren Dean"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Highlander II: The Quickening (1991)": {
+        "title": "Highlander II: The Quickening",
+        "year": "1991",
+        "synopsis": "In 2024, MacLeod, after regaining his youth and immortal abilities, frees Earth from the Shield, an artificial ozone controlled by a corrupt corporation.",
+        "directors": [
+            "Russell Mulcahy"
+        ],
+        "leads": [
+            "Christopher Lambert",
+            "Sean Connery",
+            "Virginia Madsen"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ]
+    },
+    "The People Under the Stairs (1991)": {
+        "title": "The People Under the Stairs",
+        "year": "1991",
+        "synopsis": "Two adults and a juvenile break into a house occupied by a brother and sister and their stolen children. There, they must fight for their lives.",
+        "directors": [
+            "Wes Craven"
+        ],
+        "leads": [
+            "Brandon Adams",
+            "Everett McGill",
+            "Wendy Robie"
+        ],
+        "music": [
+            "Don Peake"
+        ]
+    },
+    "Cape Fear (1991)": {
+        "title": "Cape Fear",
+        "year": "1991",
+        "synopsis": "In North Carolina, convicted rapist Max is let out from prison after a 14-year sentence. He frightens the family of the lawyer who botched his defense.",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Nick Nolte",
+            "Jessica Lange"
+        ],
+        "music": [
+            "Bernard Herrmann",
+            "Elmer Bernstein"
+        ]
+    },
+    "An American Tail: Fievel Goes West (1991)": {
+        "title": "An American Tail: Fievel Goes West",
+        "year": "1991",
+        "synopsis": "The Mousekewitzs decide to move to the West, where mice and cats live in peace, unaware they are falling into the trap of an oily con artist cat.",
+        "directors": [
+            "Phil Nibbelink",
+            "Simon Wells"
+        ],
+        "leads": [
+            "Phillip Glasser",
+            "James Stewart",
+            "Erica Yohn"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Beauty and the Beast (1991)": {
+        "title": "Beauty and the Beast",
+        "year": "1991",
+        "synopsis": "A prince cursed to spend his days as a hideous monster sets out to regain his humanity by earning a young woman's love.",
+        "directors": [
+            "Gary Trousdale",
+            "Kirk Wise"
+        ],
+        "leads": [
+            "Paige O'Hara",
+            "Robby Benson",
+            "Richard White"
+        ],
+        "music": [
+            "Alan Menken"
+        ]
+    },
+    "The Addams Family (1991)": {
+        "title": "The Addams Family",
+        "year": "1991",
+        "synopsis": "Con artists plan to fleece an eccentric family using an accomplice who claims to be their long-lost uncle.",
+        "directors": [
+            "Barry Sonnenfeld"
+        ],
+        "leads": [
+            "Anjelica Huston",
+            "Raul Julia",
+            "Christopher Lloyd"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "My Girl (1991)": {
+        "title": "My Girl",
+        "year": "1991",
+        "synopsis": "In 1972, 11-year-old Vada's father heads a funeral parlor. She is in love with her English teacher. Her best friend Thomas sticks with her until his death.",
+        "directors": [
+            "Howard Zieff"
+        ],
+        "leads": [
+            "Dan Aykroyd",
+            "Jamie Lee Curtis",
+            "Macaulay Culkin"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Star Trek VI: The Undiscovered Country (1991)": {
+        "title": "Star Trek VI: The Undiscovered Country",
+        "year": "1991",
+        "synopsis": "Before retirement, Kirk and McCoy are charged with killing the Klingon Chancellor and put in a frozen prison. Their crew must help them escape.",
+        "directors": [
+            "Nicholas Meyer"
+        ],
+        "leads": [
+            "William Shatner",
+            "Leonard Nimoy",
+            "DeForest Kelley"
+        ],
+        "music": [
+            "Cliff Eidelman"
+        ]
+    },
+    "Hook (1991)": {
+        "title": "Hook",
+        "year": "1991",
+        "synopsis": "When Captain James Hook kidnaps his children, an adult Peter Pan must return to Neverland and reclaim his youthful spirit to challenge his enemy.",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Dustin Hoffman",
+            "Julia Roberts"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Bugsy (1991)": {
+        "title": "Bugsy",
+        "year": "1991",
+        "synopsis": "Mobster Benjamin Siegel leaves New York for Hollywood. He courts an actress despite having a wife and children. He takes racketeering to the Nevada desert and helps develop Las Vegas.",
+        "directors": [
+            "Barry Levinson"
+        ],
+        "leads": [
+            "Warren Beatty",
+            "Annette Bening",
+            "Harvey Keitel"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "The Last Boy Scout (1991)": {
+        "title": "The Last Boy Scout",
+        "year": "1991",
+        "synopsis": "A private detective's protected female witness is murdered, so he and her boyfriend investigate a corrupt politician and an evil football team owner.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Damon Wayans",
+            "Chelsea Field"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Father of the Bride (1991)": {
+        "title": "Father of the Bride",
+        "year": "1991",
+        "synopsis": "With his oldest daughter's wedding to an upper-class man approaching, a middle-class father finds himself reluctant to let go.",
+        "directors": [
+            "Charles Shyer"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Diane Keaton",
+            "Kimberly Williams"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "JFK (1991)": {
+        "title": "JFK",
+        "year": "1991",
+        "synopsis": "New Orleans District Attorney Jim Garrison files charges against a businessman for his supposed participation in a plan to assassinate Kennedy.",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Kevin Bacon",
+            "Tommy Lee Jones"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Rhapsody in August (1991)": {
+        "title": "Rhapsody in August",
+        "year": "1991",
+        "synopsis": "In Nagasaki, an elderly woman takes care of her four grandchildren for their summer vacation, and they learn about an atomic bomb that fell in 1945.",
+        "directors": [
+            "Akira Kurosawa"
+        ],
+        "leads": [
+            "Sachiko Murase",
+            "Hidetaka Yoshioka",
+            "Richard Gere"
+        ],
+        "music": [
+            "Shin\u2019ichir\u014d Ikebe"
+        ]
+    },
+    "Grand Canyon (1991)": {
+        "title": "Grand Canyon",
+        "year": "1991",
+        "synopsis": "In L.A., lawyer Mack is nearly mugged before tow truck driver Simon helps him. Mack's wife plans to adopt. His friend stops producing violent movies.",
+        "directors": [
+            "Lawrence Kasdan"
+        ],
+        "leads": [
+            "Danny Glover",
+            "Kevin Kline",
+            "Steve Martin"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Prince of Tides (1991)": {
+        "title": "The Prince of Tides",
+        "year": "1991",
+        "synopsis": "A troubled teacher goes to New York to talk to his suicidal sister's psychiatrist about their dark family history and falls in love with her in the process.",
+        "directors": [
+            "Barbra Streisand"
+        ],
+        "leads": [
+            "Barbra Streisand",
+            "Nick Nolte",
+            "Blythe Danner"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Fried Green Tomatoes (1991)": {
+        "title": "Fried Green Tomatoes",
+        "year": "1991",
+        "synopsis": "A housewife unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.",
+        "directors": [
+            "Jon Avnet"
+        ],
+        "leads": [
+            "Kathy Bates",
+            "Jessica Tandy",
+            "Mary Stuart Masterson"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "The Hand That Rocks the Cradle (1992)": {
+        "title": "The Hand That Rocks the Cradle",
+        "year": "1992",
+        "synopsis": "In Seattle, after Claire accuses her obstetrician of molestation, he kills himself. His own wife loses a child, so she seeks vengeance on Claire's family.",
+        "directors": [
+            "Curtis Hanson"
+        ],
+        "leads": [
+            "Annabella Sciorra",
+            "Rebecca De Mornay",
+            "Matt McCoy"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Freejack (1992)": {
+        "title": "Freejack",
+        "year": "1992",
+        "synopsis": "In 1991, bounty hunters from the future take a doomed racecar driver to 2009 New York, where his mind will be replaced with that of a billionaire.",
+        "directors": [
+            "Geoff Murphy"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Mick Jagger",
+            "Rene Russo"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "Juice (1992)": {
+        "title": "Juice",
+        "year": "1992",
+        "synopsis": "In Harlem, teenagers Bishop, Raheem, Steel, and Q work to gain respect by robbing a convenience store. One becomes addicted to the thrill of killing.",
+        "directors": [
+            "Ernest R. Dickerson"
+        ],
+        "leads": [
+            "Omar Epps",
+            "Jermaine Hopkins",
+            "Khalil Kain"
+        ],
+        "music": [
+            "Hank Shocklee and The Bomb Squad"
+        ]
+    },
+    "Medicine Man (1992)": {
+        "title": "Medicine Man",
+        "year": "1992",
+        "synopsis": "An eccentric scientist working for a drug company is close to a cure for cancer in the Amazon jungle. A biochemist is sent to help him. They fall in love.",
+        "directors": [
+            "John McTiernan"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Lorraine Bracco",
+            "Jos\u00e9 Wilker"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Wayne's World (1992)": {
+        "title": "Wayne's World",
+        "year": "1992",
+        "synopsis": "A sleazy TV executive offers Wayne and Garth a fat contract for their late-night public access show at his network. Their road to success is gnarly.",
+        "directors": [
+            "Penelope Spheeris"
+        ],
+        "leads": [
+            "Mike Myers",
+            "Dana Carvey",
+            "Tia Carrere"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "Radio Flyer (1992)": {
+        "title": "Radio Flyer",
+        "year": "1992",
+        "synopsis": "In 1969, 11-year-old Mike moves with his mother to town Novato, where she marries the King. He abuses Mike's brother, who wants to fly to safety.",
+        "directors": [
+            "Richard Donner"
+        ],
+        "leads": [
+            "Elijah Wood",
+            "Joseph Mazzello",
+            "Lorraine Bracco"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "This Is My Life (1992)": {
+        "title": "This Is My Life",
+        "year": "1992",
+        "synopsis": "Single mom Dottie Ingels sells cosmetics, but she dreams of being a comedian. She neglects her two daughters in the midst of her newfound fame.",
+        "directors": [
+            "Nora Ephron"
+        ],
+        "leads": [
+            "Julie Kavner",
+            "Samantha Mathis",
+            "Gaby Hoffman"
+        ],
+        "music": [
+            "Carly Simon"
+        ]
+    },
+    "Memoirs of an Invisible Man (1992)": {
+        "title": "Memoirs of an Invisible Man",
+        "year": "1992",
+        "synopsis": "After a science accident, a stock analyst becomes invisible, is hunted by a shady CIA agent, talks to a documentary producer, and records memoirs.",
+        "directors": [
+            "John Carpenter"
+        ],
+        "leads": [
+            "Chevy Chase",
+            "Daryl Hannah",
+            "Sam Neill"
+        ],
+        "music": [
+            "Shirley Walker"
+        ]
+    },
+    "The Lawnmower Man (1992)": {
+        "title": "The Lawnmower Man",
+        "year": "1992",
+        "synopsis": "A moral scientist experiments on an intellectually disabled gardener to give him greater intelligence but enhances his aggression and need to evolve.",
+        "directors": [
+            "Brett Leonard"
+        ],
+        "leads": [
+            "Jeff Fahey",
+            "Pierce Brosnan",
+            "Jenny Wright"
+        ],
+        "music": [
+            "Dan Wyman"
+        ]
+    },
+    "Howards End (1992)": {
+        "title": "Howards End",
+        "year": "1992",
+        "synopsis": "Margaret and her sister become involved with two couples, a wealthy industrialist and his wife, and a working-class man and his mistress.",
+        "directors": [
+            "James Ivory"
+        ],
+        "leads": [
+            "Anthony Hopkins",
+            "Emma Thompson",
+            "Vanessa Redgrave"
+        ],
+        "music": [
+            "Richard Robbins",
+            "Percy Grainger"
+        ]
+    },
+    "My Cousin Vinny (1992)": {
+        "title": "My Cousin Vinny",
+        "year": "1992",
+        "synopsis": "Two New Yorkers back from college accused of murder in rural Alabama call in a cousin, a loudmouth lawyer with no trial experience.",
+        "directors": [
+            "Jonathan Lynn"
+        ],
+        "leads": [
+            "Joe Pesci",
+            "Ralph Macchio",
+            "Marisa Tomei"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Basic Instinct (1992)": {
+        "title": "Basic Instinct",
+        "year": "1992",
+        "synopsis": "A San Francisco police detective investigates a wealthy rock star's brutal murder that might involve a manipulative and seductive novelist.",
+        "directors": [
+            "Paul Verhoeven"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Sharon Stone",
+            "George Dzundza"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Ladybugs (1992)": {
+        "title": "Ladybugs",
+        "year": "1992",
+        "synopsis": "To earn a promotion from his boss, Chester starts coaching his company's all-girls soccer team with the help of his secret weapon: his fianc\u00e9e's son.",
+        "directors": [
+            "Sidney J. Furie"
+        ],
+        "leads": [
+            "Rodney Dangerfield",
+            "Jack\u00e9e Harry",
+            "Jonathan Brandis"
+        ],
+        "music": [
+            "Richard Gibbs"
+        ]
+    },
+    "The Cutting Edge (1992)": {
+        "title": "The Cutting Edge",
+        "year": "1992",
+        "synopsis": "Spoiled top figure skater Kate and injured hockey player Doug work to win Olympic gold as a team. Romance blooms. They argue before their finale.",
+        "directors": [
+            "Paul Michael Glaser"
+        ],
+        "leads": [
+            "D. B. Sweeney",
+            "Moira Kelly",
+            "Roy Dotrice"
+        ],
+        "music": [
+            "Patrick Williams"
+        ]
+    },
+    "White Men Can't Jump (1992)": {
+        "title": "White Men Can't Jump",
+        "year": "1992",
+        "synopsis": "Black and white basketball hustlers join forces to double their chances of winning money on the street courts and in a basketball tournament.",
+        "directors": [
+            "Ron Shelton"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Woody Harrelson",
+            "Rosie Perez"
+        ],
+        "music": [
+            "Bennie Wallace"
+        ]
+    },
+    "Beethoven (1992)": {
+        "title": "Beethoven",
+        "year": "1992",
+        "synopsis": "A slobbering St. Bernard becomes the center of attention for the Newton family but must contend with a dognapping veterinarian and henchmen.",
+        "directors": [
+            "Brian Levant"
+        ],
+        "leads": [
+            "Charles Grodin",
+            "Bonnie Hunt",
+            "Dean Jones"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Rock-a-Doodle (1992)": {
+        "title": "Rock-a-Doodle",
+        "year": "1992",
+        "synopsis": "To defeat the Grand Duke of Owls, a young boy transformed into a cat teams up with barnyard animals to find a rooster who can raise the sun.",
+        "directors": [
+            "Don Bluth"
+        ],
+        "leads": [
+            "Glen Campbell",
+            "Eddie Deezen",
+            "Sandy Duncan"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "FernGully: The Last Rainforest (1992)": {
+        "title": "FernGully: The Last Rainforest",
+        "year": "1992",
+        "synopsis": "Fairy Crysta, Batty Koda, and lumberjack Zak aim to save her rainforest home threatened by logging and a polluting force of destruction called Hexxus.",
+        "directors": [
+            "Bill Kroyer"
+        ],
+        "leads": [
+            "Samantha Mathis",
+            "Jonathan Ward",
+            "Tim Curry"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Newsies (1992)": {
+        "title": "Newsies",
+        "year": "1992",
+        "synopsis": "In 1899, when young New York newspaper sellers are exploited by their bosses, they set out to enact change but are met by big business.",
+        "directors": [
+            "Kenny Ortega"
+        ],
+        "leads": [
+            "Christian Bale",
+            "Gabriel Damon",
+            "Luke Edwards"
+        ],
+        "music": [
+            "Alan Menken",
+            "J. A. C. Redford"
+        ]
+    },
+    "Sleepwalkers (1992)": {
+        "title": "Sleepwalkers",
+        "year": "1992",
+        "synopsis": "The last two survivors of a vampiric shapeshifting species, a mother and son, feed on the life force of human female virgins, targeting an Indiana girl.",
+        "directors": [
+            "Mick Garris"
+        ],
+        "leads": [
+            "Brian Krause",
+            "M\u00e4dchen Amick",
+            "Alice Krige"
+        ],
+        "music": [
+            "Nicholas Pike"
+        ]
+    },
+    "The Player (1992)": {
+        "title": "The Player",
+        "year": "1992",
+        "synopsis": "Hollywood film studio executive Griffin Mill drowns a screenwriter he believes sent him death threat postcards. He falls for the writer's girlfriend, June.",
+        "directors": [
+            "Robert Altman"
+        ],
+        "leads": [
+            "Tim Robbins",
+            "Greta Scacchi",
+            "Fred Ward"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Deep Cover (1992)": {
+        "title": "Deep Cover",
+        "year": "1992",
+        "synopsis": "In L.A., a uniformed cop is recruited by a drug enforcement agent to infiltrate a drug smuggling network. He works with an attorney and trafficker.",
+        "directors": [
+            "Bill Duke"
+        ],
+        "leads": [
+            "Laurence Fishburne",
+            "Jeff Goldblum",
+            "Charles Martin Smith"
+        ],
+        "music": [
+            "Michel Colombier"
+        ]
+    },
+    "CrissCross (1992)": {
+        "title": "CrissCross",
+        "year": "1992",
+        "synopsis": "In 1969 Key West, divorced mother Tracy raises her 12-year-old son Chris and resorts to stripping for money. His father lives in a remote commune.",
+        "directors": [
+            "Chris Menges"
+        ],
+        "leads": [
+            "David Arnott",
+            "Goldie Hawn",
+            "Arliss Howard"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "Lethal Weapon 3 (1992)": {
+        "title": "Lethal Weapon 3",
+        "year": "1992",
+        "synopsis": "LAPD sergeants Riggs and Murtaugh and internal affairs sergeant Lorna Cole hunt Travis, a former LAPD lieutenant that has become an arms dealer.",
+        "directors": [
+            "Richard Donner"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Danny Glover",
+            "Joe Pesci"
+        ],
+        "music": [
+            "Michael Kamen",
+            "Eric Clapton",
+            "David Sanborn"
+        ]
+    },
+    "Alien 3 (1992)": {
+        "title": "Alien 3",
+        "year": "1992",
+        "synopsis": "Ripley crash-lands on Fiorina 161, a maximum security prison. Strange and deadly events occur after her arrival due to an unwelcome alien visitor.",
+        "directors": [
+            "David Fincher"
+        ],
+        "leads": [
+            "Sigourney Weaver",
+            "Charles S. Dutton",
+            "Charles Dance"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "Encino Man (1992)": {
+        "title": "Encino Man",
+        "year": "1992",
+        "synopsis": "When two outcast students find a frozen caveman named Link in their backyard, they thaw him and introduce him to modern life as he attracts girls.",
+        "directors": [
+            "Les Mayfield"
+        ],
+        "leads": [
+            "Sean Astin",
+            "Brendan Fraser",
+            "Pauly Shore"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "Far and Away (1992)": {
+        "title": "Far and Away",
+        "year": "1992",
+        "synopsis": "In 1892, an Irish landlord's daughter and her poor servant flee to the U.S. to find land in Oklahoma, but they struggle to prosper. The two fall in love.",
+        "directors": [
+            "Ron Howard"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Nicole Kidman",
+            "Thomas Gibson"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Sister Act (1992)": {
+        "title": "Sister Act",
+        "year": "1992",
+        "synopsis": "When a lounge singer witnesses a mob crime, the police hide her in San Francisco as a nun in a traditional convent, where she struggles to fit in.",
+        "directors": [
+            "Emile Ardolino"
+        ],
+        "leads": [
+            "Whoopi Goldberg",
+            "Maggie Smith",
+            "Harvey Keitel"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Class Act (1992)": {
+        "title": "Class Act",
+        "year": "1992",
+        "synopsis": "A valedictorian and a juvenile delinquent have their school records switched and begin to be treated like the other.",
+        "directors": [
+            "Randall Miller"
+        ],
+        "leads": [
+            "Christopher Reid",
+            "Christopher Martin",
+            "Karyn Parsons"
+        ],
+        "music": [
+            "Vassal Benford"
+        ]
+    },
+    "Patriot Games (1992)": {
+        "title": "Patriot Games",
+        "year": "1992",
+        "synopsis": "After CIA analyst Jack Ryan intervenes in a failed IRA assassination in London, a renegade faction targets him and his family at home for revenge.",
+        "directors": [
+            "Phillip Noyce"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Anne Archer",
+            "Patrick Bergin"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Housesitter (1992)": {
+        "title": "Housesitter",
+        "year": "1992",
+        "synopsis": "Con artist Gwen moves into depressed architect Newton's empty house without his knowledge and begins setting up house, posing as his new wife.",
+        "directors": [
+            "Frank Oz"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Goldie Hawn",
+            "Dana Delany"
+        ],
+        "music": [
+            "Miles Goodman"
+        ]
+    },
+    "Batman Returns (1992)": {
+        "title": "Batman Returns",
+        "year": "1992",
+        "synopsis": "The Penguin joins the businessman Max Shreck to topple Batman. After Shreck's timid assistant finds out, she is transformed into Catwoman.",
+        "directors": [
+            "Tim Burton"
+        ],
+        "leads": [
+            "Michael Keaton",
+            "Danny DeVito",
+            "Michelle Pfeiffer"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Unlawful Entry (1992)": {
+        "title": "Unlawful Entry",
+        "year": "1992",
+        "synopsis": "After a break-in, Michael and Karen get help from a cop that took their call. He helps them install a security system and begins regularly dropping by.",
+        "directors": [
+            "Jonathan Kaplan"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "Ray Liotta",
+            "Madeleine Stowe"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "A League of Their Own (1992)": {
+        "title": "A League of Their Own",
+        "year": "1992",
+        "synopsis": "In 1943, sisters Dottie and Kit join the Rockford Peaches in the AAGPBL. They all struggle to help the league succeed as a sibling rivalry intensifies.",
+        "directors": [
+            "Penny Marshall"
+        ],
+        "leads": [
+            "Geena Davis",
+            "Tom Hanks",
+            "Madonna"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Boomerang (1992)": {
+        "title": "Boomerang",
+        "year": "1992",
+        "synopsis": "A womanizer finds his lifestyle choices have turned back on him when his new female boss turns out to be an even bigger deviant than he is.",
+        "directors": [
+            "Reginald Hudlin"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Halle Berry",
+            "Robin Givens"
+        ],
+        "music": [
+            "Marcus Miller"
+        ]
+    },
+    "Cool World (1992)": {
+        "title": "Cool World",
+        "year": "1992",
+        "synopsis": "Femme fatale Holli seeks to seduce a cartoonist creator to cross over into the real world while a World War II veteran detective investigates her.",
+        "directors": [
+            "Ralph Bakshi"
+        ],
+        "leads": [
+            "Kim Basinger",
+            "Gabriel Byrne",
+            "Brad Pitt"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Universal Soldier (1992)": {
+        "title": "Universal Soldier",
+        "year": "1992",
+        "synopsis": "Two rival soldiers who were killed in Vietnam in 1969 are brought back to life decades later in a military experiment that creates super warriors.",
+        "directors": [
+            "Roland Emmerich"
+        ],
+        "leads": [
+            "Jean-Claude van Damme",
+            "Dolph Lundgren",
+            "Ally Walker"
+        ],
+        "music": [
+            "Christopher Franke"
+        ]
+    },
+    "Honey, I Blew Up the Kid (1992)": {
+        "title": "Honey, I Blew Up the Kid",
+        "year": "1992",
+        "synopsis": "2-year-old boy Adam is accidentally exposed to his father's new industrial-sized growth machine, causing him to gradually grow to enormous size.",
+        "directors": [
+            "Randal Kleiser"
+        ],
+        "leads": [
+            "Rick Moranis",
+            "Marcia Strassman",
+            "Amy O'Neill"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "Mo' Money (1992)": {
+        "title": "Mo' Money",
+        "year": "1992",
+        "synopsis": "A lifelong petty con man follows a woman into an office building and is taken for a job applicant. He becomes a mailroom worker at a credit card firm.",
+        "directors": [
+            "Peter Macdonald"
+        ],
+        "leads": [
+            "Damon Wayans",
+            "Stacey Dash",
+            "Joe Santos"
+        ],
+        "music": [
+            "Jay Gruska"
+        ]
+    },
+    "Buffy the Vampire Slayer (1992)": {
+        "title": "Buffy the Vampire Slayer",
+        "year": "1992",
+        "synopsis": "In L.A., flighty teenage girl Buffy Summers learns from Merrick, a Watcher who guides her, that she is her generation's destined battler of vampires.",
+        "directors": [
+            "Fran Rubel Kuzui"
+        ],
+        "leads": [
+            "Kristy Swanson",
+            "Donald Sutherland",
+            "Paul Reubens"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Death Becomes Her (1992)": {
+        "title": "Death Becomes Her",
+        "year": "1992",
+        "synopsis": "To outdo her rival Helen, aging actress Madeline drinks a potion that gives eternal youth. They both reanimate after dying and target surgeon Ernest.",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "leads": [
+            "Meryl Streep",
+            "Bruce Willis",
+            "Goldie Hawn"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "3 Ninjas (1992)": {
+        "title": "3 Ninjas",
+        "year": "1992",
+        "synopsis": "Each year, three brothers visit their grandfather for the summer. He is highly skilled in ninjutsu and has trained the boys in his techniques.",
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "leads": [
+            "Victor Wong",
+            "Michael Treanor",
+            "Max Elliott Slade"
+        ],
+        "music": [
+            "Richard Marvin"
+        ]
+    },
+    "Raising Cain (1992)": {
+        "title": "Raising Cain",
+        "year": "1992",
+        "synopsis": "The oncologist wife of a child psychologist thinks her husband has an unhealthy obsession with their daughter, unaware of what is in his head.",
+        "directors": [
+            "Brian De Palma"
+        ],
+        "leads": [
+            "John Lithgow",
+            "Lolita Davidovich",
+            "Steven Bauer"
+        ],
+        "music": [
+            "Pino Donaggio"
+        ]
+    },
+    "Unforgiven (1992)": {
+        "title": "Unforgiven",
+        "year": "1992",
+        "synopsis": "In 1881, gunslinger William Munny embarks on a final job to find cowboys who slashed a prostitute with help from retired Ned and the Schofield Kid.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Morgan Freeman"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "Diggstown (1992)": {
+        "title": "Diggstown",
+        "year": "1992",
+        "synopsis": "Gabriel, recently released from prison, bets with a businessman that owns a town that he can find a boxer that can knock out 10 men in 24 hours.",
+        "directors": [
+            "Michael Ritchie"
+        ],
+        "leads": [
+            "James Woods",
+            "Louis Gossett Jr.",
+            "Bruce Dern"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Johnny Suede (1992)": {
+        "title": "Johnny Suede",
+        "year": "1992",
+        "synopsis": "A struggling musician and devoted fan of Ricky Nelson wants to be like his idol as a rock and roll star. He falls for a Bohemian then a wiser woman.",
+        "directors": [
+            "Tom DiCillo"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Catherine Keener",
+            "Calvin Levels"
+        ],
+        "music": [
+            "Jim Farmer"
+        ]
+    },
+    "Single White Female (1992)": {
+        "title": "Single White Female",
+        "year": "1992",
+        "synopsis": "In New York, a software designer who catches her fianc\u00e9 sleeping with his ex-wife advertises for a new roommate and meets an obsessive tenant.",
+        "directors": [
+            "Barbet Schroeder"
+        ],
+        "leads": [
+            "Bridget Fonda",
+            "Jennifer Jason Leigh",
+            "Steven Weber"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Stay Tuned (1992)": {
+        "title": "Stay Tuned",
+        "year": "1992",
+        "synopsis": "In Seattle, a couch potato plumber and his wife are sucked into a hellish television set and have to survive a gauntlet of twisted versions of shows.",
+        "directors": [
+            "Peter Hyams"
+        ],
+        "leads": [
+            "John Ritter",
+            "Pam Dawber",
+            "Jeffrey Jones"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "Pet Sematary Two (1992)": {
+        "title": "Pet Sematary Two",
+        "year": "1992",
+        "synopsis": "Teenage Jeff and his father move to his recently deceased mother's home Ludlow. They run into a cemetery used to revive a sheriff and his mother.",
+        "directors": [
+            "Mary Lambert"
+        ],
+        "leads": [
+            "Edward Furlong",
+            "Anthony Edwards",
+            "Clancy Brown"
+        ],
+        "music": [
+            "Mark Governor"
+        ]
+    },
+    "Twin Peaks: Fire Walk with Me (1992)": {
+        "title": "Twin Peaks: Fire Walk with Me",
+        "year": "1992",
+        "synopsis": "Teenager Laura Palmer's harrowing final days are chronicled one year after the murder of Teresa, a waitress from Twin Peaks' neighboring town.",
+        "directors": [
+            "David Lynch"
+        ],
+        "leads": [
+            "Sheryl Lee",
+            "Moira Kelly",
+            "David Bowie"
+        ],
+        "music": [
+            "Angelo Badalamenti"
+        ]
+    },
+    "Hellraiser III: Hell on Earth (1992)": {
+        "title": "Hellraiser III: Hell on Earth",
+        "year": "1992",
+        "synopsis": "After Pinhead escapes a sculpture with the help of a playboy, he seeks to destroy the puzzle box so he need never return to Hell. A female reporter investigates the murders and stands in his way.",
+        "directors": [
+            "Anthony Hickox"
+        ],
+        "leads": [
+            "Terry Farrell",
+            "Paula Marshall",
+            "Kevin Bernhardt"
+        ],
+        "music": [
+            "Randy Miller"
+        ]
+    },
+    "Sneakers (1992)": {
+        "title": "Sneakers",
+        "year": "1992",
+        "synopsis": "In Chicago, a security pro finds his past coming back to haunt him when he and his unique team are tasked with retrieving an important black box.",
+        "directors": [
+            "Phil Alden Robinson"
+        ],
+        "leads": [
+            "Robert Redford",
+            "Ben Kingsley",
+            "Sidney Poitier"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Where the Day Takes You (1992)": {
+        "title": "Where the Day Takes You",
+        "year": "1992",
+        "synopsis": "In L.A., King, in his twenties, is a veteran of street life. A leader of runaways, he mentors upset kids such as drug junkie Greg and gay hustler Little J.",
+        "directors": [
+            "Marc Rocco"
+        ],
+        "leads": [
+            "Dermot Mulroney",
+            "Sean Astin",
+            "Balthazar Getty"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Captain Ron (1992)": {
+        "title": "Captain Ron",
+        "year": "1992",
+        "synopsis": "In Chicago, Martin inherits a yacht. His family flies to a Caribbean island to retrieve it to sell. A calm, clueless, one-eyed captain takes them to Miami.",
+        "directors": [
+            "Thom Eberhardt"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "Martin Short",
+            "Mary Kay Place"
+        ],
+        "music": [
+            "Nicholas Pike"
+        ]
+    },
+    "Husbands and Wives (1992)": {
+        "title": "Husbands and Wives",
+        "year": "1992",
+        "synopsis": "When their best friends announce that they are separating, a professor and his wife discover the faults in their own marriage and see other people.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Woody Allen",
+            "Mia Farrow",
+            "Judy Davis"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "School Ties (1992)": {
+        "title": "School Ties",
+        "year": "1992",
+        "synopsis": "In 1959, star quarterback David is given a spot in an elite Massachusetts preparatory school, but he hides his Judaism from his antisemite teammates.",
+        "directors": [
+            "Robert Mandel"
+        ],
+        "leads": [
+            "Brendan Fraser",
+            "Matt Damon",
+            "Chris O'Donnell"
+        ],
+        "music": [
+            "Maurice Jarre"
+        ]
+    },
+    "Singles (1992)": {
+        "title": "Singles",
+        "year": "1992",
+        "synopsis": "In the grunge music scene of Seattle, six young people search for love while living in the same two-story apartment building in single bedrooms.",
+        "directors": [
+            "Cameron Crowe"
+        ],
+        "leads": [
+            "Bridget Fonda",
+            "Campbell Scott",
+            "Kyra Sedgwick"
+        ],
+        "music": [
+            "Paul Westerberg"
+        ]
+    },
+    "Mr. Saturday Night (1992)": {
+        "title": "Mr. Saturday Night",
+        "year": "1992",
+        "synopsis": "Stand-up comic Buddy Young was popular. He is forced to play for small crowds years later. Buddy works to rise with his brother and a young agent.",
+        "directors": [
+            "Billy Crystal"
+        ],
+        "leads": [
+            "Billy Crystal",
+            "David Paymer",
+            "Julie Warner"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "The Last of the Mohicans (1992)": {
+        "title": "The Last of the Mohicans",
+        "year": "1992",
+        "synopsis": "In 1757, when a British colonel's daughters are betrayed by a scout, three Mohicans, a man, his father, and his adoptive white brother, save them.",
+        "directors": [
+            "Michael Mann"
+        ],
+        "leads": [
+            "Daniel Day-Lewis",
+            "Madeleine Stowe",
+            "Russell Means"
+        ],
+        "music": [
+            "Trevor Jones",
+            "Randy Edelman"
+        ]
+    },
+    "Glengarry Glen Ross (1992)": {
+        "title": "Glengarry Glen Ross",
+        "year": "1992",
+        "synopsis": "When New York City real estate salesmen learn that all but their top two will be fired at the end of the week, the pressure to make sales heats up.",
+        "directors": [
+            "James Foley"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Jack Lemmon",
+            "Alec Baldwin"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Mighty Ducks (1992)": {
+        "title": "The Mighty Ducks",
+        "year": "1992",
+        "synopsis": "A self-centered Minnesota lawyer is sentenced to community service coaching a rag tag youth hockey team.",
+        "directors": [
+            "Stephen Herek"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Joss Ackland",
+            "Lane Smith"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "1492: Conquest of Paradise (1992)": {
+        "title": "1492: Conquest of Paradise",
+        "year": "1992",
+        "synopsis": "Christopher Columbus is granted a journey to find gold by a queen. His crew arrives in Guanahani, but tensions and wars with its native people rise.",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "leads": [
+            "G\u00e9rard Depardieu",
+            "Armand Assante",
+            "Sigourney Weaver"
+        ],
+        "music": [
+            "Vangelis"
+        ]
+    },
+    "A River Runs Through It (1992)": {
+        "title": "A River Runs Through It",
+        "year": "1992",
+        "synopsis": "In Montana, two sons of a Presbyterian minister, one studious and the other rebellious, mature and stay connected with a love of fly fishing for trout.",
+        "directors": [
+            "Robert Redford"
+        ],
+        "leads": [
+            "Craig Sheffer",
+            "Brad Pitt",
+            "Tom Skerritt"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Under Siege (1992)": {
+        "title": "Under Siege",
+        "year": "1992",
+        "synopsis": "An ex-Navy Seal turned cook is the only person who can stop a group of terrorists when they seize control of a U.S. battleship.",
+        "directors": [
+            "Andrew Davis"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Tommy Lee Jones",
+            "Gary Busey"
+        ],
+        "music": [
+            "Gary Chang"
+        ]
+    },
+    "Candyman (1992)": {
+        "title": "Candyman",
+        "year": "1992",
+        "synopsis": "A murderous soul with a hook for a hand is accidentally summoned to reality by a skeptic grad student researching the monster's myth.",
+        "directors": [
+            "Bernard Rose"
+        ],
+        "leads": [
+            "Virginia Madsen",
+            "Tony Todd",
+            "Xander Berkeley"
+        ],
+        "music": [
+            "Philip Glass"
+        ]
+    },
+    "Pure Country (1992)": {
+        "title": "Pure Country",
+        "year": "1992",
+        "synopsis": "Top country musician Dusty tires of his elaborate stage shows, so he heads for the small farm town where he grew up without telling his manager.",
+        "directors": [
+            "Christopher Cain"
+        ],
+        "leads": [
+            "George Strait",
+            "Lesley Ann Warren",
+            "Isabel Glasser"
+        ],
+        "music": [
+            "Steve Dorff"
+        ]
+    },
+    "Reservoir Dogs (1992)": {
+        "title": "Reservoir Dogs",
+        "year": "1992",
+        "synopsis": "In L.A., eight criminals with aliases plan a jewelry heist that goes horribly wrong. The survivors start to suspect that one of them is a police informant.",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "leads": [
+            "Harvey Keitel",
+            "Tim Roth",
+            "Chris Penn"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Passenger 57 (1992)": {
+        "title": "Passenger 57",
+        "year": "1992",
+        "synopsis": "An airline security expert must take action when he finds himself trapped on a passenger jet when terrorists seize control of it.",
+        "directors": [
+            "Kevin Hooks"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Bruce Payne",
+            "Tom Sizemore"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "Bram Stoker's Dracula (1992)": {
+        "title": "Bram Stoker's Dracula",
+        "year": "1992",
+        "synopsis": "Centuries-old vampire Dracula comes to England to seduce his barrister Jonathan Harker's fianc\u00e9e Mina Murray and inflict havoc in the foreign land.",
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "leads": [
+            "Gary Oldman",
+            "Winona Ryder",
+            "Anthony Hopkins"
+        ],
+        "music": [
+            "Wojciech Kilar"
+        ]
+    },
+    "Love Potion No. 9 (1992)": {
+        "title": "Love Potion No. 9",
+        "year": "1992",
+        "synopsis": "Two lonely scientists experiment with a gift potion that makes them attractive to anyone of the other sex who hears them speak, including each other.",
+        "directors": [
+            "Dale Launer"
+        ],
+        "leads": [
+            "Tate Donovan",
+            "Sandra Bullock",
+            "Dale Midkiff"
+        ],
+        "music": [
+            "Jed Leiber",
+            "Ennio Morricone"
+        ]
+    },
+    "Malcolm X (1992)": {
+        "title": "Malcolm X",
+        "year": "1992",
+        "synopsis": "A controversial black activist and leader for black liberation is jailed in the 1950s but becomes a Black Muslim and a leader in the Nation of Islam.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Angela Bassett",
+            "Albert Hall"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "Home Alone 2: Lost in New York (1992)": {
+        "title": "Home Alone 2: Lost in New York",
+        "year": "1992",
+        "synopsis": "Before a Christmas vacation in Miami, Kevin flies to New York. He stays at a hotel and befriends a toy store owner. The Wet Bandits want revenge.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "Macaulay Culkin",
+            "Joe Pesci",
+            "Daniel Stern"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Aladdin (1992)": {
+        "title": "Aladdin",
+        "year": "1992",
+        "synopsis": "An Agrabah street urchin rubs a magic lamp with a genie. He uses one of three wishes to become a prince to attract the Sultan's daughter, Jasmine.",
+        "directors": [
+            "John Musker",
+            "Ron Clements"
+        ],
+        "leads": [
+            "Scott Weinger",
+            "Robin Williams",
+            "Linda Larkin"
+        ],
+        "music": [
+            "Alan Menken"
+        ]
+    },
+    "The Bodyguard (1992)": {
+        "title": "The Bodyguard",
+        "year": "1992",
+        "synopsis": "A former Secret Service agent is hired to protect and tighten security around a famous actress and pop singer as a stalker makes disturbing threats.",
+        "directors": [
+            "Mick Jackson"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Whitney Houston",
+            "Gary Kemp"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "The Crying Game (1992)": {
+        "title": "The Crying Game",
+        "year": "1992",
+        "synopsis": "A British soldier kidnapped by IRA terrorists soon befriends one of his captors, who then becomes drawn into the soldier's world.",
+        "directors": [
+            "Neil Jordan"
+        ],
+        "leads": [
+            "Stephen Rea",
+            "Miranda Richardson",
+            "Jaye Davidson"
+        ],
+        "music": [
+            "Anne Dudley"
+        ]
+    },
+    "The Distinguished Gentleman (1992)": {
+        "title": "The Distinguished Gentleman",
+        "year": "1992",
+        "synopsis": "Con man Thomas is elected to the U.S. Congress after using a dead candidate's name. With money flowing from lobbyists, he develops a conscience.",
+        "directors": [
+            "Jonathan Lynn"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Lane Smith",
+            "Sheryl Lee Ralph"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "A Few Good Men (1992)": {
+        "title": "A Few Good Men",
+        "year": "1992",
+        "synopsis": "A military lawyer defends two Marines accused of murder who contend they were acting under code red orders by the victim's commanding officer.",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Jack Nicholson",
+            "Demi Moore"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Love Field (1992)": {
+        "title": "Love Field",
+        "year": "1992",
+        "synopsis": "In 1968, Lurene rides on a bus from Dallas to the Washington, D.C. funeral for President Kennedy. She befriends black Paul and his daughter Jonell.",
+        "directors": [
+            "Jonathan Kaplan"
+        ],
+        "leads": [
+            "Michelle Pfeiffer",
+            "Dennis Haysbert",
+            "Brian Kerwin"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Passion Fish (1992)": {
+        "title": "Passion Fish",
+        "year": "1992",
+        "synopsis": "After soap opera star Mary-Alice is left paraplegic, she cannot recover emotionally and mentally until she befriends her also struggling nurse Chantelle.",
+        "directors": [
+            "John Sayles"
+        ],
+        "leads": [
+            "Mary McDonnell",
+            "Alfre Woodard",
+            "Leo Burmester"
+        ],
+        "music": [
+            "Mason Daring"
+        ]
+    },
+    "The Muppet Christmas Carol (1992)": {
+        "title": "The Muppet Christmas Carol",
+        "year": "1992",
+        "synopsis": "In 1840s London, stingy miser Scrooge is visited by spirits of three Christmases: past, present, and future. Charles Dickens and Rizzo share the tale.",
+        "directors": [
+            "Brian Henson"
+        ],
+        "leads": [
+            "Michael Caine",
+            "Steven Mackintosh",
+            "Meredith Braun"
+        ],
+        "music": [
+            "Miles Goodman"
+        ]
+    },
+    "Forever Young (1992)": {
+        "title": "Forever Young",
+        "year": "1992",
+        "synopsis": "In 1939, pilot Daniel is frozen when his girlfriend enters a coma. He awakens 53 years later. Claire and her son Nat help him while he ages suddenly.",
+        "directors": [
+            "Steve Miner"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Elijah Wood",
+            "Jamie Lee Curtis"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Leap of Faith (1992)": {
+        "title": "Leap of Faith",
+        "year": "1992",
+        "synopsis": "A fake faith healer is stranded in a small Kansas town in need of rain to save its crops. He and his manager fool its people as a sheriff investigates.",
+        "directors": [
+            "Richard Pearce"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Debra Winger",
+            "Liam Neeson"
+        ],
+        "music": [
+            "Cliff Eidelman"
+        ]
+    },
+    "Toys (1992)": {
+        "title": "Toys",
+        "year": "1992",
+        "synopsis": "When a lieutenant general inherits a toy company and makes war toys, his brother Leslie and a set of employees work to save Zevo Toys' reputation.",
+        "directors": [
+            "Barry Levinson"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Michael Gambon",
+            "Joan Cusack"
+        ],
+        "music": [
+            "Hans Zimmer",
+            "Trevor Horn"
+        ]
+    },
+    "Scent of a Woman (1992)": {
+        "title": "Scent of a Woman",
+        "year": "1992",
+        "synopsis": "To help pay for a trip home for Christmas, a high school student agrees to look after a blind, retired Army colonel over Thanksgiving in New York City. ",
+        "directors": [
+            "Martin Brest"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Chris O'Donnell",
+            "James Rebhorn"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Chaplin (1992)": {
+        "title": "Chaplin",
+        "year": "1992",
+        "synopsis": "An elderly man discusses his autobiography with his editor, recounting his poor childhood and his success after the invention of the Little Tramp.",
+        "directors": [
+            "Richard Attenborough"
+        ],
+        "leads": [
+            "Robert Downey Jr.\nMarisa Tomei",
+            "Geraldine Chaplin"
+        ],
+        "music": [
+            "John Barry"
+        ]
+    },
+    "Hoffa (1992)": {
+        "title": "Hoffa",
+        "year": "1992",
+        "synopsis": "An American labor union figure organizes a bitter Teamsters strike, works with organized crime syndicates, and mysteriously disappears in 1975.",
+        "directors": [
+            "Danny DeVito"
+        ],
+        "leads": [
+            "Jack Nicholson",
+            "Danny DeVito",
+            "Armand Assante"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Trespass (1992)": {
+        "title": "Trespass",
+        "year": "1992",
+        "synopsis": "Two firemen get a map to stolen gold hidden in a closed factory in St. Louis, where they are locked in by a black gang who consider it their territory.",
+        "directors": [
+            "Walter Hill"
+        ],
+        "leads": [
+            "Bill Paxton",
+            "Ice-T",
+            "William Sadler"
+        ],
+        "music": [
+            "Ry Cooder"
+        ]
+    },
+    "Lorenzo's Oil (1992)": {
+        "title": "Lorenzo's Oil",
+        "year": "1992",
+        "synopsis": "A 5-year-old boy develops ALD, a disease so rare that nobody is working on a cure. His parents try to learn all about it to tackle the issue themselves.",
+        "directors": [
+            "George Miller"
+        ],
+        "leads": [
+            "Nick Nolte",
+            "Susan Sarandon",
+            "Zack O'Malley Greenburg"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Leprechaun (1993)": {
+        "title": "Leprechaun",
+        "year": "1993",
+        "synopsis": "In North Dakota, a vengeful leprechaun believes a family has stolen his pot of gold. As he hunts them, they try to locate his gold to vanquish him. ",
+        "directors": [
+            "Mark Jones"
+        ],
+        "leads": [
+            "Warwick Davis",
+            "Jennifer Aniston",
+            "Mark Holton"
+        ],
+        "music": [
+            "Kevin Kiner",
+            "Robert J. Walsh"
+        ]
+    },
+    "Alive (1993)": {
+        "title": "Alive",
+        "year": "1993",
+        "synopsis": "In 1972, a Uruguayan rugby team is stranded in the Andes after a plane crash. To survive for 72 days, they make choices like eating dead friends.",
+        "directors": [
+            "Frank Marshall"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Vincent Spano",
+            "Josh Hamilton"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Nowhere to Run (1993)": {
+        "title": "Nowhere to Run",
+        "year": "1993",
+        "synopsis": "Escaped convict Sam goes to a farmland owned by a widow. When he learns a ruthless contractor is aiming to take over her land, he helps her fight.",
+        "directors": [
+            "Robert Harmon"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Rosanna Arquette",
+            "Kieran Culkin"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Homeward Bound: The Incredible Journey (1993)": {
+        "title": "Homeward Bound: The Incredible Journey",
+        "year": "1993",
+        "synopsis": "An American Bulldog puppy, a wise old Golden Retriever, and a pampered Himalayan cat journey from a ranch through mountains to reach home.",
+        "directors": [
+            "Duwayne Dunham"
+        ],
+        "leads": [
+            "Michael J. Fox",
+            "Don Ameche",
+            "Sally Field"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "National Lampoon's Loaded Weapon 1 (1993)": {
+        "title": "National Lampoon's Loaded Weapon 1",
+        "year": "1993",
+        "synopsis": "An L.A. detective with a cocaine cookie recipe is murdered. Two cops stop the laundering culprits before they can dope the U.S. with a cookie drive.",
+        "directors": [
+            "Gene Quintano"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Samuel L. Jackson",
+            "Jon Lovitz"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "The Vanishing (1993)": {
+        "title": "The Vanishing",
+        "year": "1993",
+        "synopsis": "Jeff's girlfriend disappears, sending him on a years-long quest to find her. Her abductor takes him through the same steps that led to the crime.",
+        "directors": [
+            "George Sluizer"
+        ],
+        "leads": [
+            "Jeff Bridges",
+            "Kiefer Sutherland",
+            "Nancy Travis"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Dead Alive (1993)": {
+        "title": "Dead Alive",
+        "year": "1993",
+        "synopsis": "A young man's mother is bitten by a Sumatran Rat-Monkey. She gets sick and dies, but comes back to life, killing and eating dogs and neighbors.",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "leads": [
+            "Timothy Balme",
+            "Diana Pe\u00f1alver",
+            "Elizabeth Moody"
+        ],
+        "music": [
+            "Peter Dasent"
+        ]
+    },
+    "Groundhog Day (1993)": {
+        "title": "Groundhog Day",
+        "year": "1993",
+        "synopsis": "A cynical TV weatherman covering a yearly event in Punxsutawney is trapped in a time loop. As he lives February 2nd over and over, he falls in love.",
+        "directors": [
+            "Harold Ramis"
+        ],
+        "leads": [
+            "Bill Murray",
+            "Andie MacDowell",
+            "Chris Elliott"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Strictly Ballroom (1993)": {
+        "title": "Strictly Ballroom",
+        "year": "1993",
+        "synopsis": "In Sydney, maverick ballroom dancer Scott risks his career by performing a flashy routine and sets out to succeed with a new partner, rookie Fran.",
+        "directors": [
+            "Baz Luhrmann"
+        ],
+        "leads": [
+            "Paul Mercurio",
+            "Tara Morice",
+            "Bill Hunter"
+        ],
+        "music": [
+            "David Hirschfelder"
+        ]
+    },
+    "Army of Darkness (1993)": {
+        "title": "Army of Darkness",
+        "year": "1993",
+        "synopsis": "A sardonic hardware store clerk is accidentally transported to 1300 A.D., where he must retrieve the Necronomicon and battle an army of the dead so he can return home.",
+        "directors": [
+            "Sam Raimi"
+        ],
+        "leads": [
+            "Bruce Campbell",
+            "Embeth Davidtz",
+            "Marcus Gilbert"
+        ],
+        "music": [
+            "Joseph LoDuca"
+        ]
+    },
+    "El Mariachi (1993)": {
+        "title": "El Mariachi",
+        "year": "1993",
+        "synopsis": "In Mexico, a traveling mariachi is mistaken for a murderous criminal because he has a guitar case and must hide from a bloodthirsty gang in a bar.",
+        "directors": [
+            "Robert Rodriguez"
+        ],
+        "leads": [
+            "Carlos Gallardo",
+            "Consuelo G\u00f3mez",
+            "Peter Marquardt"
+        ],
+        "music": [
+            "Eric Guthrie",
+            "Chris Knudson",
+            "\u00c1lvaro Rodriguez",
+            "Cecilio Rodriguez",
+            "Mark Trujillo"
+        ]
+    },
+    "Falling Down (1993)": {
+        "title": "Falling Down",
+        "year": "1993",
+        "synopsis": "In Los Angeles, a divorced father frustrated with the flaws he sees in society begins to violently lash out with a baseball bat, a knife, and a gun.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Robert Duvall",
+            "Barbara Hershey"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Mad Dog and Glory (1993)": {
+        "title": "Mad Dog and Glory",
+        "year": "1993",
+        "synopsis": "When Chicago police photographer Wayne saves the life of local mob boss Frank Milo, he receives a weird one-week gift: beautiful bartender Glory.",
+        "directors": [
+            "John McNaughton"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Uma Thurman",
+            "Bill Murray"
+        ],
+        "music": [
+            "Elmer Bernstein",
+            "Terje Rypdal"
+        ]
+    },
+    "A Far Off Place (1993)": {
+        "title": "A Far Off Place",
+        "year": "1993",
+        "synopsis": "When a gang of African poachers raid her family's farm, Nonni, a visiting American teen, and a local bushman guide escape into the Kalahari desert.",
+        "directors": [
+            "Mikael Salomon"
+        ],
+        "leads": [
+            "Reese Witherspoon",
+            "Ethan Embry",
+            "Jack Thompson"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "CB4 (1993)": {
+        "title": "CB4",
+        "year": "1993",
+        "synopsis": "Aspiring rapper Albert steals the crime history and identity of Gusto, a jailed crime kingpin who wants him dead after he forms a controversial rap band.",
+        "directors": [
+            "Tamra Davis"
+        ],
+        "leads": [
+            "Chris Rock",
+            "Allen Payne",
+            "Deezer D"
+        ],
+        "music": [
+            "John Barnes"
+        ]
+    },
+    "Fire in the Sky (1993)": {
+        "title": "Fire in the Sky",
+        "year": "1993",
+        "synopsis": "In 1975 Arizona, a logger disappears for five days in an alleged encounter with a flying saucer. His accused co-workers endure ridicule and disdain.",
+        "directors": [
+            "Robert Lieberman"
+        ],
+        "leads": [
+            "D. B. Sweeney",
+            "Robert Patrick",
+            "Craig Sheffer"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Teenage Mutant Ninja Turtles III (1993)": {
+        "title": "Teenage Mutant Ninja Turtles III",
+        "year": "1993",
+        "synopsis": "When April is transported to 1603 Japan by a scepter, four turtles go back in time to rescue her, teaming up with rebel leader against a strict lord.",
+        "directors": [
+            "Stuart Gillard"
+        ],
+        "leads": [
+            "Elias Koteas",
+            "Paige Turco",
+            "Vivian Wu"
+        ],
+        "music": [
+            "John Du Prez"
+        ]
+    },
+    "Cop and a Half (1993)": {
+        "title": "Cop and a Half",
+        "year": "1993",
+        "synopsis": "In Tampa, skilled policeman Nick reluctantly takes in eight-year-old Devon as his partner to look into a warehouse murder. Nick dreams of being a cop.",
+        "directors": [
+            "Henry Winkler"
+        ],
+        "leads": [
+            "Burt Reynolds",
+            "Norman D. Golden II",
+            "Ruby Dee"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "The Crush (1993)": {
+        "title": "The Crush",
+        "year": "1993",
+        "synopsis": "A 28-year-old journalist becomes the center of attention for a 14-year-old girl, who proceeds to sabotage his life after he refuses her advances.",
+        "directors": [
+            "Alan Shapiro"
+        ],
+        "leads": [
+            "Cary Elwes",
+            "Alicia Silverstone",
+            "Jennifer Rubin"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Indecent Proposal (1993)": {
+        "title": "Indecent Proposal",
+        "year": "1993",
+        "synopsis": "David and Diana's relationship is put into turmoil by billionaire John's offer of $1 million for Diana to spend a night with him. Low on cash, they accept.",
+        "directors": [
+            "Adrian Lyne"
+        ],
+        "leads": [
+            "Robert Redford",
+            "Demi Moore",
+            "Woody Harrelson"
+        ],
+        "music": [
+            "John Barry"
+        ]
+    },
+    "The Sandlot (1993)": {
+        "title": "The Sandlot",
+        "year": "1993",
+        "synopsis": "In the summer of 1962, a new kid in town is taken under the wing of a young baseball prodigy and his rowdy team, resulting in many adventures.",
+        "directors": [
+            "David Mickey Evans"
+        ],
+        "leads": [
+            "Tom Guiry",
+            "Mike Vitar",
+            "Patrick Renna"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Sidekicks (1993)": {
+        "title": "Sidekicks",
+        "year": "1993",
+        "synopsis": "In Houston, a bullied teen who fantasizes about being Chuck Norris' sidekick trains in martial arts with an old Chinese man to fulfill his dreams.",
+        "directors": [
+            "Aaron Norris"
+        ],
+        "leads": [
+            "Jonathan Brandis",
+            "Chuck Norris",
+            "Beau Bridges"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "This Boy's Life (1993)": {
+        "title": "This Boy's Life",
+        "year": "1993",
+        "synopsis": "In 1957, Toby and his mother settle in Concrete, Washington, where she marries a mechanic that later abuses them as the boy dreams of leaving.",
+        "directors": [
+            "Michael Caton-Jones"
+        ],
+        "leads": [
+            "Leonardo DiCaprio",
+            "Robert De Niro",
+            "Ellen Barkin"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Benny & Joon (1993)": {
+        "title": "Benny & Joon",
+        "year": "1993",
+        "synopsis": "A mentally ill young woman finds her love in an eccentric man who models himself after Buster Keaton, but her protective brother worries for her.",
+        "directors": [
+            "Jeremiah S. Chechik"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Mary Stuart Masterson",
+            "Aidan Quinn"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Boiling Point (1993)": {
+        "title": "Boiling Point",
+        "year": "1993",
+        "synopsis": "When Ronnie kills an undercover secret service agent, his partner Jimmy vows revenge and has a week to catch the killers before being transferred.",
+        "directors": [
+            "James B. Harris"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Dennis Hopper",
+            "Lolita Davidovich"
+        ],
+        "music": [
+            "John D'Andrea",
+            "Buddy Feyne",
+            "Cory Lerios"
+        ]
+    },
+    "The Dark Half (1993)": {
+        "title": "The Dark Half",
+        "year": "1993",
+        "synopsis": "An author of violent pulp thrillers decides to kill off his pseudonym in a false ceremony. This starts a string of murders that resemble his own literature.",
+        "directors": [
+            "George A. Romero"
+        ],
+        "leads": [
+            "Timothy Hutton",
+            "Amy Madigan",
+            "Michael Rooker"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Who's the Man? (1993)": {
+        "title": "Who's the Man?",
+        "year": "1993",
+        "synopsis": "In Harlem, bumbling barbers Dr\u00e9 and Ed become policemen at the suggestion of mentor Nick, who is then killed. They detect a land developer crime.",
+        "directors": [
+            "Ted Demme"
+        ],
+        "leads": [
+            "Doctor Dr\u00e9",
+            "Ed Lover",
+            "Ice-T"
+        ],
+        "music": [
+            "Michael Wolff",
+            "Nic. tenBroek"
+        ]
+    },
+    "Dave (1993)": {
+        "title": "Dave",
+        "year": "1993",
+        "synopsis": "A temp agency owner is recruited by the Secret Service to become a momentary stand-in for the U.S. President. He falls in love with the First Lady.",
+        "directors": [
+            "Ivan Reitman"
+        ],
+        "leads": [
+            "Kevin Kline",
+            "Sigourney Weaver",
+            "Frank Langella"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Dragon: The Bruce Lee Story (1993)": {
+        "title": "Dragon: The Bruce Lee Story",
+        "year": "1993",
+        "synopsis": "Haunted by demons, Bruce is taught martial arts before he moves from Hong Kong to the U.S. He marries white Linda before he becomes an actor.",
+        "directors": [
+            "Rob Cohen"
+        ],
+        "leads": [
+            "Jason Scott Lee",
+            "Lauren Holly",
+            "Nancy Kwan"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Much Ado About Nothing (1993)": {
+        "title": "Much Ado About Nothing",
+        "year": "1993",
+        "synopsis": "Young lovers Hero and Claudio, preparing to wed, conspire with Don Pedro to get verbal sparring partners Benedick and Beatrice to wed as well.",
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "leads": [
+            "Kenneth Branagh",
+            "Emma Thompson",
+            "Robert Sean Leonard"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Hot Shots! Part Deux (1993)": {
+        "title": "Hot Shots! Part Deux",
+        "year": "1993",
+        "synopsis": "Topper Harley leads a rescue team into Iraq to save Iraqi war prisoners, including his old flame's husband, and all of their previous rescue teams.",
+        "directors": [
+            "Jim Abrahams"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Lloyd Bridges",
+            "Valeria Golino"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Sliver (1993)": {
+        "title": "Sliver",
+        "year": "1993",
+        "synopsis": "In New York City, book editor Carly moves 113, a building owned by Zeke, who spies on tenants. A  murder of previous tenant Naomi is investigated.",
+        "directors": [
+            "Phillip Noyce"
+        ],
+        "leads": [
+            "Sharon Stone",
+            "William Baldwin",
+            "Tom Berenger"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Menace II Society (1993)": {
+        "title": "Menace II Society",
+        "year": "1993",
+        "synopsis": "A young street hustler attempts to escape the rigors and temptations of the ghetto in a quest for a better life.",
+        "directors": [
+            "The Hughes Brothers"
+        ],
+        "leads": [
+            "Tyrin Turner",
+            "Jada Pinkett",
+            "Bill Duke"
+        ],
+        "music": [
+            "QDIII"
+        ]
+    },
+    "Cliffhanger (1993)": {
+        "title": "Cliffhanger",
+        "year": "1993",
+        "synopsis": "Mountain climber Gabe becomes embroiled in a heist of a U.S. Treasury plane flying through the Rocky Mountains by thieves led by a British man.",
+        "directors": [
+            "Renny Harlin"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "John Lithgow",
+            "Michael Rooker"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "Made in America (1993)": {
+        "title": "Made in America",
+        "year": "1993",
+        "synopsis": "Zora, whose smart black mother Sarah conceived with the sperm of an anonymous donor, discovers her father is Hal, a white, televised car salesman.",
+        "directors": [
+            "Richard Benjamin"
+        ],
+        "leads": [
+            "Whoopi Goldberg",
+            "Ted Danson",
+            "Nia Long"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Super Mario Bros. (1993)": {
+        "title": "Super Mario Bros.",
+        "year": "1993",
+        "synopsis": "Brooklyn plumbers Mario and Luigi must travel to another dimension to Dinohattan to save Princess Daisy from President Koopa, who wants her rock.",
+        "directors": [
+            "Rocky Morton",
+            "Annabel Jankel"
+        ],
+        "leads": [
+            "Bob Hoskins",
+            "John Leguizamo",
+            "Dennis Hopper"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Jurassic Park (1993)": {
+        "title": "Jurassic Park",
+        "year": "1993",
+        "synopsis": "On Isla Nubar, paleontologist Alan, paleobotanist Ellie, and chaos theorist Ian visit a park and save two kids after a power failure releases dinosaurs.",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "leads": [
+            "Sam Neill",
+            "Laura Dern",
+            "Jeff Goldblum"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Last Action Hero (1993)": {
+        "title": "Last Action Hero",
+        "year": "1993",
+        "synopsis": "A teenager with a widowed mother is transported into the world of movie character Jack Slater, an L.A. cop. A henchman escapes to the real world.",
+        "directors": [
+            "John McTiernan"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Austin O'Brien",
+            "Charles Dance"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Dennis the Menace (1993)": {
+        "title": "Dennis the Menace",
+        "year": "1993",
+        "synopsis": "When his parents have to go out of town, Dennis stays with Mr. and Mrs. Wilson. He drives Mr. Wilson crazy even though he is just trying to help.",
+        "directors": [
+            "Nick Castle"
+        ],
+        "leads": [
+            "Mason Gamble",
+            "Walter Matthau",
+            "Joan Plowright"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Sleepless in Seattle (1993)": {
+        "title": "Sleepless in Seattle",
+        "year": "1993",
+        "synopsis": "Widowed Sam's son calls a radio show. Annie, a Baltimore reporter, falls for him hearing him talk of love. Although she is engaged, she writes to him.",
+        "directors": [
+            "Nora Ephron"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Meg Ryan",
+            "Bill Pullman"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "What's Love Got to Do with It (1993)": {
+        "title": "What's Love Got to Do with It",
+        "year": "1993",
+        "synopsis": "Anna Mae loves singing in her Tennessee church choir. She pursues a career in St. Louis where Ike helps her succeed but also physically abuses her.",
+        "directors": [
+            "Brian Gibson"
+        ],
+        "leads": [
+            "Angela Bassett",
+            "Laurence Fishburne",
+            "Cora Lee Day"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "The Firm (1993)": {
+        "title": "The Firm",
+        "year": "1993",
+        "synopsis": "In Memphis, lawyer Mitch joins a prestigious team and enjoys its perks. He discovers it helps clients conceal money and threatens employee families.",
+        "directors": [
+            "Sydney Pollack"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Jeanne Tripplehorn",
+            "Gene Hackman"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "Son in Law (1993)": {
+        "title": "Son in Law",
+        "year": "1993",
+        "synopsis": "Having tasted L.A. college life, a changed farm girl returns home for Thanksgiving break with her flamboyant best friend and lies they are engaged.",
+        "directors": [
+            "Steve Rash"
+        ],
+        "leads": [
+            "Pauly Shore",
+            "Carla Gugino",
+            "Lane Smith"
+        ],
+        "music": [
+            "Richard Gibbs"
+        ]
+    },
+    "In the Line of Fire (1993)": {
+        "title": "In the Line of Fire",
+        "year": "1993",
+        "synopsis": "Secret Service agent Frank Horrigan, who failed to save Kennedy, is determined to prevent ex-CIA assassin Mitch from killing the current President.",
+        "directors": [
+            "Wolfgang Petersen"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "John Malkovich",
+            "Rene Russo"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Rookie of the Year (1993)": {
+        "title": "Rookie of the Year",
+        "year": "1993",
+        "synopsis": "When an accident miraculously gives a boy an incredibly powerful pitching arm, he becomes a major league pitcher for the Chicago Cubs.",
+        "directors": [
+            "Daniel Stern"
+        ],
+        "leads": [
+            "Thomas Ian Nicholas",
+            "Gary Busey",
+            "Dan Hedaya"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "Free Willy (1993)": {
+        "title": "Free Willy",
+        "year": "1993",
+        "synopsis": "In Portland, when a boy learns that a beloved killer whale is to be killed by the aquarium owners, he risks everything to free the whale.",
+        "directors": [
+            "Simon Wincer"
+        ],
+        "leads": [
+            "Jason James Richter",
+            "Lori Petty",
+            "Jayne Atkinson"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Hocus Pocus (1993)": {
+        "title": "Hocus Pocus",
+        "year": "1993",
+        "synopsis": "A curious youngster moves to Salem, where he struggles to fit in before awakening a trio of mean witches that were executed in the 17th century.",
+        "directors": [
+            "Kenny Ortega"
+        ],
+        "leads": [
+            "Bette Midler",
+            "Sarah Jessica Parker",
+            "Kathy Najimy"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Coneheads (1993)": {
+        "title": "Coneheads",
+        "year": "1993",
+        "synopsis": "With enormous heads and robotic walks, aliens Beldar and Prymatt and their daughter Connie must live as humans in Paramus, New Jersey.",
+        "directors": [
+            "Steve Barron"
+        ],
+        "leads": [
+            "Dan Aykroyd",
+            "Jane Curtin",
+            "Michelle Burke"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Poetic Justice (1993)": {
+        "title": "Poetic Justice",
+        "year": "1993",
+        "synopsis": "After seeing her boyfriend killed, a poet becomes a hairdresser. She gets a ride to Oakland with her friend and a postal worker she grows close with.",
+        "directors": [
+            "John Singleton"
+        ],
+        "leads": [
+            "Janet Jackson",
+            "Tupac Shakur",
+            "Tyra Ferrell"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "Robin Hood: Men in Tights (1993)": {
+        "title": "Robin Hood: Men in Tights",
+        "year": "1993",
+        "synopsis": "Robin escapes from a Jerusalem prison, returning to learn he must regain his estate from Prince John. Marian's chastity belt proves a challenge.",
+        "directors": [
+            "Mel Brooks"
+        ],
+        "leads": [
+            "Cary Elwes",
+            "Richard Lewis",
+            "Roger Rees"
+        ],
+        "music": [
+            "Hummie Mann"
+        ]
+    },
+    "Rising Sun (1993)": {
+        "title": "Rising Sun",
+        "year": "1993",
+        "synopsis": "When a call girl is found murdered in a Japanese company's L.A. office, two detectives coordinate talk between executives and an investigating cop.",
+        "directors": [
+            "Philip Kaufman"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Wesley Snipes",
+            "Harvey Keitel"
+        ],
+        "music": [
+            "T\u014dru Takemitsu"
+        ]
+    },
+    "So I Married an Axe Murderer (1993)": {
+        "title": "So I Married an Axe Murderer",
+        "year": "1993",
+        "synopsis": "A San Francisco beat poet who fears commitment suspects his girlfriend, later his wife, may have a habit of killing off her husbands on honeymoons.",
+        "directors": [
+            "Thomas Schlamme"
+        ],
+        "leads": [
+            "Mike Myers",
+            "Nancy Travis",
+            "Anthony LaPaglia"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "The Fugitive (1993)": {
+        "title": "The Fugitive",
+        "year": "1993",
+        "synopsis": "After being accused of killing his wife and unjustly sentenced to death, Richard Kimble sets out to find the real killer while chased by a U.S. Marshal.",
+        "directors": [
+            "Andrew Davis"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Tommy Lee Jones",
+            "Sela Ward"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Meteor Man (1993)": {
+        "title": "The Meteor Man",
+        "year": "1993",
+        "synopsis": "A high school teacher from a rough Washington, D.C. neighborhood is hit by a meteorite and then becomes a superhero who takes on a local gang.",
+        "directors": [
+            "Robert Townsend"
+        ],
+        "leads": [
+            "Robert Townsend",
+            "Marla Gibbs",
+            "Eddie Griffin"
+        ],
+        "music": [
+            "Cliff Eidelman"
+        ]
+    },
+    "Jason Goes to Hell: The Final Friday (1993)": {
+        "title": "Jason Goes to Hell: The Final Friday",
+        "year": "1993",
+        "synopsis": "After Jason Voorhees is blown to bits by a special FBI task force, everyone assumes that he is dead. Jason is reborn with the bone-chilling ability to assume the identity of anyone he touches.",
+        "directors": [
+            "Adam Marcus"
+        ],
+        "leads": [
+            "John D. LeMay",
+            "Kari Keegan",
+            "Allison Smith"
+        ],
+        "music": [
+            "Harry Manfredini"
+        ]
+    },
+    "Manhattan Murder Mystery (1993)": {
+        "title": "Manhattan Murder Mystery",
+        "year": "1993",
+        "synopsis": "Larry and his wife Carol meet older neighbors but, the following night, one is found to have died of a heart attack. They distrust her cheerful husband.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Diane Keaton",
+            "Woody Allen",
+            "Alan Alda"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Hard Target (1993)": {
+        "title": "Hard Target",
+        "year": "1993",
+        "synopsis": "A woman hires a drifter as her guide through New Orleans in search of her missing father. They find a deadly hunting game behind his disappearance.",
+        "directors": [
+            "John Woo"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Lance Henriksen",
+            "Yancy Butler"
+        ],
+        "music": [
+            "Graeme Revell",
+            "Tim Simonec"
+        ]
+    },
+    "Surf Ninjas (1993)": {
+        "title": "Surf Ninjas",
+        "year": "1993",
+        "synopsis": "In L.A., after an attack by ninjas, two teen surfers learn from a warrior they are heirs to the throne of Patusan and travel to overthrow evil Colonel Chi.",
+        "directors": [
+            "Neal Israel"
+        ],
+        "leads": [
+            "Ernie Reyes Jr.",
+            "Rob Schneider",
+            "Tone L\u014dc"
+        ],
+        "music": [
+            "David Kitay"
+        ]
+    },
+    "The Man Without a Face (1993)": {
+        "title": "The Man Without a Face",
+        "year": "1993",
+        "synopsis": "In 1968 Maine, Chuck wants to leave home but must pass a military academy's entrance exam. He is tutored by a disfigured recluse living nearby.",
+        "directors": [
+            "Mel Gibson"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Margaret Whitton",
+            "Fay Masterson"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Needful Things (1993)": {
+        "title": "Needful Things",
+        "year": "1993",
+        "synopsis": "In Castle Rock, strange Leland Gaunt establishes an antique store that seems to stock all desires of his shoppers with prices heavier than they expect.",
+        "directors": [
+            "Fraser C. Heston"
+        ],
+        "leads": [
+            "Ed Harris",
+            "Max von Sydow",
+            "Bonnie Bedelia"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Son of the Pink Panther (1993)": {
+        "title": "Son of the Pink Panther",
+        "year": "1993",
+        "synopsis": "Charles Dreyfus encounters Jacques Gambrelli, a police officer who painfully reminds him of Inspector Clouseau and is actually Clouseu's son.",
+        "directors": [
+            "Blake Edwards"
+        ],
+        "leads": [
+            "Roberto Benigni",
+            "Herbert Lom",
+            "Debrah Farentino"
+        ],
+        "music": [
+            "Henry Mancini"
+        ]
+    },
+    "Kalifornia (1993)": {
+        "title": "Kalifornia",
+        "year": "1993",
+        "synopsis": "A journalist and a photographer head on a tour of infamous murder sites with psychopathic parolee Early, himself a murderer, and his naive girlfriend.",
+        "directors": [
+            "Dominic Sena"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Juliette Lewis",
+            "David Duchovny"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "The Joy Luck Club (1993)": {
+        "title": "The Joy Luck Club",
+        "year": "1993",
+        "synopsis": "Four Chinese immigrants living in San Francisco all have adult Chinese-American daughters. They reveal their hidden pasts shaped by their cultures.",
+        "directors": [
+            "Wayne Wang"
+        ],
+        "leads": [
+            "Tsai Chin",
+            "Kieu Chinh",
+            "Lisa Lu"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "True Romance (1993)": {
+        "title": "True Romance",
+        "year": "1993",
+        "synopsis": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. The Mafia track the thieves down.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Christian Slater",
+            "Patricia Arquette",
+            "Dennis Hopper"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Airborne (1993)": {
+        "title": "Airborne",
+        "year": "1993",
+        "synopsis": "A California teenager is sent to Cincinnati to stay with his aunt, uncle, and cousin. He is bullied by hockey players and joins a big rollerblading race.",
+        "directors": [
+            "Rob Bowman"
+        ],
+        "leads": [
+            "Shane McDermott",
+            "Seth Green",
+            "Brittney Powell"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ]
+    },
+    "Striking Distance (1993)": {
+        "title": "Striking Distance",
+        "year": "1993",
+        "synopsis": "Coming from a police family, Tom Hardy ends up fighting his uncle after the murder of his father. Tom believes the killer is another cop but is demoted to river duty.",
+        "directors": [
+            "Rowdy Herrington"
+        ],
+        "leads": [
+            "Bruce Willis\nSarah Jessica Parker\nDennis Farina"
+        ],
+        "music": [
+            "Brad Fiedel"
+        ]
+    },
+    "The Age of Innocence (1993)": {
+        "title": "The Age of Innocence",
+        "year": "1993",
+        "synopsis": "In 1870s New York, lawyer Newland Archer falls for a countess separated from her husband, but he is still engaged to her young, innocent cousin.",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "leads": [
+            "Daniel Day-Lewis",
+            "Michelle Pfeiffer",
+            "Winona Ryder"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Dazed and Confused (1993)": {
+        "title": "Dazed and Confused",
+        "year": "1993",
+        "synopsis": "In 1976 Austin, on the last day of school, seniors haze incoming freshmen, football players think of signing no-drug pledges, and a keg party is held.",
+        "directors": [
+            "Richard Linklater"
+        ],
+        "leads": [
+            "Jason London",
+            "Wiley Wiggins",
+            "Sasha Jenson"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "The Good Son (1993)": {
+        "title": "The Good Son",
+        "year": "1993",
+        "synopsis": "After his mother dies, a young boy stays in Maine with his aunt and uncle. He befriends his cousin, who shows increasing signs of sinister behavior.",
+        "directors": [
+            "Joseph Ruben"
+        ],
+        "leads": [
+            "Macaulay Culkin",
+            "Elijah Wood",
+            "Wendy Crewson"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "The Program (1993)": {
+        "title": "The Program",
+        "year": "1993",
+        "synopsis": "Several players try to cope with the pressures of playing football at Eastern State University. Some turn to drinks, some to drugs, and others to study.",
+        "directors": [
+            "David S. Ward"
+        ],
+        "leads": [
+            "James Caan",
+            "Halle Berry",
+            "Omar Epps"
+        ],
+        "music": [
+            "Michel Colombier"
+        ]
+    },
+    "A Bronx Tale (1993)": {
+        "title": "A Bronx Tale",
+        "year": "1993",
+        "synopsis": "In 1960s New York, Italian-American Calogero is close to Mafia boss Sonny. He is torn between his organized crime and the values of his own father.",
+        "directors": [
+            "Robert De Niro"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Chazz Palminteri",
+            "Lillo Brancato, Jr."
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Cool Runnings (1993)": {
+        "title": "Cool Runnings",
+        "year": "1993",
+        "synopsis": "In 1987, when a Jamaican sprinter is disqualified from the Olympics, he requests help from shamed coach Irv to start the first Jamaican bobsled team.",
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "leads": [
+            "Leon Robinson",
+            "Doug E. Doug",
+            "Rawle D. Lewis"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Malice (1993)": {
+        "title": "Malice",
+        "year": "1993",
+        "synopsis": "College dean Andy and art teacher Tracy let Jed, a surgeon, rent part of their home. When she has pain, he removes ovaries with Andy's permission.",
+        "directors": [
+            "Harold Becker"
+        ],
+        "leads": [
+            "Alec Baldwin",
+            "Nicole Kidman",
+            "Bill Pullman"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Short Cuts (1993)": {
+        "title": "Short Cuts",
+        "year": "1993",
+        "synopsis": "In her car, an waitress accidentally hits a boy who lapses into a coma. A baker harasses the boy's family when they fail to pick up his birthday cake.",
+        "directors": [
+            "Robert Altman"
+        ],
+        "leads": [
+            "Andie MacDowell",
+            "Bruce Davison",
+            "Julianne Moore"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Demolition Man (1993)": {
+        "title": "Demolition Man",
+        "year": "1993",
+        "synopsis": "In 2032 San Angeles, police officer John Spartan is thawed from an unjust cryogenic prison stay to find violent Simon Phoenix in a peaceful society.",
+        "directors": [
+            "Marco Brambilla"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Wesley Snipes",
+            "Sandra Bullock"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "Gettysburg (1993)": {
+        "title": "Gettysburg",
+        "year": "1993",
+        "synopsis": "In 1863, the Northern and Southern forces fight in Pennsylvania in a decisive battle of the American Civil War. Lee and Chamberlain lead their men.",
+        "directors": [
+            "Ronald F. Maxwell"
+        ],
+        "leads": [
+            "Tom Berenger",
+            "Jeff Daniels",
+            "Martin Sheen"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Fearless (1993)": {
+        "title": "Fearless",
+        "year": "1993",
+        "synopsis": "After an air disaster, a survivor emerges changed. He is unable to connect to his former life or to his wife, and he feels godlike and invulnerable.",
+        "directors": [
+            "Peter Weir"
+        ],
+        "leads": [
+            "Jeff Bridges",
+            "Isabella Rossellini",
+            "Rosie Perez"
+        ],
+        "music": [
+            "Maurice Jarre"
+        ]
+    },
+    "Judgment Night (1993)": {
+        "title": "Judgment Night",
+        "year": "1993",
+        "synopsis": "In Chicago, four friends taking a shortcut toward a boxing match witness a murder by a drug dealer gang which leaves them running for their lives.",
+        "directors": [
+            "Stephen Hopkins"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Cuba Gooding Jr.",
+            "Denis Leary"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Rudy (1993)": {
+        "title": "Rudy",
+        "year": "1993",
+        "synopsis": "A student told he is too small to play college football is determined to overcome the odds and fulfill his dream of playing for Notre Dame.",
+        "directors": [
+            "David Anspaugh"
+        ],
+        "leads": [
+            "Sean Astin",
+            "Ned Beatty",
+            "Charles S. Dutton"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The Beverly Hillbillies (1993)": {
+        "title": "The Beverly Hillbillies",
+        "year": "1993",
+        "synopsis": "An Arkansas redneck becomes a billionaire after he finds crude oil missing his target while hunting. He moves his family to California for his daughter.",
+        "directors": [
+            "Penelope Spheeris"
+        ],
+        "leads": [
+            "Jim Varney",
+            "Diedrich Bader",
+            "Erika Eleniak"
+        ],
+        "music": [
+            "Lalo Schifrin"
+        ]
+    },
+    "The Nightmare Before Christmas (1993)": {
+        "title": "The Nightmare Before Christmas",
+        "year": "1993",
+        "synopsis": "Jack Skellington, king of Halloween Town, learns about Christmas Town and is suddenly obsessed with the holiday and sharing it with his residents.",
+        "directors": [
+            "Henry Selick"
+        ],
+        "leads": [
+            "Chris Sarandon",
+            "Catherine O'Hara",
+            "William Hickey"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Look Who's Talking Now (1993)": {
+        "title": "Look Who's Talking Now",
+        "year": "1993",
+        "synopsis": "As James starts a pilot job, Mollie looks for a new one. They adopt crossbreed Rocks and indulged pedigree poodle Daphne. They work to get along.",
+        "directors": [
+            "Tom Ropelewski"
+        ],
+        "leads": [
+            "John Travolta",
+            "Kirstie Alley",
+            "Danny DeVito"
+        ],
+        "music": [
+            "William Ross"
+        ]
+    },
+    "RoboCop 3 (1993)": {
+        "title": "RoboCop 3",
+        "year": "1993",
+        "synopsis": "A greedy corporation develops Delta City to replace the derelict Detroit. A cyborg cop joins the civilian resident resistance against armed forces.",
+        "directors": [
+            "Fred Dekker"
+        ],
+        "leads": [
+            "Robert Burke",
+            "Nancy Allen",
+            "Rip Torn"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "The Remains of the Day (1993)": {
+        "title": "The Remains of the Day",
+        "year": "1993",
+        "synopsis": "A proper butler who sacrificed to service in the years leading up to World War II realizes late how misguided his loyalty was to his lordly employer.",
+        "directors": [
+            "James Ivory"
+        ],
+        "leads": [
+            "Anthony Hopkins",
+            "Emma Thompson",
+            "James Fox"
+        ],
+        "music": [
+            "Richard Robbins"
+        ]
+    },
+    "Carlito's Way (1993)": {
+        "title": "Carlito's Way",
+        "year": "1993",
+        "synopsis": "In 1975 New York, a Puerto Rican former convict, just released from prison, vows to avoid crime but is forced back in it after he buys into a nightclub.",
+        "directors": [
+            "Brian De Palma"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Sean Penn",
+            "Penelope Ann Miller"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "My Life (1993)": {
+        "title": "My Life",
+        "year": "1993",
+        "synopsis": "Ukrainian-American Bob has kidney cancer, so he films home movies to preserve himself for his son in his wife Gail's womb. He reunites with parents.",
+        "directors": [
+            "Bruce Joel Rubin"
+        ],
+        "leads": [
+            "Michael Keaton",
+            "Nicole Kidman",
+            "Haing S. Ngor"
+        ],
+        "music": [
+            "John Barry"
+        ]
+    },
+    "The Piano (1993)": {
+        "title": "The Piano",
+        "year": "1993",
+        "synopsis": "In the mid-19th century, a mute woman is sent to New Zealand with her daughter and piano for a marriage to a wealthy landowner, but is soon sought by a local worker on the plantation.",
+        "directors": [
+            "Jane Campion"
+        ],
+        "leads": [
+            "Holly Hunter",
+            "Harvey Keitel",
+            "Sam Neill"
+        ],
+        "music": [
+            "Michael Nyman"
+        ]
+    },
+    "The Three Musketeers (1993)": {
+        "title": "The Three Musketeers",
+        "year": "1993",
+        "synopsis": "In 1625 France, d'Artagnan heads to Paris to join the musketeers, but only three remain due to the evil cardinal. He joins them to save the king.",
+        "directors": [
+            "Stephen Herek"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Kiefer Sutherland",
+            "Chris O'Donnell"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Addams Family Values (1993)": {
+        "title": "Addams Family Values",
+        "year": "1993",
+        "synopsis": "The Addams Family try to rescue their beloved Uncle Fester from his gold-digging new love, a black widow named Debbie.",
+        "directors": [
+            "Barry Sonnenfeld"
+        ],
+        "leads": [
+            "Anjelica Huston",
+            "Raul Julia",
+            "Christopher Lloyd"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "A Perfect World (1993)": {
+        "title": "A Perfect World",
+        "year": "1993",
+        "synopsis": "A kidnapped boy strikes up a friendship with his captor, an escaped convict on the run from the law, while a search is headed by a Texas Ranger.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Clint Eastwood",
+            "Laura Dern"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "Mrs. Doubtfire (1993)": {
+        "title": "Mrs. Doubtfire",
+        "year": "1993",
+        "synopsis": "In San Francisco, divorced voice actor and father Daniel pretends to be a female nanny so he can spend time with his three children held in custody.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Sally Field",
+            "Pierce Brosnan"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Six Degrees of Separation (1993)": {
+        "title": "Six Degrees of Separation",
+        "year": "1993",
+        "synopsis": "In New York, socialite Ouisa Kittredge and dealer Flan find their lives moved and charmed by Paul, a con artist that claims he is their children's friend.",
+        "directors": [
+            "Fred Schepisi"
+        ],
+        "leads": [
+            "Stockard Channing",
+            "Will Smith",
+            "Donald Sutherland"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Geronimo: An American Legend (1993)": {
+        "title": "Geronimo: An American Legend",
+        "year": "1993",
+        "synopsis": "In 1886, an adamant Apache leads warriors in an attack team that humiliates the U.S. government by evading capture as they reclaim what is theirs.",
+        "directors": [
+            "Walter Hill"
+        ],
+        "leads": [
+            "Jason Patric",
+            "Robert Duvall",
+            "Wes Studi"
+        ],
+        "music": [
+            "Ry Cooder"
+        ]
+    },
+    "Sister Act 2: Back in the Habit (1993)": {
+        "title": "Sister Act 2: Back in the Habit",
+        "year": "1993",
+        "synopsis": "Las Vegas showgirl Deloris returns as Sister Mary Clarence to teach music to rude Catholic students whose San Francisco school is slated for closure.",
+        "directors": [
+            "Bill Duke"
+        ],
+        "leads": [
+            "Whoopi Goldberg",
+            "Kathy Najimy",
+            "James Coburn"
+        ],
+        "music": [
+            "Marc Shaiman",
+            "Miles Goodman"
+        ]
+    },
+    "Wayne's World 2 (1993)": {
+        "title": "Wayne's World 2",
+        "year": "1993",
+        "synopsis": "After Wayne has a dream of a rock concert, he and Garth try to promote it. Cassandra has a new manager trying to take her from boyfriend Wayne.",
+        "directors": [
+            "Stephen Surjik"
+        ],
+        "leads": [
+            "Mike Myers",
+            "Dana Carvey",
+            "Christopher Walken"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Schindler's List (1993)": {
+        "title": "Schindler's List",
+        "year": "1993",
+        "synopsis": "In German-occupied Poland during World War II, industrialist Oskar saves Jewish refugees from the Holocaust by employing them in his factories.",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "leads": [
+            "Liam Neeson",
+            "Ben Kingsley",
+            "Ralph Fiennes"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Beethoven's 2nd (1993)": {
+        "title": "Beethoven's 2nd",
+        "year": "1993",
+        "synopsis": "A St. Bernard dog becomes a father after meeting dog Missy owned by a woman planning divorce. The Newton kids hide their puppies for protection.",
+        "directors": [
+            "Rod Daniel"
+        ],
+        "leads": [
+            "Charles Grodin",
+            "Bonnie Hunt",
+            "Debi Mazar"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "The Pelican Brief (1993)": {
+        "title": "The Pelican Brief",
+        "year": "1993",
+        "synopsis": "In New Orleans, a law student writes a legal brief about the murders of two Supreme Court justices. When killers target her, a reporter works with her.",
+        "directors": [
+            "Alan J. Pakula"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Denzel Washington",
+            "Sam Shepard"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "What's Eating Gilbert Grape (1993)": {
+        "title": "What's Eating Gilbert Grape",
+        "year": "1993",
+        "synopsis": "In Iowa, 24-year-old Gilbert struggles to care for his mentally impaired brother Arnie and morbidly obese mother while pursuing his own happiness.",
+        "directors": [
+            "Lasse Hallstr\u00f6m"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Juliette Lewis",
+            "Leonardo DiCaprio"
+        ],
+        "music": [
+            "Alan Parker",
+            "Bj\u00f6rn Isf\u00e4lt"
+        ]
+    },
+    "Philadelphia (1993)": {
+        "title": "Philadelphia",
+        "year": "1993",
+        "synopsis": "When associate Beckett is fired by his law firm for having AIDS, he hires Miller, a homophobic black lawyer, to argue a suit as he slowly grows weaker.",
+        "directors": [
+            "Jonathan Demme"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Denzel Washington",
+            "Jason Robards"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Batman: Mask of the Phantasm (1993)": {
+        "title": "Batman: Mask of the Phantasm",
+        "year": "1993",
+        "synopsis": "Batman is accused of mob boss murders done by a new vigilante. Bruce prepares to marry Andrea, who helps him recover from a need for revenge.",
+        "directors": [
+            "Eric Radomski",
+            "Bruce Timm"
+        ],
+        "leads": [
+            "Kevin Conroy",
+            "Mark Hamill",
+            "Dana Delany"
+        ],
+        "music": [
+            "Shirley Walker"
+        ]
+    },
+    "Grumpy Old Men (1993)": {
+        "title": "Grumpy Old Men",
+        "year": "1993",
+        "synopsis": "In Minnesota, a lifelong feud between two elderly neighbors since childhood only gets worse when a new female neighbor moves across the street.",
+        "directors": [
+            "Donald Petrie"
+        ],
+        "leads": [
+            "Jack Lemmon",
+            "Walter Matthau",
+            "Ann-Margret"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Shadowlands (1993)": {
+        "title": "Shadowlands",
+        "year": "1993",
+        "synopsis": "C. S. Lewis, a famous Christian theologian, writer, and professor, leads a passionless life until he meets spirited poet Joy Davidson from America.",
+        "directors": [
+            "Richard Attenborough"
+        ],
+        "leads": [
+            "Anthony Hopkins",
+            "Debra Winger",
+            "Edward Hardwicke"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Tombstone (1993)": {
+        "title": "Tombstone",
+        "year": "1993",
+        "synopsis": "Former lawman Wyatt Earp, his two brothers, and Doc Holliday want to settle down in Arizona, but they face the Cowboys, a violent band of outlaws.",
+        "directors": [
+            "George P. Cosmatos"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "Val Kilmer",
+            "Michael Biehn"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "In the Name of the Father (1993)": {
+        "title": "In the Name of the Father",
+        "year": "1993",
+        "synopsis": "A man's coerced confession to an IRA bombing results in the imprisonment of his father as well. An English lawyer fights to free them.",
+        "directors": [
+            "Jim Sheridan"
+        ],
+        "leads": [
+            "Daniel Day-Lewis",
+            "Emma Thompson",
+            "Pete Postlethwaite"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "The Air Up There (1994)": {
+        "title": "The Air Up There",
+        "year": "1994",
+        "synopsis": "College basketball assistant coach Josh desires a promotion to head coach. He sees a home video of a prospect and travels to Kenya to recruit him.",
+        "directors": [
+            "Paul Michael Glaser"
+        ],
+        "leads": [
+            "Kevin Bacon",
+            "Charles Gitonga Maina",
+            "Yolanda Vazquez"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "House Party 3 (1994)": {
+        "title": "House Party 3",
+        "year": "1994",
+        "synopsis": "Kid is about to marry. Play plans to throw the best bachelor party ever. Kid's three cousins come to town and bring chaos after not getting to perform.",
+        "directors": [
+            "Eric Meza"
+        ],
+        "leads": [
+            "Christopher Reid",
+            "Christopher Martin",
+            "Bernie Mac"
+        ],
+        "music": [
+            "David Allen Jones"
+        ]
+    },
+    "Body Snatchers (1994)": {
+        "title": "Body Snatchers",
+        "year": "1994",
+        "synopsis": "A teenage girl and her father discover alien clones are replacing humans on a remote U.S. military base in Alabama.",
+        "directors": [
+            "Abel Ferrara"
+        ],
+        "leads": [
+            "Gabrielle Anwar",
+            "Terry Kinney",
+            "Billy Wirth"
+        ],
+        "music": [
+            "Joe Delia"
+        ]
+    },
+    "Death Wish V: The Face of Death (1994)": {
+        "title": "Death Wish V: The Face of Death",
+        "year": "1994",
+        "synopsis": "While in the witness protection program in New York, Paul Kersey works vigilante justice when mobsters threaten his girlfriend and her business.",
+        "directors": [
+            "Allan A. Goldstein"
+        ],
+        "leads": [
+            "Charles Bronson",
+            "Lesley-Anne Down",
+            "Michael Parks"
+        ],
+        "music": [
+            "Terry Plumeri"
+        ]
+    },
+    "Ace Ventura: Pet Detective (1994)": {
+        "title": "Ace Ventura: Pet Detective",
+        "year": "1994",
+        "synopsis": "A goofy detective specializing in animals goes in search of the missing mascot of the Miami Dolphins.",
+        "directors": [
+            "Tom Shadyac"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Sean Young",
+            "Courteney Cox"
+        ],
+        "music": [
+            "Ira Newborn"
+        ]
+    },
+    "Blank Check (1994)": {
+        "title": "Blank Check",
+        "year": "1994",
+        "synopsis": "After a bike accident, a young boy inadvertently gains possession of a check for $1 million and proceeds to spend it, but gangsters are in pursuit.",
+        "directors": [
+            "Rupert Wainwright"
+        ],
+        "leads": [
+            "Brian Bonsall",
+            "Karen Duffy",
+            "Miguel Ferrer"
+        ],
+        "music": [
+            "Nicholas Pike"
+        ]
+    },
+    "Blue Chips (1994)": {
+        "title": "Blue Chips",
+        "year": "1994",
+        "synopsis": "The Western University basketball coach breaks the rules with luxury and employment bribes to recruit the players he needs to stay competitive.",
+        "directors": [
+            "William Friedkin"
+        ],
+        "leads": [
+            "Nick Nolte",
+            "Mary McDonnell",
+            "J. T. Walsh"
+        ],
+        "music": [
+            "Jeff Beck",
+            "Nile Rodgers"
+        ]
+    },
+    "On Deadly Ground (1994)": {
+        "title": "On Deadly Ground",
+        "year": "1994",
+        "synopsis": "In Alaska, blowout specialist Taft works for Aegis Oil, which uses substandard preventers. When its CEO tries to hide corruption, Taft turns to a tribe.",
+        "directors": [
+            "Steven Seagal"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Michael Caine",
+            "Joan Chen"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Reality Bites (1994)": {
+        "title": "Reality Bites",
+        "year": "1994",
+        "synopsis": "After college, a Houson girl films a documentary about herself, friends, and two boyfriends as they flounder forging relationships and having careers.",
+        "directors": [
+            "Ben Stiller"
+        ],
+        "leads": [
+            "Winona Ryder",
+            "Ethan Hawke",
+            "Ben Stiller"
+        ],
+        "music": [
+            "Karl Wallinger"
+        ]
+    },
+    "8 Seconds (1994)": {
+        "title": "8 Seconds",
+        "year": "1994",
+        "synopsis": "Lane Frost learns the tricks of the bull riding trade at the hand of his father. He falls in love with a barrel racer, wins a championship, and dies early.",
+        "directors": [
+            "John G. Avildsen"
+        ],
+        "leads": [
+            "Luke Perry",
+            "Stephen Baldwin",
+            "James Rebhorn"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "The Ref (1994)": {
+        "title": "The Ref",
+        "year": "1994",
+        "synopsis": "In Connecticut on Christmas Eve, cat burglar Gus is forced to take a couple in marriage counseling hostage. Their son and in-laws bring more stress.",
+        "directors": [
+            "Ted Demme"
+        ],
+        "leads": [
+            "Denis Leary",
+            "Judy Davis",
+            "Kevin Spacey"
+        ],
+        "music": [
+            "David A. Stewart"
+        ]
+    },
+    "Four Weddings and a Funeral (1994)": {
+        "title": "Four Weddings and a Funeral",
+        "year": "1994",
+        "synopsis": "Over five social occasions, committed bachelor Charles must consider the notion of love when he meets an always unobtainable American woman.",
+        "directors": [
+            "Mike Newell"
+        ],
+        "leads": [
+            "Hugh Grant",
+            "Andie MacDowell",
+            "Kristin Scott Thomas"
+        ],
+        "music": [
+            "Richard Rodney Bennett"
+        ]
+    },
+    "Guarding Tess (1994)": {
+        "title": "Guarding Tess",
+        "year": "1994",
+        "synopsis": "In Ohio, former First Lady Tess is protected by an entourage of Secret Service agents led by Doug. The two respectfully argue until she is kidnapped.",
+        "directors": [
+            "Hugh Wilson"
+        ],
+        "leads": [
+            "Shirley MacLaine",
+            "Nicolas Cage",
+            "Austin Pendleton"
+        ],
+        "music": [
+            "Michael Convertino"
+        ]
+    },
+    "The Hudsucker Proxy (1994)": {
+        "title": "The Hudsucker Proxy",
+        "year": "1994",
+        "synopsis": "An executive buys a majority share in a company. To devalue the stock, he hires a naive business graduate, who shocks with a successful invention.",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "leads": [
+            "Tim Robbins",
+            "Jennifer Jason Leigh",
+            "Paul Newman"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Naked Gun 33\u2153: The Final Insult (1994)": {
+        "title": "Naked Gun 33\u2153: The Final Insult",
+        "year": "1994",
+        "synopsis": "Frank Drebin comes out of retirement to help the police infiltrate a terrorist family planning to trigger a hidden bomb at the Academy Award ceremony.",
+        "directors": [
+            "Peter Segal"
+        ],
+        "leads": [
+            "Leslie Nielsen",
+            "Priscilla Presley",
+            "George Kennedy"
+        ],
+        "music": [
+            "Ira Newborn"
+        ]
+    },
+    "The Paper (1994)": {
+        "title": "The Paper",
+        "year": "1994",
+        "synopsis": "In New York, a workaholic newspaper editor faces a hectic 24 hours as he investigates the seeming murder of white businessmen by black teenagers.",
+        "directors": [
+            "Ron Howard"
+        ],
+        "leads": [
+            "Michael Keaton",
+            "Robert Duvall",
+            "Glenn Close"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Above the Rim (1994)": {
+        "title": "Above the Rim",
+        "year": "1994",
+        "synopsis": "A promising high school basketball star deals with his two friends, one a drug dealer and the other a former basketball star fallen on hard times and now employed as a security guard.",
+        "directors": [
+            "Jeff Pollack"
+        ],
+        "leads": [
+            "Duane Martin",
+            "Leon",
+            "Tupac Shakur"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "D2: The Mighty Ducks (1994)": {
+        "title": "D2: The Mighty Ducks",
+        "year": "1994",
+        "synopsis": "Gordon Bombay is forced to withdraw from the minor hockey league with a knee injury. Much to his surprise, he is given the job of coach of Team USA Hockey for the Junior Goodwill Games in California.",
+        "directors": [
+            "Sam Weisman"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Michael Tucker",
+            "Jan Rube\u0161"
+        ],
+        "music": [
+            "J. A. C. Redford"
+        ]
+    },
+    "Cronos (1994)": {
+        "title": "Cronos",
+        "year": "1994",
+        "synopsis": "In 1937 Mexico, an antique dealer finds a scarab that is 400 years old and gives its owner eternal life. He enjoys vitality, but a thug is sent to take it.",
+        "directors": [
+            "Guillermo del Toro"
+        ],
+        "leads": [
+            "Federico Luppi",
+            "Ron Perlman",
+            "Claudio Brook"
+        ],
+        "music": [
+            "Javier \u00c1lvarez"
+        ]
+    },
+    "Major League II (1994)": {
+        "title": "Major League II",
+        "year": "1994",
+        "synopsis": "The Cleveland Indians are now a World Series contender. Complacency and bad decisions by the new owner threaten to tear the team apart.",
+        "directors": [
+            "David S. Ward"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Tom Berenger",
+            "Corbin Bernsen"
+        ],
+        "music": [
+            "Michel Colombier"
+        ]
+    },
+    "Leprechaun 2 (1994)": {
+        "title": "Leprechaun 2",
+        "year": "1994",
+        "synopsis": "On his 1,000th birthday, an evil monster picks the descendant of one of his slaves to be his bride. 1,000 years later, the girl's boyfriend rescues her.",
+        "directors": [
+            "Rodman Flender"
+        ],
+        "leads": [
+            "Warwick Davis",
+            "Charlie Heath",
+            "Shevonne Durkin"
+        ],
+        "music": [
+            "Jonathan Elias"
+        ]
+    },
+    "Backbeat (1994)": {
+        "title": "Backbeat",
+        "year": "1994",
+        "synopsis": "In 1960, the Beatles search for success in seedy clubs in Hamburg and meet trendy beatniks, one of whom bass guitarist Stuart falls in love with.",
+        "directors": [
+            "Iain Softley"
+        ],
+        "leads": [
+            "Sheryl Lee",
+            "Stephen Dorff",
+            "Ian Hart"
+        ],
+        "music": [
+            "Don Was"
+        ]
+    },
+    "Bad Girls (1994)": {
+        "title": "Bad Girls",
+        "year": "1994",
+        "synopsis": "Prostitutes Cody, Anita, Eileen and Lily go on the run after killing a customer. They prepare to claim Oregon land but encounter Pinkerton detectives.",
+        "directors": [
+            "Jonathan Kaplan"
+        ],
+        "leads": [
+            "Madeleine Stowe",
+            "Mary Stuart Masterson",
+            "Drew Barrymore"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "No Escape (1994)": {
+        "title": "No Escape",
+        "year": "1994",
+        "synopsis": "In 2022, ex-Marine John, convicted for murdering his commanding officer, is left to die on the prison island Absolom, with both Outsiders and Insiders.",
+        "directors": [
+            "Martin Campbell"
+        ],
+        "leads": [
+            "Ray Liotta",
+            "Lance Henriksen",
+            "Stuart Wilson"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "With Honors (1994)": {
+        "title": "With Honors",
+        "year": "1994",
+        "synopsis": "Convinced his thesis help him graduate Harvard, a stuffy student finds himself at the mercy of a homeless man holding the papers hostage.",
+        "directors": [
+            "Alek Keshishian"
+        ],
+        "leads": [
+            "Joe Pesci",
+            "Brendan Fraser",
+            "Moira Kelly"
+        ],
+        "music": [
+            "Patrick Leonard"
+        ]
+    },
+    "3 Ninjas Kick Back (1994)": {
+        "title": "3 Ninjas Kick Back",
+        "year": "1994",
+        "synopsis": "Martial artist brothers face their grandfather's foes when they accompany him to Japan to deliver a priceless dagger meant for tournament winner.",
+        "directors": [
+            "Charles T. Kanganis"
+        ],
+        "leads": [
+            "Victor Wong",
+            "Max Elliott Slade",
+            "Sean Fox"
+        ],
+        "music": [
+            "Richard Marvin"
+        ]
+    },
+    "Being Human (1994)": {
+        "title": "Being Human",
+        "year": "1994",
+        "synopsis": "The experience of Hector's human soul is shown through five incarnations that span man's history in Rome, Scotland, Africa, and modern New York.",
+        "directors": [
+            "Bill Forsyth"
+        ],
+        "leads": [
+            "Robin Williams",
+            "John Turturro",
+            "Bill Nighy"
+        ],
+        "music": [
+            "Michael Gibbs"
+        ]
+    },
+    "Crooklyn (1994)": {
+        "title": "Crooklyn",
+        "year": "1994",
+        "synopsis": "In 1973 Brooklyn, a young girl learns life lessons through her four rowdy brothers, her sick teacher mother, and her stubborn jazz musician father.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Alfre Woodard",
+            "Delroy Lindo",
+            "Spike Lee"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "The Crow (1994)": {
+        "title": "The Crow",
+        "year": "1994",
+        "synopsis": "In Detroit the day before Halloween, a killed rock musician comes back to life as an invulnerable avenger of his and his fianc\u00e9e's brutal murders.",
+        "directors": [
+            "Alex Proyas"
+        ],
+        "leads": [
+            "Brandon Lee",
+            "Ernie Hudson",
+            "Michael Wincott"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Maverick (1994)": {
+        "title": "Maverick",
+        "year": "1994",
+        "synopsis": "In the Old West, gambler Bret scams Angel to win money for a poker tournament. He competes with con artist Annabelle while watched by a marshal.",
+        "directors": [
+            "Richard Donner"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Jodie Foster",
+            "James Garner"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Beverly Hills Cop III (1994)": {
+        "title": "Beverly Hills Cop III",
+        "year": "1994",
+        "synopsis": "Axel returns to Beverly Hills to stop the murderers who killed his boss. He works with Rosewood and investigates counterfeit money at Wonder World.",
+        "directors": [
+            "John Landis"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Judge Reinhold",
+            "H\u00e9ctor Elizondo"
+        ],
+        "music": [
+            "Nile Rodgers"
+        ]
+    },
+    "The Flintstones (1994)": {
+        "title": "The Flintstones",
+        "year": "1994",
+        "synopsis": "In Bedrock, when Fred's executive search IQ test is swapped with Barney's, he is promoted but becomes embroiled in the scheming of his boss.",
+        "directors": [
+            "Brian Levant"
+        ],
+        "leads": [
+            "John Goodman",
+            "Rick Moranis",
+            "Elizabeth Perkins"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Renaissance Man (1994)": {
+        "title": "Renaissance Man",
+        "year": "1994",
+        "synopsis": "A failed businessman is hired by the U.S. army to teach underachieving recruits to help them pass basic training. He wins interest with Shakespeare.",
+        "directors": [
+            "Penny Marshall"
+        ],
+        "leads": [
+            "Danny DeVito",
+            "Gregory Hines",
+            "James Remar"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "City Slickers II: The Legend of Curly's Gold (1994)": {
+        "title": "City Slickers II: The Legend of Curly's Gold",
+        "year": "1994",
+        "synopsis": "Mitch, friend Phil, and his brother Glen discover a treasure map that belonged to their late trail guide Curly. With Curly's own brother, they look for gold.",
+        "directors": [
+            "Paul Weiland"
+        ],
+        "leads": [
+            "Billy Crystal",
+            "Daniel Stern",
+            "Jon Lovitz"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Speed (1994)": {
+        "title": "Speed",
+        "year": "1994",
+        "synopsis": "A man arms a bus with a bomb set to explode if its speed drops below 50 miles per hour. A young LAPD officer must help the passengers survive.",
+        "directors": [
+            "Jan de Bont"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Dennis Hopper",
+            "Sandra Bullock"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "The Lion King (1994)": {
+        "title": "The Lion King",
+        "year": "1994",
+        "synopsis": "After his uncle murders his father, lion cub Simba flees into exile and grows up with two outcasts. He returns home to take his place as rightful king.",
+        "directors": [
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
+        "leads": [
+            "Jonathan Taylor Thomas",
+            "Matthew Broderick",
+            "James Earl Jones"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Wolf (1994)": {
+        "title": "Wolf",
+        "year": "1994",
+        "synopsis": "A publisher becomes a werewolf and has to fight to keep his job. He falls in love with the daughter of the tycoon that that owns the publishing house.",
+        "directors": [
+            "Mike Nichols"
+        ],
+        "leads": [
+            "Jack Nicholson",
+            "Michelle Pfeiffer",
+            "James Spader"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Wyatt Earp (1994)": {
+        "title": "Wyatt Earp",
+        "year": "1994",
+        "synopsis": "A western lawman becomes a respected sheriff in Dodge City and Tombstone. With his brothers and Doc Holliday, he wages war on the Cowboy gang.",
+        "directors": [
+            "Lawrence Kasdan"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Dennis Quaid",
+            "Gene Hackman"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "I Love Trouble (1994)": {
+        "title": "I Love Trouble",
+        "year": "1994",
+        "synopsis": "In Chicago, competing newspaper reporters Peter and Sabrina join forces to understand the mystery behind a train derailment related to altered milk.",
+        "directors": [
+            "Charles Shyer"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Nick Nolte",
+            "Saul Rubinek"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Little Big League (1994)": {
+        "title": "Little Big League",
+        "year": "1994",
+        "synopsis": "After his grandfather dies, a 12-year-old becomes the owner and manager of the Minnesota Twins baseball team, who slowly learn to trust his ability.",
+        "directors": [
+            "Andrew Scheinman"
+        ],
+        "leads": [
+            "Luke Edwards",
+            "Timothy Busfield",
+            "John Ashton"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "Baby's Day Out (1994)": {
+        "title": "Baby's Day Out",
+        "year": "1994",
+        "synopsis": "After three clumsy criminals lose a socialite baby, Bink, they have kidnapped, his parents, the cops, and the same kidnappers look for him in Chicago.",
+        "directors": [
+            "Patrick Read Johnson"
+        ],
+        "leads": [
+            "Joe Mantegna",
+            "Lara Flynn Boyle",
+            "Joe Pantoliano"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "The Shadow (1994)": {
+        "title": "The Shadow",
+        "year": "1994",
+        "synopsis": "In Tibet, Lamont becomes a holy man's student and learns how to hypnotize to seem invisible. He returns to New York and confronts Shiwan Khan.",
+        "directors": [
+            "Russell Mulcahy"
+        ],
+        "leads": [
+            "Alec Baldwin",
+            "John Lone",
+            "Penelope Ann Miller"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Forrest Gump (1994)": {
+        "title": "Forrest Gump",
+        "year": "1994",
+        "synopsis": "A simple Alabama man wants to reunite with his childhood sweetheart. He serves in Vietnam, wins medals, begins shrimping, and motivates joggers.",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Robin Wright",
+            "Gary Sinise"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Angels in the Outfield (1994)": {
+        "title": "Angels in the Outfield",
+        "year": "1994",
+        "synopsis": "When a foster child prays for a chance to have a family if the California Angels win the pennant, angels only he can see help the team win games.",
+        "directors": [
+            "William Dear"
+        ],
+        "leads": [
+            "Danny Glover",
+            "Joseph Gordon-Levitt",
+            "Brenda Fricker"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "True Lies (1994)": {
+        "title": "True Lies",
+        "year": "1994",
+        "synopsis": "Secret agent Harry is concerned his wife Helen is having an affair with a used car salesman, while terrorists smuggle nuclear warheads into the U.S.",
+        "directors": [
+            "James Cameron"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Jamie Lee Curtis",
+            "Tom Arnold"
+        ],
+        "music": [
+            "Brad Fiedel"
+        ]
+    },
+    "The Client (1994)": {
+        "title": "The Client",
+        "year": "1994",
+        "synopsis": "A boy who witnessed a mafia lawyer's suicide hires an attorney to protect him when the District Attorney tries to use him against a mob family.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Susan Sarandon",
+            "Tommy Lee Jones",
+            "Mary-Louise Parker"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "North (1994)": {
+        "title": "North",
+        "year": "1994",
+        "synopsis": "Feeling unvalued, North divorces his parents and leaves them catatonic. As he travels the world in search of parents, his advisors' business thrives.",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "leads": [
+            "Elijah Wood",
+            "Jon Lovitz",
+            "Jason Alexander"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Black Beauty (1994)": {
+        "title": "Black Beauty",
+        "year": "1994",
+        "synopsis": "In 1970s England, a black stallion recalls his life from his carefree life as a colt to the hardships he suffered after achieving maturity with his owners.",
+        "directors": [
+            "Caroline Thompson"
+        ],
+        "leads": [
+            "Alan Cumming",
+            "Andrew Knott",
+            "Sean Bean"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "It Could Happen to You (1994)": {
+        "title": "It Could Happen to You",
+        "year": "1994",
+        "synopsis": "In Queens, a generous married police officer wins the lottery. He gives two million dollars to a poor waitress to whom he promised half of his award.",
+        "directors": [
+            "Andrew Bergman"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Bridget Fonda",
+            "Rosie Perez"
+        ],
+        "music": [
+            "Carter Burwell",
+            "Joe Mulherin"
+        ]
+    },
+    "The Mask (1994)": {
+        "title": "The Mask",
+        "year": "1994",
+        "synopsis": "Bank clerk Stanley turns into a manic hero when he wears a mask with Loki's spirit. He catches the eye of local nightclub singer but also robs a bank.",
+        "directors": [
+            "Charles Russell"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Cameron Diaz",
+            "Peter Riegert"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Clear and Present Danger (1994)": {
+        "title": "Clear and Present Danger",
+        "year": "1994",
+        "synopsis": "Jack Ryan is appointed CIA Deputy Director and learns his government colleagues are conducting an illegal war against a drug cartel in Colombia.",
+        "directors": [
+            "Phillip Noyce"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Willem Dafoe",
+            "Anne Archer"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Airheads (1994)": {
+        "title": "Airheads",
+        "year": "1994",
+        "synopsis": "In L.A. the Lone Rangers' three members look for a big break. They aim to play their demo tape in a radio station but then falsely hold people hostage.",
+        "directors": [
+            "Michael Lehmann"
+        ],
+        "leads": [
+            "Brendan Fraser",
+            "Steve Buscemi",
+            "Adam Sandler"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "The Little Rascals (1994)": {
+        "title": "The Little Rascals",
+        "year": "1994",
+        "synopsis": "Spanky leads a neighborhood girl-hating club. He picks Alfalfa to represent them in a go-kart rally but finds him distracted wooing sweetheart Darla.",
+        "directors": [
+            "Penelope Spheeris"
+        ],
+        "leads": [
+            "Travis Tedford",
+            "Kevin Jamal Woods",
+            "Jordan Warkol"
+        ],
+        "music": [
+            "William Ross"
+        ]
+    },
+    "Corrina, Corrina (1994)": {
+        "title": "Corrina, Corrina",
+        "year": "1994",
+        "synopsis": "In 1959 Los Angeles, a widower hires a black housekeeper and nanny to care for his 7-year-old daughter. The three bond but anger townspeople.",
+        "directors": [
+            "Jessie Nelson"
+        ],
+        "leads": [
+            "Whoopi Goldberg",
+            "Ray Liotta",
+            "Tina Majorino"
+        ],
+        "music": [
+            "Rick Cox"
+        ]
+    },
+    "In the Army Now (1994)": {
+        "title": "In the Army Now",
+        "year": "1994",
+        "synopsis": "Two misguided slackers join the Army reserves to earn money for their own electronics store. They work in water purification and are called to Chad.",
+        "directors": [
+            "Daniel Petrie, Jr."
+        ],
+        "leads": [
+            "Pauly Shore",
+            "Andy Dick",
+            "Lori Petty"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "Blankman (1994)": {
+        "title": "Blankman",
+        "year": "1994",
+        "synopsis": "Nerdy inventor Darryl becomes a superhero with a bulletproof costume. He protects his community with his brother when their grandmother is killed.",
+        "directors": [
+            "Mike Binder"
+        ],
+        "leads": [
+            "Damon Wayans",
+            "David Alan Grier",
+            "Robin Givens"
+        ],
+        "music": [
+            "Miles Goodman",
+            "Michael Jay"
+        ]
+    },
+    "Camp Nowhere (1994)": {
+        "title": "Camp Nowhere",
+        "year": "1994",
+        "synopsis": "A group of junior high kids want to avoid summer camps chosen by their parents so make their own adult-free camp and hire a former drama teacher.",
+        "directors": [
+            "Jonathan Prince"
+        ],
+        "leads": [
+            "Jonathan Jackson",
+            "Christopher Lloyd",
+            "Andrew Keegan"
+        ],
+        "music": [
+            "David Lawrence"
+        ]
+    },
+    "It's Pat (1994)": {
+        "title": "It's Pat",
+        "year": "1994",
+        "synopsis": "Pat, an obnoxious busybody of indeterminable sex, meets and falls in love with caring Chris. The neighbor of Pat is fascinated by Pat's sexuality.",
+        "directors": [
+            "Adam Bernstein"
+        ],
+        "leads": [
+            "Julia Sweeney",
+            "Dave Foley",
+            "Charles Rocket"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ]
+    },
+    "Natural Born Killers (1994)": {
+        "title": "Natural Born Killers",
+        "year": "1994",
+        "synopsis": "Couple Mickey and Mallory become psychopathic serial murderers. As detective Jack chases them, vain journalist Wayne irresponsibly glorifies them.",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "leads": [
+            "Woody Harrelson",
+            "Juliette Lewis",
+            "Robert Downey Jr."
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Police Academy: Mission to Moscow (1994)": {
+        "title": "Police Academy: Mission to Moscow",
+        "year": "1994",
+        "synopsis": "A Russian mafia boss launders money and starts robberies with an addictive video game. Lasard's police team travel to Moscow to capture the boss.",
+        "directors": [
+            "Alan Metter"
+        ],
+        "leads": [
+            "George Gaynes",
+            "Michael Winslow",
+            "David Graf"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "Wagons East (1994)": {
+        "title": "Wagons East",
+        "year": "1994",
+        "synopsis": "In the 1860s Wild West, an ex-doctor, a prostitute, and a homosexual bookseller hire an alcoholic wagon master to return them to home in the East.",
+        "directors": [
+            "Peter Markle"
+        ],
+        "leads": [
+            "John Candy",
+            "Richard Lewis",
+            "John C. McGinley"
+        ],
+        "music": [
+            "Michael Small"
+        ]
+    },
+    "The Next Karate Kid (1994)": {
+        "title": "The Next Karate Kid",
+        "year": "1994",
+        "synopsis": "Mr. Miyagi decides to take troubled teenager Julie under his wing after he learns she blames herself for her parents\u2019 demise and struggles to adjust.",
+        "directors": [
+            "Christopher Cain"
+        ],
+        "leads": [
+            "Noriyuki \"Pat\" Morita",
+            "Hilary Swank",
+            "Michael Ironside"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "Quiz Show (1994)": {
+        "title": "Quiz Show",
+        "year": "1994",
+        "synopsis": "In 1958, a young lawyer investigates a potentially fixed knowledge-based game show Twenty-One, a star instructor, and a disgruntled former winner.",
+        "directors": [
+            "Robert Redford"
+        ],
+        "leads": [
+            "John Turturro",
+            "Rob Morrow",
+            "Ralph Fiennes"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Timecop (1994)": {
+        "title": "Timecop",
+        "year": "1994",
+        "synopsis": "In 2004, an officer for the TEC time travel security agency fends for his life against a shady politician intent on changing the past to control the future.",
+        "directors": [
+            "Peter Hyams"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Ron Silver",
+            "Mia Sara"
+        ],
+        "music": [
+            "Mark Isham",
+            "Robert Lamm"
+        ]
+    },
+    "The Shawshank Redemption (1994)": {
+        "title": "The Shawshank Redemption",
+        "year": "1994",
+        "synopsis": "In 1947, a banker is imprisoned for murdering his wife. For 19 years, he bonds with a contraband smuggler, finding peace and eventual redemption.",
+        "directors": [
+            "Frank Darabont"
+        ],
+        "leads": [
+            "Tim Robbins",
+            "Morgan Freeman",
+            "Bob Gunton"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Ed Wood (1994)": {
+        "title": "Ed Wood",
+        "year": "1994",
+        "synopsis": "In the 1950s, an eccentric, untalented film director works to fulfill his expensive dreams as he makes unusual movies with Bela Lugosi and his friends.",
+        "directors": [
+            "Tim Burton"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Martin Landau",
+            "Sarah Jessica Parker"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "The River Wild (1994)": {
+        "title": "The River Wild",
+        "year": "1994",
+        "synopsis": "River guide Gail and architect Tom take their son on a rafting tour down the Salmon River in Idaho but are forced to navigate with three killer rafters.",
+        "directors": [
+            "Curtis Hanson"
+        ],
+        "leads": [
+            "Meryl Streep",
+            "Kevin Bacon",
+            "David Strathairn"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Only You (1994)": {
+        "title": "Only You",
+        "year": "1994",
+        "synopsis": "Faith searches for Damon Bradley after playing a Ouija board. She and her best friend head to Italy, and she meets Peter, who pretends to be Damon.",
+        "directors": [
+            "Norman Jewison"
+        ],
+        "leads": [
+            "Marisa Tomei",
+            "Robert Downey Jr.",
+            "Bonnie Hunt"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "The Specialist (1994)": {
+        "title": "The Specialist",
+        "year": "1994",
+        "synopsis": "Former CIA explosives expert Ray Quick is now a bomber-for-hire who lives in Miami. His client May hires him to kill the Mafia who killed her parents.",
+        "directors": [
+            "Luis Llosa"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Sharon Stone",
+            "James Woods"
+        ],
+        "music": [
+            "John Barry"
+        ]
+    },
+    "Exit to Eden (1994)": {
+        "title": "Exit to Eden",
+        "year": "1994",
+        "synopsis": "Elliot goes to the sexual fantasy island Eden. He takes rare photos of diamond smugglers that then follow him. Undercover cops pose as vacationers.",
+        "directors": [
+            "Garry Marshall"
+        ],
+        "leads": [
+            "Dana Delany",
+            "Paul Mercurio",
+            "Rosie O'Donnell"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Hoop Dreams (1994)": {
+        "title": "Hoop Dreams",
+        "year": "1994",
+        "synopsis": "Over five years, two inner-city Chicago boys dream of NBA stardom with the support of their families and battle social and physical obstacles.",
+        "directors": [
+            "Steve James"
+        ],
+        "leads": [
+            "William Gates",
+            "Arthur Agee"
+        ],
+        "music": [
+            "Ben Sidran"
+        ]
+    },
+    "Little Giants (1994)": {
+        "title": "Little Giants",
+        "year": "1994",
+        "synopsis": "When Danny\u2019s daughter is cut by his brother from a Pee-Wee Football team for being a girl, he forms his own team with ragtag players.",
+        "directors": [
+            "Duwayne Dunham"
+        ],
+        "leads": [
+            "Rick Moranis",
+            "Ed O'Neill",
+            "Shawna Waldron"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Pulp Fiction (1994)": {
+        "title": "Pulp Fiction",
+        "year": "1994",
+        "synopsis": "In L.A., the lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in tales of violence and redemption.",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "leads": [
+            "John Travolta",
+            "Samuel L. Jackson",
+            "Uma Thurman"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Wes Craven's New Nightmare (1994)": {
+        "title": "Wes Craven's New Nightmare",
+        "year": "1994",
+        "synopsis": "A demonic force has chosen Freddy Krueger as its portal to the real world. Can Heather Langenkamp play the part of Nancy one last time and trap the evil trying to enter our world?",
+        "directors": [
+            "Wes Craven"
+        ],
+        "leads": [
+            "Robert Englund",
+            "Heather Langenkamp",
+            "Miko Hughes"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "Clerks (1994)": {
+        "title": "Clerks",
+        "year": "1994",
+        "synopsis": "In New Jersey, employees Dante and Randal are bored. In between needling customers, they play hockey, visit a funeral home, and deal with loves.",
+        "directors": [
+            "Kevin Smith"
+        ],
+        "leads": [
+            "Brian O'Halloran",
+            "Jeff Anderson",
+            "Marilyn Ghigliotti"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Bullets over Broadway (1994)": {
+        "title": "Bullets over Broadway",
+        "year": "1994",
+        "synopsis": "In 1928 New York, a struggling young playwright is forced to cast a mobster's talentless girlfriend in his latest play. He casts a faded star as the lead.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "John Cusack",
+            "Dianne Wiest",
+            "Jennifer Tilly"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Love Affair (1994)": {
+        "title": "Love Affair",
+        "year": "1994",
+        "synopsis": "Engaged football star Mike and singer Terry meet on a Sidney flight. They fall in love and decide to reunite in three months. A car crash prevents this.",
+        "directors": [
+            "Glenn Gordon Caron"
+        ],
+        "leads": [
+            "Warren Beatty",
+            "Annette Bening",
+            "Katharine Hepburn"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Radioland Murders (1994)": {
+        "title": "Radioland Murders",
+        "year": "1994",
+        "synopsis": "In 1939 Chicago, a radio network at station WBN begins its inaugural night. Writer Roger deals with wife issues as he is involved in a murder mystery.",
+        "directors": [
+            "Mel Smith"
+        ],
+        "leads": [
+            "Brian Benben",
+            "Mary Stuart Masterson",
+            "Ned Beatty"
+        ],
+        "music": [
+            "Joel McNeely"
+        ]
+    },
+    "Stargate (1994)": {
+        "title": "Stargate",
+        "year": "1994",
+        "synopsis": "Linguist Daniel is taken to an Air Force installation and meets commander Jack. They find a portal that leads to Abrydos, where humans worship Ra.",
+        "directors": [
+            "Roland Emmerich"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "James Spader",
+            "Jaye Davidson"
+        ],
+        "music": [
+            "David Arnold"
+        ]
+    },
+    "Double Dragon (1994)": {
+        "title": "Double Dragon",
+        "year": "1994",
+        "synopsis": "Two brothers have one half of a powerful ancient Chinese talisman. A crime lord has the other and desires a complete talisman to become powerful.",
+        "directors": [
+            "James Yukich"
+        ],
+        "leads": [
+            "Robert Patrick",
+            "Mark Dacascos",
+            "Scott Wolf"
+        ],
+        "music": [
+            "Jay Ferguson",
+            "Tolga Katas"
+        ]
+    },
+    "Mary Shelley's Frankenstein (1994)": {
+        "title": "Mary Shelley's Frankenstein",
+        "year": "1994",
+        "synopsis": "When the brilliant but unorthodox scientist Victor Frankenstein rejects the artificial man he created, the smart Creation escapes and swears revenge.",
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Kenneth Branagh",
+            "Tom Hulce"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Interview with the Vampire (1994)": {
+        "title": "Interview with the Vampire",
+        "year": "1994",
+        "synopsis": "In 1791, suicidal widower Louis is persuaded by a vampire, Lestat, to become his companion. The two raise a daughter but begin a morbid conflict.",
+        "directors": [
+            "Neil Jordan"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Tom Cruise",
+            "Christian Slater"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "The Santa Clause (1994)": {
+        "title": "The Santa Clause",
+        "year": "1994",
+        "synopsis": "When Scott inadvertently makes Santa fall off his roof on Christmas Eve, he finds himself magically recruited to take his place with son Calvin's help.",
+        "directors": [
+            "John Pasquin"
+        ],
+        "leads": [
+            "Tim Allen",
+            "Wendy Crewson",
+            "David Krumholtz"
+        ],
+        "music": [
+            "Michael Convertino"
+        ]
+    },
+    "Heavenly Creatures (1994)": {
+        "title": "Heavenly Creatures",
+        "year": "1994",
+        "synopsis": "In 1954 New Zealand, two teenage girls share a unique bond. Their concerned parents separate them, so they plot to murder one of their mothers.",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "leads": [
+            "Kate Winslet",
+            "Melanie Lynskey",
+            "Sarah Peirse"
+        ],
+        "music": [
+            "Peter Dasent"
+        ]
+    },
+    "L\u00e9on: The Professional (1994)": {
+        "title": "L\u00e9on: The Professional",
+        "year": "1994",
+        "synopsis": "A 12-year-old girl is taken in by an assassin after her family is murdered. She learns his trade and becomes his prot\u00e9g\u00e9e as she seeks revenge.",
+        "directors": [
+            "Luc Besson"
+        ],
+        "leads": [
+            "Jean Reno",
+            "Gary Oldman",
+            "Natalie Portman"
+        ],
+        "music": [
+            "\u00c9ric Serra"
+        ]
+    },
+    "Miracle on 34th Street (1994)": {
+        "title": "Miracle on 34th Street",
+        "year": "1994",
+        "synopsis": "In New York, Kris Kringle becomes a department store Santa and claims to be the real Santa. An attorney and a young girl must prove so in court.",
+        "directors": [
+            "Les Mayfield"
+        ],
+        "leads": [
+            "Richard Attenborough",
+            "Elizabeth Perkins",
+            "Dylan McDermott"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "Star Trek Generations (1994)": {
+        "title": "Star Trek Generations",
+        "year": "1994",
+        "synopsis": "With the help of presumed dead Kirk, Captain Picard must stop Soran, a deranged scientist willing to kill on a large scale to enter the Nexus.",
+        "directors": [
+            "David Carson"
+        ],
+        "leads": [
+            "Patrick Stewart",
+            "Jonathan Frakes",
+            "Brent Spiner"
+        ],
+        "music": [
+            "Dennis McCarthy"
+        ]
+    },
+    "A Low Down Dirty Shame (1994)": {
+        "title": "A Low Down Dirty Shame",
+        "year": "1994",
+        "synopsis": "Former LAPD detective Andre Shame is a private investigator who works with Peaches. They track down an ex-girlfriend to testify against a drug lord.",
+        "directors": [
+            "Keenen Ivory Wayans"
+        ],
+        "leads": [
+            "Keenen Ivory Wayans",
+            "Charles S. Dutton",
+            "Jada Pinkett Smith"
+        ],
+        "music": [
+            "Marcus Miller"
+        ]
+    },
+    "Junior (1994)": {
+        "title": "Junior",
+        "year": "1994",
+        "synopsis": "An Austrian-American scientist agrees to undergo a male pregnancy from a drug he and a colleague invented. He forms a friendship with a geneticist.",
+        "directors": [
+            "Ivan Reitman"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Danny DeVito",
+            "Emma Thompson"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Pagemaster (1994)": {
+        "title": "The Pagemaster",
+        "year": "1994",
+        "synopsis": "10-year-old Richard stays in a library to escape a storm, only to be turned into an illustration. He must face obstacles from classic books to return.",
+        "directors": [
+            "Joe Johnston",
+            "Maurice Hunt"
+        ],
+        "leads": [
+            "Macaulay Culkin",
+            "Christopher Lloyd",
+            "Whoopi Goldberg"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Cobb (1994)": {
+        "title": "Cobb",
+        "year": "1994",
+        "synopsis": "A reporter hired to write the official biography of baseball legends Ty Cobb discovers how dark his real story is. He begins completing two versions.",
+        "directors": [
+            "Ron Shelton"
+        ],
+        "leads": [
+            "Tommy Lee Jones",
+            "Robert Wuhl",
+            "Lolita Davidovich"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "Trapped in Paradise (1994)": {
+        "title": "Trapped in Paradise",
+        "year": "1994",
+        "synopsis": "After Bill's two brothers are let go from prison, the three rob a bank in Paradise using a tip. The kind bank president's family lets them stay with them.",
+        "directors": [
+            "George Gallo"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Jon Lovitz",
+            "Dana Carvey"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "Disclosure (1994)": {
+        "title": "Disclosure",
+        "year": "1994",
+        "synopsis": "A CD specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, threatening his career and personal life.",
+        "directors": [
+            "Barry Levinson"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Demi Moore",
+            "Donald Sutherland"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Drop Zone (1994)": {
+        "title": "Drop Zone",
+        "year": "1994",
+        "synopsis": "A tough cop teams up with a professional skydiver to capture a renegade computer hacker on the run from the law.",
+        "directors": [
+            "John Badham"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Gary Busey",
+            "Yancy Butler"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Dumb and Dumber (1994)": {
+        "title": "Dumb and Dumber",
+        "year": "1994",
+        "synopsis": "After a woman leaves a briefcase at the airport terminal, a dumb limo driver and his dumber friend set out on a hilarious cross-country road trip to Aspen to return it.",
+        "directors": [
+            "Peter Farrelly"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Jeff Daniels",
+            "Lauren Holly"
+        ],
+        "music": [
+            "Todd Rundgren"
+        ]
+    },
+    "Immortal Beloved (1994)": {
+        "title": "Immortal Beloved",
+        "year": "1994",
+        "synopsis": "When Ludwig van Beethoven dies, his assistant deals with his last will and testament leaving his estate, music, and affairs to one of a few women.",
+        "directors": [
+            "Bernard Rose"
+        ],
+        "leads": [
+            "Gary Oldman",
+            "Jeroen Krabb\u00e9",
+            "Isabella Rossellini"
+        ],
+        "music": [
+            "Ludwig van Beethoven",
+            "Gioacchino Rossini"
+        ]
+    },
+    "Nell (1994)": {
+        "title": "Nell",
+        "year": "1994",
+        "synopsis": "A doctor finds a woman with a strange language in a cabin. She has to face other people for the first time after being raised by her mother alone.",
+        "directors": [
+            "Michael Apted"
+        ],
+        "leads": [
+            "Jodie Foster",
+            "Liam Neeson",
+            "Natasha Richardson"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Mixed Nuts (1994)": {
+        "title": "Mixed Nuts",
+        "year": "1994",
+        "synopsis": "On Christmas Eve, a crisis hotline, Lifesavers, led by Philip and two inept counselors faces eviction. A serial strangler scares. A trans woman dances.",
+        "directors": [
+            "Nora Ephron"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Madeline Kahn",
+            "Robert Klein"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Richie Rich (1994)": {
+        "title": "Richie Rich",
+        "year": "1994",
+        "synopsis": "The world's richest boy finds his family targeted by a greedy CFO and must use his cunning and help from his loyal butler and new sandlot friends.",
+        "directors": [
+            "Donald Petrie"
+        ],
+        "leads": [
+            "Macaulay Culkin",
+            "John Larroquette",
+            "Edward Herrmann"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Legends of the Fall (1994)": {
+        "title": "Legends of the Fall",
+        "year": "1994",
+        "synopsis": "In early 1900s Montana, a father and three sons live in the wilderness. After one son is killed in war, the two others fall for his widowed fianc\u00e9e.",
+        "directors": [
+            "Edward Zwick"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Anthony Hopkins",
+            "Aidan Quinn"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Street Fighter (1994)": {
+        "title": "Street Fighter",
+        "year": "1994",
+        "synopsis": "Colonel Guile enlists the help of fighters Ryu and Ken to infiltrate the group of M. Bison, the dictator of Shadaloo City with his own supersoldier army.",
+        "directors": [
+            "Steven E. de Souza"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Raul Julia",
+            "Ming-Na Wen"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "I.Q. (1994)": {
+        "title": "I.Q.",
+        "year": "1994",
+        "synopsis": "A mechanic romances the mathematician niece of physicist Albert Einstein by pretending to be a physicist with help from Einstein and his friends.",
+        "directors": [
+            "Fred Schepisi"
+        ],
+        "leads": [
+            "Meg Ryan",
+            "Tim Robbins",
+            "Walter Matthau"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Little Women (1994)": {
+        "title": "Little Women",
+        "year": "1994",
+        "synopsis": "In 1860s Massachusetts, the four March sisters and their mother confront growing pains, financial shortages, family tragedy, and romantic rivalries.",
+        "directors": [
+            "Gillian Armstrong"
+        ],
+        "leads": [
+            "Winona Ryder",
+            "Gabriel Byrne",
+            "Trini Alvarado"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Rudyard Kipling's The Jungle Book (1994)": {
+        "title": "Rudyard Kipling's The Jungle Book",
+        "year": "1994",
+        "synopsis": "Raised by wild animals, Mowgli is drawn away from the jungle by the beautiful Kitty. He must face a corrupt captain who wants the treasures of Monkey City, a place only Mowgli can find.",
+        "directors": [
+            "Stephen Sommers"
+        ],
+        "leads": [
+            "Jason Scott Lee",
+            "Cary Elwes",
+            "Lena Headey"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Houseguest (1995)": {
+        "title": "Houseguest",
+        "year": "1995",
+        "synopsis": "In hot water with the mob over an unpaid debt, a con man poses as a dentist friend not seen in 25 years to a family in a posh Pennsylvania house.",
+        "directors": [
+            "Randall Miller"
+        ],
+        "leads": [
+            "Sinbad",
+            "Phil Hartman",
+            "Kim Greist"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Higher Learning (1995)": {
+        "title": "Higher Learning",
+        "year": "1995",
+        "synopsis": "At Columbus University, black track athlete Malik, naive Kristen, and confused outcast Remy adjust to college life before a rape rally and a shooting.",
+        "directors": [
+            "John Singleton"
+        ],
+        "leads": [
+            "Omar Epps",
+            "Kristy Swanson",
+            "Michael Rapaport"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "Tales from the Crypt Presents: Demon Knight (1995)": {
+        "title": "Tales from the Crypt Presents: Demon Knight",
+        "year": "1995",
+        "synopsis": "A man carries the last of seven keys that hold the blood of Christ and other guardians. If the Collector obtains it, the universe falls into chaos.",
+        "directors": [
+            "Ernest Dickerson"
+        ],
+        "leads": [
+            "Billy Zane",
+            "William Sadler",
+            "Jada Pinkett"
+        ],
+        "music": [
+            "Edward Shearmur"
+        ]
+    },
+    "Murder in the First (1995)": {
+        "title": "Murder in the First",
+        "year": "1995",
+        "synopsis": "A young attorney defends an Alcatraz prisoner accused of killing an inmate with a spoon after spending over three years in solitary confinement.",
+        "directors": [
+            "Marc Rocco"
+        ],
+        "leads": [
+            "Christian Slater",
+            "Kevin Bacon",
+            "Gary Oldman"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "S.F.W. (1995)": {
+        "title": "S.F.W.",
+        "year": "1995",
+        "synopsis": "Teenager Cliff Spab gains sudden fame as one of five hostages of armed terrorists who televise his indifference to their death threats after 36 days.",
+        "directors": [
+            "Jefery Levy"
+        ],
+        "leads": [
+            "Stephen Dorff",
+            "Reese Witherspoon",
+            "Jake Busey"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Before Sunrise (1995)": {
+        "title": "Before Sunrise",
+        "year": "1995",
+        "synopsis": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
+        "directors": [
+            "Richard Linklater"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Julie Delpy",
+            "Andrea Eckert"
+        ],
+        "music": [
+            "Fred Frith"
+        ]
+    },
+    "Highlander: The Final Dimension (1995)": {
+        "title": "Highlander: The Final Dimension",
+        "year": "1995",
+        "synopsis": "Deceived that he had won the Prize, MacLeod awakens from a peaceful life when an entombed immortal magician comes seeking the Highlander.",
+        "directors": [
+            "Andy Morahan"
+        ],
+        "leads": [
+            "Christopher Lambert",
+            "Mario Van Peebles",
+            "Deborah Kara Unger"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "In the Mouth of Madness (1995)": {
+        "title": "In the Mouth of Madness",
+        "year": "1995",
+        "synopsis": "An insurance investigator is tasked with locating horror writer Sutter Cane. He goes to Hobb's End, a town like one in the books, and loses his sanity.",
+        "directors": [
+            "John Carpenter"
+        ],
+        "leads": [
+            "Sam Neill",
+            "Julie Carmen",
+            "J\u00fcrgen Prochnow"
+        ],
+        "music": [
+            "John Carpenter",
+            "Jim Lang"
+        ]
+    },
+    "Billy Madison (1995)": {
+        "title": "Billy Madison",
+        "year": "1995",
+        "synopsis": "For his retiring father's hotel empire, 27-year-old Billy must prove himself by repeating 12 grades of school. He falls for a teacher as Eric hinders him.",
+        "directors": [
+            "Tamra Davis"
+        ],
+        "leads": [
+            "Adam Sandler",
+            "Bradley Whitford",
+            "Josh Mostel"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "The Quick and the Dead (1995)": {
+        "title": "The Quick and the Dead",
+        "year": "1995",
+        "synopsis": "In 1881, a female gunfighter goes to Redemption to enter a dueling tournament hosted by outlaw John Herod to avenge her father's death by rope.",
+        "directors": [
+            "Sam Raimi"
+        ],
+        "leads": [
+            "Sharon Stone",
+            "Gene Hackman",
+            "Russell Crowe"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Heavyweights (1995)": {
+        "title": "Heavyweights",
+        "year": "1995",
+        "synopsis": "Plump boys join a posh fat camp with the promise of good times but find the facility is a woodland hellhole run by a psycho ex-fitness instructor.",
+        "directors": [
+            "Steven Brill"
+        ],
+        "leads": [
+            "Tom McGowan",
+            "Aaron Schwartz",
+            "Shaun Weiss"
+        ],
+        "music": [
+            "J. A. C. Redford"
+        ]
+    },
+    "Just Cause (1995)": {
+        "title": "Just Cause",
+        "year": "1995",
+        "synopsis": "A Harvard professor is lured back to a courtroom after 25 years to help a black man condemned to die after a girl's murder and a forced confession.",
+        "directors": [
+            "Arne Glimcher"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Laurence Fishburne",
+            "Kate Capshaw"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Brady Bunch Movie (1995)": {
+        "title": "The Brady Bunch Movie",
+        "year": "1995",
+        "synopsis": "A family with 1970s fashion and sitcom morality have just one week to earn $20,000 in back taxes or their house will be sold, forcing them to move.",
+        "directors": [
+            "Betty Thomas"
+        ],
+        "leads": [
+            "Shelley Long",
+            "Gary Cole",
+            "Michael McKean"
+        ],
+        "music": [
+            "Guy Moon",
+            "Lionel Cole"
+        ]
+    },
+    "Meet the Feebles (1995)": {
+        "title": "Meet the Feebles",
+        "year": "1995",
+        "synopsis": "Heidi, the hippo star of Feebles learns her walrus lover is cheating on her. With the world waiting for their show, her co-stars contend with problems.",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "leads": [
+            "Mark Hadlow",
+            "Peter Vere-Jones",
+            "Donna Akersten"
+        ],
+        "music": [
+            "Peter Dasent"
+        ]
+    },
+    "Man of the House (1995)": {
+        "title": "Man of the House",
+        "year": "1995",
+        "synopsis": "11-year-old Ben does not like his mother's lawyer boyfriend Jack so enters the family Indian Guides program. A mobster's son takes revenge on Jack.",
+        "directors": [
+            "James Orr"
+        ],
+        "leads": [
+            "Chevy Chase",
+            "Farrah Fawcett",
+            "Jonathan Taylor Thomas"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "The Mangler (1995)": {
+        "title": "The Mangler",
+        "year": "1995",
+        "synopsis": "A laundry-folding machine has been possessed by an evil demon, causing it to develop homicidal tendencies. A police officer investigates incidents.",
+        "directors": [
+            "Tobe Hooper"
+        ],
+        "leads": [
+            "Robert Englund",
+            "Ted Levine",
+            "Daniel Matmor"
+        ],
+        "music": [
+            "Barrington Pheloung"
+        ]
+    },
+    "3 Ninjas Knuckle Up (1995)": {
+        "title": "3 Ninjas Knuckle Up",
+        "year": "1995",
+        "synopsis": "Rocky, Colt, and Tum Tum must battle an evil wealthy toxic waste company to save a local Native American tribe and their friend Jo.",
+        "directors": [
+            "Shin Sang-ok"
+        ],
+        "leads": [
+            "Victor Wong",
+            "Charles Napier",
+            "Michael Treanor"
+        ],
+        "music": [
+            "Gary Stevan Scott",
+            "Louis Febre"
+        ]
+    },
+    "Muriel's Wedding (1995)": {
+        "title": "Muriel's Wedding",
+        "year": "1995",
+        "synopsis": "In Australia, outcast Muriel, obsessed with ABBA and weddings, steals money from her parents to vacation on an island where she meets Rhonda.",
+        "directors": [
+            "P.J. Hogan"
+        ],
+        "leads": [
+            "Toni Collette",
+            "Bill Hunter",
+            "Rachel Griffiths"
+        ],
+        "music": [
+            "Peter Best"
+        ]
+    },
+    "Outbreak (1995)": {
+        "title": "Outbreak",
+        "year": "1995",
+        "synopsis": "Army doctors struggle to find a cure for a deadly virus spreading throughout a California town that is hosted by a white-headed capuchin monkey.",
+        "directors": [
+            "Wolfgang Petersen"
+        ],
+        "leads": [
+            "Dustin Hoffman",
+            "Rene Russo",
+            "Morgan Freeman"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Candyman: Farewell to the Flesh (1995)": {
+        "title": "Candyman: Farewell to the Flesh",
+        "year": "1995",
+        "synopsis": "The Candyman arrives in New Orleans and sets his sights on a descendant schoolteacher whose professor father was murdered by him a year ago.",
+        "directors": [
+            "Bill Condon"
+        ],
+        "leads": [
+            "Tony Todd",
+            "Kelly Rowan",
+            "Timothy Carhart"
+        ],
+        "music": [
+            "Philip Glass"
+        ]
+    },
+    "Dolores Claiborne (1995)": {
+        "title": "Dolores Claiborne",
+        "year": "1995",
+        "synopsis": "In Maine, reporter Selena meets her mother, who has been arrested for an elderly woman's murder. They look back on abuse by her now dead father.",
+        "directors": [
+            "Taylor Hackford"
+        ],
+        "leads": [
+            "Kathy Bates",
+            "Jennifer Jason Leigh",
+            "David Strathairn"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Major Payne (1995)": {
+        "title": "Major Payne",
+        "year": "1995",
+        "synopsis": "A major is discharged from the Marines, so his commander finds him a job: commanding officer of a local school\u2019s JROTC program, a bunch of ragtag losers with no hope.",
+        "directors": [
+            "Nick Castle"
+        ],
+        "leads": [
+            "Damon Wayans",
+            "Karyn Parsons",
+            "Michael Ironside"
+        ],
+        "music": [
+            "Craig Safan"
+        ]
+    },
+    "Tall Tale (1995)": {
+        "title": "Tall Tale",
+        "year": "1995",
+        "synopsis": "In 1905, a boy's imagination summons Pecos Bill, Paul Bunyan, and John Henry, who help him save his family's farm from a diabolical land developer.",
+        "directors": [
+            "Jeremiah S. Chechik"
+        ],
+        "leads": [
+            "Nick Stahl",
+            "Patrick Swayze",
+            "Oliver Platt"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Tank Girl (1995)": {
+        "title": "Tank Girl",
+        "year": "1995",
+        "synopsis": "In 2033, a woman riding a war tank and a shy jet mechanic fight against the tyranny of the Water & Power corporation that dominates water supply.",
+        "directors": [
+            "Rachel Talalay"
+        ],
+        "leads": [
+            "Lori Petty\nNaomi Watts",
+            "Ice-T"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Tommy Boy (1995)": {
+        "title": "Tommy Boy",
+        "year": "1995",
+        "synopsis": "After his auto-parts tycoon father dies, his overweight, underachieving son teams up with a snide accountant to save the family business.",
+        "directors": [
+            "Peter Segal"
+        ],
+        "leads": [
+            "Chris Farley",
+            "David Spade",
+            "Bo Derek"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "A Goofy Movie (1995)": {
+        "title": "A Goofy Movie",
+        "year": "1995",
+        "synopsis": "When Max makes a big promise to a girl he has a crush on, his chances to fulfill it seem hopeless when he is dragged onto a cross-country trip with his embarrassing father Goofy.",
+        "directors": [
+            "Kevin Lima"
+        ],
+        "leads": [
+            "Bill Farmer",
+            "Jason Marsden",
+            "Jim Cummings"
+        ],
+        "music": [
+            "Carter Burwell",
+            "Don Davis"
+        ]
+    },
+    "Bad Boys (1995)": {
+        "title": "Bad Boys",
+        "year": "1995",
+        "synopsis": "Miami narcotics detectives Marcus and Mike are tasked with murder witness Julie while they figure out who thieved heroin from their precinct's vault.",
+        "directors": [
+            "Michael Bay"
+        ],
+        "leads": [
+            "Martin Lawrence",
+            "Will Smith",
+            "T\u00e9a Leoni"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "Jury Duty (1995)": {
+        "title": "Jury Duty",
+        "year": "1995",
+        "synopsis": "Jobless loser Tommy is sequestered to be a juror in a serial killer trial. He prolongs the trial to take full advantage of the free luxury lodging and food.",
+        "directors": [
+            "John Fortenberry"
+        ],
+        "leads": [
+            "Pauly Shore",
+            "Tia Carrere",
+            "Stanley Tucci"
+        ],
+        "music": [
+            "David Kitay"
+        ]
+    },
+    "Stuart Saves His Family (1995)": {
+        "title": "Stuart Saves His Family",
+        "year": "1995",
+        "synopsis": "Stuart Smalley, a disciple of the 12-step program for self-help, struggles to handle his dysfunctional family and losing his own cable television show.",
+        "directors": [
+            "Harold Ramis"
+        ],
+        "leads": [
+            "Al Franken",
+            "Laura San Giacomo",
+            "Vincent D'Onofrio"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "The Basketball Diaries (1995)": {
+        "title": "The Basketball Diaries",
+        "year": "1995",
+        "synopsis": "In New York City, teenager Jim Carroll finds his dreams of basketball stardom threatened when he becomes a heroin addict after a friend's death.",
+        "directors": [
+            "Scott Kalvert"
+        ],
+        "leads": [
+            "Leonardo DiCaprio",
+            "Bruno Kirby",
+            "Lorraine Bracco"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "While You Were Sleeping (1995)": {
+        "title": "While You Were Sleeping",
+        "year": "1995",
+        "synopsis": "Lonely CTA token collector Lucy is thought to be the fianc\u00e9e of a commuter in a coma. She is soon loved by his family and falls for his brother Peter.",
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Bill Pullman",
+            "Peter Gallagher"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Friday (1995)": {
+        "title": "Friday",
+        "year": "1995",
+        "synopsis": "Two unemployed friends smoke a dope dealer's weed and try to figure a way to get 200 dollars owed to the dealer by 10:00 p.m. that same night.",
+        "directors": [
+            "F. Gary Gray"
+        ],
+        "leads": [
+            "Ice Cube",
+            "Chris Tucker",
+            "Nia Long"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Village of the Damned (1995)": {
+        "title": "Village of the Damned",
+        "year": "1995",
+        "synopsis": "In Midwich, ten women are suddenly pregnant. Their children develop inhuman personalities and psychic powers. Doctor Alan plans to bomb them.",
+        "directors": [
+            "John Carpenter"
+        ],
+        "leads": [
+            "Christopher Reeve",
+            "Kirstie Alley",
+            "Linda Kozlowski"
+        ],
+        "music": [
+            "John Carpenter",
+            "Dave Davies"
+        ]
+    },
+    "Panther (1995)": {
+        "title": "Panther",
+        "year": "1995",
+        "synopsis": "In 1966, Vietnam veteran Judge returns to home Oakland to police discrimination against African Americans. He joins Bobby's vigilante movement.",
+        "directors": [
+            "Mario Van Peebles"
+        ],
+        "leads": [
+            "Kadeem Hardison",
+            "Courtney B. Vance",
+            "Marcus Chong"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "French Kiss (1995)": {
+        "title": "French Kiss",
+        "year": "1995",
+        "synopsis": "A woman flies to France to confront her straying fianc\u00e9 but gets into trouble when the charming crook seated next to her uses her for smuggling.",
+        "directors": [
+            "Lawrence Kasdan"
+        ],
+        "leads": [
+            "Meg Ryan",
+            "Kevin Kline",
+            "Timothy Hutton"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "A Little Princess (1995)": {
+        "title": "A Little Princess",
+        "year": "1995",
+        "synopsis": "During World War I, sweet Sara is relegated to a life of servitude in a New York City girls' boarding school after receiving news her father was killed.",
+        "directors": [
+            "Alfonso Cuar\u00f3n"
+        ],
+        "leads": [
+            "Eleanor Bron",
+            "Liam Cunningham",
+            "Liesel Matthews"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Crimson Tide (1995)": {
+        "title": "Crimson Tide",
+        "year": "1995",
+        "synopsis": "On an American nuclear missile submarine, the first officer stages a mutiny to prevent his captain from launching missiles before confirming orders.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Gene Hackman",
+            "George Dzundza"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "The Englishman who Went up a Hill but Came down a Mountain (1995)": {
+        "title": "The Englishman who Went up a Hill but Came down a Mountain",
+        "year": "1995",
+        "synopsis": "When an English cartographer must tell a Welsh village that their mountain is only a 984-foot hill, the offended community sets out to make it taller.",
+        "directors": [
+            "Christopher Monger"
+        ],
+        "leads": [
+            "Hugh Grant",
+            "Tara Fitzgerald",
+            "Colm Meaney"
+        ],
+        "music": [
+            "Stephen Endelman",
+            "Gwalia Male Choir"
+        ]
+    },
+    "Die Hard with a Vengeance (1995)": {
+        "title": "Die Hard with a Vengeance",
+        "year": "1995",
+        "synopsis": "John McClane and a Harlem store owner are targeted by German terrorist Simon Gruber in New York City, where he plans to rob the Federal Reserve Building.",
+        "directors": [
+            "John McTiernan"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Jeremy Irons",
+            "Samuel L. Jackson"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Forget Paris (1995)": {
+        "title": "Forget Paris",
+        "year": "1995",
+        "synopsis": "Mickey, an NBA referee, meets Ellen, an American airline official, in Paris. Their love develops into a relationship of ups and downs.",
+        "directors": [
+            "Billy Crystal"
+        ],
+        "leads": [
+            "Billy Crystal",
+            "Debra Winger",
+            "Joe Mantegna"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Braveheart (1995)": {
+        "title": "Braveheart",
+        "year": "1995",
+        "synopsis": "In 1297, Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward \"Longshanks\".",
+        "directors": [
+            "Mel Gibson"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Sophie Marceau",
+            "Patrick McGoohan"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Tales from the Hood (1995)": {
+        "title": "Tales from the Hood",
+        "year": "1995",
+        "synopsis": "A funeral director tells four strange tales of horror with an African-American focus to three drug dealers he traps in his place of business.",
+        "directors": [
+            "Rusty Cundieff"
+        ],
+        "leads": [
+            "Corbin Bernsen",
+            "Rosalind Cash",
+            "Rusty Cundieff"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Casper (1995)": {
+        "title": "Casper",
+        "year": "1995",
+        "synopsis": "In Maine, an afterlife therapist and his daughter Kat meet a friendly young ghost when they move into a crumbling mansion to rid it of wicked spirits.",
+        "directors": [
+            "Brad Silberling"
+        ],
+        "leads": [
+            "Christina Ricci",
+            "Bill Pullman",
+            "Cathy Moriarty"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Johnny Mnemonic (1995)": {
+        "title": "Johnny Mnemonic",
+        "year": "1995",
+        "synopsis": "In 2021, a courier carrying a Beijing data package inside his head in place of child memories must deliver it before he dies or is killed by the Yakuza.",
+        "directors": [
+            "Robert Longo"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Dolph Lundgren",
+            "Dina Meyer"
+        ],
+        "music": [
+            "Brad Fiedel"
+        ]
+    },
+    "The Bridges of Madison County (1995)": {
+        "title": "The Bridges of Madison County",
+        "year": "1995",
+        "synopsis": "Two siblings learn that in 1965 Iowa, their recently deceased Italian mother had an intense four-day affair with a National Geographic photojournalist.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "Meryl Streep",
+            "Annie Corley"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "The Glass Shield (1995)": {
+        "title": "The Glass Shield",
+        "year": "1995",
+        "synopsis": "In L.A., black rookie deputy chief J. J. and female Deborah experience tension. J. J. lies to help bad policemen frame Teddy for a white wife's murder.",
+        "directors": [
+            "Charles Burnett"
+        ],
+        "leads": [
+            "Michael Boatman",
+            "Lori Petty",
+            "Ice Cube"
+        ],
+        "music": [
+            "Stephen James Taylor"
+        ]
+    },
+    "Congo (1995)": {
+        "title": "Congo",
+        "year": "1995",
+        "synopsis": "When an expedition to the African Congo ends in disaster, a new team is assembled to find out what went wrong.",
+        "directors": [
+            "Frank Marshall"
+        ],
+        "leads": [
+            "Laura Linney",
+            "Dylan Walsh",
+            "Ernie Hudson"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Batman Forever (1995)": {
+        "title": "Batman Forever",
+        "year": "1995",
+        "synopsis": "Batman battles Two-Face and the Riddler with help from an amorous psychologist and a young circus acrobat who becomes his sidekick Robin.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Val Kilmer",
+            "Tommy Lee Jones",
+            "Jim Carrey"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "Pocahontas (1995)": {
+        "title": "Pocahontas",
+        "year": "1995",
+        "synopsis": "An English soldier and the daughter of an Algonquin chief share a romance when English colonists invade seventeenth century Virginia.",
+        "directors": [
+            "Mike Gabriel",
+            "Eric Goldberg"
+        ],
+        "leads": [
+            "Irene Bedard",
+            "Mel Gibson",
+            "David Ogden Stiers"
+        ],
+        "music": [
+            "Alan Menken"
+        ]
+    },
+    "Apollo 13 (1995)": {
+        "title": "Apollo 13",
+        "year": "1995",
+        "synopsis": "In 1970, an explosion hits a spacecraft, forcing NASA's flight controllers to abort a Moon landing and strategize a plan to rescue three astronauts.",
+        "directors": [
+            "Ron Howard"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Kevin Bacon",
+            "Bill Paxton"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Judge Dredd (1995)": {
+        "title": "Judge Dredd",
+        "year": "1995",
+        "synopsis": "In 2139, a maniacal ex-Judge frames Dredd for murder, but with the help of a prisoner who he himself convicted, he sets out to clear his name.",
+        "directors": [
+            "Danny Cannon"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Armand Assante",
+            "Diane Lane"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Mighty Morphin Power Rangers: The Movie (1995)": {
+        "title": "Mighty Morphin Power Rangers: The Movie",
+        "year": "1995",
+        "synopsis": "Ivan Ooze seeks vengeance for being imprisoned millennia ago. With Zordon dying and powers lost, the Rangers head to space to find mystic Dulcea.",
+        "directors": [
+            "Bryan Spicer"
+        ],
+        "leads": [
+            "Jason David Frank",
+            "Amy Jo Johnson",
+            "David Yost"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "First Knight (1995)": {
+        "title": "First Knight",
+        "year": "1995",
+        "synopsis": "Lancelot falls in love with Guinevere, who is due to be married to King Arthur. A violent warlord tries to seize power from Arthur and his Knights.",
+        "directors": [
+            "Jerry Zucker"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Richard Gere",
+            "Julia Ormond"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Species (1995)": {
+        "title": "Species",
+        "year": "1995",
+        "synopsis": "In Los Angeles, a group of four scientists try to track down and trap Sil, a killer alien seductress, before she successfully mates with a human man.",
+        "directors": [
+            "Roger Donaldson"
+        ],
+        "leads": [
+            "Natasha Henstridge\nBen Kingsley",
+            "Michael Madsen"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Nine Months (1995)": {
+        "title": "Nine Months",
+        "year": "1995",
+        "synopsis": "After scared child psychologist Samuel learns his ballet teacher girlfriend Rebecca is pregnant, his fears mount until he decides to take responsibility.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "Hugh Grant",
+            "Julianne Moore",
+            "Tom Arnold"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "The Indian in the Cupboard (1995)": {
+        "title": "The Indian in the Cupboard",
+        "year": "1995",
+        "synopsis": "9-year-old Omri receives a gift cupboard that can bring toys to life. He befriends a toy 18th-century Iroquois man Little Bear and a cowboy from 1879.",
+        "directors": [
+            "Frank Oz"
+        ],
+        "leads": [
+            "Hal Scardino",
+            "Litefoot",
+            "David Keith"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Under Siege 2: Dark Territory (1995)": {
+        "title": "Under Siege 2: Dark Territory",
+        "year": "1995",
+        "synopsis": "Casey hops on a Denver to Los Angeles train to visit a grave with his niece. Terrorists board the train to use it to hijack a satellite particle weapon.",
+        "directors": [
+            "Geoff Murphy"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Eric Bogosian",
+            "Katherine Heigl"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Clueless (1995)": {
+        "title": "Clueless",
+        "year": "1995",
+        "synopsis": "Shallow, rich and socially successful Cher is at the top of her Beverly Hills high school's pecking scale. Seeing herself as a matchmaker, Cher first coaxes two teachers into dating each other.",
+        "directors": [
+            "Amy Heckerling"
+        ],
+        "leads": [
+            "Alicia Silverstone",
+            "Paul Rudd",
+            "Stacey Dash"
+        ],
+        "music": [
+            "David Kitay"
+        ]
+    },
+    "Free Willy 2: The Adventure Home (1995)": {
+        "title": "Free Willy 2: The Adventure Home",
+        "year": "1995",
+        "synopsis": "Teenager Jesse becomes reunited with Willy two years after his freedom. He works to rescue Willy and siblings Luna and Littlespot from an oil spill.",
+        "directors": [
+            "Dwight Little"
+        ],
+        "leads": [
+            "Jason James Richter",
+            "Francis Capra",
+            "Mary Kate Schellhardt"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Operation Dumbo Drop (1995)": {
+        "title": "Operation Dumbo Drop",
+        "year": "1995",
+        "synopsis": "In 1968 during the Vietnam War, a Green Beret captain and his unit work to deliver a replacement elephant to the village Dak Nhe to keep its loyalty.",
+        "directors": [
+            "Simon Wincer"
+        ],
+        "leads": [
+            "Danny Glover",
+            "Ray Liotta",
+            "Denis Leary"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "The Net (1995)": {
+        "title": "The Net",
+        "year": "1995",
+        "synopsis": "A computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.",
+        "directors": [
+            "Irwin Winkler"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Jeremy Northam",
+            "Dennis Miller"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Waterworld (1995)": {
+        "title": "Waterworld",
+        "year": "1995",
+        "synopsis": "In a future Earth is almost entirely submerged, a mutated mariner fights outlaw smokers and helps a woman and a young girl try to find dry land.",
+        "directors": [
+            "Kevin Reynolds"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Dennis Hopper",
+            "Jeanne Tripplehorn"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Babe (1995)": {
+        "title": "Babe",
+        "year": "1995",
+        "synopsis": "A little pig raised by sheepdogs learns to herd sheep with a little help from a duck, a Border Collie, and Farmer Hoggett.",
+        "directors": [
+            "Chris Noonan"
+        ],
+        "leads": [
+            "Christine Cavanaugh",
+            "James Cromwell",
+            "Magda Szubanski"
+        ],
+        "music": [
+            "Nigel Westlake"
+        ]
+    },
+    "Something to Talk About (1995)": {
+        "title": "Something to Talk About",
+        "year": "1995",
+        "synopsis": "After Grace catches her husband having an affair, she takes her daughter and heads to her parents' horse farm. They advise her to forgive and forget.",
+        "directors": [
+            "Lasse Hallstr\u00f6m"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Dennis Quaid",
+            "Robert Duvall"
+        ],
+        "music": [
+            "Hans Zimmer",
+            "Graham Preskett"
+        ]
+    },
+    "Virtuosity (1995)": {
+        "title": "Virtuosity",
+        "year": "1995",
+        "synopsis": "When a virtual reality simulation created using the personalities of multiple serial killers escapes into the real world, an ex-cop is tasked with finding it.",
+        "directors": [
+            "Brett Leonard"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Russell Crowe",
+            "Kelly Lynch"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "A Walk in the Clouds (1995)": {
+        "title": "A Walk in the Clouds",
+        "year": "1995",
+        "synopsis": "In 1945 Sacramento, after World War II, married soldier Paul pretends to be the pregnant Victoria's husband to save her from her mad father's honor.",
+        "directors": [
+            "Alfonso Arau"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Aitana S\u00e1nchez-Gij\u00f3n",
+            "Giancarlo Giannini"
+        ],
+        "music": [
+            "Maurice Jarre"
+        ]
+    },
+    "Dangerous Minds (1995)": {
+        "title": "Dangerous Minds",
+        "year": "1995",
+        "synopsis": "A former Marine and new teacher tries to connect with her low-income high school students. She pushes them to learn poetry and cares for them.",
+        "directors": [
+            "John N. Smith"
+        ],
+        "leads": [
+            "Michelle Pfeiffer",
+            "George Dzundza",
+            "Courtney B. Vance"
+        ],
+        "music": [
+            "Wendy & Lisa"
+        ]
+    },
+    "The Usual Suspects (1995)": {
+        "title": "The Usual Suspects",
+        "year": "1995",
+        "synopsis": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a random police lineup.",
+        "directors": [
+            "Bryan Singer"
+        ],
+        "leads": [
+            "Kevin Spacey",
+            "Stephen Baldwin",
+            "Gabriel Byrne"
+        ],
+        "music": [
+            "John Ottman"
+        ]
+    },
+    "Mortal Kombat (1995)": {
+        "title": "Mortal Kombat",
+        "year": "1995",
+        "synopsis": "Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will decide the fate of the world.",
+        "directors": [
+            "Paul W. S. Anderson"
+        ],
+        "leads": [
+            "Linden Ashby",
+            "Cary-Hiroyuki Tagawa",
+            "Robin Shou"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "Desperado (1995)": {
+        "title": "Desperado",
+        "year": "1995",
+        "synopsis": "Gunslinger El Mariachi returns to a small Mexican border town after many years. He gets entangled with the local drug kingpin Bucho and his gang.",
+        "directors": [
+            "Robert Rodriguez"
+        ],
+        "leads": [
+            "Antonio Banderas",
+            "Joaquim de Almeida",
+            "Salma Hayek"
+        ],
+        "music": [
+            "Los Lobos"
+        ]
+    },
+    "The Prophecy (1995)": {
+        "title": "The Prophecy",
+        "year": "1995",
+        "synopsis": "LAPD detective Thomas and elementary school teacher Katherine learn of a war between groups of angels. Lucifer reveals Heaven could devolve.",
+        "directors": [
+            "Gregory Widen"
+        ],
+        "leads": [
+            "Christopher Walken",
+            "Elias Koteas",
+            "Virginia Madsen"
+        ],
+        "music": [
+            "David C. Williams"
+        ]
+    },
+    "National Lampoon's Senior Trip (1995)": {
+        "title": "National Lampoon's Senior Trip",
+        "year": "1995",
+        "synopsis": "To embarrass his rival, a senator uses nitwit Ohio teenagers like stoner Dags and intelligent Lisa by inviting them to a presidential education meeting.",
+        "directors": [
+            "Kelly Makin"
+        ],
+        "leads": [
+            "Jeremy Renner",
+            "Matt Frewer",
+            "Valerie Mahaffey"
+        ],
+        "music": [
+            "Steve Bartek"
+        ]
+    },
+    "To Wong Foo, Thanks for Everything! Julie Newmar (1995)": {
+        "title": "To Wong Foo, Thanks for Everything! Julie Newmar",
+        "year": "1995",
+        "synopsis": "New York drag queens Noxima, Vida, and Chi-Chi travel to a pageant in Hollywood. When their car breaks down, they are stuck in small Snydersville.",
+        "directors": [
+            "Beeban Kidron"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Patrick Swayze",
+            "John Leguizamo"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Clockers (1995)": {
+        "title": "Clockers",
+        "year": "1995",
+        "synopsis": "Young drug pushers in the projects of Brooklyn live hard dangerous lives, trapped between their drug bosses and the detectives out to stop them.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Harvey Keitel",
+            "John Turturro",
+            "Delroy Lindo"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "Hackers (1995)": {
+        "title": "Hackers",
+        "year": "1995",
+        "synopsis": "18-year-old Dade and his hacker friends discover a plot to unleash a defrauding worm. They look for evidence while pursued by the Secret Service.",
+        "directors": [
+            "Iain Softley"
+        ],
+        "leads": [
+            "Jonny Lee Miller",
+            "Angelina Jolie",
+            "Fisher Stevens"
+        ],
+        "music": [
+            "Simon Boswell"
+        ]
+    },
+    "Empire Records (1995)": {
+        "title": "Empire Records",
+        "year": "1995",
+        "synopsis": "In Delaware, record store employees try to stop the store from being sold to a national chain and learn about each other over one exceptional day.",
+        "directors": [
+            "Allan Moyle"
+        ],
+        "leads": [
+            "Anthony LaPaglia",
+            "Maxwell Caulfield",
+            "Debi Mazar"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Seven (1995)": {
+        "title": "Seven",
+        "year": "1995",
+        "synopsis": "Two detectives, a rookie with a pregnant wife and a retiring veteran, hunt a serial killer who uses the seven deadly sins to inspire his odious murders.",
+        "directors": [
+            "David Fincher"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Morgan Freeman",
+            "Gwyneth Paltrow"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Showgirls (1995)": {
+        "title": "Showgirls",
+        "year": "1995",
+        "synopsis": "Young drifter Nomi goes to Las Vegas to become a dancer and sets about pushing her way to climb from stripping to dancing in a casino's chorus line.",
+        "directors": [
+            "Paul Verhoeven"
+        ],
+        "leads": [
+            "Elizabeth Berkley",
+            "Kyle MacLachlan",
+            "Gina Gershon"
+        ],
+        "music": [
+            "David A. Stewart"
+        ]
+    },
+    "The Return of the Texas Chainsaw Massacre (1995)": {
+        "title": "The Return of the Texas Chainsaw Massacre",
+        "year": "1995",
+        "synopsis": "In Texas, four teenagers hit a car on prom night. They wander into a farmhouse that is the home to Leatherface and his depraved family of cannibals.",
+        "directors": [
+            "Kim Henkel"
+        ],
+        "leads": [
+            "Ren\u00e9e Zellweger",
+            "Matthew McConaughey",
+            "Robert Jacks"
+        ],
+        "music": [
+            "Wayne Bell",
+            "Robert Jacks"
+        ]
+    },
+    "Devil in a Blue Dress (1995)": {
+        "title": "Devil in a Blue Dress",
+        "year": "1995",
+        "synopsis": "In 1940s Los Angeles, an unemployed black World War II veteran takes a job to investigate the disappearance of a missing white woman.",
+        "directors": [
+            "Carl Franklin"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Tom Sizemore",
+            "Jennifer Beals"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Halloween: The Curse of Michael Myers (1995)": {
+        "title": "Halloween: The Curse of Michael Myers",
+        "year": "1995",
+        "synopsis": "Six years after Michael Myers last terrorized Haddonfield, he returns there in pursuit of his niece, Jamie Lloyd, who has escaped with her newborn child, for which Michael and a mysterious cult have sinister plans.",
+        "directors": [
+            "Joe Chappelle"
+        ],
+        "leads": [
+            "Donald Pleasence",
+            "Paul Rudd",
+            "Marianne Hagan"
+        ],
+        "music": [
+            "Alan Howarth"
+        ]
+    },
+    "The Big Green (1995)": {
+        "title": "The Big Green",
+        "year": "1995",
+        "synopsis": "A teacher on exchange from England is placed in an underachieving Texan school. She coaches the children in soccer, building their self-esteem.",
+        "directors": [
+            "Holly Goldberg Sloan"
+        ],
+        "leads": [
+            "Steve Guttenberg",
+            "Olivia d'Abo",
+            "Jay O. Sanders"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Assassins (1995)": {
+        "title": "Assassins",
+        "year": "1995",
+        "synopsis": "A paid assassin haunted by killing his own mentor hopes to retire. He spares a computer hacker with a disk while competing with a skilled rival hitman.",
+        "directors": [
+            "Richard Donner"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Antonio Banderas",
+            "Julianne Moore"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "Dead Presidents (1995)": {
+        "title": "Dead Presidents",
+        "year": "1995",
+        "synopsis": "As he returns from the Vietnam War to his home in the Bronx, Anthony struggles to support himself and his family, eventually turning to a life of crime.",
+        "directors": [
+            "Albert Hughes",
+            "Allen Hughes"
+        ],
+        "leads": [
+            "Larenz Tate",
+            "Keith David",
+            "Chris Tucker"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "To Die For (1995)": {
+        "title": "To Die For",
+        "year": "1995",
+        "synopsis": "Cable weather reporter Suzanne manipulates the teen subjects of her documentary into killing her husband. She enjoys some new media attention.",
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "leads": [
+            "Nicole Kidman",
+            "Joaquin Phoenix",
+            "Matt Dillon"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Strange Days (1995)": {
+        "title": "Strange Days",
+        "year": "1995",
+        "synopsis": "In 1999, an ex-cop finds a disc that contains the memories of a murderer killing a prostitute. He is pulled in a whirl of blackmail, murder, and rape.",
+        "directors": [
+            "Kathryn Bigelow"
+        ],
+        "leads": [
+            "Ralph Fiennes",
+            "Angela Bassett",
+            "Juliette Lewis"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Get Shorty (1995)": {
+        "title": "Get Shorty",
+        "year": "1995",
+        "synopsis": "Miami gangster and loan shark Chili Palmer gets involved in feature film production when he heads to L.A. to collect a casino debt from a film director.",
+        "directors": [
+            "Barry Sonnenfeld"
+        ],
+        "leads": [
+            "John Travolta",
+            "Gene Hackman",
+            "Rene Russo"
+        ],
+        "music": [
+            "John Lurie"
+        ]
+    },
+    "Mallrats (1995)": {
+        "title": "Mallrats",
+        "year": "1995",
+        "synopsis": "Both dumped by their girlfriends, two best friends seek refuge in the local mall. They meet up with troublemakers and hatch a plan to wreak havoc.",
+        "directors": [
+            "Kevin Smith"
+        ],
+        "leads": [
+            "Shannen Doherty",
+            "Jeremy London",
+            "Jason Lee"
+        ],
+        "music": [
+            "Ira Newborn"
+        ]
+    },
+    "Now and Then (1995)": {
+        "title": "Now and Then",
+        "year": "1995",
+        "synopsis": "In 1970, Samantha believes in seances, Roberta learns how her mother died, Chrissy is naive, and Teeny wants good looks. They enjoy a treehouse.",
+        "directors": [
+            "Lesli Linka Glatter"
+        ],
+        "leads": [
+            "Christina Ricci",
+            "Thora Birch",
+            "Gaby Hoffmann"
+        ],
+        "music": [
+            "Cliff Eidelman"
+        ]
+    },
+    "Copycat (1995)": {
+        "title": "Copycat",
+        "year": "1995",
+        "synopsis": "In San Francisco, an agoraphobic psychologist and a female detective must work together to take down a serial killer who copies known past killers.",
+        "directors": [
+            "Jon Amiel"
+        ],
+        "leads": [
+            "Sigourney Weaver",
+            "Holly Hunter",
+            "Dermot Mulroney"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Leaving Las Vegas (1995)": {
+        "title": "Leaving Las Vegas",
+        "year": "1995",
+        "synopsis": "An alcoholic Hollywood screenwriter goes to Las Vegas to drink himself to death. He develops an uneasy supportive friendship with prostitute Sera.",
+        "directors": [
+            "Mike Figgis"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Elisabeth Shue",
+            "Julian Sands"
+        ],
+        "music": [
+            "Anthony Marinelli",
+            "Mike Figgis"
+        ]
+    },
+    "Mighty Aphrodite (1995)": {
+        "title": "Mighty Aphrodite",
+        "year": "1995",
+        "synopsis": "When he discovers his adopted son is a genius, a Manhattan sportswriter married to a curator seeks his birth mother: a ditzy porn star and prostitute.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Woody Allen",
+            "Mira Sorvino",
+            "Helena Bonham Carter"
+        ],
+        "music": [
+            "Dick Hyman"
+        ]
+    },
+    "Vampire in Brooklyn (1995)": {
+        "title": "Vampire in Brooklyn",
+        "year": "1995",
+        "synopsis": "A Caribbean vampire searches for a half-human half-vampire as a wife. That woman, Rita, is the detective investigating his killings in Brooklyn.",
+        "directors": [
+            "Wes Craven"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Angela Bassett",
+            "Allen Payne"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "Fair Game (1995)": {
+        "title": "Fair Game",
+        "year": "1995",
+        "synopsis": "In Miami, a police officer protects a law attorney from a renegade KGB team out to terminate her after she attempts to seize a 157-foot freighter.",
+        "directors": [
+            "Andrew Sipes"
+        ],
+        "leads": [
+            "William Baldwin",
+            "Cindy Crawford",
+            "Steven Berkoff"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "Home for the Holidays (1995)": {
+        "title": "Home for the Holidays",
+        "year": "1995",
+        "synopsis": "After losing her job and learning her daughter Kitt will spend Thanksgiving with her boyfriend, single Claudia spends a break with her extended family.",
+        "directors": [
+            "Jodie Foster"
+        ],
+        "leads": [
+            "Holly Hunter",
+            "Robert Downey Jr.",
+            "Anne Bancroft"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Ace Ventura: When Nature Calls (1995)": {
+        "title": "Ace Ventura: When Nature Calls",
+        "year": "1995",
+        "synopsis": "A pet detective returns from a spiritual quest to investigate the disappearance of a rare white bat, the sacred animal of a tribe in Africa.",
+        "directors": [
+            "Steve Oedekerk"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Ian McNeice",
+            "Simon Callow"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "GoldenEye (1995)": {
+        "title": "GoldenEye",
+        "year": "1995",
+        "synopsis": "Bond battles thought-dead MI6 agent Trevelyan and assassin Xenia Onatopp as their Janus crime syndicate takes a Soviet satellite weapon system.",
+        "directors": [
+            "Martin Campbell"
+        ],
+        "leads": [
+            "Pierce Brosnan",
+            "Sean Bean",
+            "Izabella Scorupco"
+        ],
+        "music": [
+            "\u00c9ric Serra"
+        ]
+    },
+    "It Takes Two (1995)": {
+        "title": "It Takes Two",
+        "year": "1995",
+        "synopsis": "Little orphan Amanda meets identical Alyssa. The two form a plan to get Alyssa's wealthy father in love with Amanda's social worker, not his fianc\u00e9e.",
+        "directors": [
+            "Andy Tennant"
+        ],
+        "leads": [
+            "Kirstie Alley",
+            "Steve Guttenberg",
+            "Mary-Kate Olsen"
+        ],
+        "music": [
+            "Sherman Foote",
+            "Ray Foote"
+        ]
+    },
+    "The American President (1995)": {
+        "title": "The American President",
+        "year": "1995",
+        "synopsis": "A widowed U.S. President running for reelection and an environmental lobbyist fall in love. It's all above-board, but \"politics is perception,\" and sparks fly anyway.",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Annette Bening",
+            "Martin Sheen"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Casino (1995)": {
+        "title": "Casino",
+        "year": "1995",
+        "synopsis": "In 1973, sports handicapper Ace Rothstein is sent by the Chicago mafia to oversee the operations at the Tangiers in Las Vegas. He marries a hustler.",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Sharon Stone",
+            "Joe Pesci"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Money Train (1995)": {
+        "title": "Money Train",
+        "year": "1995",
+        "synopsis": "In New York, John and Charlie are foster brothers and transit police. When Charlie needs to pay off gambling debts, he schemes to rob subway fares.",
+        "directors": [
+            "Joseph Ruben"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Woody Harrelson",
+            "Jennifer Lopez"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "Nick of Time (1995)": {
+        "title": "Nick of Time",
+        "year": "1995",
+        "synopsis": "In Los Angeles, a widowed accountant is forced by two strangers in suits to murder a governor in exchange for his kidnapped daughter's freedom.",
+        "directors": [
+            "John Badham"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Christopher Walken",
+            "Charles S. Dutton"
+        ],
+        "music": [
+            "Arthur B. Rubinstein"
+        ]
+    },
+    "Toy Story (1995)": {
+        "title": "Toy Story",
+        "year": "1995",
+        "synopsis": "A cowboy doll is jealous when a spaceman figure supplants him as top toy in a boy's room. The two must unite after they are trapped with a neighbor.",
+        "directors": [
+            "John Lasseter"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Don Rickles"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Father of the Bride Part II (1995)": {
+        "title": "Father of the Bride Part II",
+        "year": "1995",
+        "synopsis": "Four years after his daughter's marriage, George deals with not only the pregnancy of his daughter but also the middle-aged pregnancy of his wife.",
+        "directors": [
+            "Charles Shyer"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Diane Keaton",
+            "Martin Short"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Sense and Sensibility (1995)": {
+        "title": "Sense and Sensibility",
+        "year": "1995",
+        "synopsis": "When responsible Elinor's father dies, her family's finances are crippled. She and her impulsive sister seek love as their lives constantly change.",
+        "directors": [
+            "Ang Lee"
+        ],
+        "leads": [
+            "Emma Thompson",
+            "Alan Rickman",
+            "Kate Winslet"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Heat (1995)": {
+        "title": "Heat",
+        "year": "1995",
+        "synopsis": "A master thief plans one last big heist. An LAPD detective tries to hunt him down as he deals with his unfaithful wife and mentally sick stepdaughter.",
+        "directors": [
+            "Michael Mann"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Robert De Niro",
+            "Tom Sizemore"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "Jumanji (1995)": {
+        "title": "Jumanji",
+        "year": "1995",
+        "synopsis": "Siblings Judy and Peter play a magic board game that releases Alan, trapped since 1969. They find Sarah and work to survive jungle-related dangers.",
+        "directors": [
+            "Joe Johnston"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Kirsten Dunst",
+            "David Alan Grier"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Sabrina (1995)": {
+        "title": "Sabrina",
+        "year": "1995",
+        "synopsis": "A chauffeur's daughter harbors feelings for a rich playboy. Athough she soon gets his attention, his older, work-minded brother tries to break them up.",
+        "directors": [
+            "Sydney Pollack"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Julia Ormond",
+            "Greg Kinnear"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Balto (1995)": {
+        "title": "Balto",
+        "year": "1995",
+        "synopsis": "An outcast Husky risks his life with other sled dogs to prevent a deadly epidemic from ravaging Nome, Alaska.",
+        "directors": [
+            "Simon Wells"
+        ],
+        "leads": [
+            "Kevin Bacon",
+            "Bridget Fonda",
+            "Phil Collins"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Cutthroat Island (1995)": {
+        "title": "Cutthroat Island",
+        "year": "1995",
+        "synopsis": "In 1668, a female pirate and her Latin-speaking thief companion race against their rivals to find a hidden island that contains a large gold treasure.",
+        "directors": [
+            "Renny Harlin"
+        ],
+        "leads": [
+            "Geena Davis",
+            "Matthew Modine",
+            "Frank Langella"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Dracula: Dead and Loving It (1995)": {
+        "title": "Dracula: Dead and Loving It",
+        "year": "1995",
+        "synopsis": "Dapper Count Dracula relocates from his castle to London with his slavish solicitor assistant Renfield in search of blood. He finds it in Mina and Lucy.",
+        "directors": [
+            "Mel Brooks"
+        ],
+        "leads": [
+            "Leslie Nielsen",
+            "Peter MacNicol",
+            "Steven Weber"
+        ],
+        "music": [
+            "Hummie Mann"
+        ]
+    },
+    "Nixon (1995)": {
+        "title": "Nixon",
+        "year": "1995",
+        "synopsis": "In 1968, Richard Nixon seizes the chance to take the Presidency with backlash against the antiwar movement. His paranoia grows, bringing scandal.",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "leads": [
+            "Anthony Hopkins",
+            "Joan Allen",
+            "Powers Boothe"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Sudden Death (1995)": {
+        "title": "Sudden Death",
+        "year": "1995",
+        "synopsis": "In Pittsburgh, a former fireman with two children takes on terrorists holding the Vice President and others for hostage during the Stanley Cup Finals.",
+        "directors": [
+            "Peter Hyams"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Powers Boothe",
+            "Raymond J. Barry"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Waiting to Exhale (1995)": {
+        "title": "Waiting to Exhale",
+        "year": "1995",
+        "synopsis": "Cheated on, mistreated and stepped on, four women hold their breath, waiting for good men to break their strings of less-than-stellar lovers.",
+        "directors": [
+            "Forest Whitaker"
+        ],
+        "leads": [
+            "Whitney Houston",
+            "Angela Bassett",
+            "Loretta Devine"
+        ],
+        "music": [
+            "Kenneth \"Babyface\" Edmonds"
+        ]
+    },
+    "Four Rooms (1995)": {
+        "title": "Four Rooms",
+        "year": "1995",
+        "synopsis": "On New Year's Eve in Los Angeles, on Ted the bellhop\u2019s first night on the job, the hotel\u2019s unusual guests place him in four shocking predicaments.",
+        "directors": [
+            "Allison Anders",
+            "Alexandre Rockwell",
+            "Robert Rodriguez",
+            "Quentin Tarantino"
+        ],
+        "leads": [
+            "Tim Roth",
+            "Antonio Banderas",
+            "Jennifer Beals"
+        ],
+        "music": [
+            "Combustible Edison"
+        ]
+    },
+    "12 Monkeys (1995)": {
+        "title": "12 Monkeys",
+        "year": "1995",
+        "synopsis": "In 2035, a prisoner is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.",
+        "directors": [
+            "Terry Gilliam"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Madeleine Stowe",
+            "Brad Pitt"
+        ],
+        "music": [
+            "Paul Buckmaster"
+        ]
+    },
+    "Dead Man Walking (1995)": {
+        "title": "Dead Man Walking",
+        "year": "1995",
+        "synopsis": "A nun, while comforting a convicted killer on death row, empathizes with both the killer and his victim's families.",
+        "directors": [
+            "Tim Robbins"
+        ],
+        "leads": [
+            "Susan Sarandon",
+            "Sean Penn",
+            "Robert Prosky"
+        ],
+        "music": [
+            "David Robbins"
+        ]
+    },
+    "Mr. Holland's Opus (1995)": {
+        "title": "Mr. Holland's Opus",
+        "year": "1995",
+        "synopsis": "A dedicated high school music teacher attempts to compose his own music while struggling to juggle his job and life with his wife and deaf son. ",
+        "directors": [
+            "Stephen Herek"
+        ],
+        "leads": [
+            "Richard Dreyfuss",
+            "Glenne Headly",
+            "Jay Thomas"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Bio-Dome (1996)": {
+        "title": "Bio-Dome",
+        "year": "1996",
+        "synopsis": "Two moronic best friends get themselves sealed inside a closed ecological system along with five environmental scientists isolated for one full year.",
+        "directors": [
+            "Jason Bloom"
+        ],
+        "leads": [
+            "Pauly Shore",
+            "Stephen Baldwin",
+            "William Atherton"
+        ],
+        "music": [
+            "Andrew Gross"
+        ]
+    },
+    "Don't Be a Menace to South Central While Drinking Your Juice in the Hood (1996)": {
+        "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+        "year": "1996",
+        "synopsis": "When Ashtray moves to South Central L.A. to live with his same-aged father and grandmother, he falls in with his gang-banging cousin Loc Dog.",
+        "directors": [
+            "Paris Barclay"
+        ],
+        "leads": [
+            "Shawn Wayans",
+            "Marlon Wayans",
+            "Tracey Cherelle Jones"
+        ],
+        "music": [
+            "John Barnes"
+        ]
+    },
+    "Eye for an Eye (1996)": {
+        "title": "Eye for an Eye",
+        "year": "1996",
+        "synopsis": "When a trial fails to keep behind bars the delivery man who raped and murdered her 17-year-old daughter, a woman seeks her own form of justice.",
+        "directors": [
+            "John Schlesinger"
+        ],
+        "leads": [
+            "Sally Field",
+            "Kiefer Sutherland",
+            "Ed Harris"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Two If by Sea (1996)": {
+        "title": "Two If by Sea",
+        "year": "1996",
+        "synopsis": "Frank and Roz steal a Matisse painting as part of a contract. They escape the police and expect to sell in four days on an island, but the FBI comes.",
+        "directors": [
+            "Bill Bennett"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Denis Leary",
+            "Stephen Dillane"
+        ],
+        "music": [
+            "Nick Glennie-Smith",
+            "Paddy Moloney"
+        ]
+    },
+    "From Dusk till Dawn (1996)": {
+        "title": "From Dusk till Dawn",
+        "year": "1996",
+        "synopsis": "Two bank robbers and their three family hostages unknowingly seek temporary refuge in a Mexican strip club bar populated by bloodthirsty vampires.",
+        "directors": [
+            "Robert Rodriguez"
+        ],
+        "leads": [
+            "Harvey Keitel",
+            "George Clooney",
+            "Quentin Tarantino"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Black Sheep (1996)": {
+        "title": "Black Sheep",
+        "year": "1996",
+        "synopsis": "A gubernatorial candidate hires a wormy assistant whose only job is to ensure his well-meaning but incompetent brother does not ruin the election.",
+        "directors": [
+            "Penelope Spheeris"
+        ],
+        "leads": [
+            "Chris Farley",
+            "David Spade",
+            "Tim Matheson"
+        ],
+        "music": [
+            "William Ross"
+        ]
+    },
+    "The Juror (1996)": {
+        "title": "The Juror",
+        "year": "1996",
+        "synopsis": "A single mother is picked for jury duty for a mafia trial, but she is intimidated by an obsessive mob enforcer to convince the others to vote not guilty.",
+        "directors": [
+            "Brian Gibson"
+        ],
+        "leads": [
+            "Demi Moore",
+            "Alec Baldwin",
+            "James Gandolfini"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The NeverEnding Story III: Escape from Fantasia (1996)": {
+        "title": "The NeverEnding Story III: Escape from Fantasia",
+        "year": "1996",
+        "synopsis": "A young boy must restore order when a group of bullies steal the magical book that acts as a portal between Earth and the imaginary world of Fantasia.",
+        "directors": [
+            "Peter MacDonald"
+        ],
+        "leads": [
+            "Jason James Richter",
+            "Melody Kay",
+            "Jack Black"
+        ],
+        "music": [
+            "Peter Wolf"
+        ]
+    },
+    "White Squall (1996)": {
+        "title": "White Squall",
+        "year": "1996",
+        "synopsis": "Teenagers Chuck, Frank, Gil, and Dean learn in a school training voyage aboard while on Skipper's ship. A freak storm leads to four people drowning.",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "leads": [
+            "Jeff Bridges",
+            "Caroline Goodall",
+            "John Savage"
+        ],
+        "music": [
+            "Jeff Rona"
+        ]
+    },
+    "Beautiful Girls (1996)": {
+        "title": "Beautiful Girls",
+        "year": "1996",
+        "synopsis": "A jazz pianist at a crossroads in his life returns to Massachusetts to his three friends with their own life and love problems for a high school reunion.",
+        "directors": [
+            "Ted Demme"
+        ],
+        "leads": [
+            "Timothy Hutton",
+            "Matt Dillon",
+            "Michael Rapaport"
+        ],
+        "music": [
+            "David A. Stewart"
+        ]
+    },
+    "Broken Arrow (1996)": {
+        "title": "Broken Arrow",
+        "year": "1996",
+        "synopsis": "Two Air Force pilots are flying with two nuclear warheads when one betrays the other. A female park ranger and the survivor must stop terrorists.",
+        "directors": [
+            "John Woo"
+        ],
+        "leads": [
+            "John Travolta",
+            "Christian Slater",
+            "Samantha Mathis"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "City Hall (1996)": {
+        "title": "City Hall",
+        "year": "1996",
+        "synopsis": "In New York, a detective and a mobster kill each other, but a stray bullet kills a boy. A loyal deputy mayor and a legal aid decide to dig for answers.",
+        "directors": [
+            "Harold Becker"
+        ],
+        "leads": [
+            "Al Pacino",
+            "John Cusack",
+            "Bridget Fonda"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Happy Gilmore (1996)": {
+        "title": "Happy Gilmore",
+        "year": "1996",
+        "synopsis": "Rejected hockey player Happy plays golf to earn money for his grandmother's house. He is taught by Chubbs as arrogant Shooter detests his antics.",
+        "directors": [
+            "Dennis Dugan"
+        ],
+        "leads": [
+            "Adam Sandler",
+            "Christopher McDonald",
+            "Julie Bowen"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ]
+    },
+    "Muppet Treasure Island (1996)": {
+        "title": "Muppet Treasure Island",
+        "year": "1996",
+        "synopsis": "After orphan Jim, Gonzo, and Rizzo escape from pirates, they hire a crew to find a hidden treasure revealed by ex-pirate Billy Bones before he died. ",
+        "directors": [
+            "Brian Henson"
+        ],
+        "leads": [
+            "Tim Curry",
+            "Kevin Bishop",
+            "Jennifer Saunders"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Bottle Rocket (1996)": {
+        "title": "Bottle Rocket",
+        "year": "1996",
+        "synopsis": "Upon his release from a mental hospital following a nervous breakdown, the directionless Anthony joins his friend Dignan, who seems far less sane than the former. ",
+        "directors": [
+            "Wes Anderson"
+        ],
+        "leads": [
+            "Owen Wilson",
+            "Luke Wilson",
+            "Robert Musgrave"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ]
+    },
+    "Mary Reilly (1996)": {
+        "title": "Mary Reilly",
+        "year": "1996",
+        "synopsis": "Maid Mary falls for Dr. Jekyll yet is repulsed and fascinated by his mean assistant Mr. Hyde. She learns Jekyll uses a serum that makes him Hyde.",
+        "directors": [
+            "Stephen Frears"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "John Malkovich",
+            "George Cole"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Rumble in the Bronx (1996)": {
+        "title": "Rumble in the Bronx",
+        "year": "1996",
+        "synopsis": "A Hong Kong man visiting and helping his uncle in New York City finds himself forced to fight a street gang and the mob with his martial art skills.",
+        "directors": [
+            "Stanley Tong"
+        ],
+        "leads": [
+            "Jackie Chan",
+            "Anita Mui",
+            "Fran\u00e7oise Yip"
+        ],
+        "music": [
+            "J. Peter Robinson",
+            "Nathan Wong"
+        ]
+    },
+    "Down Periscope (1996)": {
+        "title": "Down Periscope",
+        "year": "1996",
+        "synopsis": "Dodge is saddled with misfit seamen as the crew of his first command, a rusty diesel submarine refurbished for participation in a naval war game.",
+        "directors": [
+            "David S. Ward"
+        ],
+        "leads": [
+            "Kelsey Grammer",
+            "Lauren Holly",
+            "Rob Schneider"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Up Close & Personal (1996)": {
+        "title": "Up Close & Personal",
+        "year": "1996",
+        "synopsis": "Ambitious Tally, determined to build her career in television journalism, gets advice from her station manager Warren. They fall in love while learning.",
+        "directors": [
+            "Jon Avnet"
+        ],
+        "leads": [
+            "Robert Redford",
+            "Michelle Pfeiffer",
+            "Stockard Channing"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Fargo (1996)": {
+        "title": "Fargo",
+        "year": "1996",
+        "synopsis": "Jerry's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "leads": [
+            "Frances McDormand",
+            "William H. Macy",
+            "Steve Buscemi"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Hellraiser: Bloodline (1996)": {
+        "title": "Hellraiser: Bloodline",
+        "year": "1996",
+        "synopsis": "In 2127, a scientist attempts to right the wrong his ancestor created: the puzzle box that opens the gates of Hell and unleashes Pinhead and his Cenobite legions.",
+        "directors": [
+            "Kevin Yagher",
+            "Joe Chappelle"
+        ],
+        "leads": [
+            "Bruce Ramsay",
+            "Valentina Vargas",
+            "Doug Bradley"
+        ],
+        "music": [
+            "Daniel Licht"
+        ]
+    },
+    "The Birdcage (1996)": {
+        "title": "The Birdcage",
+        "year": "1996",
+        "synopsis": "Gay drag club owner Armand and his drag queen partner Albert pretend to be straight so their son can show them to his fianc\u00e9e's right-wing parents.",
+        "directors": [
+            "Mike Nichols"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Gene Hackman",
+            "Nathan Lane"
+        ],
+        "music": [
+            "Jonathan Tunick"
+        ]
+    },
+    "Ed (1996)": {
+        "title": "Ed",
+        "year": "1996",
+        "synopsis": "A talented pitcher befriends a trained chimpanzee who plays third base for the minor league baseball team the Santa Rosa Rockets with him.",
+        "directors": [
+            "Bill Couturi\u00e9"
+        ],
+        "leads": [
+            "Matt LeBlanc",
+            "Jayne Brook",
+            "Bill Cobbs"
+        ],
+        "music": [
+            "Stephen Endelman"
+        ]
+    },
+    "Executive Decision (1996)": {
+        "title": "Executive Decision",
+        "year": "1996",
+        "synopsis": "When terrorists seize control of an airliner to free a leader, an intelligence analyst accompanies a commando group for a midair boarding operation.",
+        "directors": [
+            "Stuart Baird"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "Halle Berry",
+            "John Leguizamo"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Flirting with Disaster (1996)": {
+        "title": "Flirting with Disaster",
+        "year": "1996",
+        "synopsis": "A man, his wife, their baby, and his incompetent case worker travel from New York to San Diego to New Mexico to locate and meet his birth parents.",
+        "directors": [
+            "David O. Russell"
+        ],
+        "leads": [
+            "Ben Stiller",
+            "Patricia Arquette",
+            "T\u00e9a Leoni"
+        ],
+        "music": [
+            "Stephen Endelman"
+        ]
+    },
+    "Girl 6 (1996)": {
+        "title": "Girl 6",
+        "year": "1996",
+        "synopsis": "In New York, a timid, aspiring black actress who is disappointed by her uncomfortable treatment in the industry turns to phone sex to make a living.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Theresa Randle",
+            "Isaiah Washington",
+            "Spike Lee"
+        ],
+        "music": [
+            "Prince"
+        ]
+    },
+    "All Dogs Go to Heaven 2 (1996)": {
+        "title": "All Dogs Go to Heaven 2",
+        "year": "1996",
+        "synopsis": "Dogs Charlie and Itchy head to Earth for Gabriel's Horn, taken by Carface. They meet eight-year-old David, who ran from home to become a magician.",
+        "directors": [
+            "Paul Sabella",
+            "Larry Leker"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Sheena Easton",
+            "Ernest Borgnine"
+        ],
+        "music": [
+            "Mark Watters"
+        ]
+    },
+    "A Thin Line Between Love and Hate (1996)": {
+        "title": "A Thin Line Between Love and Hate",
+        "year": "1996",
+        "synopsis": "Nightclub manager Darnell wins the heart of the ultra classy Brandi, but she is hard to get rid of, especially when she realizes that she has a rival.",
+        "directors": [
+            "Martin Lawrence"
+        ],
+        "leads": [
+            "Martin Lawrence",
+            "Lynn Whitfield",
+            "Regina King"
+        ],
+        "music": [
+            "Roger Troutman"
+        ]
+    },
+    "Primal Fear (1996)": {
+        "title": "Primal Fear",
+        "year": "1996",
+        "synopsis": "In Chicago, a defense attorney believes that his altar boy client who has multiple personalities is not guilty of killing a beloved Catholic archbishop.",
+        "directors": [
+            "Gregory Hoblit"
+        ],
+        "leads": [
+            "Richard Gere",
+            "Edward Norton",
+            "Laura Linney"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "James and the Giant Peach (1996)": {
+        "title": "James and the Giant Peach",
+        "year": "1996",
+        "synopsis": "An orphan who lives with his two sadistic aunts befriends insects who live inside a big peach pit, and they embark on a journey to New York City.",
+        "directors": [
+            "Henry Selick"
+        ],
+        "leads": [
+            "Paul Terry",
+            "Simon Callow",
+            "Richard Dreyfuss"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Celtic Pride (1996)": {
+        "title": "Celtic Pride",
+        "year": "1996",
+        "synopsis": "Two over-loyal Boston Celtics fans kidnap the star player of their opponent Utah Jazz in the NBA Finals to guarantee their team the championship.",
+        "directors": [
+            "Tom DeCerchio"
+        ],
+        "leads": [
+            "Damon Wayans",
+            "Daniel Stern",
+            "Dan Aykroyd"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Mulholland Falls (1996)": {
+        "title": "Mulholland Falls",
+        "year": "1996",
+        "synopsis": "In 1950s L.A., Max leads a four-man crime squad that investigate the murder of Allison, a prostitute he had known well despite being married to Kate.",
+        "directors": [
+            "Lee Tamahori"
+        ],
+        "leads": [
+            "Nick Nolte",
+            "Melanie Griffith",
+            "Chazz Palminteri"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "The Quest (1996)": {
+        "title": "The Quest",
+        "year": "1996",
+        "synopsis": "In 1925 New York, a pickpocket that aids orphans is kept by pirates, sold into slavery, and sent to a Tibet fight tournament to win the Golden Dragon.",
+        "directors": [
+            "Jean-Claude Van Damme"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Roger Moore",
+            "James Remar"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "The Truth About Cats & Dogs (1996)": {
+        "title": "The Truth About Cats & Dogs",
+        "year": "1996",
+        "synopsis": "A successful veternarian and radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.",
+        "directors": [
+            "Michael Lehmann"
+        ],
+        "leads": [
+            "Uma Thurman",
+            "Janeane Garofalo",
+            "Ben Chaplin"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Barb Wire (1996)": {
+        "title": "Barb Wire",
+        "year": "1996",
+        "synopsis": "In 2017, Barbara owns a nightclub called the Hammerhead. Things become complex when her ex-lover, married to a fugitive, re-enters her life.",
+        "directors": [
+            "David Hogan"
+        ],
+        "leads": [
+            "Pamela Anderson Lee",
+            "Temuera Morrison",
+            "Victoria Rowell"
+        ],
+        "music": [
+            "Michel Colombier"
+        ]
+    },
+    "The Craft (1996)": {
+        "title": "The Craft",
+        "year": "1996",
+        "synopsis": "A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft, and they all soon conjure up various spells and curses against those who anger them.",
+        "directors": [
+            "Andrew Fleming"
+        ],
+        "leads": [
+            "Fairuza Balk",
+            "Robin Tunney",
+            "Neve Campbell"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Twister (1996)": {
+        "title": "Twister",
+        "year": "1996",
+        "synopsis": "Advanced storm chasers on the brink of divorce must create an advanced weather alert system by placing themselves in the hearts of tornadoes.",
+        "directors": [
+            "Jan de Bont"
+        ],
+        "leads": [
+            "Helen Hunt",
+            "Bill Paxton",
+            "Jami Gertz"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "Flipper (1996)": {
+        "title": "Flipper",
+        "year": "1996",
+        "synopsis": "A teenage boy sent to spend the summer with his eccentric uncle on the Florida coast befriends a remarkable dolphin and takes on local polluters.",
+        "directors": [
+            "Alan Shapiro"
+        ],
+        "leads": [
+            "Paul Hogan",
+            "Elijah Wood",
+            "Chelsea Field"
+        ],
+        "music": [
+            "Joel McNeely"
+        ]
+    },
+    "Mission: Impossible (1996)": {
+        "title": "Mission: Impossible",
+        "year": "1996",
+        "synopsis": "IMF agent Ethan Hunt is a lone survivor of a NOC list mission, so he is believed to be a mole for an arms dealer. He escapes to name the real traitor.",
+        "directors": [
+            "Brian De Palma"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Jon Voight",
+            "Henry Czerny"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Spy Hard (1996)": {
+        "title": "Spy Hard",
+        "year": "1996",
+        "synopsis": "Agent WD-40 Dick Steele is assigned to stop the evil, armless General Rancor from destroying the world. He teams up with a mysterious KGB agent.",
+        "directors": [
+            "Rick Friedberg"
+        ],
+        "leads": [
+            "Leslie Nielsen",
+            "Nicollette Sheridan",
+            "Charles Durning"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "Welcome to the Dollhouse (1996)": {
+        "title": "Welcome to the Dollhouse",
+        "year": "1996",
+        "synopsis": "In New Jersey, a lonely seventh-grader struggles to cope with inattentive parents, snobbish peers, failed romantic pursuits, and her own insecurities.",
+        "directors": [
+            "Todd Solondz"
+        ],
+        "leads": [
+            "Heather Matarazzo",
+            "Brendan Sexton III",
+            "Eric Mabius"
+        ],
+        "music": [
+            "Jill Wisoff"
+        ]
+    },
+    "Dragonheart (1996)": {
+        "title": "Dragonheart",
+        "year": "1996",
+        "synopsis": "In England, the last dragon and a dragonslaying knight must cooperate to stop a king given partial immortality when the dragon shared his heart.",
+        "directors": [
+            "Rob Cohen"
+        ],
+        "leads": [
+            "Dennis Quaid",
+            "David Thewlis",
+            "Pete Postlethwaite"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Eddie (1996)": {
+        "title": "Eddie",
+        "year": "1996",
+        "synopsis": "A limo driver and a fanatical follower of the New York Knicks wins an honorary coach contest, but the team's owner fires their coach and hires her.",
+        "directors": [
+            "Steve Rash"
+        ],
+        "leads": [
+            "Whoopi Goldberg",
+            "Frank Langella",
+            "Dennis Farina"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "The Phantom (1996)": {
+        "title": "The Phantom",
+        "year": "1996",
+        "synopsis": "A descendent of African superheroes travels to New York to thwart a criminal genius who wants three magic skulls that would give ultimate power.",
+        "directors": [
+            "Simon Wincer"
+        ],
+        "leads": [
+            "Billy Zane",
+            "Treat Williams",
+            "Kristy Swanson"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "The Rock (1996)": {
+        "title": "The Rock",
+        "year": "1996",
+        "synopsis": "A mild chemist and an ex-con face a rogue group, led by a renegade general, that threaten a nerve gas attack from Alcatraz against San Francisco.",
+        "directors": [
+            "Michael Bay"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Nicolas Cage",
+            "Ed Harris"
+        ],
+        "music": [
+            "Nick Glennie-Smith",
+            "Hans Zimmer"
+        ]
+    },
+    "The Cable Guy (1996)": {
+        "title": "The Cable Guy",
+        "year": "1996",
+        "synopsis": "A lonely and mentally disturbed cable guy raised on television just wants a new friend, but his target, a designer, rejects him, with bad consequences.",
+        "directors": [
+            "Ben Stiller"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Matthew Broderick",
+            "Leslie Mann"
+        ],
+        "music": [
+            "John Ottman"
+        ]
+    },
+    "Eraser (1996)": {
+        "title": "Eraser",
+        "year": "1996",
+        "synopsis": "U.S Marshal of WITSEC John Marshal protects Lee, a senior operative testifying about an illegal arms deal, and is forced to fight his former allies.",
+        "directors": [
+            "Chuck Russell"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "James Caan",
+            "Vanessa Williams"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Lone Star (1996)": {
+        "title": "Lone Star",
+        "year": "1996",
+        "synopsis": "In Rio County, when the skeleton of his murdered predecessor is found, Sheriff Sam learns secrets of his famous father Buddy, gambling, and deceit.",
+        "directors": [
+            "John Sayles"
+        ],
+        "leads": [
+            "Chris Cooper",
+            "Matthew McConaughey",
+            "Kris Kristofferson"
+        ],
+        "music": [
+            "Mason Daring"
+        ]
+    },
+    "The Hunchback of Notre Dame (1996)": {
+        "title": "The Hunchback of Notre Dame",
+        "year": "1996",
+        "synopsis": "A deformed bell-ringer must assert his independence from a vicious government minister in order to help his friend, a gypsy dancer.",
+        "directors": [
+            "Gary Trousdale",
+            "Kirk Wise"
+        ],
+        "leads": [
+            "Tom Hulce",
+            "Demi Moore",
+            "Tony Jay"
+        ],
+        "music": [
+            "Alan Menken"
+        ]
+    },
+    "The Nutty Professor (1996)": {
+        "title": "The Nutty Professor",
+        "year": "1996",
+        "synopsis": "Grossly overweight yet good-hearted professor Sherman Klump takes a special chemical that turns him into the slim but obnoxious Buddy Love.",
+        "directors": [
+            "Tom Shadyac"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Jada Pinkett",
+            "James Coburn"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Independence Day (1996)": {
+        "title": "Independence Day",
+        "year": "1996",
+        "synopsis": "After aliens invade and fire beams on major cities, pilot Steve and engineer David launch an all-out counterattack on the enemy with better weaponry.",
+        "directors": [
+            "Roland Emmerich"
+        ],
+        "leads": [
+            "Will Smith",
+            "Bill Pullman",
+            "Jeff Goldblum"
+        ],
+        "music": [
+            "David Arnold"
+        ]
+    },
+    "Phenomenon (1996)": {
+        "title": "Phenomenon",
+        "year": "1996",
+        "synopsis": "An ordinary auto mechanic sees a bright light descend from the sky, and discovers he now has superintelligence and telekinesis.",
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "leads": [
+            "John Travolta",
+            "Kyra Sedgwick",
+            "Forest Whitaker"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Courage Under Fire (1996)": {
+        "title": "Courage Under Fire",
+        "year": "1996",
+        "synopsis": "A U.S. Army officer, despondent about a deadly mistake he made, investigates a female chopper commander's worthiness for the Medal of Honor.",
+        "directors": [
+            "Edward Zwick"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Meg Ryan",
+            "Lou Diamond Phillips"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Kazaam (1996)": {
+        "title": "Kazaam",
+        "year": "1996",
+        "synopsis": "12-year-old Max, who wants to reunite with his father, releases from a boombox a 5,000-year-old genie who must grant him three material wishes.",
+        "directors": [
+            "Paul Michael Glaser"
+        ],
+        "leads": [
+            "Shaquille O'Neal",
+            "Francis Capra",
+            "Ally Walker"
+        ],
+        "music": [
+            "Christopher Tyng"
+        ]
+    },
+    "Multiplicity (1996)": {
+        "title": "Multiplicity",
+        "year": "1996",
+        "synopsis": "In L.A., a construction worker who never has time to spend with his family uses a machine to create three clones of himself with different personalities.",
+        "directors": [
+            "Harold Ramis"
+        ],
+        "leads": [
+            "Michael Keaton",
+            "Andie MacDowell",
+            "Harris Yulin"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "The Frighteners (1996)": {
+        "title": "The Frighteners",
+        "year": "1996",
+        "synopsis": "After a car accident kills his wife, a man can talk to the dead, a skill he then uses to con people. Only he can stop a demonic spirit that appears.",
+        "directors": [
+            "Peter Jackson"
+        ],
+        "leads": [
+            "Michael J. Fox",
+            "Trini Alvarado",
+            "Peter Dobson"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Trainspotting (1996)": {
+        "title": "Trainspotting",
+        "year": "1996",
+        "synopsis": "Renton, deeply immersed in the Edinburgh drug scene, tries to clean up and get out, despite the allure of the drugs and influence of friends.",
+        "directors": [
+            "Danny Boyle"
+        ],
+        "leads": [
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Jonny Lee Miller"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "A Time to Kill (1996)": {
+        "title": "A Time to Kill",
+        "year": "1996",
+        "synopsis": "In Clanton, Mississippi, a young lawyer and his assistant defend a black man who killed two local white men who raped his 10-year-old daughter.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Samuel L. Jackson",
+            "Matthew McConaughey"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "Kingpin (1996)": {
+        "title": "Kingpin",
+        "year": "1996",
+        "synopsis": "An alcoholic ex-professional bowler who lost his right hand becomes the manager for a promising Amish talent he manages for a Reno tournament.",
+        "directors": [
+            "Peter Farrelly",
+            "Bobby Farrelly"
+        ],
+        "leads": [
+            "Woody Harrelson",
+            "Randy Quaid",
+            "Vanessa Angel"
+        ],
+        "music": [
+            "Freedy Johnston"
+        ]
+    },
+    "Supercop (1996)": {
+        "title": "Supercop",
+        "year": "1996",
+        "synopsis": "A top Hong Kong detective with martial art skills teams up with a female Chinese inspector to stop a drug lord by posing as a petty criminal prisoner.",
+        "directors": [
+            "Stanley Tong"
+        ],
+        "leads": [
+            "Jackie Chan",
+            "Michelle Yeoh",
+            "Maggie Cheung"
+        ],
+        "music": [
+            "Mac Chew",
+            "Jenny Chinn",
+            "Jonathan Lee"
+        ]
+    },
+    "Chain Reaction (1996)": {
+        "title": "Chain Reaction",
+        "year": "1996",
+        "synopsis": "In Chicago, two researchers in a green alternative energy project are put on the run when they are framed for murder and treason after an explosion.",
+        "directors": [
+            "Andrew Davis"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Morgan Freeman",
+            "Rachel Weisz"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Emma (1996)": {
+        "title": "Emma",
+        "year": "1996",
+        "synopsis": "In early 19th-century England, while matchmaking her friend with a minister, a young woman nearly misses her chance at love with a family friend.",
+        "directors": [
+            "Douglas McGrath"
+        ],
+        "leads": [
+            "Gwyneth Paltrow",
+            "Toni Collette",
+            "Alan Cumming"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Matilda (1996)": {
+        "title": "Matilda",
+        "year": "1996",
+        "synopsis": "An extraordinarily intelligent young girl from a cruel and uncaring family discovers she possesses telekinetic powers and is sent off to a school headed by a tyrannical principal.",
+        "directors": [
+            "Danny DeVito"
+        ],
+        "leads": [
+            "Mara Wilson",
+            "Embeth Davidtz",
+            "Pam Ferris"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Escape from L.A. (1996)": {
+        "title": "Escape from L.A.",
+        "year": "1996",
+        "synopsis": "In 2013, Snake is called in by the government to recover a satellite superweapon from L.A., which has become an island for deported undesirables.",
+        "directors": [
+            "John Carpenter"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "Stacy Keach",
+            "Steve Buscemi"
+        ],
+        "music": [
+            "John Carpenter",
+            "Shirley Walker"
+        ]
+    },
+    "Jack (1996)": {
+        "title": "Jack",
+        "year": "1996",
+        "synopsis": "A boy looks 40 years old because a disorder ages him four times faster. At his first public school, he gradually befriends peers and falls for his teacher.",
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Diane Lane",
+            "Jennifer Lopez"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Tales from the Crypt Presents: Bordello of Blood (1996)": {
+        "title": "Tales from the Crypt Presents: Bordello of Blood",
+        "year": "1996",
+        "synopsis": "A private investigator seeking a missing brother looks into a bordello with vampire prostitutes and must work with a televangelist to stop all of them.",
+        "directors": [
+            "Gilbert Adler"
+        ],
+        "leads": [
+            "Dennis Miller",
+            "Erika Eleniak",
+            "Angie Everhart"
+        ],
+        "music": [
+            "Chris Boardman"
+        ]
+    },
+    "The Fan (1996)": {
+        "title": "The Fan",
+        "year": "1996",
+        "synopsis": "In San Francisco, a skilled Giants baseball player becomes the unhealthy focus of an unlucky knife salesman who tries to help by kidnapping his son.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Wesley Snipes",
+            "Benicio del Toro"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "Tin Cup (1996)": {
+        "title": "Tin Cup",
+        "year": "1996",
+        "synopsis": "A washed-up golf pro working at a driving range tries to qualify for the U.S. Open to win the heart of his golfing rival's clinical psychologist girlfriend.",
+        "directors": [
+            "Ron Shelton"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Rene Russo",
+            "Cheech Marin"
+        ],
+        "music": [
+            "William Ross"
+        ]
+    },
+    "A Very Brady Sequel (1996)": {
+        "title": "A Very Brady Sequel",
+        "year": "1996",
+        "synopsis": "The Bradys are surprised when a man claiming to be Carol's long-lost husband comes. In reality, he is looking for their horse artifact worth $20 million.",
+        "directors": [
+            "Arlene Sanford"
+        ],
+        "leads": [
+            "Shelley Long",
+            "Gary Cole",
+            "Tim Matheson"
+        ],
+        "music": [
+            "Guy Moon"
+        ]
+    },
+    "Freeway (1996)": {
+        "title": "Freeway",
+        "year": "1996",
+        "synopsis": "A poor teenage juvenile delinquent on the run from a social worker heads to her grandmother's house but is hounded by a sadistic serial killer.",
+        "directors": [
+            "Matthew Bright"
+        ],
+        "leads": [
+            "Kiefer Sutherland",
+            "Reese Witherspoon",
+            "Wolfgang Bodison"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "She's the One (1996)": {
+        "title": "She's the One",
+        "year": "1996",
+        "synopsis": "In New York City, the love lives of brothers mix as Francis cheats on his wife with the ex-girlfriend of Mickey, who impulsively marries an artist student.",
+        "directors": [
+            "Edward Burns"
+        ],
+        "leads": [
+            "Edward Burns",
+            "Mike McGlone",
+            "Cameron Diaz"
+        ],
+        "music": [
+            "Tom Petty and the Heartbreakers"
+        ]
+    },
+    "First Kid (1996)": {
+        "title": "First Kid",
+        "year": "1996",
+        "synopsis": "Secret Service agent Sam is assigned to protect the President's 13-year-old son Luke, who makes the job hard with his crush on a classmate, Katie.",
+        "directors": [
+            "David M. Evans"
+        ],
+        "leads": [
+            "Sinbad",
+            "Robert Guillaume",
+            "Timothy Busfield"
+        ],
+        "music": [
+            "Richard Gibbs"
+        ]
+    },
+    "The Crow: City of Angels (1996)": {
+        "title": "The Crow: City of Angels",
+        "year": "1996",
+        "synopsis": "In Los Angeles, after Ashe and his son are killed by Judah's men, he returns from the dead to take his revenge. He encounters tattoo artist Sarah.",
+        "directors": [
+            "Tim Pope"
+        ],
+        "leads": [
+            "Vincent P\u00e9rez",
+            "Mia Kirshner",
+            "Richard Brooks"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Bulletproof (1996)": {
+        "title": "Bulletproof",
+        "year": "1996",
+        "synopsis": "In L.A., thief Archie ends his friendship with Rock after he finds he is an undercover cop. They unite when Archie agrees to testify against a drug lord.",
+        "directors": [
+            "Ernest Dickerson"
+        ],
+        "leads": [
+            "Damon Wayans",
+            "Adam Sandler",
+            "James Farentino"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Fly Away Home (1996)": {
+        "title": "Fly Away Home",
+        "year": "1996",
+        "synopsis": "In Canada, Thomas and his 13-year-old daughter Aliane decide to lead a flock of orphaned Canada geese in their migration south by flying an aircraft.",
+        "directors": [
+            "Carroll Ballard"
+        ],
+        "leads": [
+            "Jeff Daniels",
+            "Anna Paquin",
+            "Dana Delany"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Maximum Risk (1996)": {
+        "title": "Maximum Risk",
+        "year": "1996",
+        "synopsis": "After his Russian Mafia twin Mikhail dies, French cop Alain pretends to be him and sees his fianc\u00e9e Alex. He picks up proof of FBI collusion in a bank.",
+        "directors": [
+            "Ringo Lam"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Natasha Henstridge",
+            "Jean-Hugues Anglade"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "Last Man Standing (1996)": {
+        "title": "Last Man Standing",
+        "year": "1996",
+        "synopsis": "Drifter John Smith finds himself in the middle of a war between the Irish and Italian mafia in a ghost town. He plays the two gangs against each other.",
+        "directors": [
+            "Walter Hill"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Christopher Walken",
+            "Alexandra Powers"
+        ],
+        "music": [
+            "Ry Cooder"
+        ]
+    },
+    "The First Wives Club (1996)": {
+        "title": "The First Wives Club",
+        "year": "1996",
+        "synopsis": "Reunited by the death of a college friend, three divorced women who lost touch seek revenge on the husbands who left them for younger women.",
+        "directors": [
+            "Hugh Wilson"
+        ],
+        "leads": [
+            "Bette Midler",
+            "Goldie Hawn",
+            "Diane Keaton"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Glory Daze (1996)": {
+        "title": "Glory Daze",
+        "year": "1996",
+        "synopsis": "With UC Santa Cruz graduation pending, a close gang tries to avoid the inevitability of breaking up as Jack questions his future with his art degree.",
+        "directors": [
+            "Rich Wilkes"
+        ],
+        "leads": [
+            "Ben Affleck",
+            "Sam Rockwell",
+            "Megan Ward"
+        ],
+        "music": [
+            "Warren Fitzgerald"
+        ]
+    },
+    "Bound (1996)": {
+        "title": "Bound",
+        "year": "1996",
+        "synopsis": "Tough ex-con Corky and her lover Violet concoct a scheme to steal millions of stashed mob money and pin any blame on Violet's crooked boyfriend.",
+        "directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "leads": [
+            "Jennifer Tilly",
+            "Gina Gershon",
+            "Joe Pantoliano"
+        ],
+        "music": [
+            "Don Davis"
+        ]
+    },
+    "D3: The Mighty Ducks (1996)": {
+        "title": "D3: The Mighty Ducks",
+        "year": "1996",
+        "synopsis": "The unruly Mighty Ducks receive scholarships to a prestigious prep school, where, under a former NHL player coach, they take on the varsity team.",
+        "directors": [
+            "Robert Lieberman"
+        ],
+        "leads": [
+            "Emilio Estevez",
+            "Joshua Jackson",
+            "Jeffrey Nordling"
+        ],
+        "music": [
+            "J. A. C. Redford"
+        ]
+    },
+    "The Glimmer Man (1996)": {
+        "title": "The Glimmer Man",
+        "year": "1996",
+        "synopsis": "Former CIA operative Jack and his tough partner LAPD detective Jim investigate the killings of the Family Man, a murderer targeting full households.",
+        "directors": [
+            "John Gray"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Keenen Ivory Wayans",
+            "Bob Gunton"
+        ],
+        "music": [
+            "Trevor Rabin"
+        ]
+    },
+    "That Thing You Do! (1996)": {
+        "title": "That Thing You Do!",
+        "year": "1996",
+        "synopsis": "In 1964 Erie, the Wonders score a one-hit wonder and, with their manager Mr. White's help, become huge stars. They head to L.A. but soon break up.",
+        "directors": [
+            "Tom Hanks"
+        ],
+        "leads": [
+            "Tom Everett Scott",
+            "Liv Tyler",
+            "Johnathon Schaech"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Michael Collins (1996)": {
+        "title": "Michael Collins",
+        "year": "1996",
+        "synopsis": "In the 1910s to 1920s, an Irish revolutionary leads a guerrilla war against the UK, helps negotiate the start of the Irish Free State, and leads an army.",
+        "directors": [
+            "Neil Jordan"
+        ],
+        "leads": [
+            "Liam Neeson",
+            "Aidan Quinn",
+            "Stephen Rea"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "The Ghost and the Darkness (1996)": {
+        "title": "The Ghost and the Darkness",
+        "year": "1996",
+        "synopsis": "In 1898 Kenya, a bridge engineer and an aged hunter with experience begin a hunt for two lions as they attack and kill local construction workers.",
+        "directors": [
+            "Stephen Hopkins"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Val Kilmer",
+            "John Kani"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The Long Kiss Goodnight (1996)": {
+        "title": "The Long Kiss Goodnight",
+        "year": "1996",
+        "synopsis": "Amnesiatic schoolteacher Samantha sets out on a journey to learn her past with investigator Mitch. She was actually a CIA assassin eight years ago.",
+        "directors": [
+            "Renny Harlin"
+        ],
+        "leads": [
+            "Geena Davis",
+            "Samuel L. Jackson",
+            "Patrick Malahide"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Get on the Bus (1996)": {
+        "title": "Get on the Bus",
+        "year": "1996",
+        "synopsis": "15 disparate black men board a bus in L.A. bound for Washington, D.C., where they plan to attend the Million Man March. Discourse connects them.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Charles S. Dutton",
+            "Ossie Davis",
+            "Thomas Jefferson Byrd"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "Sleepers (1996)": {
+        "title": "Sleepers",
+        "year": "1996",
+        "synopsis": "After their prank goes wrong, four boys are sent to a detention center where they are brutalized. 13 years later, they get their chance for revenge.",
+        "directors": [
+            "Barry Levinson"
+        ],
+        "leads": [
+            "Kevin Bacon",
+            "Robert De Niro",
+            "Dustin Hoffman"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Swingers (1996)": {
+        "title": "Swingers",
+        "year": "1996",
+        "synopsis": "Mike\u2019s girlfriend leaves him after six years, so he travels to L.A. to be a star. Six months later, he is still not doing very well and needs his friend.",
+        "directors": [
+            "Doug Liman"
+        ],
+        "leads": [
+            "Jon Favreau",
+            "Vince Vaughn",
+            "Ron Livingston"
+        ],
+        "music": [
+            "Justin Reinhardt"
+        ]
+    },
+    "To Gillian on Her 37th Birthday (1996)": {
+        "title": "To Gillian on Her 37th Birthday",
+        "year": "1996",
+        "synopsis": "David, who imagines talking to his wife who died years ago, spends the weekend with his teenage daughter and worried in-laws at his beach house.",
+        "directors": [
+            "Michael Pressman"
+        ],
+        "leads": [
+            "Peter Gallagher",
+            "Claire Danes",
+            "Kathy Baker"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Thinner (1996)": {
+        "title": "Thinner",
+        "year": "1996",
+        "synopsis": "An obese attorney is cursed by a gypsy to rapidly and uncontrollably lose weight after running over an elderly Romani woman and being acquitted.",
+        "directors": [
+            "Tom Holland"
+        ],
+        "leads": [
+            "Robert John Burke",
+            "Joe Mantegna",
+            "Lucinda Jenney"
+        ],
+        "music": [
+            "Daniel Licht"
+        ]
+    },
+    "When We Were Kings (1996)": {
+        "title": "When We Were Kings",
+        "year": "1996",
+        "synopsis": "In 1974 Zaire, a heavyweight championship bout named the Rumble in the Jungle is held between George Foreman and underdog Muhammad Ali.",
+        "directors": [
+            "Leon Gast"
+        ],
+        "leads": [
+            "Norman Mailer",
+            "George Plimpton",
+            "Spike Lee"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Larger Than Life (1996)": {
+        "title": "Larger Than Life",
+        "year": "1996",
+        "synopsis": "Motivational speaker Jack learns his father left an inheritance of a trained circus elephant, Vera. He takes her to San Diego to deliver her to Sri Lanka.",
+        "directors": [
+            "Howard Franklin"
+        ],
+        "leads": [
+            "Bill Murray",
+            "Janeane Garofalo",
+            "Matthew McConaughey"
+        ],
+        "music": [
+            "Miles Goodman"
+        ]
+    },
+    "Romeo + Juliet (1996)": {
+        "title": "Romeo + Juliet",
+        "year": "1996",
+        "synopsis": "In Verona Beach, Romeo Montague and Juliet Capulet come from rival business empires so hide their love. Tragedy comes from the family friction.",
+        "directors": [
+            "Baz Luhrmann"
+        ],
+        "leads": [
+            "Leonardo DiCaprio",
+            "Claire Danes",
+            "Brian Dennehy"
+        ],
+        "music": [
+            "Nellee Hooper",
+            "Marius de Vries",
+            "Craig Armstrong"
+        ]
+    },
+    "Set It Off (1996)": {
+        "title": "Set It Off",
+        "year": "1996",
+        "synopsis": "In L.A., four black women janitors suffer from little money so begin robbing banks. They then start to mistrust each other as Detective Strode closes in.",
+        "directors": [
+            "F. Gary Gray"
+        ],
+        "leads": [
+            "Jada Pinkett",
+            "Queen Latifah",
+            "Vivica A. Fox"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Ransom (1996)": {
+        "title": "Ransom",
+        "year": "1996",
+        "synopsis": "A multi-millionaire's son is kidnapped, but after initially agreeing to pay the ransom, he decides to use the ransom money as a bounty for the culprit.",
+        "directors": [
+            "Ron Howard"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Rene Russo",
+            "Gary Sinise"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Dear God (1996)": {
+        "title": "Dear God",
+        "year": "1996",
+        "synopsis": "Con man Tom finds work at the post office sorting mail in the dead letter office. He and his strange partners answer letters to God but get in trouble.",
+        "directors": [
+            "Garry Marshall"
+        ],
+        "leads": [
+            "Greg Kinnear",
+            "Laurie Metcalf",
+            "Maria Pitillo"
+        ],
+        "music": [
+            "James Patrick Dunne",
+            "Jeremy Lubbock"
+        ]
+    },
+    "Space Jam (1996)": {
+        "title": "Space Jam",
+        "year": "1996",
+        "synopsis": "To win a match against the Monstars and earn their freedom, the Looney Tunes seek the aid of retired basketball champion Michael Jordan.",
+        "directors": [
+            "Joe Pytka"
+        ],
+        "leads": [
+            "Michael Jordan",
+            "Billy West",
+            "Wayne Knight"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The English Patient (1996)": {
+        "title": "The English Patient",
+        "year": "1996",
+        "synopsis": "At the close of World War II, a young nurse tends to a badly-burned plane crash victim. He tells her of his fateful love affair in flashbacks.",
+        "directors": [
+            "Anthony Minghella"
+        ],
+        "leads": [
+            "Ralph Fiennes",
+            "Juliette Binoche",
+            "Willem Dafoe"
+        ],
+        "music": [
+            "Gabriel Yared"
+        ]
+    },
+    "The Mirror Has Two Faces (1996)": {
+        "title": "The Mirror Has Two Faces",
+        "year": "1996",
+        "synopsis": "In New York, an English literature professor who lives with her mother begins a relationship with a math professor who prefers friendship to intimacy.",
+        "directors": [
+            "Barbra Streisand"
+        ],
+        "leads": [
+            "Barbra Streisand",
+            "Jeff Bridges",
+            "Pierce Brosnan"
+        ],
+        "music": [
+            "Marvin Hamlisch"
+        ]
+    },
+    "Jingle All the Way (1996)": {
+        "title": "Jingle All the Way",
+        "year": "1996",
+        "synopsis": "A workaholic and a postal worker desperately try to find Turbo-Man action figures for their sons on a last-minute shopping spree on Christmas Eve.",
+        "directors": [
+            "Brian Levant"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Sinbad",
+            "Phil Hartman"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Shine (1996)": {
+        "title": "Shine",
+        "year": "1996",
+        "synopsis": "Pianist David Helfgott, driven by his father and teachers, has a breakdown. He returns to the piano years later to popular if not critical acclaim.",
+        "directors": [
+            "Scott Hicks"
+        ],
+        "leads": [
+            "Geoffrey Rush",
+            "Justin Braine",
+            "Sonia Todd"
+        ],
+        "music": [
+            "David Hirschfelder"
+        ]
+    },
+    "Star Trek: First Contact (1996)": {
+        "title": "Star Trek: First Contact",
+        "year": "1996",
+        "synopsis": "The Borg travel back in time to stop Earth's first alien contact. Captain Picard and his crew try to ensure Zefram makes his first warp speed flight.",
+        "directors": [
+            "Jonathan Frakes"
+        ],
+        "leads": [
+            "Patrick Stewart",
+            "Jonathan Frakes",
+            "Brent Spiner"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "101 Dalmatians (1996)": {
+        "title": "101 Dalmatians",
+        "year": "1996",
+        "synopsis": "In London, evil fashion designer Cruella schemes to steal 99 Dalmatian puppies to create a fur coat. Animals save them from thieves in her mansion.",
+        "directors": [
+            "Stephen Herek"
+        ],
+        "leads": [
+            "Glenn Close",
+            "Jeff Daniels",
+            "Joely Richardson"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Sling Blade (1996)": {
+        "title": "Sling Blade",
+        "year": "1996",
+        "synopsis": "In Arkansas, a man with an intellectual disability is released from a psychiatric hospital. He forms friendships with an abused boy and his mother.",
+        "directors": [
+            "Billy Bob Thornton"
+        ],
+        "leads": [
+            "Billy Bob Thornton",
+            "Dwight Yoakam",
+            "J. T. Walsh"
+        ],
+        "music": [
+            "Daniel Lanois"
+        ]
+    },
+    "The Crucible (1996)": {
+        "title": "The Crucible",
+        "year": "1996",
+        "synopsis": "A young Salem resident attempts to frame her ex-lover John Proctor's wife for being a witch in the middle of the 1692 witchcraft trials.",
+        "directors": [
+            "Nicholas Hytner"
+        ],
+        "leads": [
+            "Daniel Day-Lewis",
+            "Winona Ryder",
+            "Paul Scofield"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Daylight (1996)": {
+        "title": "Daylight",
+        "year": "1996",
+        "synopsis": "An explosion results in a tunnel collapsing with the few survivors in peril. Kit tries to lead them out of the tunnel before the structure fully collapses.",
+        "directors": [
+            "Rob Cohen"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Amy Brenneman",
+            "Viggo Mortensen"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Everyone Says I Love You (1996)": {
+        "title": "Everyone Says I Love You",
+        "year": "1996",
+        "synopsis": "The daughter of wealthy Manhattanites contends with her large family after her parents' divorce. She sets up her father with a woman in Venice.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Natasha Lyonne",
+            "Alan Alda",
+            "Woody Allen"
+        ],
+        "music": [
+            "Dick Hyman"
+        ]
+    },
+    "Jerry Maguire (1996)": {
+        "title": "Jerry Maguire",
+        "year": "1996",
+        "synopsis": "When a sports agent is fired for writing a moral mission statement, he becomes independent with only Cardinals player Rod and a single mother.",
+        "directors": [
+            "Cameron Crowe"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Cuba Gooding Jr.",
+            "Ren\u00e9e Zellweger"
+        ],
+        "music": [
+            "Nancy Wilson"
+        ]
+    },
+    "Mars Attacks! (1996)": {
+        "title": "Mars Attacks!",
+        "year": "1996",
+        "synopsis": "The U.S. President arranges to meet Martians in Nevada, but the deadly, playful aliens feign peace and invade Earth in droves. Humans evade them.",
+        "directors": [
+            "Tim Burton"
+        ],
+        "leads": [
+            "Jack Nicholson",
+            "Glenn Close",
+            "Annette Bening"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "The Preacher's Wife (1996)": {
+        "title": "The Preacher's Wife",
+        "year": "1996",
+        "synopsis": "A cleric begins to doubt himself and is visited by an angel, who is supposed to help the cleric with a midlife crisis but is tempted by the cleric's wife.",
+        "directors": [
+            "Penny Marshall"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Whitney Houston",
+            "Courtney B. Vance"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "In Love and War (1996)": {
+        "title": "In Love and War",
+        "year": "1996",
+        "synopsis": "During World War I in Italy, Ernest Hemingway is an ambulance driver. After he is injured and ends up in the hospital, he falls in love with his nurse.",
+        "directors": [
+            "Richard Attenborough"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Chris O'Donnell",
+            "Mackenzie Astin"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Marvin's Room (1996)": {
+        "title": "Marvin's Room",
+        "year": "1996",
+        "synopsis": "After 17 years, fiercely independent Lee and her rebellious son return home to help her sister with leukemia Bessie and her bedridden father Marvin.",
+        "directors": [
+            "Jerry Zaks"
+        ],
+        "leads": [
+            "Meryl Streep",
+            "Leonardo DiCaprio",
+            "Diane Keaton"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Beavis and Butt-Head Do America (1996)": {
+        "title": "Beavis and Butt-Head Do America",
+        "year": "1996",
+        "synopsis": "Two teenagers awaken with their television stolen and accept an offer to score. They unknowingly become fugitives hunted by the FBI and the ATF.",
+        "directors": [
+            "Mike Judge"
+        ],
+        "leads": [
+            "Mike Judge",
+            "Demi Moore",
+            "Bruce Willis"
+        ],
+        "music": [
+            "John Frizzell"
+        ]
+    },
+    "Ghosts of Mississippi (1996)": {
+        "title": "Ghosts of Mississippi",
+        "year": "1996",
+        "synopsis": "In 1989, a caring Mississippi district attorney and a widow of a civil rights leader struggle to finally bring a white racist to justice for a 1963 murder.",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "leads": [
+            "Alec Baldwin",
+            "Whoopi Goldberg",
+            "James Woods"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "One Fine Day (1996)": {
+        "title": "One Fine Day",
+        "year": "1996",
+        "synopsis": "In New York City, the lives of an architect, a news reporter, and their young children unexpectedly intersect on a hectic day after missing a field trip.",
+        "directors": [
+            "Michael Hoffman"
+        ],
+        "leads": [
+            "Michelle Pfeiffer",
+            "George Clooney",
+            "Mae Whitman"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Scream (1996)": {
+        "title": "Scream",
+        "year": "1996",
+        "synopsis": "A year after the murder of her mother, a teenager is terrorized by a new killer, who targets her and her friends using horror films as part of a game.",
+        "directors": [
+            "Wes Craven"
+        ],
+        "leads": [
+            "David Arquette",
+            "Neve Campbell",
+            "Courteney Cox"
+        ],
+        "music": [
+            "Marco Beltrami"
+        ]
+    },
+    "The Portrait of a Lady (1996)": {
+        "title": "The Portrait of a Lady",
+        "year": "1996",
+        "synopsis": "Isabel inherits a fortune and falls into a misguided relationship with a con artist whose mean nature turns her life into a mess. A cousin supports her.",
+        "directors": [
+            "Jane Campion"
+        ],
+        "leads": [
+            "Nicole Kidman",
+            "John Malkovich",
+            "Barbara Hershey"
+        ],
+        "music": [
+            "Wojciech Kilar"
+        ]
+    },
+    "Evita (1996)": {
+        "title": "Evita",
+        "year": "1996",
+        "synopsis": "B-picture actress Eva Per\u00f3n rises to become the wife of the Argentinian president and an infamous celebrity before she dies from cancer at age 33.",
+        "directors": [
+            "Alan Parker"
+        ],
+        "leads": [
+            "Madonna",
+            "Antonio Banderas",
+            "Jonathan Pryce"
+        ],
+        "music": [
+            "Andrew Lloyd Webber"
+        ]
+    },
+    "Hamlet (1996)": {
+        "title": "Hamlet",
+        "year": "1996",
+        "synopsis": "A prince returns to Denmark, his father murdered and his mother remarrying the killer Claudius, his uncle. He feigns a madness as war slowly brews.",
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "leads": [
+            "Kenneth Branagh",
+            "Derek Jacobi",
+            "Julie Christie"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Michael (1996)": {
+        "title": "Michael",
+        "year": "1996",
+        "synopsis": "Three journalists looking into an Iowa report of an archangel living with an old woman find it is real, even if he smokes, drinks, and loves women.",
+        "directors": [
+            "Nora Ephron"
+        ],
+        "leads": [
+            "John Travolta",
+            "Andie MacDowell",
+            "William Hurt"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "The Evening Star (1996)": {
+        "title": "The Evening Star",
+        "year": "1996",
+        "synopsis": "After her daughter's death, Aurora seeks the love of her life. She has a jailed grandson, a rebellious granddaughter, and a poor grandson with a son.",
+        "directors": [
+            "Robert Harling"
+        ],
+        "leads": [
+            "Shirley MacLaine",
+            "Bill Paxton",
+            "Juliette Lewis"
+        ],
+        "music": [
+            "William Ross"
+        ]
+    },
+    "The People vs. Larry Flynt (1996)": {
+        "title": "The People vs. Larry Flynt",
+        "year": "1996",
+        "synopsis": "Strip club owner Larry and his wife Althea create the pornographic Hustler magazine, which keeps him in courtrooms over criminal and civil charges.",
+        "directors": [
+            "Milo\u0161 Forman"
+        ],
+        "leads": [
+            "Woody Harrelson",
+            "Courtney Love",
+            "Edward Norton"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "The Relic (1997)": {
+        "title": "The Relic",
+        "year": "1997",
+        "synopsis": "A homicide detective and an anthropologist work to destroy a South American lizard monster, once human, now eating people in a Chicago museum.",
+        "directors": [
+            "Peter Hyams"
+        ],
+        "leads": [
+            "Penelope Ann Miller",
+            "Tom Sizemore",
+            "Linda Hunt"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Beverly Hills Ninja (1997)": {
+        "title": "Beverly Hills Ninja",
+        "year": "1997",
+        "synopsis": "Raised by ninjas in Japan, heavy Haru agrees to help Sally. With help from adoptive brother Gobei, he goes to California to stop some counterfeiting.",
+        "directors": [
+            "Dennis Dugan"
+        ],
+        "leads": [
+            "Chris Farley",
+            "Nicollette Sheridan",
+            "Nathaniel Parker"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "Metro (1997)": {
+        "title": "Metro",
+        "year": "1997",
+        "synopsis": "A hostage negotiator teams up with a sharpshooter to bring down a dangerous jewel thief.",
+        "directors": [
+            "Thomas Carter"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Michael Rapaport",
+            "Michael Wincott"
+        ],
+        "music": [
+            "Steve Porcaro",
+            "James Newton Howard"
+        ]
+    },
+    "Prefontaine (1997)": {
+        "title": "Prefontaine",
+        "year": "1997",
+        "synopsis": "In 1969, Steve enrolls at the University of Oregon as a talented distance runner. With two coaches, he sets a U.S. record before joining the Olympics.",
+        "directors": [
+            "Steve James"
+        ],
+        "leads": [
+            "Jared Leto",
+            "R. Lee Ermey",
+            "Ed O'Neill"
+        ],
+        "music": [
+            "Mason Daring"
+        ]
+    },
+    "Gridlock'd (1997)": {
+        "title": "Gridlock'd",
+        "year": "1997",
+        "synopsis": "Two friends try to kick their drug addiction after a friend overdoses. When they try to enroll in a detox program, things quickly go wrong.",
+        "directors": [
+            "Vondie Curtis-Hall"
+        ],
+        "leads": [
+            "Tim Roth",
+            "Tupac Shakur",
+            "Thandiwe Newton"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ]
+    },
+    "Shadow Conspiracy (1997)": {
+        "title": "Shadow Conspiracy",
+        "year": "1997",
+        "synopsis": "In Washington, D.C., the President's special aide Bobby finds out about an assassination plot from a professor. He recruits a journalist friend to help.",
+        "directors": [
+            "George P. Cosmatos"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Donald Sutherland",
+            "Linda Hamilton"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "Dante's Peak (1997)": {
+        "title": "Dante's Peak",
+        "year": "1997",
+        "synopsis": "A volcanologist and a small-town mayor convince the populace a volcano is about to wake up. They race to rescue two children and their grandma.",
+        "directors": [
+            "Roger Donaldson"
+        ],
+        "leads": [
+            "Pierce Brosnan",
+            "Linda Hamilton",
+            "Charles Hallahan"
+        ],
+        "music": [
+            "James Newton Howard",
+            "John Frizzell"
+        ]
+    },
+    "The Beautician and the Beast (1997)": {
+        "title": "The Beautician and the Beast",
+        "year": "1997",
+        "synopsis": "A New York City cosmetologist, mistaken as a science teacher, is offered a job to teach the children of an Eastern European dictator.",
+        "directors": [
+            "Ken Kwapis"
+        ],
+        "leads": [
+            "Fran Drescher",
+            "Timothy Dalton",
+            "Lisa Jakub"
+        ],
+        "music": [
+            "Cliff Eidelman"
+        ]
+    },
+    "Absolute Power (1997)": {
+        "title": "Absolute Power",
+        "year": "1997",
+        "synopsis": "Jewel thief Luther is robbing a mansion when he witnesses the Secret Service shoot a billionaire's wife the President was being sexually violent with.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "Gene Hackman",
+            "Ed Harris"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "Fools Rush In (1997)": {
+        "title": "Fools Rush In",
+        "year": "1997",
+        "synopsis": "After a one-night stand with a white architect, a Mexican-American photographer gets pregnant. They quickly marry despite cultural differences.",
+        "directors": [
+            "Andy Tennant"
+        ],
+        "leads": [
+            "Matthew Perry",
+            "Salma Hayek",
+            "Jon Tenney"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Vegas Vacation (1997)": {
+        "title": "Vegas Vacation",
+        "year": "1997",
+        "synopsis": "The Griswold family hits the road again for a typically ill-fated vacation, this time to the glitzy mecca of slots and showgirls of Las Vegas.",
+        "directors": [
+            "Stephen Kessler"
+        ],
+        "leads": [
+            "Chevy Chase",
+            "Beverly D'Angelo",
+            "Randy Quaid"
+        ],
+        "music": [
+            "Joel McNeely"
+        ]
+    },
+    "Lost Highway (1997)": {
+        "title": "Lost Highway",
+        "year": "1997",
+        "synopsis": "In L.A., saxophonist Fred is accused of killing his wife Renee. On death row, he morphs into Pete, leading a different life. Their paths begin to cross.",
+        "directors": [
+            "David Lynch"
+        ],
+        "leads": [
+            "Bill Pullman",
+            "Patricia Arquette",
+            "Balthazar Getty"
+        ],
+        "music": [
+            "Angelo Badalamenti"
+        ]
+    },
+    "Rosewood (1997)": {
+        "title": "Rosewood",
+        "year": "1997",
+        "synopsis": "In 1923, Mann comes to a mostly black town filled with racial prejudice. After Fanny accuses a black man of hitting her, he helps citizens avoid a mob.",
+        "directors": [
+            "John Singleton"
+        ],
+        "leads": [
+            "Jon Voight",
+            "Ving Rhames",
+            "Don Cheadle"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Donnie Brasco (1997)": {
+        "title": "Donnie Brasco",
+        "year": "1997",
+        "synopsis": "In 1970s New York City, an FBI undercover agent infiltrates the Mafia and befriends an aging hitman who vouches for him. He relates to criminal life.",
+        "directors": [
+            "Mike Newell"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Johnny Depp",
+            "Michael Madsen"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ]
+    },
+    "Hard Eight (1997)": {
+        "title": "Hard Eight",
+        "year": "1997",
+        "synopsis": "In Nevada, professional gambler Sydney teaches John the tricks of the trade. John thrives until he falls for Clementine, a cocktail waitress prostitute.",
+        "directors": [
+            "Paul Thomas Anderson"
+        ],
+        "leads": [
+            "Philip Baker Hall",
+            "John C. Reilly",
+            "Gwyneth Paltrow"
+        ],
+        "music": [
+            "Jon Brion",
+            "Michael Penn"
+        ]
+    },
+    "Jungle 2 Jungle (1997)": {
+        "title": "Jungle 2 Jungle",
+        "year": "1997",
+        "synopsis": "A commodities broker learns he has a 13-year-old son who was raised in the jungle and brings the boy to New York City, turning his life upside down.",
+        "directors": [
+            "John Pasquin"
+        ],
+        "leads": [
+            "Tim Allen",
+            "Martin Short",
+            "Sam Huntington"
+        ],
+        "music": [
+            "Michael Convertino"
+        ]
+    },
+    "Private Parts (1997)": {
+        "title": "Private Parts",
+        "year": "1997",
+        "synopsis": "Howard Stern works his way painfully from radio at his 1970s college to NBC in New York, where his outrageous style catches audience attention.",
+        "directors": [
+            "Betty Thomas"
+        ],
+        "leads": [
+            "Howard Stern",
+            "Robin Quivers",
+            "Mary McCormack"
+        ],
+        "music": [
+            "Rob Zombie",
+            "The Dust Brothers"
+        ]
+    },
+    "Liar Liar (1997)": {
+        "title": "Liar Liar",
+        "year": "1997",
+        "synopsis": "In Los Angeles, after missing his son's birthday party to have sex with his boss, a divorced lawyer cannot lie for 24 hours because of his son's wish.",
+        "directors": [
+            "Tom Shadyac"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Maura Tierney",
+            "Jennifer Tilly"
+        ],
+        "music": [
+            "John Debney",
+            "James Newton Howard"
+        ]
+    },
+    "Selena (1997)": {
+        "title": "Selena",
+        "year": "1997",
+        "synopsis": "A Texas-born Tejano singer rises from cult status to performing at the Astrodome, as well as having chart-topping albums on the Latin music charts.",
+        "directors": [
+            "Gregory Nava"
+        ],
+        "leads": [
+            "Jennifer Lopez",
+            "Edward James Olmos",
+            "Jon Seda"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "The Devil's Own (1997)": {
+        "title": "The Devil's Own",
+        "year": "1997",
+        "synopsis": "A New York police officer uncovers the identity of his houseguest, an IRA terrorist in hiding, sent to obtain missiles to shoot down British helicopters.",
+        "directors": [
+            "Alan J. Pakula"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Brad Pitt",
+            "Margaret Colin"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "B.A.P.S. (1997)": {
+        "title": "B.A.P.S.",
+        "year": "1997",
+        "synopsis": "Nisi and Mickey move to L.A. to become dancers for a video but instead lie Nisi is related to a dying millionaire's former love. They create a real bond.",
+        "directors": [
+            "Robert Townsend"
+        ],
+        "leads": [
+            "Halle Berry",
+            "Natalie Desselle",
+            "Martin Landau"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "The 6th Man (1997)": {
+        "title": "The 6th Man",
+        "year": "1997",
+        "synopsis": "In Seattle, Kenny plays for his college basketball team, the Huskies. They begin winning with help from his recently deceased closest friend Antoine.",
+        "directors": [
+            "Randall Miller"
+        ],
+        "leads": [
+            "Marlon Wayans",
+            "Kadeem Hardison",
+            "David Paymer"
+        ],
+        "music": [
+            "Marcus Miller"
+        ]
+    },
+    "Turbo: A Power Rangers Movie (1997)": {
+        "title": "Turbo: A Power Rangers Movie",
+        "year": "1997",
+        "synopsis": "Five Rangers must stop pirate Divatox, who looks for a key from wizard Lerigot to release Maligore. Zordon and Alpha grant them car-based abilities.",
+        "directors": [
+            "David Winning",
+            "Shuki Levy"
+        ],
+        "leads": [
+            "Jason David Frank",
+            "Johnny Yong Bosch",
+            "Catherine Sutherland"
+        ],
+        "music": [
+            "Shuki Levy"
+        ]
+    },
+    "Chasing Amy (1997)": {
+        "title": "Chasing Amy",
+        "year": "1997",
+        "synopsis": "Comic book artists Holden and Banky meet artist Alyssa. Holden falls for her even though she is a lesbian. Her threesome experience upsets him.",
+        "directors": [
+            "Kevin Smith"
+        ],
+        "leads": [
+            "Ben Affleck",
+            "Joey Lauren Adams",
+            "Jason Lee"
+        ],
+        "music": [
+            "David Pirner"
+        ]
+    },
+    "Double Team (1997)": {
+        "title": "Double Team",
+        "year": "1997",
+        "synopsis": "Counter-terrorist agent Jack Quinn teams up with an arms dealer to escape from a penal colony for agents and rescue his family from a evil terrorist.",
+        "directors": [
+            "Tsui Hark"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Dennis Rodman",
+            "Mickey Rourke"
+        ],
+        "music": [
+            "Gary Chang"
+        ]
+    },
+    "The Saint (1997)": {
+        "title": "The Saint",
+        "year": "1997",
+        "synopsis": "A thief hired to steal a process for cold fusion puts him at odds with a traitor against the Russian government and the woman who holds its secret.",
+        "directors": [
+            "Phillip Noyce"
+        ],
+        "leads": [
+            "Val Kilmer",
+            "Elisabeth Shue",
+            "Rade \u0160erbed\u017eija"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Anaconda (1997)": {
+        "title": "Anaconda",
+        "year": "1997",
+        "synopsis": "A documentary film crew looking for a forgotten tribe is taken hostage by a hunter using them to capture the world's largest and deadliest snake.",
+        "directors": [
+            "Luis Llosa"
+        ],
+        "leads": [
+            "Jennifer Lopez",
+            "Ice Cube",
+            "Jon Voight"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Grosse Pointe Blank (1997)": {
+        "title": "Grosse Pointe Blank",
+        "year": "1997",
+        "synopsis": "A professional assassin is sent on a mission to the Detroit suburb of Grosse Pointe, where his 10-year high school reunion is at the same time.",
+        "directors": [
+            "George Armitage"
+        ],
+        "leads": [
+            "John Cusack",
+            "Minnie Driver",
+            "Alan Arkin"
+        ],
+        "music": [
+            "Joe Strummer"
+        ]
+    },
+    "Murder at 1600 (1997)": {
+        "title": "Murder at 1600",
+        "year": "1997",
+        "synopsis": "A young woman is murdered in the White House. Homicide detective Regis investigates while the Secret Service works against him.",
+        "directors": [
+            "Dwight H. Little"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Diane Lane",
+            "Alan Alda"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Romy and Michele's High School Reunion (1997)": {
+        "title": "Romy and Michele's High School Reunion",
+        "year": "1997",
+        "synopsis": "Two dim-witted friends go to their 10-year high school reunion and prepare to lie about inventing Post-it Notes to impress their classmates.",
+        "directors": [
+            "David Mirkin"
+        ],
+        "leads": [
+            "Mira Sorvino",
+            "Lisa Kudrow",
+            "Janeane Garofalo"
+        ],
+        "music": [
+            "Steve Bartek"
+        ]
+    },
+    "Volcano (1997)": {
+        "title": "Volcano",
+        "year": "1997",
+        "synopsis": "The director of the city\u2019s emergency management service Mike works with geologist Amy to try and stop a volcano from consuming Los Angeles.",
+        "directors": [
+            "Mick Jackson"
+        ],
+        "leads": [
+            "Tommy Lee Jones",
+            "Anne Heche",
+            "Gaby Hoffmann"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Austin Powers: International Man of Mystery (1997)": {
+        "title": "Austin Powers: International Man of Mystery",
+        "year": "1997",
+        "synopsis": "In 1967, British playboy spy Austin Powers stops Dr. Evil and is placed in cryostasis. He awakens 30 years later to stop a nuclear warhead device.",
+        "directors": [
+            "Jay Roach"
+        ],
+        "leads": [
+            "Mike Myers",
+            "Elizabeth Hurley",
+            "Michael York"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "Breakdown (1997)": {
+        "title": "Breakdown",
+        "year": "1997",
+        "synopsis": "Jeff looks for his missing wife after his car breaks down on a desert road and she hitches a ride with a truck driver. He is told to pay a $90,000 ransom.",
+        "directors": [
+            "Jonathan Mostow"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "J. T. Walsh",
+            "Kathleen Quinlan"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Warriors of Virtue (1997)": {
+        "title": "Warriors of Virtue",
+        "year": "1997",
+        "synopsis": "Young Ryan is whisked away to the mythical land of Tao, where he becomes the center of a conflict between an evil lord and some kangaroo warriors.",
+        "directors": [
+            "Ronny Yu"
+        ],
+        "leads": [
+            "Angus Macfadyen",
+            "Mario Yedidia",
+            "Marley Shelton"
+        ],
+        "music": [
+            "Don Davis"
+        ]
+    },
+    "Fathers' Day (1997)": {
+        "title": "Fathers' Day",
+        "year": "1997",
+        "synopsis": "Collette lies to two former lovers, married cynical lawyer Jack and lonely suicidal writer Dale, to aid her search for her runaway 17-year-old son Scott.",
+        "directors": [
+            "Ivan Reitman"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Billy Crystal",
+            "Julia Louis-Dreyfus"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Fifth Element (1997)": {
+        "title": "The Fifth Element",
+        "year": "1997",
+        "synopsis": "In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr. Zorg at bay.",
+        "directors": [
+            "Luc Besson"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Gary Oldman",
+            "Ian Holm"
+        ],
+        "music": [
+            "\u00c9ric Serra"
+        ]
+    },
+    "Addicted to Love (1997)": {
+        "title": "Addicted to Love",
+        "year": "1997",
+        "synopsis": "Maggie and Sam's former partners are in love. She wants revenge. He wants his love back. They work together to surveil and break up the two.",
+        "directors": [
+            "Griffin Dunne"
+        ],
+        "leads": [
+            "Meg Ryan",
+            "Matthew Broderick",
+            "Kelly Preston"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "The Lost World: Jurassic Park (1997)": {
+        "title": "The Lost World: Jurassic Park",
+        "year": "1997",
+        "synopsis": "A research team is sent to the Jurassic Park Site B island to study the dinosaurs there, while an InGen team approaches with another agenda.",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "leads": [
+            "Jeff Goldblum",
+            "Julianne Moore",
+            "Pete Postlethwaite"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Gone Fishin' (1997)": {
+        "title": "Gone Fishin'",
+        "year": "1997",
+        "synopsis": "In Florida, two lifelong fishing buddies overcome a series of obstacles after their car is stolen by a wanted criminal who has conned several women.",
+        "directors": [
+            "Christopher Cain"
+        ],
+        "leads": [
+            "Joe Pesci",
+            "Danny Glover",
+            "Rosanna Arquette"
+        ],
+        "music": [
+            "Randy Edelman"
+        ]
+    },
+    "Trial and Error (1997)": {
+        "title": "Trial and Error",
+        "year": "1997",
+        "synopsis": "In Nevada, actor Richard poses as lawyer Charlie to request a continuance in a mail fraud case that goes to trial. Engaged Charlie falls for a waitress.",
+        "directors": [
+            "Jonathan Lynn"
+        ],
+        "leads": [
+            "Michael Richards",
+            "Jeff Daniels",
+            "Charlize Theron"
+        ],
+        "music": [
+            "Phil Marshall"
+        ]
+    },
+    "Con Air (1997)": {
+        "title": "Con Air",
+        "year": "1997",
+        "synopsis": "Paroled con Cameron Poe boards a flight on the Jailbird, a prison transport plane. Several inmates hijack the plane to fly to a non-extradition country.",
+        "directors": [
+            "Simon West"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "John Cusack",
+            "John Malkovich"
+        ],
+        "music": [
+            "Mark Mancina",
+            "Trevor Rabin"
+        ]
+    },
+    "Hercules (1997)": {
+        "title": "Hercules",
+        "year": "1997",
+        "synopsis": "The son of Zeus and Hera is stripped of his immortality as an infant and must become a true hero in order to reclaim it.",
+        "directors": [
+            "Ron Clements",
+            "John Musker"
+        ],
+        "leads": [
+            "Tate Donovan",
+            "Danny DeVito",
+            "James Woods"
+        ],
+        "music": [
+            "Alan Menken"
+        ]
+    },
+    "Speed 2: Cruise Control (1997)": {
+        "title": "Speed 2: Cruise Control",
+        "year": "1997",
+        "synopsis": "A computer hacker breaks into the computer system of a cruise liner and sets it speeding on a collision course into a gigantic oil tanker.",
+        "directors": [
+            "Jan de Bont"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Jason Patric",
+            "Willem Dafoe"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "Batman & Robin (1997)": {
+        "title": "Batman & Robin",
+        "year": "1997",
+        "synopsis": "Batman and Robin try to keep their relationship together as they stop Mr. Freeze and Poison Ivy from freezing Gotham. Barbara becomes Batgirl.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "George Clooney",
+            "Chris O'Donnell",
+            "Arnold Schwarzenegger"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "My Best Friend's Wedding (1997)": {
+        "title": "My Best Friend's Wedding",
+        "year": "1997",
+        "synopsis": "When a New York food critic's long-time friend is engaged, she realizes she loves him herself and sets out to get him only days before the wedding.",
+        "directors": [
+            "P.J. Hogan"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Dermot Mulroney",
+            "Cameron Diaz"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Face/Off (1997)": {
+        "title": "Face/Off",
+        "year": "1997",
+        "synopsis": "To foil a terrorist plot, an FBI agent has a facial transplant and assumes the identity of a criminal who murdered his son, but the criminal wakes up.",
+        "directors": [
+            "John Woo"
+        ],
+        "leads": [
+            "John Travolta",
+            "Nicolas Cage",
+            "Joan Allen"
+        ],
+        "music": [
+            "John Powell"
+        ]
+    },
+    "Men in Black (1997)": {
+        "title": "Men in Black",
+        "year": "1997",
+        "synopsis": "Agent K offers a New York cop a position with an organization that monitors aliens. He accepts and becomes Agent J. They team up to follow a bug.",
+        "directors": [
+            "Barry Sonnenfeld"
+        ],
+        "leads": [
+            "Tommy Lee Jones",
+            "Will Smith",
+            "Linda Fiorentino"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Out to Sea (1997)": {
+        "title": "Out to Sea",
+        "year": "1997",
+        "synopsis": "A failed gambler, intent on meeting a rich widow, tricks his widowed brother-in-law into boarding a cruise ship as dance hosts. The two meet ladies.",
+        "directors": [
+            "Martha Coolidge"
+        ],
+        "leads": [
+            "Jack Lemmon",
+            "Walter Matthau",
+            "Dyan Cannon"
+        ],
+        "music": [
+            "Michael Muhlfriedel",
+            "David Newman"
+        ]
+    },
+    "4 Little Girls (1997)": {
+        "title": "4 Little Girls",
+        "year": "1997",
+        "synopsis": "In the 1963 bombing of the 16th Street Church in Birmingham, Alabama, four little black girls lose their lives and a nation is simultaneously revolted,",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "N/A"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "Contact (1997)": {
+        "title": "Contact",
+        "year": "1997",
+        "synopsis": "Astronomer Ellie finds radio proof of aliens, who send schematics for a machine transport. She contends for a seat on a trip to their planet Vega.",
+        "directors": [
+            "Robert Zemeckis"
+        ],
+        "leads": [
+            "Jodie Foster",
+            "Matthew McConaughey",
+            "James Woods"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "George of the Jungle (1997)": {
+        "title": "George of the Jungle",
+        "year": "1997",
+        "synopsis": "A buff and lovable klutz raised in the African jungle by apes falls in love with a wealthy American heiress.",
+        "directors": [
+            "Sam Weisman"
+        ],
+        "leads": [
+            "Brendan Fraser",
+            "Leslie Mann",
+            "Thomas Haden Church"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Mrs Brown (1997)": {
+        "title": "Mrs Brown",
+        "year": "1997",
+        "synopsis": "When Queen Victoria's husband Albert dies, she finds solace in her Scottish servant John, but their relationship also brings them scandal and turmoil.",
+        "directors": [
+            "John Madden"
+        ],
+        "leads": [
+            "Judi Dench",
+            "Billy Connolly",
+            "Antony Sher"
+        ],
+        "music": [
+            "Stephen Warbeck"
+        ]
+    },
+    "Air Force One (1997)": {
+        "title": "Air Force One",
+        "year": "1997",
+        "synopsis": "After a dinner in Moscow, the U.S. President and his family return home. Communist radicals hijack the airplane, forcing him to rescue any hostages.",
+        "directors": [
+            "Wolfgang Petersen"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Gary Oldman",
+            "Glenn Close"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Air Bud (1997)": {
+        "title": "Air Bud",
+        "year": "1997",
+        "synopsis": "An unexpected player joins the school basketball team: a circus dog who escaped from a cruel master.",
+        "directors": [
+            "Charles Martin Smith"
+        ],
+        "leads": [
+            "Michael Jeter",
+            "Kevin Zegers",
+            "Wendy Makkena"
+        ],
+        "music": [
+            "Brahm Wenger"
+        ]
+    },
+    "Picture Perfect (1997)": {
+        "title": "Picture Perfect",
+        "year": "1997",
+        "synopsis": "In New York, a young advertising executive's life pretends to be engaged to a videographer she has met only once to impress her boss and team.",
+        "directors": [
+            "Glenn Gordon Caron"
+        ],
+        "leads": [
+            "Jennifer Aniston",
+            "Jay Mohr",
+            "Kevin Bacon"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Spawn (1997)": {
+        "title": "Spawn",
+        "year": "1997",
+        "synopsis": "After being murdered by corrupt colleagues in a covert government agency, a mercenary comes back from Hell as a reluctant soldier of the Devil.",
+        "directors": [
+            "Mark A.Z. Dipp\u00e9"
+        ],
+        "leads": [
+            "Michael Jai White",
+            "John Leguizamo",
+            "Martin Sheen"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Conspiracy Theory (1997)": {
+        "title": "Conspiracy Theory",
+        "year": "1997",
+        "synopsis": "In New York, taxi driver Jerry shares government conspiracies with lawyer Alice. They learn that an agency tried brainwashing Jerry to kill her father.",
+        "directors": [
+            "Richard Donner"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Julia Roberts",
+            "Patrick Stewart"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Cop Land (1997)": {
+        "title": "Cop Land",
+        "year": "1997",
+        "synopsis": "In New Jersey, a sheriff deaf in an ear comes into conflict with corrupt New York City police officers who lie about one shooting two black teenagers.",
+        "directors": [
+            "James Mangold"
+        ],
+        "leads": [
+            "Sylvester Stallone",
+            "Harvey Keitel",
+            "Ray Liotta"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Event Horizon (1997)": {
+        "title": "Event Horizon",
+        "year": "1997",
+        "synopsis": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned with something new on board.",
+        "directors": [
+            "Paul W. S. Anderson"
+        ],
+        "leads": [
+            "Laurence Fishburne",
+            "Sam Neill",
+            "Kathleen Quinlan"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Steel (1997)": {
+        "title": "Steel",
+        "year": "1997",
+        "synopsis": "A scientist for the military turns himself into a cartoon-like superhero when a version of one of his own weapons is being used against enemies.",
+        "directors": [
+            "Kenneth Johnson"
+        ],
+        "leads": [
+            "Shaquille O'Neal",
+            "Annabeth Gish",
+            "Richard Roundtree"
+        ],
+        "music": [
+            "Mervyn Warren"
+        ]
+    },
+    "The Full Monty (1997)": {
+        "title": "The Full Monty",
+        "year": "1997",
+        "synopsis": "In England, six unemployed steel workers form a male striptease act to earn money and help their families. Women cheer for them to show nudity.",
+        "directors": [
+            "Peter Cattaneo"
+        ],
+        "leads": [
+            "Robert Carlyle",
+            "Tom Wilkinson",
+            "Mark Addy"
+        ],
+        "music": [
+            "Anne Dudley"
+        ]
+    },
+    "G.I. Jane (1997)": {
+        "title": "G.I. Jane",
+        "year": "1997",
+        "synopsis": "With a female senator's push, the Navy accepts a female analyst into Combined Reconnaissance Team training, where everyone expects her to fail.",
+        "directors": [
+            "Ridley Scott"
+        ],
+        "leads": [
+            "Demi Moore",
+            "Viggo Mortensen",
+            "Anne Bancroft"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "Mimic (1997)": {
+        "title": "Mimic",
+        "year": "1997",
+        "synopsis": "A biologist genetically creates Judas bugs to kill cockroaches carrying disease. The bugs evolve quickly and learn to copy their next prey: humans.",
+        "directors": [
+            "Guillermo del Toro"
+        ],
+        "leads": [
+            "Mira Sorvino",
+            "Jeremy Northam",
+            "Josh Brolin"
+        ],
+        "music": [
+            "Marco Beltrami"
+        ]
+    },
+    "Money Talks (1997)": {
+        "title": "Money Talks",
+        "year": "1997",
+        "synopsis": "Sought by police and criminals to whom he owes money, a small-time car wash hustler agrees to hide out with a TV news reporter for protection.",
+        "directors": [
+            "Brett Ratner"
+        ],
+        "leads": [
+            "Chris Tucker",
+            "Charlie Sheen",
+            "Heather Locklear"
+        ],
+        "music": [
+            "Lalo Schifrin"
+        ]
+    },
+    "Hoodlum (1997)": {
+        "title": "Hoodlum",
+        "year": "1997",
+        "synopsis": "In 1934, Bumpy returns to Harlem, where criminal Schultz leads gambling but reports to Mafia boss Lucky. Employed by Queen, he starts a gang war.",
+        "directors": [
+            "Bill Duke"
+        ],
+        "leads": [
+            "Laurence Fishburne",
+            "Tim Roth",
+            "Andy Garc\u00eda"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Excess Baggage (1997)": {
+        "title": "Excess Baggage",
+        "year": "1997",
+        "synopsis": "A neglected daughter stages her own kidnapping to get her father's attention but is accidentally kidnapped by a car thief. Her uncle looks for her.",
+        "directors": [
+            "Marco Brambilla"
+        ],
+        "leads": [
+            "Alicia Silverstone",
+            "Benicio del Toro",
+            "Christopher Walken"
+        ],
+        "music": [
+            "John Lurie"
+        ]
+    },
+    "Fire Down Below (1997)": {
+        "title": "Fire Down Below",
+        "year": "1997",
+        "synopsis": "EPA agent Jack investigates lucrative toxic waste dumps in Kentucky and must deal with locals who want to keep the secret. He grows close to Sarah.",
+        "directors": [
+            "F\u00e9lix Enr\u00edquez Alcal\u00e1"
+        ],
+        "leads": [
+            "Steven Seagal",
+            "Marg Helgenberger",
+            "Harry Dean Stanton"
+        ],
+        "music": [
+            "Nick Glennie-Smith"
+        ]
+    },
+    "The Game (1997)": {
+        "title": "The Game",
+        "year": "1997",
+        "synopsis": "When his estranged brother returns with an odd gift of a personalized game on his birthday, a banker fears for his life and distrusts everyone.",
+        "directors": [
+            "David Fincher"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Sean Penn",
+            "James Rebhorn"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "In & Out (1997)": {
+        "title": "In & Out",
+        "year": "1997",
+        "synopsis": "After a former student thanks a teacher he says is gay at the Academy Awards, that Indiana teacher, engaged to a fianc\u00e9e, debates his own sexuality.",
+        "directors": [
+            "Frank Oz"
+        ],
+        "leads": [
+            "Kevin Kline",
+            "Tom Selleck",
+            "Joan Cusack"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "L.A. Confidential (1997)": {
+        "title": "L.A. Confidential",
+        "year": "1997",
+        "synopsis": "As corruption grows in 1950s Los Angeles, three policemen - one strait-laced, one brutal, and one sleazy - investigate a series of murders with their own brand of justice.",
+        "directors": [
+            "Curtis Hanson"
+        ],
+        "leads": [
+            "Kevin Spacey",
+            "Russell Crowe",
+            "Guy Pearce"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Soul Food (1997)": {
+        "title": "Soul Food",
+        "year": "1997",
+        "synopsis": "A matriarch has held her family together for 40 years around a Sunday dinner, but when diabetes hospitalizes her, her three daughters feud.",
+        "directors": [
+            "George Tillman Jr."
+        ],
+        "leads": [
+            "Vanessa Williams",
+            "Vivica A. Fox",
+            "Nia Long"
+        ],
+        "music": [
+            "Lisa Coleman",
+            "Wendy Melvoin"
+        ]
+    },
+    "The Peacemaker (1997)": {
+        "title": "The Peacemaker",
+        "year": "1997",
+        "synopsis": "U.S. Army colonel Thomas and Julia, the security lead supervising him, must locate stolen Russian nuclear weapons before terrorists can use them.",
+        "directors": [
+            "Mimi Leder"
+        ],
+        "leads": [
+            "George Clooney",
+            "Nicole Kidman",
+            "Armin Mueller-Stahl"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "The Ice Storm (1997)": {
+        "title": "The Ice Storm",
+        "year": "1997",
+        "synopsis": "In 1973 Connecticut, two middle-class neighbor families experimenting with adultery and alcohol find their lives out of control after Thanksgiving.",
+        "directors": [
+            "Ang Lee"
+        ],
+        "leads": [
+            "Kevin Kline",
+            "Joan Allen",
+            "Christina Ricci"
+        ],
+        "music": [
+            "Mychael Danna"
+        ]
+    },
+    "Kiss the Girls (1997)": {
+        "title": "Kiss the Girls",
+        "year": "1997",
+        "synopsis": "A forensic psychologist  travels to North Carolina and works with an escaped victim to hunt down a serial killer who abducts strong-willed women.",
+        "directors": [
+            "Gary Fleder"
+        ],
+        "leads": [
+            "Morgan Freeman",
+            "Ashley Judd",
+            "Cary Elwes"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "U Turn (1997)": {
+        "title": "U Turn",
+        "year": "1997",
+        "synopsis": "A man heading to Vegas to pay off his gambling debt before the Russian mafia kills him is forced to stop in an Arizona town where things go wrong.",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "leads": [
+            "Sean Penn",
+            "Jennifer Lopez",
+            "Nick Nolte"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Seven Years in Tibet (1997)": {
+        "title": "Seven Years in Tibet",
+        "year": "1997",
+        "synopsis": "In 1945, an Austrian mountaineer who had left a wife and son to climb a mountain befriends the 14th Dalai Lama during China's takeover of Tibet.",
+        "directors": [
+            "Jean-Jacques Annaud"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "David Thewlis",
+            "BD Wong"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Boogie Nights (1997)": {
+        "title": "Boogie Nights",
+        "year": "1997",
+        "synopsis": "In 1977, a porn producer aspires to elevate his craft to an art form by hiring a talented busboy in a nightclub and welcoming him into his family.",
+        "directors": [
+            "Paul Thomas Anderson"
+        ],
+        "leads": [
+            "Mark Wahlberg",
+            "Julianne Moore",
+            "Burt Reynolds"
+        ],
+        "music": [
+            "Michael Penn"
+        ]
+    },
+    "Bean (1997)": {
+        "title": "Bean",
+        "year": "1997",
+        "synopsis": "A bumbling security guard travels to America and is given the responsibility of bringing a painting to a museum. He stays with the family of its curator.",
+        "directors": [
+            "Mel Smith"
+        ],
+        "leads": [
+            "Rowan Atkinson",
+            "Peter MacNicol",
+            "Pamela Reed"
+        ],
+        "music": [
+            "Howard Goodall"
+        ]
+    },
+    "I Know What You Did Last Summer (1997)": {
+        "title": "I Know What You Did Last Summer",
+        "year": "1997",
+        "synopsis": "Four young friends bound by a tragic accident are reunited when they find themselves stalked by a hook-wielding maniac in their small seaside town.",
+        "directors": [
+            "Jim Gillespie"
+        ],
+        "leads": [
+            "Jennifer Love Hewitt",
+            "Sarah Michelle Gellar",
+            "Ryan Phillippe"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "The Devil's Advocate (1997)": {
+        "title": "The Devil's Advocate",
+        "year": "1997",
+        "synopsis": "An adept Florida lawyer begins a job at a top New York law firm led by Milton, who boosts his vanity while his sick wife witnesses devilish apparitions.",
+        "directors": [
+            "Taylor Hackford"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Al Pacino",
+            "Charlize Theron"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "A Life Less Ordinary (1997)": {
+        "title": "A Life Less Ordinary",
+        "year": "1997",
+        "synopsis": "Upon being fired, a desperate janitor kidnaps a daughter of his former boss. Two angels are sent to Earth to check if love is possible in this case.",
+        "directors": [
+            "Danny Boyle"
+        ],
+        "leads": [
+            "Ewan McGregor",
+            "Cameron Diaz",
+            "Holly Hunter"
+        ],
+        "music": [
+            "David Arnold"
+        ]
+    },
+    "Gattaca (1997)": {
+        "title": "Gattaca",
+        "year": "1997",
+        "synopsis": "A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.",
+        "directors": [
+            "Andrew Niccol"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Uma Thurman",
+            "Alan Arkin"
+        ],
+        "music": [
+            "Michael Nyman"
+        ]
+    },
+    "Switchback (1997)": {
+        "title": "Switchback",
+        "year": "1997",
+        "synopsis": "An FBI agent tracks his son's kidnapper to Texas, where two lawmen seek to use the case in their election bids. A genial drifter picks up a hitchhiker.",
+        "directors": [
+            "Jeb Stuart"
+        ],
+        "leads": [
+            "Dennis Quaid",
+            "Danny Glover",
+            "Jared Leto"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Eve's Bayou (1997)": {
+        "title": "Eve's Bayou",
+        "year": "1997",
+        "synopsis": "In 1962 Louisiana, a 10-year-old girl witnesses her doctor father with a married family friend. She tells her sister, who reveals traumas of her own.",
+        "directors": [
+            "Kasi Lemmons"
+        ],
+        "leads": [
+            "Jurnee Smollett",
+            "Debbi Morgan",
+            "Samuel L. Jackson"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "Starship Troopers (1997)": {
+        "title": "Starship Troopers",
+        "year": "1997",
+        "synopsis": "In the future, a young soldier named Johnny joins the Mobile Infantry in a war between mankind and an arachnoid species known as Bugs.",
+        "directors": [
+            "Paul Verhoeven"
+        ],
+        "leads": [
+            "Casper Van Dien",
+            "Dina Meyer",
+            "Denise Richards"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "The Jackal (1997)": {
+        "title": "The Jackal",
+        "year": "1997",
+        "synopsis": "An imprisoned IRA fighter is freed to help stop a brutal, seemingly faceless assassin from completing his next job.",
+        "directors": [
+            "Michael Caton-Jones"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Richard Gere",
+            "Sidney Poitier"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "The Man Who Knew Too Little (1997)": {
+        "title": "The Man Who Knew Too Little",
+        "year": "1997",
+        "synopsis": "Wallace flies to his brother in London. He joins an interactive improve theatre, but is mistaken for a spy. He must prevent real murders at a banquet.",
+        "directors": [
+            "Jon Amiel"
+        ],
+        "leads": [
+            "Bill Murray",
+            "Peter Gallagher",
+            "Joanne Whalley"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Anastasia (1997)": {
+        "title": "Anastasia",
+        "year": "1997",
+        "synopsis": "The last living child of the Russian Royal Family joins two con men to rejoin her grandmother, the Empress, but sorcerer Rasputin wants her dead.",
+        "directors": [
+            "Don Bluth"
+        ],
+        "leads": [
+            "Meg Ryan",
+            "John Cusack",
+            "Kelsey Grammer"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Midnight in the Garden of Good and Evil (1997)": {
+        "title": "Midnight in the Garden of Good and Evil",
+        "year": "1997",
+        "synopsis": "In Savannah, reporter John is assigned to cover a Christmas party. After homosexual millionaire Jim is accused in a murder trial, he befriends citizens.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "John Cusack",
+            "Kevin Spacey",
+            "Jack Thompson"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "Mortal Kombat: Annihilation (1997)": {
+        "title": "Mortal Kombat: Annihilation",
+        "year": "1997",
+        "synopsis": "After Shao Kahn opens a portal to Earthrealm, Liu, Sonya, and Kitana recruit Jax and Nightwolf to help save the Earth from an Outworld invasion.",
+        "directors": [
+            "John R. Leonetti"
+        ],
+        "leads": [
+            "Robin Shou",
+            "Talisa Soto",
+            "Brian Thompson"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "The Rainmaker (1997)": {
+        "title": "The Rainmaker",
+        "year": "1997",
+        "synopsis": "A first-time lawyer is an elderly couple's only hope after their corrupt insurance company refuses to pay out a claim that could save a dying son's life.",
+        "directors": [
+            "Francis Ford Coppola"
+        ],
+        "leads": [
+            "Matt Damon",
+            "Danny DeVito",
+            "Jon Voight"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Alien Resurrection (1997)": {
+        "title": "Alien Resurrection",
+        "year": "1997",
+        "synopsis": "200 years after her death, Ripley is revived as a hybrid clone. With a crew of space pirates, she battles Xenomorphs to stop them reaching Earth.",
+        "directors": [
+            "Jean-Pierre Jeunet"
+        ],
+        "leads": [
+            "Sigourney Weaver",
+            "Winona Ryder",
+            "Ron Perlman"
+        ],
+        "music": [
+            "John Frizzell"
+        ]
+    },
+    "Flubber (1997)": {
+        "title": "Flubber",
+        "year": "1997",
+        "synopsis": "Professor Philip Brainard develops a new energy source, a rubberlike bouncy substance, to raise enough money to save his college from closure.",
+        "directors": [
+            "Les Mayfield"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Marcia Gay Harden",
+            "Christopher McDonald"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Good Will Hunting (1997)": {
+        "title": "Good Will Hunting",
+        "year": "1997",
+        "synopsis": "20-year-old MIT janitor Will has a gift for math but needs help from a therapist to challenge himself, joining his girlfriend, not staying with poor friends.",
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Matt Damon",
+            "Ben Affleck"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Amistad (1997)": {
+        "title": "Amistad",
+        "year": "1997",
+        "synopsis": "In 1839, the revolt of Mende captives aboard a Spanish ship causes debate when it is captured in the U.S. Lawyers argue their freedom in court.",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "leads": [
+            "Morgan Freeman",
+            "Anthony Hopkins",
+            "Djimon Hounsou"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Deconstructing Harry (1997)": {
+        "title": "Deconstructing Harry",
+        "year": "1997",
+        "synopsis": "Suffering from writer's block and eagerly awaiting a writing award, Harry Block remembers his past while characters from his famed books haunt him.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Woody Allen",
+            "Richard Benjamin",
+            "Kirstie Alley"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Home Alone 3 (1997)": {
+        "title": "Home Alone 3",
+        "year": "1997",
+        "synopsis": "In Chicago, 8-year-old boy prodigy Alex, sick with chickenpox, is unable to go to school. He fends off spies who seek a computer chip in his toy car.",
+        "directors": [
+            "Raja Gosnell"
+        ],
+        "leads": [
+            "Alex D. Linz",
+            "Haviland Morris",
+            "Olek Krupa"
+        ],
+        "music": [
+            "Nick Glennie-Smith"
+        ]
+    },
+    "Scream 2 (1997)": {
+        "title": "Scream 2",
+        "year": "1997",
+        "synopsis": "Two years after the first series of murders, as Sidney acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+        "directors": [
+            "Wes Craven"
+        ],
+        "leads": [
+            "David Arquette",
+            "Neve Campbell",
+            "Courteney Cox"
+        ],
+        "music": [
+            "Marco Beltrami"
+        ]
+    },
+    "The Apostle (1997)": {
+        "title": "The Apostle",
+        "year": "1997",
+        "synopsis": "After his life spins out of control from a drunken hit, a Texas preacher changes his name, moves to Louisiana, and begins preaching on the radio.",
+        "directors": [
+            "Robert Duvall"
+        ],
+        "leads": [
+            "Robert Duvall",
+            "Farrah Fawcett",
+            "Billy Bob Thornton"
+        ],
+        "music": [
+            "David Mansfield"
+        ]
+    },
+    "Mouse Hunt (1997)": {
+        "title": "Mouse Hunt",
+        "year": "1997",
+        "synopsis": "Inheritors dutiful Lars and cynical cook Ernie are determined to rid their valuable house of a smart mouse who is determined to stay and avoid them.",
+        "directors": [
+            "Gore Verbinski"
+        ],
+        "leads": [
+            "Nathan Lane",
+            "Lee Evans",
+            "Maury Chaykin"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Titanic (1997)": {
+        "title": "Titanic",
+        "year": "1997",
+        "synopsis": "In 1912, wealthy Rose and poor artist Jack fall in love aboard a ship during its first voyage. When the ship hits an iceberg, the couple try to survive.",
+        "directors": [
+            "James Cameron"
+        ],
+        "leads": [
+            "Leonardo DiCaprio",
+            "Kate Winslet",
+            "Billy Zane"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Tomorrow Never Dies (1997)": {
+        "title": "Tomorrow Never Dies",
+        "year": "1997",
+        "synopsis": "Bond works with Chinese agent Wai Lin to stop a media mogul Carver's plan to induce a war with China to obtain exclusive global media coverage.",
+        "directors": [
+            "Roger Spottiswoode"
+        ],
+        "leads": [
+            "Pierce Brosnan",
+            "Jonathan Pryce",
+            "Michelle Yeoh"
+        ],
+        "music": [
+            "David Arnold"
+        ]
+    },
+    "As Good as It Gets (1997)": {
+        "title": "As Good as It Gets",
+        "year": "1997",
+        "synopsis": "In New York, a single mother waitress with a sick son, a misanthropic novelist, and a gay artist form a friendship after a robbery and caring for a dog.",
+        "directors": [
+            "James L. Brooks"
+        ],
+        "leads": [
+            "Jack Nicholson",
+            "Helen Hunt",
+            "Greg Kinnear"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "An American Werewolf in Paris (1997)": {
+        "title": "An American Werewolf in Paris",
+        "year": "1997",
+        "synopsis": "An American man unwittingly gets involved with French werewolves who have developed a serum allowing them to transform at will.",
+        "directors": [
+            "Anthony Waller"
+        ],
+        "leads": [
+            "Tom Everett Scott",
+            "Julie Delpy",
+            "Vince Vieluf"
+        ],
+        "music": [
+            "Wilbert Hirsch"
+        ]
+    },
+    "Jackie Brown (1997)": {
+        "title": "Jackie Brown",
+        "year": "1997",
+        "synopsis": "In L.A., a flight attendant smuggles money from Mexico into the U.S. for a gun runner. An LAPD detective and an ATF agent intercept and jail her.",
+        "directors": [
+            "Quentin Tarantino"
+        ],
+        "leads": [
+            "Pam Grier",
+            "Robert Forster",
+            "Samuel L. Jackson"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Kundun (1997)": {
+        "title": "Kundun",
+        "year": "1997",
+        "synopsis": "From 1937 to 1959, Tibet's fourteenth Dalai Lama deals with Chinese oppression as a leader before he is forced to flee to India with his life in danger.",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "leads": [
+            "Tenzin Thuthob Tsarong",
+            "Gyurme Tethong",
+            "Tulku Jamyang Kunga"
+        ],
+        "music": [
+            "Philip Glass"
+        ]
+    },
+    "Mr. Magoo (1997)": {
+        "title": "Mr. Magoo",
+        "year": "1997",
+        "synopsis": "A wealthy, near-sighted man accidentally gains a museum's priceless ruby. Jewel thieves trick him, and CIA agents suspect him of committing crime.",
+        "directors": [
+            "Stanley Tong"
+        ],
+        "leads": [
+            "Leslie Nielsen",
+            "Kelly Lynch",
+            "Ernie Hudson"
+        ],
+        "music": [
+            "Mike Tavera"
+        ]
+    },
+    "The Postman (1997)": {
+        "title": "The Postman",
+        "year": "1997",
+        "synopsis": "In post-apocalyptic 2013 Utah, a nameless drifter dons a postman's uniform and bag of mail as he begins a quest to inspire hope to U.S. survivors.",
+        "directors": [
+            "Kevin Costner"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Will Patton",
+            "Larenz Tate"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Wag the Dog (1997)": {
+        "title": "Wag the Dog",
+        "year": "1997",
+        "synopsis": "Shortly before an election, a spin doctor and a Hollywood producer join efforts to fabricate a war in Albania to cover up a presidential sex scandal.",
+        "directors": [
+            "Barry Levinson"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Dustin Hoffman",
+            "Anne Heche"
+        ],
+        "music": [
+            "Mark Knopfler"
+        ]
+    },
+    "Firestorm (1998)": {
+        "title": "Firestorm",
+        "year": "1998",
+        "synopsis": "A smokejumper must rescue an ornithologist and other citizens trapped in a forest fire that was set up by the lawyer of escaped convicted murderer.",
+        "directors": [
+            "Dean Semler"
+        ],
+        "leads": [
+            "Howie Long",
+            "Scott Glenn",
+            "William Forsythe"
+        ],
+        "music": [
+            "J. Peter Robinson"
+        ]
+    },
+    "Fallen (1998)": {
+        "title": "Fallen",
+        "year": "1998",
+        "synopsis": "In Philadelphia, a detective sees the execution of a serial killer. After similar murders resume, he learns a demon is possessing humans by touch.",
+        "directors": [
+            "Gregory Hoblit"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "John Goodman",
+            "Donald Sutherland"
+        ],
+        "music": [
+            "Tan Dun"
+        ]
+    },
+    "Half Baked (1998)": {
+        "title": "Half Baked",
+        "year": "1998",
+        "synopsis": "Three lovable party buds try to bail their friend out of jail. When the guys have mastered a plan, everything comes close to going up in smoke.",
+        "directors": [
+            "Tamra Davis"
+        ],
+        "leads": [
+            "Dave Chappelle",
+            "Jim Breuer",
+            "Harland Williams"
+        ],
+        "music": [
+            "Alf Clausen"
+        ]
+    },
+    "Phantoms (1998)": {
+        "title": "Phantoms",
+        "year": "1998",
+        "synopsis": "In village Snowfield, two sisters, a sheriff, and two deputies find nobody around and spread corpses. A creature who mimics absorbed victims attacks.",
+        "directors": [
+            "Joe Chappelle"
+        ],
+        "leads": [
+            "Peter O'Toole",
+            "Rose McGowan",
+            "Joanna Going"
+        ],
+        "music": [
+            "David C. Williams"
+        ]
+    },
+    "The Gingerbread Man (1998)": {
+        "title": "The Gingerbread Man",
+        "year": "1998",
+        "synopsis": "A divorced lawyer uses his power to help his lover put her abusive father behind bars, but when he escapes, the two and his children are in danger.",
+        "directors": [
+            "Robert Altman"
+        ],
+        "leads": [
+            "Kenneth Branagh",
+            "Embeth Davidtz",
+            "Robert Downey Jr."
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Deep Rising (1998)": {
+        "title": "Deep Rising",
+        "year": "1998",
+        "synopsis": "Heavily armed hijackers board an ocean liner to loot it but battle with large, tentacled, man-eating sea creatures who had already invaded the ship.",
+        "directors": [
+            "Stephen Sommers"
+        ],
+        "leads": [
+            "Treat Williams",
+            "Famke Janssen",
+            "Anthony Heald"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Great Expectations (1998)": {
+        "title": "Great Expectations",
+        "year": "1998",
+        "synopsis": "In New York, painter Finn pursues rich childhood friend Estella. After a benefactor helps him thrive with a gallery, he finds his dreams are unrealistic.",
+        "directors": [
+            "Alfonso Cuar\u00f3n"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Gwyneth Paltrow",
+            "Chris Cooper"
+        ],
+        "music": [
+            "Patrick Doyle",
+            "Ron Wasserman"
+        ]
+    },
+    "Blues Brothers 2000 (1998)": {
+        "title": "Blues Brothers 2000",
+        "year": "1998",
+        "synopsis": "Now brotherless, Elwood leaves prison, befriends a barman, and reunites his band to raise money for a youth hospital while battling Chicago police.",
+        "directors": [
+            "John Landis"
+        ],
+        "leads": [
+            "Dan Aykroyd",
+            "John Goodman",
+            "Joe Morton"
+        ],
+        "music": [
+            "Paul Shaffer"
+        ]
+    },
+    "Sphere (1998)": {
+        "title": "Sphere",
+        "year": "1998",
+        "synopsis": "A spacecraft is found at the bottom of the Pacific Ocean, thought to have been there for 300 years. In the Habitat, a team believe it is from the future.",
+        "directors": [
+            "Barry Levinson"
+        ],
+        "leads": [
+            "Dustin Hoffman",
+            "Sharon Stone",
+            "Samuel L. Jackson"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ]
+    },
+    "The Wedding Singer (1998)": {
+        "title": "The Wedding Singer",
+        "year": "1998",
+        "synopsis": "In 1985 New Jersey, singer Robbie's fianc\u00e9e gets cold feet before their wedding. New waitress Julia is engaged to a businessman. The two fall in love.",
+        "directors": [
+            "Frank Coraci"
+        ],
+        "leads": [
+            "Adam Sandler",
+            "Drew Barrymore",
+            "Christine Taylor"
+        ],
+        "music": [
+            "Teddy Castellucci"
+        ]
+    },
+    "Dark City (1998)": {
+        "title": "Dark City",
+        "year": "1998",
+        "synopsis": "A man struggles with his memories, including of a wife he cannot remember, and a nightmare world while on the run from the mysterious Strangers.",
+        "directors": [
+            "Alex Proyas"
+        ],
+        "leads": [
+            "Rufus Sewell",
+            "Kiefer Sutherland",
+            "Jennifer Connelly"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "The Big Lebowski (1998)": {
+        "title": "The Big Lebowski",
+        "year": "1998",
+        "synopsis": "The Dude, mistaken for a millionaire, is roughed up, and his rug is ruined. His bowling friends help him with a job as a bagman for a missing wife.",
+        "directors": [
+            "Joel Coen",
+            "Ethan Coen"
+        ],
+        "leads": [
+            "Jeff Bridges",
+            "John Goodman",
+            "Julianne Moore"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "U.S. Marshals (1998)": {
+        "title": "U.S. Marshals",
+        "year": "1998",
+        "synopsis": "U.S. Marshal Samuel Gerard and his team of Marshals are assigned to track down Sheridan, who has been accused of a double-murder.",
+        "directors": [
+            "Stuart Baird"
+        ],
+        "leads": [
+            "Tommy Lee Jones",
+            "Wesley Snipes",
+            "Robert Downey Jr."
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The Man in the Iron Mask (1998)": {
+        "title": "The Man in the Iron Mask",
+        "year": "1998",
+        "synopsis": "In 1662 France, three musketeers band together to replace King Louis XIV with his twin, hidden at birth and imprisoned for six years while disguised.",
+        "directors": [
+            "Randall Wallace"
+        ],
+        "leads": [
+            "Leonardo DiCaprio",
+            "Jeremy Irons",
+            "John Malkovich"
+        ],
+        "music": [
+            "Nick Glennie-Smith"
+        ]
+    },
+    "Primary Colors (1998)": {
+        "title": "Primary Colors",
+        "year": "1998",
+        "synopsis": "A young political idealist is recruited to join the political campaign of a charismatic but unfaithful Southern governor for a Presidential nomination.",
+        "directors": [
+            "Mike Nichols"
+        ],
+        "leads": [
+            "John Travolta",
+            "Emma Thompson",
+            "Billy Bob Thornton"
+        ],
+        "music": [
+            "Ry Cooder"
+        ]
+    },
+    "Wild Things (1998)": {
+        "title": "Wild Things",
+        "year": "1998",
+        "synopsis": "In Miami, a police detective exposes a conspiracy when a guidance counselor is accused of rape by two high school girls, one rich, one an outcast.",
+        "directors": [
+            "John McNaughton"
+        ],
+        "leads": [
+            "Kevin Bacon",
+            "Matt Dillon",
+            "Neve Campbell"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "Meet the Deedles (1998)": {
+        "title": "Meet the Deedles",
+        "year": "1998",
+        "synopsis": "Two surfers end up as Yellowstone park rangers and have to stop a former ranger who is out for revenge.",
+        "directors": [
+            "Steve Boyum"
+        ],
+        "leads": [
+            "Paul Walker",
+            "Steve Van Wormer",
+            "John Ashton"
+        ],
+        "music": [
+            "Steve Bartek"
+        ]
+    },
+    "The Newton Boys (1998)": {
+        "title": "The Newton Boys",
+        "year": "1998",
+        "synopsis": "In 1920s Texas, a family of four brothers become successful bank robbers due to proper planning and minimal violence. A train robbery goes poorly.",
+        "directors": [
+            "Richard Linklater"
+        ],
+        "leads": [
+            "Matthew McConaughey",
+            "Ethan Hawke",
+            "Skeet Ulrich"
+        ],
+        "music": [
+            "Edward D. Barnes"
+        ]
+    },
+    "Lost in Space (1998)": {
+        "title": "Lost in Space",
+        "year": "1998",
+        "synopsis": "The Robinson family goes into space to fight for a chance for humanity, but, after sabotage, must fight long enough to find a way home.",
+        "directors": [
+            "Stephen Hopkins"
+        ],
+        "leads": [
+            "Gary Oldman",
+            "William Hurt",
+            "Matt LeBlanc"
+        ],
+        "music": [
+            "Bruce Broughton"
+        ]
+    },
+    "Mercury Rising (1998)": {
+        "title": "Mercury Rising",
+        "year": "1998",
+        "synopsis": "Shadowy elements in the NSA target a nine-year old autistic savant for death when he is able to decipher a top secret code.",
+        "directors": [
+            "Harold Becker"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Alec Baldwin",
+            "Miko Hughes"
+        ],
+        "music": [
+            "John Barry",
+            "Carter Burwell"
+        ]
+    },
+    "The Players Club (1998)": {
+        "title": "The Players Club",
+        "year": "1998",
+        "synopsis": "Single mother Diamond dances at a raunchy club for Dollar Bill after meeting Ronnie and Trick. Her cousin Ebony joins her but quickly loses control.",
+        "directors": [
+            "Ice Cube"
+        ],
+        "leads": [
+            "LisaRaye",
+            "Bernie Mac",
+            "Monica Calhoun"
+        ],
+        "music": [
+            "Frank Fitzpatrick"
+        ]
+    },
+    "3 Ninjas: High Noon at Mega Mountain (1998)": {
+        "title": "3 Ninjas: High Noon at Mega Mountain",
+        "year": "1998",
+        "synopsis": "Brothers Rocky, Colt, and Tum Tum fight to save Dave Dragon, star of a cancelled TV show, at the Mega Mountain amusement park from criminals.",
+        "directors": [
+            "Sean McNamara"
+        ],
+        "leads": [
+            "Hulk Hogan",
+            "Loni Anderson",
+            "Victor Wong"
+        ],
+        "music": [
+            "John Coda"
+        ]
+    },
+    "City of Angels (1998)": {
+        "title": "City of Angels",
+        "year": "1998",
+        "synopsis": "A guardian angel who watches over L.A. citizens is captivated by a strong-willed heart surgeon. He trades his pure existence for a mortal life with her.",
+        "directors": [
+            "Brad Silberling"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Meg Ryan",
+            "Dennis Franz"
+        ],
+        "music": [
+            "Gabriel Yared"
+        ]
+    },
+    "Major League: Back to the Minors (1998)": {
+        "title": "Major League: Back to the Minors",
+        "year": "1998",
+        "synopsis": "Aging pitcher Gus Cantrell is recruited to take the role of managing the Buzz, the Minnesota Twins' AAA team. He tries to help a dysfunctional team.",
+        "directors": [
+            "John Warren"
+        ],
+        "leads": [
+            "Corbin Bernsen",
+            "Scott Bakula",
+            "Bob Uecker"
+        ],
+        "music": [
+            "Robert Folk"
+        ]
+    },
+    "The Object of My Affection (1998)": {
+        "title": "The Object of My Affection",
+        "year": "1998",
+        "synopsis": "A pregnant New York City social worker begins to develop romantic feelings for her gay best friend. She decides she wants to raise her child with him.",
+        "directors": [
+            "Nicholas Hytner"
+        ],
+        "leads": [
+            "Jennifer Aniston",
+            "Paul Rudd",
+            "John Pankow"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Sliding Doors (1998)": {
+        "title": "Sliding Doors",
+        "year": "1998",
+        "synopsis": "A London woman's love and job hinge on whether or not she takes a train. In one path, she catches her cheating husband. In a second, she fails to.",
+        "directors": [
+            "Peter Howitt"
+        ],
+        "leads": [
+            "Gwyneth Paltrow",
+            "John Hannah",
+            "John Lynch"
+        ],
+        "music": [
+            "David Hirschfelder"
+        ]
+    },
+    "He Got Game (1998)": {
+        "title": "He Got Game",
+        "year": "1998",
+        "synopsis": "Jake, in prison for killing his wife, is released on parole for a week by a governor to persuade his talented son to play basketball for his alma mater.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Ray Allen",
+            "Milla Jovovich"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Deep Impact (1998)": {
+        "title": "Deep Impact",
+        "year": "1998",
+        "synopsis": "A comet hurtles toward Earth. A crack reporter forces the President to announce a plan, while an astronaut team land on the comet and lay bombs.",
+        "directors": [
+            "Mimi Leder"
+        ],
+        "leads": [
+            "Robert Duvall",
+            "T\u00e9a Leoni",
+            "Elijah Wood"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Bulworth (1998)": {
+        "title": "Bulworth",
+        "year": "1998",
+        "synopsis": "A liberal politician puts a contract out on himself and takes the opportunity to be bluntly honest with his voters through hip-hop music and culture.",
+        "directors": [
+            "Warren Beatty"
+        ],
+        "leads": [
+            "Warren Beatty",
+            "Halle Berry",
+            "Don Cheadle"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "The Horse Whisperer (1998)": {
+        "title": "The Horse Whisperer",
+        "year": "1998",
+        "synopsis": "The mother of a teenage girl traumatized after an accident that killed her best friend enlists the aid of a unique horse trainer to help the girl's horse.",
+        "directors": [
+            "Robert Redford"
+        ],
+        "leads": [
+            "Robert Redford",
+            "Kristin Scott Thomas",
+            "Scarlett Johansson"
+        ],
+        "music": [
+            "Thomas Newman",
+            "Gwil Owen"
+        ]
+    },
+    "Godzilla (1998)": {
+        "title": "Godzilla",
+        "year": "1998",
+        "synopsis": "A giant, reptilian monster leaves destruction as it strides into New York City. An earthworm scientist and his reporter ex-girlfriend try to save their city.",
+        "directors": [
+            "Roland Emmerich"
+        ],
+        "leads": [
+            "Matthew Broderick",
+            "Jean Reno",
+            "Maria Pitillo"
+        ],
+        "music": [
+            "David Arnold"
+        ]
+    },
+    "Fear and Loathing in Las Vegas (1998)": {
+        "title": "Fear and Loathing in Las Vegas",
+        "year": "1998",
+        "synopsis": "In 1971, an oddball journalist and his big Samoan lawyer go to Las Vegas for a motorcycle race and to enjoy drugs and alcohol in their red convertible.",
+        "directors": [
+            "Terry Gilliam"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Benicio del Toro",
+            "Tobey Maguire"
+        ],
+        "music": [
+            "Ray Cooper"
+        ]
+    },
+    "Almost Heroes (1998)": {
+        "title": "Almost Heroes",
+        "year": "1998",
+        "synopsis": "In 1804, a foppish aristocrat and a loud tracker try to beat Lewis and Clark to the Pacific Ocean as they journey across America's western frontier.",
+        "directors": [
+            "Christopher Guest"
+        ],
+        "leads": [
+            "Chris Farley",
+            "Matthew Perry",
+            "Eugene Levy"
+        ],
+        "music": [
+            "Jeffrey C.J. Vanston"
+        ]
+    },
+    "Hope Floats (1998)": {
+        "title": "Hope Floats",
+        "year": "1998",
+        "synopsis": "Birdee Calvert must choose between her morals and her heart after her husband divorces her, and a charming young man, who her daughter disapproves of, comes back into her life.",
+        "directors": [
+            "Forest Whitaker"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Harry Connick Jr.",
+            "Gena Rowlands"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "A Perfect Murder (1998)": {
+        "title": "A Perfect Murder",
+        "year": "1998",
+        "synopsis": "A wealthy Wall Street speculator discovers his wife has a lover. He investigates him and offers a reward to make him murder his wife.",
+        "directors": [
+            "Andrew Davis"
+        ],
+        "leads": [
+            "Michael Douglas",
+            "Gwyneth Paltrow",
+            "Viggo Mortensen"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Truman Show (1998)": {
+        "title": "The Truman Show",
+        "year": "1998",
+        "synopsis": "In a dome, an insurance salesman learns his life is a 24/7 reality show that has been manipulating every aspect of his life. He plans to leave for Fiji.",
+        "directors": [
+            "Peter Weir"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Laura Linney",
+            "Noah Emmerich"
+        ],
+        "music": [
+            "Burkhard Dallwitz",
+            "Philip Glass,",
+            "Wojciech Kilar"
+        ]
+    },
+    "Can't Hardly Wait (1998)": {
+        "title": "Can't Hardly Wait",
+        "year": "1998",
+        "synopsis": "A high school class with an outsider, his four-year crush cheerleader, her jock boyfriend, a nerd, his best friend, and a wannabe thug party graduating.",
+        "directors": [
+            "Deborah Kaplan",
+            "Harry Elfont"
+        ],
+        "leads": [
+            "Ethan Embry",
+            "Jennifer Love Hewitt",
+            "Lauren Ambrose"
+        ],
+        "music": [
+            "David Kitay"
+        ]
+    },
+    "Dirty Work (1998)": {
+        "title": "Dirty Work",
+        "year": "1998",
+        "synopsis": "Two friends start a revenge-for-hire business, and work to fund heart surgery for one's father. They soon regret working for a dishonest businessman.",
+        "directors": [
+            "Bob Saget"
+        ],
+        "leads": [
+            "Norm Macdonald",
+            "Jack Warden",
+            "Artie Lange"
+        ],
+        "music": [
+            "Richard Gibbs"
+        ]
+    },
+    "Six Days, Seven Nights (1998)": {
+        "title": "Six Days, Seven Nights",
+        "year": "1998",
+        "synopsis": "Magazine editor Robin and rough pilot Quinn put aside mutual hate to survive after they crash-land on a deserted South Seas island close to pirates.",
+        "directors": [
+            "Ivan Reitman"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Anne Heche",
+            "David Schwimmer"
+        ],
+        "music": [
+            "Randy Edelman",
+            "Taj Mahal"
+        ]
+    },
+    "Mulan (1998)": {
+        "title": "Mulan",
+        "year": "1998",
+        "synopsis": "To save her father from death in the army, a young maiden secretly goes in his place and becomes one of China's greatest heroines in the process.",
+        "directors": [
+            "Barry Cook",
+            "Tony Bancroft"
+        ],
+        "leads": [
+            "Ming-Na Wen",
+            "Eddie Murphy",
+            "BD Wong"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The X-Files (1998)": {
+        "title": "The X-Files",
+        "year": "1998",
+        "synopsis": "Agents Mulder and Scully investigate a bombing of a building, fight the government in a conspiracy and learn about an alien colonization of Earth.",
+        "directors": [
+            "Rob Bowman"
+        ],
+        "leads": [
+            "David Duchovny",
+            "Gillian Anderson",
+            "Martin Landau"
+        ],
+        "music": [
+            "Mark Snow"
+        ]
+    },
+    "Dr. Dolittle (1998)": {
+        "title": "Dr. Dolittle",
+        "year": "1998",
+        "synopsis": "A successful physician and devoted family man's suppressed ability to communicate with animals is suddenly reawakened with a vengeance.",
+        "directors": [
+            "Betty Thomas"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Ossie Davis",
+            "Oliver Platt"
+        ],
+        "music": [
+            "Richard Gibbs"
+        ]
+    },
+    "Out of Sight (1998)": {
+        "title": "Out of Sight",
+        "year": "1998",
+        "synopsis": "In Detroit, bank robber Jack looks for diamonds in a mansion as marshal Karen looks for yet falls for him. Vicious Maurice creates his own heist crew.",
+        "directors": [
+            "Steven Soderbergh"
+        ],
+        "leads": [
+            "George Clooney",
+            "Jennifer Lopez",
+            "Ving Rhames"
+        ],
+        "music": [
+            "David Holmes"
+        ]
+    },
+    "Armageddon (1998)": {
+        "title": "Armageddon",
+        "year": "1998",
+        "synopsis": "After learning a Texas-sized asteroid will hit Earth in 18 days, NASA recruits Harry Stamper's team of drillers that includes his daughter's fianc\u00e9 A.J.",
+        "directors": [
+            "Michael Bay"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Billy Bob Thornton",
+            "Ben Affleck"
+        ],
+        "music": [
+            "Trevor Rabin"
+        ]
+    },
+    "Lethal Weapon 4 (1998)": {
+        "title": "Lethal Weapon 4",
+        "year": "1998",
+        "synopsis": "LAPD captains Riggs and Murtaugh contend with Chinese triads aiming to free leaders from prison. Detective Butters joins the two but hides a secret.",
+        "directors": [
+            "Richard Donner"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Danny Glover",
+            "Joe Pesci"
+        ],
+        "music": [
+            "Michael Kamen",
+            "Eric Clapton",
+            "David Sanborn"
+        ]
+    },
+    "Madeline (1998)": {
+        "title": "Madeline",
+        "year": "1998",
+        "synopsis": "In 1956 France, a young orphan uses her wit and craftiness to attempt to save her beloved school, making an unlikely new dog friend in the process.",
+        "directors": [
+            "Daisy von Scherler Mayer"
+        ],
+        "leads": [
+            "Hatty Jones",
+            "Frances McDormand",
+            "Nigel Hawthorne"
+        ],
+        "music": [
+            "Michel Legrand"
+        ]
+    },
+    "Small Soldiers (1998)": {
+        "title": "Small Soldiers",
+        "year": "1998",
+        "synopsis": "The toy factions of the Commando Elite and the Gorgonites are built with military microprocessors, putting the neighborhood in danger with violence.",
+        "directors": [
+            "Joe Dante"
+        ],
+        "leads": [
+            "Kirsten Dunst",
+            "Gregory Smith",
+            "Jay Mohr"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "There's Something About Mary (1998)": {
+        "title": "There's Something About Mary",
+        "year": "1998",
+        "synopsis": "Ted still loves a dream girl from high school, so he hires a private investigator to track her down in Miami, but he too falls for her. A rivalry ensues.",
+        "directors": [
+            "Peter Farrelly",
+            "Bobby Farrelly"
+        ],
+        "leads": [
+            "Ben Stiller",
+            "Cameron Diaz",
+            "Matt Dillon"
+        ],
+        "music": [
+            "Jonathan Richman"
+        ]
+    },
+    "The Mask of Zorro (1998)": {
+        "title": "The Mask of Zorro",
+        "year": "1998",
+        "synopsis": "A young thief, seeking revenge for the death of his brother, is trained by the once great, but aged Zorro, who also pursues vengeance of his own.",
+        "directors": [
+            "Martin Campbell"
+        ],
+        "leads": [
+            "Antonio Banderas",
+            "Anthony Hopkins",
+            "Catherine Zeta-Jones"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Lolita (1998)": {
+        "title": "Lolita",
+        "year": "1998",
+        "synopsis": "In 1947, a middle-aged European professor takes a position in New Hampshire and falls in love with a 14-year-old girl he tells people is his daughter.",
+        "directors": [
+            "Adrian Lyne"
+        ],
+        "leads": [
+            "Jeremy Irons",
+            "Dominique Swain",
+            "Frank Langella"
+        ],
+        "music": [
+            "Ennio Morricone"
+        ]
+    },
+    "Disturbing Behavior (1998)": {
+        "title": "Disturbing Behavior",
+        "year": "1998",
+        "synopsis": "The new kid in Cradle Bay, Washington stumbles across something sinister about the town's transforming of its teens into upstanding citizens.",
+        "directors": [
+            "David Nutter"
+        ],
+        "leads": [
+            "James Marsden",
+            "Katie Holmes",
+            "Nick Stahl"
+        ],
+        "music": [
+            "Mark Snow"
+        ]
+    },
+    "Saving Private Ryan (1998)": {
+        "title": "Saving Private Ryan",
+        "year": "1998",
+        "synopsis": "After the U.S. storms Normandy, eight soldiers go behind German enemy lines to find a paratrooper whose three brothers have been killed in action.",
+        "directors": [
+            "Steven Spielberg"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Edward Burns",
+            "Matt Damon"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "The Negotiator (1998)": {
+        "title": "The Negotiator",
+        "year": "1998",
+        "synopsis": "To prove his innocence, a skilled police negotiator accused of corruption and murder takes hostages in an office to gain time to find the truth.",
+        "directors": [
+            "F. Gary Gray"
+        ],
+        "leads": [
+            "Samuel L. Jackson",
+            "Kevin Spacey",
+            "David Morse"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "The Parent Trap (1998)": {
+        "title": "The Parent Trap",
+        "year": "1998",
+        "synopsis": "Identical twins Annie and Hallie separated at birth discover each other for the first time at summer camp and plan to reunite their parents.",
+        "directors": [
+            "Nancy Meyers"
+        ],
+        "leads": [
+            "Lindsay Lohan",
+            "Dennis Quaid",
+            "Natasha Richardson"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "BASEketball (1998)": {
+        "title": "BASEketball",
+        "year": "1998",
+        "synopsis": "Two childhood friends are pro athletes of a hybrid of baseball and basketball and must deal with a greedy businessman scheming against them.",
+        "directors": [
+            "David Zucker"
+        ],
+        "leads": [
+            "Trey Parker",
+            "Matt Stone",
+            "Yasmine Bleeth"
+        ],
+        "music": [
+            "Ira Newborn"
+        ]
+    },
+    "Ever After (1998)": {
+        "title": "Ever After",
+        "year": "1998",
+        "synopsis": "In 1512, Danielle is a servant of a stepmother and two stepsisters. Her path crosses that of a prince who has his own troubles, having to pick a bride.",
+        "directors": [
+            "Andy Tennant"
+        ],
+        "leads": [
+            "Drew Barrymore",
+            "Anjelica Huston",
+            "Dougray Scott"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Halloween H20: 20 Years Later (1998)": {
+        "title": "Halloween H20: 20 Years Later",
+        "year": "1998",
+        "synopsis": "Hilcrest Academy headmistress Laurie has faked her death. Michael Myers finds her and terrorizes those she loves, like son John and boyfriend Will.",
+        "directors": [
+            "Steve Miner"
+        ],
+        "leads": [
+            "Jamie Lee Curtis",
+            "Adam Arkin",
+            "Michelle Williams"
+        ],
+        "music": [
+            "John Ottman",
+            "Marco Beltrami"
+        ]
+    },
+    "Snake Eyes (1998)": {
+        "title": "Snake Eyes",
+        "year": "1998",
+        "synopsis": "A shady police detective with a Navy best friend finds himself in the middle of a murder conspiracy at a major boxing match in an Atlantic City casino.",
+        "directors": [
+            "Brian De Palma"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Gary Sinise",
+            "Carla Gugino"
+        ],
+        "music": [
+            "Ryuichi Sakamoto"
+        ]
+    },
+    "How Stella Got Her Groove Back (1998)": {
+        "title": "How Stella Got Her Groove Back",
+        "year": "1998",
+        "synopsis": "A successful 40-year-old San Francisco stock broker with a son takes a vacation to Jamaica, where she has a summer fling with a 20-year-old.",
+        "directors": [
+            "Kevin Rodney Sullivan"
+        ],
+        "leads": [
+            "Angela Bassett",
+            "Taye Diggs",
+            "Regina King"
+        ],
+        "music": [
+            "Michel Colombier"
+        ]
+    },
+    "The Avengers (1998)": {
+        "title": "The Avengers",
+        "year": "1998",
+        "synopsis": "British agents Steed and Peel team up to stop an evil genius with a weather-changing machine that can end the world. One is suspected of sabotage.",
+        "directors": [
+            "Jeremiah S. Chechik"
+        ],
+        "leads": [
+            "Ralph Fiennes",
+            "Uma Thurman",
+            "Sean Connery"
+        ],
+        "music": [
+            "Joel McNeely"
+        ]
+    },
+    "Blade (1998)": {
+        "title": "Blade",
+        "year": "1998",
+        "synopsis": "A half-vampire, half-mortal man protects humans with his men and a hematologist. Deacon wants his special blood to summon an evil blood god.",
+        "directors": [
+            "Stephen Norrington"
+        ],
+        "leads": [
+            "Wesley Snipes",
+            "Stephen Dorff",
+            "Kris Kristofferson"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Wrongfully Accused (1998)": {
+        "title": "Wrongfully Accused",
+        "year": "1998",
+        "synopsis": "Ryan is framed for murder so must prove himself innocent by finding a man with one eye, one arm, and one leg after escaping from a bus accident.",
+        "directors": [
+            "Pat Proft"
+        ],
+        "leads": [
+            "Leslie Nielsen",
+            "Richard Crenna",
+            "Kelly Le Brock"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "54 (1998)": {
+        "title": "54",
+        "year": "1998",
+        "synopsis": "In 1979, 19-year-old Shane becomes a busboy at Studio 54, a famous gay nightclub in New York City. He meets a coat-check girl and her husband.",
+        "directors": [
+            "Mark Christopher"
+        ],
+        "leads": [
+            "Ryan Phillippe",
+            "Salma Hayek",
+            "Neve Campbell"
+        ],
+        "music": [
+            "Marco Beltrami"
+        ]
+    },
+    "Knock Off (1998)": {
+        "title": "Knock Off",
+        "year": "1998",
+        "synopsis": "A Hong Kong fashion designer tries to go straight with the help of his new partner, who is secretly a CIA agent investigating fakes in the black market.",
+        "directors": [
+            "Tsui Hark"
+        ],
+        "leads": [
+            "Jean-Claude Van Damme",
+            "Rob Schneider",
+            "Lela Rochon"
+        ],
+        "music": [
+            "Ron Mael",
+            "Russell Mael"
+        ]
+    },
+    "Rounders (1998)": {
+        "title": "Rounders",
+        "year": "1998",
+        "synopsis": "In New York, after losing $30,000 in poker, a law student returns to the game to help Worm pay off loan sharks while balancing a relationship with Jo.",
+        "directors": [
+            "John Dahl"
+        ],
+        "leads": [
+            "Matt Damon",
+            "Edward Norton",
+            "John Turturro"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "Without Limits (1998)": {
+        "title": "Without Limits",
+        "year": "1998",
+        "synopsis": "In the 1970s, runner Steve Prefontaine works with coach Bill Bowerman in the University of Oregon, and then the Olympics in Munich before a crash.",
+        "directors": [
+            "Robert Towne"
+        ],
+        "leads": [
+            "Billy Crudup",
+            "Donald Sutherland",
+            "Monica Potter"
+        ],
+        "music": [
+            "Randy Miller"
+        ]
+    },
+    "One True Thing (1998)": {
+        "title": "One True Thing",
+        "year": "1998",
+        "synopsis": "Busy magazine writer Ellen is asked by her smart professor father George to come home and watch her mother with cancer Eileen, whom she hates.",
+        "directors": [
+            "Carl Franklin"
+        ],
+        "leads": [
+            "Meryl Streep",
+            "Ren\u00e9e Zellweger",
+            "William Hurt"
+        ],
+        "music": [
+            "Cliff Eidelman"
+        ]
+    },
+    "Permanent Midnight (1998)": {
+        "title": "Permanent Midnight",
+        "year": "1998",
+        "synopsis": "Jerry rises as a TV writer but is addicted to drugs. He marries and has a child with Sandra. After his rehabilitation, he recalls his life and fall with Kitty.",
+        "directors": [
+            "David Veloz"
+        ],
+        "leads": [
+            "Ben Stiller",
+            "Elizabeth Hurley",
+            "Maria Bello"
+        ],
+        "music": [
+            "Daniel Licht"
+        ]
+    },
+    "Rush Hour (1998)": {
+        "title": "Rush Hour",
+        "year": "1998",
+        "synopsis": "A dedicated Hong Kong inspector teams up with a reckless LAPD detective to rescue the Chinese consul's abducted daughter and stop a crime lord.",
+        "directors": [
+            "Brett Ratner"
+        ],
+        "leads": [
+            "Jackie Chan",
+            "Chris Tucker",
+            "Tom Wilkinson"
+        ],
+        "music": [
+            "Lalo Schifrin"
+        ]
+    },
+    "Clay Pigeons (1998)": {
+        "title": "Clay Pigeons",
+        "year": "1998",
+        "synopsis": "Clay Bidwell observes his friend kill himself due to Clay's affair with his wife. He resists his wife, but problems worsen when he befriends a serial killer.",
+        "directors": [
+            "David Dobkin"
+        ],
+        "leads": [
+            "Joaquin Phoenix",
+            "Vince Vaughn",
+            "Janeane Garofalo"
+        ],
+        "music": [
+            "John Lurie"
+        ]
+    },
+    "Ronin (1998)": {
+        "title": "Ronin",
+        "year": "1998",
+        "synopsis": "IRA agent Dierdre tasks specialists like American mercenary Sam with finding a metallic briefcase that is wanted by both the Irish and the Russians.",
+        "directors": [
+            "John Frankenheimer"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Jean Reno",
+            "Natascha McElhone"
+        ],
+        "music": [
+            "Elia Cmiral"
+        ]
+    },
+    "Urban Legend (1998)": {
+        "title": "Urban Legend",
+        "year": "1998",
+        "synopsis": "In New Hampshire, on a college campus, a serial killer models murders after tales told as true. Paul and Natalie investigate and learn about the villain.",
+        "directors": [
+            "Jamie Blanks"
+        ],
+        "leads": [
+            "Jared Leto",
+            "Alicia Witt",
+            "Rebecca Gayheart"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "A Night at the Roxbury (1998)": {
+        "title": "A Night at the Roxbury",
+        "year": "1998",
+        "synopsis": "Two dimwitted brothers dream of owning their own dance club or at least getting into the most exclusive nightclub in Los Angeles: the Roxbury.",
+        "directors": [
+            "John Fortenberry"
+        ],
+        "leads": [
+            "Will Ferrell",
+            "Chris Kattan",
+            "Dan Hedaya"
+        ],
+        "music": [
+            "David Kitay"
+        ]
+    },
+    "Antz (1998)": {
+        "title": "Antz",
+        "year": "1998",
+        "synopsis": "Anxious, depressed worker ant Z falls for princess Bala, but her mean fianc\u00e9 General Mandble plots to wipe out the worker population and the Queen.",
+        "directors": [
+            "Eric Darnell",
+            "Tim Johnson"
+        ],
+        "leads": [
+            "Woody Allen",
+            "Gene Hackman",
+            "Sharon Stone"
+        ],
+        "music": [
+            "Harry Gregson-Williams",
+            "John Powell"
+        ]
+    },
+    "What Dreams May Come (1998)": {
+        "title": "What Dreams May Come",
+        "year": "1998",
+        "synopsis": "Chris dies in an accident and enters Heaven. His wife Annie kills herself out of grief, so he embarks on a dark adventure into Hell to reunite with her.",
+        "directors": [
+            "Vincent Ward"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Cuba Gooding Jr.",
+            "Annabella Sciorra"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "Holy Man (1998)": {
+        "title": "Holy Man",
+        "year": "1998",
+        "synopsis": "Two executives find a television evangelist who finds a way to turn a home shopping channel into a religious experience, taking the U.S. by storm.",
+        "directors": [
+            "Stephen Herek"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Jeff Goldblum",
+            "Kelly Preston"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Beloved (1998)": {
+        "title": "Beloved",
+        "year": "1998",
+        "synopsis": "In Ohio, after the Civli War, a former slave and her daughter are haunted by a poltergeist and the visitation of the reincarnated daughter she killed.",
+        "directors": [
+            "Jonathan Demme"
+        ],
+        "leads": [
+            "Oprah Winfrey",
+            "Danny Glover",
+            "Thandiwe Newton"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Bride of Chucky (1998)": {
+        "title": "Bride of Chucky",
+        "year": "1998",
+        "synopsis": "Chucky, the doll possessed by a serial killer, discovers the perfect mate to kill and revive into the body of another doll.",
+        "directors": [
+            "Ronny Yu"
+        ],
+        "leads": [
+            "Jennifer Tilly",
+            "Brad Dourif",
+            "Katherine Heigl"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Practical Magic (1998)": {
+        "title": "Practical Magic",
+        "year": "1998",
+        "synopsis": "Witch sisters quiet Sally and fiery Gillian, raised by eccentric aunts in a small town, face prejudice and a curse that leaves any men they love dead.",
+        "directors": [
+            "Griffin Dunne"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Nicole Kidman",
+            "Dianne Wiest"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Apt Pupil (1998)": {
+        "title": "Apt Pupil",
+        "year": "1998",
+        "synopsis": "In 1984, 16-year-old Todd, fascinated by Nazism, befriends his neighbor, who resembles a wanted Nazi war criminal and pushes him to study harder.",
+        "directors": [
+            "Bryan Singer"
+        ],
+        "leads": [
+            "Ian McKellen",
+            "Brad Renfro",
+            "David Schwimmer"
+        ],
+        "music": [
+            "John Ottman"
+        ]
+    },
+    "Life Is Beautiful (1998)": {
+        "title": "Life Is Beautiful",
+        "year": "1998",
+        "synopsis": "When a Jewish librarian and his son become victims of the Holocaust, he uses will, humor, and imagination to protect his son from their camp.",
+        "directors": [
+            "Roberto Benigni"
+        ],
+        "leads": [
+            "Roberto Benigni",
+            "Nicoletta Braschi",
+            "Giorgio Cantarini"
+        ],
+        "music": [
+            "Nicola Piovani"
+        ]
+    },
+    "Pleasantville (1998)": {
+        "title": "Pleasantville",
+        "year": "1998",
+        "synopsis": "Two 90s teenage siblings find themselves stuck taking on roles in a 1950s sitcom. Their influence brings color to a black-and-white Midwest town.",
+        "directors": [
+            "Gary Ross"
+        ],
+        "leads": [
+            "Tobey Maguire",
+            "Reese Witherspoon",
+            "Jeff Daniels"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Soldier (1998)": {
+        "title": "Soldier",
+        "year": "1998",
+        "synopsis": "In 2036, a soldier trained from his birth is deemed obsolete and dumped on a waste planet where he is taken in by a community of stranded wayfarers.",
+        "directors": [
+            "Paul W. S. Anderson"
+        ],
+        "leads": [
+            "Kurt Russell",
+            "Jason Scott Lee",
+            "Connie Nielsen"
+        ],
+        "music": [
+            "Joel McNeely"
+        ]
+    },
+    "Living Out Loud (1998)": {
+        "title": "Living Out Loud",
+        "year": "1998",
+        "synopsis": "In New York, Judith's doctor husband leaves her for a younger woman. She bonds with apartment superintendent Pat, who has gambling problems.",
+        "directors": [
+            "Richard LaGravenese"
+        ],
+        "leads": [
+            "Holly Hunter",
+            "Danny DeVito",
+            "Queen Latifah"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Vampires (1998)": {
+        "title": "Vampires",
+        "year": "1998",
+        "synopsis": "Vampire hunters Jack Crow and Tony Montoya try to stop a leader from getting a cross that can give sunlight immunity. They meet a bitten prostitute.",
+        "directors": [
+            "John Carpenter"
+        ],
+        "leads": [
+            "James Woods",
+            "Daniel Baldwin",
+            "Sheryl Lee"
+        ],
+        "music": [
+            "John Carpenter"
+        ]
+    },
+    "Belly (1998)": {
+        "title": "Belly",
+        "year": "1998",
+        "synopsis": "In 1999 Queens, young street criminals Sincere and Tommy deal drugs and pull armed robberies. Sincere considers roots while Tommy finds Islam.",
+        "directors": [
+            "Hype Williams"
+        ],
+        "leads": [
+            "Nas",
+            "DMX",
+            "Taral Hicks"
+        ],
+        "music": [
+            "Stephen Cullo"
+        ]
+    },
+    "Gods and Monsters (1998)": {
+        "title": "Gods and Monsters",
+        "year": "1998",
+        "synopsis": "In the 1950s, director James Whale has retired, living with a housemaid who disapproves of his homosexuality. He befriends his young gardener.",
+        "directors": [
+            "Bill Condon"
+        ],
+        "leads": [
+            "Ian McKellen",
+            "Brendan Fraser",
+            "Lynn Redgrave"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Elizabeth (1998)": {
+        "title": "Elizabeth",
+        "year": "1998",
+        "synopsis": "In 1558, a woman becomes queen of a distressed England. She is advised to marry and produce an heir by counsel William, but she refuses to do so.",
+        "directors": [
+            "Shekhar Kapur"
+        ],
+        "leads": [
+            "Cate Blanchett",
+            "Geoffrey Rush",
+            "Christopher Eccleston"
+        ],
+        "music": [
+            "David Hirschfelder"
+        ]
+    },
+    "The Siege (1998)": {
+        "title": "The Siege",
+        "year": "1998",
+        "synopsis": "The secret U.S. abduction of a suspected terrorist leads to a wave of terrorist attacks in New York City, which leads to the declaration of martial-law.",
+        "directors": [
+            "Edward Zwick"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Annette Bening",
+            "Bruce Willis"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "The Waterboy (1998)": {
+        "title": "The Waterboy",
+        "year": "1998",
+        "synopsis": "In Louisiana, Billy Boucher, a sideline worker for a college football team, learns he has tackling talent and plays as a linebacker who channels his rage.",
+        "directors": [
+            "Frank Coraci"
+        ],
+        "leads": [
+            "Adam Sandler",
+            "Kathy Bates",
+            "Fairuza Balk"
+        ],
+        "music": [
+            "Alan Pasqua"
+        ]
+    },
+    "Velvet Goldmine (1998)": {
+        "title": "Velvet Goldmine",
+        "year": "1998",
+        "synopsis": "In 1984, British journalist Arthur investigates the career of 1970s glam superstar Brian Slade, who faked his death and was influenced by Curt Wild.",
+        "directors": [
+            "Todd Haynes"
+        ],
+        "leads": [
+            "Ewan McGregor",
+            "Christian Bale",
+            "Jonathan Rhys Meyers"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "I Still Know What You Did Last Summer (1998)": {
+        "title": "I Still Know What You Did Last Summer",
+        "year": "1998",
+        "synopsis": "A murderous fisherman returns to stalk two surviving teens who had left him for dead, as well as cause mayhem at a posh island resort.",
+        "directors": [
+            "Danny Cannon"
+        ],
+        "leads": [
+            "Jennifer Love Hewitt",
+            "Freddie Prinze Jr.",
+            "Brandy"
+        ],
+        "music": [
+            "John Frizzell"
+        ]
+    },
+    "I'll Be Home for Christmas (1998)": {
+        "title": "I'll Be Home for Christmas",
+        "year": "1998",
+        "synopsis": "College student Jake must travel all the way from L.A. to his family's home in Larchmont, New York for Christmas dinner to earn his father's Porsche.",
+        "directors": [
+            "Arlene Sanford"
+        ],
+        "leads": [
+            "Jonathan Taylor Thomas",
+            "Jessica Biel",
+            "Adam LaVorgna"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Meet Joe Black (1998)": {
+        "title": "Meet Joe Black",
+        "year": "1998",
+        "synopsis": "Death takes the form of a young man and asks a dying media mogul to teach him about life. In the process, he falls in love with his guide's daughter.",
+        "directors": [
+            "Martin Brest"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Anthony Hopkins",
+            "Claire Forlani"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "A Bug's Life (1998)": {
+        "title": "A Bug's Life",
+        "year": "1998",
+        "synopsis": "An misfit inventive ant accidentally destroys his colony's food stores. He recruits circus bugs as warriors to save them from greedy grasshoppers.",
+        "directors": [
+            "John Lasseter"
+        ],
+        "leads": [
+            "Dave Foley",
+            "Kevin Spacey",
+            "Julia Louis-Dreyfus"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "American History X (1998)": {
+        "title": "American History X",
+        "year": "1998",
+        "synopsis": "In Los Angeles, a former neo-Nazi skinhead kept in prison for three years tries to stop his younger brother from going down the same wrong path.",
+        "directors": [
+            "Tony Kaye"
+        ],
+        "leads": [
+            "Edward Norton",
+            "Edward Furlong",
+            "Fairuza Balk"
+        ],
+        "music": [
+            "Anne Dudley"
+        ]
+    },
+    "Celebrity (1998)": {
+        "title": "Celebrity",
+        "year": "1998",
+        "synopsis": "Travel writer Lee's career is at a standstill, so he divorces his wife and becomes an entertainment journalist. A TV producer falls for his wife Robin.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Kenneth Branagh",
+            "Judy Davis",
+            "Winona Ryder"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Enemy of the State (1998)": {
+        "title": "Enemy of the State",
+        "year": "1998",
+        "synopsis": "A lawyer becomes targeted by a corrupt politician and his NSA goons when he accidentally receives a tape, evidence to a politically motivated crime.",
+        "directors": [
+            "Tony Scott"
+        ],
+        "leads": [
+            "Will Smith",
+            "Gene Hackman",
+            "Jon Voight"
+        ],
+        "music": [
+            "Harry Gregson-Williams",
+            "Trevor Rabin"
+        ]
+    },
+    "The Rugrats Movie (1998)": {
+        "title": "The Rugrats Movie",
+        "year": "1998",
+        "synopsis": "Baby Tommy faces responsibility when his little brother Dil is born. Dil is difficult to handle, so his friends decide to return him where he came from.",
+        "directors": [
+            "Igor Kovalyov",
+            "Norton Virgien"
+        ],
+        "leads": [
+            "E. G. Daily",
+            "Tara Strong",
+            "Christine Cavanaugh"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ]
+    },
+    "Babe: Pig in the City (1998)": {
+        "title": "Babe: Pig in the City",
+        "year": "1998",
+        "synopsis": "After Farmer Hoggett is injured so unable to work, his pig Babe has to go to the big city of Metropolis to save the farm by joining a big herding contest.",
+        "directors": [
+            "George Miller"
+        ],
+        "leads": [
+            "Magda Szubanski",
+            "James Cromwell",
+            "Mickey Rooney"
+        ],
+        "music": [
+            "Nigel Westlake"
+        ]
+    },
+    "Home Fries (1998)": {
+        "title": "Home Fries",
+        "year": "1998",
+        "synopsis": "Pregnant Sally unknowingly falls for the stepson of her baby's deceased father, who was scared to death by a helicopter as part of his wife's scheme.",
+        "directors": [
+            "Dean Parisot"
+        ],
+        "leads": [
+            "Drew Barrymore",
+            "Catherine O'Hara",
+            "Luke Wilson"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Very Bad Things (1998)": {
+        "title": "Very Bad Things",
+        "year": "1998",
+        "synopsis": "A prostitute and a security guard are killed during the bachelor party of a groom and his four friends. Their anxiety grows as the wedding approaches.",
+        "directors": [
+            "Peter Berg"
+        ],
+        "leads": [
+            "Christian Slater",
+            "Cameron Diaz",
+            "Jon Favreau"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ]
+    },
+    "Psycho (1998)": {
+        "title": "Psycho",
+        "year": "1998",
+        "synopsis": "Marion steals $400,000 from work and travels to the Bates Motel, run by Norman, who is controlled by his mother. Her sister Lila later tries to find her.",
+        "directors": [
+            "Gus Van Sant"
+        ],
+        "leads": [
+            "Vince Vaughn",
+            "Anne Heche",
+            "Julianne Moore"
+        ],
+        "music": [
+            "Bernard Herrmann"
+        ]
+    },
+    "A Simple Plan (1998)": {
+        "title": "A Simple Plan",
+        "year": "1998",
+        "synopsis": "Two blue-collar brothers and a friend find millions of dollars in a crashed airplane and make a plan to hide their find from authorities. Mistrust grows.",
+        "directors": [
+            "Sam Raimi"
+        ],
+        "leads": [
+            "Bill Paxton",
+            "Billy Bob Thornton",
+            "Bridget Fonda"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Jack Frost (1998)": {
+        "title": "Jack Frost",
+        "year": "1998",
+        "synopsis": "Rock band singer Jack dies in a car accident. His 12-year-old son Charlie plays a harmonica a year later, reviving him as a moving, talking snowman.",
+        "directors": [
+            "Troy Miller"
+        ],
+        "leads": [
+            "Michael Keaton",
+            "Kelly Preston",
+            "Mark Addy"
+        ],
+        "music": [
+            "Trevor Rabin"
+        ]
+    },
+    "Rushmore (1998)": {
+        "title": "Rushmore",
+        "year": "1998",
+        "synopsis": "When a first-grade teacher arrives at a prep school, she attracts the attention of an ambitious teenager, who quickly falls in love with her. ",
+        "directors": [
+            "Wes Anderson"
+        ],
+        "leads": [
+            "Jason Schwartzman",
+            "Olivia Williams",
+            "Bill Murray"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ]
+    },
+    "Shakespeare in Love (1998)": {
+        "title": "Shakespeare in Love",
+        "year": "1998",
+        "synopsis": "Playwright William Shakespeare is young, out of ideas, and short of cash, but he meets his perfect woman and is inspired to write Romeo and Juliet.",
+        "directors": [
+            "John Madden"
+        ],
+        "leads": [
+            "Gwyneth Paltrow",
+            "Joseph Fiennes",
+            "Geoffrey Rush"
+        ],
+        "music": [
+            "Stephen Warbeck"
+        ]
+    },
+    "Star Trek: Insurrection (1998)": {
+        "title": "Star Trek: Insurrection",
+        "year": "1998",
+        "synopsis": "Malfunctioning android Data takes a cultural task force hostage. Captain Picard and his crew learn of a ploy by the Son'a to displace Ba'ku's people.",
+        "directors": [
+            "Jonathan Frakes"
+        ],
+        "leads": [
+            "Patrick Stewart",
+            "Jonathan Frakes",
+            "Brent Spiner"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The Prince of Egypt (1998)": {
+        "title": "The Prince of Egypt",
+        "year": "1998",
+        "synopsis": "In Egypt, adopted Prince Moses learns he is a Hebrew and was born a slave. With the hand of God, he frees his people from his former brother.",
+        "directors": [
+            "Brenda Chapman",
+            "Steve Hickner",
+            "Simon Wells"
+        ],
+        "leads": [
+            "Val Kilmer",
+            "Ralph Fiennes",
+            "Michelle Pfeiffer"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "You've Got Mail (1998)": {
+        "title": "You've Got Mail",
+        "year": "1998",
+        "synopsis": "A struggling bookseller hates the owner of a chain store that moved in across the street. They begin an Internet romance clueless of their identities.",
+        "directors": [
+            "Nora Ephron"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Meg Ryan",
+            "Parker Posey"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "The Thin Red Line (1998)": {
+        "title": "The Thin Red Line",
+        "year": "1998",
+        "synopsis": "In 1942, the soldiers of C Company are brought to the island of Guadalcanal, where they change, suffer, and reflect while fighting Japanese troops.",
+        "directors": [
+            "Terrence Malick"
+        ],
+        "leads": [
+            "Sean Penn",
+            "Adrien Brody",
+            "Jim Caviezel"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ]
+    },
+    "A Civil Action (1998)": {
+        "title": "A Civil Action",
+        "year": "1998",
+        "synopsis": "A lawyer tackles a risky case involving a company responsible for townspeople being diagnosed with leukemia caused by a contaminated water supply.",
+        "directors": [
+            "Steven Zaillian"
+        ],
+        "leads": [
+            "John Travolta",
+            "Robert Duvall",
+            "James Gandolfini"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Mighty Joe Young (1998)": {
+        "title": "Mighty Joe Young",
+        "year": "1998",
+        "synopsis": "Jill, whose mother was killed by poachers, raises a 15-foot-tall mountain gorilla and takes him to an animal sanctuary. Refuge director Bill falls for her.",
+        "directors": [
+            "Ron Underwood"
+        ],
+        "leads": [
+            "Bill Paxton",
+            "Charlize Theron",
+            "Rade \u0160erbed\u017eija"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Patch Adams (1998)": {
+        "title": "Patch Adams",
+        "year": "1998",
+        "synopsis": "In the 1970s, Hunter is determined to become a medical doctor who uses humor and pathos to aid people. His results surprise a college community.",
+        "directors": [
+            "Tom Shadyac"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Daniel London",
+            "Monica Potter"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Stepmom (1998)": {
+        "title": "Stepmom",
+        "year": "1998",
+        "synopsis": "In New York City, a terminally ill woman must deal with her ex-husband's fashion photographer lover, who becomes her two children's new stepmother.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Susan Sarandon",
+            "Ed Harris"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "The Faculty (1998)": {
+        "title": "The Faculty",
+        "year": "1998",
+        "synopsis": "When a Ohio high school photographer witnesses the murder of a nurse and sees her alive again, he decides to investigate the bizarre happenings.",
+        "directors": [
+            "Robert Rodriguez"
+        ],
+        "leads": [
+            "Elijah Wood",
+            "Josh Hartnett",
+            "Jordana Brewster"
+        ],
+        "music": [
+            "Marco Beltrami"
+        ]
+    },
+    "Affliction (1998)": {
+        "title": "Affliction",
+        "year": "1998",
+        "synopsis": "In New Hampshire, a deeply troubled small-town cop investigates a suspicious hunting death while he fights his ex-wife for custody of his daughter.",
+        "directors": [
+            "Paul Schrader"
+        ],
+        "leads": [
+            "Nick Nolte",
+            "Sissy Spacek",
+            "James Coburn"
+        ],
+        "music": [
+            "Michael Brook"
+        ]
+    },
+    "Varsity Blues (1999)": {
+        "title": "Varsity Blues",
+        "year": "1999",
+        "synopsis": "In Texas, a backup quarterback is chosen to lead a football team after its star quarterback is hurt. Though effective, he faces an overbearing coach.",
+        "directors": [
+            "Brian Robbins"
+        ],
+        "leads": [
+            "James Van Der Beek",
+            "Jon Voight",
+            "Paul Walker"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Virus (1999)": {
+        "title": "Virus",
+        "year": "1999",
+        "synopsis": "Kelly, navigator of the Sea Star tugboat, and her crew battle an alien controlling the technology of a Russian research vessel and creating cyborgs.",
+        "directors": [
+            "John Bruno"
+        ],
+        "leads": [
+            "Jamie Lee Curtis",
+            "Donald Sutherland",
+            "William Baldwin"
+        ],
+        "music": [
+            "Joel McNeely"
+        ]
+    },
+    "She's All That (1999)": {
+        "title": "She's All That",
+        "year": "1999",
+        "synopsis": "In California, Zack is dumped by his girlfriend. He bets he can turn any girl into the Prom Queen in six weeks, even a solitary, unpopular art student.",
+        "directors": [
+            "Robert Iscove"
+        ],
+        "leads": [
+            "Freddie Prinze Jr.",
+            "Rachael Leigh Cook",
+            "Paul Walker"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ]
+    },
+    "Payback (1999)": {
+        "title": "Payback",
+        "year": "1999",
+        "synopsis": "After a successful heist, career thief Porter is left for dead. Once he recovers, he seeks vengeance and wants his 70,000-dollar share of triad money.",
+        "directors": [
+            "Brian Helgeland"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Gregg Henry",
+            "Maria Bello"
+        ],
+        "music": [
+            "Chris Boardman"
+        ]
+    },
+    "Simply Irresistible (1999)": {
+        "title": "Simply Irresistible",
+        "year": "1999",
+        "synopsis": "Amanda inherits her late mother's restaurant, but she cannot cook until she is helped by a magical crab. New skills lead her toward a store manager.",
+        "directors": [
+            "Mark Tarlov"
+        ],
+        "leads": [
+            "Sarah Michelle Gellar",
+            "Sean Patrick Flanery",
+            "Patricia Clarkson"
+        ],
+        "music": [
+            "Gil Goldstein"
+        ]
+    },
+    "Blast from the Past (1999)": {
+        "title": "Blast from the Past",
+        "year": "1999",
+        "synopsis": "Naive 35-year old Adam has spent his entire life in a fallout shelter with his parents. He leaves for supplies and befriends Eve, who helps for money.",
+        "directors": [
+            "Hugh Wilson"
+        ],
+        "leads": [
+            "Brendan Fraser",
+            "Alicia Silverstone",
+            "Christopher Walken"
+        ],
+        "music": [
+            "Steve Dorff"
+        ]
+    },
+    "Message in a Bottle (1999)": {
+        "title": "Message in a Bottle",
+        "year": "1999",
+        "synopsis": "A woman finds a romantic letter in a bottle washed ashore and tracks down the author, a widowed shipbuilder whose wife died early.",
+        "directors": [
+            "Luis Mandoki"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Robin Wright Penn",
+            "John Savage"
+        ],
+        "music": [
+            "Gabriel Yared"
+        ]
+    },
+    "My Favorite Martian (1999)": {
+        "title": "My Favorite Martian",
+        "year": "1999",
+        "synopsis": "News producer Tim O\u2019Hara gets himself fired. He later witnesses the crashing of a small Martian spacecraft, realizing his chance of delivering a story that will rock the earth.",
+        "directors": [
+            "Donald Petrie"
+        ],
+        "leads": [
+            "Christopher Lloyd",
+            "Jeff Daniels",
+            "Elizabeth Hurley"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Jawbreaker (1999)": {
+        "title": "Jawbreaker",
+        "year": "1999",
+        "synopsis": "Three of the most popular girls at Reagan High accidentally kill the prom queen with a jawbreaker when a kidnapping goes horribly wrong.",
+        "directors": [
+            "Darren Stein"
+        ],
+        "leads": [
+            "Rose McGowan",
+            "Rebecca Gayheart",
+            "Julie Benz"
+        ],
+        "music": [
+            "Stephen Endelman"
+        ]
+    },
+    "October Sky (1999)": {
+        "title": "October Sky",
+        "year": "1999",
+        "synopsis": "Homer Hickam, coal miner's son, is inspired by the first Sputnik launch to take up rocketry against his father's wishes.",
+        "directors": [
+            "Joe Johnston"
+        ],
+        "leads": [
+            "Jake Gyllenhaal",
+            "Chris Cooper",
+            "Chris Owen"
+        ],
+        "music": [
+            "Mark Isham"
+        ]
+    },
+    "Office Space (1999)": {
+        "title": "Office Space",
+        "year": "1999",
+        "synopsis": "Three office workers strike back at their evil employers by hatching a hapless attempt to embezzle money.",
+        "directors": [
+            "Mike Judge"
+        ],
+        "leads": [
+            "Ron Livingston",
+            "Jennifer Aniston",
+            "Stephen Root"
+        ],
+        "music": [
+            "John Frizzell"
+        ]
+    },
+    "8mm (1999)": {
+        "title": "8mm",
+        "year": "1999",
+        "synopsis": "Private investigator Tom Welles is hired by a rich widow to learn if a snuff film showing the death of a missing girl is real. He is captured by criminals.",
+        "directors": [
+            "Joel Schumacher"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Joaquin Phoenix",
+            "James Gandolfini"
+        ],
+        "music": [
+            "Mychael Danna"
+        ]
+    },
+    "The Other Sister (1999)": {
+        "title": "The Other Sister",
+        "year": "1999",
+        "synopsis": "Mentally disabled Carla desires independence as she falls in love with Daniel. She obtains her own space while her family plans her sister's wedding.",
+        "directors": [
+            "Garry Marshall"
+        ],
+        "leads": [
+            "Juliette Lewis",
+            "Diane Keaton",
+            "Tom Skerritt"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "Analyze This (1999)": {
+        "title": "Analyze This",
+        "year": "1999",
+        "synopsis": "When Paul Vitti needs help dealing with his panic attacks while in the Mafia, unlucky shrink Dr. Ben Sobel is given days to solve his emotional crisis.",
+        "directors": [
+            "Harold Ramis"
+        ],
+        "leads": [
+            "Robert De Niro",
+            "Billy Crystal",
+            "Lisa Kudrow"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Cruel Intentions (1999)": {
+        "title": "Cruel Intentions",
+        "year": "1999",
+        "synopsis": "Two vicious step-siblings of an elite Manhattan prep school make a wager: to deflower the new headmaster's daughter before the start of term.",
+        "directors": [
+            "Roger Kumble"
+        ],
+        "leads": [
+            "Sarah Michelle Gellar",
+            "Ryan Phillippe",
+            "Reese Witherspoon"
+        ],
+        "music": [
+            "Edward Shearmur"
+        ]
+    },
+    "Lock, Stock and Two Smoking Barrels (1999)": {
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "year": "1999",
+        "synopsis": "In London, a card shark and his friends lose a sketchy poker match. To make back money, they decide to pull a heist on a small-time gang.",
+        "directors": [
+            "Guy Ritchie"
+        ],
+        "leads": [
+            "Nick Moran",
+            "Jason Flemyng",
+            "Dexter Fletcher"
+        ],
+        "music": [
+            "David A. Hughes",
+            "John Murphy"
+        ]
+    },
+    "The Rage: Carrie 2 (1999)": {
+        "title": "The Rage: Carrie 2",
+        "year": "1999",
+        "synopsis": "After outcast teenager Rachel is taunted by high school jerks, she begins a horrible massacre with her telekinetic powers. An athlete tries to help her.",
+        "directors": [
+            "Katt Shea"
+        ],
+        "leads": [
+            "Emily Bergl",
+            "Jason London",
+            "Dylan Bruno"
+        ],
+        "music": [
+            "Danny B. Harvey"
+        ]
+    },
+    "Wing Commander (1999)": {
+        "title": "Wing Commander",
+        "year": "1999",
+        "synopsis": "In 2654, fighter pilot Blair joins an interstellar war to fight the evil Kilrathi who seek to end humanity. With Pilgrim sense, he joins the TCS Tiger Claw.",
+        "directors": [
+            "Chris Roberts"
+        ],
+        "leads": [
+            "Freddie Prinze Jr.",
+            "Saffron Burrows",
+            "Matthew Lillard"
+        ],
+        "music": [
+            "David Arnold",
+            "Kevin Kiner"
+        ]
+    },
+    "Forces of Nature (1999)": {
+        "title": "Forces of Nature",
+        "year": "1999",
+        "synopsis": "A soon-to-be-married man encounters an exciting stranger after his plane suffers an accident on takeoff. They travel from New York to Savannah.",
+        "directors": [
+            "Bronwen Hughes"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Ben Affleck",
+            "Maura Tierney"
+        ],
+        "music": [
+            "John Powell"
+        ]
+    },
+    "Ravenous (1999)": {
+        "title": "Ravenous",
+        "year": "1999",
+        "synopsis": "During the Mexican-American War, Captain John Boyd and his regiment go on a mission that takes a turn when a sadistic cannibal ambushes them.",
+        "directors": [
+            "Antonia Bird"
+        ],
+        "leads": [
+            "Guy Pearce",
+            "Robert Carlyle",
+            "Jeffrey Jones"
+        ],
+        "music": [
+            "Michael Nyman",
+            "Damon Albarn"
+        ]
+    },
+    "True Crime (1999)": {
+        "title": "True Crime",
+        "year": "1999",
+        "synopsis": "In Oakland, journalist Steve covers the execution of death row inmate Frank. He works to prove his innocence of killing a pregnant woman in a store.",
+        "directors": [
+            "Clint Eastwood"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "Isaiah Washington",
+            "Denis Leary"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ]
+    },
+    "Doug's 1st Movie (1999)": {
+        "title": "Doug's 1st Movie",
+        "year": "1999",
+        "synopsis": "Doug and his friends find a friendly monster at the Lucky Duck Lake. They find themselves followed by people who want the monster to hide pollution.",
+        "directors": [
+            "Maurice Joyce"
+        ],
+        "leads": [
+            "Tom McHugh",
+            "Fred Newman",
+            "Chris Phillips"
+        ],
+        "music": [
+            "Mark Watters"
+        ]
+    },
+    "EDtv (1999)": {
+        "title": "EDtv",
+        "year": "1999",
+        "synopsis": "True TV releases a reality show that films the life of video store clerk Ed Pekurny. The show gains popularity when he kisses his brother's girlfriend.",
+        "directors": [
+            "Ron Howard"
+        ],
+        "leads": [
+            "Matthew McConaughey",
+            "Jenna Elfman",
+            "Woody Harrelson"
+        ],
+        "music": [
+            "Randy Edelman",
+            "Bon Jovi"
+        ]
+    },
+    "10 Things I Hate About You (1999)": {
+        "title": "10 Things I Hate About You",
+        "year": "1999",
+        "synopsis": "A pretty, popular teenager can't go out on a date until her ill-tempered older sister does.",
+        "directors": [
+            "Gil Junger"
+        ],
+        "leads": [
+            "Julia Stiles",
+            "Heath Ledger",
+            "Joseph Gordon-Levitt"
+        ],
+        "music": [
+            "Richard Gibbs"
+        ]
+    },
+    "The Matrix (1999)": {
+        "title": "The Matrix",
+        "year": "1999",
+        "synopsis": "After computer hacker Neo learns the truth about a simulated reality, he joins a rebellion against its controllers and the sentient program Agent Smith.",
+        "directors": [
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
+        "leads": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "music": [
+            "Don Davis"
+        ]
+    },
+    "Following (1999)": {
+        "title": "Following",
+        "year": "1999",
+        "synopsis": "A young London writer who follows strangers in the hope of using their lives in his novels meets a thief who mentors him so they can steal together.",
+        "directors": [
+            "Christopher Nolan"
+        ],
+        "leads": [
+            "Jeremy Theobald",
+            "Alex Haw",
+            "Lucy Russell"
+        ],
+        "music": [
+            "David Julyan"
+        ]
+    },
+    "Never Been Kissed (1999)": {
+        "title": "Never Been Kissed",
+        "year": "1999",
+        "synopsis": "A 25-year-old newspaper reporter enrolls in high school as research for a story. She develops a crush on her English teacher. Her brother enrolls.",
+        "directors": [
+            "Raja Gosnell"
+        ],
+        "leads": [
+            "Drew Barrymore",
+            "David Arquette",
+            "Michael Vartan"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Life (1999)": {
+        "title": "Life",
+        "year": "1999",
+        "synopsis": "In 1932, two strangers are wrongfully convicted and develop a strong friendship in prison that lasts them through the 20th century.",
+        "directors": [
+            "Ted Demme"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Martin Lawrence",
+            "Obba Babatund\u00e9"
+        ],
+        "music": [
+            "R. Kelly",
+            "Wyclef Jean"
+        ]
+    },
+    "Election (1999)": {
+        "title": "Election",
+        "year": "1999",
+        "synopsis": "A high school teacher's life becomes complicated as he works with an obsessive overachiever determined to become student body president.",
+        "directors": [
+            "Alexander Payne"
+        ],
+        "leads": [
+            "Matthew Broderick",
+            "Reese Witherspoon",
+            "Chris Klein"
+        ],
+        "music": [
+            "Rolfe Kent"
+        ]
+    },
+    "Existenz (1999)": {
+        "title": "Existenz",
+        "year": "1999",
+        "synopsis": "A game designer on the run from assassins must play her newest virtual creation with a marketing trainee to determine if the game is now damaged.",
+        "directors": [
+            "David Cronenberg"
+        ],
+        "leads": [
+            "Jennifer Jason Leigh",
+            "Jude Law",
+            "Ian Holm"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "Pushing Tin (1999)": {
+        "title": "Pushing Tin",
+        "year": "1999",
+        "synopsis": "Cocky air traffic controller Nick quarrels over how manly he is with fellow employee Russell. He and Russell's sad wife Mary sleep together one night.",
+        "directors": [
+            "Mike Newell"
+        ],
+        "leads": [
+            "John Cusack",
+            "Billy Bob Thornton",
+            "Cate Blanchett"
+        ],
+        "music": [
+            "Anne Dudley",
+            "Chris Seefried"
+        ]
+    },
+    "Entrapment (1999)": {
+        "title": "Entrapment",
+        "year": "1999",
+        "synopsis": "An insurance investigator looks into a stolen painting, suspecting an accomplished thief. She goes undercover and helps him steal an artifact.",
+        "directors": [
+            "Jon Amiel"
+        ],
+        "leads": [
+            "Sean Connery",
+            "Catherine Zeta-Jones",
+            "Will Patton"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
+    "The Mummy (1999)": {
+        "title": "The Mummy",
+        "year": "1999",
+        "synopsis": "At a dig in Hamunaptra, an American accidentally awakens a mummy who wrecks havoc searching for the reincarnation of his long-lost love.",
+        "directors": [
+            "Stephen Sommers"
+        ],
+        "leads": [
+            "Brendan Fraser",
+            "Rachel Weisz",
+            "John Hannah"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "A Midsummer Night's Dream (1999)": {
+        "title": "A Midsummer Night's Dream",
+        "year": "1999",
+        "synopsis": "In Italy, Oberon and his servant sprite Puck cause mayhem with a potion that makes Lysander and Demetrius fall for Helena over promised Hermia.",
+        "directors": [
+            "Michael Hoffman"
+        ],
+        "leads": [
+            "Kevin Kline",
+            "Michelle Pfeiffer",
+            "Rupert Everett"
+        ],
+        "music": [
+            "Simon Boswell"
+        ]
+    },
+    "Star Wars: Episode I \u2013 The Phantom Menace (1999)": {
+        "title": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "year": "1999",
+        "synopsis": "Two Jedi escape a hostile blockade and meet a boy who may bring balance to the Force, but the long dormant Sith resurface to claim their glory.",
+        "directors": [
+            "George Lucas"
+        ],
+        "leads": [
+            "Liam Neeson",
+            "Ewan McGregor",
+            "Natalie Portman"
+        ],
+        "music": [
+            "John Williams"
+        ]
+    },
+    "Notting Hill (1999)": {
+        "title": "Notting Hill",
+        "year": "1999",
+        "synopsis": "In London, travel bookstore owner William shares a flat with a sloppy Scotsman. He falls in love with Hollywood actress Anna, who hides from scandal.",
+        "directors": [
+            "Roger Michell"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Hugh Grant",
+            "Hugh Bonneville"
+        ],
+        "music": [
+            "Trevor Jones"
+        ]
+    },
+    "Instinct (1999)": {
+        "title": "Instinct",
+        "year": "1999",
+        "synopsis": "After a noted anthropologist who had left society to live in the jungle with mountain gorillas is put in prison for murder, a psychiatrist meets with him.",
+        "directors": [
+            "Jon Turteltaub"
+        ],
+        "leads": [
+            "Anthony Hopkins",
+            "Cuba Gooding Jr.",
+            "Donald Sutherland"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Austin Powers: The Spy Who Shagged Me (1999)": {
+        "title": "Austin Powers: The Spy Who Shagged Me",
+        "year": "1999",
+        "synopsis": "Austin Powers loses his mojo after Dr. Evil heads to 1969 in a time machine. He heads back himself with agent Felicity and thwarts a moon laser plan.",
+        "directors": [
+            "Jay Roach"
+        ],
+        "leads": [
+            "Mike Myers",
+            "Heather Graham",
+            "Michael York"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "Tarzan (1999)": {
+        "title": "Tarzan",
+        "year": "1999",
+        "synopsis": "A man raised by gorillas must decide where he really belongs when he meets a woman named Jane Porter and discovers he is a human.",
+        "directors": [
+            "Kevin Lima",
+            "Chris Buck"
+        ],
+        "leads": [
+            "Tony Goldwyn",
+            "Minnie Driver",
+            "Glenn Close"
+        ],
+        "music": [
+            "Mark Mancina"
+        ]
+    },
+    "The General's Daughter (1999)": {
+        "title": "The General's Daughter",
+        "year": "1999",
+        "synopsis": "When the sad daughter of a base commander is murdered, an undercover detective is summoned to investigate and finds cover-ups at West Point.",
+        "directors": [
+            "Simon West"
+        ],
+        "leads": [
+            "John Travolta",
+            "Madeleine Stowe",
+            "James Cromwell"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Big Daddy (1999)": {
+        "title": "Big Daddy",
+        "year": "1999",
+        "synopsis": "Slacker law school graduate Sonny is dumped by his girlfriend. He works to be responsible adopting five-year-old Julian, a roommate's biological son.",
+        "directors": [
+            "Dennis Dugan"
+        ],
+        "leads": [
+            "Adam Sandler",
+            "Joey Lauren Adams",
+            "Jon Stewart"
+        ],
+        "music": [
+            "Teddy Castellucci"
+        ]
+    },
+    "South Park: Bigger, Longer & Uncut (1999)": {
+        "title": "South Park: Bigger, Longer & Uncut",
+        "year": "1999",
+        "synopsis": "In Colorado, four boys sneak into an R-rated film starring Canadian comedians and start swearing. Their mothers precipitate a U.S. war on Canada.",
+        "directors": [
+            "Trey Parker"
+        ],
+        "leads": [
+            "Trey Parker",
+            "Matt Stone",
+            "Mary Kay Bergman"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ]
+    },
+    "Wild Wild West (1999)": {
+        "title": "Wild Wild West",
+        "year": "1999",
+        "synopsis": "In 1869, two special agents save President Grant from a legless ex-Confederate scientist planning revenge for the Civil War with a giant spider tank.",
+        "directors": [
+            "Barry Sonnenfeld"
+        ],
+        "leads": [
+            "Will Smith",
+            "Kevin Kline",
+            "Kenneth Branagh"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "Summer of Sam (1999)": {
+        "title": "Summer of Sam",
+        "year": "1999",
+        "synopsis": "In 1977 New York, Italian-American residents, like a hairdresser cheating on his wife and his friend who loves punk rock, live in fear of a serial killer.",
+        "directors": [
+            "Spike Lee"
+        ],
+        "leads": [
+            "John Leguizamo",
+            "Adrien Brody",
+            "Mira Sorvino"
+        ],
+        "music": [
+            "Terence Blanchard"
+        ]
+    },
+    "American Pie (1999)": {
+        "title": "American Pie",
+        "year": "1999",
+        "synopsis": "At a high school party, four boys find that losing their collective virginity is not as easy as they had thought. They resolve to do so by prom night.",
+        "directors": [
+            "Paul Weitz"
+        ],
+        "leads": [
+            "Jason Biggs",
+            "Chris Klein",
+            "Alyson Hannigan"
+        ],
+        "music": [
+            "David Lawrence"
+        ]
+    },
+    "Muppets from Space (1999)": {
+        "title": "Muppets from Space",
+        "year": "1999",
+        "synopsis": "Gonzo is contacted by his alien family through his breakfast cereal. After men in black kidnap Rizzo and him, Kermit and the gang must rescue them.",
+        "directors": [
+            "Tim Hill"
+        ],
+        "leads": [
+            "Jeffrey Tambor",
+            "Pat Hingle",
+            "Rob Schneider"
+        ],
+        "music": [
+            "Jamshied Sharifi"
+        ]
+    },
+    "The Blair Witch Project (1999)": {
+        "title": "The Blair Witch Project",
+        "year": "1999",
+        "synopsis": "Three film students vanish after traveling into a Maryland forest to film a documentary on a local legend, leaving only their footage behind.",
+        "directors": [
+            "Daniel Myrick",
+            "Eduardo S\u00e1nchez"
+        ],
+        "leads": [
+            "Heather Donahue",
+            "Michael C. Williams",
+            "Joshua Leonard"
+        ],
+        "music": [
+            "Antonio Cora"
+        ]
+    },
+    "Eyes Wide Shut (1999)": {
+        "title": "Eyes Wide Shut",
+        "year": "1999",
+        "synopsis": "In New York City, doctor Bill goes on a nightlong odyssey with a secret society's masked orgy after his wife admits to sex fantasies of a naval officer.",
+        "directors": [
+            "Stanley Kubrick"
+        ],
+        "leads": [
+            "Tom Cruise",
+            "Nicole Kidman",
+            "Sydney Pollack"
+        ],
+        "music": [
+            "Jocelyn Pook"
+        ]
+    },
+    "Lake Placid (1999)": {
+        "title": "Lake Placid",
+        "year": "1999",
+        "synopsis": "In Black Lake, Maine, a game officer, a sheriff, a paleontologist, and a professor attempt to capture or kill a deadly 30-foot-long saltwater crocodile.",
+        "directors": [
+            "Steve Miner"
+        ],
+        "leads": [
+            "Bill Pullman",
+            "Bridget Fonda",
+            "Oliver Platt"
+        ],
+        "music": [
+            "John Ottman"
+        ]
+    },
+    "The Wood (1999)": {
+        "title": "The Wood",
+        "year": "1999",
+        "synopsis": "As he handles his friend's hesitation hours before his wedding, writer Mike recalls meeting Roland and Slim in Inglewood and getting to know Alicia.",
+        "directors": [
+            "Rick Famuyiwa"
+        ],
+        "leads": [
+            "Taye Diggs",
+            "Omar Epps",
+            "Richard T. Jones"
+        ],
+        "music": [
+            "Robert Hurst"
+        ]
+    },
+    "Drop Dead Gorgeous (1999)": {
+        "title": "Drop Dead Gorgeous",
+        "year": "1999",
+        "synopsis": "In 1995 Minnesota, a small-town beauty pageant turns deadly as it becomes clear someone will go to any lengths to win, such as threats and murder.",
+        "directors": [
+            "Michael Patrick Jann"
+        ],
+        "leads": [
+            "Kirsten Dunst",
+            "Ellen Barkin",
+            "Allison Janney"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ]
+    },
+    "Inspector Gadget (1999)": {
+        "title": "Inspector Gadget",
+        "year": "1999",
+        "synopsis": "A security guard caught in an explosion is turned into a crimefighting cyborg. Helped by the chatty AI of the Gadgetmobile, he faces tycoon Dr. Claw.",
+        "directors": [
+            "David Kellogg"
+        ],
+        "leads": [
+            "Matthew Broderick",
+            "Rupert Everett",
+            "Joely Fisher"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "The Haunting (1999)": {
+        "title": "The Haunting",
+        "year": "1999",
+        "synopsis": "A study in fear escalates into a heart-stopping nightmare for a professor and three subjects trapped in a mysterious mansion.",
+        "directors": [
+            "Jan de Bont"
+        ],
+        "leads": [
+            "Liam Neeson",
+            "Catherine Zeta-Jones",
+            "Owen Wilson"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "Deep Blue Sea (1999)": {
+        "title": "Deep Blue Sea",
+        "year": "1999",
+        "synopsis": "Seeking a cure to Alzheimer's disease, a group of scientists on an isolated research facility become the prey as a trio of intelligent sharks fight back.",
+        "directors": [
+            "Renny Harlin"
+        ],
+        "leads": [
+            "Saffron Burrows",
+            "Thomas Jane",
+            "LL Cool J"
+        ],
+        "music": [
+            "Trevor Rabin"
+        ]
+    },
+    "Runaway Bride (1999)": {
+        "title": "Runaway Bride",
+        "year": "1999",
+        "synopsis": "Columnist Ike is assigned to author a story about Maggie, who has left three fianc\u00e9s at the altar. He falls for her realizing she adopts fianc\u00e9s' interests.",
+        "directors": [
+            "Garry Marshall"
+        ],
+        "leads": [
+            "Julia Roberts",
+            "Richard Gere",
+            "Joan Cusack"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "Dick (1999)": {
+        "title": "Dick",
+        "year": "1999",
+        "synopsis": "After wandering during a White House tour, teens Betsy and Arlene inadvertently become Nixon's secret advisers. They later become Deep Throat.",
+        "directors": [
+            "Andrew Fleming"
+        ],
+        "leads": [
+            "Kirsten Dunst",
+            "Michelle Williams",
+            "Dan Hedaya"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Mystery Men (1999)": {
+        "title": "Mystery Men",
+        "year": "1999",
+        "synopsis": "A group of inept amateur superheroes must try to save the day when a supervillain threatens to destroy a major superhero and Champion City.",
+        "directors": [
+            "Kinka Usher"
+        ],
+        "leads": [
+            "Ben Stiller",
+            "Hank Azaria",
+            "William H. Macy"
+        ],
+        "music": [
+            "Stephen Warbeck"
+        ]
+    },
+    "The Iron Giant (1999)": {
+        "title": "The Iron Giant",
+        "year": "1999",
+        "synopsis": "In 1957 Rockwell, Maine, 9-year-old Hogarth befriends a giant robot from outer space that a paranoid government agent wants to destroy.",
+        "directors": [
+            "Brad Bird"
+        ],
+        "leads": [
+            "Jennifer Aniston",
+            "Harry Connick Jr.",
+            "Vin Diesel"
+        ],
+        "music": [
+            "Michael Kamen"
+        ]
+    },
+    "The Sixth Sense (1999)": {
+        "title": "The Sixth Sense",
+        "year": "1999",
+        "synopsis": "In Philadelphia, a boy who can see the ghosts of dead people seeks the help of a depressed child psychologist to help each finish their business.",
+        "directors": [
+            "M. Night Shyamalan"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Toni Collette",
+            "Olivia Williams"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "The Thomas Crown Affair (1999)": {
+        "title": "The Thomas Crown Affair",
+        "year": "1999",
+        "synopsis": "In New York, a billionaire who steals a painting from an art gallery is chased by a police detective and an insurance investigator he falls in love with.",
+        "directors": [
+            "John McTiernan"
+        ],
+        "leads": [
+            "Pierce Brosnan",
+            "Rene Russo",
+            "Denis Leary"
+        ],
+        "music": [
+            "Bill Conti"
+        ]
+    },
+    "Bowfinger (1999)": {
+        "title": "Bowfinger",
+        "year": "1999",
+        "synopsis": "When a desperate movie producer fails to get a major star for his bargain basement film, he decides to shoot the film secretly around him.",
+        "directors": [
+            "Frank Oz"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Eddie Murphy",
+            "Heather Graham"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Teaching Mrs. Tingle (1999)": {
+        "title": "Teaching Mrs. Tingle",
+        "year": "1999",
+        "synopsis": "Three high school seniors must prove innocence to their mean history teacher, who accuses them of cheating. They resort to tying her to her bed.",
+        "directors": [
+            "Kevin Williamson"
+        ],
+        "leads": [
+            "Helen Mirren",
+            "Katie Holmes",
+            "Jeffrey Tambor"
+        ],
+        "music": [
+            "John Frizzell"
+        ]
+    },
+    "The 13th Warrior (1999)": {
+        "title": "The 13th Warrior",
+        "year": "1999",
+        "synopsis": "A court poet exiled from Baghdad after an affair finds himself unwittingly embroiled in a mission to banish an ancient threat in a distant Viking land.",
+        "directors": [
+            "John McTiernan"
+        ],
+        "leads": [
+            "Antonio Banderas",
+            "Diane Venora",
+            "Omar Sharif"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ]
+    },
+    "The Astronaut's Wife (1999)": {
+        "title": "The Astronaut's Wife",
+        "year": "1999",
+        "synopsis": "After a space explosion, two NASA astronauts go home to their wives. Teacher Jillian observes new aggression from Spencer. She is soon pregnant.",
+        "directors": [
+            "Rand Ravich"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Charlize Theron",
+            "Joe Morton"
+        ],
+        "music": [
+            "George S. Clinton"
+        ]
+    },
+    "Stir of Echoes (1999)": {
+        "title": "Stir of Echoes",
+        "year": "1999",
+        "synopsis": "In Chicago, after hypnosis by his sister-in-law, a man begins seeing dark visions of a teenage girl's ghost. His son also communicates with the dead.",
+        "directors": [
+            "David Koepp"
+        ],
+        "leads": [
+            "Kevin Bacon",
+            "Kathryn Erbe",
+            "Illeana Douglas"
+        ],
+        "music": [
+            "James Newton Howard"
+        ]
+    },
+    "American Beauty (1999)": {
+        "title": "American Beauty",
+        "year": "1999",
+        "synopsis": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+        "directors": [
+            "Sam Mendes"
+        ],
+        "leads": [
+            "Kevin Spacey",
+            "Annette Bening",
+            "Thora Birch"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Blue Streak (1999)": {
+        "title": "Blue Streak",
+        "year": "1999",
+        "synopsis": "A jewel thief hides a stolen diamond in a police building being built at the time. To regain it after two years in jail, he poses as an LAPD detective.",
+        "directors": [
+            "Les Mayfield"
+        ],
+        "leads": [
+            "Martin Lawrence",
+            "Luke Wilson",
+            "Dave Chappelle"
+        ],
+        "music": [
+            "Edward Shearmur"
+        ]
+    },
+    "For Love of the Game (1999)": {
+        "title": "For Love of the Game",
+        "year": "1999",
+        "synopsis": "After 19 years of playing baseball, Detroit Tigers pitcher Billy Chapel has to decide if he is going to risk everything and put everything out there.",
+        "directors": [
+            "Sam Raimi"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Kelly Preston",
+            "John C. Reilly"
+        ],
+        "music": [
+            "Basil Poledouris"
+        ]
+    },
+    "Double Jeopardy (1999)": {
+        "title": "Double Jeopardy",
+        "year": "1999",
+        "synopsis": "A woman framed for her husband's death learns he is still alive. As she has been tried murder, she cannot be re-prosecuted if she finds and kills him.",
+        "directors": [
+            "Bruce Beresford"
+        ],
+        "leads": [
+            "Ashley Judd",
+            "Tommy Lee Jones",
+            "Bruce Greenwood"
+        ],
+        "music": [
+            "Normand Corbeil"
+        ]
+    },
+    "Jakob the Liar (1999)": {
+        "title": "Jakob the Liar",
+        "year": "1999",
+        "synopsis": "In 1944 Poland, a Jewish shopkeeper in a ghetto fakes news about Allied offensives to inspire hope for other Nazi victims. He claims to have a radio.",
+        "directors": [
+            "Peter Kassovitz"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Hannah Taylor Gordon",
+            "Alan Arkin"
+        ],
+        "music": [
+            "Edward Shearmur"
+        ]
+    },
+    "Simon Sez (1999)": {
+        "title": "Simon Sez",
+        "year": "1999",
+        "synopsis": "Tattooed Interpol agent Simon goes on a mission in France to save a kidnapped girl and defeat a crazy arms dealer and computer software tycoon.",
+        "directors": [
+            "Kevin Alyn Elders"
+        ],
+        "leads": [
+            "Dennis Rodman",
+            "Dane Cook",
+            "Ricky Harris"
+        ],
+        "music": [
+            "Brian Tyler"
+        ]
+    },
+    "Drive Me Crazy (1999)": {
+        "title": "Drive Me Crazy",
+        "year": "1999",
+        "synopsis": "Neighbors preppy Nicole and prankster Chase set a scheme to date each other to attract the interest and jealousy of their respective romantic targets.",
+        "directors": [
+            "John Schultz"
+        ],
+        "leads": [
+            "Melissa Joan Hart",
+            "Adrian Grenier",
+            "Stephen Collins"
+        ],
+        "music": [
+            "Greg Kendall"
+        ]
+    },
+    "Three Kings (1999)": {
+        "title": "Three Kings",
+        "year": "1999",
+        "synopsis": "After the Persian Gulf War, four soldiers set out to steal gold that was stolen from Kuwait, but they discover people who desperately need their help.",
+        "directors": [
+            "David O. Russell"
+        ],
+        "leads": [
+            "George Clooney",
+            "Mark Wahlberg",
+            "Ice Cube"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "Random Hearts (1999)": {
+        "title": "Random Hearts",
+        "year": "1999",
+        "synopsis": "A police sergeant and a Congresswoman lose their spouses in a plane disaster. They learn their spouses were having an affair with each other.",
+        "directors": [
+            "Sydney Pollack"
+        ],
+        "leads": [
+            "Harrison Ford",
+            "Kristin Scott Thomas",
+            "Charles S. Dutton"
+        ],
+        "music": [
+            "Dave Grusin"
+        ]
+    },
+    "Superstar (1999)": {
+        "title": "Superstar",
+        "year": "1999",
+        "synopsis": "Raised by her grandmother, a nerdy Catholic schoolgirl and orphan, Mary Katherine, enters a talent contest to become a star and to be kissed.",
+        "directors": [
+            "Bruce McCulloch"
+        ],
+        "leads": [
+            "Molly Shannon",
+            "Will Ferrell",
+            "Elaine Hendrix"
+        ],
+        "music": [
+            "Michael Gore"
+        ]
+    },
+    "Fight Club (1999)": {
+        "title": "Fight Club",
+        "year": "1999",
+        "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground club that grows into the anti-corporate operation Project Mayhem.",
+        "directors": [
+            "David Fincher"
+        ],
+        "leads": [
+            "Brad Pitt",
+            "Edward Norton",
+            "Helena Bonham Carter"
+        ],
+        "music": [
+            "The Dust Brothers"
+        ]
+    },
+    "The Story of Us (1999)": {
+        "title": "The Story of Us",
+        "year": "1999",
+        "synopsis": "Ben and Katie Jordan are a married couple who go through hard times in fifteen years of marriage and raising two children.",
+        "directors": [
+            "Rob Reiner"
+        ],
+        "leads": [
+            "Bruce Willis",
+            "Michelle Pfeiffer",
+            "Rita Wilson"
+        ],
+        "music": [
+            "Mason Williams",
+            "Eric Clapton",
+            "Marc Shaiman"
+        ]
+    },
+    "The Straight Story (1999)": {
+        "title": "The Straight Story",
+        "year": "1999",
+        "synopsis": "Elderly Alvin, who lives with his daughter, hears his estranged brother has suffered a stroke. He rides on his lawn mower from Iowa to Wisconsin.",
+        "directors": [
+            "David Lynch"
+        ],
+        "leads": [
+            "Richard Farnsworth",
+            "Sissy Spacek",
+            "Harry Dean Stanton"
+        ],
+        "music": [
+            "Angelo Badalamenti"
+        ]
+    },
+    "Boys Don't Cry (1999)": {
+        "title": "Boys Don't Cry",
+        "year": "1999",
+        "synopsis": "A young man named Brandon Teena navigates romance with a woman, life, and being transgender in Falls City, Nebraska.",
+        "directors": [
+            "Kimberly Peirce"
+        ],
+        "leads": [
+            "Hilary Swank",
+            "Chlo\u00eb Sevigny",
+            "Peter Sarsgaard"
+        ],
+        "music": [
+            "Nathan Larson"
+        ]
+    },
+    "Bringing Out the Dead (1999)": {
+        "title": "Bringing Out the Dead",
+        "year": "1999",
+        "synopsis": "In Manhattan, haunted by the patients he failed to save, a tired ambulance paramedic fights to keep his sanity over three fraught and turbulent nights.",
+        "directors": [
+            "Martin Scorsese"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Patricia Arquette",
+            "John Goodman"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ]
+    },
+    "The Best Man (1999)": {
+        "title": "The Best Man",
+        "year": "1999",
+        "synopsis": "A writer about to enter the mainstream leaves behind his girlfriend and heads to New York City to serve as best man for his friend\u2019s wedding. There, he reunites with his college circle.",
+        "directors": [
+            "Malcolm D. Lee"
+        ],
+        "leads": [
+            "Taye Diggs",
+            "Nia Long",
+            "Morris Chestnut"
+        ],
+        "music": [
+            "Stanley Clarke"
+        ]
+    },
+    "Three to Tango (1999)": {
+        "title": "Three to Tango",
+        "year": "1999",
+        "synopsis": "A businessman's assumption the architect Oscar is gay leads him to ask him to watch his mistress. Oscar hides he is not gay and starts to fall for her.",
+        "directors": [
+            "Damon Santostefano"
+        ],
+        "leads": [
+            "Matthew Perry",
+            "Neve Campbell",
+            "Dylan McDermott"
+        ],
+        "music": [
+            "Graeme Revell"
+        ]
+    },
+    "Being John Malkovich (1999)": {
+        "title": "Being John Malkovich",
+        "year": "1999",
+        "synopsis": "An unsuccessful puppeteer finds a portal into the head of actor John Malkovich. He, his co-worker, and his restless wife enter it as a strange passion.",
+        "directors": [
+            "Spike Jonze"
+        ],
+        "leads": [
+            "John Cusack",
+            "Cameron Diaz",
+            "Catherine Keener"
+        ],
+        "music": [
+            "Carter Burwell"
+        ]
+    },
+    "House on Haunted Hill (1999)": {
+        "title": "House on Haunted Hill",
+        "year": "1999",
+        "synopsis": "An amusement park mogul offers a group of diverse people $1,000,000 to spend the night in a haunted house with a horrifying past.",
+        "directors": [
+            "William Malone"
+        ],
+        "leads": [
+            "Geoffrey Rush",
+            "Famke Janssen",
+            "Taye Diggs"
+        ],
+        "music": [
+            "Don Davis"
+        ]
+    },
+    "Music of the Heart (1999)": {
+        "title": "Music of the Heart",
+        "year": "1999",
+        "synopsis": "In 1988 New York, a recently divorced violinist co-founds the Opus 118 Harlem School of Music and fights for music education in public schools.",
+        "directors": [
+            "Wes Craven"
+        ],
+        "leads": [
+            "Meryl Streep",
+            "Aidan Quinn",
+            "Angela Bassett"
+        ],
+        "music": [
+            "Mason Daring"
+        ]
+    },
+    "Princess Mononoke (1999)": {
+        "title": "Princess Mononoke",
+        "year": "1999",
+        "synopsis": "To cure a deadly curse, Ashitaka finds himself in the middle of a war with forest gods. He meets a wild girl raised by wolves with hatred for humans.",
+        "directors": [
+            "Hayao Miyazaki"
+        ],
+        "leads": [
+            "Y\u014dji Matsuda",
+            "Yuriko Ishida",
+            "Y\u016bko Tanaka"
+        ],
+        "music": [
+            "Joe Hisaishi"
+        ]
+    },
+    "The Bone Collector (1999)": {
+        "title": "The Bone Collector",
+        "year": "1999",
+        "synopsis": "In New York, a quadriplegic ex-homicide detective and a newly recruited patrol officer track down a serial killer who is replicating crimes from a novel.",
+        "directors": [
+            "Phillip Noyce"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "Angelina Jolie",
+            "Queen Latifah"
+        ],
+        "music": [
+            "Craig Armstrong"
+        ]
+    },
+    "The Insider (1999)": {
+        "title": "The Insider",
+        "year": "1999",
+        "synopsis": "A seasoned TV producer persuades a research chemist to share his story in a 60 Minutes expos\u00e9 on tobacco amidst lawsuits and death threats.",
+        "directors": [
+            "Michael Mann"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Russell Crowe",
+            "Christopher Plummer"
+        ],
+        "music": [
+            "Lisa Gerrard",
+            "Pieter Bourke"
+        ]
+    },
+    "Anywhere but Here (1999)": {
+        "title": "Anywhere but Here",
+        "year": "1999",
+        "synopsis": "Adele leaves Wisconsin for Beverly Hills with her reluctant daughter Ann, who later wants to attend Brown. Adele wants her to become a movie star.",
+        "directors": [
+            "Wayne Wang"
+        ],
+        "leads": [
+            "Susan Sarandon",
+            "Natalie Portman",
+            "Bonnie Bedelia"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "Dogma (1999)": {
+        "title": "Dogma",
+        "year": "1999",
+        "synopsis": "An abortion clinic counselor is called upon to save the existence of humanity from being negated by two renegade angels trying to reenter Heaven.",
+        "directors": [
+            "Kevin Smith"
+        ],
+        "leads": [
+            "Ben Affleck",
+            "Matt Damon",
+            "Linda Fiorentino"
+        ],
+        "music": [
+            "Howard Shore"
+        ]
+    },
+    "The Messenger: The Story of Joan of Arc (1999)": {
+        "title": "The Messenger: The Story of Joan of Arc",
+        "year": "1999",
+        "synopsis": "In 1429, a teenage girl stands before the French soon-to-be king with a message from God, that she will defeat an army and liberate her country.",
+        "directors": [
+            "Luc Besson"
+        ],
+        "leads": [
+            "Milla Jovovich",
+            "John Malkovich",
+            "Faye Dunaway"
+        ],
+        "music": [
+            "\u00c9ric Serra"
+        ]
+    },
+    "Sleepy Hollow (1999)": {
+        "title": "Sleepy Hollow",
+        "year": "1999",
+        "synopsis": "In 1799, police constable Ichabod Crane is sent to a Dutch village to investigate decapitations of three people by the ghostly Headless Horseman.",
+        "directors": [
+            "Tim Burton"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Christina Ricci",
+            "Miranda Richardson"
+        ],
+        "music": [
+            "Danny Elfman"
+        ]
+    },
+    "The World Is Not Enough (1999)": {
+        "title": "The World Is Not Enough",
+        "year": "1999",
+        "synopsis": "Bond uncovers a nuclear plot while protecting oil heiress Elektra King from her former kidnapper Renard, a Russian terrorist who cannot feel pain.",
+        "directors": [
+            "Michael Apted"
+        ],
+        "leads": [
+            "Pierce Brosnan",
+            "Sophie Marceau",
+            "Robert Carlyle"
+        ],
+        "music": [
+            "David Arnold"
+        ]
+    },
+    "End of Days (1999)": {
+        "title": "End of Days",
+        "year": "1999",
+        "synopsis": "In 1999, a former NYPD detective saves a banker from an assassin and must protect an innocent woman who is chosen to conceive the Antichrist.",
+        "directors": [
+            "Peter Hyams"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Robin Tunney",
+            "Gabriel Byrne"
+        ],
+        "music": [
+            "John Debney"
+        ]
+    },
+    "Toy Story 2 (1999)": {
+        "title": "Toy Story 2",
+        "year": "1999",
+        "synopsis": "When Woody is abducted by a toy collector, Buzz sets out on a rescue mission to rescue him before he joins a museum piece with his Roundup gang.",
+        "directors": [
+            "John Lasseter"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "Tim Allen",
+            "Joan Cusack"
+        ],
+        "music": [
+            "Randy Newman"
+        ]
+    },
+    "Ride with the Devil (1999)": {
+        "title": "Ride with the Devil",
+        "year": "1999",
+        "synopsis": "Jake Roedel and Jack Bull Chiles are friends in Missouri when the Civil War starts. They join the Bushwhackers, a group loyal to the Confederacy.",
+        "directors": [
+            "Ang Lee"
+        ],
+        "leads": [
+            "Tobey Maguire",
+            "Skeet Ulrich",
+            "Jewel"
+        ],
+        "music": [
+            "Mychael Danna"
+        ]
+    },
+    "Cradle Will Rock (1999)": {
+        "title": "Cradle Will Rock",
+        "year": "1999",
+        "synopsis": "In 1930s New York, Orson Welles tries to stage a musical under the Federal Theater Program but is stopped by fear of industrial unrest and socialism.",
+        "directors": [
+            "Tim Robbins"
+        ],
+        "leads": [
+            "Hank Azaria",
+            "Ruben Blades",
+            "Joan Cusack"
+        ],
+        "music": [
+            "David Robbins"
+        ]
+    },
+    "Deuce Bigalow: Male Gigolo (1999)": {
+        "title": "Deuce Bigalow: Male Gigolo",
+        "year": "1999",
+        "synopsis": "A fish tank cleaner gets a temporary job watching over a gigolo's house. He is forced to earn money by being a gigolo himself. He falls for client Kate.",
+        "directors": [
+            "Mike Mitchell"
+        ],
+        "leads": [
+            "Rob Schneider",
+            "William Forsythe",
+            "Eddie Griffin"
+        ],
+        "music": [
+            "Teddy Castellucci"
+        ]
+    },
+    "The Cider House Rules (1999)": {
+        "title": "The Cider House Rules",
+        "year": "1999",
+        "synopsis": "Raised in an orphanage and trained in abortions by a doctor, Homer decides to leave to work at an estate with a World War II pilot and his girlfriend.",
+        "directors": [
+            "Lasse Hallstr\u00f6m"
+        ],
+        "leads": [
+            "Tobey Maguire",
+            "Charlize Theron",
+            "Delroy Lindo"
+        ],
+        "music": [
+            "Rachel Portman"
+        ]
+    },
+    "The Green Mile (1999)": {
+        "title": "The Green Mile",
+        "year": "1999",
+        "synopsis": "In 1935 Louisiana, death row guard Paul meets John Coffey, a caring black man wrongly accused of murdering girls. He can magically heal people.",
+        "directors": [
+            "Frank Darabont"
+        ],
+        "leads": [
+            "Tom Hanks",
+            "David Morse",
+            "Bonnie Hunt"
+        ],
+        "music": [
+            "Thomas Newman"
+        ]
+    },
+    "Anna and the King (1999)": {
+        "title": "Anna and the King",
+        "year": "1999",
+        "synopsis": "In 1862, British widow Anna Leonowens comes to Siam with her son to teach English to the children of King Mongkut, who gains deep respect for her.",
+        "directors": [
+            "Andy Tennant"
+        ],
+        "leads": [
+            "Jodie Foster",
+            "Chow Yun-fat",
+            "Bai Ling"
+        ],
+        "music": [
+            "George Fenton"
+        ]
+    },
+    "Bicentennial Man (1999)": {
+        "title": "Bicentennial Man",
+        "year": "1999",
+        "synopsis": "In 2005, robot Andrew performs menial chores for the Martin family. His mind grows, and he falls in love. In 2205, he wants to be considered human.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "Robin Williams",
+            "Sam Neill",
+            "Embeth Davidtz"
+        ],
+        "music": [
+            "James Horner"
+        ]
+    },
+    "Fantasia 2000 (1999)": {
+        "title": "Fantasia 2000",
+        "year": "1999",
+        "synopsis": "Blending lively music and brilliant animation, this sequel to the original \u2018Fantasia\u2019 restores \u2018The Sorcerer\u2019s Apprentice\u2019 and adds seven new shorts.",
+        "directors": [
+            "Don Hahn",
+            "Pixote Hunt",
+            "Hendel Butoy",
+            "Eric Goldberg",
+            "James Algar",
+            "Francis Glebas",
+            "Paul and Ga\u00ebtan Brizzi"
+        ],
+        "leads": [
+            "James Levine",
+            "Steve Martin",
+            "Itzhak Perlman"
+        ],
+        "music": [
+            "N/A"
+        ]
+    },
+    "Magnolia (1999)": {
+        "title": "Magnolia",
+        "year": "1999",
+        "synopsis": "On one day in the San Fernando Valley, a dying father, a young wife, a famous lost son, a boy genius, and an estranged daughter face trouble.",
+        "directors": [
+            "Paul Thomas Anderson"
+        ],
+        "leads": [
+            "Jeremy Blackman",
+            "Tom Cruise",
+            "Melinda Dillon"
+        ],
+        "music": [
+            "Jon Brion"
+        ]
+    },
+    "Stuart Little (1999)": {
+        "title": "Stuart Little",
+        "year": "1999",
+        "synopsis": "The Little family adopt a heroic and debonair stalwart mouse, but their disgusted family cat teams with a gang of alley cats to get rid of him.",
+        "directors": [
+            "Rob Minkoff"
+        ],
+        "leads": [
+            "Michael J. Fox",
+            "Geena Davis",
+            "Hugh Laurie"
+        ],
+        "music": [
+            "Alan Silvestri"
+        ]
+    },
+    "Girl, Interrupted (1999)": {
+        "title": "Girl, Interrupted",
+        "year": "1999",
+        "synopsis": "In 1967 New England, suicidal Susanna begins an 18-month stay at a psychiatric hospital where she meets other girls and is drawn to a sociopath.",
+        "directors": [
+            "James Mangold"
+        ],
+        "leads": [
+            "Winona Ryder",
+            "Angelina Jolie",
+            "Clea DuVall"
+        ],
+        "music": [
+            "Mychael Danna"
+        ]
+    },
+    "Any Given Sunday (1999)": {
+        "title": "Any Given Sunday",
+        "year": "1999",
+        "synopsis": "An aging football coach holds the Miami Sharks together as its quarterback is replaced by a third stringer and as he clashes with the team's owner.",
+        "directors": [
+            "Oliver Stone"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Cameron Diaz",
+            "Dennis Quaid"
+        ],
+        "music": [
+            "Richard Horowitz",
+            "Paul Kelly"
+        ]
+    },
+    "Man on the Moon (1999)": {
+        "title": "Man on the Moon",
+        "year": "1999",
+        "synopsis": "Andy Kaufman is an eccentric comedian who goes on to enjoy a career as lovable foreign car mechanic Latka Gravas on TV's Taxi, and later gains infamy as an inter-gender wrestling champ.",
+        "directors": [
+            "Milo\u0161 Forman"
+        ],
+        "leads": [
+            "Jim Carrey",
+            "Danny DeVito",
+            "Courtney Love"
+        ],
+        "music": [
+            "R.E.M."
+        ]
+    },
+    "Galaxy Quest (1999)": {
+        "title": "Galaxy Quest",
+        "year": "1999",
+        "synopsis": "The alumni cast of a 1980s space TV series must play their roles as real when real aliens need their help with an alien warlord seeking the Omega 13.",
+        "directors": [
+            "Dean Parisot"
+        ],
+        "leads": [
+            "Tim Allen",
+            "Sigourney Weaver",
+            "Alan Rickman"
+        ],
+        "music": [
+            "David Newman"
+        ]
+    },
+    "Play It to the Bone (1999)": {
+        "title": "Play It to the Bone",
+        "year": "1999",
+        "synopsis": "Two aging best friends and former middleweight contenders travel to Las Vegas to fight each other for the first time after an undercard match arises.",
+        "directors": [
+            "Ron Shelton"
+        ],
+        "leads": [
+            "Woody Harrelson",
+            "Antonio Banderas",
+            "Lolita Davidovich"
+        ],
+        "music": [
+            "Alex Wurman"
+        ]
+    },
+    "The Talented Mr. Ripley (1999)": {
+        "title": "The Talented Mr. Ripley",
+        "year": "1999",
+        "synopsis": "In 1958, Tom is sent to Italy to ask a playboy and a girlfriend to return home, mistaken for his peer. He meets them and tries to assume their lifestyle.",
+        "directors": [
+            "Anthony Minghella"
+        ],
+        "leads": [
+            "Matt Damon",
+            "Gwyneth Paltrow",
+            "Jude Law"
+        ],
+        "music": [
+            "Gabriel Yared"
+        ]
+    },
+    "The Hurricane (1999)": {
+        "title": "The Hurricane",
+        "year": "1999",
+        "synopsis": "Rubin Carter is a boxer wrongly imprisoned for murder. A poor black youth and his Toronto foster family struggle to help him prove his innocence.",
+        "directors": [
+            "Norman Jewison"
+        ],
+        "leads": [
+            "Denzel Washington",
+            "John Hannah",
+            "Deborah Kara Unger"
+        ],
+        "music": [
+            "Christopher Young"
+        ]
+    },
     "Next Friday (2000)": {
         "title": "Next Friday",
         "year": "2000",
