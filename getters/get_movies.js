@@ -44,7 +44,7 @@ function reset() {
                 var question = 'Who directed ' + title + ' in ' + year + '?';
                 var answer = makeString(movie_map[movie]['directors']);
         } else if (question_type == 'actors') {
-            var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']); + '?';
+            var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']) + '?';
             var answer = title;
         }
 
@@ -85,7 +85,7 @@ for (const movie of movies) {
             var question = 'Who directed ' + title + ' in ' + year + '?';
             var answer = makeString(movie_map[movie]['directors']);
     } else if (question_type == 'actors') {
-        var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']); + '?';
+        var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']) + '?';
         var answer = title;
     }
 
