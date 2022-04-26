@@ -76,7 +76,7 @@ for (const movie of movies) {
     var question_type = randomItem(question_types);
 
     if (question_type == 'year') {
-        var question = 'In what year was ' + title + ' released?';
+        var question = 'In what year was ' + title + ', directed by ' + makeString(movie_map[movie]['directors']) + ', released?';
         var answer = year;
     } else if (question_type == 'synopsis') {
         var question = 'What ' + year + ' movie has the synopsis "' + movie_map[movie]['synopsis'] + '"?'
