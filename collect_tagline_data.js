@@ -28,7 +28,7 @@ function reset() {
         var answer = movie;
 
         if (!movie.includes('(1') && !movie.includes('(2')) {
-            var year = movie_map[movie]['release'].slice(-4);
+            var year = movie_map[movie]['year'];
             answer += ' (' + year + ')';
         }
 
@@ -60,7 +60,7 @@ for (const movie of movies) {
     var answer = movie;
 
     if (!movie.includes('(1') && !movie.includes('(2')) {
-        var year = movie_map[movie]['release'].slice(-4);
+        var year = movie_map[movie]['year'];
         answer += ' (' + year + ')';
     }
 

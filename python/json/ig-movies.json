@@ -1,1517 +1,1214 @@
 {
     "Batman (1966)": {
-        "release": "07/30/1966",
-        "movie": "Batman (1966)",
+        "year": "1966",
         "categories": "Batman,Comic Book,DC"
     },
     "Planet of the Apes (1968)": {
-        "release": "02/08/1968",
-        "movie": "Planet of the Apes (1968)",
+        "year": "1968",
         "categories": "Planet of the Apes"
     },
     "Beneath the Planet of the Apes": {
-        "release": "05/26/1970",
-        "movie": "Beneath the Planet of the Apes",
+        "year": "1970",
         "categories": "Planet of the Apes"
     },
     "Escape from the Planet of the Apes": {
-        "release": "05/21/1971",
-        "movie": "Escape from the Planet of the Apes",
+        "year": "1971",
         "categories": "Planet of the Apes"
     },
     "Conquest of the Planet of the Apes": {
-        "release": "06/30/1972",
-        "movie": "Conquest of the Planet of the Apes",
+        "year": "1972",
         "categories": "Planet of the Apes"
     },
     "Battle for the Planet of the Apes": {
-        "release": "06/15/1973",
-        "movie": "Battle for the Planet of the Apes",
+        "year": "1973",
         "categories": "Planet of the Apes"
     },
     "Star Wars": {
-        "release": "05/25/1977",
-        "movie": "Star Wars",
+        "year": "1977",
         "categories": "Star Wars"
     },
     "The Lord of the Rings": {
-        "release": "11/15/1978",
-        "movie": "The Lord of the Rings",
+        "year": "1978",
         "categories": "Animated,Middle-earth"
     },
     "Superman": {
-        "release": "12/15/1978",
-        "movie": "Superman",
+        "year": "1978",
         "categories": "Comic Book,DC,Superman"
     },
     "Alien": {
-        "release": "05/25/1979",
-        "movie": "Alien",
+        "year": "1979",
         "categories": "Alien/Predator"
     },
     "Star Trek: The Motion Picture": {
-        "release": "12/07/1979",
-        "movie": "Star Trek: The Motion Picture",
+        "year": "1979",
         "categories": "Star Trek"
     },
     "Mad Max": {
-        "release": "03/21/1980",
-        "movie": "Mad Max",
+        "year": "1980",
         "categories": "Dystopian/Time"
     },
     "The Empire Strikes Back": {
-        "release": "05/21/1980",
-        "movie": "The Empire Strikes Back",
+        "year": "1980",
         "categories": "Star Wars"
     },
     "Flash Gordon": {
-        "release": "12/05/1980",
-        "movie": "Flash Gordon",
+        "year": "1980",
         "categories": "Fantasy/Sci-Fi"
     },
     "Raiders of the Lost Ark": {
-        "release": "06/12/1981",
-        "movie": "Raiders of the Lost Ark",
+        "year": "1981",
         "categories": "Swashbuckling/Pulp"
     },
     "Superman II": {
-        "release": "06/19/1981",
-        "movie": "Superman II",
+        "year": "1981",
         "categories": "Comic Book,DC,Superman"
     },
     "Heavy Metal": {
-        "release": "08/07/1981",
-        "movie": "Heavy Metal",
+        "year": "1981",
         "categories": "Animated"
     },
     "Swamp Thing": {
-        "release": "02/19/1982",
-        "movie": "Swamp Thing",
+        "year": "1982",
         "categories": "Comic Book,DC"
     },
     "Conan the Barbarian (1982)": {
-        "release": "05/14/1982",
-        "movie": "Conan the Barbarian (1982)",
+        "year": "1982",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Road Warrior": {
-        "release": "05/21/1982",
-        "movie": "The Road Warrior",
+        "year": "1982",
         "categories": "Dystopian/Time"
     },
     "Star Trek II: The Wrath of Khan": {
-        "release": "06/04/1982",
-        "movie": "Star Trek II: The Wrath of Khan",
+        "year": "1982",
         "categories": "Star Trek"
     },
     "Return of the Jedi": {
-        "release": "05/25/1983",
-        "movie": "Return of the Jedi",
+        "year": "1983",
         "categories": "Star Wars"
     },
     "Superman III": {
-        "release": "06/17/1983",
-        "movie": "Superman III",
+        "year": "1983",
         "categories": "Comic Book,DC,Superman"
     },
     "Indiana Jones and the Temple of Doom": {
-        "release": "05/23/1984",
-        "movie": "Indiana Jones and the Temple of Doom",
+        "year": "1984",
         "categories": "Swashbuckling/Pulp"
     },
     "Star Trek III: The Search for Spock": {
-        "release": "06/01/1984",
-        "movie": "Star Trek III: The Search for Spock",
+        "year": "1984",
         "categories": "Star Trek"
     },
     "Conan the Destroyer": {
-        "release": "06/29/1984",
-        "movie": "Conan the Destroyer",
+        "year": "1984",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Terminator": {
-        "release": "10/26/1984",
-        "movie": "The Terminator",
+        "year": "1984",
         "categories": "Dystopian/Time"
     },
     "Supergirl": {
-        "release": "11/21/1984",
-        "movie": "Supergirl",
+        "year": "1984",
         "categories": "Comic Book,DC"
     },
     "Back to the Future": {
-        "release": "07/03/1985",
-        "movie": "Back to the Future",
+        "year": "1985",
         "categories": "Dystopian/Time"
     },
     "Red Sonja": {
-        "release": "07/03/1985",
-        "movie": "Red Sonja",
+        "year": "1985",
         "categories": "Fantasy/Sci-Fi"
     },
     "Mad Max Beyond Thunderdome": {
-        "release": "07/10/1985",
-        "movie": "Mad Max Beyond Thunderdome",
+        "year": "1985",
         "categories": "Dystopian/Time"
     },
     "Labyrinth": {
-        "release": "06/27/1986",
-        "movie": "Labyrinth",
+        "year": "1986",
         "categories": "Fantasy/Sci-Fi"
     },
     "Aliens": {
-        "release": "07/18/1986",
-        "movie": "Aliens",
+        "year": "1986",
         "categories": "Alien/Predator"
     },
     "Howard the Duck": {
-        "release": "08/01/1986",
-        "movie": "Howard the Duck",
+        "year": "1986",
         "categories": "Comic Book,Marvel"
     },
     "The Transformers: The Movie": {
-        "release": "08/08/1986",
-        "movie": "The Transformers: The Movie",
+        "year": "1986",
         "categories": "Animated,Hasbro"
     },
     "Star Trek IV: The Voyage Home": {
-        "release": "11/26/1986",
-        "movie": "Star Trek IV: The Voyage Home",
+        "year": "1986",
         "categories": "Star Trek"
     },
     "Predator": {
-        "release": "06/12/1987",
-        "movie": "Predator",
+        "year": "1987",
         "categories": "Alien/Predator"
     },
     "RoboCop (1987)": {
-        "release": "07/17/1987",
-        "movie": "RoboCop (1987)",
+        "year": "1987",
         "categories": "Fantasy/Sci-Fi"
     },
     "Superman IV: The Quest for Peace": {
-        "release": "07/24/1987",
-        "movie": "Superman IV: The Quest for Peace",
+        "year": "1987",
         "categories": "Comic Book,DC,Superman"
     },
     "Willow": {
-        "release": "05/20/1988",
-        "movie": "Willow",
+        "year": "1988",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Return of Swamp Thing": {
-        "release": "05/12/1989",
-        "movie": "The Return of Swamp Thing",
+        "year": "1989",
         "categories": "Comic Book,DC"
     },
     "Indiana Jones and the Last Crusade": {
-        "release": "05/24/1989",
-        "movie": "Indiana Jones and the Last Crusade",
+        "year": "1989",
         "categories": "Swashbuckling/Pulp"
     },
     "Star Trek V: The Final Frontier": {
-        "release": "06/09/1989",
-        "movie": "Star Trek V: The Final Frontier",
+        "year": "1989",
         "categories": "Star Trek"
     },
     "Batman (1989)": {
-        "release": "06/23/1989",
-        "movie": "Batman (1989)",
+        "year": "1989",
         "categories": "Batman,Comic Book,DC"
     },
     "Back to the Future Part II": {
-        "release": "11/22/1989",
-        "movie": "Back to the Future Part II",
+        "year": "1989",
         "categories": "Dystopian/Time"
     },
     "Teenage Mutant Ninja Turtles (1990)": {
-        "release": "03/30/1990",
-        "movie": "Teenage Mutant Ninja Turtles (1990)",
+        "year": "1990",
         "categories": "Teenage Mutant Ninja Turtles"
     },
     "Back to the Future Part III": {
-        "release": "05/25/1990",
-        "movie": "Back to the Future Part III",
+        "year": "1990",
         "categories": "Dystopian/Time"
     },
     "Dick Tracy": {
-        "release": "06/15/1990",
-        "movie": "Dick Tracy",
+        "year": "1990",
         "categories": "Comic Book,Swashbuckling/Pulp"
     },
     "RoboCop 2": {
-        "release": "06/22/1990",
-        "movie": "RoboCop 2",
+        "year": "1990",
         "categories": "Fantasy/Sci-Fi"
     },
     "Darkman": {
-        "release": "08/24/1990",
-        "movie": "Darkman",
+        "year": "1990",
         "categories": "Fantasy/Sci-Fi,Swashbuckling/Pulp"
     },
     "Predator 2": {
-        "release": "11/21/1990",
-        "movie": "Predator 2",
+        "year": "1990",
         "categories": "Alien/Predator"
     },
     "Teenage Mutant Ninja Turtles II: The Secret of the Ooze": {
-        "release": "03/22/1991",
-        "movie": "Teenage Mutant Ninja Turtles II: The Secret of the Ooze",
+        "year": "1991",
         "categories": "Teenage Mutant Ninja Turtles"
     },
     "The Rocketeer": {
-        "release": "06/21/1991",
-        "movie": "The Rocketeer",
+        "year": "1991",
         "categories": "Fantasy/Sci-Fi,Swashbuckling/Pulp"
     },
     "Terminator 2: Judgment Day": {
-        "release": "07/03/1991",
-        "movie": "Terminator 2: Judgment Day",
+        "year": "1991",
         "categories": "Dystopian/Time"
     },
     "Star Trek VI: The Undiscovered Country": {
-        "release": "12/06/1991",
-        "movie": "Star Trek VI: The Undiscovered Country",
+        "year": "1991",
         "categories": "Star Trek"
     },
     "Alien 3": {
-        "release": "05/22/1992",
-        "movie": "Alien 3",
+        "year": "1992",
         "categories": "Alien/Predator"
     },
     "Batman Returns": {
-        "release": "06/19/1992",
-        "movie": "Batman Returns",
+        "year": "1992",
         "categories": "Batman,Comic Book,DC"
     },
     "Teenage Mutant Ninja Turtles III": {
-        "release": "03/19/1993",
-        "movie": "Teenage Mutant Ninja Turtles III",
+        "year": "1993",
         "categories": "Teenage Mutant Ninja Turtles"
     },
     "Jurassic Park": {
-        "release": "06/11/1993",
-        "movie": "Jurassic Park",
+        "year": "1993",
         "categories": "Jurassic Park"
     },
     "RoboCop 3": {
-        "release": "11/05/1993",
-        "movie": "RoboCop 3",
+        "year": "1993",
         "categories": "Fantasy/Sci-Fi"
     },
     "Batman: Mask of the Phantasm": {
-        "release": "12/25/1993",
-        "movie": "Batman: Mask of the Phantasm",
+        "year": "1993",
         "categories": "Animated,Batman,Comic Book,DC"
     },
     "The Crow": {
-        "release": "05/13/1994",
-        "movie": "The Crow",
+        "year": "1994",
         "categories": "Comic Book"
     },
     "The Shadow": {
-        "release": "07/01/1994",
-        "movie": "The Shadow",
+        "year": "1994",
         "categories": "Comic Book,Fantasy/Sci-Fi,Swashbuckling/Pulp"
     },
     "The Mask": {
-        "release": "07/29/1994",
-        "movie": "The Mask",
+        "year": "1994",
         "categories": "Comic Book"
     },
     "Timecop": {
-        "release": "09/16/1994",
-        "movie": "Timecop",
+        "year": "1994",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Star Trek Generations": {
-        "release": "11/18/1994",
-        "movie": "Star Trek Generations",
+        "year": "1994",
         "categories": "Star Trek"
     },
     "Tank Girl": {
-        "release": "03/31/1995",
-        "movie": "Tank Girl",
+        "year": "1995",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Batman Forever": {
-        "release": "06/16/1995",
-        "movie": "Batman Forever",
+        "year": "1995",
         "categories": "Batman,Comic Book,DC"
     },
     "Judge Dredd": {
-        "release": "06/30/1995",
-        "movie": "Judge Dredd",
+        "year": "1995",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Mighty Morphin Power Rangers: The Movie": {
-        "release": "06/30/1995",
-        "movie": "Mighty Morphin Power Rangers: The Movie",
+        "year": "1995",
         "categories": "Fantasy/Sci-Fi,Hasbro"
     },
     "Waterworld": {
-        "release": "07/28/1995",
-        "movie": "Waterworld",
+        "year": "1995",
         "categories": "Dystopian/Time"
     },
     "Barb Wire": {
-        "release": "05/03/1996",
-        "movie": "Barb Wire",
+        "year": "1996",
         "categories": "Comic Book"
     },
     "The Phantom": {
-        "release": "06/07/1996",
-        "movie": "The Phantom",
+        "year": "1996",
         "categories": "Comic Book, Swashbuckling/Pulp"
     },
     "The Crow: City of Angels": {
-        "release": "08/30/1996",
-        "movie": "The Crow: City of Angels",
+        "year": "1996",
         "categories": "Comic Book"
     },
     "Star Trek: First Contact": {
-        "release": "11/22/1996",
-        "movie": "Star Trek: First Contact",
+        "year": "1996",
         "categories": "Star Trek"
     },
     "Turbo: A Power Rangers Movie": {
-        "release": "03/28/1997",
-        "movie": "Turbo: A Power Rangers Movie",
+        "year": "1997",
         "categories": "Fantasy/Sci-Fi,Hasbro"
     },
     "The Lost World: Jurassic Park": {
-        "release": "05/23/1997",
-        "movie": "The Lost World: Jurassic Park",
+        "year": "1997",
         "categories": "Jurassic Park"
     },
     "Batman & Robin": {
-        "release": "06/20/1997",
-        "movie": "Batman & Robin",
+        "year": "1997",
         "categories": "Batman,Comic Book,DC"
     },
     "Men in Black": {
-        "release": "07/02/1997",
-        "movie": "Men in Black",
+        "year": "1997",
         "categories": "Comic Book,Fantasy/Sci-Fi,Marvel"
     },
     "Spawn": {
-        "release": "08/01/1997",
-        "movie": "Spawn",
+        "year": "1997",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Steel": {
-        "release": "08/15/1997",
-        "movie": "Steel",
+        "year": "1997",
         "categories": "Comic Book,DC"
     },
     "Alien Resurrection": {
-        "release": "11/26/1997",
-        "movie": "Alien Resurrection",
+        "year": "1997",
         "categories": "Alien/Predator"
     },
     "The Mask of Zorro": {
-        "release": "07/17/1998",
-        "movie": "The Mask of Zorro",
+        "year": "1998",
         "categories": "Swashbuckling/Pulp"
     },
     "Blade": {
-        "release": "08/21/1998",
-        "movie": "Blade",
+        "year": "1998",
         "categories": "Comic Book,Marvel"
     },
     "Star Trek: Insurrection": {
-        "release": "12/11/1998",
-        "movie": "Star Trek: Insurrection",
+        "year": "1998",
         "categories": "Star Trek"
     },
     "The Matrix": {
-        "release": "03/31/1999",
-        "movie": "The Matrix",
+        "year": "1999",
         "categories": "Dystopian/Time"
     },
     "Star Wars: Episode I \u2013 The Phantom Menace": {
-        "release": "05/19/1999",
-        "movie": "Star Wars: Episode I \u2013 The Phantom Menace",
+        "year": "1999",
         "categories": "Star Wars"
     },
     "Mystery Men": {
-        "release": "08/06/1999",
-        "movie": "Mystery Men",
+        "year": "1999",
         "categories": "Comic Book"
     },
     "Heavy Metal 2000": {
-        "release": "07/10/2000",
-        "movie": "Heavy Metal 2000",
+        "year": "2000",
         "categories": "Animated"
     },
     "X-Men": {
-        "release": "07/14/2000",
-        "movie": "X-Men",
+        "year": "2000",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Unbreakable": {
-        "release": "11/22/2000",
-        "movie": "Unbreakable",
+        "year": "2000",
         "categories": "Mixed Bag"
     },
     "Jurassic Park III": {
-        "release": "07/18/2001",
-        "movie": "Jurassic Park III",
+        "year": "2001",
         "categories": "Jurassic Park"
     },
     "Ghost World": {
-        "release": "07/20/2001",
-        "movie": "Ghost World",
+        "year": "2001",
         "categories": "Comic Book"
     },
     "Planet of the Apes (2001)": {
-        "release": "07/27/2001",
-        "movie": "Planet of the Apes (2001)",
+        "year": "2001",
         "categories": "Planet of the Apes"
     },
     "From Hell": {
-        "release": "10/19/2001",
-        "movie": "From Hell",
+        "year": "2001",
         "categories": "Graphic Novel"
     },
     "Harry Potter and the Sorcerer's Stone": {
-        "release": "11/16/2001",
-        "movie": "Harry Potter and the Sorcerer's Stone",
+        "year": "2001",
         "categories": "Wizarding World"
     },
     "The Lord of the Rings: The Fellowship of the Ring": {
-        "release": "12/19/2001",
-        "movie": "The Lord of the Rings: The Fellowship of the Ring",
+        "year": "2001",
         "categories": "Middle-earth"
     },
     "Blade II": {
-        "release": "03/22/2002",
-        "movie": "Blade II",
+        "year": "2002",
         "categories": "Comic Book,Marvel"
     },
     "Spider-Man": {
-        "release": "05/03/2002",
-        "movie": "Spider-Man",
+        "year": "2002",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Star Wars: Episode II \u2013 Attack of the Clones": {
-        "release": "05/16/2002",
-        "movie": "Star Wars: Episode II \u2013 Attack of the Clones",
+        "year": "2002",
         "categories": "Star Wars"
     },
     "Men in Black II": {
-        "release": "07/03/2002",
-        "movie": "Men in Black II",
+        "year": "2002",
         "categories": "Comic Book,Fantasy/Sci-Fi,Marvel"
     },
     "Road to Perdition": {
-        "release": "07/12/2002",
-        "movie": "Road to Perdition",
+        "year": "2002",
         "categories": "DC,Graphic Novel"
     },
     "Harry Potter and the Chamber of Secrets": {
-        "release": "11/15/2002",
-        "movie": "Harry Potter and the Chamber of Secrets",
+        "year": "2002",
         "categories": "Wizarding World"
     },
     "Star Trek: Nemesis": {
-        "release": "12/13/2002",
-        "movie": "Star Trek: Nemesis",
+        "year": "2002",
         "categories": "Star Trek"
     },
     "The Lord of the Rings: The Two Towers": {
-        "release": "12/18/2002",
-        "movie": "The Lord of the Rings: The Two Towers",
+        "year": "2002",
         "categories": "Middle-earth"
     },
     "Daredevil": {
-        "release": "02/14/2003",
-        "movie": "Daredevil",
+        "year": "2003",
         "categories": "Comic Book,Marvel"
     },
     "Bulletproof Monk": {
-        "release": "04/16/2003",
-        "movie": "Bulletproof Monk",
+        "year": "2003",
         "categories": "Comic Book"
     },
     "X2": {
-        "release": "05/02/2003",
-        "movie": "X2",
+        "year": "2003",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "The Matrix Reloaded": {
-        "release": "05/15/2003",
-        "movie": "The Matrix Reloaded",
+        "year": "2003",
         "categories": "Dystopian/Time"
     },
     "Hulk": {
-        "release": "06/20/2003",
-        "movie": "Hulk",
+        "year": "2003",
         "categories": "Comic Book,Marvel"
     },
     "Terminator 3: Rise of the Machines": {
-        "release": "07/02/2003",
-        "movie": "Terminator 3: Rise of the Machines",
+        "year": "2003",
         "categories": "Dystopian/Time"
     },
     "Pirates of the Caribbean: The Curse of the Black Pearl": {
-        "release": "07/09/2003",
-        "movie": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
         "categories": "Swashbuckling/Pulp"
     },
     "The League of Extraordinary Gentlemen": {
-        "release": "07/11/2003",
-        "movie": "The League of Extraordinary Gentlemen",
+        "year": "2003",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "The Matrix Revolutions": {
-        "release": "11/05/2003",
-        "movie": "The Matrix Revolutions",
+        "year": "2003",
         "categories": "Dystopian/Time"
     },
     "The Lord of the Rings: The Return of the King": {
-        "release": "12/17/2003",
-        "movie": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
         "categories": "Middle-earth"
     },
     "Hellboy (2004)": {
-        "release": "04/02/2004",
-        "movie": "Hellboy (2004)",
+        "year": "2004",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "The Punisher": {
-        "release": "04/16/2004",
-        "movie": "The Punisher",
+        "year": "2004",
         "categories": "Comic Book,Marvel"
     },
     "Harry Potter and the Prisoner of Azkaban": {
-        "release": "06/04/2004",
-        "movie": "Harry Potter and the Prisoner of Azkaban",
+        "year": "2004",
         "categories": "Wizarding World"
     },
     "Spider-Man 2": {
-        "release": "06/30/2004",
-        "movie": "Spider-Man 2",
+        "year": "2004",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Catwoman": {
-        "release": "07/23/2004",
-        "movie": "Catwoman",
+        "year": "2004",
         "categories": "Comic Book,DC"
     },
     "Alien vs. Predator": {
-        "release": "08/13/2004",
-        "movie": "Alien vs. Predator",
+        "year": "2004",
         "categories": "Alien/Predator"
     },
     "The Incredibles": {
-        "release": "11/05/2004",
-        "movie": "The Incredibles",
+        "year": "2004",
         "categories": "Animated"
     },
     "Blade: Trinity": {
-        "release": "12/08/2004",
-        "movie": "Blade: Trinity",
+        "year": "2004",
         "categories": "Comic Book,Marvel"
     },
     "Elektra": {
-        "release": "01/14/2005",
-        "movie": "Elektra",
+        "year": "2005",
         "categories": "Comic Book,Marvel"
     },
     "Constantine": {
-        "release": "02/18/2005",
-        "movie": "Constantine",
+        "year": "2005",
         "categories": "Comic Book,DC"
     },
     "Son of the Mask": {
-        "release": "02/18/2005",
-        "movie": "Son of the Mask",
+        "year": "2005",
         "categories": "Comic Book"
     },
     "Sin City": {
-        "release": "04/01/2005",
-        "movie": "Sin City",
+        "year": "2005",
         "categories": "Graphic Novel"
     },
     "Star Wars: Episode III \u2013 Revenge of the Sith": {
-        "release": "05/19/2005",
-        "movie": "Star Wars: Episode III \u2013 Revenge of the Sith",
+        "year": "2005",
         "categories": "Star Wars"
     },
     "Batman Begins": {
-        "release": "06/15/2005",
-        "movie": "Batman Begins",
+        "year": "2005",
         "categories": "Batman,Comic Book,DC"
     },
     "Fantastic Four (2005)": {
-        "release": "07/08/2005",
-        "movie": "Fantastic Four (2005)",
+        "year": "2005",
         "categories": "Comic Book,Marvel"
     },
     "Sky High": {
-        "release": "07/29/2005",
-        "movie": "Sky High",
+        "year": "2005",
         "categories": "Mixed Bag"
     },
     "A History of Violence": {
-        "release": "09/23/2005",
-        "movie": "A History of Violence",
+        "year": "2005",
         "categories": "DC,Graphic Novel"
     },
     "The Legend of Zorro": {
-        "release": "10/28/2005",
-        "movie": "The Legend of Zorro",
+        "year": "2005",
         "categories": "Swashbuckling/Pulp"
     },
     "Harry Potter and the Goblet of Fire": {
-        "release": "11/18/2005",
-        "movie": "Harry Potter and the Goblet of Fire",
+        "year": "2005",
         "categories": "Wizarding World"
     },
     "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe": {
-        "release": "12/09/2005",
-        "movie": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "year": "2005",
         "categories": "Fantasy/Sci-Fi"
     },
     "V for Vendetta": {
-        "release": "03/17/2006",
-        "movie": "V for Vendetta",
+        "year": "2006",
         "categories": "DC,Graphic Novel"
     },
     "X-Men: The Last Stand": {
-        "release": "05/26/2006",
-        "movie": "X-Men: The Last Stand",
+        "year": "2006",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Superman Returns": {
-        "release": "06/28/2006",
-        "movie": "Superman Returns",
+        "year": "2006",
         "categories": "Comic Book,DC,Superman"
     },
     "Pirates of the Caribbean: Dead Man's Chest": {
-        "release": "07/07/2006",
-        "movie": "Pirates of the Caribbean: Dead Man's Chest",
+        "year": "2006",
         "categories": "Swashbuckling/Pulp"
     },
     "Ghost Rider": {
-        "release": "02/16/2007",
-        "movie": "Ghost Rider",
+        "year": "2007",
         "categories": "Comic Book,Marvel"
     },
     "300": {
-        "release": "03/09/2007",
-        "movie": "300",
+        "year": "2007",
         "categories": "Graphic Novel"
     },
     "TMNT": {
-        "release": "03/23/2007",
-        "movie": "TMNT",
+        "year": "2007",
         "categories": "Animated,Teenage Mutant Ninja Turtles"
     },
     "Spider-Man 3": {
-        "release": "05/04/2007",
-        "movie": "Spider-Man 3",
+        "year": "2007",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Pirates of the Caribbean: At World's End": {
-        "release": "05/25/2007",
-        "movie": "Pirates of the Caribbean: At World's End",
+        "year": "2007",
         "categories": "Swashbuckling/Pulp"
     },
     "Fantastic Four: Rise of the Silver Surfer": {
-        "release": "06/15/2007",
-        "movie": "Fantastic Four: Rise of the Silver Surfer",
+        "year": "2007",
         "categories": "Comic Book,Marvel"
     },
     "Transformers": {
-        "release": "07/03/2007",
-        "movie": "Transformers",
+        "year": "2007",
         "categories": "Hasbro"
     },
     "Harry Potter and the Order of the Phoenix": {
-        "release": "07/11/2007",
-        "movie": "Harry Potter and the Order of the Phoenix",
+        "year": "2007",
         "categories": "Wizarding World"
     },
     "30 Days of Night": {
-        "release": "10/19/2007",
-        "movie": "30 Days of Night",
+        "year": "2007",
         "categories": "Comic Book"
     },
     "Aliens vs. Predator: Requiem": {
-        "release": "12/25/2007",
-        "movie": "Aliens vs. Predator: Requiem",
+        "year": "2007",
         "categories": "Alien/Predator"
     },
     "Iron Man": {
-        "release": "05/02/2008",
-        "movie": "Iron Man",
+        "year": "2008",
         "categories": "Comic Book,Marvel"
     },
     "The Chronicles of Narnia: Prince Caspian": {
-        "release": "05/17/2008",
-        "movie": "The Chronicles of Narnia: Prince Caspian",
+        "year": "2008",
         "categories": "Fantasy/Sci-Fi"
     },
     "Indiana Jones and the Kingdom of the Crystal Skull": {
-        "release": "05/22/2008",
-        "movie": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "year": "2008",
         "categories": "Swashbuckling/Pulp"
     },
     "The Incredible Hulk": {
-        "release": "06/13/2008",
-        "movie": "The Incredible Hulk",
+        "year": "2008",
         "categories": "Comic Book,Marvel"
     },
     "Wanted": {
-        "release": "06/27/2008",
-        "movie": "Wanted",
+        "year": "2008",
         "categories": "Comic Book"
     },
     "Hellboy II: The Golden Army": {
-        "release": "07/11/2008",
-        "movie": "Hellboy II: The Golden Army",
+        "year": "2008",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "The Dark Knight": {
-        "release": "07/18/2008",
-        "movie": "The Dark Knight",
+        "year": "2008",
         "categories": "Batman,Comic Book,DC"
     },
     "Star Wars: The Clone Wars": {
-        "release": "08/15/2008",
-        "movie": "Star Wars: The Clone Wars",
+        "year": "2008",
         "categories": "Animated,Star Wars"
     },
     "Punisher: War Zone": {
-        "release": "12/05/2008",
-        "movie": "Punisher: War Zone",
+        "year": "2008",
         "categories": "Comic Book,Marvel"
     },
     "The Spirit": {
-        "release": "12/25/2008",
-        "movie": "The Spirit",
+        "year": "2008",
         "categories": "Comic Book"
     },
     "Watchmen": {
-        "release": "03/06/2009",
-        "movie": "Watchmen",
+        "year": "2009",
         "categories": "Comic Book,DC,Graphic Novel"
     },
     "X-Men Origins: Wolverine": {
-        "release": "05/01/2009",
-        "movie": "X-Men Origins: Wolverine",
+        "year": "2009",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Star Trek": {
-        "release": "05/08/2009",
-        "movie": "Star Trek",
+        "year": "2009",
         "categories": "Star Trek"
     },
     "Terminator Salvation": {
-        "release": "05/21/2009",
-        "movie": "Terminator Salvation",
+        "year": "2009",
         "categories": "Dystopian/Time"
     },
     "Transformers: Revenge of the Fallen": {
-        "release": "06/24/2009",
-        "movie": "Transformers: Revenge of the Fallen",
+        "year": "2009",
         "categories": "Hasbro"
     },
     "Harry Potter and the Half-Blood Prince": {
-        "release": "07/15/2009",
-        "movie": "Harry Potter and the Half-Blood Prince",
+        "year": "2009",
         "categories": "Wizarding World"
     },
     "Surrogates": {
-        "release": "09/25/2009",
-        "movie": "Surrogates",
+        "year": "2009",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Kick-Ass": {
-        "release": "04/16/2010",
-        "movie": "Kick-Ass",
+        "year": "2010",
         "categories": "Comic Book,Marvel"
     },
     "The Losers": {
-        "release": "04/23/2010",
-        "movie": "The Losers",
+        "year": "2010",
         "categories": "Comic Book,DC"
     },
     "Iron Man 2": {
-        "release": "05/07/2010",
-        "movie": "Iron Man 2",
+        "year": "2010",
         "categories": "Comic Book,Marvel"
     },
     "Jonah Hex": {
-        "release": "06/18/2010",
-        "movie": "Jonah Hex",
+        "year": "2010",
         "categories": "Comic Book,DC"
     },
     "Predators": {
-        "release": "07/09/2010",
-        "movie": "Predators",
+        "year": "2010",
         "categories": "Alien/Predator"
     },
     "Scott Pilgrim vs. the World": {
-        "release": "08/13/2010",
-        "movie": "Scott Pilgrim vs. the World",
+        "year": "2010",
         "categories": "Graphic Novel"
     },
     "Red": {
-        "release": "10/15/2010",
-        "movie": "Red",
+        "year": "2010",
         "categories": "Comic Book,DC"
     },
     "Harry Potter and the Deathly Hallows \u2013 Part 1": {
-        "release": "11/19/2010",
-        "movie": "Harry Potter and the Deathly Hallows \u2013 Part 1",
+        "year": "2010",
         "categories": "Wizarding World"
     },
     "The Chronicles of Narnia: The Voyage of the Dawn Treader": {
-        "release": "12/10/2010",
-        "movie": "The Chronicles of Narnia: The Voyage of the Dawn Treader",
+        "year": "2010",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Green Hornet": {
-        "release": "01/14/2011",
-        "movie": "The Green Hornet",
+        "year": "2011",
         "categories": "Mixed Bag"
     },
     "Thor": {
-        "release": "05/06/2011",
-        "movie": "Thor",
+        "year": "2011",
         "categories": "Comic Book,Marvel"
     },
     "Priest": {
-        "release": "05/13/2011",
-        "movie": "Priest",
+        "year": "2011",
         "categories": "Comic Book"
     },
     "Pirates of the Caribbean: On Stranger Tides": {
-        "release": "05/20/2011",
-        "movie": "Pirates of the Caribbean: On Stranger Tides",
+        "year": "2011",
         "categories": "Swashbuckling/Pulp"
     },
     "X-Men: First Class": {
-        "release": "06/03/2011",
-        "movie": "X-Men: First Class",
+        "year": "2011",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Green Lantern": {
-        "release": "06/17/2011",
-        "movie": "Green Lantern",
+        "year": "2011",
         "categories": "Comic Book,DC"
     },
     "Transformers: Dark of the Moon": {
-        "release": "06/29/2011",
-        "movie": "Transformers: Dark of the Moon",
+        "year": "2011",
         "categories": "Hasbro"
     },
     "Harry Potter and the Deathly Hallows \u2013 Part 2": {
-        "release": "07/15/2011",
-        "movie": "Harry Potter and the Deathly Hallows \u2013 Part 2",
+        "year": "2011",
         "categories": "Wizarding World"
     },
     "Captain America: The First Avenger": {
-        "release": "07/22/2011",
-        "movie": "Captain America: The First Avenger",
+        "year": "2011",
         "categories": "Comic Book,Marvel"
     },
     "Cowboys & Aliens": {
-        "release": "07/29/2011",
-        "movie": "Cowboys & Aliens",
+        "year": "2011",
         "categories": "Fantasy/Sci-Fi,Graphic Novel"
     },
     "Rise of the Planet of the Apes": {
-        "release": "08/05/2011",
-        "movie": "Rise of the Planet of the Apes",
+        "year": "2011",
         "categories": "Planet of the Apes"
     },
     "Conan the Barbarian (2011)": {
-        "release": "08/19/2011",
-        "movie": "Conan the Barbarian (2011)",
+        "year": "2011",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Adventures of Tintin": {
-        "release": "12/21/2011",
-        "movie": "The Adventures of Tintin",
+        "year": "2011",
         "categories": "Animated"
     },
     "Ghost Rider: Spirit of Vengeance": {
-        "release": "02/17/2012",
-        "movie": "Ghost Rider: Spirit of Vengeance",
+        "year": "2012",
         "categories": "Comic Book,Marvel"
     },
     "John Carter": {
-        "release": "03/09/2012",
-        "movie": "John Carter",
+        "year": "2012",
         "categories": "Fantasy/Sci-Fi"
     },
     "The Avengers": {
-        "release": "05/04/2012",
-        "movie": "The Avengers",
+        "year": "2012",
         "categories": "Comic Book,Marvel"
     },
     "Men in Black 3": {
-        "release": "05/25/2012",
-        "movie": "Men in Black 3",
+        "year": "2012",
         "categories": "Comic Book,Fantasy/Sci-Fi,Marvel"
     },
     "Prometheus": {
-        "release": "06/08/2012",
-        "movie": "Prometheus",
+        "year": "2012",
         "categories": "Alien/Predator"
     },
     "The Amazing Spider-Man": {
-        "release": "07/03/2012",
-        "movie": "The Amazing Spider-Man",
+        "year": "2012",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "The Dark Knight Rises": {
-        "release": "07/20/2012",
-        "movie": "The Dark Knight Rises",
+        "year": "2012",
         "categories": "Batman,Comic Book,DC"
     },
     "Dredd": {
-        "release": "09/21/2012",
-        "movie": "Dredd",
+        "year": "2012",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "The Hobbit: An Unexpected Journey": {
-        "release": "12/14/2012",
-        "movie": "The Hobbit: An Unexpected Journey",
+        "year": "2012",
         "categories": "Middle-earth"
     },
     "Oblivion": {
-        "release": "04/19/2013",
-        "movie": "Oblivion",
+        "year": "2013",
         "categories": "Fantasy/Sci-Fi,Graphic Novel"
     },
     "Iron Man 3": {
-        "release": "05/03/2013",
-        "movie": "Iron Man 3",
+        "year": "2013",
         "categories": "Comic Book,Marvel"
     },
     "Star Trek Into Darkness": {
-        "release": "05/16/2013",
-        "movie": "Star Trek Into Darkness",
+        "year": "2013",
         "categories": "Star Trek"
     },
     "Man of Steel": {
-        "release": "06/14/2013",
-        "movie": "Man of Steel",
+        "year": "2013",
         "categories": "Comic Book,DC,Superman"
     },
     "The Lone Ranger": {
-        "release": "07/03/2013",
-        "movie": "The Lone Ranger",
+        "year": "2013",
         "categories": "Swashbuckling/Pulp"
     },
     "R.I.P.D.": {
-        "release": "07/19/2013",
-        "movie": "R.I.P.D.",
+        "year": "2013",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Red 2": {
-        "release": "07/19/2013",
-        "movie": "Red 2",
+        "year": "2013",
         "categories": "Comic Book,DC"
     },
     "The Wolverine": {
-        "release": "07/26/2013",
-        "movie": "The Wolverine",
+        "year": "2013",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "2 Guns": {
-        "release": "08/02/2013",
-        "movie": "2 Guns",
+        "year": "2013",
         "categories": "Comic Book"
     },
     "Kick-Ass 2": {
-        "release": "08/16/2013",
-        "movie": "Kick-Ass 2",
+        "year": "2013",
         "categories": "Comic Book,Marvel"
     },
     "Thor: The Dark World": {
-        "release": "11/08/2013",
-        "movie": "Thor: The Dark World",
+        "year": "2013",
         "categories": "Comic Book,Marvel"
     },
     "The Hobbit: The Desolation of Smaug": {
-        "release": "12/13/2013",
-        "movie": "The Hobbit: The Desolation of Smaug",
+        "year": "2013",
         "categories": "Middle-earth"
     },
     "I, Frankenstein": {
-        "release": "01/24/2014",
-        "movie": "I, Frankenstein",
+        "year": "2014",
         "categories": "Graphic Novel"
     },
     "RoboCop (2014)": {
-        "release": "02/12/2014",
-        "movie": "RoboCop (2014)",
+        "year": "2014",
         "categories": "Fantasy/Sci-Fi"
     },
     "300: Rise of an Empire": {
-        "release": "03/07/2014",
-        "movie": "300: Rise of an Empire",
+        "year": "2014",
         "categories": "Graphic Novel"
     },
     "Captain America: The Winter Soldier": {
-        "release": "04/04/2014",
-        "movie": "Captain America: The Winter Soldier",
+        "year": "2014",
         "categories": "Comic Book,Marvel"
     },
     "The Amazing Spider-Man 2": {
-        "release": "05/02/2014",
-        "movie": "The Amazing Spider-Man 2",
+        "year": "2014",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "X-Men: Days of Future Past": {
-        "release": "05/23/2014",
-        "movie": "X-Men: Days of Future Past",
+        "year": "2014",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Snowpiercer": {
-        "release": "06/27/2014",
-        "movie": "Snowpiercer",
+        "year": "2014",
         "categories": "Dystopian/Time"
     },
     "Transformers: Age of Extinction": {
-        "release": "06/27/2014",
-        "movie": "Transformers: Age of Extinction",
+        "year": "2014",
         "categories": "Hasbro"
     },
     "Dawn of the Planet of the Apes": {
-        "release": "07/11/2014",
-        "movie": "Dawn of the Planet of the Apes",
+        "year": "2014",
         "categories": "Planet of the Apes"
     },
     "Hercules": {
-        "release": "07/25/2014",
-        "movie": "Hercules",
+        "year": "2014",
         "categories": "Fantasy/Sci-Fi,Graphic Novel"
     },
     "Guardians of the Galaxy": {
-        "release": "08/01/2014",
-        "movie": "Guardians of the Galaxy",
+        "year": "2014",
         "categories": "Comic Book,Marvel"
     },
     "Teenage Mutant Ninja Turtles (2014)": {
-        "release": "08/08/2014",
-        "movie": "Teenage Mutant Ninja Turtles (2014)",
+        "year": "2014",
         "categories": "Teenage Mutant Ninja Turtles"
     },
     "Sin City: A Dame to Kill For": {
-        "release": "08/22/2014",
-        "movie": "Sin City: A Dame to Kill For",
+        "year": "2014",
         "categories": "Graphic Novel"
     },
     "Big Hero 6": {
-        "release": "11/07/2014",
-        "movie": "Big Hero 6",
+        "year": "2014",
         "categories": "Animated,Comic Book,Marvel"
     },
     "The Hobbit: The Battle of the Five Armies": {
-        "release": "12/17/2014",
-        "movie": "The Hobbit: The Battle of the Five Armies",
+        "year": "2014",
         "categories": "Middle-earth"
     },
     "Strange Magic": {
-        "release": "01/23/2015",
-        "movie": "Strange Magic",
+        "year": "2015",
         "categories": "Animated,Fantasy/Sci-Fi"
     },
     "Kingsman: The Secret Service": {
-        "release": "02/13/2015",
-        "movie": "Kingsman: The Secret Service",
+        "year": "2015",
         "categories": "Comic Book,Marvel"
     },
     "Avengers: Age of Ultron": {
-        "release": "05/01/2015",
-        "movie": "Avengers: Age of Ultron",
+        "year": "2015",
         "categories": "Comic Book,Marvel"
     },
     "Mad Max: Fury Road": {
-        "release": "05/15/2015",
-        "movie": "Mad Max: Fury Road",
+        "year": "2015",
         "categories": "Dystopian/Time"
     },
     "Jurassic World": {
-        "release": "06/12/2015",
-        "movie": "Jurassic World",
+        "year": "2015",
         "categories": "Jurassic Park"
     },
     "Terminator Genisys": {
-        "release": "07/01/2015",
-        "movie": "Terminator Genisys",
+        "year": "2015",
         "categories": "Dystopian/Time"
     },
     "Ant-Man": {
-        "release": "07/17/2015",
-        "movie": "Ant-Man",
+        "year": "2015",
         "categories": "Comic Book,Marvel"
     },
     "Fantastic Four (2015)": {
-        "release": "08/07/2015",
-        "movie": "Fantastic Four (2015)",
+        "year": "2015",
         "categories": "Comic Book,Marvel"
     },
     "Star Wars: The Force Awakens": {
-        "release": "12/18/2015",
-        "movie": "Star Wars: The Force Awakens",
+        "year": "2015",
         "categories": "Star Wars"
     },
     "Deadpool": {
-        "release": "02/12/2016",
-        "movie": "Deadpool",
+        "year": "2016",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Batman v Superman: Dawn of Justice": {
-        "release": "03/25/2016",
-        "movie": "Batman v Superman: Dawn of Justice",
+        "year": "2016",
         "categories": "Batman,Comic Book,DC,Superman"
     },
     "Captain America: Civil War": {
-        "release": "05/06/2016",
-        "movie": "Captain America: Civil War",
+        "year": "2016",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "X-Men: Apocalypse": {
-        "release": "05/27/2016",
-        "movie": "X-Men: Apocalypse",
+        "year": "2016",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Teenage Mutant Ninja Turtles: Out of the Shadows": {
-        "release": "06/03/2016",
-        "movie": "Teenage Mutant Ninja Turtles: Out of the Shadows",
+        "year": "2016",
         "categories": "Teenage Mutant Ninja Turtles"
     },
     "Star Trek Beyond": {
-        "release": "07/22/2016",
-        "movie": "Star Trek Beyond",
+        "year": "2016",
         "categories": "Star Trek"
     },
     "Suicide Squad": {
-        "release": "08/05/2016",
-        "movie": "Suicide Squad",
+        "year": "2016",
         "categories": "Batman,Comic Book,DC"
     },
     "Doctor Strange": {
-        "release": "11/04/2016",
-        "movie": "Doctor Strange",
+        "year": "2016",
         "categories": "Comic Book,Marvel"
     },
     "Fantastic Beasts and Where to Find Them": {
-        "release": "11/18/2016",
-        "movie": "Fantastic Beasts and Where to Find Them",
+        "year": "2016",
         "categories": "Wizarding World"
     },
     "Rogue One: A Star Wars Story": {
-        "release": "12/16/2016",
-        "movie": "Rogue One: A Star Wars Story",
+        "year": "2016",
         "categories": "Star Wars"
     },
     "Split": {
-        "release": "01/20/2017",
-        "movie": "Split",
+        "year": "2017",
         "categories": "Mixed Bag"
     },
     "The Lego Batman Movie": {
-        "release": "02/10/2017",
-        "movie": "The Lego Batman Movie",
+        "year": "2017",
         "categories": "Animated,Batman,Comic Book,DC"
     },
     "Logan": {
-        "release": "03/03/2017",
-        "movie": "Logan",
+        "year": "2017",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Power Rangers": {
-        "release": "03/24/2017",
-        "movie": "Power Rangers",
+        "year": "2017",
         "categories": "Fantasy/Sci-Fi,Hasbro"
     },
     "Guardians of the Galaxy Vol. 2": {
-        "release": "05/05/2017",
-        "movie": "Guardians of the Galaxy Vol. 2",
+        "year": "2017",
         "categories": "Comic Book,Marvel"
     },
     "Alien: Covenant": {
-        "release": "05/19/2017",
-        "movie": "Alien: Covenant",
+        "year": "2017",
         "categories": "Alien/Predator"
     },
     "Pirates of the Caribbean: Dead Men Tell No Tales": {
-        "release": "05/26/2017",
-        "movie": "Pirates of the Caribbean: Dead Men Tell No Tales",
+        "year": "2017",
         "categories": "Swashbuckling/Pulp"
     },
     "Wonder Woman": {
-        "release": "06/02/2017",
-        "movie": "Wonder Woman",
+        "year": "2017",
         "categories": "Comic Book,DC"
     },
     "Transformers: The Last Knight": {
-        "release": "06/21/2017",
-        "movie": "Transformers: The Last Knight",
+        "year": "2017",
         "categories": "Hasbro"
     },
     "Spider-Man: Homecoming": {
-        "release": "07/07/2017",
-        "movie": "Spider-Man: Homecoming",
+        "year": "2017",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "War for the Planet of the Apes": {
-        "release": "07/14/2017",
-        "movie": "War for the Planet of the Apes",
+        "year": "2017",
         "categories": "Planet of the Apes"
     },
     "Atomic Blonde": {
-        "release": "07/28/2017",
-        "movie": "Atomic Blonde",
+        "year": "2017",
         "categories": "Graphic Novel"
     },
     "Kingsman: The Golden Circle": {
-        "release": "09/22/2017",
-        "movie": "Kingsman: The Golden Circle",
+        "year": "2017",
         "categories": "Comic Book,Marvel"
     },
     "Thor: Ragnarok": {
-        "release": "11/03/2017",
-        "movie": "Thor: Ragnarok",
+        "year": "2017",
         "categories": "Comic Book,Marvel"
     },
     "Justice League": {
-        "release": "11/17/2017",
-        "movie": "Justice League",
+        "year": "2017",
         "categories": "Batman,Comic Book,DC,Superman"
     },
     "Star Wars: The Last Jedi": {
-        "release": "12/15/2017",
-        "movie": "Star Wars: The Last Jedi",
+        "year": "2017",
         "categories": "Star Wars"
     },
     "Black Panther": {
-        "release": "02/16/2018",
-        "movie": "Black Panther",
+        "year": "2018",
         "categories": "Comic Book,Marvel"
     },
     "Ready Player One": {
-        "release": "03/29/2018",
-        "movie": "Ready Player One",
+        "year": "2018",
         "categories": "Fantasy/Sci-Fi"
     },
     "Avengers: Infinity War": {
-        "release": "04/27/2018",
-        "movie": "Avengers: Infinity War",
+        "year": "2018",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Deadpool 2": {
-        "release": "05/18/2018",
-        "movie": "Deadpool 2",
+        "year": "2018",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Solo: A Star Wars Story": {
-        "release": "05/25/2018",
-        "movie": "Solo: A Star Wars Story",
+        "year": "2018",
         "categories": "Star Wars"
     },
     "Incredibles 2": {
-        "release": "06/15/2018",
-        "movie": "Incredibles 2",
+        "year": "2018",
         "categories": "Animated"
     },
     "Jurassic World: Fallen Kingdom": {
-        "release": "06/22/2018",
-        "movie": "Jurassic World: Fallen Kingdom",
+        "year": "2018",
         "categories": "Jurassic Park"
     },
     "Ant-Man and the Wasp": {
-        "release": "07/06/2018",
-        "movie": "Ant-Man and the Wasp",
+        "year": "2018",
         "categories": "Comic Book,Marvel"
     },
     "Teen Titans Go! To the Movies": {
-        "release": "07/27/2018",
-        "movie": "Teen Titans Go! To the Movies",
+        "year": "2018",
         "categories": "Animated,Batman,Comic Book,DC"
     },
     "The Predator": {
-        "release": "09/14/2018",
-        "movie": "The Predator",
+        "year": "2018",
         "categories": "Alien/Predator"
     },
     "Venom": {
-        "release": "10/05/2018",
-        "movie": "Venom",
+        "year": "2018",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Fantastic Beasts: The Crimes of Grindelwald": {
-        "release": "11/16/2018",
-        "movie": "Fantastic Beasts: The Crimes of Grindelwald",
+        "year": "2018",
         "categories": "Wizarding World"
     },
     "Spider-Man: Into the Spider-Verse": {
-        "release": "12/14/2018",
-        "movie": "Spider-Man: Into the Spider-Verse",
+        "year": "2018",
         "categories": "Animated,Comic Book,Marvel,Spider-Man"
     },
     "Aquaman": {
-        "release": "12/21/2018",
-        "movie": "Aquaman",
+        "year": "2018",
         "categories": "Comic Book,DC"
     },
     "Bumblebee": {
-        "release": "12/21/2018",
-        "movie": "Bumblebee",
+        "year": "2018",
         "categories": "Hasbro"
     },
     "Glass": {
-        "release": "01/18/2019",
-        "movie": "Glass",
+        "year": "2019",
         "categories": "Mixed Bag"
     },
     "Polar": {
-        "release": "01/25/2019",
-        "movie": "Polar",
+        "year": "2019",
         "categories": "Comic Book"
     },
     "Captain Marvel": {
-        "release": "03/08/2019",
-        "movie": "Captain Marvel",
+        "year": "2019",
         "categories": "Comic Book,Marvel"
     },
     "Shazam!": {
-        "release": "04/05/2019",
-        "movie": "Shazam!",
+        "year": "2019",
         "categories": "Comic Book,DC"
     },
     "Hellboy (2019)": {
-        "release": "04/12/2019",
-        "movie": "Hellboy (2019)",
+        "year": "2019",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Avengers: Endgame": {
-        "release": "04/26/2019",
-        "movie": "Avengers: Endgame",
+        "year": "2019",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Dark Phoenix": {
-        "release": "06/07/2019",
-        "movie": "Dark Phoenix",
+        "year": "2019",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Men in Black: International": {
-        "release": "06/14/2019",
-        "movie": "Men in Black: International",
+        "year": "2019",
         "categories": "Comic Book,Fantasy/Sci-Fi,Marvel"
     },
     "Spider-Man: Far From Home": {
-        "release": "07/02/2019",
-        "movie": "Spider-Man: Far From Home",
+        "year": "2019",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "The Kitchen": {
-        "release": "08/09/2019",
-        "movie": "The Kitchen",
+        "year": "2019",
         "categories": "Comic Book,DC"
     },
     "Joker": {
-        "release": "10/04/2019",
-        "movie": "Joker",
+        "year": "2019",
         "categories": "Comic Book,DC"
     },
     "Terminator: Dark Fate": {
-        "release": "11/01/2019",
-        "movie": "Terminator: Dark Fate",
+        "year": "2019",
         "categories": "Dystopian/Time"
     },
     "Star Wars: The Rise of Skywalker": {
-        "release": "12/20/2019",
-        "movie": "Star Wars: The Rise of Skywalker",
+        "year": "2019",
         "categories": "Star Wars"
     },
     "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)": {
-        "release": "02/07/2020",
-        "movie": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+        "year": "2020",
         "categories": "Comic Book,DC"
     },
     "Bloodshot": {
-        "release": "03/13/2020",
-        "movie": "Bloodshot",
+        "year": "2020",
         "categories": "Comic Book,Fantasy/Sci-Fi"
     },
     "Extraction": {
-        "release": "04/24/2020",
-        "movie": "Extraction",
+        "year": "2020",
         "categories": "Graphic Novel"
     },
     "The Old Guard": {
-        "release": "07/10/2020",
-        "movie": "The Old Guard",
+        "year": "2020",
         "categories": "Comic Book"
     },
     "Project Power": {
-        "release": "08/14/2020",
-        "movie": "Project Power",
+        "year": "2020",
         "categories": "Mixed Bag"
     },
     "The New Mutants": {
-        "release": "08/28/2020",
-        "movie": "The New Mutants",
+        "year": "2020",
         "categories": "Comic Book,Marvel,X-Men"
     },
     "Wonder Woman 1984": {
-        "release": "12/25/2020",
-        "movie": "Wonder Woman 1984",
+        "year": "2020",
         "categories": "Comic Book,DC"
     },
     "Zack Snyder's Justice League": {
-        "release": "03/18/2021",
-        "movie": "Zack Snyder's Justice League",
+        "year": "2021",
         "categories": "Batman,Comic Book,DC,Superman"
     },
     "Black Widow": {
-        "release": "07/09/2021",
-        "movie": "Black Widow",
+        "year": "2021",
         "categories": "Comic Book,Marvel"
     },
     "The Suicide Squad": {
-        "release": "08/05/2021",
-        "movie": "The Suicide Squad",
+        "year": "2021",
         "categories": "Comic Book,DC"
     },
     "Shang-Chi and the Legend of the Ten Rings": {
-        "release": "09/03/2021",
-        "movie": "Shang-Chi and the Legend of the Ten Rings",
+        "year": "2021",
         "categories": "Comic Book,Marvel"
     },
     "Venom: Let There Be Carnage": {
-        "release": "10/01/2021",
-        "movie": "Venom: Let There Be Carnage",
+        "year": "2021",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "Eternals": {
-        "release": "11/05/2021",
-        "movie": "Eternals",
+        "year": "2021",
         "categories": "Comic Book,Marvel"
     },
     "Spider-Man: No Way Home": {
-        "release": "12/17/2021",
-        "movie": "Spider-Man: No Way Home",
+        "year": "2021",
         "categories": "Comic Book,Marvel,Spider-Man"
     },
     "The King's Man": {
-        "release": "12/22/2021",
-        "movie": "The King's Man",
+        "year": "2021",
         "categories": "Comic Book,Marvel"
     },
     "The Matrix Resurrections": {
-        "release": "12/22/2021",
-        "movie": "The Matrix Resurrections",
+        "year": "2021",
         "categories": "Dystopian/Time"
     }
 }

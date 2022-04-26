@@ -81,7 +81,11 @@ def generate_jsons():
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
-            ig_movie_dict[movie] = row
+            single_movie_dict = {
+                'year': row['release'][-4:],
+                'categories': row['categories']
+            }
+            ig_movie_dict[movie] = single_movie_dict
 
     with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(ig_movie_dict, indent=4))
