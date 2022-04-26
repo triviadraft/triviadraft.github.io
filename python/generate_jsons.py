@@ -10,6 +10,8 @@ def generate_jsons():
         for row in csvReader:
             movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
             single_movie_dict = {
+                'title': row['Title'],
+                'year': row['Release'][-4:],
                 'synopsis': row['Synopsis'],
                 'directors': row['Directed By'].split(',\n'),
                 'leads': row['Lead Actors'].split(',\n'),
