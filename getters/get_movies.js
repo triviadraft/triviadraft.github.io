@@ -31,7 +31,10 @@ function reset() {
     for (const movie of movies) {
         var title = movie_map[movie]['title'];
         var year = movie_map[movie]['year'];
-        var question_types = ['year','synopsis','director','actors'];
+        var question_types = ['year','synopsis','actors'];
+        if (director_map.has(movie_map[movie]['directors'][0])) {
+            question_types.push('director');
+        }
         var question_type = randomItem(question_types);
 
         if (question_type == 'year') {
@@ -72,7 +75,10 @@ answers = [];
 for (const movie of movies) {
     var title = movie_map[movie]['title'];
     var year = movie_map[movie]['year'];
-    var question_types = ['year','synopsis','director','actors'];
+    var question_types = ['year','synopsis','actors'];
+    if (director_map.has(movie_map[movie]['directors'][0])) {
+        question_types.push('director');
+    }
     var question_type = randomItem(question_types);
 
     if (question_type == 'year') {
