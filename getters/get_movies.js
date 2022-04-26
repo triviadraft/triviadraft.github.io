@@ -24,7 +24,7 @@ function reset() {
     for (const movie of movies) {
         var title = movie['title'];
         var year = movie['year'];
-        var question_types = ['year','synopsis','director'];
+        var question_types = ['year','synopsis','director','actors'];
         var question_type = randomItem(question_types);
 
         if (question_type == 'year') {
@@ -36,6 +36,9 @@ function reset() {
         } else if (question_type == 'director') {
             var question = 'Who directed ' + title + ' in ' + year + '?';
             var answer = movie['directors'].join(', ');
+        } else if (question_type == 'actors') {
+            var question = 'What ' + year + ' movie has the lead actors ' + movie['leads'].join(', ') + '?';
+            var answer = title;
         }
 
         questions.push(question);
