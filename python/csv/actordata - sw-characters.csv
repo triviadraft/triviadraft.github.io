@@ -5,6 +5,7 @@ name,homeworld,species,actor
 4D6-J-A7,,RA-7 protocol droid,Nathan Plant
 8D8,,8D-series smelter droid,
 A'Koba,Tatooine,Tusken Raider,Peter Diamond
+Aarton Chireen,Jaymir,Human,Aaron Neil
 Aayla Secura,Ryloth,Twi'lek (Rutian),"Amy Allen, Jennifer Hale (voice in IX)"
 Achk Med-Beq,,Human,Ahmed Best
 Adi Gallia,Coruscant,Tholothian,"Gin Clarke, Angelique Perrin (voice in IX)"
@@ -13,15 +14,19 @@ Agen Kolar,Coruscant,Zabrak (Iridonian),Tux Akindoyeni
 Ahsoka Tano,Shili,Togruta,Ashley Eckstein (voice)
 Aks Moe,Malastare,Gran,"Mark Coulier, Marc Silk (voice)"
 Alayus Bolandin,,Human,Hal Fowler
+Albrekh,,Symeong,Lynn Robertson Bruce
+Allie Samta,,Human,Samantha Alleyne
 Amee,Tatooine,Human,Katie Lucas
 Ames Uravan,Christophsis,Human,Robert Benedetti-Hall
 Amilyn Holdo,Gatalenta,Human,Laura Dern
+Amret Engell,,Human,Diana Kent
 Amuncie Tidian,,Boosodian,Nick Kellington
 Anakin Skywalker / Darth Vader,Tatooine,Human,"David Prowse, James Earl Jones (voice), Sebastian Shaw (VI), Jake Lloyd (I), Hayden Christensen, Matt Lanter (voice in TCW), Spencer Wilding (RO), Daniel Naprous (RO)"
 Anj Zavor,Majoros,Human,Henry Roberts (IV)
 Ansiv Garmuth,,Human,Ralph Ineson
 Antidar Williams,,Human,Silas Carson
 Antoc Merrick,Virujansi,Human,Ben Daniels
+Ap'lek,,,Lukaz Leong
 Apailana,Naboo,Human (Naboo),Keisha Castle-Hughes
 Arashell Sar,,Human,Sara Heller
 Arhul Hextrophon,,Human,Nick Joseph
@@ -45,6 +50,7 @@ Bastian,,Human,Tosin Cole
 Baze Malbus,Jedha,Human,Jiang Wen
 Bazine Netal,Chaaktil,Human,Anna Brewster
 BB-8,Hosnian Prime,BB-series astromech droid,"Dave Chapman, Brian Herring"
+BB-9E,,BB-series astromech droid,
 Beaumont Kin,Lerct,Human,Dominic Monaghan
 Bellava Parnadee,,Human,Tanya Moodie
 Ben Quadinaros,Tund,Toong,
@@ -78,14 +84,17 @@ C-3PO,Tatooine,3PO-series protocol droid,Anthony Daniels
 C'ai Threnalli,Abednedo,Abednedo,Paul Kasey
 Cabbel,,Human,Oliver Maguire
 Caluan Ematt,,Human,Andrew Jack
+Cardo,,,Martin Wilde
 Carlist Rieekan,Alderaan,Human (Alderaanian),Bruce Boa
 Casido,,Human,Rufus Wright
 Cassian Jeron Andor,Fest,Human,Diego Luna
 Cassio Tagge,Tepasi,Human,Don Henderson
 CC-1004 / Gree,Kamino,Human (clone),Temuera Morrison (voice)
 CC-2224 / Cody,Kamino,Human (clone),"Temuera Morrison (III), Dee Bradley Baker (voice in TCW)"
+CC-2237 / Odd Ball,Kamino,Human (clone),"Temuera Morrison (III), Dee Bradley Baker (voice in TCW)"
 CC-5052 / Bly,Kamino,Human (clone),
 Cellheim Anujo,,,"T.V. Moore, Dean Mitchell"
+Chesille Sabrond,Exegol,Human,Rochenda Sandall
 Chewbacca,Kashyyyk,Wookiee,"Peter Mayhew, Joonas Suotamo"
 Chi Eekway Papanoida,Pantora,Pantoran,Katie Lucas
 Chirpa,Endor,Ewok,Jane Busby
@@ -93,6 +102,7 @@ Chirrut Îmwe,Jedha,Human,Donnie Yen
 Cin Drallig,Lavisar,Human,Nick Gillard
 Cliegg Lars,Tatooine,Human,Jack Thompson
 Col Takbright,Uquine,Human,"Colin Higgins, David Ankrum (voice)"
+Coleman Trebor,Sembla,Vurk,
 Conan Antonio Motti,Seswenna,Human,Richard LeParmentier
 Cordé,Naboo,Human (Naboo),"Veronica Segura, Natalie Portman"
 Cornelius Evazan,Alsakan,Human,"Alfie Curtis (IV), Michael Smiley (RO)"
@@ -122,13 +132,19 @@ Djas Puhr,,Sakiyan,
 Dobbu Scay,,,Mark Hamill (voice)
 Doda Bodonawieedo,Rodia,Rodian,Nelson Hall (VI - special)
 Doikk Na'ts,Bith,Bith,
+Domaric Quinn,,Human,Simon Paisley Day
+Domine Lithe,,,Carolyn Hennesy
 Dooku / Darth Tyranus,Serenno,Human (Serennian),Christopher Lee
 Dopheld Mitaka,,Human,Sebastian Armesto
 Dormé,Naboo,Human (Naboo),Rose Byrne
 Drawd Munbrin,,Human,Andrew Woodall
+Dreanna Conunda,,Human,Andreea Diac
+Droopy McCool,Kirdo III,Kitonak,Deep Roy
 Dryden Vos,,,Paul Bettany
 Dud Bolt,Vulpter,Vulptereen,
 Dunstig Pterro,,Human,Tony Pitts
+Dyer,,Human,Ben Burtt
+Ebenn Q3 Baobab,,Human,Ben Burtt
 Edmos Khurgee,,Human,Christopher Muncke
 Edon Kappehl,,Human,Dan Euston
 "Edrio ""Two Tubes""",Yar Togna,Tognath,Aidan Cook
@@ -141,8 +157,11 @@ Ello Asty,Abednedo,Abednedo,"Paul Kasey, Matthew Wood (voice)"
 Elyhek Rue,Brentaal IV,Human,Mykel Mills
 Enfield,,Human,Ron Conrad
 Enfys Nest,,Human,Erin Kellyman
+Engi Golba,Didyma V,Didynon,Ed Sheeran
 Enric Pryde,Alsakan,Human,Richard E. Grant
 Erich S. Datoo,,Human,Rocky Marshall
+Essie,,SE-2 worker droid,
+EV-9D9,,EV-series supervisor droid,
 Even Piell,Lannik,Lannik,Michaela Cottrell
 Faddera Rabar,,Dyplotid,Barbara Fadden
 Falthina Sharest,Corellia,Human (Corellian),Anna Francolini
@@ -155,13 +174,21 @@ Finch Dallow,Aduba,Human,Kevin Layne
 Finis Valorum,Coruscant,Human (Coruscanti),Terence Stamp
 Finn / FN-2187,,Human,John Boyega
 Firmus Piett,Axxila,Human,Kenneth Colley
+FN-0606,,Human,Dave Hearn
+FN-0878,,Human,Dhani Harrison
+FN-1226,,Human,J.D. Dillard
+FN-1824,,Human,Daniel Craig
 FN-2003,,Human,Pip Andersen
 FN-2199,,Human,"Liang Yang, David Acord (voice)"
+FN-2802,,Human,"Nigel Godrich, David W. Collins (voice)"
 FN-3181,,Human,Michael Giacchino
 FN-9330,,Human,Nigel Godrich
 Fodesinbeed Annodue,Pollillus,Troig,"Greg Proops, Scott Capurro"
+Frantis Griss,,Human,Geff Francis
 Frobb,,Human,Geoff Bell
+GA-97,,GA servant droid,David Acord (voice)
 Galen Walton Erso,Grange,Human,Mads Mikkelsen
+Garindan ezz Zavor,Kubindi,Kubaz,Sadie Eddon
 Garouf Lafoe,,Human,Peter Diamond
 Garven Dreis,Virujansi,Human,Drewe Henley
 Gasgano,Troiken,Xexto,
@@ -172,10 +199,12 @@ Gial Ackbar,Mon Cala,Mon Calamari,"Tim Rose, Erik Bauersfeld (voice in VI, VII),
 Giddean Danu,,Human,Christopher Kirby
 Goneril,,Human,Amira Ghazalla
 Gorin,,Human,Michael Gould
+Graak,Endor,Ewok,Daniel Rodgers
 Grakchawwaa,,Wookiee,
 Greedo,Rodia / Tatooine,Rodian,"Paul Blake, Larry Ward (voice)"
 Gregar Typho,Naboo,Human (Naboo),Jay Laga'aia
 Grievous,Kalee,Kaleesh,Matthew Wood (voice)
+Grizz Frix,,Human,Ronny Cush
 Grondorn Muse,,Human,Dave Holland
 Grummgar,Dowut,Dowutin,"Patrick Comerford, Don Austen, Andy Heath, Katherine Smee, Lynn Robertson Bruce, Iestyn Evans"
 Guich,,Human,Jeffery Kissoon
@@ -195,11 +224,12 @@ IG-88B,,IG-88 assassin droid,
 Infrablue Zedbeddy Coggins,,Zenezian,Kiran Shah
 J. K. Burtola,,Human,Alex Knoll
 Jabba Desilijic Tiure,Nal Hutta / Tatooine,Hutt,"Toby Philpott (VI), David Barclay (VI), Mike Edmonds (VI), Larry Ward (voice in VI), Kevin Michael Richardson (voice in TCW)"
+Jaiyna Sibinth,,Human,Raiyah bint Hussein
 Jaldine Gerams,Fresia,Human,Geraldine James
 Jamillia,Naboo,Human (Naboo),Ayesha Dharker
 Jan Dodonna,Commenor,Human,"Alex McCrindle (IV), Ian McElhinney (RO)"
 Jango Fett,Concord Dawn,Human,Temuera Morrison
-Jannah,,Human,Naomi Ackie
+Jannah / TZ-1719,,Human,Naomi Ackie
 Janu Godalhi,,Human,Pablo Hidalgo
 Jar Jar Binks,Naboo,Gungan (Otolla),Ahmed Best
 Jav Mefran,,Human,Francis Magee
@@ -226,6 +256,7 @@ K-OHN,,L-1 tactical droid,Dee Tails
 Kabe,Chad,Chadra-Fan,
 Kado Oquoné,,Human,Angus Wright
 Kaljach Sonmi,,Heptooinian,
+Kanan Jarrus,Coruscant,Human (Coruscanti),Freddie Prinze Jr. (voice)
 Kaplan,,Human,Pip Torrens
 Kardue'sai'Malloc,Devaron,Devaronian,
 Karjj,,Crocin,Kiran Shah
@@ -249,6 +280,7 @@ Lanever Villecham,Tarsunt,Tarsunt,Derek Arnold
 Lank Paze,,Human,Paul Bazely
 Lanzora Garan,,Human,Mandeep Dhillon
 Larma D'Acy,Warlentta,Human,Amanda Lawrence
+Leektar,Endor,Ewok,
 Leesub Sirln,,Qiraash,Pam Rose
 Leia Skywalker Organa Solo,Alderaan,Human (Alderaanian),"Carrie Fisher, Aidan Barton (III), Ingvild Deila (RO)"
 Lema Eelyak,,Human,Claudia Sermbezis
@@ -274,6 +306,7 @@ Maoi Madakor,,Human,Bronagh Gallagher
 Margo,Imroosia,Imroosian,Charlotte Louise
 Mari Amithest,,Human,Phoebe Yiamkiati
 Mas Amedda,Champala,Chagrian,"Jerome Blake (I, III), David Bowers (II, III)"
+Masir Trach,,Human,Amir El-Masry
 Master Codebreaker,,Human,Justin Theroux
 Maul / Darth Maul,Dathomir,Zabrak (Dathomirian),"Ray Park, Peter Serafinowicz (voice in I), Sam Witwer (voice in S)"
 Max Rebo,Orto,Ortolan,
@@ -284,8 +317,10 @@ Melee,Tatooine,Human,Megan Udall
 Merc Sunlet,Tirac Munda,Human,Ted Western
 Merumeru,Kashyyyk,Wookiee,Axel Dench
 Meta,,Human,Morgan Dameron
+Milon Lenwith,,Human,Jacob Fortune-Lloyd
 Min Sakul,,Human,Leanne Best
 Moden Canady,,Human,Mark Lewis Jones
+Moloch,Corellia,Grindalid,"Harley Durst, Andrew Jack (voice)"
 Momaw Nadon,Ithor,Ithorian,
 Mon Mothma,Chandrila,Human (Chandrilan),"Caroline Blakiston (IV), Genevieve O'Reilly (III, RO)"
 Moradmin Bast,,Human,Leslie Schofield
@@ -298,13 +333,16 @@ Mytus Adema,Planetoid A.17,Human,Jack Roth
 Nabrun Leids,,Morseerian,Janice Burchette
 Nalan Cheel,Bith,Bith,
 Naley Frifa,,Human,L'ain Freefall
+Nambi Ghima,Pasaana,Aki-Aki,"Kiran Shah, Debra Wilson (voice)"
 Nastia Unamo,,Human,Kate Fleetwood
 Nee Alavar,,Human,Rena Owen
 Neepers Panpick,,,Kiran Shah
 Nemet,,Human,"Mark Jones, James Gleason (voice)"
 Nicki,Endor,Ewok,Nicholas Read
 Nien Nunb,Sullust,Sullustan,"Mike Quinn, Richard Bonehill, Kipsang Rotich (voice)"
+Nimi Chireen,Jaymir,Human,Mimi Ndiweni
 Niv Lek,,Human,James McArdle
+Nix Jerd,Lantillies,Human,
 Nodin Chavdri,,Human,Navin Chowdhry
 Nossit Cicer,,Human,Tim Steed
 Notluwiski Papanoida,Pantora,Pantoran,George Lucas
@@ -334,11 +372,13 @@ Pao,Pipada,Drabatan,Derek Arnold
 Paploo,Endor,Ewok,Kenny Baker
 Passel Argente,Kooriva,Koorivar,"Steven Boyle (II), Marty Wetherill (III)"
 Pateesa,,Rancor,
+Pedrin Gaul,Denon,Human,David Forman
 Pello Scrambas,Alderaan,Human,Eddie Eddon
 Phasma,Parnassos,Human,Gwendoline Christie
 Plo Koon,Dorin,Kel Dor,"Alan Ruscoe (I, II), Matt Sloan (II, III)"
 Poe Dameron,Yavin 4,Human,Oscar Isaac
 Poggle the Lesser,Geonosis,Geonosian,Marton Csokas (voice)
+Pommet Warrick,,Ewok,Harrison Davis
 Ponda Baba,Ando,Aqualish,Tommy Ilsley
 Pons Limbic,,Siniteen,
 Pooja Naberrie,,Human,Hayley Mooy
@@ -360,6 +400,7 @@ Raddus,Mon Cala,Mon Calamari,"Paul Kasey, Stephen Stanton (voice)"
 Ralakili,,Human,Clint Howard
 Ralo Surrel,,Human,Russell Balogh
 Rasett Milio,,Human,Alan Rushton
+Ratts Tyerell,Aleen,Aleena,
 Raymus Antilles,Alderaan,Human (Alderaanian),"Peter Geddis (IV), Rohan Nichol (III), Tim Beckmann (RO)"
 Razoo Qin-Fee,Nar Kanji,Human,Iko Uwais
 Rebolt,Corellia,Human,Ian Kenny
@@ -368,10 +409,13 @@ Reegesk,Aralia,Ranat,Sadie Eden
 Regineer Teed,,,Dee Tails
 Resdox,,Human,James McGrath
 Rey Skywalker,Jakku,Human,"Daisy Ridley, Cailey Fleming (VII)"
+Rey's father,Exegol,Human,Billy Howle
+Rey's mother,,Human,Jodie Comer
 Ric Olié,Naboo,Human (Naboo),Ralph Brown
 Rio Durant,Ardennia,Ardennian,"Katy Kartwheel, Jon Favreau (voice)"
 Rodinon,,Human,Richard Riddell
 Romas Navander,,Human,Burnell Tucker
+Romba,Endor,Ewok,
 Roodown,Abednedo,Abednedo,Ian Whyte
 Roos Tarpals,Naboo,Gungan (Otolla),Steven Speirs (voice)
 Rose Tico,Hays Minor,Human,Kelly Marie Tran
@@ -395,18 +439,21 @@ Saucer Head,,,Steven Bridges
 Saw Gerrera,Onderon,Human (Onderonian),Forest Whitaker
 Sebulba,Malastare,Dug,Lewis MacLeod (voice)
 Seek,Tatooine,Human,Oliver Walpole
+Seftin Vanik,Messert,Human,Josef Altin
 Senni Tonnika,,,Angela Staines
 Serchill Rostok,,Human,Matt Rippy
 Shaak Ti,Shili,Togruta,"Orli Shoshan (II), Maria Brill (III)"
 Shaef Corssin,,Human,Michael Shaeffer
+Shann Childsen,,Human,Malcolm Tierney
 Sharp,,Human,Matthew Sharp
 Shmi Skywalker Lars,Tatooine,Human,Pernilla August
 Sidon Ithano,Delphidian Cluster,Delphidian,Cavin Cornwall
 Silvasu Fi,,,Stephanie Silva
+Sim Aloo,,Human,Anthony Lang
+Sinuth,,,Slim Khezri
 Sio Bibble,Naboo,Human (Naboo),Oliver Ford Davies
 Sirro Argonne,,Human,Richard Franklin
 Siward Cass,,Human,Patrick Jordan
-Sinuth,,,Slim Khezri
 Slowen Lo,Cantonica,Abednedo,"Dee Tails, Joseph Gordon-Levitt (voice)"
 Sly Moore,Umbara,Umbaran,Sandi Finlay
 Snoke,Exegol,,Andy Serkis
@@ -450,12 +497,15 @@ Theomet Danlé,,Human,Steve John Shepherd
 Theron Nett,,Human,Robert O'Mahoney
 Tigran Jamiro,,Human,Ray Hassett
 Tion Medon,Utapau,Pau'an,Bruce Spence
+Tishra Kandia,,Human,Amanda Hale
 Tivik,,Human,Daniel Mays
 TK-421,,Human,Stephen Bayley
 Tobias Beckett,Glee Anselm,Human,Woody Harrelson
+Toht Ra,,Hylobon,
 Toryn Farr,Chandrila,Human (Chandrilan),Brigitte Kahn
 Toshma Jefkin,,Human,Christopher Patrick Nolan
 Trech Molock,,Human,Charlie Gray
+Trey Callum,,Human,Bob Anderson
 Trinto Duaba,Stennaros,Stennes Shifter,Salo Gardner (VII)
 Tritt Opan,,Human,Patrick O'Kane
 Trudgen,,,Tom Rodgers
@@ -466,15 +516,18 @@ U-3PO,,3PO-series protocol droid,Wendy Leech
 Ubbla Mollbro,,Xi'Dec,
 Ubialla Gheal,,,Sema-Tawi Smart
 Unkar Plutt,Crul / Jakku,Crolute,Simon Pegg
+Ushar,,,Ashley Beck
 Ushos O. Statura,Garel,Human,Ken Leung
 Val,Solarine,Human,Thandiwe Newton
 Vanden Willard,Alderaan,Human (Alderaanian),"Eddie Byrne, Michael Bell (voice)"
 Vaneé,,Human,Martin Gordon
 Varmik,,Hassk,Paul Warren
 Vasp Vaspar,,Human,Fares Fares
+Vicrul,,Human,Anton Simpson-Tidy
 Vlex Onopin,,Human,Weston Gavin
 Voren Na'al,,Human,Derek Lyons
 Wald,Tatooine,Rodian,Warwick Davis
+Wat Tambor,Skako / Skako Minor,Skakoan,Ben Burtt (voice)
 Watto,Toydaria,Toydarian,Andrew Secombe
 Weazel,Tatooine,Human,Warwick Davis
 Wedge Antilles,Corellia,Human (Corellian),"Denis Lawson, David Ankrum (voice in IV, RO)"
@@ -483,13 +536,16 @@ Wes Janson,Taanab,Human,Ian Liston
 Whie Malreaux,,Human,Coinneach Alexander
 Whorm Loathsom,Kerkoidia,Kerkoiden,Corey Burton (voice)
 Wicket Wystri Warrick,Endor,Ewok,Warwick Davis
+Widdle Warrick,Endor,Ewok,Tony Cox
 Wilhuff Tarkin,Eriadu,Human,"Peter Cushing (IV), Wayne Pygram (III), Guy Henry (RO)"
+Wizzich Mozzer,,Cyclorrian,Warwick Davis
 Wodibin,Chanceuxi,Suerton,Warwick Davis
 Wollivan,Rina Major,Blarina,Warwick Davis
 Wona Goban,,Human,Gabby Wong
 Wrobie Tyce,Warlentta,Human,Vinette Robinson
 Wuher,Tatooine,Human,Ted Burnett
 Wullf Yularen,Coruscant,Human (Coruscanti),"Robert Clarke (IV), Tom Kane (voice in TCW)"
+Wunka,Endor,Ewok,
 Wyron Serper,,Human,Burnell Tucker
 Yaddle,,,Phil Eason
 Yané,Naboo,Human (Naboo),Candice Orwell
@@ -505,3 +561,4 @@ Ziro Desilijic Tiure,Sleheyron / Coruscant,Hutt,Corey Burton (voice)
 Zorii Bliss,Kijimi,Human,Keri Russell
 Zuckuss,Gand,Gand (Breathing),Cathy Munro
 Zutton,,Snivvian,
+Zuvio,Phatrong,Kyuzo,
