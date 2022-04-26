@@ -29,8 +29,8 @@ function reset() {
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var title = movie['title'];
-        var year = movie['year'];
+        var title = movie_map[movie]['title'];
+        var year = movie_map[movie]['year'];
         var question_types = ['year','synopsis','director','actors'];
         var question_type = randomItem(question_types);
 
@@ -70,8 +70,8 @@ var movies = randomItems(5, Object.keys(movie_map));
 questions = [];
 answers = [];
 for (const movie of movies) {
-    var title = movie['title'];
-    var year = movie['year'];
+    var title = movie_map[movie]['title'];
+    var year = movie_map[movie]['year'];
     var question_types = ['year','synopsis','director','actors'];
     var question_type = randomItem(question_types);
 
