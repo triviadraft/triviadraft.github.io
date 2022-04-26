@@ -38,14 +38,14 @@ function reset() {
         var question_type = randomItem(question_types);
 
         if (question_type == 'year') {
-            var question = 'In what year was ' + title + ' released?';
+            var question = 'In what year was ' + makeString(movie_map[movie]['directors']) + '\'s ' + title + ' released?';
             var answer = year;
         } else if (question_type == 'synopsis') {
             var question = 'What ' + year + ' movie has the synopsis "' + movie_map[movie]['synopsis'] + '"?'
             var answer = title;
         } else if (question_type == 'director') {
-                var question = 'Who directed ' + title + ' in ' + year + '?';
-                var answer = makeString(movie_map[movie]['directors']);
+            var question = 'Who directed ' + title + ' in ' + year + '?';
+            var answer = makeString(movie_map[movie]['directors']);
         } else if (question_type == 'actors') {
             var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']) + '?';
             var answer = title;
