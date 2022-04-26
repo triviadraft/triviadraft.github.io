@@ -5,61 +5,26 @@ import random
 def generate_jsons():
     # movie data
     movie_dict = {}
-    with open(r'python/csv/1990s - Movies.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
-            single_movie_dict = {
-                'title': row['Title'],
-                'year': row['Release'][-4:],
-                'synopsis': row['Synopsis'],
-                'directors': row['Directed By'].split(',\n'),
-                'leads': row['Lead Actors'].split(',\n'),
-                'music': row['Music By'].split(',\n'),
-            }
-            movie_dict[movie] = single_movie_dict
-
-    with open(r'python/csv/2000s - Movies.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
-            single_movie_dict = {
-                'title': row['Title'],
-                'year': row['Release'][-4:],
-                'synopsis': row['Synopsis'],
-                'directors': row['Directed By'].split(',\n'),
-                'leads': row['Lead Actors'].split(',\n'),
-                'music': row['Music By'].split(',\n'),
-            }
-            movie_dict[movie] = single_movie_dict
-
-    with open(r'python/csv/2010s - Movies.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
-            single_movie_dict = {
-                'title': row['Title'],
-                'year': row['Release'][-4:],
-                'synopsis': row['Synopsis'],
-                'directors': row['Directed By'].split(',\n'),
-                'leads': row['Lead Actors'].split(',\n'),
-                'music': row['Music By'].split(',\n'),
-            }
-            movie_dict[movie] = single_movie_dict
-
-    with open(r'python/csv/2020s - Movies.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
-            single_movie_dict = {
-                'title': row['Title'],
-                'year': row['Release'][-4:],
-                'synopsis': row['Synopsis'],
-                'directors': row['Directed By'].split(',\n'),
-                'leads': row['Lead Actors'].split(',\n'),
-                'music': row['Music By'].split(',\n'),
-            }
-            movie_dict[movie] = single_movie_dict
+    for doc in [r'python/csv/Classics - Movies.csv',
+                r'python/csv/1970s - Movies.csv',
+                r'python/csv/1980s - Movies.csv',
+                r'python/csv/1990s - Movies.csv',
+                r'python/csv/2000s - Movies.csv',
+                r'python/csv/2010s - Movies.csv',
+                r'python/csv/2020s - Movies.csv']:
+        with open(doc, encoding='utf-8') as csvf:
+            csvReader = csv.DictReader(csvf)
+            for row in csvReader:
+                movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
+                single_movie_dict = {
+                    'title': row['Title'],
+                    'year': row['Release'][-4:],
+                    'synopsis': row['Synopsis'],
+                    'directors': row['Directed By'].split(',\n'),
+                    'leads': row['Lead Actors'].split(',\n'),
+                    'music': row['Music By'].split(',\n'),
+                }
+                movie_dict[movie] = single_movie_dict
 
     with open(r'python/json/movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(movie_dict, indent=4))
