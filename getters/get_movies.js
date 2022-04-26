@@ -32,7 +32,7 @@ function reset() {
         var title = movie_map[movie]['title'];
         var year = movie_map[movie]['year'];
         var question_types = ['year','synopsis','actors'];
-        if (director_map.has(movie_map[movie]['directors'][0])) {
+        if (movie_map[movie]['directors'][0] in director_map) {
             question_types.push('director');
         }
         var question_type = randomItem(question_types);
@@ -76,8 +76,8 @@ for (const movie of movies) {
     var title = movie_map[movie]['title'];
     var year = movie_map[movie]['year'];
     var question_types = ['year','synopsis','actors'];
-    if (director_map.has(movie_map[movie]['directors'][0])) {
-        question_types.push('director');
+    if (movie_map[movie]['directors'][0] in director_map) {
+            question_types.push('director');
     }
     var question_type = randomItem(question_types);
 
@@ -88,8 +88,8 @@ for (const movie of movies) {
         var question = 'What ' + year + ' movie has the synopsis "' + movie_map[movie]['synopsis'] + '"?'
         var answer = title;
     } else if (question_type == 'director') {
-            var question = 'Who directed ' + title + ' in ' + year + '?';
-            var answer = makeString(movie_map[movie]['directors']);
+        var question = 'Who directed ' + title + ' in ' + year + '?';
+        var answer = makeString(movie_map[movie]['directors']);
     } else if (question_type == 'actors') {
         var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']) + '?';
         var answer = title;
