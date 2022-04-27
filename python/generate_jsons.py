@@ -1,3 +1,4 @@
+from cryptography.fernet import Fernet
 import csv
 import json
 import random
@@ -28,6 +29,25 @@ def generate_jsons():
 
     with open(r'python/json/movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(movie_dict, indent=4))
+
+    mts_question_dict = {}
+    mts_question_dict['questions'] = []
+    with open(r'python/csv/MTS History - SG_TM.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            single_question_dict = {
+                'question': row['Question'],
+                'answer': row['Answer'],
+                'category': row['Category']
+            }
+            mts_question_dict['questions'].append(single_question_dict)
+
+    key = Fernet.generate_key()
+    print(key)
+    f = Fernet(key)
+    encrypted_data = f.encrypt(str(mts_question_dict).encode())
+    with open(r'python/json/mts-questions.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(str(encrypted_data))
 
     # oscars data
     actor_oscar_dict = {}
