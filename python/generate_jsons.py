@@ -1,4 +1,4 @@
-from cryptography.fernet import Fernet
+import base64
 import csv
 import json
 import random
@@ -42,12 +42,10 @@ def generate_jsons():
             }
             mts_question_dict['questions'].append(single_question_dict)
 
-    key = Fernet.generate_key()
-    print(key)
-    f = Fernet(key)
-    encrypted_data = f.encrypt(str(mts_question_dict).encode())
-    with open(r'python/json/mts-questions.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(str(encrypted_data))
+    dataBytes = json.dumps(mts_question_dict).encode("utf-8")
+    encoded = base64.b64encode(dataBytes)
+    with open(r'python/json/mts-questions.txt', 'w', encoding='utf-8') as f:
+        f.write(str(encoded))
 
     # oscars data
     actor_oscar_dict = {}
