@@ -17,7 +17,7 @@ function displayAnswers() {
 }
 
 function reset() { 
-    mts_questions = randomItems(5, Object.keys(mts_question_map['questions']));
+    mts_questions = randomItems(5, mts_question_map['questions']);
 
     questions = [];
     answers = [];
@@ -42,7 +42,7 @@ function reset() {
     document.getElementById('displayBtn').disabled = false;
 }
 
-var mts_questions = randomItems(5, Object.keys(mts_question_map['questions']));
+var mts_questions = randomItems(5, mts_question_map['questions']);
 
 questions = [];
 answers = [];
