@@ -35,12 +35,13 @@ def generate_jsons():
     with open(r'python/csv/MTS History - SG_TM.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
-            single_question_dict = {
-                'question': row['Question'],
-                'answer': row['Answer'],
-                'category': row['Category']
-            }
-            mts_question_dict['questions'].append(single_question_dict)
+            if row['Movies'] != 'N/A' and row['Category'] != 'Box Office':
+                single_question_dict = {
+                    'question': row['Question'],
+                    'answer': row['Answer'],
+                    'category': row['Category']
+                }
+                mts_question_dict['questions'].append(single_question_dict)
 
     dataBytes = json.dumps(mts_question_dict).encode("utf-8")
     encoded = base64.b64encode(dataBytes)
