@@ -45,8 +45,8 @@
 </header>
 
 <div id="main">
-    <button id="displayBtn" onclick="displayAnswers()">
-        Display Answers
+    <button id="showAllBtn" onclick="showAnswers()">
+        Show Answers
     </button>
     <button id="resetBtn" onclick="reset()" style="margin-left: 15px">
         Reset
@@ -78,14 +78,19 @@
         <tr>
             <td>4</td>
             <td><p id="question4"></p></td>
-            <td><p id="answer4"></p></td>
+            <td>
+                <button id="showBtn4" onclick="showAnswer(4)">
+                    Show Answer
+                </button>
+                <p id="answer4"></p>
+            </td>
         </tr>
         <tr>
             <td>5</td>
             <td><p id="question5"></p></td>
             <td>
-                <button id="displayBtn5" onclick="displayAnswer(5)">
-                    Display Answer
+                <button id="showBtn5" onclick="showAnswer(5)">
+                    Show Answer
                 </button>
                 <p id="answer5"></p>
             </td>
