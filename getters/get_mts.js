@@ -58,7 +58,7 @@ questions = [];
 answers = [];
 for (const mts_question of mts_questions) {
     var question = '(' + mts_question['category'] + ')' + mts_question['question']
-    var answer = director_movie['answer'];
+    var answer = mts_question['answer'];
 
     questions.push(question);
     answers.push(answer);
