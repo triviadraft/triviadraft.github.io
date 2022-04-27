@@ -22,7 +22,7 @@ function reset() {
     questions = [];
     answers = [];
     for (const mts_question of mts_questions) {
-        var question = '(' + mts_question['category'] + ')' + mts_question['question']
+        var question = '(' + mts_question['category'] + ') ' + mts_question['question']
         var answer = mts_question['answer'];
 
         questions.push(question);
@@ -47,7 +47,7 @@ var mts_questions = randomItems(5, mts_question_map['questions']);
 questions = [];
 answers = [];
 for (const mts_question of mts_questions) {
-    var question = '(' + mts_question['category'] + ')' + mts_question['question']
+    var question = '(' + mts_question['category'] + ') ' + mts_question['question']
     var answer = mts_question['answer'];
 
     questions.push(question);
