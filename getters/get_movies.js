@@ -14,6 +14,11 @@ function makeString(arr) {
   return firsts.join(', ') + ', and ' + last;
 }
 
+function displayAnswer(n) {
+    document.getElementById('answer' + n).innerHTML = answers[n-1];
+    document.getElementById('displayBtn' + n).disabled = true;
+}
+
 function displayAnswers() {
     document.getElementById('answer1').innerHTML = answers[0];
     document.getElementById('answer2').innerHTML = answers[1];
