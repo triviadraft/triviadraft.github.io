@@ -10,8 +10,14 @@ function randomItems(n, items) {
 function showAnswer(n) {
     document.getElementById('answer' + n).innerHTML = answers[n-1];
     document.getElementById('showBtn' + n).hidden = true;
+    if (document.getElementById('showBtn1').hidden &&
+        document.getElementById('showBtn2').hidden &&
+        document.getElementById('showBtn3').hidden &&
+        document.getElementById('showBtn4').hidden &&
+        document.getElementById('showBtn5').hidden) {
+        document.getElementById('showAllBtn').disabled = true;
+    }
 }
-
 function showAnswers() {
     document.getElementById('answer1').innerHTML = answers[0];
     document.getElementById('answer2').innerHTML = answers[1];

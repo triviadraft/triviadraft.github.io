@@ -7,13 +7,30 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
-function displayAnswers() {
+function showAnswer(n) {
+    document.getElementById('answer' + n).innerHTML = answers[n-1];
+    document.getElementById('showBtn' + n).hidden = true;
+    if (document.getElementById('showBtn1').hidden &&
+        document.getElementById('showBtn2').hidden &&
+        document.getElementById('showBtn3').hidden &&
+        document.getElementById('showBtn4').hidden &&
+        document.getElementById('showBtn5').hidden) {
+        document.getElementById('showAllBtn').disabled = true;
+    }
+}
+
+function showAnswers() {
     document.getElementById('answer1').innerHTML = answers[0];
     document.getElementById('answer2').innerHTML = answers[1];
     document.getElementById('answer3').innerHTML = answers[2];
     document.getElementById('answer4').innerHTML = answers[3];
     document.getElementById('answer5').innerHTML = answers[4];
-    document.getElementById('displayBtn').disabled = true;
+    document.getElementById('showBtn1').hidden = true;
+    document.getElementById('showBtn2').hidden = true;
+    document.getElementById('showBtn3').hidden = true;
+    document.getElementById('showBtn4').hidden = true;
+    document.getElementById('showBtn5').hidden = true;
+    document.getElementById('showAllBtn').disabled = true;
 }
 
 function reset() { 
@@ -67,7 +84,12 @@ function reset() {
     document.getElementById('answer3').innerHTML = '';
     document.getElementById('answer4').innerHTML = '';
     document.getElementById('answer5').innerHTML = '';
-    document.getElementById('displayBtn').disabled = false;
+    document.getElementById('showBtn1').hidden = false;
+    document.getElementById('showBtn2').hidden = false;
+    document.getElementById('showBtn3').hidden = false;
+    document.getElementById('showBtn4').hidden = false;
+    document.getElementById('showBtn5').hidden = false;
+    document.getElementById('showAllBtn').disabled = false;
 }
 
 var actors = randomItems(5, Object.keys(actor_oscar_map));
