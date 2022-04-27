@@ -45,7 +45,7 @@ def generate_jsons():
     dataBytes = json.dumps(mts_question_dict).encode("utf-8")
     encoded = base64.b64encode(dataBytes)
     with open(r'python/json/mts-questions.txt', 'w', encoding='utf-8') as f:
-        f.write(str(encoded))
+        f.write(str(encoded)[1:])
 
     # oscars data
     actor_oscar_dict = {}
