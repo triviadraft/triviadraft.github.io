@@ -21,19 +21,9 @@ function reset() {
 
     questions = [];
     answers = [];
-    for (const director of directors) {
-        var question_types = ['director','movie'];
-        var question_type = randomItem(question_types);
-        var director_movies = director_map[director];
-        var director_movie = randomItem(director_movies);
-
-        if (question_type == 'director') {
-            var question = 'Who directed ' + director_movie['movie'] + ' in ' + director_movie['year'] + '?';
-            var answer = director;
-        } else if (question_type == 'movie') {
-            var question = director + ' directed what movie in ' + director_movie['year'] + '?';
-            var answer = director_movie['movie'];
-        }
+    for (const mts_question of mts_questions) {
+        var question = '(' + mts_question['category'] + ')' + mts_question['question']
+        var answer = mts_question['answer'];
 
         questions.push(question);
         answers.push(answer);
