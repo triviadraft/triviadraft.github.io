@@ -2,4 +2,4 @@ var encrypted_mts_map = 'eyJxdWVzdGlvbnMiOiBbeyJxdWVzdGlvbiI6ICJXaGF0IGZhbW91cyB
 
 var decoded_mts_map = atob(encrypted_mts_map);
 
-var mts_question_map = new Map(Object.entries(JSON.parse(decoded_mts_map)));
+var mts_question_map = JSON.parse(decoded_mts_map);
