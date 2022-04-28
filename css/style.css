@@ -38,16 +38,17 @@ header {
     border-left: 1px solid #bbbbbb;
 }
 
-li a:hover:not(.active) {
-    background-color: #585858;
+.active {
+    background-color: #396c60;
 }
 
-.active {
-    background-color: #000000;
+
+li a:hover:not(.active) {
+    background-color: #478778;
 }
 
 .inactive {
-    background-color: #C0C0C0;
+    background-color: #5aa896;
 }
 
 /* main content of a page */
