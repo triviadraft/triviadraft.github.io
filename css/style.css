@@ -57,3 +57,18 @@ li a:hover:not(.active) {
     padding-top: 20px;
     margin: 10px 0 0 30px;
 }
+
+/* buttons */
+.showBtn {
+    padding: 10px 10px;
+    color: #ffffff;
+    background-color: #396c60;
+    border: 1px solid #bbbbbb;
+}
+
+.resetBtn {
+    padding: 10px 10px;
+    color: #ffffff;
+    background-color: #8b008b;
+    border: 1px solid #bbbbbb;
+}
