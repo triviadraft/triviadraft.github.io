@@ -42,7 +42,6 @@ header {
     background-color: #396c60;
 }
 
-
 li a:hover:not(.active) {
     background-color: #478778;
 }
@@ -66,6 +65,10 @@ li a:hover:not(.active) {
     border: 1px solid #bbbbbb;
 }
 
+.showBtn:hover {
+    background-color: #396c60;
+}
+
 .showBtn:disabled {
     background-color: #84beb1;
 }
@@ -75,4 +78,8 @@ li a:hover:not(.active) {
     color: #ffffff;
     background-color: #ae00ae;
     border: 1px solid #bbbbbb;
+}
+
+.resetBtn:hover {
+    background-color: #8b008b;
 }
