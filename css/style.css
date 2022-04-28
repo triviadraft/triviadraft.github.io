@@ -62,17 +62,17 @@ li a:hover:not(.active) {
 .showBtn {
     padding: 10px 15px;
     color: #ffffff;
-    background-color: #396c60;
+    background-color: #478778;
     border: 1px solid #bbbbbb;
 }
 
 .showBtn:disabled {
-    background-color: #5aa896;
+    background-color: #84beb1;
 }
 
 .resetBtn {
     padding: 10px 15px;
     color: #ffffff;
-    background-color: #8b008b;
+    background-color: #ae00ae;
     border: 1px solid #bbbbbb;
 }
