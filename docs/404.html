@@ -1,0 +1,57 @@
+---
+permalink: /404.html
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }} | MTS Question Generator</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 85%;
+        }
+
+        td, th {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 5px;
+        }
+
+        td:nth-child(1) {
+            width: 3%;
+        }
+
+        td:nth-child(2) {
+            width: 70%;
+        }
+
+        td:nth-child(3) {
+            width: 27%;
+        }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <header>
+        <ul id="nav">
+            {% for item in site.navigation %}
+                {% if page.url == item.url %}
+                    {% assign class = 'active' %}
+                {% else %}
+                    {% assign class = 'inactive' %}
+                {% endif %}
+                <li class="navlink"><a class="{{ class }}" href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endfor %}
+        </ul>
+      </header>
+    </nav>
+    <section>
+      <div id="main">
+        This page does not exist. Please navigate to one of the working links above.
+      </div>
+    </section>
+  </body>
+  </html>

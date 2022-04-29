@@ -1,0 +1,54 @@
+---
+title: IG Actors
+permalink: /ig-actors/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <title>MTS Question Generator</title>
+</head>
+
+<header>
+    <ul id="nav">
+        <li class="navlink"><a class="inactive" href="/">Home</a></li>
+        <li class="navlink"><a class="inactive" href="/mts">MTS</a></li>
+        <li class="navlink"><a class="inactive" href="/oscars">Oscars</a></li>
+        <li class="navlink"><a class="inactive" href="/directors">Directors</a></li>
+        <li class="navlink"><a class="active" href="/ig-actors">IG Actors</a></li>
+        <li class="navlink"><a class="inactive" href="/ig-taglines">IG Taglines</a></li>
+        <li class="navlink"><a class="inactive" href="/sw-characters">SW Characters</a></li>
+    </ul>
+</header>
+
+<div id="main">
+    <button id="displayBtn" class="showBtn" onclick="displayAnswer()">
+        Show Answer
+    </button>
+    <button id="resetBtn" class="resetBtn" onclick="reset()" style="margin-left: 15px">
+        Reset
+    </button>
+    <br>
+    <br>
+
+    <p id="question"></p>
+    <br>
+
+    <strong><p id="answer"></p></strong>
+    <ul>
+        <li><p id="answer1"></p></li>
+        <li><p id="answer2"></p></li>
+        <li><p id="answer3"></p></li>
+    </ul>
+    <br>
+</div>
+<br>
+
+<script src="../setters/set_ig_movies.js"></script>
+<script src="../setters/set_ig_actors.js"></script>
+<script src="../getters/get_ig_actors.js"></script>
+<script type="text/javascript" charset="utf-8">
+    document.getElementById("question").innerHTML = question;
+</script>
