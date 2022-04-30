@@ -7,6 +7,32 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function getFilteredMap(map, filter) {
+    const asArray = Object.entries(map);
+    if (filter === 'Classics') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1920 && parseInt(value['year']) < 1970);
+    } else if (filter === '1950s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1949 && parseInt(value['year']) < 1960);
+    } else if (filter === '1960s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1959 && parseInt(value['year']) < 1970);
+    } else if (filter === '1970s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1969 && parseInt(value['year']) < 1980);
+    } else if (filter === '1980s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1979 && parseInt(value['year']) < 1990);
+    } else if (filter === '1990s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1989 && parseInt(value['year']) < 2000);
+    } else if (filter === '2000s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1999 && parseInt(value['year']) < 2010);
+    } else if (filter === '2010s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 2009 && parseInt(value['year']) < 2020);
+    } else if (filter === '2020s') {
+        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 2019);
+    } else {
+        filtered = asArray.filter(([key, value]) => typeof value === 'object');
+    }
+    return Object.fromEntries(filtered);
+}
+
 function makeString(arr) {
   if (arr.length === 1) return arr[0];
   const firsts = arr.slice(0, arr.length - 1);
@@ -40,8 +66,12 @@ function showAnswers() {
     document.getElementById('showAllBtn').disabled = true;
 }
 
-function reset() { 
-    movies = randomItems(5, Object.keys(movie_map));
+function reset() {
+    if (filter) {
+        movies = randomItems(5, Object.keys(getFilteredMap(movie_map, filter)));
+    } else {
+        movies = randomItems(5, Object.keys(movie_map));
+    }
 
     questions = [];
     answers = [];
