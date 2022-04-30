@@ -48,7 +48,7 @@ function showAnswers() {
 }
 
 function reset() {
-    if (typeof filterVal !== 'undefined') {
+    if (typeof filterVal !== 'undefined' && filterVal) {
         movies = randomItems(5, Object.keys(getFilteredMap(movie_map, filterVal)));
     } else {
         movies = randomItems(5, Object.keys(movie_map));
