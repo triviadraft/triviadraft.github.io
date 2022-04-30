@@ -48,7 +48,7 @@ def generate_jsons():
         elif year >= 2020 and year <= 2029:
             movie_dict[movie]['categories'].append('2020s')
 
-    for category in ['Action/Adventure', 'Al Pacino', 'Alfred Hitchcock', 'Alien & Predator', 'Andersons', 'Animated', 'Christopher Nolan']:
+    for category in ['Action/Adventure', 'Al Pacino', 'Alfred Hitchcock', 'Alien & Predator', 'Amy Adams', 'Andersons', 'Animated', 'Anne Hathaway', 'Antonio Banderas', 'Barbra Streisand', 'Barrymore Family', 'Bill Murray', 'Brad Pitt & George Clooney', 'Bruce Willis', 'Cate Blanchett', 'Charlize Theron', 'Christopher Nolan']:
         file_prefix = category.replace('/', '_')
         with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
             csvReader = csv.DictReader(csvf)
@@ -61,7 +61,7 @@ def generate_jsons():
         if year >= 1920 and year <= 1969:
             movie_dict[movie]['categories'].append('Classics')
 
-    for category in ['Clint Eastwood', 'Coen Brothers', 'Comedies', 'Coppolas', 'David Fincher', 'David Lynch', 'Dramas', 'Fantasy/Sci-Fi', 'Frank Capra', 'Guillermo del Toro', 'Horror', 'Horror/Thriller', 'John Carpenter', 'John Hughes', 'John Singleton', 'Kevin Smith', 'M. Night Shyamalan', 'Marshalls', 'Martin Scorsese', 'Mel Brooks', 'Modern Classics', 'Nora Ephron', 'Quentin Tarantino & Robert Rodriguez', 'Ramis & Reitmans', 'Richard Donner', 'Robert Zemeckis', 'Rom-Coms', 'Romance', 'Scotts', 'Spike Lee', 'Steven Soderbergh', 'Steven Spielberg', 'Thriller', 'Tim Burton', 'Tyler Perry', 'Wachowskis']:
+    for category in ['Clint Eastwood', 'Coen Brothers', 'Comedies', 'Coppolas', 'Cusacks', 'David Fincher', 'David Lynch', 'Denzel Washington', 'Douglases', 'Dramas', 'Dwayne Johnson', 'Eastwoods', 'Ed Harris', 'Eddie Murphy', 'Emily Blunt', 'Emmas', 'Fantasy/Sci-Fi', 'Frances McDormand', 'Frank Capra', 'Gene Hackman', 'Guillermo del Toro', 'Gyllenhaals', 'Halle Berry', 'Harrison ford', 'Hepburns', 'Horror', 'Horror/Thriller', 'Ice Cube', 'Jack Nicholson', 'Jackie Chan', 'James Stewart', 'Jamie Lee Curtis', 'Jennifer Aniston', 'Jennifer Connelly', 'Jennifer Lawrence', 'Jennifer Lopez', 'John Carpenter', 'John Hughes', 'John Singleton', 'Kevin Smith', 'M. Night Shyamalan', 'Marshalls', 'Martin Scorsese', 'Mel Brooks', 'Modern Classics', 'Nora Ephron', 'Quentin Tarantino & Robert Rodriguez', 'Ramis & Reitmans', 'Richard Donner', 'Robert Zemeckis', 'Rom-Coms', 'Romance', 'Scotts', 'Spike Lee', 'Steven Soderbergh', 'Steven Spielberg', 'Thriller', 'Tim Burton', 'Tyler Perry', 'Wachowskis']:
         file_prefix = category.replace('/', '_')
         with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
             csvReader = csv.DictReader(csvf)
