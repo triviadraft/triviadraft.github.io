@@ -7,6 +7,12 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function getFilteredMap(map, filterVal) {
+    const asArray = Object.entries(map);
+    filtered = asArray.filter(([key, value]) => movie_map[key]['categories'].includes(filterVal));
+    return Object.fromEntries(filtered);
+}
+
 function showAnswer(n) {
     document.getElementById('answer' + n).innerHTML = answers[n-1];
     document.getElementById('showBtn' + n).hidden = true;
@@ -33,7 +39,11 @@ function showAnswers() {
 }
 
 function reset() { 
-    movies = randomItems(5, Object.keys(tagline_map));
+    if (typeof filterVal !== 'undefined') {
+        movies = randomItems(5, Object.keys(getFilteredMap(tagline_map, filterVal)));
+    } else {
+        movies = randomItems(5, Object.keys(tagline_map));
+    }
 
     questions = [];
     answers = [];

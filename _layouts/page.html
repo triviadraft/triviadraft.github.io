@@ -51,6 +51,19 @@
     </nav>
     <section>
       <div id="main">
+        {% if page.filters %}
+            Filter:
+            <select id="filter">
+                <option value="">N/A</option>
+                {% for item in page.filters %}
+                    <option value="{{ item }}">{{ item }}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <br>
+            <br>
+        {% endif %}
+
         <button id="showAllBtn" class="showBtn" onclick="showAnswers()">
             Show Answers
         </button>
@@ -120,14 +133,21 @@
     </div>
     <br>
     <br>
-      {{ content }}
-      <script type="text/javascript" charset="utf-8">
-    document.getElementById("question1").innerHTML = questions[0];
-    document.getElementById("question2").innerHTML = questions[1];
-    document.getElementById("question3").innerHTML = questions[2];
-    document.getElementById("question4").innerHTML = questions[3];
-    document.getElementById("question5").innerHTML = questions[4];
-</script>
+
+    {{ content }}
+    <script type="text/javascript" charset="utf-8">
+        document.getElementById("question1").innerHTML = questions[0];
+        document.getElementById("question2").innerHTML = questions[1];
+        document.getElementById("question3").innerHTML = questions[2];
+        document.getElementById("question4").innerHTML = questions[3];
+        document.getElementById("question5").innerHTML = questions[4];
+        document.addEventListener('DOMContentLoaded', function () {
+            document.getElementById('filter').onchange = function () {
+                filterVal = this.value;
+                reset();
+            }
+        });
+    </script>
     </section>
   </body>
 </html>
