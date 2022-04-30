@@ -9,32 +9,13 @@ function randomItems(n, items) {
 
 function getFilteredMap(map, filter) {
     const asArray = Object.entries(map);
-    if (filter === 'Classics') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1920 && parseInt(value['year']) < 1970);
-    } else if (filter === '1950s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1949 && parseInt(value['year']) < 1960);
-    } else if (filter === '1960s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1959 && parseInt(value['year']) < 1970);
-    } else if (filter === '1970s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1969 && parseInt(value['year']) < 1980);
-    } else if (filter === '1980s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1979 && parseInt(value['year']) < 1990);
-    } else if (filter === '1990s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1989 && parseInt(value['year']) < 2000);
-    } else if (filter === '2000s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 1999 && parseInt(value['year']) < 2010);
-    } else if (filter === '2010s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 2009 && parseInt(value['year']) < 2020);
-    } else if (filter === '2020s') {
-        filtered = asArray.filter(([key, value]) => parseInt(value['year']) > 2019);
-    } else {
-        filtered = asArray.filter(([key, value]) => typeof value === 'object');
-    }
+    filtered = asArray.filter(([key, value]) => value['categories'].includes(filter));
     return Object.fromEntries(filtered);
 }
 
 function makeString(arr) {
   if (arr.length === 1) return arr[0];
+  if (arr.length === 2) return arr[0] + ' and ' + arr[1];
   const firsts = arr.slice(0, arr.length - 1);
   const last = arr[arr.length - 1];
   return firsts.join(', ') + ', and ' + last;

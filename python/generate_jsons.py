@@ -17,6 +17,7 @@ def generate_jsons():
             csvReader = csv.DictReader(csvf)
             for row in csvReader:
                 movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
+                year = row['Release'][-4:]
                 single_movie_dict = {
                     'title': row['Title'],
                     'year': row['Release'][-4:],
@@ -24,8 +25,49 @@ def generate_jsons():
                     'directors': row['Directed By'].split(',\n'),
                     'leads': row['Lead Actors'].split(',\n'),
                     'music': row['Music By'].split(',\n'),
+                    'categories': []
                 }
                 movie_dict[movie] = single_movie_dict
+
+    for movie in movie_dict:
+        year = int(movie_dict[movie]['year'])
+        if year >= 1950 and year <= 1959:
+            movie_dict[movie]['categories'].append('1950s')
+        elif year >= 1960 and year <= 1969:
+            movie_dict[movie]['categories'].append('1960s')
+        elif year >= 1970 and year <= 1979:
+            movie_dict[movie]['categories'].append('1970s')
+        elif year >= 1980 and year <= 1989:
+            movie_dict[movie]['categories'].append('1980s')
+        elif year >= 1990 and year <= 1999:
+            movie_dict[movie]['categories'].append('1990s')
+        elif year >= 2000 and year <= 2009:
+            movie_dict[movie]['categories'].append('2000s')
+        elif year >= 2010 and year <= 2019:
+            movie_dict[movie]['categories'].append('2010s')
+        elif year >= 2020 and year <= 2029:
+            movie_dict[movie]['categories'].append('2020s')
+
+    for category in ['Action/Adventure', 'Animated']:
+        file_prefix = category.replace('/', '_')
+        with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
+            csvReader = csv.DictReader(csvf)
+            for row in csvReader:
+                movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
+                movie_dict[movie]['categories'].append(category)
+
+    for movie in movie_dict:
+        year = int(movie_dict[movie]['year'])
+        if year >= 1920 and year <= 1969:
+            movie_dict[movie]['categories'].append('Classics')
+
+    for category in ['Comedies', 'Dramas', 'Fantasy/Sci-Fi', 'Horror', 'Horror/Thriller', 'Modern Classics', 'Rom-Coms', 'Romance']:
+        file_prefix = category.replace('/', '_')
+        with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
+            csvReader = csv.DictReader(csvf)
+            for row in csvReader:
+                movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
+                movie_dict[movie]['categories'].append(category)
 
     with open(r'python/json/movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(movie_dict, indent=4))
