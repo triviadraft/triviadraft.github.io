@@ -8851,7 +8851,9 @@ var movie_map = {
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Batman",
+            "Classics",
+            "Comic Book"
         ]
     },
     "A Man Called Adam (1966)": {
@@ -9538,7 +9540,8 @@ var movie_map = {
         "categories": [
             "1960s",
             "Classics",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "The Producers (1968)": {
@@ -10586,7 +10589,8 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "Taste the Blood of Dracula (1970)": {
@@ -10972,7 +10976,8 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "Big Jake (1971)": {
@@ -11561,7 +11566,8 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "Now You See Him, Now You Don't (1972)": {
@@ -12195,7 +12201,8 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "A Touch of Class (1973)": {
@@ -14585,7 +14592,8 @@ var movie_map = {
             "1970s",
             "Fantasy/Sci-Fi",
             "Harrison Ford",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "Smokey and the Bandit (1977)": {
@@ -15513,7 +15521,9 @@ var movie_map = {
         "categories": [
             "1970s",
             "Animated",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Animated",
+            "Middle-earth"
         ]
     },
     "The Deer Hunter (1978)": {
@@ -15555,8 +15565,10 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
+            "Comic Book",
             "Gene Hackman",
-            "Richard Donner"
+            "Richard Donner",
+            "Superman"
         ]
     },
     "Every Which Way but Loose (1978)": {
@@ -16164,7 +16176,8 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "1941 (1979)": {
@@ -16393,7 +16406,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Dystopian Future & Time Travel"
         ]
     },
     "The Changeling (1980)": {
@@ -16478,7 +16492,8 @@ var movie_map = {
             "1980s",
             "Fantasy/Sci-Fi",
             "Harrison Ford",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "The Shining (1980)": {
@@ -16923,7 +16938,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Popeye (1980)": {
@@ -17423,7 +17439,8 @@ var movie_map = {
             "Action/Adventure",
             "Harrison Ford",
             "Lucasfilm",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Superman II (1981)": {
@@ -17443,7 +17460,9 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Gene Hackman"
+            "Comic Book",
+            "Gene Hackman",
+            "Superman"
         ]
     },
     "The Cannonball Run (1981)": {
@@ -17740,6 +17759,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Animated",
+            "IG Animated",
             "John Candy",
             "Ramis & Reitmans",
             "SCTV Alumni"
@@ -18268,6 +18288,7 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
+            "Comic Book",
             "Horror",
             "Horror/Thriller"
         ]
@@ -18332,6 +18353,7 @@ var movie_map = {
             "1980s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
     },
@@ -18394,7 +18416,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Dystopian Future & Time Travel"
         ]
     },
     "Rocky III (1982)": {
@@ -18461,7 +18484,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "E.T. the Extra-Terrestrial (1982)": {
@@ -19462,7 +19486,8 @@ var movie_map = {
             "1980s",
             "Fantasy/Sci-Fi",
             "Harrison Ford",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "Psycho II (1983)": {
@@ -19605,7 +19630,9 @@ var movie_map = {
             "Ken Thorne"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Comic Book",
+            "Superman"
         ]
     },
     "Porky's II: The Next Day (1983)": {
@@ -20649,7 +20676,8 @@ var movie_map = {
             "Action/Adventure",
             "Harrison Ford",
             "Lucasfilm",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Once Upon a Time in America (1984)": {
@@ -20691,7 +20719,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "Streets of Fire (1984)": {
@@ -20913,6 +20942,7 @@ var movie_map = {
             "1980s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Sly & Arnie",
             "Wrestlers in Film"
         ]
@@ -21264,6 +21294,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Action/Adventure",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
@@ -21368,7 +21399,8 @@ var movie_map = {
             "Jerry Goldsmith"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Comic Book"
         ]
     },
     "Beverly Hills Cop (1984)": {
@@ -22214,6 +22246,7 @@ var movie_map = {
             "1980s",
             "Amblin",
             "Comedies",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Modern Classics",
             "Robert Zemeckis"
@@ -22259,6 +22292,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
     },
@@ -22280,7 +22314,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Dystopian Future & Time Travel"
         ]
     },
     "Silverado (1985)": {
@@ -23606,6 +23641,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Jennifer Connelly",
             "Lucasfilm",
             "Musicians in Film"
@@ -23919,7 +23955,9 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Lucasfilm"
+            "Comic Book",
+            "Lucasfilm",
+            "Marvel"
         ]
     },
     "She's Gotta Have It (1986)": {
@@ -23986,7 +24024,9 @@ var movie_map = {
             "Action/Adventure",
             "Animated",
             "Brat Pack",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Hasbro",
+            "IG Animated"
         ]
     },
     "Armed and Dangerous (1986)": {
@@ -24393,7 +24433,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "The Mosquito Coast (1986)": {
@@ -25252,7 +25293,8 @@ var movie_map = {
         "categories": [
             "1980s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "La Bamba (1987)": {
@@ -25294,7 +25336,9 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Gene Hackman"
+            "Comic Book",
+            "Gene Hackman",
+            "Superman"
         ]
     },
     "The Living Daylights (1987)": {
@@ -26552,6 +26596,7 @@ var movie_map = {
             "1980s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Lucasfilm"
         ]
     },
@@ -28281,6 +28326,7 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
+            "Comic Book",
             "Horror",
             "Horror/Thriller"
         ]
@@ -28346,7 +28392,8 @@ var movie_map = {
             "Harrison Ford",
             "Lucasfilm",
             "Sean Connery",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Pink Cadillac (1989)": {
@@ -28431,7 +28478,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "Bad Taste (1989)": {
@@ -28497,6 +28545,8 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
+            "Batman",
+            "Comic Book",
             "Jack Nicholson",
             "Michael Keaton",
             "Tim Burton"
@@ -29302,6 +29352,7 @@ var movie_map = {
             "1980s",
             "Amblin",
             "Comedies",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Robert Zemeckis"
         ]
@@ -29832,7 +29883,8 @@ var movie_map = {
             "1990s",
             "Action/Adventure",
             "Family",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Teenage Mutant Ninja Turtles"
         ]
     },
     "I Love You to Death (1990)": {
@@ -29960,6 +30012,7 @@ var movie_map = {
             "1990s",
             "Amblin",
             "Comedies",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Robert Zemeckis"
         ]
@@ -30025,9 +30078,11 @@ var movie_map = {
         "categories": [
             "1990s",
             "Al Pacino",
+            "Comic Book",
             "Crime",
             "Musicians in Film",
-            "SCTV Alumni"
+            "SCTV Alumni",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Gremlins 2: The New Batch (1990)": {
@@ -30094,7 +30149,8 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Days of Thunder (1990)": {
@@ -30504,7 +30560,9 @@ var movie_map = {
             "1990s",
             "Coen Brothers",
             "Fantasy/Sci-Fi",
-            "Frances McDormand"
+            "Frances McDormand",
+            "IG Fantasy/Sci-Fi",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Men at Work (1990)": {
@@ -31515,6 +31573,7 @@ var movie_map = {
             "Family",
             "Fantasy/Sci-Fi",
             "Musicians in Film",
+            "Teenage Mutant Ninja Turtles",
             "Wrestlers in Film"
         ]
     },
@@ -31812,7 +31871,9 @@ var movie_map = {
         "categories": [
             "1990s",
             "Fantasy/Sci-Fi",
-            "Jennifer Connelly"
+            "IG Fantasy/Sci-Fi",
+            "Jennifer Connelly",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "The Naked Gun 2\u00bd: The Smell of Fear (1991)": {
@@ -31854,6 +31915,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
@@ -32620,7 +32682,8 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "Hook (1991)": {
@@ -33499,6 +33562,8 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Batman",
+            "Comic Book",
             "Michael Keaton",
             "Michelle Pfeiffer",
             "Tim Burton"
@@ -35066,7 +35131,8 @@ var movie_map = {
             "1990s",
             "Action/Adventure",
             "Family",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Teenage Mutant Ninja Turtles"
         ]
     },
     "Cop and a Half (1993)": {
@@ -35496,6 +35562,7 @@ var movie_map = {
             "Action/Adventure",
             "Amblin",
             "Fantasy/Sci-Fi",
+            "Jurassic Park",
             "Modern Classics",
             "Samuel L. Jackson",
             "Steven Spielberg"
@@ -36494,7 +36561,8 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "The Remains of the Day (1993)": {
@@ -36883,7 +36951,10 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Animated"
+            "Animated",
+            "Batman",
+            "Comic Book",
+            "IG Animated"
         ]
     },
     "Grumpy Old Men (1993)": {
@@ -37568,7 +37639,8 @@ var movie_map = {
             "Graeme Revell"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Comic Book"
         ]
     },
     "Maverick (1994)": {
@@ -37853,7 +37925,10 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Forrest Gump (1994)": {
@@ -38029,6 +38104,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Comedies",
+            "Comic Book",
             "Jim Carrey"
         ]
     },
@@ -38330,7 +38406,9 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "The Shawshank Redemption (1994)": {
@@ -38826,6 +38904,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Fantasy/Sci-Fi",
+            "Star Trek",
             "Whoopi Goldberg"
         ]
     },
@@ -39684,8 +39763,10 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Comic Book",
             "Cusacks",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Tommy Boy (1995)": {
@@ -40203,6 +40284,8 @@ var movie_map = {
         "categories": [
             "1990s",
             "Barrymore Family",
+            "Batman",
+            "Comic Book",
             "Jim Carrey",
             "Nicole Kidman"
         ]
@@ -40269,7 +40352,9 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
     },
@@ -40290,7 +40375,9 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Hasbro",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "First Knight (1995)": {
@@ -40497,6 +40584,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Frat Pack"
         ]
@@ -42448,7 +42536,8 @@ var movie_map = {
             "Michel Colombier"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Comic Book"
         ]
     },
     "The Craft (1996)": {
@@ -42636,7 +42725,9 @@ var movie_map = {
             "David Newman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Comic Book",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "The Rock (1996)": {
@@ -43264,7 +43355,8 @@ var movie_map = {
             "Graeme Revell"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Comic Book"
         ]
     },
     "Bulletproof (1996)": {
@@ -43900,7 +43992,8 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "101 Dalmatians (1996)": {
@@ -44820,7 +44913,9 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Hasbro",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Chasing Amy (1997)": {
@@ -45145,6 +45240,7 @@ var movie_map = {
             "Amblin",
             "Fantasy/Sci-Fi",
             "Frat Pack",
+            "Jurassic Park",
             "Steven Spielberg"
         ]
     },
@@ -45271,7 +45367,9 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Batman",
             "Brad Pitt & George Clooney",
+            "Comic Book",
             "Sly & Arnie"
         ]
     },
@@ -45339,7 +45437,10 @@ var movie_map = {
             "Action/Adventure",
             "Amblin",
             "Comedies",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
+            "Marvel",
             "Will Smith"
         ]
     },
@@ -45524,7 +45625,9 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Sheens"
         ]
     },
@@ -45612,7 +45715,8 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Brat Pack"
+            "Brat Pack",
+            "Comic Book"
         ]
     },
     "The Full Monty (1997)": {
@@ -47757,7 +47861,8 @@ var movie_map = {
             "1990s",
             "Action/Adventure",
             "Amblin",
-            "Antonio Banderas"
+            "Antonio Banderas",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Lolita (1998)": {
@@ -48015,8 +48120,10 @@ var movie_map = {
         "categories": [
             "1990s",
             "Black Cinema",
+            "Comic Book",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Marvel"
         ]
     },
     "Wrongfully Accused (1998)": {
@@ -49016,7 +49123,8 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "The Prince of Egypt (1998)": {
@@ -49744,6 +49852,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
@@ -49964,7 +50073,8 @@ var movie_map = {
             "Fantasy/Sci-Fi",
             "Lucasfilm",
             "Natalie Portman",
-            "Samuel L. Jackson"
+            "Samuel L. Jackson",
+            "Star Wars"
         ]
     },
     "Notting Hill (1999)": {
@@ -50431,6 +50541,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Comic Book",
             "Frat Pack"
         ]
     },
@@ -52743,6 +52854,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Animated",
+            "IG Animated",
             "Musicians in Film"
         ]
     },
@@ -52764,8 +52876,11 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Halle Berry"
+            "Halle Berry",
+            "Marvel",
+            "X-Men"
         ]
     },
     "The In Crowd (2000)": {
@@ -53596,6 +53711,7 @@ var movie_map = {
             "Dramas",
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
+            "IG Mixed Bag",
             "M. Night Shyamalan",
             "Samuel L. Jackson",
             "Thriller"
@@ -54955,7 +55071,8 @@ var movie_map = {
             "2000s",
             "Action/Adventure",
             "Amblin",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Jurassic Park"
         ]
     },
     "America's Sweethearts (2001)": {
@@ -55000,6 +55117,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Scarlett Johansson"
         ]
     },
@@ -55021,6 +55139,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi",
+            "Planet of the Apes",
             "Remakes & Reboots",
             "Tim Burton"
         ]
@@ -55587,6 +55706,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Graphic Novels",
             "Horror/Thriller"
         ]
     },
@@ -55870,7 +55990,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "The Wash (2001)": {
@@ -56094,6 +56215,7 @@ var movie_map = {
             "2000s",
             "Cate Blanchett",
             "Fantasy/Sci-Fi",
+            "Middle-earth",
             "Modern Classics"
         ]
     },
@@ -56807,9 +56929,11 @@ var movie_map = {
         "categories": [
             "2000s",
             "Black Cinema",
+            "Comic Book",
             "Guillermo del Toro",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Marvel"
         ]
     },
     "Death to Smoochy (2002)": {
@@ -57077,7 +57201,10 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
+            "Marvel",
             "Octavia Spencer",
+            "Spider-Man",
             "Wrestlers in Film"
         ]
     },
@@ -57101,7 +57228,8 @@ var movie_map = {
             "Fantasy/Sci-Fi",
             "Lucasfilm",
             "Natalie Portman",
-            "Samuel L. Jackson"
+            "Samuel L. Jackson",
+            "Star Wars"
         ]
     },
     "About a Boy (2002)": {
@@ -57515,7 +57643,10 @@ var movie_map = {
             "Action/Adventure",
             "Amblin",
             "Comedies",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
+            "Marvel",
             "Will Smith"
         ]
     },
@@ -57581,6 +57712,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Crime",
+            "Graphic Novels",
             "Paul Newman & Robert Redford",
             "Stanley Tucci",
             "Tom Hanks"
@@ -58503,7 +58635,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "Die Another Day (2002)": {
@@ -58758,6 +58891,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi",
+            "Star Trek",
             "Whoopi Goldberg"
         ]
     },
@@ -58801,6 +58935,7 @@ var movie_map = {
             "2000s",
             "Cate Blanchett",
             "Fantasy/Sci-Fi",
+            "Middle-earth",
             "Modern Classics"
         ]
     },
@@ -59260,7 +59395,9 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Kevin Smith",
+            "Marvel",
             "Matt & Ben"
         ]
     },
@@ -59725,6 +59862,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Martial Arts"
         ]
     },
@@ -59851,8 +59989,11 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Halle Berry"
+            "Halle Berry",
+            "Marvel",
+            "X-Men"
         ]
     },
     "Daddy Day Care (2003)": {
@@ -59917,6 +60058,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
@@ -60113,8 +60255,10 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Jennifer Connelly"
+            "Jennifer Connelly",
+            "Marvel"
         ]
     },
     "28 Days Later (2003)": {
@@ -60228,6 +60372,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
@@ -60251,7 +60396,8 @@ var movie_map = {
             "2000s",
             "Action/Adventure",
             "Disney",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "The League of Extraordinary Gentlemen (2003)": {
@@ -60272,7 +60418,9 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Sean Connery"
         ]
     },
@@ -61204,6 +61352,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
@@ -61667,6 +61816,7 @@ var movie_map = {
             "2000s",
             "Cate Blanchett",
             "Fantasy/Sci-Fi",
+            "Middle-earth",
             "Modern Classics"
         ]
     },
@@ -62338,8 +62488,10 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Guillermo del Toro"
+            "Guillermo del Toro",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Home on the Range (2004)": {
@@ -62485,7 +62637,9 @@ var movie_map = {
             "Carlo Siliotto"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "13 Going on 30 (2004)": {
@@ -62815,7 +62969,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "Garfield: The Movie (2004)": {
@@ -63043,7 +63198,10 @@ var movie_map = {
             "Danny Elfman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Marvel",
+            "Spider-Man"
         ]
     },
     "Before Sunset (2004)": {
@@ -63226,6 +63384,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Halle Berry"
         ]
     },
@@ -64028,6 +64187,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Animated",
+            "IG Animated",
             "Pixar",
             "Samuel L. Jackson"
         ]
@@ -64264,8 +64424,10 @@ var movie_map = {
         "categories": [
             "2000s",
             "Black Cinema",
+            "Comic Book",
             "Horror",
             "Horror/Thriller",
+            "Marvel",
             "Wrestlers in Film"
         ]
     },
@@ -64594,7 +64756,9 @@ var movie_map = {
             "Christophe Beck"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "Racing Stripes (2005)": {
@@ -64788,6 +64952,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Keanu Reeves"
         ]
     },
@@ -64807,7 +64972,8 @@ var movie_map = {
             "Randy Edelman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book"
         ]
     },
     "Cursed (2005)": {
@@ -65107,6 +65273,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Bruce Willis",
+            "Graphic Novels",
             "Quentin Tarantino & Robert Rodriguez"
         ]
     },
@@ -65454,7 +65621,8 @@ var movie_map = {
             "Fantasy/Sci-Fi",
             "Lucasfilm",
             "Natalie Portman",
-            "Samuel L. Jackson"
+            "Samuel L. Jackson",
+            "Star Wars"
         ]
     },
     "Dominion: Prequel to the Exorcist (2005)": {
@@ -65673,7 +65841,9 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Batman",
             "Christopher Nolan",
+            "Comic Book",
             "Morgan Freeman"
         ]
     },
@@ -65827,7 +65997,9 @@ var movie_map = {
             "John Ottman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "Charlie and the Chocolate Factory (2005)": {
@@ -65978,6 +66150,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi",
+            "IG Mixed Bag",
             "Kurt Russell"
         ]
     },
@@ -66316,7 +66489,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Crime",
-            "Ed Harris"
+            "Ed Harris",
+            "Graphic Novels"
         ]
     },
     "Corpse Bride (2005)": {
@@ -66820,7 +66994,8 @@ var movie_map = {
             "2000s",
             "Action/Adventure",
             "Amblin",
-            "Antonio Banderas"
+            "Antonio Banderas",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Chicken Little (2005)": {
@@ -66952,7 +67127,8 @@ var movie_map = {
             "Emmas",
             "Family",
             "Fantasy/Sci-Fi",
-            "Holiday"
+            "Holiday",
+            "Wizarding World"
         ]
     },
     "Walk the Line (2005)": {
@@ -67185,7 +67361,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Family",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "King Kong (2005)": {
@@ -67928,6 +68105,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Graphic Novels",
             "Natalie Portman",
             "Wachowskis"
         ]
@@ -68379,8 +68557,11 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Halle Berry"
+            "Halle Berry",
+            "Marvel",
+            "X-Men"
         ]
     },
     "The Break-Up (2006)": {
@@ -68594,7 +68775,9 @@ var movie_map = {
             "John Ottman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Superman"
         ]
     },
     "The Devil Wears Prada (2006)": {
@@ -68663,7 +68846,8 @@ var movie_map = {
             "2000s",
             "Action/Adventure",
             "Disney",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Little Man (2006)": {
@@ -70735,6 +70919,8 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
+            "Marvel",
             "Nicolas Cage"
         ]
     },
@@ -70842,7 +71028,8 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Graphic Novels"
         ]
     },
     "Dead Silence (2007)": {
@@ -70988,7 +71175,9 @@ var movie_map = {
             "Action/Adventure",
             "Animated",
             "Fantasy/Sci-Fi",
-            "Kevin Smith"
+            "IG Animated",
+            "Kevin Smith",
+            "Teenage Mutant Ninja Turtles"
         ]
     },
     "Blades of Glory (2007)": {
@@ -71298,7 +71487,10 @@ var movie_map = {
             "Christopher Young"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Marvel",
+            "Spider-Man"
         ]
     },
     "28 Weeks Later (2007)": {
@@ -71408,7 +71600,8 @@ var movie_map = {
             "Action/Adventure",
             "Disney",
             "Fantasy/Sci-Fi",
-            "Musicians in Film"
+            "Musicians in Film",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Knocked Up (2007)": {
@@ -71560,7 +71753,9 @@ var movie_map = {
             "John Ottman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "Nancy Drew (2007)": {
@@ -71711,7 +71906,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Hasbro"
         ]
     },
     "Rescue Dawn (2007)": {
@@ -71752,7 +71948,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "Talk to Me (2007)": {
@@ -72662,6 +72859,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Horror",
             "Horror/Thriller"
         ]
@@ -74333,7 +74531,9 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "Marvel",
             "Robert Downey Jr.",
             "Samuel L. Jackson"
         ]
@@ -74399,7 +74599,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Family",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Indiana Jones and the Kingdom of the Crystal Skull (2008)": {
@@ -74423,7 +74624,8 @@ var movie_map = {
             "Cate Blanchett",
             "Harrison Ford",
             "Lucasfilm",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Sex and the City (2008)": {
@@ -74552,6 +74754,8 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
+            "Marvel",
             "Robert Downey Jr."
         ]
     },
@@ -74646,6 +74850,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Comic Book",
             "Morgan Freeman"
         ]
     },
@@ -74688,8 +74893,10 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Guillermo del Toro"
+            "Guillermo del Toro",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Journey to the Center of the Earth (2008)": {
@@ -74797,8 +75004,10 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Batman",
             "Brat Pack",
             "Christopher Nolan",
+            "Comic Book",
             "Gyllenhaals",
             "Morgan Freeman"
         ]
@@ -74970,8 +75179,10 @@ var movie_map = {
             "2000s",
             "Animated",
             "Fantasy/Sci-Fi",
+            "IG Animated",
             "Lucasfilm",
-            "Samuel L. Jackson"
+            "Samuel L. Jackson",
+            "Star Wars"
         ]
     },
     "Vicky Cristina Barcelona (2008)": {
@@ -76030,6 +76241,8 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
+            "Marvel",
             "Remakes & Reboots"
         ]
     },
@@ -76296,6 +76509,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Comic Book",
             "Samuel L. Jackson",
             "Scarlett Johansson"
         ]
@@ -76717,7 +76931,9 @@ var movie_map = {
             "Tyler Bates"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Comic Book",
+            "Graphic Novels"
         ]
     },
     "Race to Witch Mountain (2009)": {
@@ -77124,7 +77340,10 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "Marvel",
+            "X-Men"
         ]
     },
     "Star Trek (2009)": {
@@ -77147,6 +77366,7 @@ var movie_map = {
             "Cornetto Trio",
             "Fantasy/Sci-Fi",
             "Remakes & Reboots",
+            "Star Trek",
             "Tyler Perry"
         ]
     },
@@ -77212,6 +77432,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -77497,7 +77718,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Hasbro"
         ]
     },
     "My Sister's Keeper (2009)": {
@@ -77647,7 +77869,8 @@ var movie_map = {
         "categories": [
             "2000s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "G-Force (2009)": {
@@ -78119,7 +78342,9 @@ var movie_map = {
         "categories": [
             "2000s",
             "Bruce Willis",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "A Serious Man (2009)": {
@@ -79660,6 +79885,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Nicolas Cage"
         ]
     },
@@ -79701,7 +79928,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Comic Book"
         ]
     },
     "A Nightmare on Elm Street (2010)": {
@@ -79745,7 +79973,9 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "Marvel",
             "Robert Downey Jr.",
             "Samuel L. Jackson",
             "Scarlett Johansson"
@@ -80089,7 +80319,8 @@ var movie_map = {
             "Mastodon"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book"
         ]
     },
     "Toy Story 3 (2010)": {
@@ -80521,7 +80752,8 @@ var movie_map = {
             "2010s",
             "Comedies",
             "Cornetto Trio",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Graphic Novels"
         ]
     },
     "The Expendables (2010)": {
@@ -81170,6 +81402,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Bruce Willis",
+            "Comic Book",
             "Morgan Freeman"
         ]
     },
@@ -81390,7 +81623,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "The Next Three Days (2010)": {
@@ -81560,7 +81794,8 @@ var movie_map = {
             "2010s",
             "Cornetto Trio",
             "Family",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "The Fighter (2010)": {
@@ -81839,7 +82074,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Frat Pack"
+            "Frat Pack",
+            "IG Mixed Bag"
         ]
     },
     "No Strings Attached (2011)": {
@@ -82708,7 +82944,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "Marvel",
             "Natalie Portman",
             "Samuel L. Jackson"
         ]
@@ -82752,6 +82990,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -82796,7 +83035,8 @@ var movie_map = {
             "Action/Adventure",
             "Disney",
             "Fantasy/Sci-Fi",
-            "Musicians in Film"
+            "Musicians in Film",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "Kung Fu Panda 2 (2011)": {
@@ -82905,8 +83145,11 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Jennifer Lawrence"
+            "Jennifer Lawrence",
+            "Marvel",
+            "X-Men"
         ]
     },
     "Super 8 (2011)": {
@@ -82946,7 +83189,8 @@ var movie_map = {
             "James Newton Howard"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book"
         ]
     },
     "Mr. Popper's Penguins (2011)": {
@@ -83031,7 +83275,8 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
-            "Frances McDormand"
+            "Frances McDormand",
+            "Hasbro"
         ]
     },
     "Larry Crowne (2011)": {
@@ -83157,7 +83402,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Emmas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "Winnie the Pooh (2011)": {
@@ -83199,6 +83445,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Samuel L. Jackson",
             "Stanley Tucci"
         ]
@@ -83267,7 +83515,9 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Harrison Ford"
+            "Graphic Novels",
+            "Harrison Ford",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Crazy, Stupid, Love. (2011)": {
@@ -83333,7 +83583,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "The Change-Up (2011)": {
@@ -83419,6 +83670,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Morgan Freeman",
             "Remakes & Reboots"
         ]
@@ -84622,6 +84874,7 @@ var movie_map = {
             "Amblin",
             "Animated",
             "Cornetto Trio",
+            "IG Animated",
             "Steven Spielberg"
         ]
     },
@@ -85027,6 +85280,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Nicolas Cage"
         ]
     },
@@ -85195,7 +85450,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "21 Jump Street (2012)": {
@@ -85501,6 +85757,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Robert Downey Jr.",
             "Samuel L. Jackson",
             "Scarlett Johansson"
@@ -85632,7 +85890,10 @@ var movie_map = {
             "Action/Adventure",
             "Amblin",
             "Comedies",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
+            "Marvel",
             "Will Smith"
         ]
     },
@@ -85963,9 +86224,12 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Emmas",
+            "Marvel",
             "Remakes & Reboots",
-            "Sheens"
+            "Sheens",
+            "Spider-Man"
         ]
     },
     "Savages (2012)": {
@@ -86051,7 +86315,9 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Anne Hathaway",
+            "Batman",
             "Christopher Nolan",
+            "Comic Book",
             "Morgan Freeman"
         ]
     },
@@ -86491,7 +86757,9 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Remakes & Reboots"
         ]
     },
@@ -87262,7 +87530,8 @@ var movie_map = {
             "2010s",
             "Cate Blanchett",
             "Fantasy/Sci-Fi",
-            "Guillermo del Toro"
+            "Guillermo del Toro",
+            "Middle-earth"
         ]
     },
     "The Guilt Trip (2012)": {
@@ -88106,6 +88375,8 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "Graphic Novels",
+            "IG Fantasy/Sci-Fi",
             "Morgan Freeman",
             "Tom Cruise"
         ]
@@ -88218,8 +88489,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
             "Holiday",
+            "Marvel",
             "Robert Downey Jr."
         ]
     },
@@ -88263,7 +88536,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Cornetto Trio",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "Frances Ha (2013)": {
@@ -88496,7 +88770,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Amy Adams"
+            "Amy Adams",
+            "Comic Book",
+            "Superman"
         ]
     },
     "The Bling Ring (2013)": {
@@ -88672,6 +88948,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Remakes & Reboots",
+            "Swashbuckling & Pulp Adventure",
             "Westerns"
         ]
     },
@@ -88852,7 +89129,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Red 2 (2013)": {
@@ -88873,7 +89152,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Bruce Willis"
+            "Bruce Willis",
+            "Comic Book"
         ]
     },
     "The Conjuring (2013)": {
@@ -88935,7 +89215,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "Marvel",
+            "X-Men"
         ]
     },
     "The Smurfs 2 (2013)": {
@@ -88976,6 +89259,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Denzel Washington"
         ]
     },
@@ -89122,7 +89406,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Jim Carrey"
+            "Comic Book",
+            "Jim Carrey",
+            "Marvel"
         ]
     },
     "Lee Daniels' The Butler (2013)": {
@@ -89760,7 +90046,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "Marvel",
             "Natalie Portman"
         ]
     },
@@ -90062,7 +90350,8 @@ var movie_map = {
             "2010s",
             "Cate Blanchett",
             "Fantasy/Sci-Fi",
-            "Guillermo del Toro"
+            "Guillermo del Toro",
+            "Middle-earth"
         ]
     },
     "Anchorman 2: The Legend Continues (2013)": {
@@ -90350,6 +90639,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Graphic Novels",
             "Horror/Thriller"
         ]
     },
@@ -90461,6 +90751,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Michael Keaton",
             "Remakes & Reboots",
             "Samuel L. Jackson"
@@ -90612,7 +90903,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Graphic Novels"
         ]
     },
     "Mr. Peabody & Sherman (2014)": {
@@ -90851,6 +91143,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Paul Newman & Robert Redford",
             "Samuel L. Jackson",
             "Scarlett Johansson"
@@ -91082,7 +91376,10 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Emmas"
+            "Comic Book",
+            "Emmas",
+            "Marvel",
+            "Spider-Man"
         ]
     },
     "Chef (2014)": {
@@ -91234,9 +91531,12 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
             "Halle Berry",
-            "Jennifer Lawrence"
+            "Jennifer Lawrence",
+            "Marvel",
+            "X-Men"
         ]
     },
     "A Million Ways to Die in the West (2014)": {
@@ -91460,6 +91760,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Dramas",
+            "Dystopian Future & Time Travel",
             "Ed Harris",
             "Fantasy/Sci-Fi",
             "Octavia Spencer"
@@ -91484,6 +91785,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "Hasbro",
             "Stanley Tucci"
         ]
     },
@@ -91563,7 +91865,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "Planes: Fire & Rescue (2014)": {
@@ -91713,6 +92016,8 @@ var movie_map = {
             "Action/Adventure",
             "Dwayne Johnson",
             "Fantasy/Sci-Fi",
+            "Graphic Novels",
+            "IG Fantasy/Sci-Fi",
             "Wrestlers in Film"
         ]
     },
@@ -91778,6 +92083,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Wrestlers in Film"
         ]
     },
@@ -91840,6 +92147,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "Teenage Mutant Ninja Turtles",
             "Whoopi Goldberg"
         ]
     },
@@ -91991,6 +92299,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Bruce Willis",
+            "Graphic Novels",
             "Musicians in Film",
             "Quentin Tarantino & Robert Rodriguez"
         ]
@@ -92690,7 +92999,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Animated",
+            "Comic Book",
             "Disney",
+            "IG Animated",
+            "Marvel",
             "Wayans Family"
         ]
     },
@@ -93020,7 +93332,8 @@ var movie_map = {
             "2010s",
             "Cate Blanchett",
             "Fantasy/Sci-Fi",
-            "Guillermo del Toro"
+            "Guillermo del Toro",
+            "Middle-earth"
         ]
     },
     "Annie (2014)": {
@@ -93413,6 +93726,8 @@ var movie_map = {
             "2010s",
             "Animated",
             "Fantasy/Sci-Fi",
+            "IG Animated",
+            "IG Fantasy/Sci-Fi",
             "Lucasfilm"
         ]
     },
@@ -93582,6 +93897,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
+            "Marvel",
             "Samuel L. Jackson",
             "Spy"
         ]
@@ -94119,6 +94436,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Robert Downey Jr.",
             "Samuel L. Jackson",
             "Scarlett Johansson"
@@ -94185,6 +94504,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Charlize Theron",
+            "Dystopian Future & Time Travel",
             "Wrestlers in Film"
         ]
     },
@@ -94381,7 +94701,8 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Amblin",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Jurassic Park"
         ]
     },
     "Me and Earl and the Dying Girl (2015)": {
@@ -94509,6 +94830,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
@@ -94593,10 +94915,12 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Cornetto Trio",
             "Douglases",
             "Fantasy/Sci-Fi",
-            "Frat Pack"
+            "Frat Pack",
+            "Marvel"
         ]
     },
     "Mr. Holmes (2015)": {
@@ -94810,7 +95134,9 @@ var movie_map = {
             "Philip Glass"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "Ricki and the Flash (2015)": {
@@ -96132,7 +96458,8 @@ var movie_map = {
             "Fantasy/Sci-Fi",
             "Harrison Ford",
             "Kevin Smith",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "Concussion (2015)": {
@@ -96529,7 +96856,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "Marvel",
+            "X-Men"
         ]
     },
     "How to Be Single (2016)": {
@@ -96911,7 +97241,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Amy Adams",
-            "Matt & Ben"
+            "Batman",
+            "Comic Book",
+            "Matt & Ben",
+            "Superman"
         ]
     },
     "My Big Fat Greek Wedding 2 (2016)": {
@@ -97300,9 +97633,12 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Frat Pack",
+            "Marvel",
             "Robert Downey Jr.",
-            "Scarlett Johansson"
+            "Scarlett Johansson",
+            "Spider-Man"
         ]
     },
     "Love & Friendship (2016)": {
@@ -97497,8 +97833,11 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Brat Pack",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Jennifer Lawrence"
+            "Jennifer Lawrence",
+            "Marvel",
+            "X-Men"
         ]
     },
     "Me Before You (2016)": {
@@ -97565,6 +97904,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "Teenage Mutant Ninja Turtles",
             "Tyler Perry"
         ]
     },
@@ -98079,7 +98419,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Cornetto Trio",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Star Trek"
         ]
     },
     "Train to Busan (2016)": {
@@ -98207,6 +98548,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Batman",
+            "Comic Book",
             "Eastwoods",
             "Margot Robbie",
             "Matt & Ben",
@@ -98956,7 +99299,9 @@ var movie_map = {
             "Michael Giacchino"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "Hacksaw Ridge (2016)": {
@@ -99101,7 +99446,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "Manchester by the Sea (2016)": {
@@ -99406,7 +99752,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "Two Lovers and a Bear (2016)": {
@@ -99754,6 +100101,7 @@ var movie_map = {
             "2010s",
             "Bruce Willis",
             "Horror/Thriller",
+            "IG Mixed Bag",
             "M. Night Shyamalan",
             "Thriller"
         ]
@@ -99945,7 +100293,10 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Batman",
+            "Comic Book",
+            "IG Animated"
         ]
     },
     "Girlfriend's Day (2017)": {
@@ -100114,7 +100465,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "Marvel",
+            "X-Men"
         ]
     },
     "The Shack (2017)": {
@@ -100308,6 +100662,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
+            "Hasbro",
+            "IG Fantasy/Sci-Fi",
             "Remakes & Reboots"
         ]
     },
@@ -100670,7 +101026,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Kurt Russell",
+            "Marvel",
             "Musicians in Film",
             "Wrestlers in Film"
         ]
@@ -100843,7 +101201,8 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Disney",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Swashbuckling & Pulp Adventure"
         ]
     },
     "War Machine (2017)": {
@@ -100908,7 +101267,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Comic Book"
         ]
     },
     "It Comes at Night (2017)": {
@@ -101078,6 +101438,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "Hasbro",
             "Stanley Tucci"
         ]
     },
@@ -101271,9 +101632,12 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Jennifer Connelly",
+            "Marvel",
             "Michael Keaton",
-            "Robert Downey Jr."
+            "Robert Downey Jr.",
+            "Spider-Man"
         ]
     },
     "To the Bone (2017)": {
@@ -101314,7 +101678,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Planet of the Apes"
         ]
     },
     "Dunkirk (2017)": {
@@ -101401,6 +101766,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Charlize Theron",
+            "Graphic Novels",
             "Spy"
         ]
     },
@@ -101870,7 +102236,9 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Halle Berry",
+            "Marvel",
             "Musicians in Film",
             "Spy"
         ]
@@ -102587,7 +102955,9 @@ var movie_map = {
         "categories": [
             "2010s",
             "Cate Blanchett",
+            "Comic Book",
             "Fantasy/Sci-Fi",
+            "Marvel",
             "Matt & Ben"
         ]
     },
@@ -102694,7 +103064,10 @@ var movie_map = {
         "categories": [
             "2010s",
             "Amy Adams",
-            "Matt & Ben"
+            "Batman",
+            "Comic Book",
+            "Matt & Ben",
+            "Superman"
         ]
     },
     "Roman J. Israel, Esq. (2017)": {
@@ -103013,7 +103386,8 @@ var movie_map = {
             "2010s",
             "Cornetto Trio",
             "Fantasy/Sci-Fi",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "Jumanji: Welcome to the Jungle (2017)": {
@@ -103544,7 +103918,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Black Cinema"
+            "Black Cinema",
+            "Comic Book",
+            "Marvel"
         ]
     },
     "Irreplaceable You (2018)": {
@@ -103995,6 +104371,7 @@ var movie_map = {
             "Amblin",
             "Cornetto Trio",
             "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
             "Steven Spielberg"
         ]
     },
@@ -104289,9 +104666,12 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Robert Downey Jr.",
             "Samuel L. Jackson",
             "Scarlett Johansson",
+            "Spider-Man",
             "Wrestlers in Film"
         ]
     },
@@ -104499,8 +104879,11 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Brad Pitt & George Clooney",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Matt & Ben"
+            "Marvel",
+            "Matt & Ben",
+            "X-Men"
         ]
     },
     "First Reformed (2018)": {
@@ -104582,7 +104965,8 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Lucasfilm"
+            "Lucasfilm",
+            "Star Wars"
         ]
     },
     "Adrift (2018)": {
@@ -104748,6 +105132,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Animated",
+            "IG Animated",
             "Pixar",
             "Samuel L. Jackson"
         ]
@@ -104811,7 +105196,8 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Amblin",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Jurassic Park"
         ]
     },
     "Tau (2018)": {
@@ -104918,9 +105304,11 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Douglases",
             "Fantasy/Sci-Fi",
             "Frat Pack",
+            "Marvel",
             "Michelle Pfeiffer"
         ]
     },
@@ -105180,6 +105568,9 @@ var movie_map = {
         "categories": [
             "2010s",
             "Animated",
+            "Batman",
+            "Comic Book",
+            "IG Animated",
             "Musicians in Film",
             "Nicolas Cage"
         ]
@@ -105947,7 +106338,10 @@ var movie_map = {
             "Ludwig G\u00f6ransson"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book",
+            "Marvel",
+            "Spider-Man"
         ]
     },
     "22 July (2018)": {
@@ -106497,7 +106891,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wizarding World"
         ]
     },
     "Green Book (2018)": {
@@ -106877,7 +107272,11 @@ var movie_map = {
         "categories": [
             "2010s",
             "Animated",
-            "Nicolas Cage"
+            "Comic Book",
+            "IG Animated",
+            "Marvel",
+            "Nicolas Cage",
+            "Spider-Man"
         ]
     },
     "The Mule (2018)": {
@@ -106947,6 +107346,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
             "Nicole Kidman"
         ]
@@ -106970,6 +107370,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
+            "Hasbro",
             "Wrestlers in Film"
         ]
     },
@@ -107249,6 +107650,7 @@ var movie_map = {
             "Bruce Willis",
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
+            "IG Mixed Bag",
             "M. Night Shyamalan",
             "Samuel L. Jackson",
             "Thriller"
@@ -107292,6 +107694,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Streaming"
         ]
     },
@@ -107651,6 +108054,8 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
+            "Marvel",
             "Samuel L. Jackson",
             "Scarlett Johansson"
         ]
@@ -107901,7 +108306,8 @@ var movie_map = {
             "Benjamin Wallfisch"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book"
         ]
     },
     "Unicorn Store (2019)": {
@@ -107942,7 +108348,9 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "Little (2019)": {
@@ -108106,14 +108514,17 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Douglases",
             "Frat Pack",
+            "Marvel",
             "Michelle Pfeiffer",
             "Natalie Portman",
             "Paul Newman & Robert Redford",
             "Robert Downey Jr.",
             "Samuel L. Jackson",
             "Scarlett Johansson",
+            "Spider-Man",
             "Wrestlers in Film"
         ]
     },
@@ -108515,8 +108926,11 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Comic Book",
             "Fantasy/Sci-Fi",
-            "Jennifer Lawrence"
+            "Jennifer Lawrence",
+            "Marvel",
+            "X-Men"
         ]
     },
     "Late Night (2019)": {
@@ -108582,7 +108996,10 @@ var movie_map = {
             "Action/Adventure",
             "Amblin",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi",
+            "Marvel"
         ]
     },
     "Murder Mystery (2019)": {
@@ -108779,8 +109196,11 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Gyllenhaals",
-            "Samuel L. Jackson"
+            "Marvel",
+            "Samuel L. Jackson",
+            "Spider-Man"
         ]
     },
     "Midsommar (2019)": {
@@ -109078,7 +109498,8 @@ var movie_map = {
             "Bryce Dessner"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Comic Book"
         ]
     },
     "The Peanut Butter Falcon (2019)": {
@@ -109528,6 +109949,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Comic Book",
             "Robert De Niro & Joe Pesci"
         ]
     },
@@ -110000,6 +110422,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
         ]
@@ -110707,7 +111130,8 @@ var movie_map = {
             "Harrison Ford",
             "Kevin Smith",
             "Lucasfilm",
-            "Samuel L. Jackson"
+            "Samuel L. Jackson",
+            "Star Wars"
         ]
     },
     "Togo (2019)": {
@@ -111083,6 +111507,7 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "Comic Book",
             "Margot Robbie"
         ]
     },
@@ -111556,7 +111981,9 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "IG Fantasy/Sci-Fi"
         ]
     },
     "I Still Believe (2020)": {
@@ -111782,6 +112209,7 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "Graphic Novels",
             "Streaming"
         ]
     },
@@ -112179,6 +112607,7 @@ var movie_map = {
         "categories": [
             "2020s",
             "Charlize Theron",
+            "Comic Book",
             "Streaming"
         ]
     },
@@ -112343,6 +112772,7 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "IG Mixed Bag",
             "Streaming"
         ]
     },
@@ -112547,7 +112977,10 @@ var movie_map = {
         "categories": [
             "2020s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Comic Book",
+            "Fantasy/Sci-Fi",
+            "Marvel",
+            "X-Men"
         ]
     },
     "The Personal History of David Copperfield (2020)": {
@@ -114003,7 +114436,8 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Comic Book"
         ]
     },
     "Pieces of a Woman (2020)": {
@@ -114498,8 +114932,11 @@ var movie_map = {
         "categories": [
             "2020s",
             "Amy Adams",
+            "Batman",
+            "Comic Book",
             "Matt & Ben",
-            "Streaming"
+            "Streaming",
+            "Superman"
         ]
     },
     "Bad Trip (2021)": {
@@ -115286,6 +115723,8 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "Comic Book",
+            "Marvel",
             "Scarlett Johansson"
         ]
     },
@@ -115518,6 +115957,7 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "Comic Book",
             "Margot Robbie",
             "Sly & Arnie",
             "Viola Davis",
@@ -115726,7 +116166,9 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
-            "Martial Arts"
+            "Comic Book",
+            "Martial Arts",
+            "Marvel"
         ]
     },
     "Everybody's Talking About Jamie (2021)": {
@@ -116033,7 +116475,10 @@ var movie_map = {
             "Marco Beltrami"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Comic Book",
+            "Marvel",
+            "Spider-Man"
         ]
     },
     "No Time to Die (2021)": {
@@ -116268,6 +116713,8 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "Comic Book",
+            "Marvel",
             "Musicians in Film"
         ]
     },
@@ -116823,7 +117270,10 @@ var movie_map = {
             "Michael Giacchino"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Comic Book",
+            "Marvel",
+            "Spider-Man"
         ]
     },
     "Swan Song (2021)": {
@@ -116890,6 +117340,8 @@ var movie_map = {
         "categories": [
             "2020s",
             "Action/Adventure",
+            "Comic Book",
+            "Marvel",
             "Spy",
             "Stanley Tucci"
         ]
@@ -116912,6 +117364,7 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
+            "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
