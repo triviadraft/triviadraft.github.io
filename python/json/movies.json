@@ -1843,6 +1843,7 @@
         ],
         "categories": [
             "Classics",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -3907,7 +3908,8 @@
         ],
         "categories": [
             "1950s",
-            "Classics"
+            "Classics",
+            "Family"
         ]
     },
     "Riding High (1950)": {
@@ -5174,6 +5176,7 @@
             "Classics",
             "Disney",
             "Douglases",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -7000,7 +7003,8 @@
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Family"
         ]
     },
     "One Hundred and One Dalmatians (1961)": {
@@ -8060,7 +8064,8 @@
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Family"
         ]
     },
     "Paris When It Sizzles (1964)": {
@@ -8258,6 +8263,7 @@
             "1960s",
             "Classics",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -8632,7 +8638,8 @@
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Family"
         ]
     },
     "Who's Afraid of Virginia Woolf? (1966)": {
@@ -9813,7 +9820,8 @@
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Family"
         ]
     },
     "The Love Bug (1968)": {
@@ -10918,6 +10926,7 @@
         ],
         "categories": [
             "1970s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -11020,7 +11029,8 @@
         ],
         "categories": [
             "1970s",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "Diamonds Are Forever (1971)": {
@@ -11821,7 +11831,8 @@
         ],
         "categories": [
             "1970s",
-            "Animated"
+            "Animated",
+            "Family"
         ]
     },
     "Cries and Whispers (1973)": {
@@ -12765,7 +12776,8 @@
             "Euel Box"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Family"
         ]
     },
     "Dodes'ka-den (1974)": {
@@ -14150,6 +14162,7 @@
         "categories": [
             "1970s",
             "Comedies",
+            "Family",
             "Jodie Foster"
         ]
     },
@@ -14649,7 +14662,8 @@
         ],
         "categories": [
             "1970s",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "The Turning Point (1977)": {
@@ -15644,6 +15658,7 @@
         ],
         "categories": [
             "1970s",
+            "Family",
             "Mel Brooks",
             "Tim Burton"
         ]
@@ -19697,7 +19712,8 @@
             "Paul Zaza"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Family"
         ]
     },
     "Sleepaway Camp (1983)": {
@@ -20061,7 +20077,8 @@
             "1980s",
             "Comedies",
             "Fantasy/Sci-Fi",
-            "John Candy"
+            "John Candy",
+            "Tom Hanks"
         ]
     },
     "Tank (1984)": {
@@ -20513,6 +20530,7 @@
         ],
         "categories": [
             "1980s",
+            "Family",
             "Modern Classics"
         ]
     },
@@ -20533,7 +20551,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Tom Hanks"
         ]
     },
     "Cannonball Run II (1984)": {
@@ -20695,6 +20714,7 @@
         ],
         "categories": [
             "1980s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -21729,6 +21749,7 @@
             "1980s",
             "Amblin",
             "Coming of Age",
+            "Family",
             "Richard Donner",
             "Steven Spielberg"
         ]
@@ -21960,7 +21981,8 @@
             "Jerry Goldsmith"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Family"
         ]
     },
     "The Man with One Red Shoe (1985)": {
@@ -21979,7 +22001,8 @@
             "Thomas Newman"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Tom Hanks"
         ]
     },
     "The Black Cauldron (1985)": {
@@ -22473,7 +22496,8 @@
             "Michael Conway Baker"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Family"
         ]
     },
     "Rocky IV (1985)": {
@@ -22909,7 +22933,8 @@
         ],
         "categories": [
             "1980s",
-            "Amblin"
+            "Amblin",
+            "Tom Hanks"
         ]
     },
     "Lucas (1986)": {
@@ -23202,7 +23227,8 @@
             "Bill Conti"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Family"
         ]
     },
     "Labyrinth (1986)": {
@@ -23465,7 +23491,8 @@
         ],
         "categories": [
             "1980s",
-            "Marshalls"
+            "Marshalls",
+            "Tom Hanks"
         ]
     },
     "Flight of the Navigator (1986)": {
@@ -23485,6 +23512,7 @@
         ],
         "categories": [
             "1980s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -24717,7 +24745,8 @@
             "Ira Newborn"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Tom Hanks"
         ]
     },
     "Full Metal Jacket (1987)": {
@@ -26184,7 +26213,8 @@
         ],
         "categories": [
             "1980s",
-            "Marshalls"
+            "Marshalls",
+            "Tom Hanks"
         ]
     },
     "Poltergeist III (1988)": {
@@ -26313,6 +26343,7 @@
             "Amblin",
             "Animated",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi",
             "Modern Classics",
             "Robert Zemeckis"
@@ -26820,6 +26851,7 @@
         "categories": [
             "1980s",
             "Comedies",
+            "Tom Hanks",
             "Wayans Family"
         ]
     },
@@ -27389,7 +27421,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Tom Hanks"
         ]
     },
     "The Mighty Quinn (1989)": {
@@ -28061,6 +28094,7 @@
         ],
         "categories": [
             "1980s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -28100,7 +28134,8 @@
             "Bill Conti"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Family"
         ]
     },
     "Weekend at Bernie's (1989)": {
@@ -28293,7 +28328,8 @@
             "Charles Gross"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Tom Hanks"
         ]
     },
     "Parenthood (1989)": {
@@ -28787,7 +28823,8 @@
             "Maurice Jarre"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Family"
         ]
     },
     "The Little Mermaid (1989)": {
@@ -29292,7 +29329,8 @@
         "categories": [
             "1990s",
             "Amblin",
-            "Meg Ryan"
+            "Meg Ryan",
+            "Tom Hanks"
         ]
     },
     "Blue Steel (1990)": {
@@ -29357,6 +29395,7 @@
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -30390,6 +30429,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "John Candy",
             "John Hughes",
             "Robert De Niro & Joe Pesci"
@@ -30694,7 +30734,8 @@
         "categories": [
             "1990s",
             "Bruce Willis",
-            "Morgan Freeman"
+            "Morgan Freeman",
+            "Tom Hanks"
         ]
     },
     "The Long Walk Home (1990)": {
@@ -30840,6 +30881,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -31011,6 +31053,7 @@
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -32065,6 +32108,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -32127,6 +32171,7 @@
         "categories": [
             "1990s",
             "Amblin",
+            "Family",
             "Fantasy/Sci-Fi",
             "Julia Roberts",
             "Robin Williams",
@@ -32196,6 +32241,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "Rom-Coms",
             "Romance"
         ]
@@ -32425,7 +32471,8 @@
         ],
         "categories": [
             "1990s",
-            "Richard Donner"
+            "Richard Donner",
+            "Tom Hanks"
         ]
     },
     "This Is My Life (1992)": {
@@ -32628,6 +32675,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Stanley Tucci"
         ]
     },
@@ -33013,7 +33061,8 @@
             "1990s",
             "Comedies",
             "Cusacks",
-            "Marshalls"
+            "Marshalls",
+            "Tom Hanks"
         ]
     },
     "Boomerang (1992)": {
@@ -33097,6 +33146,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -33181,7 +33231,8 @@
             "Richard Marvin"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Raising Cain (1992)": {
@@ -33571,6 +33622,7 @@
             "1990s",
             "Brat Pack",
             "Disney",
+            "Family",
             "Sheens"
         ]
     },
@@ -33809,6 +33861,7 @@
             "1990s",
             "Brat Pack",
             "Comedies",
+            "Family",
             "John Hughes",
             "Robert De Niro & Joe Pesci"
         ]
@@ -33977,7 +34030,8 @@
         ],
         "categories": [
             "1990s",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "Forever Young (1992)": {
@@ -34225,7 +34279,8 @@
         ],
         "categories": [
             "1990s",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "National Lampoon's Loaded Weapon 1 (1993)": {
@@ -34507,6 +34562,7 @@
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -34586,7 +34642,8 @@
         ],
         "categories": [
             "1990s",
-            "Coming of Age"
+            "Coming of Age",
+            "Family"
         ]
     },
     "Sidekicks (1993)": {
@@ -34907,7 +34964,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Jurassic Park (1993)": {
@@ -34975,6 +35033,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "John Hughes"
         ]
     },
@@ -34999,7 +35058,8 @@
             "Meg Ryan",
             "Nora Ephron",
             "Rom-Coms",
-            "Romance"
+            "Romance",
+            "Tom Hanks"
         ]
     },
     "What's Love Got to Do with It (1993)": {
@@ -35108,6 +35168,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "John Candy"
         ]
     },
@@ -35127,7 +35188,8 @@
             "Basil Poledouris"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Hocus Pocus (1993)": {
@@ -35148,6 +35210,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "Marshalls"
         ]
     },
@@ -35673,6 +35736,7 @@
         "categories": [
             "1990s",
             "Black Cinema",
+            "Family",
             "John Candy"
         ]
     },
@@ -36003,6 +36067,7 @@
             "1990s",
             "Action/Adventure",
             "Disney",
+            "Family",
             "Sheens"
         ]
     },
@@ -36025,6 +36090,7 @@
             "1990s",
             "Comedies",
             "Cusacks",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -36067,6 +36133,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "Robin Williams"
         ]
     },
@@ -36192,7 +36259,8 @@
             "Randy Edelman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "The Pelican Brief (1993)": {
@@ -36260,7 +36328,8 @@
             "1990s",
             "Antonio Banderas",
             "Denzel Washington",
-            "Dramas"
+            "Dramas",
+            "Tom Hanks"
         ]
     },
     "Batman: Mask of the Phantasm (1993)": {
@@ -36483,7 +36552,8 @@
             "Nicholas Pike"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Blue Chips (1994)": {
@@ -36732,6 +36802,7 @@
             "1990s",
             "Brat Pack",
             "Disney",
+            "Family",
             "Sheens"
         ]
     },
@@ -36891,7 +36962,8 @@
             "Richard Marvin"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Being Human (1994)": {
@@ -37103,6 +37175,7 @@
             "1990s",
             "Animated",
             "Disney",
+            "Family",
             "Whoopi Goldberg"
         ]
     },
@@ -37251,7 +37324,8 @@
             "Dramas",
             "Kurt Russell",
             "Modern Classics",
-            "Robert Zemeckis"
+            "Robert Zemeckis",
+            "Tom Hanks"
         ]
     },
     "Angels in the Outfield (1994)": {
@@ -37271,7 +37345,8 @@
         ],
         "categories": [
             "1990s",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "True Lies (1994)": {
@@ -37353,7 +37428,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "It Could Happen to You (1994)": {
@@ -37465,6 +37541,7 @@
         "categories": [
             "1990s",
             "Amblin",
+            "Family",
             "Mel Brooks",
             "Whoopi Goldberg"
         ]
@@ -37547,7 +37624,8 @@
             "David Lawrence"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "It's Pat (1994)": {
@@ -37646,7 +37724,8 @@
             "Bill Conti"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Quiz Show (1994)": {
@@ -37857,7 +37936,8 @@
         ],
         "categories": [
             "1990s",
-            "Amblin"
+            "Amblin",
+            "Family"
         ]
     },
     "Pulp Fiction (1994)": {
@@ -38091,7 +38171,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Family"
         ]
     },
     "Heavenly Creatures (1994)": {
@@ -38421,7 +38502,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Legends of the Fall (1994)": {
@@ -38748,7 +38830,8 @@
             "J. A. C. Redford"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Just Cause (1995)": {
@@ -38870,7 +38953,8 @@
             "Louis Febre"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Muriel's Wedding (1995)": {
@@ -38995,7 +39079,8 @@
             "Randy Edelman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Tank Girl (1995)": {
@@ -39421,7 +39506,8 @@
             "1990s",
             "Amblin",
             "Clint Eastwood",
-            "Eastwoods"
+            "Eastwoods",
+            "Family"
         ]
     },
     "Johnny Mnemonic (1995)": {
@@ -39572,7 +39658,8 @@
         "categories": [
             "1990s",
             "Dramas",
-            "Ed Harris"
+            "Ed Harris",
+            "Tom Hanks"
         ]
     },
     "Judge Dredd (1995)": {
@@ -39759,7 +39846,8 @@
             "Basil Poledouris"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Operation Dumbo Drop (1995)": {
@@ -39838,7 +39926,8 @@
             "Nigel Westlake"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Something to Talk About (1995)": {
@@ -40679,7 +40768,9 @@
         ],
         "categories": [
             "1990s",
-            "Animated"
+            "Animated",
+            "Family",
+            "Tom Hanks"
         ]
     },
     "Father of the Bride Part II (1995)": {
@@ -40699,7 +40790,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Family"
         ]
     },
     "Sense and Sensibility (1995)": {
@@ -40764,6 +40856,7 @@
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Family",
             "Fantasy/Sci-Fi",
             "Robin Williams"
         ]
@@ -41167,6 +41260,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -41287,7 +41381,8 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Bottle Rocket (1996)": {
@@ -41791,7 +41886,8 @@
             "Joel McNeely"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Mission: Impossible (1996)": {
@@ -42125,7 +42221,8 @@
             "Christopher Tyng"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Multiplicity (1996)": {
@@ -42321,6 +42418,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -42696,6 +42794,7 @@
             "1990s",
             "Brat Pack",
             "Disney",
+            "Family",
             "Sheens"
         ]
     },
@@ -42737,7 +42836,8 @@
         ],
         "categories": [
             "1990s",
-            "Charlize Theron"
+            "Charlize Theron",
+            "Tom Hanks"
         ]
     },
     "Michael Collins (1996)": {
@@ -43054,7 +43154,8 @@
         "categories": [
             "1990s",
             "Animated",
-            "Bill Murray"
+            "Bill Murray",
+            "Family"
         ]
     },
     "The English Patient (1996)": {
@@ -43115,6 +43216,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Sly & Arnie"
         ]
     },
@@ -43176,6 +43278,7 @@
         "categories": [
             "1990s",
             "Disney",
+            "Family",
             "John Hughes"
         ]
     },
@@ -43913,7 +44016,8 @@
             "Michael Convertino"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Private Parts (1997)": {
@@ -44655,7 +44759,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Family"
         ]
     },
     "Mrs Brown (1997)": {
@@ -44714,7 +44819,8 @@
             "Brahm Wenger"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Picture Perfect (1997)": {
@@ -45543,6 +45649,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "John Hughes",
             "Robin Williams"
         ]
@@ -45630,6 +45737,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Family",
             "John Hughes",
             "Scarlett Johansson"
         ]
@@ -46267,7 +46375,8 @@
             "Steve Bartek"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "The Newton Boys (1998)": {
@@ -46369,7 +46478,8 @@
             "John Coda"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "City of Angels (1998)": {
@@ -47014,7 +47124,8 @@
             "Dramas",
             "Matt & Ben",
             "Modern Classics",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Tom Hanks"
         ]
     },
     "The Negotiator (1998)": {
@@ -47055,7 +47166,8 @@
         ],
         "categories": [
             "1990s",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "BASEketball (1998)": {
@@ -48010,7 +48122,8 @@
             "Nigel Westlake"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Home Fries (1998)": {
@@ -48112,6 +48225,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "Michael Keaton"
         ]
     },
@@ -48225,7 +48339,8 @@
             "Meg Ryan",
             "Nora Ephron",
             "Rom-Coms",
-            "Romance"
+            "Romance",
+            "Tom Hanks"
         ]
     },
     "The Thin Red Line (1998)": {
@@ -48540,7 +48655,8 @@
             "John Debney"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "Jawbreaker (1999)": {
@@ -49473,7 +49589,8 @@
             "John Debney"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Family"
         ]
     },
     "The Haunting (1999)": {
@@ -50377,7 +50494,9 @@
         "categories": [
             "1990s",
             "Animated",
-            "Cusacks"
+            "Cusacks",
+            "Family",
+            "Tom Hanks"
         ]
     },
     "Ride with the Devil (1999)": {
@@ -50477,7 +50596,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Tom Hanks"
         ]
     },
     "Anna and the King (1999)": {
@@ -50587,6 +50707,7 @@
         ],
         "categories": [
             "1990s",
+            "Family",
             "M. Night Shyamalan"
         ]
     },
@@ -52599,6 +52720,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Jim Carrey"
         ]
     },
@@ -52914,7 +53036,8 @@
         "categories": [
             "2000s",
             "Dramas",
-            "Robert Zemeckis"
+            "Robert Zemeckis",
+            "Tom Hanks"
         ]
     },
     "Finding Forrester (2000)": {
@@ -53391,6 +53514,7 @@
             "2000s",
             "Antonio Banderas",
             "Brad Pitt & George Clooney",
+            "Family",
             "Quentin Tarantino & Robert Rodriguez"
         ]
     },
@@ -53808,7 +53932,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Fast & Furious"
         ]
     },
     "Baby Boy (2001)": {
@@ -53913,7 +54038,8 @@
             "John Debney"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Scary Movie 2 (2001)": {
@@ -54217,7 +54343,8 @@
         "categories": [
             "2000s",
             "Animated",
-            "Bill Murray"
+            "Bill Murray",
+            "Family"
         ]
     },
     "The Others (2001)": {
@@ -56339,7 +56466,8 @@
             "David Newman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "The Bourne Identity (2002)": {
@@ -56504,7 +56632,8 @@
             "Richard Gibbs"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Men in Black II (2002)": {
@@ -56594,7 +56723,8 @@
             "2000s",
             "Crime",
             "Paul Newman & Robert Redford",
-            "Stanley Tucci"
+            "Stanley Tucci",
+            "Tom Hanks"
         ]
     },
     "Eight Legged Freaks (2002)": {
@@ -56655,7 +56785,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Austin Powers in Goldmember (2002)": {
@@ -56698,6 +56829,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Queen Latifah"
         ]
     },
@@ -56807,6 +56939,7 @@
         "categories": [
             "2000s",
             "Antonio Banderas",
+            "Family",
             "Quentin Tarantino & Robert Rodriguez"
         ]
     },
@@ -57392,7 +57525,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Family"
         ]
     },
     "The Weight of Water (2002)": {
@@ -57914,7 +58048,8 @@
             "Dramas",
             "Leonardo DiCaprio",
             "Sheens",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Tom Hanks"
         ]
     },
     "The Hours (2002)": {
@@ -58373,7 +58508,8 @@
             "John Powell"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Willard (2003)": {
@@ -58710,6 +58846,7 @@
         "categories": [
             "2000s",
             "Disney",
+            "Family",
             "Sigourney Weaver"
         ]
     },
@@ -58966,6 +59103,7 @@
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Fast & Furious",
             "John Singleton"
         ]
     },
@@ -59369,6 +59507,7 @@
             "2000s",
             "Antonio Banderas",
             "Brad Pitt & George Clooney",
+            "Family",
             "Quentin Tarantino & Robert Rodriguez",
             "Sly & Arnie"
         ]
@@ -59433,6 +59572,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Family",
             "Jamie Lee Curtis"
         ]
     },
@@ -60178,7 +60318,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Family"
         ]
     },
     "Looney Tunes: Back in Action (2003)": {
@@ -60302,7 +60443,8 @@
             "David Newman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Bad Santa (2003)": {
@@ -60363,7 +60505,8 @@
         "categories": [
             "2000s",
             "Disney",
-            "Eddie Murphy"
+            "Eddie Murphy",
+            "Family"
         ]
     },
     "The Missing (2003)": {
@@ -60664,7 +60807,8 @@
             "Christophe Beck"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Cold Mountain (2003)": {
@@ -61195,7 +61339,8 @@
             "David Newman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "The Ladykillers (2004)": {
@@ -61217,6 +61362,7 @@
         "categories": [
             "2000s",
             "Coen Brothers",
+            "Tom Hanks",
             "Wayans Family"
         ]
     },
@@ -61510,7 +61656,8 @@
             "George S. Clinton"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Super Size Me (2004)": {
@@ -61851,7 +61998,8 @@
             "2000s",
             "Amblin",
             "Stanley Tucci",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Tom Hanks"
         ]
     },
     "White Chicks (2004)": {
@@ -62922,7 +63070,8 @@
         "categories": [
             "2000s",
             "Animated",
-            "Robert Zemeckis"
+            "Robert Zemeckis",
+            "Tom Hanks"
         ]
     },
     "After the Sunset (2004)": {
@@ -64679,6 +64828,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Fantasy/Sci-Fi",
             "Tim Burton"
         ]
@@ -65767,6 +65917,7 @@
         "categories": [
             "2000s",
             "Emmas",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -65991,6 +66142,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -66092,7 +66244,8 @@
             "John Debney"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Fun with Dick and Jane (2005)": {
@@ -66358,6 +66511,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -66500,7 +66654,8 @@
             "Mark Isham"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Madea's Family Reunion (2006)": {
@@ -67113,7 +67268,8 @@
             "2000s",
             "Action/Adventure",
             "Horror/Thriller",
-            "Thriller"
+            "Thriller",
+            "Tom Hanks"
         ]
     },
     "An Inconvenient Truth (2006)": {
@@ -67236,7 +67392,8 @@
             "2000s",
             "Animated",
             "Michael Keaton",
-            "Paul Newman & Robert Redford"
+            "Paul Newman & Robert Redford",
+            "Tom Hanks"
         ]
     },
     "Garfield: A Tail of Two Kitties (2006)": {
@@ -67297,7 +67454,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Fast & Furious"
         ]
     },
     "The Lake House (2006)": {
@@ -68527,7 +68685,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Family"
         ]
     },
     "A Good Year (2006)": {
@@ -68898,6 +69057,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Julia Roberts",
             "Paul Newman & Robert Redford"
         ]
@@ -69046,6 +69206,7 @@
             "2000s",
             "Action/Adventure",
             "Comedies",
+            "Family",
             "Fantasy/Sci-Fi",
             "Robin Williams"
         ]
@@ -70570,7 +70731,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Tom Hanks"
         ]
     },
     "Becoming Jane (2007)": {
@@ -70652,7 +70814,8 @@
         ],
         "categories": [
             "2000s",
-            "Amy Adams"
+            "Amy Adams",
+            "Family"
         ]
     },
     "Rush Hour 3 (2007)": {
@@ -70836,6 +70999,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Scarlett Johansson"
         ]
     },
@@ -71127,7 +71291,8 @@
         ],
         "categories": [
             "2000s",
-            "Dwayne Johnson"
+            "Dwayne Johnson",
+            "Family"
         ]
     },
     "The Kingdom (2007)": {
@@ -71656,6 +71821,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Natalie Portman"
         ]
     },
@@ -71699,6 +71865,7 @@
             "2000s",
             "Amy Adams",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -71929,7 +72096,8 @@
             "Biopics",
             "Dramas",
             "Emily Blunt",
-            "Julia Roberts"
+            "Julia Roberts",
+            "Tom Hanks"
         ]
     },
     "National Treasure: Book of Secrets (2007)": {
@@ -72452,6 +72620,7 @@
         "categories": [
             "2000s",
             "Brat Pack",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -72992,6 +73161,7 @@
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Family",
             "Wachowskis"
         ]
     },
@@ -73032,6 +73202,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -73985,6 +74156,7 @@
         "categories": [
             "2000s",
             "Barrymore Family",
+            "Family",
             "Jamie Lee Curtis"
         ]
     },
@@ -74821,7 +74993,8 @@
             "Rupert Gregson-Williams"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Marley & Me (2008)": {
@@ -75425,7 +75598,8 @@
         ],
         "categories": [
             "2000s",
-            "Emily Blunt"
+            "Emily Blunt",
+            "Tom Hanks"
         ]
     },
     "12 Rounds (2009)": {
@@ -75529,7 +75703,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Fast & Furious"
         ]
     },
     "Observe and Report (2009)": {
@@ -75744,7 +75919,8 @@
             "2000s",
             "Action/Adventure",
             "Horror/Thriller",
-            "Thriller"
+            "Thriller",
+            "Tom Hanks"
         ]
     },
     "The Brothers Bloom (2009)": {
@@ -75831,6 +76007,7 @@
             "Action/Adventure",
             "Amy Adams",
             "Comedies",
+            "Family",
             "Fantasy/Sci-Fi",
             "Robin Williams"
         ]
@@ -76229,6 +76406,7 @@
         ],
         "categories": [
             "2000s",
+            "Family",
             "Nicolas Cage"
         ]
     },
@@ -76868,7 +77046,8 @@
             "Carter Burwell"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Family"
         ]
     },
     "Astro Boy (2009)": {
@@ -77316,7 +77495,8 @@
             "2000s",
             "Animated",
             "Black Cinema",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "Crazy Heart (2009)": {
@@ -77633,7 +77813,8 @@
         ],
         "categories": [
             "2010s",
-            "Dwayne Johnson"
+            "Dwayne Johnson",
+            "Family"
         ]
     },
     "Edge of Darkness (2010)": {
@@ -77852,6 +78033,7 @@
             "2010s",
             "Anne Hathaway",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi",
             "Tim Burton"
         ]
@@ -77915,7 +78097,8 @@
             "Theodore Shapiro"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Repo Men (2010)": {
@@ -78043,6 +78226,7 @@
             "2010s",
             "Animated",
             "DreamWorks Animation",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -78484,6 +78668,7 @@
         "categories": [
             "2010s",
             "Emmas",
+            "Family",
             "Wayans Family"
         ]
     },
@@ -78545,6 +78730,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Jackie Chan"
         ]
     },
@@ -78628,7 +78814,9 @@
             "2010s",
             "Animated",
             "Cusacks",
+            "Family",
             "Michael Keaton",
+            "Tom Hanks",
             "Whoopi Goldberg"
         ]
     },
@@ -78795,6 +78983,7 @@
         "categories": [
             "2010s",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi",
             "Nicolas Cage"
         ]
@@ -78858,7 +79047,8 @@
             "Christopher Lennertz"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Charlie St. Cloud (2010)": {
@@ -79088,6 +79278,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Fantasy/Sci-Fi",
             "Gyllenhaals"
         ]
@@ -80050,6 +80241,7 @@
         "categories": [
             "2010s",
             "Cornetto Trio",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -80237,7 +80429,8 @@
         "categories": [
             "2010s",
             "Comedies",
-            "Emily Blunt"
+            "Emily Blunt",
+            "Family"
         ]
     },
     "Blue Valentine (2010)": {
@@ -80805,7 +80998,8 @@
             "Edward Shearmur"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Sucker Punch (2011)": {
@@ -81075,7 +81269,8 @@
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Dwayne Johnson"
+            "Dwayne Johnson",
+            "Fast & Furious"
         ]
     },
     "Prom (2011)": {
@@ -81430,6 +81625,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Jim Carrey"
         ]
     },
@@ -81511,7 +81707,8 @@
         ],
         "categories": [
             "2010s",
-            "Julia Roberts"
+            "Julia Roberts",
+            "Tom Hanks"
         ]
     },
     "Monte Carlo (2011)": {
@@ -81767,7 +81964,8 @@
             "Heitor Pereira"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Rise of the Planet of the Apes (2011)": {
@@ -81914,6 +82112,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Quentin Tarantino & Robert Rodriguez"
         ]
     },
@@ -82770,6 +82969,7 @@
         "categories": [
             "2010s",
             "Dramas",
+            "Family",
             "Martin Scorsese"
         ]
     },
@@ -82815,6 +83015,7 @@
             "2010s",
             "Amy Adams",
             "Emily Blunt",
+            "Family",
             "Whoopi Goldberg"
         ]
     },
@@ -83129,6 +83330,7 @@
         ],
         "categories": [
             "2010s",
+            "Tom Hanks",
             "Viola Davis"
         ]
     },
@@ -83693,6 +83895,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Fantasy/Sci-Fi",
             "Julia Roberts"
         ]
@@ -84525,7 +84728,8 @@
             "Edward Shearmur"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Total Recall (2012)": {
@@ -85269,6 +85473,7 @@
             "2010s",
             "Fantasy/Sci-Fi",
             "Halle Berry",
+            "Tom Hanks",
             "Wachowskis"
         ]
     },
@@ -86138,6 +86343,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -86693,7 +86899,8 @@
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Dwayne Johnson"
+            "Dwayne Johnson",
+            "Fast & Furious"
         ]
     },
     "After Earth (2013)": {
@@ -87288,7 +87495,8 @@
             "Heitor Pereira"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "2 Guns (2013)": {
@@ -87773,7 +87981,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Tom Hanks"
         ]
     },
     "Machete Kills (2013)": {
@@ -88357,7 +88566,8 @@
             "2010s",
             "Biopics",
             "Disney",
-            "Dramas"
+            "Dramas",
+            "Tom Hanks"
         ]
     },
     "The Hobbit: The Desolation of Smaug (2013)": {
@@ -88707,6 +88917,7 @@
         "categories": [
             "2010s",
             "Animated",
+            "Family",
             "Morgan Freeman"
         ]
     },
@@ -89088,6 +89299,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Stanley Tucci"
         ]
     },
@@ -89689,6 +89901,7 @@
             "Animated",
             "Cate Blanchett",
             "DreamWorks Animation",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -90648,7 +90861,8 @@
             "Christophe Beck"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Dracula Untold (2014)": {
@@ -91353,6 +91567,7 @@
             "2010s",
             "Action/Adventure",
             "Comedies",
+            "Family",
             "Fantasy/Sci-Fi",
             "Robin Williams"
         ]
@@ -91610,6 +91825,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Nicole Kidman"
         ]
     },
@@ -92032,6 +92248,7 @@
             "2010s",
             "Cate Blanchett",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -92221,6 +92438,7 @@
             "2010s",
             "Action/Adventure",
             "Dwayne Johnson",
+            "Fast & Furious",
             "Kurt Russell"
         ]
     },
@@ -92494,6 +92712,7 @@
         "categories": [
             "2010s",
             "Brad Pitt & George Clooney",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -93649,7 +93868,8 @@
             "Dramas",
             "Horror/Thriller",
             "Steven Spielberg",
-            "Thriller"
+            "Thriller",
+            "Tom Hanks"
         ]
     },
     "Crimson Peak (2015)": {
@@ -93690,6 +93910,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Horror",
             "Horror/Thriller"
         ]
@@ -95260,6 +95481,7 @@
             "2010s",
             "Bill Murray",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi",
             "Scarlett Johansson"
         ]
@@ -95281,7 +95503,8 @@
             "Tom Tykwer"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tom Hanks"
         ]
     },
     "Holidays (2016)": {
@@ -95617,6 +95840,7 @@
             "2010s",
             "Anne Hathaway",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -96020,6 +96244,7 @@
         "categories": [
             "2010s",
             "Amblin",
+            "Family",
             "Steven Spielberg"
         ]
     },
@@ -96444,6 +96669,7 @@
         "categories": [
             "2010s",
             "Disney",
+            "Family",
             "Fantasy/Sci-Fi",
             "Paul Newman & Robert Redford"
         ]
@@ -96633,7 +96859,8 @@
             "Clint Eastwood",
             "Cusacks",
             "Dramas",
-            "Eastwoods"
+            "Eastwoods",
+            "Tom Hanks"
         ]
     },
     "Blair Witch (2016)": {
@@ -97070,7 +97297,8 @@
             "2010s",
             "Action/Adventure",
             "Horror/Thriller",
-            "Thriller"
+            "Thriller",
+            "Tom Hanks"
         ]
     },
     "Doctor Strange (2016)": {
@@ -97361,7 +97589,8 @@
             "2010s",
             "Animated",
             "Disney",
-            "Dwayne Johnson"
+            "Dwayne Johnson",
+            "Family"
         ]
     },
     "Lion (2016)": {
@@ -97914,7 +98143,8 @@
         ],
         "categories": [
             "2010s",
-            "Amblin"
+            "Amblin",
+            "Family"
         ]
     },
     "Resident Evil: The Final Chapter (2017)": {
@@ -98641,6 +98871,7 @@
             "Charlize Theron",
             "Dwayne Johnson",
             "Eastwoods",
+            "Fast & Furious",
             "Kurt Russell"
         ]
     },
@@ -98741,7 +98972,8 @@
         ],
         "categories": [
             "2010s",
-            "Emmas"
+            "Emmas",
+            "Tom Hanks"
         ]
     },
     "Guardians of the Galaxy Vol. 2 (2017)": {
@@ -98884,7 +99116,8 @@
             "Edward Shearmur"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "Baywatch (2017)": {
@@ -101086,7 +101319,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Family"
         ]
     },
     "Bright (2017)": {
@@ -101208,7 +101442,8 @@
             "Amblin",
             "Dramas",
             "Meryl Streep",
-            "Steven Spielberg"
+            "Steven Spielberg",
+            "Tom Hanks"
         ]
     },
     "All the Money in the World (2017)": {
@@ -101330,7 +101565,8 @@
             "Dario Marianelli"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Family"
         ]
     },
     "The Commuter (2018)": {
@@ -101513,6 +101749,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Margot Robbie"
         ]
     },
@@ -104011,6 +104248,7 @@
         ],
         "categories": [
             "2010s",
+            "Family",
             "Horror",
             "Horror/Thriller"
         ]
@@ -104381,7 +104619,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Family"
         ]
     },
     "At Eternity's Gate (2018)": {
@@ -104839,6 +105078,7 @@
             "2010s",
             "Disney",
             "Emily Blunt",
+            "Family",
             "Fantasy/Sci-Fi",
             "Meryl Streep"
         ]
@@ -105336,7 +105576,8 @@
         "categories": [
             "2010s",
             "Animated",
-            "Bruce Willis"
+            "Bruce Willis",
+            "Family"
         ]
     },
     "What Men Want (2019)": {
@@ -105463,6 +105704,7 @@
             "Animated",
             "Cate Blanchett",
             "DreamWorks Animation",
+            "Family",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -106134,7 +106376,8 @@
         ],
         "categories": [
             "2010s",
-            "Amblin"
+            "Amblin",
+            "Family"
         ]
     },
     "John Wick: Chapter 3 \u2013 Parabellum (2019)": {
@@ -106555,8 +106798,10 @@
             "2010s",
             "Animated",
             "Cusacks",
+            "Family",
             "Keanu Reeves",
-            "Mel Brooks"
+            "Mel Brooks",
+            "Tom Hanks"
         ]
     },
     "Annabelle Comes Home (2019)": {
@@ -106742,7 +106987,8 @@
         "categories": [
             "2010s",
             "Animated",
-            "Disney"
+            "Disney",
+            "Family"
         ]
     },
     "Honeyland (2019)": {
@@ -106826,6 +107072,7 @@
             "2010s",
             "Action/Adventure",
             "Dwayne Johnson",
+            "Fast & Furious",
             "Kevin Hart"
         ]
     },
@@ -108162,7 +108409,8 @@
         ],
         "categories": [
             "2010s",
-            "Biopics"
+            "Biopics",
+            "Tom Hanks"
         ]
     },
     "Frozen II (2019)": {
@@ -109016,6 +109264,7 @@
         ],
         "categories": [
             "2020s",
+            "Family",
             "Jim Carrey"
         ]
     },
@@ -109870,7 +110119,8 @@
             "Blake Neely"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tom Hanks"
         ]
     },
     "Palm Springs (2020)": {
@@ -110895,7 +111145,8 @@
             "Erran Baron Cohen"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tom Hanks"
         ]
     },
     "Over the Moon (2020)": {
@@ -111560,7 +111811,8 @@
             "James Newton Howard"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tom Hanks"
         ]
     },
     "One Night in Miami... (2020)": {
@@ -112621,6 +112873,7 @@
         ],
         "categories": [
             "2020s",
+            "Family",
             "Margot Robbie"
         ]
     },
@@ -112726,6 +112979,7 @@
             "2020s",
             "Action/Adventure",
             "Charlize Theron",
+            "Fast & Furious",
             "Kurt Russell"
         ]
     },
@@ -113018,7 +113272,8 @@
             "Kris Bowers"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Family"
         ]
     },
     "Jolt (2021)": {
@@ -113859,7 +114114,8 @@
             "Gustavo Santaolalla"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tom Hanks"
         ]
     },
     "Red Notice (2021)": {
@@ -113938,7 +114194,8 @@
             "John Debney"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Family"
         ]
     },
     "Belfast (2021)": {
