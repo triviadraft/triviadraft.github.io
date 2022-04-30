@@ -7,6 +7,10 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function getFilteredList(list, filterVal) {
+    return list.filter((item) => item['category'].includes(filterVal));
+}
+
 function showAnswer(n) {
     document.getElementById('answer' + n).innerHTML = answers[n-1];
     document.getElementById('showBtn' + n).hidden = true;
@@ -33,13 +37,17 @@ function showAnswers() {
 }
 
 function reset() { 
-    mts_questions = randomItems(5, mts_question_map['questions']);
+    if (typeof filterVal !== 'undefined') {
+        mts_questions = randomItems(5, getFilteredList(mts_question_map['questions'], filterVal));
+    } else {
+        mts_questions = randomItems(5, mts_question_map['questions']);
+    }
 
     questions = [];
     answers = [];
     for (const mts_question of mts_questions) {
         var question = '';
-        if (mts_question['category'] != 'N/A') {
+        if (!filterVal && mts_question['category'] != 'N/A') {
             question = '(' + mts_question['category'] + ') ';
         }
         question = question + mts_question['question'];
