@@ -61,7 +61,7 @@ def generate_jsons():
         if year >= 1920 and year <= 1969:
             movie_dict[movie]['categories'].append('Classics')
 
-    for category in ['Clint Eastwood', 'Coen Brothers', 'Comedies', 'Coppolas', 'David Fincher', 'David Lynch', 'Dramas', 'Fantasy/Sci-Fi', 'Frank Capra', 'Guillermo del Toro', 'Horror', 'Horror/Thriller', 'John Carpenter', 'John Hughes', 'John Singleton', 'Modern Classics', 'Rom-Coms', 'Romance', 'Thriller']:
+    for category in ['Clint Eastwood', 'Coen Brothers', 'Comedies', 'Coppolas', 'David Fincher', 'David Lynch', 'Dramas', 'Fantasy/Sci-Fi', 'Frank Capra', 'Guillermo del Toro', 'Horror', 'Horror/Thriller', 'John Carpenter', 'John Hughes', 'John Singleton', 'Kevin Smith', 'M. Night Shyamalan', 'Marshalls', 'Martin Scorsese', 'Mel Brooks', 'Modern Classics', 'Nora Ephron', 'Quentin Tarantino & Robert Rodriguez', 'Ramis & Reitmans', 'Richard Donner', 'Robert Zemeckis', 'Rom-Coms', 'Romance', 'Scotts', 'Spike Lee', 'Steven Soderbergh', 'Steven Spielberg', 'Thriller', 'Tim Burton', 'Tyler Perry', 'Wachowskis']:
         file_prefix = category.replace('/', '_')
         with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
             csvReader = csv.DictReader(csvf)

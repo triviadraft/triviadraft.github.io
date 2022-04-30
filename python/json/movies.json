@@ -9275,7 +9275,8 @@
         "categories": [
             "1960s",
             "Classics",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "2001: A Space Odyssey (1968)": {
@@ -9462,7 +9463,8 @@
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Martin Scorsese"
         ]
     },
     "Funny Girl (1968)": {
@@ -9503,7 +9505,8 @@
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Richard Donner"
         ]
     },
     "Night of the Living Dead (1968)": {
@@ -10418,7 +10421,8 @@
             "John Morris"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Mel Brooks"
         ]
     },
     "Dirty Dingus Magee (1970)": {
@@ -12051,6 +12055,7 @@
         ],
         "categories": [
             "1970s",
+            "Martin Scorsese",
             "Modern Classics"
         ]
     },
@@ -12293,7 +12298,8 @@
         ],
         "categories": [
             "1970s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Badlands (1974)": {
@@ -12353,7 +12359,8 @@
             "John Williams"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Steven Spielberg"
         ]
     },
     "The Conversation (1974)": {
@@ -12706,7 +12713,8 @@
             "N/A"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Martin Scorsese"
         ]
     },
     "The Godfather Part II (1974)": {
@@ -12768,7 +12776,8 @@
         ],
         "categories": [
             "1970s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Black Christmas (1974)": {
@@ -13108,7 +13117,8 @@
         ],
         "categories": [
             "1970s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Steven Spielberg"
         ]
     },
     "Cooley High (1975)": {
@@ -13363,7 +13373,8 @@
         ],
         "categories": [
             "1970s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Robin and Marian (1976)": {
@@ -13501,7 +13512,8 @@
         ],
         "categories": [
             "1970s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Logan's Run (1976)": {
@@ -13581,7 +13593,8 @@
         "categories": [
             "1970s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Richard Donner"
         ]
     },
     "Gus (1976)": {
@@ -14143,7 +14156,8 @@
             "Peter Ivers"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Marshalls"
         ]
     },
     "Exorcist II: The Heretic (1977)": {
@@ -14203,7 +14217,8 @@
             "Fred Ebb"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Martin Scorsese"
         ]
     },
     "The Rescuers (1977)": {
@@ -14421,7 +14436,8 @@
         ],
         "categories": [
             "1970s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Saturday Night Fever (1977)": {
@@ -14504,7 +14520,8 @@
         ],
         "categories": [
             "1970s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Coming Home (1978)": {
@@ -14543,7 +14560,8 @@
             "The Beatles"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Robert Zemeckis"
         ]
     },
     "F.I.S.T. (1978)": {
@@ -14780,7 +14798,8 @@
         ],
         "categories": [
             "1970s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Interiors (1978)": {
@@ -15021,7 +15040,8 @@
             "John Williams"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Richard Donner"
         ]
     },
     "Every Which Way but Loose (1978)": {
@@ -15269,7 +15289,8 @@
             "1970s",
             "Alien & Predator",
             "Fantasy/Sci-Fi",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Scotts"
         ]
     },
     "Game of Death (1979)": {
@@ -15352,7 +15373,9 @@
             "Paul Williams"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Mel Brooks",
+            "Tim Burton"
         ]
     },
     "Meatballs (1979)": {
@@ -15372,7 +15395,8 @@
         ],
         "categories": [
             "1970s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Moonraker (1979)": {
@@ -15612,7 +15636,10 @@
             "John Williams"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Marshalls",
+            "Robert Zemeckis",
+            "Steven Spielberg"
         ]
     },
     "The Jerk (1979)": {
@@ -15974,7 +16001,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Steven Spielberg"
         ]
     },
     "The Stunt Man (1980)": {
@@ -16034,7 +16062,8 @@
             "Patrick Williams"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Robert Zemeckis"
         ]
     },
     "Prom Night (1980)": {
@@ -16117,7 +16146,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Xanadu (1980)": {
@@ -16293,7 +16323,8 @@
             "N/A"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Martin Scorsese"
         ]
     },
     "Flash Gordon (1980)": {
@@ -16412,7 +16443,8 @@
             "John Barry"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Richard Donner"
         ]
     },
     "The Jazz Singer (1980)": {
@@ -16776,7 +16808,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Raiders of the Lost Ark (1981)": {
@@ -16796,7 +16829,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Steven Spielberg"
         ]
     },
     "Superman II (1981)": {
@@ -16893,7 +16927,8 @@
             "Elmer Bernstein"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Ramis & Reitmans"
         ]
     },
     "The Great Muppet Caper (1981)": {
@@ -17096,7 +17131,8 @@
         ],
         "categories": [
             "1980s",
-            "Animated"
+            "Animated",
+            "Ramis & Reitmans"
         ]
     },
     "Deadly Blessing (1981)": {
@@ -17735,7 +17771,8 @@
         "categories": [
             "1980s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Steven Spielberg"
         ]
     },
     "Star Trek II: The Wrath of Khan (1982)": {
@@ -17776,7 +17813,8 @@
         "categories": [
             "1980s",
             "Fantasy/Sci-Fi",
-            "Modern Classics"
+            "Modern Classics",
+            "Steven Spielberg"
         ]
     },
     "Grease 2 (1982)": {
@@ -17835,7 +17873,8 @@
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Scotts"
         ]
     },
     "Monty Python Live at the Hollywood Bowl (1982)": {
@@ -18302,7 +18341,8 @@
             "Patrick Williams"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Richard Donner"
         ]
     },
     "Honkytonk Man (1982)": {
@@ -18487,7 +18527,8 @@
         ],
         "categories": [
             "1980s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Tender Mercies (1983)": {
@@ -18647,7 +18688,8 @@
             "Michel Rubini"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Scotts"
         ]
     },
     "Valley Girl (1983)": {
@@ -18890,7 +18932,8 @@
         "categories": [
             "1980s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Steven Spielberg"
         ]
     },
     "Staying Alive (1983)": {
@@ -18990,7 +19033,8 @@
         "categories": [
             "1980s",
             "Comedies",
-            "John Hughes"
+            "John Hughes",
+            "Ramis & Reitmans"
         ]
     },
     "Risky Business (1983)": {
@@ -19396,7 +19440,8 @@
             "Georges Delerue"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Nora Ephron"
         ]
     },
     "To Be or Not to Be (1983)": {
@@ -19415,7 +19460,8 @@
             "John Morris"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Mel Brooks"
         ]
     },
     "The Loveless (1984)": {
@@ -19643,6 +19689,7 @@
             "1980s",
             "Action/Adventure",
             "Comedies",
+            "Robert Zemeckis",
             "Rom-Coms",
             "Romance"
         ]
@@ -19827,7 +19874,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Steven Spielberg"
         ]
     },
     "Once Upon a Time in America (1984)": {
@@ -19927,7 +19975,8 @@
         "categories": [
             "1980s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Ramis & Reitmans"
         ]
     },
     "Gremlins (1984)": {
@@ -19947,7 +19996,8 @@
         ],
         "categories": [
             "1980s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Steven Spielberg"
         ]
     },
     "Top Secret! (1984)": {
@@ -20668,7 +20718,8 @@
             "Curt Sobel"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Marshalls"
         ]
     },
     "Blood Simple (1985)": {
@@ -21008,7 +21059,8 @@
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Richard Donner"
         ]
     },
     "The Company of Wolves (1985)": {
@@ -21187,7 +21239,9 @@
             "Dave Grusin"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Richard Donner",
+            "Steven Spielberg"
         ]
     },
     "Prizzi's Honor (1985)": {
@@ -21308,7 +21362,8 @@
             "1980s",
             "Comedies",
             "Fantasy/Sci-Fi",
-            "Modern Classics"
+            "Modern Classics",
+            "Robert Zemeckis"
         ]
     },
     "Day of the Dead (1985)": {
@@ -21588,7 +21643,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Tim Burton"
         ]
     },
     "American Flyers (1985)": {
@@ -21706,7 +21762,8 @@
             "Howard Shore"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Martin Scorsese"
         ]
     },
     "The Journey of Natty Gann (1985)": {
@@ -22069,7 +22126,8 @@
         ],
         "categories": [
             "1980s",
-            "Dramas"
+            "Dramas",
+            "Steven Spielberg"
         ]
     },
     "Enemy Mine (1985)": {
@@ -22403,7 +22461,8 @@
         ],
         "categories": [
             "1980s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Scotts"
         ]
     },
     "Blue City (1986)": {
@@ -22481,7 +22540,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Cobra (1986)": {
@@ -22563,7 +22623,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Ramis & Reitmans"
         ]
     },
     "Legal Eagles (1986)": {
@@ -22582,7 +22643,8 @@
             "Elmer Bernstein"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Ramis & Reitmans"
         ]
     },
     "The Karate Kid Part II (1986)": {
@@ -22747,7 +22809,8 @@
             "Van Dyke Parks"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Ramis & Reitmans"
         ]
     },
     "Aliens (1986)": {
@@ -22811,7 +22874,8 @@
         ],
         "categories": [
             "1980s",
-            "Dramas"
+            "Dramas",
+            "Nora Ephron"
         ]
     },
     "Maximum Overdrive (1986)": {
@@ -22851,7 +22915,8 @@
             "Patrick Leonard"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Marshalls"
         ]
     },
     "Flight of the Navigator (1986)": {
@@ -22932,7 +22997,8 @@
             "Bill Lee"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Spike Lee"
         ]
     },
     "Stand by Me (1986)": {
@@ -22993,7 +23059,8 @@
             "Bill Meyers"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Ramis & Reitmans"
         ]
     },
     "Manhunter (1986)": {
@@ -23179,7 +23246,8 @@
             "Thomas Newman"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Marshalls"
         ]
     },
     "Peggy Sue Got Married (1986)": {
@@ -23220,7 +23288,8 @@
         ],
         "categories": [
             "1980s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Soul Man (1986)": {
@@ -23682,7 +23751,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Richard Donner"
         ]
     },
     "Evil Dead II (1987)": {
@@ -23906,7 +23976,8 @@
         "categories": [
             "1980s",
             "Action/Adventure",
-            "Comedies"
+            "Comedies",
+            "Scotts"
         ]
     },
     "The Untouchables (1987)": {
@@ -24031,7 +24102,8 @@
         "categories": [
             "1980s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Mel Brooks"
         ]
     },
     "Dragnet (1987)": {
@@ -24556,7 +24628,8 @@
             "Michael Kamen"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Scotts"
         ]
     },
     "Barfly (1987)": {
@@ -24762,7 +24835,8 @@
             "John Williams"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Steven Spielberg"
         ]
     },
     "Nuts (1987)": {
@@ -24939,7 +25013,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Marshalls"
         ]
     },
     "Good Morning, Vietnam (1987)": {
@@ -24978,7 +25053,8 @@
         ],
         "categories": [
             "1980s",
-            "John Hughes"
+            "John Hughes",
+            "Marshalls"
         ]
     },
     "The Serpent and the Rainbow (1988)": {
@@ -25058,7 +25134,8 @@
             "Bill Lee"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Spike Lee"
         ]
     },
     "Frantic (1988)": {
@@ -25178,7 +25255,8 @@
         "categories": [
             "1980s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "Bright Lights, Big City (1988)": {
@@ -25440,7 +25518,8 @@
             "Howard Shore"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Marshalls"
         ]
     },
     "Poltergeist III (1988)": {
@@ -25564,7 +25643,8 @@
             "Action/Adventure",
             "Animated",
             "Fantasy/Sci-Fi",
-            "Modern Classics"
+            "Modern Classics",
+            "Robert Zemeckis"
         ]
     },
     "Coming to America (1988)": {
@@ -25728,7 +25808,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "A Fish Called Wanda (1988)": {
@@ -25825,6 +25906,7 @@
         ],
         "categories": [
             "1980s",
+            "Martin Scorsese",
             "Modern Classics"
         ]
     },
@@ -26285,7 +26367,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Richard Donner"
         ]
     },
     "Tequila Sunrise (1988)": {
@@ -26384,7 +26467,8 @@
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Dirty Rotten Scoundrels (1988)": {
@@ -26463,7 +26547,8 @@
             "Georges Delerue"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Marshalls"
         ]
     },
     "Working Girl (1988)": {
@@ -26687,7 +26772,8 @@
         ],
         "categories": [
             "1980s",
-            "Coppolas"
+            "Coppolas",
+            "Martin Scorsese"
         ]
     },
     "Police Academy 6: City Under Siege (1989)": {
@@ -27068,7 +27154,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Steven Spielberg"
         ]
     },
     "Pink Cadillac (1989)": {
@@ -27190,7 +27277,8 @@
         "categories": [
             "1980s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Ramis & Reitmans"
         ]
     },
     "Batman (1989)": {
@@ -27209,7 +27297,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Tim Burton"
         ]
     },
     "Honey, I Shrunk the Kids (1989)": {
@@ -27309,7 +27398,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Richard Donner"
         ]
     },
     "Licence to Kill (1989)": {
@@ -27351,6 +27441,7 @@
         "categories": [
             "1980s",
             "Comedies",
+            "Nora Ephron",
             "Rom-Coms",
             "Romance"
         ]
@@ -27372,7 +27463,8 @@
         ],
         "categories": [
             "1980s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "UHF (1989)": {
@@ -27513,7 +27605,8 @@
         ],
         "categories": [
             "1980s",
-            "Dramas"
+            "Dramas",
+            "Steven Soderbergh"
         ]
     },
     "The Abyss (1989)": {
@@ -27671,7 +27764,8 @@
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Crimes and Misdemeanors (1989)": {
@@ -27690,7 +27784,8 @@
             "Franz Schubert"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Nora Ephron"
         ]
     },
     "Halloween 5: The Revenge of Michael Myers (1989)": {
@@ -27970,7 +28065,8 @@
         "categories": [
             "1980s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Robert Zemeckis"
         ]
     },
     "National Lampoon's Christmas Vacation (1989)": {
@@ -28144,7 +28240,8 @@
             "John Williams"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Steven Spielberg"
         ]
     },
     "Tango & Cash (1989)": {
@@ -28349,7 +28446,8 @@
             "Jack Nitzsche"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Scotts"
         ]
     },
     "The Hunt for Red October (1990)": {
@@ -28451,6 +28549,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -28597,7 +28696,8 @@
         "categories": [
             "1990s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Robert Zemeckis"
         ]
     },
     "Total Recall (1990)": {
@@ -28738,7 +28838,8 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Scotts"
         ]
     },
     "Die Hard 2 (1990)": {
@@ -28937,7 +29038,8 @@
             "Bill Lee"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Air America (1990)": {
@@ -29016,7 +29118,8 @@
             "Ira Newborn"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Nora Ephron"
         ]
     },
     "The Exorcist III (1990)": {
@@ -29194,7 +29297,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Miller's Crossing (1990)": {
@@ -29581,7 +29685,8 @@
             "Elmer Bernstein"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Martin Scorsese"
         ]
     },
     "Edward Scissorhands (1990)": {
@@ -29601,7 +29706,8 @@
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "The Rookie (1990)": {
@@ -29659,7 +29765,8 @@
             "David Kitay"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Mel Brooks"
         ]
     },
     "Hamlet (1990)": {
@@ -29697,7 +29804,8 @@
             "Randy Newman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Marshalls"
         ]
     },
     "Kindergarten Cop (1990)": {
@@ -29718,7 +29826,8 @@
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "The Bonfire of the Vanities (1990)": {
@@ -30176,7 +30285,8 @@
         ],
         "categories": [
             "1990s",
-            "Modern Classics"
+            "Modern Classics",
+            "Scotts"
         ]
     },
     "Wild Hearts Can't Be Broken (1991)": {
@@ -30256,7 +30366,8 @@
             "Stevie Wonder"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Robin Hood: Prince of Thieves (1991)": {
@@ -30517,7 +30628,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Mobsters (1991)": {
@@ -30832,7 +30944,8 @@
         ],
         "categories": [
             "1990s",
-            "Al Pacino"
+            "Al Pacino",
+            "Marshalls"
         ]
     },
     "Little Man Tate (1991)": {
@@ -30975,6 +31088,7 @@
         "categories": [
             "1990s",
             "Horror/Thriller",
+            "Martin Scorsese",
             "Thriller"
         ]
     },
@@ -31097,7 +31211,8 @@
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Bugsy (1991)": {
@@ -31136,7 +31251,8 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Father of the Bride (1991)": {
@@ -31372,7 +31488,8 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Richard Donner"
         ]
     },
     "This Is My Life (1992)": {
@@ -31391,7 +31508,8 @@
             "Carly Simon"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Nora Ephron"
         ]
     },
     "Memoirs of an Invisible Man (1992)": {
@@ -31730,7 +31848,8 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Richard Donner"
         ]
     },
     "Alien 3 (1992)": {
@@ -31895,7 +32014,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Tim Burton"
         ]
     },
     "Unlawful Entry (1992)": {
@@ -31934,7 +32054,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Marshalls"
         ]
     },
     "Boomerang (1992)": {
@@ -32074,7 +32195,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Robert Zemeckis"
         ]
     },
     "3 Ninjas (1992)": {
@@ -32387,7 +32509,8 @@
             "Paul Westerberg"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Tim Burton"
         ]
     },
     "Mr. Saturday Night (1992)": {
@@ -32486,7 +32609,8 @@
             "Vangelis"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Scotts"
         ]
     },
     "A River Runs Through It (1992)": {
@@ -32586,7 +32710,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Passenger 57 (1992)": {
@@ -32670,7 +32795,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Home Alone 2: Lost in New York (1992)": {
@@ -32986,7 +33112,8 @@
             "Ry Cooder"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Robert Zemeckis"
         ]
     },
     "Lorenzo's Oil (1992)": {
@@ -33165,7 +33292,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Strictly Ballroom (1993)": {
@@ -33230,7 +33358,8 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Falling Down (1993)": {
@@ -33569,6 +33698,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Ramis & Reitmans",
             "Rom-Coms",
             "Romance"
         ]
@@ -33751,7 +33881,8 @@
             "1990s",
             "Action/Adventure",
             "Fantasy/Sci-Fi",
-            "Modern Classics"
+            "Modern Classics",
+            "Steven Spielberg"
         ]
     },
     "Last Action Hero (1993)": {
@@ -33813,6 +33944,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Nora Ephron",
             "Rom-Coms",
             "Romance"
         ]
@@ -33954,7 +34086,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Marshalls"
         ]
     },
     "Coneheads (1993)": {
@@ -34015,7 +34148,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Rising Sun (1993)": {
@@ -34299,7 +34433,9 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Quentin Tarantino & Robert Rodriguez",
+            "Scotts"
         ]
     },
     "Airborne (1993)": {
@@ -34355,7 +34491,8 @@
             "Elmer Bernstein"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Martin Scorsese"
         ]
     },
     "Dazed and Confused (1993)": {
@@ -34630,7 +34767,8 @@
         ],
         "categories": [
             "1990s",
-            "Animated"
+            "Animated",
+            "Tim Burton"
         ]
     },
     "Look Who's Talking Now (1993)": {
@@ -34927,7 +35065,8 @@
             "John Williams"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Steven Spielberg"
         ]
     },
     "Beethoven's 2nd (1993)": {
@@ -35656,7 +35795,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "The Crow (1994)": {
@@ -35694,7 +35834,8 @@
             "Randy Newman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Richard Donner"
         ]
     },
     "Beverly Hills Cop III (1994)": {
@@ -35755,7 +35896,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Marshalls"
         ]
     },
     "City Slickers II: The Legend of Curly's Gold (1994)": {
@@ -35959,7 +36101,8 @@
         "categories": [
             "1990s",
             "Dramas",
-            "Modern Classics"
+            "Modern Classics",
+            "Robert Zemeckis"
         ]
     },
     "Angels in the Outfield (1994)": {
@@ -36141,7 +36284,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "The Little Rascals (1994)": {
@@ -36160,7 +36304,8 @@
             "William Ross"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Mel Brooks"
         ]
     },
     "Corrina, Corrina (1994)": {
@@ -36275,7 +36420,8 @@
             "N/A"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Police Academy: Mission to Moscow (1994)": {
@@ -36353,7 +36499,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Timecop (1994)": {
@@ -36415,7 +36562,8 @@
             "Howard Shore"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Tim Burton"
         ]
     },
     "The River Wild (1994)": {
@@ -36495,7 +36643,8 @@
             "Patrick Doyle"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Marshalls"
         ]
     },
     "Hoop Dreams (1994)": {
@@ -36552,7 +36701,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Wes Craven's New Nightmare (1994)": {
@@ -36593,7 +36743,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "Bullets over Broadway (1994)": {
@@ -36632,6 +36783,7 @@
         ],
         "categories": [
             "1990s",
+            "Ramis & Reitmans",
             "Romance"
         ]
     },
@@ -36870,7 +37022,8 @@
             "James Newton Howard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Ramis & Reitmans"
         ]
     },
     "The Pagemaster (1994)": {
@@ -37049,7 +37202,8 @@
             "George Fenton"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Nora Ephron"
         ]
     },
     "Richie Rich (1994)": {
@@ -37743,7 +37897,8 @@
             "Marc Shaiman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Ramis & Reitmans"
         ]
     },
     "The Basketball Diaries (1995)": {
@@ -37905,7 +38060,8 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Scotts"
         ]
     },
     "The Englishman who Went up a Hill but Came down a Mountain (1995)": {
@@ -38571,7 +38727,8 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Prophecy (1995)": {
@@ -38649,7 +38806,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "Hackers (1995)": {
@@ -38829,7 +38987,9 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Richard Donner",
+            "Wachowskis"
         ]
     },
     "Dead Presidents (1995)": {
@@ -38908,7 +39068,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Marshalls"
         ]
     },
     "Mallrats (1995)": {
@@ -38928,7 +39089,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "Now and Then (1995)": {
@@ -39171,7 +39333,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Money Train (1995)": {
@@ -39396,7 +39559,8 @@
             "1990s",
             "Comedies",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Mel Brooks"
         ]
     },
     "Nixon (1995)": {
@@ -39476,7 +39640,8 @@
             "Combustible Edison"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "12 Monkeys (1995)": {
@@ -39635,7 +39800,8 @@
         "categories": [
             "1990s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Black Sheep (1996)": {
@@ -39715,7 +39881,8 @@
             "Jeff Rona"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Scotts"
         ]
     },
     "Beautiful Girls (1996)": {
@@ -40053,7 +40220,9 @@
             "Prince"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Quentin Tarantino & Robert Rodriguez",
+            "Spike Lee"
         ]
     },
     "All Dogs Go to Heaven 2 (1996)": {
@@ -40629,7 +40798,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "The Frighteners (1996)": {
@@ -40879,7 +41049,8 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Scotts"
         ]
     },
     "Tin Cup (1996)": {
@@ -41135,7 +41306,8 @@
             "Don Davis"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Wachowskis"
         ]
     },
     "D3: The Mighty Ducks (1996)": {
@@ -41271,7 +41443,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Sleepers (1996)": {
@@ -41371,7 +41544,8 @@
             "N/A"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Larger Than Life (1996)": {
@@ -41472,7 +41646,8 @@
             "Jeremy Lubbock"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Marshalls"
         ]
     },
     "Space Jam (1996)": {
@@ -41730,7 +41905,8 @@
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "The Preacher's Wife (1996)": {
@@ -41749,7 +41925,8 @@
             "Hans Zimmer"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Marshalls"
         ]
     },
     "In Love and War (1996)": {
@@ -41943,7 +42120,8 @@
             "Randy Newman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Nora Ephron"
         ]
     },
     "The Evening Star (1996)": {
@@ -42469,6 +42647,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Kevin Smith",
             "Rom-Coms",
             "Romance"
         ]
@@ -42690,7 +42869,8 @@
             "James Newton Howard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Ramis & Reitmans"
         ]
     },
     "The Fifth Element (1997)": {
@@ -42753,7 +42933,8 @@
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Gone Fishin' (1997)": {
@@ -42975,7 +43156,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Contact (1997)": {
@@ -42995,7 +43177,8 @@
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Robert Zemeckis"
         ]
     },
     "George of the Jungle (1997)": {
@@ -43133,6 +43316,7 @@
         "categories": [
             "1990s",
             "Horror/Thriller",
+            "Richard Donner",
             "Thriller"
         ]
     },
@@ -43233,7 +43417,8 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Mimic (1997)": {
@@ -43900,7 +44085,8 @@
             "John Williams"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Steven Spielberg"
         ]
     },
     "Deconstructing Harry (1997)": {
@@ -44062,6 +44248,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Ramis & Reitmans",
             "Rom-Coms",
             "Romance"
         ]
@@ -44102,7 +44289,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Kundun (1997)": {
@@ -44121,7 +44309,8 @@
             "Philip Glass"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Martin Scorsese"
         ]
     },
     "Mr. Magoo (1997)": {
@@ -44726,7 +44915,8 @@
             "N/A"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "Deep Impact (1998)": {
@@ -44972,7 +45162,8 @@
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Mulan (1998)": {
@@ -45052,7 +45243,8 @@
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Steven Soderbergh"
         ]
     },
     "Armageddon (1998)": {
@@ -45095,7 +45287,8 @@
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Richard Donner"
         ]
     },
     "Madeline (1998)": {
@@ -45238,7 +45431,8 @@
         "categories": [
             "1990s",
             "Dramas",
-            "Modern Classics"
+            "Modern Classics",
+            "Steven Spielberg"
         ]
     },
     "The Negotiator (1998)": {
@@ -46156,6 +46350,7 @@
         "categories": [
             "1990s",
             "Horror/Thriller",
+            "Scotts",
             "Thriller"
         ]
     },
@@ -46401,6 +46596,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Nora Ephron",
             "Rom-Coms",
             "Romance"
         ]
@@ -46520,7 +46716,8 @@
             "1990s",
             "Fantasy/Sci-Fi",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Affliction (1998)": {
@@ -46802,7 +46999,8 @@
             "Rachel Portman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Marshalls"
         ]
     },
     "Analyze This (1999)": {
@@ -46822,7 +47020,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Cruel Intentions (1999)": {
@@ -47049,7 +47248,8 @@
         ],
         "categories": [
             "1990s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wachowskis"
         ]
     },
     "Following (1999)": {
@@ -47090,6 +47290,7 @@
         "categories": [
             "1990s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -47435,7 +47636,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Spike Lee"
         ]
     },
     "American Pie (1999)": {
@@ -47654,7 +47856,8 @@
             "James Newton Howard"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Marshalls"
         ]
     },
     "Dick (1999)": {
@@ -47734,6 +47937,7 @@
             "1990s",
             "Horror",
             "Horror/Thriller",
+            "M. Night Shyamalan",
             "Thriller"
         ]
     },
@@ -48152,7 +48356,8 @@
             "Elmer Bernstein"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Martin Scorsese"
         ]
     },
     "The Best Man (1999)": {
@@ -48356,7 +48561,8 @@
         ],
         "categories": [
             "1990s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "The Messenger: The Story of Joan of Arc (1999)": {
@@ -48396,7 +48602,8 @@
         "categories": [
             "1990s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Tim Burton"
         ]
     },
     "The World Is Not Enough (1999)": {
@@ -48658,7 +48865,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "M. Night Shyamalan"
         ]
     },
     "Girl, Interrupted (1999)": {
@@ -48859,7 +49067,8 @@
         "categories": [
             "2000s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Kevin Smith"
         ]
     },
     "The Beach (2000)": {
@@ -48936,7 +49145,8 @@
             "David Hirschfelder"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Nora Ephron"
         ]
     },
     "Pitch Black (2000)": {
@@ -49135,7 +49345,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Steven Soderbergh"
         ]
     },
     "Final Destination (2000)": {
@@ -49477,7 +49688,8 @@
         ],
         "categories": [
             "2000s",
-            "Modern Classics"
+            "Modern Classics",
+            "Scotts"
         ]
     },
     "Battlefield Earth (2000)": {
@@ -49924,7 +50136,8 @@
         ],
         "categories": [
             "2000s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Robert Zemeckis"
         ]
     },
     "Nutty Professor II: The Klumps (2000)": {
@@ -50258,7 +50471,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Spike Lee"
         ]
     },
     "Get Carter (2000)": {
@@ -50396,6 +50610,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Ramis & Reitmans",
             "Rom-Coms",
             "Romance"
         ]
@@ -50437,7 +50652,8 @@
             "George Fenton"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Nora Ephron"
         ]
     },
     "Charlie's Angels (2000)": {
@@ -50496,7 +50712,8 @@
             "Teddy Castellucci"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Men of Honor (2000)": {
@@ -50656,6 +50873,7 @@
             "Dramas",
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
+            "M. Night Shyamalan",
             "Thriller"
         ]
     },
@@ -50875,7 +51093,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Robert Zemeckis"
         ]
     },
     "Finding Forrester (2000)": {
@@ -51017,7 +51236,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Steven Soderbergh"
         ]
     },
     "Save the Last Dance (2001)": {
@@ -51081,6 +51301,7 @@
             "2000s",
             "Horror",
             "Horror/Thriller",
+            "Scotts",
             "Thriller"
         ]
     },
@@ -51326,7 +51547,8 @@
             "Harry Gregson-Williams"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Tailor of Panama (2001)": {
@@ -51611,7 +51833,8 @@
         "categories": [
             "2000s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Ramis & Reitmans"
         ]
     },
     "Swordfish (2001)": {
@@ -51771,7 +51994,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Crazy/Beautiful (2001)": {
@@ -51993,7 +52217,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "Wet Hot American Summer (2001)": {
@@ -52074,6 +52299,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -52221,7 +52447,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "Summer Catch (2001)": {
@@ -52563,7 +52790,8 @@
             "Heitor Pereira"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Marshalls"
         ]
     },
     "The Last Castle (2001)": {
@@ -52829,7 +53057,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "The Devil's Backbone (2001)": {
@@ -52888,7 +53117,8 @@
             "David Holmes"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Steven Soderbergh"
         ]
     },
     "Not Another Teen Movie (2001)": {
@@ -52950,6 +53180,7 @@
         "categories": [
             "2000s",
             "Horror/Thriller",
+            "Steven Spielberg",
             "Thriller"
         ]
     },
@@ -53070,7 +53301,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Marshalls"
         ]
     },
     "Ali (2001)": {
@@ -53170,7 +53402,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Scotts"
         ]
     },
     "I Am Sam (2001)": {
@@ -53210,7 +53443,9 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Marshalls",
+            "Ramis & Reitmans"
         ]
     },
     "Snow Dogs (2002)": {
@@ -54234,7 +54469,8 @@
         "categories": [
             "2000s",
             "Andersons",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Sunshine State (2002)": {
@@ -54454,7 +54690,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Steven Spielberg"
         ]
     },
     "The Country Bears (2002)": {
@@ -54493,7 +54730,8 @@
         ],
         "categories": [
             "2000s",
-            "David Fincher"
+            "David Fincher",
+            "Steven Soderbergh"
         ]
     },
     "My Big Fat Greek Wedding (2002)": {
@@ -54537,7 +54775,8 @@
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "M. Night Shyamalan"
         ]
     },
     "The Master of Disguise (2002)": {
@@ -54576,7 +54815,8 @@
             "Robert Rodriguez"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Good Girl (2002)": {
@@ -55321,7 +55561,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Soderbergh"
         ]
     },
     "Treasure Planet (2002)": {
@@ -55382,7 +55623,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "About Schmidt (2002)": {
@@ -55526,7 +55768,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "Antwone Fisher (2002)": {
@@ -55565,7 +55808,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "The Wild Thornberrys Movie (2002)": {
@@ -55628,7 +55872,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Steven Spielberg"
         ]
     },
     "The Hours (2002)": {
@@ -55932,7 +56177,8 @@
             "Graeme Revell"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Kevin Smith"
         ]
     },
     "Old School (2003)": {
@@ -56557,7 +56803,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wachowskis"
         ]
     },
     "Bruce Almighty (2003)": {
@@ -57018,7 +57265,8 @@
             "Robert Rodriguez"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "American Wedding (2003)": {
@@ -57320,7 +57568,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Scotts"
         ]
     },
     "Once Upon a Time in Mexico (2003)": {
@@ -57340,7 +57589,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Bubba Ho-Tep (2003)": {
@@ -57566,7 +57816,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Mystic River (2003)": {
@@ -57746,7 +57997,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wachowskis"
         ]
     },
     "Brother Bear (2003)": {
@@ -58006,7 +58258,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Richard Donner"
         ]
     },
     "Honey (2003)": {
@@ -58067,7 +58320,8 @@
         "categories": [
             "2000s",
             "Dramas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "Girl with a Pearl Earring (2003)": {
@@ -58718,7 +58972,8 @@
             "James L. Venable"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Kevin Smith"
         ]
     },
     "Scooby-Doo 2: Monsters Unleashed (2004)": {
@@ -58898,7 +59153,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Punisher (2004)": {
@@ -58960,7 +59216,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Envy (2004)": {
@@ -59162,6 +59419,7 @@
             "2000s",
             "Comedies",
             "Dramas",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -59362,7 +59620,8 @@
             "John Williams"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Steven Spielberg"
         ]
     },
     "White Chicks (2004)": {
@@ -59674,7 +59933,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Spike Lee"
         ]
     },
     "Harold & Kumar Go to White Castle (2004)": {
@@ -59735,7 +59995,8 @@
         ],
         "categories": [
             "2000s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "M. Night Shyamalan"
         ]
     },
     "Collateral (2004)": {
@@ -59797,6 +60058,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -60088,7 +60350,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Martin Scorsese"
         ]
     },
     "Taxi (2004)": {
@@ -60396,7 +60659,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Robert Zemeckis"
         ]
     },
     "After the Sunset (2004)": {
@@ -60618,7 +60882,8 @@
             "David Holmes"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Steven Soderbergh"
         ]
     },
     "The Life Aquatic with Steve Zissou (2004)": {
@@ -60737,7 +61002,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "Hotel Rwanda (2004)": {
@@ -61139,7 +61405,8 @@
             "Tyler Perry"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "Man of the House (2005)": {
@@ -61218,7 +61485,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Mel Brooks"
         ]
     },
     "The Upside of Anger (2005)": {
@@ -61381,7 +61649,8 @@
             "Robert Rodriguez"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Fever Pitch (2005)": {
@@ -61603,7 +61872,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Kicking & Screaming (2005)": {
@@ -61871,7 +62141,8 @@
             "Robert Rodriguez"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Honeymooners (2005)": {
@@ -61971,6 +62242,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Nora Ephron",
             "Rom-Coms",
             "Romance"
         ]
@@ -62014,7 +62286,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Rebound (2005)": {
@@ -62072,7 +62345,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "Wedding Crashers (2005)": {
@@ -62539,7 +62813,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Tim Burton"
         ]
     },
     "Flightplan (2005)": {
@@ -62817,7 +63092,8 @@
             "Harry Gregson-Williams"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Scotts"
         ]
     },
     "Elizabethtown (2005)": {
@@ -63020,7 +63296,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Marshalls"
         ]
     },
     "Jarhead (2005)": {
@@ -63219,7 +63496,8 @@
             "David Kitay"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Ramis & Reitmans"
         ]
     },
     "Yours, Mine & Ours (2005)": {
@@ -63415,7 +63693,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Mel Brooks"
         ]
     },
     "Cheaper by the Dozen 2 (2005)": {
@@ -63474,7 +63753,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Steven Spielberg"
         ]
     },
     "Rumor Has It (2005)": {
@@ -63853,7 +64133,8 @@
             "Elvin Ross"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "16 Blocks (2006)": {
@@ -63872,7 +64153,8 @@
             "Klaus Badelt"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Richard Donner"
         ]
     },
     "Failure to Launch (2006)": {
@@ -63996,7 +64278,8 @@
         "categories": [
             "2000s",
             "Comedies",
-            "Dramas"
+            "Dramas",
+            "Ramis & Reitmans"
         ]
     },
     "V for Vendetta (2006)": {
@@ -64016,7 +64299,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Wachowskis"
         ]
     },
     "Inside Man (2006)": {
@@ -64036,7 +64320,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "Brick (2006)": {
@@ -64760,7 +65045,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "Lady in the Water (2006)": {
@@ -64781,7 +65067,8 @@
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "M. Night Shyamalan"
         ]
     },
     "Monster House (2006)": {
@@ -64820,7 +65107,8 @@
             "Teddy Castellucci"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Ramis & Reitmans"
         ]
     },
     "Little Miss Sunshine (2006)": {
@@ -65494,7 +65782,8 @@
             "Howard Shore"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Martin Scorsese"
         ]
     },
     "The Texas Chainsaw Massacre: The Beginning (2006)": {
@@ -65776,7 +66065,8 @@
             "Marc Streitenfeld"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Scotts"
         ]
     },
     "Stranger than Fiction (2006)": {
@@ -65918,7 +66208,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Tenacious D in The Pick of Destiny (2006)": {
@@ -66439,6 +66730,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Kevin Smith",
             "Rom-Coms",
             "Romance"
         ]
@@ -66562,7 +66854,8 @@
             "Brian McKnight"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "Music and Lyrics (2007)": {
@@ -66862,7 +67155,8 @@
             "2000s",
             "Action/Adventure",
             "Animated",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Kevin Smith"
         ]
     },
     "Blades of Glory (2007)": {
@@ -66952,7 +67246,8 @@
         "categories": [
             "2000s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Disturbia (2007)": {
@@ -67193,7 +67488,8 @@
             "John Debney"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Marshalls"
         ]
     },
     "The Ex (2007)": {
@@ -67275,6 +67571,7 @@
         "categories": [
             "2000s",
             "Comedies",
+            "Ramis & Reitmans",
             "Rom-Coms",
             "Romance"
         ]
@@ -67338,7 +67635,8 @@
         ],
         "categories": [
             "2000s",
-            "Al Pacino"
+            "Al Pacino",
+            "Steven Soderbergh"
         ]
     },
     "Surf's Up (2007)": {
@@ -67477,7 +67775,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Kevin Smith"
         ]
     },
     "Ratatouille (2007)": {
@@ -68417,7 +68716,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "30 Days of Night (2007)": {
@@ -68557,7 +68857,8 @@
             "Marc Streitenfeld"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Scotts"
         ]
     },
     "Bee Movie (2007)": {
@@ -68679,7 +68980,8 @@
             "Moby"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Kevin Smith"
         ]
     },
     "Beowulf (2007)": {
@@ -68700,7 +69002,8 @@
         "categories": [
             "2000s",
             "Animated",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Robert Zemeckis"
         ]
     },
     "Margot at the Wedding (2007)": {
@@ -68877,7 +69180,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Atonement (2007)": {
@@ -69055,7 +69359,8 @@
         ],
         "categories": [
             "2000s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Tim Burton"
         ]
     },
     "Walk Hard: The Dewey Cox Story (2007)": {
@@ -69075,7 +69380,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Aliens vs. Predator: Requiem (2007)": {
@@ -69755,7 +70061,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "21 (2008)": {
@@ -70016,7 +70323,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Wachowskis"
         ]
     },
     "What Happens in Vegas (2008)": {
@@ -70075,7 +70383,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Steven Spielberg"
         ]
     },
     "Sex and the City (2008)": {
@@ -70177,7 +70486,8 @@
         ],
         "categories": [
             "2000s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "M. Night Shyamalan"
         ]
     },
     "The Incredible Hulk (2008)": {
@@ -70786,7 +71096,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "Appaloosa (2008)": {
@@ -70928,7 +71239,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "Nights in Rodanthe (2008)": {
@@ -71085,7 +71397,8 @@
             "Marc Streitenfeld"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Scotts"
         ]
     },
     "City of Ember (2008)": {
@@ -71303,7 +71616,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "Madagascar: Escape 2 Africa (2008)": {
@@ -72191,7 +72505,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "Street Fighter: The Legend of Chun-Li (2009)": {
@@ -72249,7 +72564,8 @@
             "Trevor Rabin"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Marshalls"
         ]
     },
     "Sunshine Cleaning (2009)": {
@@ -72632,7 +72948,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tyler Perry"
         ]
     },
     "Angels & Demons (2009)": {
@@ -72876,7 +73193,8 @@
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Dead Snow (2009)": {
@@ -72939,7 +73257,8 @@
         ],
         "categories": [
             "2000s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "Transformers: Revenge of the Fallen (2009)": {
@@ -73247,7 +73566,8 @@
             "Alexandre Desplat"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Nora Ephron"
         ]
     },
     "District 9 (2009)": {
@@ -73306,7 +73626,8 @@
             "N/A"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Shorts (2009)": {
@@ -73328,7 +73649,8 @@
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Halloween II (2009)": {
@@ -73429,7 +73751,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Tyler Perry"
         ]
     },
     "Sorority Row (2009)": {
@@ -73531,7 +73854,8 @@
             "Marvin Hamlisch"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Steven Soderbergh"
         ]
     },
     "Surrogates (2009)": {
@@ -73796,7 +74120,8 @@
         ],
         "categories": [
             "2000s",
-            "Animated"
+            "Animated",
+            "Robert Zemeckis"
         ]
     },
     "Precious: Based on the Novel 'Push' by Sapphire (2009)": {
@@ -74073,7 +74398,8 @@
         ],
         "categories": [
             "2000s",
-            "Dramas"
+            "Dramas",
+            "Ramis & Reitmans"
         ]
     },
     "A Single Man (2009)": {
@@ -74587,6 +74913,7 @@
         "categories": [
             "2010s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -74609,6 +74936,7 @@
         "categories": [
             "2010s",
             "Horror/Thriller",
+            "Martin Scorsese",
             "Thriller"
         ]
     },
@@ -74630,7 +74958,8 @@
         ],
         "categories": [
             "2010s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "The Crazies (2010)": {
@@ -74671,7 +75000,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "Green Zone (2010)": {
@@ -74916,7 +75246,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "After.Life (2010)": {
@@ -75137,7 +75468,8 @@
         ],
         "categories": [
             "2010s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "MacGruber (2010)": {
@@ -75495,7 +75827,8 @@
             "James Newton Howard"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "M. Night Shyamalan"
         ]
     },
     "Despicable Me (2010)": {
@@ -75999,7 +76332,8 @@
             "Chingon"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Legendary (2010)": {
@@ -76103,7 +76437,8 @@
         "categories": [
             "2010s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "M. Night Shyamalan"
         ]
     },
     "Easy A (2010)": {
@@ -76509,7 +76844,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Let Me In (2010)": {
@@ -76593,7 +76929,8 @@
         ],
         "categories": [
             "2010s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Scotts"
         ]
     },
     "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)": {
@@ -77047,7 +77384,8 @@
         ],
         "categories": [
             "2010s",
-            "Comedies"
+            "Comedies",
+            "Ramis & Reitmans"
         ]
     },
     "The Mechanic (2011)": {
@@ -77335,7 +77673,8 @@
         "categories": [
             "2010s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Kevin Smith"
         ]
     },
     "Battle: Los Angeles (2011)": {
@@ -77456,7 +77795,8 @@
         "categories": [
             "2010s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "The Lincoln Lawyer (2011)": {
@@ -77719,7 +78059,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Water for Elephants (2011)": {
@@ -78570,7 +78911,8 @@
             "Carl Thiel"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Colombiana (2011)": {
@@ -78671,7 +79013,8 @@
             "Cliff Martinez"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Steven Soderbergh"
         ]
     },
     "Warrior (2011)": {
@@ -79398,7 +79741,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Martin Scorsese"
         ]
     },
     "My Week with Marilyn (2011)": {
@@ -79498,6 +79842,7 @@
         "categories": [
             "2010s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -79578,7 +79923,8 @@
             "Rolfe Kent"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Ramis & Reitmans"
         ]
     },
     "Alvin and the Chipmunks: Chipwrecked (2011)": {
@@ -79657,7 +80003,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Steven Spielberg"
         ]
     },
     "The Girl with the Dragon Tattoo (2011)": {
@@ -79757,7 +80104,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Steven Spielberg"
         ]
     },
     "The Iron Lady (2011)": {
@@ -79837,7 +80185,8 @@
         ],
         "categories": [
             "2010s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Steven Soderbergh"
         ]
     },
     "Red Tails (2012)": {
@@ -80100,7 +80449,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Goon (2012)": {
@@ -80525,7 +80875,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tim Burton"
         ]
     },
     "The Dictator (2012)": {
@@ -80693,7 +81044,8 @@
             "2010s",
             "Alien & Predator",
             "Fantasy/Sci-Fi",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Scotts"
         ]
     },
     "Safety Not Guaranteed (2012)": {
@@ -80852,7 +81204,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Magic Mike (2012)": {
@@ -80873,7 +81226,8 @@
         "categories": [
             "2010s",
             "Comedies",
-            "Dramas"
+            "Dramas",
+            "Steven Soderbergh"
         ]
     },
     "Ted (2012)": {
@@ -81130,7 +81484,8 @@
             "Bruce Hornsby"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Spike Lee"
         ]
     },
     "The Bourne Legacy (2012)": {
@@ -81558,7 +81913,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Tim Burton"
         ]
     },
     "Pitch Perfect (2012)": {
@@ -81745,7 +82101,8 @@
         ],
         "categories": [
             "2010s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Tyler Perry"
         ]
     },
     "Paranormal Activity 4 (2012)": {
@@ -81791,7 +82148,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wachowskis"
         ]
     },
     "Silent Hill: Revelation (2012)": {
@@ -81832,7 +82190,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Robert Zemeckis"
         ]
     },
     "The Man with the Iron Fists (2012)": {
@@ -81892,7 +82251,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Steven Spielberg"
         ]
     },
     "Skyfall (2012)": {
@@ -82254,7 +82614,8 @@
             "N/A"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Les Mis\u00e9rables (2012)": {
@@ -82785,7 +83146,8 @@
             "Aaron Zigman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "The Host (2013)": {
@@ -83170,7 +83532,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "M. Night Shyamalan"
         ]
     },
     "Now You See Me (2013)": {
@@ -84207,7 +84570,8 @@
             "Carl Thiel"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Kill Your Darlings (2013)": {
@@ -84323,7 +84687,8 @@
             "Daniel Pemberton"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Scotts"
         ]
     },
     "About Time (2013)": {
@@ -84640,7 +85005,8 @@
             "Roque Ba\u00f1os"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Spike Lee"
         ]
     },
     "Inside Llewyn Davis (2013)": {
@@ -84700,7 +85066,8 @@
             "Christopher Young"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "American Hustle (2013)": {
@@ -84900,7 +85267,8 @@
             "N/A"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Martin Scorsese"
         ]
     },
     "August: Osage County (2013)": {
@@ -84939,7 +85307,8 @@
             "Rolfe Kent"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Ramis & Reitmans"
         ]
     },
     "Paranormal Activity: The Marked Ones (2014)": {
@@ -85289,7 +85658,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Mel Brooks"
         ]
     },
     "The Grand Budapest Hotel (2014)": {
@@ -85370,7 +85740,8 @@
             "Christopher Young"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Divergent (2014)": {
@@ -85530,7 +85901,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Ramis & Reitmans"
         ]
     },
     "Oculus (2014)": {
@@ -86561,7 +86933,8 @@
             "Carl Thiel"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The November Man (2014)": {
@@ -86796,7 +87169,8 @@
         ],
         "categories": [
             "2010s",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Kevin Smith"
         ]
     },
     "The Boxtrolls (2014)": {
@@ -86902,7 +87276,8 @@
             "David Fincher",
             "Dramas",
             "Horror/Thriller",
-            "Thriller"
+            "Thriller",
+            "Tyler Perry"
         ]
     },
     "Alexander and the Terrible, Horrible, No Good, Very Bad Day (2014)": {
@@ -87468,7 +87843,8 @@
             "Alberto Iglesias"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Scotts"
         ]
     },
     "Inherent Vice (2014)": {
@@ -87652,7 +88028,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Tim Burton"
         ]
     },
     "Into the Woods (2014)": {
@@ -87959,7 +88336,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wachowskis"
         ]
     },
     "Seventh Son (2015)": {
@@ -88018,7 +88396,8 @@
             "Bruce Hornsby"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Spike Lee"
         ]
     },
     "Fifty Shades of Grey (2015)": {
@@ -89454,7 +89833,8 @@
         "categories": [
             "2010s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "M. Night Shyamalan"
         ]
     },
     "Pawn Sacrifice (2015)": {
@@ -89575,7 +89955,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Mel Brooks"
         ]
     },
     "The Green Inferno (2015)": {
@@ -89635,7 +90016,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Robert Zemeckis"
         ]
     },
     "The Martian (2015)": {
@@ -89656,7 +90038,8 @@
         "categories": [
             "2010s",
             "Dramas",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Scotts"
         ]
     },
     "99 Homes (2015)": {
@@ -89799,6 +90182,7 @@
             "Coen Brothers",
             "Dramas",
             "Horror/Thriller",
+            "Steven Spielberg",
             "Thriller"
         ]
     },
@@ -90296,7 +90680,8 @@
             "Terence Blanchard"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Spike Lee"
         ]
     },
     "Krampus (2015)": {
@@ -90454,7 +90839,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Kevin Smith"
         ]
     },
     "Concussion (2015)": {
@@ -90535,7 +90921,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Revenant (2015)": {
@@ -91398,7 +91785,8 @@
         "categories": [
             "2010s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Kevin Smith"
         ]
     },
     "The Huntsman: Winter's War (2016)": {
@@ -91460,6 +91848,7 @@
         "categories": [
             "2010s",
             "Comedies",
+            "Marshalls",
             "Rom-Coms",
             "Romance"
         ]
@@ -91781,7 +92170,8 @@
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tyler Perry"
         ]
     },
     "Genius (2016)": {
@@ -92065,7 +92455,8 @@
             "John Williams"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Steven Spielberg"
         ]
     },
     "The Legend of Tarzan (2016)": {
@@ -92630,7 +93021,8 @@
             "Christopher Drake"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Kevin Smith"
         ]
     },
     "Sully (2016)": {
@@ -92855,7 +93247,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Tim Burton"
         ]
     },
     "13th (2016)": {
@@ -92952,7 +93345,8 @@
             "Elvin Ross"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Jack Reacher: Never Go Back (2016)": {
@@ -93310,7 +93704,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Robert Zemeckis"
         ]
     },
     "Bad Santa 2 (2016)": {
@@ -93652,7 +94047,8 @@
             "Kathryn Kluge"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Martin Scorsese"
         ]
     },
     "Why Him? (2016)": {
@@ -93836,6 +94232,7 @@
         "categories": [
             "2010s",
             "Horror/Thriller",
+            "M. Night Shyamalan",
             "Thriller"
         ]
     },
@@ -94799,7 +95196,8 @@
             "2010s",
             "Alien & Predator",
             "Fantasy/Sci-Fi",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Scotts"
         ]
     },
     "Diary of a Wimpy Kid: The Long Haul (2017)": {
@@ -95617,7 +96015,8 @@
             "David Holmes"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Steven Soderbergh"
         ]
     },
     "Patti Cake$ (2017)": {
@@ -96236,7 +96635,8 @@
             "Phillip White"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Geostorm (2017)": {
@@ -96634,7 +97034,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Tyler Perry"
         ]
     },
     "Wonder (2017)": {
@@ -96751,7 +97152,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Kevin Smith"
         ]
     },
     "The Shape of Water (2017)": {
@@ -97051,7 +97453,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Steven Spielberg"
         ]
     },
     "All the Money in the World (2017)": {
@@ -97070,7 +97473,8 @@
             "Daniel Pemberton"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Scotts"
         ]
     },
     "Molly's Game (2017)": {
@@ -97790,7 +98194,8 @@
         "categories": [
             "2010s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Steven Soderbergh"
         ]
     },
     "Ready Player One (2018)": {
@@ -97811,7 +98216,8 @@
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Steven Spielberg"
         ]
     },
     "Acrimony (2018)": {
@@ -97830,7 +98236,8 @@
             "Christopher Lennertz"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "A Quiet Place (2018)": {
@@ -98069,7 +98476,8 @@
             "N/A"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Spike Lee"
         ]
     },
     "Avengers: Infinity War (2018)": {
@@ -98169,7 +98577,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Ramis & Reitmans"
         ]
     },
     "Breaking In (2018)": {
@@ -98763,7 +99172,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Mel Brooks"
         ]
     },
     "Skyscraper (2018)": {
@@ -99041,7 +99451,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "Slender Man (2018)": {
@@ -99958,7 +100369,8 @@
             "Philip White"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "The Holiday Calendar (2018)": {
@@ -100035,7 +100447,8 @@
             "Rob Simonsen"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Ramis & Reitmans"
         ]
     },
     "Outlaw King (2018)": {
@@ -100656,7 +101069,8 @@
             "Alan Silvestri"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Robert Zemeckis"
         ]
     },
     "Holmes & Watson (2018)": {
@@ -100716,7 +101130,8 @@
         ],
         "categories": [
             "2010s",
-            "Dramas"
+            "Dramas",
+            "Tyler Perry"
         ]
     },
     "Stan & Ollie (2018)": {
@@ -100876,6 +101291,7 @@
             "2010s",
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
+            "M. Night Shyamalan",
             "Thriller"
         ]
     },
@@ -101033,7 +101449,8 @@
             "David Wilder Savage"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Steven Soderbergh"
         ]
     },
     "The Lego Movie 2: The Second Part (2019)": {
@@ -101133,7 +101550,8 @@
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Fighting with My Family (2019)": {
@@ -101212,7 +101630,8 @@
             "Philip White"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tyler Perry"
         ]
     },
     "Triple Frontier (2019)": {
@@ -101428,7 +101847,8 @@
             "Danny Elfman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Tim Burton"
         ]
     },
     "The Beach Bum (2019)": {
@@ -102226,7 +102646,8 @@
         ],
         "categories": [
             "2010s",
-            "Animated"
+            "Animated",
+            "Mel Brooks"
         ]
     },
     "Annabelle Comes Home (2019)": {
@@ -102445,7 +102866,8 @@
         ],
         "categories": [
             "2010s",
-            "Al Pacino"
+            "Al Pacino",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "The Red Sea Diving Resort (2019)": {
@@ -102930,7 +103352,8 @@
             "David Holmes"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Steven Soderbergh"
         ]
     },
     "Dolemite Is My Name (2019)": {
@@ -103208,7 +103631,8 @@
         ],
         "categories": [
             "2010s",
-            "Comedies"
+            "Comedies",
+            "Kevin Smith"
         ]
     },
     "Jojo Rabbit (2019)": {
@@ -103450,7 +103874,8 @@
         ],
         "categories": [
             "2010s",
-            "Al Pacino"
+            "Al Pacino",
+            "Martin Scorsese"
         ]
     },
     "Marriage Story (2019)": {
@@ -104079,7 +104504,8 @@
         ],
         "categories": [
             "2010s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Kevin Smith"
         ]
     },
     "Togo (2019)": {
@@ -104278,7 +104704,8 @@
             "Jay Weigel"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tyler Perry"
         ]
     },
     "Bad Boys for Life (2020)": {
@@ -105281,7 +105708,8 @@
         ],
         "categories": [
             "2020s",
-            "Dramas"
+            "Dramas",
+            "Spike Lee"
         ]
     },
     "The King of Staten Island (2020)": {
@@ -106426,7 +106854,8 @@
         ],
         "categories": [
             "2020s",
-            "Guillermo del Toro"
+            "Guillermo del Toro",
+            "Robert Zemeckis"
         ]
     },
     "Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan (2020)": {
@@ -106959,7 +107388,8 @@
             "Thomas Newman"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Steven Soderbergh"
         ]
     },
     "Minari (2020)": {
@@ -107175,7 +107605,8 @@
             "Rebel Rodriguez"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Quentin Tarantino & Robert Rodriguez"
         ]
     },
     "Wonder Woman 1984 (2020)": {
@@ -107972,7 +108403,8 @@
             "Brian Tyler"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tyler Perry"
         ]
     },
     "A Quiet Place Part II (2021)": {
@@ -108289,7 +108721,8 @@
             "David Holmes"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Steven Soderbergh"
         ]
     },
     "Fear Street Part One: 1994 (2021)": {
@@ -108554,7 +108987,8 @@
             "Trevor Gureckis"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "M. Night Shyamalan"
         ]
     },
     "Snake Eyes: G.I. Joe Origins (2021)": {
@@ -109179,7 +109613,8 @@
             "Harry Gregson-Williams"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Scotts"
         ]
     },
     "Dune (2021)": {
@@ -109548,7 +109983,8 @@
         "categories": [
             "2020s",
             "Comedies",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Ramis & Reitmans"
         ]
     },
     "King Richard (2021)": {
@@ -109627,7 +110063,8 @@
         ],
         "categories": [
             "2020s",
-            "Al Pacino"
+            "Al Pacino",
+            "Scotts"
         ]
     },
     "Resident Evil: Welcome to Raccoon City (2021)": {
@@ -109750,7 +110187,8 @@
             "Nicholas Britell"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Tyler Perry"
         ]
     },
     "West Side Story (2021)": {
@@ -109769,7 +110207,8 @@
             "Leonard Bernstein"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Steven Spielberg"
         ]
     },
     "Mother/Android (2021)": {
@@ -109910,7 +110349,8 @@
         ],
         "categories": [
             "2020s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Wachowskis"
         ]
     },
     "A Journal for Jordan (2021)": {
