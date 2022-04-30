@@ -61,7 +61,7 @@ def generate_jsons():
         if year >= 1920 and year <= 1969:
             movie_dict[movie]['categories'].append('Classics')
 
-    for category in ['Comedies', 'Dramas', 'Fantasy/Sci-Fi', 'Horror', 'Horror/Thriller', 'Modern Classics', 'Rom-Coms', 'Romance']:
+    for category in ['Comedies', 'Dramas', 'Fantasy/Sci-Fi', 'Horror', 'Horror/Thriller', 'Modern Classics', 'Rom-Coms', 'Romance', 'Thriller']:
         file_prefix = category.replace('/', '_')
         with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
             csvReader = csv.DictReader(csvf)
