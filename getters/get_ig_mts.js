@@ -8,7 +8,19 @@ function randomItems(n, items) {
 }
 
 function getFilteredList(list, filterVal) {
-    return list.filter((item) => item['category'].includes(filterVal));
+    if (filterVal === 'Dystopian Future & Time Travel') {
+        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Back to the Future'));
+    } else if (filterVal === 'Hasbro') {
+        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Transformers'));
+    } else if (filterVal === 'Marvel') {
+        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('MCU'));
+     } else if (filterVal === 'Middle-earth') {
+        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Lord of the Rings') || item['category'].includes('The Hobbit'));
+    } else if (filterVal === 'Wizarding World') {
+        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Harry Potter'));
+    } else {
+        return list.filter((item) => item['category'].includes(filterVal));
+    }
 }
 
 function showAnswer(n) {
