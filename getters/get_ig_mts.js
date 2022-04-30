@@ -47,7 +47,7 @@ function reset() {
     answers = [];
     for (const mts_question of mts_questions) {
         var question = '';
-        if (!filterVal && mts_question['category'] != 'N/A') {
+        if (typeof filterVal !== 'undefined' && mts_question['category'] != 'N/A') {
             question = '(' + mts_question['category'] + ') ';
         }
         question = question + mts_question['question'];
