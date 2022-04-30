@@ -11076,6 +11076,7 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
+            "Al Pacino",
             "Coppolas",
             "Dramas"
         ]
@@ -11738,7 +11739,8 @@ var movie_map = {
             "Fred Myrow"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Al Pacino"
         ]
     },
     "Soylent Green (1973)": {
@@ -12148,7 +12150,8 @@ var movie_map = {
             "Mikis Theodorakis"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Al Pacino"
         ]
     },
     "The Last Detail (1973)": {
@@ -12723,6 +12726,7 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
+            "Al Pacino",
             "Coppolas",
             "Dramas"
         ]
@@ -13163,6 +13167,7 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
+            "Al Pacino",
             "Dramas"
         ]
     },
@@ -15262,6 +15267,7 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -15566,7 +15572,8 @@ var movie_map = {
             "Dave Grusin"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Al Pacino"
         ]
     },
     "Star Trek: The Motion Picture (1979)": {
@@ -19346,7 +19353,8 @@ var movie_map = {
             "Giorgio Moroder"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Al Pacino"
         ]
     },
     "Sudden Impact (1983)": {
@@ -22759,6 +22767,7 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
             "Modern Classics"
@@ -23958,6 +23967,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Action/Adventure",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -28647,7 +28657,8 @@ var movie_map = {
             "Danny Elfman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Al Pacino"
         ]
     },
     "Gremlins 2: The New Batch (1990)": {
@@ -29507,6 +29518,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -29785,6 +29797,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Coppolas",
             "Dramas"
         ]
@@ -30818,7 +30831,8 @@ var movie_map = {
             "Marvin Hamlisch"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Al Pacino"
         ]
     },
     "Little Man Tate (1991)": {
@@ -31736,6 +31750,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Alien & Predator",
             "David Fincher",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
@@ -32432,6 +32447,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Dramas"
         ]
     },
@@ -32912,6 +32928,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Dramas"
         ]
     },
@@ -34692,6 +34709,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Dramas"
         ]
     },
@@ -39272,6 +39290,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Dramas"
         ]
     },
@@ -39754,7 +39773,8 @@ var movie_map = {
             "Jerry Goldsmith"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Al Pacino"
         ]
     },
     "Happy Gilmore (1996)": {
@@ -42249,7 +42269,8 @@ var movie_map = {
             "Patrick Doyle"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Al Pacino"
         ]
     },
     "Hard Eight (1997)": {
@@ -43574,6 +43595,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Dramas",
             "Horror",
             "Horror/Thriller"
@@ -43817,6 +43839,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -48293,6 +48316,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
+            "Al Pacino",
             "Dramas"
         ]
     },
@@ -48674,7 +48698,8 @@ var movie_map = {
             "Paul Kelly"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Al Pacino"
         ]
     },
     "Man on the Moon (1999)": {
@@ -53985,6 +54010,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
+            "Al Pacino",
             "Christopher Nolan",
             "Horror/Thriller",
             "Thriller"
@@ -55843,7 +55869,8 @@ var movie_map = {
             "Klaus Badelt"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Al Pacino"
         ]
     },
     "How to Lose a Guy in 10 Days (2003)": {
@@ -57030,7 +57057,8 @@ var movie_map = {
             "John Powell"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Al Pacino"
         ]
     },
     "Freaky Friday (2003)": {
@@ -59791,6 +59819,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Alien & Predator",
             "Andersons",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
@@ -62727,7 +62756,8 @@ var movie_map = {
             "Christophe Beck"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Al Pacino"
         ]
     },
     "Waiting... (2005)": {
@@ -67307,7 +67337,8 @@ var movie_map = {
             "David Holmes"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Al Pacino"
         ]
     },
     "Surf's Up (2007)": {
@@ -69065,6 +69096,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -70734,7 +70766,8 @@ var movie_map = {
             "Ed Shearmur"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Al Pacino"
         ]
     },
     "The Family That Preys (2008)": {
@@ -75505,6 +75538,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -79262,6 +79296,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Al Pacino",
             "Comedies"
         ]
     },
@@ -80656,6 +80691,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -82080,7 +82116,8 @@ var movie_map = {
             "Lyle Workman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Al Pacino"
         ]
     },
     "The Hobbit: An Unexpected Journey (2012)": {
@@ -94760,6 +94797,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -99342,6 +99380,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
         ]
@@ -102405,7 +102444,8 @@ var movie_map = {
             "N/A"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Al Pacino"
         ]
     },
     "The Red Sea Diving Resort (2019)": {
@@ -103409,7 +103449,8 @@ var movie_map = {
             "Robbie Robertson"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Al Pacino"
         ]
     },
     "Marriage Story (2019)": {
@@ -109585,7 +109626,8 @@ var movie_map = {
             "Harry Gregson-Williams"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Al Pacino"
         ]
     },
     "Resident Evil: Welcome to Raccoon City (2021)": {

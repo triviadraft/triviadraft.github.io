@@ -86,6 +86,13 @@
                         {% endfor %}
                     </optgroup>
                 {% endif %}
+                {% if page.filterGroup5 %}
+                    <optgroup label="{{ page.filterGroup5 }}">
+                        {% for item in page.filterGroup5Items %}
+                            <option value="{{ item }}">{{ item }}</option>
+                        {% endfor %}
+                    </optgroup>
+                {% endif %}
             </select>
             <br>
             <br>
