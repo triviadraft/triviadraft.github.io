@@ -48,7 +48,7 @@ def generate_jsons():
         elif year >= 2020 and year <= 2029:
             movie_dict[movie]['categories'].append('2020s')
 
-    for category in ['Action/Adventure', 'Animated']:
+    for category in ['Action/Adventure', 'Alfred Hitchcock', 'Andersons', 'Animated', 'Christopher Nolan']:
         file_prefix = category.replace('/', '_')
         with open('python/csv/' + file_prefix + ' - Movies.csv', encoding='utf-8') as csvf:
             csvReader = csv.DictReader(csvf)
