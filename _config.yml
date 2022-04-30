@@ -40,6 +40,8 @@ navigation:
     url: /oscars/
   - title: Directors
     url: /directors/
+  - title: IG MTS
+    url: /ig-mts/
   - title: IG Actors
     url: /ig-actors/
   - title: IG Taglines

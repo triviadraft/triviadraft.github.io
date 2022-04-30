@@ -72,6 +72,7 @@ def generate_jsons():
     with open(r'python/json/movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(movie_dict, indent=4))
 
+    # mts questions
     mts_question_dict = {}
     mts_question_dict['questions'] = []
     with open(r'python/csv/MTS History - SG_TM.csv', encoding='utf-8') as csvf:
@@ -88,6 +89,24 @@ def generate_jsons():
     dataBytes = json.dumps(mts_question_dict).encode("utf-8")
     encoded = base64.b64encode(dataBytes)
     with open(r'python/json/mts-questions.txt', 'w', encoding='utf-8') as f:
+        f.write(str(encoded)[1:])
+
+    ig_mts_question_dict = {}
+    ig_mts_question_dict['questions'] = []
+    with open(r'python/csv/MTS History - IG.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            if row['Movies'] != 'N/A':
+                single_question_dict = {
+                    'question': row['Question'],
+                    'answer': row['Answer'],
+                    'category': row['Category']
+                }
+                ig_mts_question_dict['questions'].append(single_question_dict)
+
+    dataBytes = json.dumps(ig_mts_question_dict).encode("utf-8")
+    encoded = base64.b64encode(dataBytes)
+    with open(r'python/json/ig-mts-questions.txt', 'w', encoding='utf-8') as f:
         f.write(str(encoded)[1:])
 
     # oscars data
