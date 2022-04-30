@@ -12040,7 +12040,7 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Jesus Christ Superstar (1973)": {
@@ -12471,7 +12471,7 @@ var movie_map = {
             "Coppolas",
             "Dramas",
             "Gene Hackman",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Wicker Man (1974)": {
@@ -14203,7 +14203,7 @@ var movie_map = {
         "categories": [
             "1970s",
             "Fantasy/Sci-Fi",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Smokey and the Bandit (1977)": {
@@ -15632,7 +15632,7 @@ var movie_map = {
         ],
         "categories": [
             "1970s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "North Dallas Forty (1979)": {
@@ -15674,7 +15674,7 @@ var movie_map = {
             "1970s",
             "Coppolas",
             "Dramas",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Monty Python's Life of Brian (1979)": {
@@ -16039,7 +16039,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Fantasy/Sci-Fi",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Shining (1980)": {
@@ -16958,7 +16958,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Action/Adventure",
-            "Harrison ford",
+            "Harrison Ford",
             "Steven Spielberg"
         ]
     },
@@ -18015,7 +18015,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Fantasy/Sci-Fi",
-            "Harrison ford",
+            "Harrison Ford",
             "Scotts"
         ]
     },
@@ -18900,7 +18900,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Fantasy/Sci-Fi",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Psycho II (1983)": {
@@ -20035,7 +20035,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Action/Adventure",
-            "Harrison ford",
+            "Harrison Ford",
             "Steven Spielberg"
         ]
     },
@@ -20970,7 +20970,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Dramas",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Breakfast Club (1985)": {
@@ -23634,7 +23634,7 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Heartbreak Ridge (1986)": {
@@ -25358,7 +25358,7 @@ var movie_map = {
         ],
         "categories": [
             "1980s",
-            "Harrison ford",
+            "Harrison Ford",
             "Horror/Thriller",
             "Thriller"
         ]
@@ -26785,7 +26785,7 @@ var movie_map = {
             "1980s",
             "Comedies",
             "Cusacks",
-            "Harrison ford",
+            "Harrison Ford",
             "Rom-Coms",
             "Romance"
         ]
@@ -27375,7 +27375,7 @@ var movie_map = {
         "categories": [
             "1980s",
             "Action/Adventure",
-            "Harrison ford",
+            "Harrison Ford",
             "Steven Spielberg"
         ]
     },
@@ -29217,7 +29217,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Problem Child (1990)": {
@@ -30766,7 +30766,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Dramas",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Boyz n the Hood (1991)": {
@@ -32243,7 +32243,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Harrison ford",
+            "Harrison Ford",
             "Horror/Thriller",
             "Thriller"
         ]
@@ -34512,7 +34512,7 @@ var movie_map = {
             "1990s",
             "Action/Adventure",
             "Dramas",
-            "Harrison ford",
+            "Harrison Ford",
             "Horror/Thriller",
             "Thriller"
         ]
@@ -36586,7 +36586,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Harrison ford",
+            "Harrison Ford",
             "Horror/Thriller",
             "Thriller"
         ]
@@ -39853,7 +39853,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Comedies",
-            "Harrison ford",
+            "Harrison Ford",
             "Rom-Coms",
             "Romance"
         ]
@@ -42972,7 +42972,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Brad Pitt & George Clooney",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "B.A.P.S. (1997)": {
@@ -43651,7 +43651,7 @@ var movie_map = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Air Bud (1997)": {
@@ -45620,7 +45620,7 @@ var movie_map = {
             "1990s",
             "Action/Adventure",
             "Comedies",
-            "Harrison ford",
+            "Harrison Ford",
             "Ramis & Reitmans"
         ]
     },
@@ -48737,7 +48737,7 @@ var movie_map = {
         ],
         "categories": [
             "1990s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Superstar (1999)": {
@@ -50663,7 +50663,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
-            "Harrison ford",
+            "Harrison Ford",
             "Horror/Thriller",
             "Robert Zemeckis"
         ]
@@ -55266,7 +55266,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Stuart Little 2 (2002)": {
@@ -57576,7 +57576,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Comedies",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Rugrats Go Wild (2003)": {
@@ -64818,7 +64818,7 @@ var movie_map = {
         ],
         "categories": [
             "2000s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Pink Panther (2006)": {
@@ -71256,7 +71256,7 @@ var movie_map = {
             "2000s",
             "Action/Adventure",
             "Cate Blanchett",
-            "Harrison ford",
+            "Harrison Ford",
             "Steven Spielberg"
         ]
     },
@@ -74292,7 +74292,7 @@ var movie_map = {
         "categories": [
             "2000s",
             "Comedies",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "I Love You, Beth Cooper (2009)": {
@@ -75707,7 +75707,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Dramas",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Tooth Fairy (2010)": {
@@ -77876,7 +77876,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Comedies",
-            "Harrison ford",
+            "Harrison Ford",
             "Rom-Coms",
             "Romance"
         ]
@@ -79723,7 +79723,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Crazy, Stupid, Love. (2011)": {
@@ -84309,7 +84309,7 @@ var movie_map = {
         ],
         "categories": [
             "2010s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Scary Movie 5 (2013)": {
@@ -85832,7 +85832,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Free Birds (2013)": {
@@ -86239,7 +86239,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Comedies",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Her (2013)": {
@@ -87991,7 +87991,7 @@ var movie_map = {
             "2010s",
             "Action/Adventure",
             "Antonio Banderas",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Giver (2014)": {
@@ -90065,7 +90065,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Dramas",
-            "Harrison ford",
+            "Harrison Ford",
             "Romance"
         ]
     },
@@ -92002,7 +92002,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Harrison ford",
+            "Harrison Ford",
             "Kevin Smith"
         ]
     },
@@ -97669,7 +97669,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Florida Project (2017)": {
@@ -103782,7 +103782,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Animated",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "Men in Black: International (2019)": {
@@ -105805,7 +105805,7 @@ var movie_map = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi",
-            "Harrison ford",
+            "Harrison Ford",
             "Kevin Smith"
         ]
     },
@@ -106404,7 +106404,7 @@ var movie_map = {
         ],
         "categories": [
             "2020s",
-            "Harrison ford"
+            "Harrison Ford"
         ]
     },
     "The Last Thing He Wanted (2020)": {
