@@ -65,6 +65,20 @@
                         {% endfor %}
                     </optgroup>
                 {% endif %}
+                {% if page.filterGroup2 %}
+                    <optgroup label="{{ page.filterGroup2 }}">
+                        {% for item in page.filterGroup2Items %}
+                            <option value="{{ item }}">{{ item }}</option>
+                        {% endfor %}
+                    </optgroup>
+                {% endif %}
+                {% if page.filterGroup3 %}
+                    <optgroup label="{{ page.filterGroup3 }}">
+                        {% for item in page.filterGroup3Items %}
+                            <option value="{{ item }}">{{ item }}</option>
+                        {% endfor %}
+                    </optgroup>
+                {% endif %}
                 {% if page.filterGroup4 %}
                     <optgroup label="{{ page.filterGroup4 }}">
                         {% for item in page.filterGroup4Items %}
