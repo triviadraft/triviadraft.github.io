@@ -39,7 +39,7 @@ function reset() {
     answers = [];
     for (const movie of movies) {
         var category = randomItem(ig_movie_map[movie]['categories']);
-        var actor_list = ig_actor_map[movie]['supporting'];
+        var actor_list = ig_cast_map[movie]['supporting'];
         var random_list = randomItems(3, actor_list);
 
         var actor1 = random_list[0]['actor'];
@@ -58,7 +58,7 @@ function reset() {
             name3 += ' (' + random_list[2]['description'] + ')';
         }
 
-        var question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
+        var question = 'What ' + category + ' film includes ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
         var answer = movie;
 
         if (!movie.includes('(1') && !movie.includes('(2')) {
@@ -112,7 +112,7 @@ for (const movie of movies) {
         name3 += ' (' + random_list[2]['description'] + ')';
     }
 
-    var question = 'What ' + category + ' film includes ' + actor1 +', ' + actor2 + ', and ' + actor3 + '?';
+    var question = 'What ' + category + ' film includes ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
     var answer = movie;
 
     if (!movie.includes('(1') && !movie.includes('(2')) {
