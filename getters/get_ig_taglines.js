@@ -45,7 +45,6 @@ function showAnswers() {
 }
 
 function reset() {
-
     if (typeof filterVal !== 'undefined') {
         movies = randomItems(5, Object.keys(getFilteredMap(ig_movie_map_with_taglines, filterVal)));
     } else {

@@ -7,6 +7,12 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function getFilteredMap(map, filterVal) {
+    const asArray = Object.entries(map);
+    filtered = asArray.filter(([key, value]) => ig_movie_map[key]['categories'].includes(filterVal));
+    return Object.fromEntries(filtered);
+}
+
 function showAnswer(n) {
     document.getElementById('answer' + n).innerHTML = answers[n-1];
     document.getElementById('showBtn' + n).hidden = true;
@@ -33,8 +39,13 @@ function showAnswers() {
     document.getElementById('showAllBtn').disabled = true;
 }
 
-function reset() { 
-    var movies = randomItems(5, Object.keys(ig_cast_map));
+function reset() {
+    if (typeof filterVal !== 'undefined') {
+        movies = randomItems(5, Object.keys(getFilteredMap(ig_cast_map, filterVal)));
+    } else {
+        movies = randomItems(5, Object.keys(ig_cast_map));
+    }
+
     questions = [];
     answers = [];
     for (const movie of movies) {

@@ -38,7 +38,6 @@ function reset() {
     questions = [];
     answers = [];
     for (const character of characters) {
-        console.log(character);
         var question_types = [];
         var homeworld = sw_character_map[character]['homeworld'];
         var species = sw_character_map[character]['species'];

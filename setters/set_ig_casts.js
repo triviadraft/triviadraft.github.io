@@ -5664,7 +5664,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Rise of the Planet of the Apes": {
+    "Rise of the Planet of the Apes (2011)": {
         "main": [
             {
                 "actor": "James Franco",
