@@ -1186,7 +1186,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Pirates of the Caribbean: The Curse of the Black Pearl": {
+    "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": {
         "main": [
             {
                 "actor": "Johnny Depp",
@@ -1257,7 +1257,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Legend of Zorro": {
+    "The Legend of Zorro (2005)": {
         "main": [
             {
                 "actor": "Antonio Banderas",
@@ -1335,7 +1335,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Pirates of the Caribbean: Dead Man's Chest": {
+    "Pirates of the Caribbean: Dead Man's Chest (2006)": {
         "main": [
             {
                 "actor": "Johnny Depp",
@@ -1406,7 +1406,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Pirates of the Caribbean: At World's End": {
+    "Pirates of the Caribbean: At World's End (2007)": {
         "main": [
             {
                 "actor": "Johnny Depp",
@@ -1569,7 +1569,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Indiana Jones and the Kingdom of the Crystal Skull": {
+    "Indiana Jones and the Kingdom of the Crystal Skull (2008)": {
         "main": [
             {
                 "actor": "Harrison Ford",
@@ -1662,7 +1662,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Pirates of the Caribbean: On Stranger Tides": {
+    "Pirates of the Caribbean: On Stranger Tides (2011)": {
         "main": [
             {
                 "actor": "Johnny Depp",
@@ -1728,7 +1728,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Lone Ranger": {
+    "The Lone Ranger (2013)": {
         "main": [
             {
                 "actor": "Armie Hammer",
@@ -1836,7 +1836,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Pirates of the Caribbean: Dead Men Tell No Tales": {
+    "Pirates of the Caribbean: Dead Men Tell No Tales (2017)": {
         "main": [
             {
                 "actor": "Johnny Depp",
@@ -1944,7 +1944,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Jurassic Park": {
+    "Jurassic Park (1993)": {
         "main": [
             {
                 "actor": "Sam Neill",
@@ -2037,7 +2037,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Lost World: Jurassic Park": {
+    "The Lost World: Jurassic Park (1997)": {
         "main": [
             {
                 "actor": "Jeff Goldblum",
