@@ -230,11 +230,11 @@ def generate_jsons():
         for row in csvReader:
             movie = row['movie']
 
-            if movie not in ig_actor_dict:
+            if movie not in ig_cast_dict:
                 ig_cast_dict[movie] = {}
 
             level = row['level']
-            if level not in ig_actor_dict[movie]:
+            if level not in ig_cast_dict[movie]:
                 ig_cast_dict[movie][level] = []
 
             single_actor_dict = {}
