@@ -224,7 +224,7 @@ def generate_jsons():
 
     # ig cast data
     ig_cast_dict = {}
-    with open(r'python/csv/actordata - actors.csv', encoding='utf-8') as csvf:
+    with open(r'python/csv/actordata - casts.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
 
         for row in csvReader:

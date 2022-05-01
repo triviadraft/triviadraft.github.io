@@ -34,7 +34,7 @@ function showAnswers() {
 }
 
 function reset() { 
-    var movies = randomItems(5, Object.keys(ig_actor_map));
+    var movies = randomItems(5, Object.keys(ig_cast_map));
     questions = [];
     answers = [];
     for (const movie of movies) {

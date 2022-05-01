@@ -3251,7 +3251,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Prometheus": {
+    "Prometheus (2012)": {
         "main": [
             {
                 "actor": "Noomi Rapace",
@@ -3329,7 +3329,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Alien: Covenant": {
+    "Alien: Covenant (2017)": {
         "main": [
             {
                 "actor": "Michael Fassbender",
@@ -3405,7 +3405,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "The Predator": {
+    "The Predator (2018)": {
         "main": [
             {
                 "actor": "Boyd Holbrook",
@@ -3523,7 +3523,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "The Transformers: The Movie": {
+    "The Transformers: The Movie (1986)": {
         "main": [
             {
                 "actor": "Peter Cullen",
@@ -3696,7 +3696,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Mighty Morphin Power Rangers: The Movie": {
+    "Mighty Morphin Power Rangers: The Movie (1995)": {
         "main": [
             {
                 "actor": "Karan Ashley",
@@ -3829,7 +3829,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Turbo: A Power Rangers Movie": {
+    "Turbo: A Power Rangers Movie (1997)": {
         "main": [
             {
                 "actor": "Johnny Yong Bosch",
@@ -5855,7 +5855,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "War for the Planet of the Apes": {
+    "War for the Planet of the Apes (2017)": {
         "main": [
             {
                 "actor": "Andy Serkis",
@@ -5948,7 +5948,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Mad Max": {
+    "Mad Max (1980)": {
         "main": [
             {
                 "actor": "Mel Gibson",
@@ -6036,7 +6036,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "The Road Warrior": {
+    "The Road Warrior (1982)": {
         "main": [
             {
                 "actor": "Mel Gibson",
@@ -6119,7 +6119,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "The Terminator": {
+    "The Terminator (1984)": {
         "main": [
             {
                 "actor": "Arnold Schwarzenegger",
