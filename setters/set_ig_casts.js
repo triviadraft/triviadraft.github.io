@@ -83,7 +83,7 @@ var ig_cast_map = {
             {
                 "actor": "Vic Tablian",
                 "name": "Barranca",
-                "description": "Jones's treacherous Peruvian guide"
+                "description": "Jones' treacherous Peruvian guide"
             },
             {
                 "actor": "Vic Tablian",
@@ -1402,7 +1402,7 @@ var ig_cast_map = {
             {
                 "actor": "Geoffrey Rush",
                 "name": "Hector Barbossa",
-                "description": "pirate resurrected by Tia Dalma to save Jack Sparrow from Davy Jones's locker"
+                "description": "pirate resurrected by Tia Dalma to save Jack Sparrow from Davy Jones' locker"
             }
         ]
     },
@@ -3962,7 +3962,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Transformers": {
+    "Transformers (2007)": {
         "main": [
             {
                 "actor": "Shia LaBeouf",
@@ -4044,7 +4044,7 @@ var ig_cast_map = {
             {
                 "actor": "Darius McCrary",
                 "name": "Jazz",
-                "description": "Optimus's second-in-command who transforms into a silver 2007 Pontiac Solstice"
+                "description": "Optimus' second-in-command who transforms into a silver 2007 Pontiac Solstice"
             },
             {
                 "actor": "Robert Foxworth",
@@ -4105,7 +4105,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Transformers: Revenge of the Fallen": {
+    "Transformers: Revenge of the Fallen (2009)": {
         "main": [
             {
                 "actor": "Shia LaBeouf",
@@ -4197,7 +4197,7 @@ var ig_cast_map = {
             {
                 "actor": "Jess Harnell",
                 "name": "Ironhide",
-                "description": "Autobot weapons specialist and Optimus's new second-in-command who transforms into a black 2009 GMC Topkick C4500"
+                "description": "Autobot weapons specialist and Optimus' new second-in-command who transforms into a black 2009 GMC Topkick C4500"
             },
             {
                 "actor": "Charlie Adler",
@@ -4268,7 +4268,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Transformers: Dark of the Moon": {
+    "Transformers: Dark of the Moon (2011)": {
         "main": [
             {
                 "actor": "Shia LaBeouf",
@@ -4365,7 +4365,7 @@ var ig_cast_map = {
             {
                 "actor": "Leonard Nimoy",
                 "name": "Sentinel Prime",
-                "description": "Optimus's predecessor as the leader of the Autobots and later a Decepticon double agent who transforms into a red and black Rosenbauer Panther Fire Truck"
+                "description": "Optimus' predecessor as the leader of the Autobots and later a Decepticon double agent who transforms into a red and black Rosenbauer Panther Fire Truck"
             },
             {
                 "actor": "Mark Ryan",
@@ -4486,7 +4486,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Transformers: Age of Extinction": {
+    "Transformers: Age of Extinction (2014)": {
         "main": [
             {
                 "actor": "Mark Wahlberg",
@@ -4619,7 +4619,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Power Rangers": {
+    "Power Rangers (2017)": {
         "main": [
             {
                 "actor": "Dacre Montgomery",
@@ -4757,7 +4757,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Transformers: The Last Knight": {
+    "Transformers: The Last Knight (2017)": {
         "main": [
             {
                 "actor": "Mark Wahlberg",
@@ -4930,7 +4930,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Bumblebee": {
+    "Bumblebee (2018)": {
         "main": [
             {
                 "actor": "Hailee Steinfeld",
@@ -4972,17 +4972,17 @@ var ig_cast_map = {
             {
                 "actor": "Pamela Adlon",
                 "name": "Sally Watson",
-                "description": "Charlie and Otis's mother"
+                "description": "Charlie and Otis' mother"
             },
             {
                 "actor": "Stephen Schneider",
                 "name": "Ron",
-                "description": "Sally's fianc\u00e9e and Charlie and Otis's soon-to-be stepfather"
+                "description": "Sally's fianc\u00e9e and Charlie and Otis' soon-to-be stepfather"
             },
             {
                 "actor": "Glynn Turman",
                 "name": "General Whalen",
-                "description": "Burns's superior at Sector 7"
+                "description": "Burns' superior at Sector 7"
             },
             {
                 "actor": "Angela Bassett",
@@ -5166,7 +5166,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Beneath the Planet of the Apes": {
+    "Beneath the Planet of the Apes (1970)": {
         "supporting": [
             {
                 "actor": "James Franciscus",
@@ -5252,7 +5252,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Escape from the Planet of the Apes": {
+    "Escape from the Planet of the Apes (1971)": {
         "main": [
             {
                 "actor": "Roddy McDowall",
@@ -5345,7 +5345,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Conquest of the Planet of the Apes": {
+    "Conquest of the Planet of the Apes (1972)": {
         "main": [
             {
                 "actor": "Roddy McDowall",
@@ -5433,7 +5433,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Battle for the Planet of the Apes": {
+    "Battle for the Planet of the Apes (1973)": {
         "main": [
             {
                 "actor": "Roddy McDowall",
@@ -5757,7 +5757,7 @@ var ig_cast_map = {
             }
         ]
     },
-    "Dawn of the Planet of the Apes": {
+    "Dawn of the Planet of the Apes (2014)": {
         "main": [
             {
                 "actor": "Andy Serkis",
@@ -7449,7 +7449,7 @@ var ig_cast_map = {
             {
                 "actor": "Paul Lazar",
                 "name": "Paul",
-                "description": "one of the rebels in Curtis's army who makes the protein blocks"
+                "description": "one of the rebels in Curtis' army who makes the protein blocks"
             }
         ],
         "supporting": [
@@ -7699,7 +7699,7 @@ var ig_cast_map = {
             {
                 "actor": "Dayo Okeniyi",
                 "name": "Danny Dyson",
-                "description": "Miles's son and Cyberdyne Systems' president; he co-creates the operating system Genisys with John Connor"
+                "description": "Miles' son and Cyberdyne Systems' president; he co-creates the operating system Genisys with John Connor"
             },
             {
                 "actor": "Courtney B. Vance",
@@ -9577,6 +9577,156 @@ var ig_cast_map = {
             {
                 "actor": "Sydni Beaudoin",
                 "name": "Cyan Simmons-Fitzgerald",
+                "description": ""
+            }
+        ]
+    },
+    "Men in Black II (2002)": {
+        "main": [
+            {
+                "actor": "Tommy Lee Jones",
+                "name": "Kevin Brown / Agent K",
+                "description": "decommissioned senior MIB agent and the only person who used to know how to stop the latest threat to Earth's safety"
+            },
+            {
+                "actor": "Will Smith",
+                "name": "James Darrell Edwards III / Agent J",
+                "description": "agent still on active duty with the MIB, he is not satisfied with the partners assigned to him and keeps neuralizing them."
+            },
+            {
+                "actor": "Rip Torn",
+                "name": "Chief Zed",
+                "description": "head of MIB"
+            },
+            {
+                "actor": "Lara Flynn Boyle",
+                "name": "Serleena",
+                "description": "shapeshifting alien who has come to Earth to find a vital power source used by her race's enemies"
+            },
+            {
+                "actor": "Johnny Knoxville",
+                "name": "Scrad / Charlie",
+                "description": "humanoid alien, with a second small head on a stalk protruding from his neck, who does Serleena's dirty work."
+            },
+            {
+                "actor": "Rosario Dawson",
+                "name": "Laura Vasquez",
+                "description": "young woman who turns out to be the long-lost alien princess from Zartha and the power source sought by Serleena"
+            }
+        ],
+        "supporting": [
+            {
+                "actor": "Tony Shalhoub",
+                "name": "Jack Jeebs",
+                "description": "alien pawn shop owner who uses a home-built machine to \"de-neuralize\" K and restore his memory"
+            },
+            {
+                "actor": "Patrick Warburton",
+                "name": "Agent T",
+                "description": "partnered of J, who neuralizes him and throws him out of the MIB after an incident with Jeff"
+            },
+            {
+                "actor": "David Cross",
+                "name": "Newton",
+                "description": ""
+            },
+            {
+                "actor": "Michael Jackson",
+                "name": "Agent M",
+                "description": ""
+            },
+            {
+                "actor": "Martha Stewart",
+                "name": "herself",
+                "description": ""
+            },
+            {
+                "actor": "Peter Graves",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Nick Cannon",
+                "name": "MIB Autopsy Agent",
+                "description": ""
+            },
+            {
+                "actor": "Martin Klebba",
+                "name": "Family Child Alien",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Joey",
+                "description": ""
+            },
+            {
+                "actor": "Tim Blaney",
+                "name": "voice of Frank the Pug",
+                "description": ""
+            }
+        ],
+        "": [
+            {
+                "actor": "Jack Kehler",
+                "name": "Ben",
+                "description": ""
+            }
+        ],
+        "minor": [
+            {
+                "actor": "Colombe Jacobsen",
+                "name": "Hailey",
+                "description": ""
+            },
+            {
+                "actor": "John Alexander",
+                "name": "Jarra",
+                "description": ""
+            },
+            {
+                "actor": "Linda Kim",
+                "name": "Princess Lauranna",
+                "description": "alien from Zartha and the secret mother of Laura"
+            },
+            {
+                "actor": "Paige Brooks",
+                "name": "Mysteries in History' Lauranna",
+                "description": ""
+            },
+            {
+                "actor": "Biz Markie",
+                "name": "Alien Beatboxer",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Howard",
+                "name": "Postal Sorting Alien",
+                "description": ""
+            },
+            {
+                "actor": "Brad Abrell",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Greg Ballora",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Thom Fountain",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Carl J. Johnson",
+                "name": "a Worm Guy",
+                "description": "worm-like alien that works for Men in Black"
+            },
+            {
+                "actor": "Richard Pearson",
+                "name": "Gordy",
                 "description": ""
             }
         ]
