@@ -218,34 +218,24 @@ def generate_jsons():
 
             ig_movie_dict[movie]['taglines'].append(row['tagline'])
 
-    with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(ig_movie_dict, indent=4))
-
-
-    # ig cast data
-    ig_cast_dict = {}
     with open(r'python/csv/actordata - casts.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
 
         for row in csvReader:
             movie = row['movie']
-
-            if movie not in ig_cast_dict:
-                ig_cast_dict[movie] = {}
-
-            level = row['level']
-            if level not in ig_cast_dict[movie]:
-                ig_cast_dict[movie][level] = []
+            cast_level = row['level'] + "Cast"
+            if cast_level not in ig_movie_dict[movie]:
+                ig_movie_dict[movie][cast_level] = []
 
             single_actor_dict = {}
             single_actor_dict['actor'] = row['actor']
             single_actor_dict['name'] = row['name']
             single_actor_dict['description'] = row['description']
 
-            ig_cast_dict[movie][level].append(single_actor_dict)
+            ig_movie_dict[movie][cast_level].append(single_actor_dict)
 
-    with open(r'python/json/ig-casts.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(ig_cast_dict, indent=4))
+    with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(ig_movie_dict, indent=4))
 
 
     # star wars character data

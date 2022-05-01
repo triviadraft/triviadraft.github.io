@@ -7,6 +7,12 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function getMapWithCasts(map) {
+    const asArray = Object.entries(map);
+    filtered = asArray.filter(([key, value]) => ig_movie_map[key]['supportingCast'] !== undefined);
+    return Object.fromEntries(filtered);
+}
+
 function getFilteredMap(map, filterVal) {
     const asArray = Object.entries(map);
     filtered = asArray.filter(([key, value]) => ig_movie_map[key]['categories'].includes(filterVal));
@@ -40,17 +46,17 @@ function showAnswers() {
 }
 
 function reset() {
-    if (typeof filterVal !== 'undefined') {
-        movies = randomItems(5, Object.keys(getFilteredMap(ig_cast_map, filterVal)));
+    if (typeof filterVal !== 'undefined' && filterVal) {
+        movies = randomItems(5, Object.keys(getFilteredMap(ig_movie_map_with_casts, filterVal)));
     } else {
-        movies = randomItems(5, Object.keys(ig_cast_map));
+        movies = randomItems(5, Object.keys(ig_movie_map_with_casts));
     }
 
     questions = [];
     answers = [];
     for (const movie of movies) {
         var category = randomItem(ig_movie_map[movie]['categories']);
-        var actor_list = ig_cast_map[movie]['supporting'];
+        var actor_list = ig_movie_map[movie]['supportingCast'];
         var random_list = randomItems(3, actor_list);
 
         var actor1 = random_list[0]['actor'];
@@ -71,11 +77,6 @@ function reset() {
 
         var question = 'What ' + category + ' film includes ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
         var answer = movie;
-
-        if (!movie.includes('(1') && !movie.includes('(2')) {
-            var year = ig_movie_map[movie]['year'];
-            answer += ' (' + year + ')';
-        }
 
         questions.push(question);
         answers.push(answer);
@@ -99,12 +100,14 @@ function reset() {
     document.getElementById('showAllBtn').disabled = false;
 }
 
-var movies = randomItems(5, Object.keys(ig_cast_map));
+var ig_movie_map_with_casts = getMapWithCasts(ig_movie_map);
+var movies = randomItems(5, Object.keys(ig_movie_map_with_casts));
+
 questions = [];
 answers = [];
 for (const movie of movies) {
     var category = randomItem(ig_movie_map[movie]['categories']);
-    var actor_list = ig_cast_map[movie]['supporting'];
+    var actor_list = ig_movie_map[movie]['supportingCast'];
     var random_list = randomItems(3, actor_list);
 
     var actor1 = random_list[0]['actor'];
@@ -125,11 +128,6 @@ for (const movie of movies) {
 
     var question = 'What ' + category + ' film includes ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
     var answer = movie;
-
-    if (!movie.includes('(1') && !movie.includes('(2')) {
-        var year = ig_movie_map[movie]['year'];
-        answer += ' (' + year + ')';
-    }
 
     questions.push(question);
     answers.push(answer);
