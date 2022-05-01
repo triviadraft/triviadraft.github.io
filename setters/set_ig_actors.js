@@ -1,5 +1,5 @@
 var ig_actor_map = {
-    "Raiders of the Lost Ark": {
+    "Raiders of the Lost Ark (1981)": {
         "main": [
             {
                 "actor": "Harrison Ford",
@@ -97,7 +97,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Indiana Jones and the Temple of Doom": {
+    "Indiana Jones and the Temple of Doom (1984)": {
         "main": [
             {
                 "actor": "Harrison Ford",
@@ -210,7 +210,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Indiana Jones and the Last Crusade": {
+    "Indiana Jones and the Last Crusade (1989)": {
         "main": [
             {
                 "actor": "Harrison Ford",
@@ -313,7 +313,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Dick Tracy": {
+    "Dick Tracy (1990)": {
         "main": [
             {
                 "actor": "Warren Beatty",
@@ -611,7 +611,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Darkman": {
+    "Darkman (1990)": {
         "main": [
             {
                 "actor": "Liam Neeson",
@@ -749,7 +749,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Rocketeer": {
+    "The Rocketeer (1991)": {
         "main": [
             {
                 "actor": "Billy Campbell",
@@ -907,7 +907,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Shadow": {
+    "The Shadow (1994)": {
         "main": [
             {
                 "actor": "Alec Baldwin",
@@ -1005,7 +1005,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Phantom": {
+    "The Phantom (1996)": {
         "main": [
             {
                 "actor": "Billy Zane",
@@ -1098,7 +1098,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "The Mask of Zorro": {
+    "The Mask of Zorro (1998)": {
         "main": [
             {
                 "actor": "Antonio Banderas",
@@ -9074,7 +9074,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Tank Girl": {
+    "Tank Girl (1995)": {
         "main": [
             {
                 "actor": "Lori Petty",
@@ -9237,7 +9237,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Judge Dredd": {
+    "Judge Dredd (1995)": {
         "main": [
             {
                 "actor": "Sylvester Stallone",
@@ -9380,7 +9380,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Men in Black": {
+    "Men in Black (1997)": {
         "main": [
             {
                 "actor": "Tommy Lee Jones",
@@ -9513,7 +9513,7 @@ var ig_actor_map = {
             }
         ]
     },
-    "Spawn": {
+    "Spawn (1997)": {
         "main": [
             {
                 "actor": "Michael Jai White",

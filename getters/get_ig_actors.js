@@ -38,7 +38,7 @@ function reset() {
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var category = randomItem(movie_map[movie]['categories'].split(","));
+        var category = randomItem(ig_movie_map[movie]['categories']);
         var actor_list = ig_actor_map[movie]['supporting'];
         var random_list = randomItems(3, actor_list);
 
@@ -62,7 +62,7 @@ function reset() {
         var answer = movie;
 
         if (!movie.includes('(1') && !movie.includes('(2')) {
-            var year = movie_map[movie]['year'];
+            var year = ig_movie_map[movie]['year'];
             answer += ' (' + year + ')';
         }
 
@@ -92,7 +92,7 @@ var movies = randomItems(5, Object.keys(ig_actor_map));
 questions = [];
 answers = [];
 for (const movie of movies) {
-    var category = randomItem(movie_map[movie]['categories'].split(","));
+    var category = randomItem(ig_movie_map[movie]['categories']);
     var actor_list = ig_actor_map[movie]['supporting'];
     var random_list = randomItems(3, actor_list);
 
@@ -116,7 +116,7 @@ for (const movie of movies) {
     var answer = movie;
 
     if (!movie.includes('(1') && !movie.includes('(2')) {
-        var year = movie_map[movie]['year'];
+        var year = ig_movie_map[movie]['year'];
         answer += ' (' + year + ')';
     }
 

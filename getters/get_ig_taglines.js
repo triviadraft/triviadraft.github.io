@@ -60,11 +60,6 @@ function reset() {
         var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
         var answer = movie;
 
-        if (!movie.includes('(1') && !movie.includes('(2')) {
-            var year = movie_map[movie]['year'];
-            answer += ' (' + year + ')';
-        }
-
         questions.push(question);
         answers.push(answer);
     }
@@ -97,11 +92,6 @@ for (const movie of movies) {
     var random_tagline = randomItem(ig_movie_map[movie]['taglines']);
     var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
     var answer = movie;
-
-    if (!movie.includes('(1') && !movie.includes('(2')) {
-        var year = movie_map[movie]['year'];
-        answer += ' (' + year + ')';
-    }
 
     questions.push(question);
     answers.push(answer);
