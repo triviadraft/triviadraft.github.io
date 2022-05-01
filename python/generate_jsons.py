@@ -222,8 +222,8 @@ def generate_jsons():
         jsonf.write(json.dumps(ig_movie_dict, indent=4))
 
 
-    # ig actor data
-    ig_actor_dict = {}
+    # ig cast data
+    ig_cast_dict = {}
     with open(r'python/csv/actordata - actors.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
 
@@ -231,21 +231,21 @@ def generate_jsons():
             movie = row['movie']
 
             if movie not in ig_actor_dict:
-                ig_actor_dict[movie] = {}
+                ig_cast_dict[movie] = {}
 
             level = row['level']
             if level not in ig_actor_dict[movie]:
-                ig_actor_dict[movie][level] = []
+                ig_cast_dict[movie][level] = []
 
             single_actor_dict = {}
             single_actor_dict['actor'] = row['actor']
             single_actor_dict['name'] = row['name']
             single_actor_dict['description'] = row['description']
 
-            ig_actor_dict[movie][level].append(single_actor_dict)
+            ig_cast_dict[movie][level].append(single_actor_dict)
 
-    with open(r'python/json/ig-actors.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(ig_actor_dict, indent=4))
+    with open(r'python/json/ig-casts.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(ig_cast_dict, indent=4))
 
 
     # star wars character data
