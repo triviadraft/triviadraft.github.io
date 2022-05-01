@@ -238,6 +238,10 @@ def generate_jsons():
         jsonf.write(json.dumps(ig_movie_dict, indent=4))
 
 
+    ################################################################################################
+    ##### SW Data ##################################################################################
+    ################################################################################################
+
     # star wars character data
     sw_character_dict = {}
     with open(r'python/csv/actordata - sw-characters.csv', encoding='utf-8') as csvf:

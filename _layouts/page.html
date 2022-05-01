@@ -177,9 +177,11 @@
         document.getElementById("question4").innerHTML = questions[3];
         document.getElementById("question5").innerHTML = questions[4];
         document.addEventListener('DOMContentLoaded', function () {
-            document.getElementById('filter').onchange = function () {
-                filterVal = this.value;
-                reset();
+            if (document.getElementById('filter')) {
+                document.getElementById('filter').onchange = function () {
+                    filterVal = this.value;
+                    reset();
+                }
             }
         });
     </script>
