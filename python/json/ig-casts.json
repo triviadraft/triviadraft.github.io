@@ -2113,7 +2113,7 @@
             }
         ]
     },
-    "Jurassic Park III": {
+    "Jurassic Park III (2001)": {
         "main": [
             {
                 "actor": "Sam Neill",
@@ -2184,7 +2184,7 @@
             }
         ]
     },
-    "Jurassic World": {
+    "Jurassic World (2015)": {
         "main": [
             {
                 "actor": "Chris Pratt",
@@ -2260,7 +2260,7 @@
             }
         ]
     },
-    "Jurassic World: Fallen Kingdom": {
+    "Jurassic World: Fallen Kingdom (2018)": {
         "main": [
             {
                 "actor": "Chris Pratt",
@@ -2331,7 +2331,7 @@
             }
         ]
     },
-    "Alien": {
+    "Alien (1979)": {
         "main": [
             {
                 "actor": "Tom Skerritt",
@@ -2394,7 +2394,7 @@
             }
         ]
     },
-    "Aliens": {
+    "Aliens (1986)": {
         "main": [
             {
                 "actor": "Sigourney Weaver",
@@ -2497,7 +2497,7 @@
             }
         ]
     },
-    "Predator": {
+    "Predator (1987)": {
         "main": [
             {
                 "actor": "Arnold Schwarzenegger",
@@ -2563,7 +2563,7 @@
             }
         ]
     },
-    "Predator 2": {
+    "Predator 2 (1990)": {
         "main": [
             {
                 "actor": "Danny Glover",
@@ -2701,7 +2701,7 @@
             }
         ]
     },
-    "Alien 3": {
+    "Alien 3 (1992)": {
         "main": [
             {
                 "actor": "Sigourney Weaver",
@@ -2829,7 +2829,7 @@
             }
         ]
     },
-    "Alien Resurrection": {
+    "Alien Resurrection (1997)": {
         "main": [
             {
                 "actor": "Sigourney Weaver",
@@ -8321,7 +8321,7 @@
             }
         ]
     },
-    "Labyrinth": {
+    "Labyrinth (1986)": {
         "main": [
             {
                 "actor": "David Bowie",
@@ -8562,7 +8562,7 @@
             }
         ]
     },
-    "Willow": {
+    "Willow (1988)": {
         "main": [
             {
                 "actor": "Warwick Davis",
@@ -8685,7 +8685,7 @@
             }
         ]
     },
-    "RoboCop 2": {
+    "RoboCop 2 (1990)": {
         "main": [
             {
                 "actor": "Peter Weller",
@@ -8868,7 +8868,7 @@
             }
         ]
     },
-    "RoboCop 3": {
+    "RoboCop 3 (1993)": {
         "main": [
             {
                 "actor": "Robert Burke",
@@ -8986,7 +8986,7 @@
             }
         ]
     },
-    "Timecop": {
+    "Timecop (1994)": {
         "main": [
             {
                 "actor": "Jean-Claude Van Damme",
