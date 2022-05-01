@@ -33,7 +33,7 @@ function showAnswers() {
 }
 
 function reset() { 
-    mts_questions = randomItems(5, mts_question_map['questions']);
+    var mts_questions = randomItems(5, mts_question_map['questions']);
 
     questions = [];
     answers = [];
@@ -67,18 +67,6 @@ function reset() {
     document.getElementById('showAllBtn').disabled = false;
 }
 
-var mts_questions = randomItems(5, mts_question_map['questions']);
-
 questions = [];
 answers = [];
-for (const mts_question of mts_questions) {
-    var question = '';
-    if (mts_question['category'] != 'N/A') {
-        question = '(' + mts_question['category'] + ') ';
-    }
-    question = question + mts_question['question'];
-    var answer = mts_question['answer'];
-
-    questions.push(question);
-    answers.push(answer);
-}
+reset();

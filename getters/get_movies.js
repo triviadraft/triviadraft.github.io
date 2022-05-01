@@ -49,9 +49,9 @@ function showAnswers() {
 
 function reset() {
     if (typeof filterVal !== 'undefined' && filterVal) {
-        movies = randomItems(5, Object.keys(getFilteredMap(movie_map, filterVal)));
+        var movies = randomItems(5, Object.keys(getFilteredMap(movie_map, filterVal)));
     } else {
-        movies = randomItems(5, Object.keys(movie_map));
+        var movies = randomItems(5, Object.keys(movie_map));
     }
 
     questions = [];
@@ -101,33 +101,6 @@ function reset() {
     document.getElementById('showAllBtn').disabled = false;
 }
 
-var movies = randomItems(5, Object.keys(movie_map));
-
 questions = [];
 answers = [];
-for (const movie of movies) {
-    var title = movie_map[movie]['title'];
-    var year = movie_map[movie]['year'];
-    var question_types = ['year','synopsis','actors'];
-    if (movie_map[movie]['directors'][0] in director_map) {
-            question_types.push('director');
-    }
-    var question_type = randomItem(question_types);
-
-    if (question_type == 'year') {
-        var question = 'In what year was ' + makeString(movie_map[movie]['directors']) + '\'s ' + title + ' released?';
-        var answer = year;
-    } else if (question_type == 'synopsis') {
-        var question = 'What ' + year + ' movie has the synopsis "' + movie_map[movie]['synopsis'] + '"?'
-        var answer = title;
-    } else if (question_type == 'director') {
-        var question = 'Who directed ' + title + ' in ' + year + '?';
-        var answer = makeString(movie_map[movie]['directors']);
-    } else if (question_type == 'actors') {
-        var question = 'What ' + year + ' movie has the lead actors ' + makeString(movie_map[movie]['leads']) + '?';
-        var answer = title;
-    }
-
-    questions.push(question);
-    answers.push(answer);
-}
+reset();

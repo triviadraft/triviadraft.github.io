@@ -34,7 +34,7 @@ function showAnswers() {
 }
 
 function reset() { 
-    directors = randomItems(5, Object.keys(director_map));
+    var directors = randomItems(5, Object.keys(director_map));
 
     questions = [];
     answers = [];
@@ -74,24 +74,6 @@ function reset() {
     document.getElementById('showAllBtn').disabled = false;
 }
 
-var directors = randomItems(5, Object.keys(director_map));
-
 questions = [];
 answers = [];
-for (const director of directors) {
-    var question_types = ['director','movie'];
-    var question_type = randomItem(question_types);
-    var director_movies = director_map[director];
-    var director_movie = randomItem(director_movies);
-
-    if (question_type == 'director') {
-        var question = 'Who directed ' + director_movie['movie'] + ' in ' + director_movie['year'] + '?';
-        var answer = director;
-    } else if (question_type == 'movie') {
-        var question = director + ' directed what movie in ' + director_movie['year'] + '?';
-        var answer = director_movie['movie'];
-    }
-
-    questions.push(question);
-    answers.push(answer);
-}
+reset();

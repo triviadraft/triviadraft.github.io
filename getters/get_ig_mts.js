@@ -50,9 +50,9 @@ function showAnswers() {
 
 function reset() { 
     if (typeof filterVal !== 'undefined' && filterVal) {
-        mts_questions = randomItems(5, getFilteredList(mts_question_map['questions'], filterVal));
+        var mts_questions = randomItems(5, getFilteredList(mts_question_map['questions'], filterVal));
     } else {
-        mts_questions = randomItems(5, mts_question_map['questions']);
+        var mts_questions = randomItems(5, mts_question_map['questions']);
     }
 
     questions = [];
@@ -87,18 +87,6 @@ function reset() {
     document.getElementById('showAllBtn').disabled = false;
 }
 
-var mts_questions = randomItems(5, mts_question_map['questions']);
-
 questions = [];
 answers = [];
-for (const mts_question of mts_questions) {
-    var question = '';
-    if (mts_question['category'] != 'N/A') {
-        question = '(' + mts_question['category'] + ') ';
-    }
-    question = question + mts_question['question'];
-    var answer = mts_question['answer'];
-
-    questions.push(question);
-    answers.push(answer);
-}
+reset();

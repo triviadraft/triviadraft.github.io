@@ -46,9 +46,9 @@ function showAnswers() {
 
 function reset() {
     if (typeof filterVal !== 'undefined' && filterVal) {
-        movies = randomItems(5, Object.keys(getFilteredMap(ig_movie_map_with_taglines, filterVal)));
+        var movies = randomItems(5, Object.keys(getFilteredMap(ig_movie_map_with_taglines, filterVal)));
     } else {
-        movies = randomItems(5, Object.keys(ig_movie_map_with_taglines));
+        var movies = randomItems(5, Object.keys(ig_movie_map_with_taglines));
     }
 
     questions = [];
@@ -82,16 +82,7 @@ function reset() {
 }
 
 var ig_movie_map_with_taglines = getMapWithTaglines(ig_movie_map);
-var movies = randomItems(5, Object.keys(ig_movie_map_with_taglines));
+var questions = [];
+var answers = [];
 
-questions = [];
-answers = [];
-for (const movie of movies) {
-    var category = randomItem(ig_movie_map[movie]['categories']);
-    var random_tagline = randomItem(ig_movie_map[movie]['taglines']);
-    var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
-    var answer = movie;
-
-    questions.push(question);
-    answers.push(answer);
-}
+reset();
