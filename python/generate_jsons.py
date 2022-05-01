@@ -181,17 +181,42 @@ def generate_jsons():
         jsonf.write(json.dumps(director_dict, indent=4))
 
 
+    ################################################################################################
+    ##### IG Data ##################################################################################
+    ################################################################################################
+
     # ig movie data
     ig_movie_dict = {}
     with open(r'python/csv/actordata - movies.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
+            title = row['movie']
+            year = row['release'][-4:]
+            if movie.endswith(')'):
+                title = title[:-7]
+            else:
+                movie += ' (' + year + ')'
             single_movie_dict = {
-                'year': row['release'][-4:],
-                'categories': row['categories']
+                'title': title,
+                'year': year,
+                'categories': row['categories'].split(','),
             }
             ig_movie_dict[movie] = single_movie_dict
+
+    with open(r'python/csv/actordata - taglines.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            movie = row['movie']
+
+            if not movie.endswith(')'):
+                title = title[:-7]
+                movie += ' (' + row['release'][-4:] + ')'
+
+            if 'taglines' not in ig_movie_dict[movie]:
+                ig_movie_dict[movie]['taglines'] = []
+
+            ig_movie_dict[movie]['taglines'].append(row['tagline'])
 
     with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(ig_movie_dict, indent=4))
@@ -221,22 +246,6 @@ def generate_jsons():
 
     with open(r'python/json/ig-actors.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(ig_actor_dict, indent=4))
-
-
-    # tagline data
-    tagline_dict = {}
-    with open(r'python/csv/actordata - taglines.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            movie = row['movie']
-
-            if movie not in tagline_dict:
-                tagline_dict[movie] = []
-
-            tagline_dict[movie].append(row['tagline'])
-
-    with open(r'python/json/ig-taglines.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(tagline_dict, indent=4))
 
 
     # star wars character data

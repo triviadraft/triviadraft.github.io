@@ -7,9 +7,15 @@ function randomItems(n, items) {
     return shuffled.slice(0, n);
 }
 
+function getMapWithTaglines(map) {
+    const asArray = Object.entries(map);
+    filtered = asArray.filter(([key, value]) => ig_movie_map[key]['taglines'] !== undefined);
+    return Object.fromEntries(filtered);
+}
+
 function getFilteredMap(map, filterVal) {
     const asArray = Object.entries(map);
-    filtered = asArray.filter(([key, value]) => movie_map[key]['categories'].includes(filterVal));
+    filtered = asArray.filter(([key, value]) => ig_movie_map[key]['categories'].includes(filterVal));
     return Object.fromEntries(filtered);
 }
 
@@ -38,18 +44,19 @@ function showAnswers() {
     document.getElementById('showAllBtn').disabled = true;
 }
 
-function reset() { 
+function reset() {
+
     if (typeof filterVal !== 'undefined') {
-        movies = randomItems(5, Object.keys(getFilteredMap(tagline_map, filterVal)));
+        movies = randomItems(5, Object.keys(getFilteredMap(ig_movie_map_with_taglines, filterVal)));
     } else {
-        movies = randomItems(5, Object.keys(tagline_map));
+        movies = randomItems(5, Object.keys(ig_movie_map_with_taglines));
     }
 
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var category = randomItem(movie_map[movie]['categories'].split(","));
-        var random_tagline = randomItem(tagline_map[movie]);
+       var category = randomItem(ig_movie_map[movie]['categories']);
+        var random_tagline = randomItem(ig_movie_map[movie]['taglines']);
         var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
         var answer = movie;
 
@@ -80,13 +87,14 @@ function reset() {
     document.getElementById('showAllBtn').disabled = false;
 }
 
-var movies = randomItems(5, Object.keys(tagline_map));
+var ig_movie_map_with_taglines = getMapWithTaglines(ig_movie_map);
+var movies = randomItems(5, Object.keys(ig_movie_map_with_taglines));
 
 questions = [];
 answers = [];
 for (const movie of movies) {
-    var category = randomItem(movie_map[movie]['categories'].split(","));
-    var random_tagline = randomItem(tagline_map[movie]);
+    var category = randomItem(ig_movie_map[movie]['categories']);
+    var random_tagline = randomItem(ig_movie_map[movie]['taglines']);
     var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
     var answer = movie;
 
