@@ -16,20 +16,20 @@ function getFilteredList(list, filterVal) {
 
 function reset() { 
     if (typeof filterVal !== 'undefined' && filterVal) {
-        var mts_questions = randomItems(5, getFilteredList(mts_question_map['questions'], filterVal));
+        var mtsQuestions = randomItems(5, getFilteredList(mtsQuestionMap['questions'], filterVal));
     } else {
-        var mts_questions = randomItems(5, mts_question_map['questions']);
+        var mtsQuestions = randomItems(5, mtsQuestionMap['questions']);
     }
 
     questions = [];
     answers = [];
-    for (const mts_question of mts_questions) {
+    for (const mtsQuestion of mtsQuestions) {
         var question = '';
-        if ((typeof filterVal === 'undefined' && mts_question['category'] != 'N/A') || (typeof filterVal !== 'undefined' && !filterVal && mts_question['category'] != 'N/A')) {
-            question = '(' + mts_question['category'] + ') ';
+        if ((typeof filterVal === 'undefined' && mtsQuestion['category'] != 'N/A') || (typeof filterVal !== 'undefined' && !filterVal && mtsQuestion['category'] != 'N/A')) {
+            question = '(' + mtsQuestion['category'] + ') ';
         }
-        question = question + mts_question['question'];
-        var answer = mts_question['answer'];
+        question = question + mtsQuestion['question'];
+        var answer = mtsQuestion['answer'];
 
         questions.push(question);
         answers.push(answer);

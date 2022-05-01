@@ -1,4 +1,4 @@
-var movie_map = {
+var movieMap = {
     "The Ten Commandments (1923)": {
         "title": "The Ten Commandments",
         "year": "1923",

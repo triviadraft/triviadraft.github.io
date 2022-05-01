@@ -1,4 +1,4 @@
-var sw_character_map = {
+var swCharacterMap = {
     "2-1B": {
         "name": "2-1B",
         "homeworld": "",

@@ -1,20 +1,20 @@
 function reset() { 
-    var directors = randomItems(5, Object.keys(director_map));
+    var directors = randomItems(5, Object.keys(directorMap));
 
     questions = [];
     answers = [];
     for (const director of directors) {
-        var question_types = ['director','movie'];
-        var question_type = randomItem(question_types);
-        var director_movies = director_map[director];
-        var director_movie = randomItem(director_movies);
+        var questionTypes = ['director','movie'];
+        var questionType = randomItem(questionTypes);
+        var directorMovies = directorMap[director];
+        var directorMovie = randomItem(directorMovies);
 
-        if (question_type == 'director') {
-            var question = 'Who directed ' + director_movie['movie'] + ' in ' + director_movie['year'] + '?';
+        if (questionType == 'director') {
+            var question = 'Who directed ' + directorMovie['movie'] + ' in ' + directorMovie['year'] + '?';
             var answer = director;
-        } else if (question_type == 'movie') {
-            var question = director + ' directed what movie in ' + director_movie['year'] + '?';
-            var answer = director_movie['movie'];
+        } else if (questionType == 'movie') {
+            var question = director + ' directed what movie in ' + directorMovie['year'] + '?';
+            var answer = directorMovie['movie'];
         }
 
         questions.push(question);

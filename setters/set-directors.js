@@ -1,4 +1,4 @@
-var director_map = {
+var directorMap = {
     "Aaron Sorkin": [
         {
             "movie": "Molly's Game",

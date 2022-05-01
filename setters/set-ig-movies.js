@@ -1,4 +1,4 @@
-var ig_movie_map = {
+var igMovieMap = {
     "Batman (1966)": {
         "title": "Batman",
         "year": "1966",

@@ -1,28 +1,28 @@
 function getMapWithTaglines(map) {
     const asArray = Object.entries(map);
-    filtered = asArray.filter(([key, value]) => ig_movie_map[key]['taglines'] !== undefined);
+    filtered = asArray.filter(([key, value]) => igMovieMap[key]['taglines'] !== undefined);
     return Object.fromEntries(filtered);
 }
 
 function getFilteredMap(map, filterVal) {
     const asArray = Object.entries(map);
-    filtered = asArray.filter(([key, value]) => ig_movie_map[key]['categories'].includes(filterVal));
+    filtered = asArray.filter(([key, value]) => igMovieMap[key]['categories'].includes(filterVal));
     return Object.fromEntries(filtered);
 }
 
 function reset() {
     if (typeof filterVal !== 'undefined' && filterVal) {
-        var movies = randomItems(5, Object.keys(getFilteredMap(ig_movie_map_with_taglines, filterVal)));
+        var movies = randomItems(5, Object.keys(getFilteredMap(igMovieMapWithTaglines, filterVal)));
     } else {
-        var movies = randomItems(5, Object.keys(ig_movie_map_with_taglines));
+        var movies = randomItems(5, Object.keys(igMovieMapWithTaglines));
     }
 
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var category = randomItem(ig_movie_map[movie]['categories']);
-        var random_tagline = randomItem(ig_movie_map[movie]['taglines']);
-        var question = 'What ' + category + ' film has the tagline "' + random_tagline + '"?';
+        var category = randomItem(igMovieMap[movie]['categories']);
+        var randomTagline = randomItem(igMovieMap[movie]['taglines']);
+        var question = 'What ' + category + ' film has the tagline "' + randomTagline + '"?';
         var answer = movie;
 
         questions.push(question);
@@ -37,7 +37,7 @@ function reset() {
     resetAnswers();
 }
 
-var ig_movie_map_with_taglines = getMapWithTaglines(ig_movie_map);
+var igMovieMapWithTaglines = getMapWithTaglines(igMovieMap);
 var questions = [];
 var answers = [];
 

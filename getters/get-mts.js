@@ -1,15 +1,15 @@
 function reset() { 
-    var mts_questions = randomItems(5, mts_question_map['questions']);
+    var mtsQuestions = randomItems(5, mtsQuestionMap['questions']);
 
     questions = [];
     answers = [];
-    for (const mts_question of mts_questions) {
+    for (const mtsQuestion of mtsQuestions) {
         var question = '';
-        if (mts_question['category'] != 'N/A') {
-            question = '(' + mts_question['category'] + ') ';
+        if (mtsQuestion['category'] != 'N/A') {
+            question = '(' + mtsQuestion['category'] + ') ';
         }
-        question = question + mts_question['question'];
-        var answer = mts_question['answer'];
+        question = question + mtsQuestion['question'];
+        var answer = mtsQuestion['answer'];
 
         questions.push(question);
         answers.push(answer);

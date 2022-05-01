@@ -1,35 +1,35 @@
 function reset() { 
-    var characters = randomItems(5, Object.keys(sw_character_map));
+    var characters = randomItems(5, Object.keys(swCharacterMap));
 
     questions = [];
     answers = [];
     for (const character of characters) {
-        var question_types = [];
-        var homeworld = sw_character_map[character]['homeworld'];
-        var species = sw_character_map[character]['species'];
-        var actor = sw_character_map[character]['actor'];
+        var questionTypes = [];
+        var homeworld = swCharacterMap[character]['homeworld'];
+        var species = swCharacterMap[character]['species'];
+        var actor = swCharacterMap[character]['actor'];
         if (homeworld) {
-            question_types.push('homeworld');
+            questionTypes.push('homeworld');
         }
         if (species && !species.startsWith('Human')) {
-            question_types.push('species');
+            questionTypes.push('species');
         }
         if (actor) {
-            question_types.push('actor');
+            questionTypes.push('actor');
         }
-        var question_type = randomItem(question_types);
+        var questionType = randomItem(questionTypes);
 
-        if (question_type == 'homeworld') {
+        if (questionType == 'homeworld') {
             var question = 'What is the homeworld of ' + character + '?';
             var answer = homeworld;
-        } else if (question_type == 'species') {
+        } else if (questionType == 'species') {
             if (species.includes('droid')) {
                 var question = character + ' is what droid model?';
             } else {
                 var question = character + ' is what species?';
             }
             var answer = species;
-        } else if (question_type == 'actor') {
+        } else if (questionType == 'actor') {
             var question = 'Who portrays ' + character + '?';
             var answer = actor;
         }

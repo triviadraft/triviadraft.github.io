@@ -6,33 +6,33 @@ function getFilteredMap(map, filterVal) {
 
 function reset() {
     if (typeof filterVal !== 'undefined' && filterVal) {
-        var movies = randomItems(5, Object.keys(getFilteredMap(movie_map, filterVal)));
+        var movies = randomItems(5, Object.keys(getFilteredMap(movieMap, filterVal)));
     } else {
-        var movies = randomItems(5, Object.keys(movie_map));
+        var movies = randomItems(5, Object.keys(movieMap));
     }
 
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var title = movie_map[movie]['title'];
-        var year = movie_map[movie]['year'];
-        var question_types = ['year','synopsis','actors'];
-        if (movie_map[movie]['directors'][0] in director_map) {
-            question_types.push('director');
+        var title = movieMap[movie]['title'];
+        var year = movieMap[movie]['year'];
+        var questionTypes = ['year','synopsis','actors'];
+        if (movieMap[movie]['directors'][0] in directorMap) {
+            questionTypes.push('director');
         }
-        var question_type = randomItem(question_types);
+        var questionType = randomItem(questionTypes);
 
-        if (question_type == 'year') {
-            var question = 'In what year was ' + makeNameString(movie_map[movie]['directors']) + '\'s ' + title + ' released?';
+        if (questionType == 'year') {
+            var question = 'In what year was ' + makeNameString(movieMap[movie]['directors']) + '\'s ' + title + ' released?';
             var answer = year;
-        } else if (question_type == 'synopsis') {
-            var question = 'What ' + year + ' movie has the synopsis "' + movie_map[movie]['synopsis'] + '"?'
+        } else if (questionType == 'synopsis') {
+            var question = 'What ' + year + ' movie has the synopsis "' + movieMap[movie]['synopsis'] + '"?'
             var answer = title;
-        } else if (question_type == 'director') {
+        } else if (questionType == 'director') {
             var question = 'Who directed ' + title + ' in ' + year + '?';
-            var answer = makeNameString(movie_map[movie]['directors']);
-        } else if (question_type == 'actors') {
-            var question = 'What ' + year + ' movie has the lead actors ' + makeNameString(movie_map[movie]['leads']) + '?';
+            var answer = makeNameString(movieMap[movie]['directors']);
+        } else if (questionType == 'actors') {
+            var question = 'What ' + year + ' movie has the lead actors ' + makeNameString(movieMap[movie]['leads']) + '?';
             var answer = title;
         }
 

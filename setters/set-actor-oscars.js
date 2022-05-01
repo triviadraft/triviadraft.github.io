@@ -1,4 +1,4 @@
-var actor_oscar_map = {
+var actorOscarMap = {
     "Abigail Breslin": {
         "supporting": [
             {
