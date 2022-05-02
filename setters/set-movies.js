@@ -50574,6 +50574,25 @@ var movieMap = {
             "1990s",
             "Comic Book",
             "Frat Pack"
+        ],
+        "cast": [
+            "Hank Azaria",
+            "Claire Forlani",
+            "Janeane Garofalo",
+            "Greg Kinnear",
+            "William H. Macy",
+            "Kel Mitchell",
+            "Lena Olin",
+            "Paul Reubens",
+            "Geoffrey Rush",
+            "Ben Stiller",
+            "Wes Studi",
+            "Tom Waits",
+            "Eddie Izzard",
+            "Artie Lange",
+            "Jenifer Lewis",
+            "Dane Cook",
+            "Doug Jones"
         ]
     },
     "The Iron Giant (1999)": {
@@ -96617,6 +96636,19 @@ var movieMap = {
             "Quentin Tarantino & Robert Rodriguez",
             "Samuel L. Jackson",
             "Westerns"
+        ],
+        "cast": [
+            "Samuel L. Jackson",
+            "Kurt Russell",
+            "Jennifer Jason Leigh",
+            "Walton Goggins",
+            "Demi\u00e1n Bichir",
+            "Tim Roth",
+            "Michael Madsen",
+            "Bruce Dern",
+            "James Parks",
+            "Zo\u00eb Bell",
+            "Channing Tatum"
         ]
     },
     "The Revenant (2015)": {
@@ -101854,6 +101886,16 @@ var movieMap = {
             "Charlize Theron",
             "Graphic Novels",
             "Spy"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "James McAvoy",
+            "John Goodman",
+            "Eddie Marsan",
+            "Sofia Boutella",
+            "Toby Jones",
+            "Sam Hargrave",
+            "Bill Skarsg\u00e5rd"
         ]
     },
     "Brigsby Bear (2017)": {
