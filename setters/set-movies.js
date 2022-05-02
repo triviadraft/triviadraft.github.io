@@ -14267,6 +14267,15 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Sissy Spacek",
+            "Piper Laurie",
+            "Amy Irving",
+            "John Travolta",
+            "Nancy Allen",
+            "P. J. Soles",
+            "Edie McClurg"
         ]
     },
     "Rocky (1976)": {
@@ -17552,6 +17561,18 @@ var movieMap = {
             "John Candy",
             "Ramis & Reitmans",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Bill Murray",
+            "Harold Ramis",
+            "Warren Oates",
+            "P. J. Soles",
+            "Sean Young",
+            "John Candy",
+            "John Larroquette",
+            "Judge Reinhold",
+            "Dave Thomas",
+            "Bill Paxton"
         ]
     },
     "The Great Muppet Caper (1981)": {
@@ -21685,6 +21706,14 @@ var movieMap = {
             "Coming of Age",
             "John Hughes",
             "Sheens"
+        ],
+        "cast": [
+            "Judd Nelson",
+            "Molly Ringwald",
+            "Emilio Estevez",
+            "Anthony Michael Hall",
+            "Ally Sheedy",
+            "Paul Gleason"
         ]
     },
     "The Mean Season (1985)": {
@@ -24546,6 +24575,14 @@ var movieMap = {
             "Comedies",
             "SCTV Alumni",
             "SNL & Lorne Michaels"
+        ],
+        "cast": [
+            "Steve Martin",
+            "Chevy Chase",
+            "Martin Short",
+            "Phil Hartman",
+            "Jon Lovitz",
+            "Randy Newman"
         ]
     },
     "King Kong Lives (1986)": {
@@ -51105,6 +51142,17 @@ var movieMap = {
             "Reginas",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Taye Diggs",
+            "Nia Long",
+            "Morris Chestnut",
+            "Harold Perrineau",
+            "Terrence Howard",
+            "Sanaa Lathan",
+            "Melissa De Sousa",
+            "Monica Calhoun",
+            "Regina Hall"
         ]
     },
     "Three to Tango (1999)": {
@@ -61516,6 +61564,29 @@ var movieMap = {
             "Holiday",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Emma Thompson",
+            "Hugh Grant",
+            "Keira Knightley",
+            "Colin Firth",
+            "Sienna Guillory",
+            "Liam Neeson",
+            "Thomas Brodie-Sangster",
+            "Bill Nighy",
+            "Martine McCutcheon",
+            "Chiwetel Ejiofor",
+            "Andrew Lincoln",
+            "Laura Linney",
+            "Rodrigo Santoro",
+            "Martin Freeman",
+            "Olivia Olson",
+            "Billy Bob Thornton",
+            "Rowan Atkinson",
+            "January Jones",
+            "Shannon Elizabeth",
+            "Denise Richards"
         ]
     },
     "Master and Commander: The Far Side of the World (2003)": {
@@ -116854,6 +116925,23 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Gemma Chan",
+            "Richard Madden",
+            "Kumail Nanjiani",
+            "Lia McHugh",
+            "Brian Tyree Henry",
+            "Lauren Ridloff",
+            "Barry Keoghan",
+            "Don Lee",
+            "Kit Harington",
+            "Salma Hayek",
+            "Angelina Jolie",
+            "Bill Skarsg\u00e5rd",
+            "Harry Styles",
+            "Patton Oswalt",
+            "Mahershala Ali"
         ]
     },
     "Finch (2021)": {
