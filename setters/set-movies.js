@@ -8853,7 +8853,8 @@ var movieMap = {
             "1960s",
             "Batman",
             "Classics",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "A Man Called Adam (1966)": {
@@ -15566,6 +15567,7 @@ var movieMap = {
         "categories": [
             "1970s",
             "Comic Book",
+            "DC",
             "Gene Hackman",
             "Richard Donner",
             "Superman"
@@ -17461,6 +17463,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comic Book",
+            "DC",
             "Gene Hackman",
             "Superman"
         ]
@@ -18289,6 +18292,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comic Book",
+            "DC",
             "Horror",
             "Horror/Thriller"
         ]
@@ -19632,6 +19636,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comic Book",
+            "DC",
             "Superman"
         ]
     },
@@ -21400,7 +21405,8 @@ var movieMap = {
         ],
         "categories": [
             "1980s",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "Beverly Hills Cop (1984)": {
@@ -25337,6 +25343,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comic Book",
+            "DC",
             "Gene Hackman",
             "Superman"
         ]
@@ -28327,6 +28334,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comic Book",
+            "DC",
             "Horror",
             "Horror/Thriller"
         ]
@@ -28547,6 +28555,7 @@ var movieMap = {
             "1980s",
             "Batman",
             "Comic Book",
+            "DC",
             "Jack Nicholson",
             "Michael Keaton",
             "Tim Burton"
@@ -33564,6 +33573,7 @@ var movieMap = {
             "1990s",
             "Batman",
             "Comic Book",
+            "DC",
             "Michael Keaton",
             "Michelle Pfeiffer",
             "Tim Burton"
@@ -35925,6 +35935,17 @@ var movieMap = {
             "Horror/Thriller",
             "Mystery",
             "Thriller"
+        ],
+        "cast": [
+            "Daniel Roebuck",
+            "Harrison Ford",
+            "Jane Lynch",
+            "Joe Pantoliano",
+            "Julianne Moore",
+            "L. Scott Caldwell",
+            "Lester Holt",
+            "Sela Ward",
+            "Tommy Lee Jones"
         ]
     },
     "The Meteor Man (1993)": {
@@ -36954,6 +36975,7 @@ var movieMap = {
             "Animated",
             "Batman",
             "Comic Book",
+            "DC",
             "IG Animated"
         ]
     },
@@ -38409,6 +38431,12 @@ var movieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Bruce McGill",
+            "Jean-Claude Van Damme",
+            "Mia Sara",
+            "Ron Silver"
         ]
     },
     "The Shawshank Redemption (1994)": {
@@ -40286,6 +40314,7 @@ var movieMap = {
             "Barrymore Family",
             "Batman",
             "Comic Book",
+            "DC",
             "Jim Carrey",
             "Nicole Kidman"
         ]
@@ -45370,6 +45399,7 @@ var movieMap = {
             "Batman",
             "Brad Pitt & George Clooney",
             "Comic Book",
+            "DC",
             "Sly & Arnie"
         ]
     },
@@ -45716,7 +45746,8 @@ var movieMap = {
         "categories": [
             "1990s",
             "Brat Pack",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "The Full Monty (1997)": {
@@ -56194,6 +56225,24 @@ var movieMap = {
             "Steven Spielberg",
             "Thriller",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alicia Witt",
+            "Cameron Diaz",
+            "Conan O'Brien",
+            "Jason Lee",
+            "Johnny Galecki",
+            "Ken Leung",
+            "Kurt Russell",
+            "Laura Fraser",
+            "Michael Shannon",
+            "Noah Taylor",
+            "Pen\u00e9lope Cruz",
+            "Steven Spielberg",
+            "Tilda Swinton",
+            "Timothy Spall",
+            "Tom Cruise",
+            "Tommy Lee"
         ]
     },
     "The Lord of the Rings: The Fellowship of the Ring (2001)": {
@@ -57712,6 +57761,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Crime",
+            "DC",
             "Graphic Novels",
             "Paul Newman & Robert Redford",
             "Stanley Tucci",
@@ -63385,6 +63435,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comic Book",
+            "DC",
             "Halle Berry"
         ]
     },
@@ -64953,6 +65004,7 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Comic Book",
+            "DC",
             "Keanu Reeves"
         ]
     },
@@ -65844,6 +65896,7 @@ var movieMap = {
             "Batman",
             "Christopher Nolan",
             "Comic Book",
+            "DC",
             "Morgan Freeman"
         ]
     },
@@ -66489,6 +66542,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Crime",
+            "DC",
             "Ed Harris",
             "Graphic Novels"
         ]
@@ -68105,6 +68159,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "DC",
             "Graphic Novels",
             "Natalie Portman",
             "Wachowskis"
@@ -68777,6 +68832,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comic Book",
+            "DC",
             "Superman"
         ]
     },
@@ -75008,6 +75064,7 @@ var movieMap = {
             "Brat Pack",
             "Christopher Nolan",
             "Comic Book",
+            "DC",
             "Gyllenhaals",
             "Morgan Freeman"
         ]
@@ -76933,6 +76990,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comic Book",
+            "DC",
             "Graphic Novels"
         ]
     },
@@ -79929,7 +79987,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "A Nightmare on Elm Street (2010)": {
@@ -80320,7 +80379,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "Toy Story 3 (2010)": {
@@ -81403,6 +81463,7 @@ var movieMap = {
             "Action/Adventure",
             "Bruce Willis",
             "Comic Book",
+            "DC",
             "Morgan Freeman"
         ]
     },
@@ -83190,7 +83251,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "Mr. Popper's Penguins (2011)": {
@@ -86318,6 +86380,7 @@ var movieMap = {
             "Batman",
             "Christopher Nolan",
             "Comic Book",
+            "DC",
             "Morgan Freeman"
         ]
     },
@@ -88772,6 +88835,7 @@ var movieMap = {
             "2010s",
             "Amy Adams",
             "Comic Book",
+            "DC",
             "Superman"
         ]
     },
@@ -89153,7 +89217,8 @@ var movieMap = {
             "2010s",
             "Action/Adventure",
             "Bruce Willis",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "The Conjuring (2013)": {
@@ -97117,6 +97182,12 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Bradley Cooper",
+            "John Gallagher Jr.",
+            "John Goodman",
+            "Mary Elizabeth Winstead"
         ]
     },
     "The Brothers Grimsby (2016)": {
@@ -97243,6 +97314,7 @@ var movieMap = {
             "Amy Adams",
             "Batman",
             "Comic Book",
+            "DC",
             "Matt & Ben",
             "Superman"
         ]
@@ -98550,6 +98622,7 @@ var movieMap = {
             "2010s",
             "Batman",
             "Comic Book",
+            "DC",
             "Eastwoods",
             "Margot Robbie",
             "Matt & Ben",
@@ -100296,6 +100369,7 @@ var movieMap = {
             "Animated",
             "Batman",
             "Comic Book",
+            "DC",
             "IG Animated"
         ]
     },
@@ -100665,6 +100739,17 @@ var movieMap = {
             "Hasbro",
             "IG Fantasy/Sci-Fi",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Becky G",
+            "Bill Hader",
+            "Bryan Cranston",
+            "Dacre Montgomery",
+            "David Denman",
+            "Elizabeth Banks",
+            "Ludi Lin",
+            "Naomi Scott",
+            "RJ Cyler"
         ]
     },
     "The Most Hated Woman in America (2017)": {
@@ -101268,7 +101353,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "It Comes at Night (2017)": {
@@ -103066,6 +103152,7 @@ var movieMap = {
             "Amy Adams",
             "Batman",
             "Comic Book",
+            "DC",
             "Matt & Ben",
             "Superman"
         ]
@@ -105570,6 +105657,7 @@ var movieMap = {
             "Animated",
             "Batman",
             "Comic Book",
+            "DC",
             "IG Animated",
             "Musicians in Film",
             "Nicolas Cage"
@@ -107347,6 +107435,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Comic Book",
+            "DC",
             "Fantasy/Sci-Fi",
             "Nicole Kidman"
         ]
@@ -108307,7 +108396,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "Unicorn Store (2019)": {
@@ -109499,7 +109589,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "The Peanut Butter Falcon (2019)": {
@@ -109950,6 +110041,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Comic Book",
+            "DC",
             "Robert De Niro & Joe Pesci"
         ]
     },
@@ -111508,6 +111600,7 @@ var movieMap = {
         "categories": [
             "2020s",
             "Comic Book",
+            "DC",
             "Margot Robbie"
         ]
     },
@@ -114437,7 +114530,8 @@ var movieMap = {
         "categories": [
             "2020s",
             "Action/Adventure",
-            "Comic Book"
+            "Comic Book",
+            "DC"
         ]
     },
     "Pieces of a Woman (2020)": {
@@ -114934,6 +115028,7 @@ var movieMap = {
             "Amy Adams",
             "Batman",
             "Comic Book",
+            "DC",
             "Matt & Ben",
             "Streaming",
             "Superman"
@@ -115958,6 +116053,7 @@ var movieMap = {
         "categories": [
             "2020s",
             "Comic Book",
+            "DC",
             "Margot Robbie",
             "Sly & Arnie",
             "Viola Davis",
@@ -116966,6 +117062,25 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Frat Pack",
             "Ramis & Reitmans",
+            "Sigourney Weaver"
+        ],
+        "cast": [
+            "Annie Potts",
+            "Bill Murray",
+            "Bob Gunton",
+            "Bokeem Woodbine",
+            "Carrie Coon",
+            "Celeste O'Connor",
+            "Dan Aykroyd",
+            "Ernie Hudson",
+            "Finn Wolfhard",
+            "Ivan Reitman",
+            "J. K. Simmons",
+            "Josh Gad",
+            "Logan Kim",
+            "Mckenna Grace",
+            "Olivia Wilde",
+            "Paul Rudd",
             "Sigourney Weaver"
         ]
     },

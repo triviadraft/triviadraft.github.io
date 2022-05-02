@@ -68,6 +68,15 @@ def generate_jsons():
             for row in csvReader:
                 movie = row['Title'] + ' (' + row['Release'][-4:] + ')'
                 movie_dict[movie]['categories'].append(category)
+    with open(r'python/csv/actordata - casts.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+
+        for row in csvReader:
+            movie = row['movie']
+            if 'cast' not in movie_dict[movie]:
+                movie_dict[movie]['cast'] = []
+
+            movie_dict[movie]['cast'].append(row['actor'])
 
     with open(r'python/json/movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(movie_dict, indent=4))
@@ -187,7 +196,7 @@ def generate_jsons():
 
     # ig movie data
     ig_movie_dict = {}
-    with open(r'python/csv/actordata - movies.csv', encoding='utf-8') as csvf:
+    with open(r'python/csv/actordata - ig-movies.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
@@ -204,7 +213,7 @@ def generate_jsons():
             }
             ig_movie_dict[movie] = single_movie_dict
 
-    with open(r'python/csv/actordata - taglines.csv', encoding='utf-8') as csvf:
+    with open(r'python/csv/actordata - ig-taglines.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
@@ -218,7 +227,7 @@ def generate_jsons():
 
             ig_movie_dict[movie]['taglines'].append(row['tagline'])
 
-    with open(r'python/csv/actordata - casts.csv', encoding='utf-8') as csvf:
+    with open(r'python/csv/actordata - ig-casts.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
 
         for row in csvReader:
