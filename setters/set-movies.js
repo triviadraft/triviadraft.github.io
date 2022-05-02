@@ -14269,13 +14269,13 @@ var movieMap = {
             "Stephen King"
         ],
         "cast": [
-            "Sissy Spacek",
-            "Piper Laurie",
             "Amy Irving",
+            "Edie McClurg",
             "John Travolta",
             "Nancy Allen",
             "P. J. Soles",
-            "Edie McClurg"
+            "Piper Laurie",
+            "Sissy Spacek"
         ]
     },
     "Rocky (1976)": {
@@ -14300,6 +14300,15 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Burgess Meredith",
+            "Burt Young",
+            "Carl Weathers",
+            "Joe Spinell",
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Tony Burton"
         ]
     },
     "Network (1976)": {
@@ -17564,15 +17573,15 @@ var movieMap = {
         ],
         "cast": [
             "Bill Murray",
+            "Bill Paxton",
+            "Dave Thomas",
             "Harold Ramis",
-            "Warren Oates",
-            "P. J. Soles",
-            "Sean Young",
             "John Candy",
             "John Larroquette",
             "Judge Reinhold",
-            "Dave Thomas",
-            "Bill Paxton"
+            "P. J. Soles",
+            "Sean Young",
+            "Warren Oates"
         ]
     },
     "The Great Muppet Caper (1981)": {
@@ -21708,11 +21717,11 @@ var movieMap = {
             "Sheens"
         ],
         "cast": [
+            "Ally Sheedy",
+            "Anthony Michael Hall",
+            "Emilio Estevez",
             "Judd Nelson",
             "Molly Ringwald",
-            "Emilio Estevez",
-            "Anthony Michael Hall",
-            "Ally Sheedy",
             "Paul Gleason"
         ]
     },
@@ -22980,6 +22989,23 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comedies"
+        ],
+        "cast": [
+            "B.B. King",
+            "Bob Hope",
+            "Bruce Davison",
+            "Chevy Chase",
+            "Costa-Gavras",
+            "Dan Aykroyd",
+            "Donna Dixon",
+            "Frank Oz",
+            "Joel Coen",
+            "Larry Cohen",
+            "Martin Brest",
+            "Michael Apted",
+            "Sam Raimi",
+            "Terry Gilliam",
+            "Vanessa Angel"
         ]
     },
     "The Jewel of the Nile (1985)": {
@@ -24577,12 +24603,12 @@ var movieMap = {
             "SNL & Lorne Michaels"
         ],
         "cast": [
-            "Steve Martin",
             "Chevy Chase",
+            "Jon Lovitz",
             "Martin Short",
             "Phil Hartman",
-            "Jon Lovitz",
-            "Randy Newman"
+            "Randy Newman",
+            "Steve Martin"
         ]
     },
     "King Kong Lives (1986)": {
@@ -36191,6 +36217,12 @@ var movieMap = {
             "1990s",
             "Brat Pack",
             "Dramas"
+        ],
+        "cast": [
+            "Andrew McCarthy",
+            "Ming-Na Wen",
+            "Rosalind Chao",
+            "Tsai Chin"
         ]
     },
     "True Romance (1993)": {
@@ -50613,23 +50645,23 @@ var movieMap = {
             "Frat Pack"
         ],
         "cast": [
-            "Hank Azaria",
+            "Artie Lange",
+            "Ben Stiller",
             "Claire Forlani",
-            "Janeane Garofalo",
+            "Dane Cook",
+            "Doug Jones",
+            "Eddie Izzard",
+            "Geoffrey Rush",
             "Greg Kinnear",
-            "William H. Macy",
+            "Hank Azaria",
+            "Janeane Garofalo",
+            "Jenifer Lewis",
             "Kel Mitchell",
             "Lena Olin",
             "Paul Reubens",
-            "Geoffrey Rush",
-            "Ben Stiller",
-            "Wes Studi",
             "Tom Waits",
-            "Eddie Izzard",
-            "Artie Lange",
-            "Jenifer Lewis",
-            "Dane Cook",
-            "Doug Jones"
+            "Wes Studi",
+            "William H. Macy"
         ]
     },
     "The Iron Giant (1999)": {
@@ -51144,15 +51176,15 @@ var movieMap = {
             "Romance"
         ],
         "cast": [
-            "Taye Diggs",
-            "Nia Long",
-            "Morris Chestnut",
             "Harold Perrineau",
-            "Terrence Howard",
-            "Sanaa Lathan",
             "Melissa De Sousa",
             "Monica Calhoun",
-            "Regina Hall"
+            "Morris Chestnut",
+            "Nia Long",
+            "Regina Hall",
+            "Sanaa Lathan",
+            "Taye Diggs",
+            "Terrence Howard"
         ]
     },
     "Three to Tango (1999)": {
@@ -61567,26 +61599,26 @@ var movieMap = {
         ],
         "cast": [
             "Alan Rickman",
+            "Andrew Lincoln",
+            "Bill Nighy",
+            "Billy Bob Thornton",
+            "Chiwetel Ejiofor",
+            "Colin Firth",
+            "Denise Richards",
             "Emma Thompson",
             "Hugh Grant",
-            "Keira Knightley",
-            "Colin Firth",
-            "Sienna Guillory",
-            "Liam Neeson",
-            "Thomas Brodie-Sangster",
-            "Bill Nighy",
-            "Martine McCutcheon",
-            "Chiwetel Ejiofor",
-            "Andrew Lincoln",
-            "Laura Linney",
-            "Rodrigo Santoro",
-            "Martin Freeman",
-            "Olivia Olson",
-            "Billy Bob Thornton",
-            "Rowan Atkinson",
             "January Jones",
+            "Keira Knightley",
+            "Laura Linney",
+            "Liam Neeson",
+            "Martin Freeman",
+            "Martine McCutcheon",
+            "Olivia Olson",
+            "Rodrigo Santoro",
+            "Rowan Atkinson",
             "Shannon Elizabeth",
-            "Denise Richards"
+            "Sienna Guillory",
+            "Thomas Brodie-Sangster"
         ]
     },
     "Master and Commander: The Far Side of the World (2003)": {
@@ -96709,17 +96741,17 @@ var movieMap = {
             "Westerns"
         ],
         "cast": [
-            "Samuel L. Jackson",
-            "Kurt Russell",
-            "Jennifer Jason Leigh",
-            "Walton Goggins",
-            "Demi\u00e1n Bichir",
-            "Tim Roth",
-            "Michael Madsen",
             "Bruce Dern",
+            "Channing Tatum",
+            "Demi\u00e1n Bichir",
             "James Parks",
-            "Zo\u00eb Bell",
-            "Channing Tatum"
+            "Jennifer Jason Leigh",
+            "Kurt Russell",
+            "Michael Madsen",
+            "Samuel L. Jackson",
+            "Tim Roth",
+            "Walton Goggins",
+            "Zo\u00eb Bell"
         ]
     },
     "The Revenant (2015)": {
@@ -101959,14 +101991,14 @@ var movieMap = {
             "Spy"
         ],
         "cast": [
+            "Bill Skarsg\u00e5rd",
             "Charlize Theron",
+            "Eddie Marsan",
             "James McAvoy",
             "John Goodman",
-            "Eddie Marsan",
-            "Sofia Boutella",
-            "Toby Jones",
             "Sam Hargrave",
-            "Bill Skarsg\u00e5rd"
+            "Sofia Boutella",
+            "Toby Jones"
         ]
     },
     "Brigsby Bear (2017)": {
@@ -116927,21 +116959,21 @@ var movieMap = {
             "Musicians in Film"
         ],
         "cast": [
-            "Gemma Chan",
-            "Richard Madden",
-            "Kumail Nanjiani",
-            "Lia McHugh",
-            "Brian Tyree Henry",
-            "Lauren Ridloff",
-            "Barry Keoghan",
-            "Don Lee",
-            "Kit Harington",
-            "Salma Hayek",
             "Angelina Jolie",
+            "Barry Keoghan",
             "Bill Skarsg\u00e5rd",
+            "Brian Tyree Henry",
+            "Don Lee",
+            "Gemma Chan",
             "Harry Styles",
+            "Kit Harington",
+            "Kumail Nanjiani",
+            "Lauren Ridloff",
+            "Lia McHugh",
+            "Mahershala Ali",
             "Patton Oswalt",
-            "Mahershala Ali"
+            "Richard Madden",
+            "Salma Hayek"
         ]
     },
     "Finch (2021)": {
