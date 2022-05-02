@@ -8789,6 +8789,12 @@ var movieMap = {
             "1960s",
             "Classics",
             "Dramas"
+        ],
+        "cast": [
+            "Elizabeth Taylor",
+            "George Segal",
+            "Richard Burton",
+            "Sandy Dennis"
         ]
     },
     "How to Steal a Million (1966)": {
@@ -9453,6 +9459,15 @@ var movieMap = {
             "1960s",
             "Classics",
             "Hepburns"
+        ],
+        "cast": [
+            "Beah Richards",
+            "Cecil Kellaway",
+            "D'Urville Martin",
+            "Katharine Hepburn",
+            "Katharine Houghton",
+            "Sidney Poitier",
+            "Spencer Tracy"
         ]
     },
     "Doctor Dolittle (1967)": {
@@ -20139,6 +20154,16 @@ var movieMap = {
             "1980s",
             "Dramas",
             "Jack Nicholson"
+        ],
+        "cast": [
+            "Albert Brooks",
+            "Danny DeVito",
+            "Debra Winger",
+            "Jack Nicholson",
+            "Jeff Daniels",
+            "John Lithgow",
+            "Mary Kay Place",
+            "Shirley MacLaine"
         ]
     },
     "The Dresser (1983)": {
@@ -21309,6 +21334,15 @@ var movieMap = {
         "categories": [
             "1980s",
             "Ed Harris"
+        ],
+        "cast": [
+            "Amy Madigan",
+            "Danny Glover",
+            "Ed Harris",
+            "John Malkovich",
+            "Lindsay Crouse",
+            "Sally Field",
+            "Terry O'Quinn"
         ]
     },
     "The Terminator (1984)": {
@@ -24111,6 +24145,17 @@ var movieMap = {
             "Meg Ryan",
             "Ramis & Reitmans",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Eugene Levy",
+            "James Tolkan",
+            "John Candy",
+            "Jonathan Banks",
+            "Kenneth McMillan",
+            "Meg Ryan",
+            "Robert Loggia",
+            "Tommy Lister Jr.",
+            "Tony Burton"
         ]
     },
     "Manhunter (1986)": {
@@ -33685,6 +33730,19 @@ var movieMap = {
             "Musicians in Film",
             "Sports",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Ann Cusack",
+            "Bill Pullman",
+            "David Strathairn",
+            "Garry Marshall",
+            "Geena Davis",
+            "Jon Lovitz",
+            "Lori Petty",
+            "Madonna",
+            "Rosie O'Donnell",
+            "T\u00e9a Leoni",
+            "Tom Hanks"
         ]
     },
     "Boomerang (1992)": {
@@ -35639,6 +35697,20 @@ var movieMap = {
             "Modern Classics",
             "Samuel L. Jackson",
             "Steven Spielberg"
+        ],
+        "cast": [
+            "Ariana Richards",
+            "B.D. Wong",
+            "Bob Peck",
+            "Jeff Goldblum",
+            "Joseph Mazzello",
+            "Laura Dern",
+            "Martin Ferrero",
+            "Richard Attenborough",
+            "Richard Kiley",
+            "Sam Neill",
+            "Samuel L. Jackson",
+            "Wayne Knight"
         ]
     },
     "Last Action Hero (1993)": {
@@ -38043,6 +38115,18 @@ var movieMap = {
             "Kurt Russell",
             "Modern Classics",
             "Robert Zemeckis",
+            "Tom Hanks"
+        ],
+        "cast": [
+            "Dick Cavett",
+            "Gary Sinise",
+            "Haley Joel Osment",
+            "Kurt Russell",
+            "Mykelti Williamson",
+            "Robin Wright",
+            "Sally Field",
+            "Sam Anderson",
+            "Siobhan Fallon Hogan",
             "Tom Hanks"
         ]
     },
@@ -49232,6 +49316,18 @@ var movieMap = {
             "1990s",
             "Matt & Ben",
             "Romance"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Colin Firth",
+            "Geoffrey Rush",
+            "Gwyneth Paltrow",
+            "Imelda Staunton",
+            "Jim Carter",
+            "Joseph Fiennes",
+            "Judi Dench",
+            "Rupert Everett",
+            "Tom Wilkinson"
         ]
     },
     "Star Trek: Insurrection (1998)": {
@@ -60594,7 +60690,7 @@ var movieMap = {
             "Johnny Depp",
             "Jonathan Pryce",
             "Keira Knightley",
-            "Kevin R. McNally",
+            "Kevin McNally",
             "Orlando Bloom",
             "Zoe Saldana"
         ]
@@ -71872,7 +71968,7 @@ var movieMap = {
             "Jonathan Pryce",
             "Keira Knightley",
             "Keith Richards",
-            "Kevin R. McNally",
+            "Kevin McNally",
             "Naomie Harris",
             "Orlando Bloom",
             "Stellan Skarsg\u00e5rd",
@@ -71903,6 +71999,36 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Adam Scott",
+            "Alan Tudyk",
+            "Andy Dick",
+            "B. J. Novak",
+            "Bill Hader",
+            "Charlyne Yi",
+            "Craig Robinson",
+            "Dax Shepard",
+            "Eva Mendes",
+            "Harold Ramis",
+            "Iris Apatow",
+            "James Franco",
+            "Jason Segel",
+            "Jay Baruchel",
+            "Jessica Alba",
+            "Jonah Hill",
+            "Katherine Heigl",
+            "Ken Jeong",
+            "Kristen Wiig",
+            "Leslie Mann",
+            "Martin Starr",
+            "Maude Apatow",
+            "Paul Rudd",
+            "Ryan Seacrest",
+            "Seth Rogen",
+            "Steve Carell",
+            "Stormy Daniels",
+            "Tim Bagley"
         ]
     },
     "Mr. Brooks (2007)": {
@@ -74968,6 +75094,20 @@ var movieMap = {
             "Frat Pack",
             "Jackie Chan",
             "Martial Arts"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Dan Fogler",
+            "David Cross",
+            "Dustin Hoffman",
+            "Ian McShane",
+            "Jack Black",
+            "Jackie Chan",
+            "James Hong",
+            "Lucy Liu",
+            "Michael Clarke Duncan",
+            "Randall Duk Kim",
+            "Seth Rogen"
         ]
     },
     "You Don't Mess with the Zohan (2008)": {
@@ -82633,6 +82773,17 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anna Faris",
+            "Chris Pratt",
+            "Dan Fogler",
+            "Edwin Hodge as Bryce",
+            "Lucy Punch",
+            "Michael Biehn",
+            "Michelle Trachtenberg",
+            "Teresa Palmer",
+            "Topher Grace"
         ]
     },
     "The Adjustment Bureau (2011)": {
@@ -83317,6 +83468,17 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Musicians in Film",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Geoffrey Rush",
+            "Ian McShane",
+            "Johnny Depp",
+            "Keith Richards",
+            "Kevin McNally",
+            "Pen\u00e9lope Cruz",
+            "Richard Griffiths",
+            "Sam Claflin",
+            "Stephen Graham"
         ]
     },
     "Kung Fu Panda 2 (2011)": {
@@ -89975,6 +90137,11 @@ var movieMap = {
             "Brad Pitt & George Clooney",
             "Ed Harris",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Ed Harris",
+            "George Clooney",
+            "Sandra Bullock"
         ]
     },
     "Runner Runner (2013)": {
@@ -91599,6 +91766,13 @@ var movieMap = {
             "2010s",
             "A24",
             "Dramas"
+        ],
+        "cast": [
+            "Andrew Scott",
+            "Olivia Colman",
+            "Ruth Wilson",
+            "Tom Hardy",
+            "Tom Holland"
         ]
     },
     "The Other Woman (2014)": {
@@ -101520,6 +101694,19 @@ var movieMap = {
             "Disney",
             "Fantasy/Sci-Fi",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Brenton Thwaites",
+            "David Wenham",
+            "Geoffrey Rush",
+            "Javier Bardem",
+            "Johnny Depp",
+            "Kaya Scodelario",
+            "Keira Knightley",
+            "Kevin McNally",
+            "Orlando Bloom",
+            "Paul McCartney",
+            "Stephen Graham"
         ]
     },
     "War Machine (2017)": {
@@ -104745,6 +104932,12 @@ var movieMap = {
             "Emily Blunt",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Emily Blunt",
+            "John Krasinski",
+            "Millicent Simmonds",
+            "Noah Jupe"
         ]
     },
     "Blockers (2018)": {
@@ -114707,6 +114900,22 @@ var movieMap = {
         "categories": [
             "2020s",
             "Dramas"
+        ],
+        "cast": [
+            "Adam Brody",
+            "Alfred Molina",
+            "Alison Brie",
+            "Bo Burnham",
+            "Carey Mulligan",
+            "Christopher Mintz-Plasse",
+            "Clancy Brown",
+            "Connie Britton",
+            "Emerald Fennell",
+            "Jennifer Coolidge",
+            "Laverne Cox",
+            "Max Greenfield",
+            "Molly Shannon",
+            "Sam Richardson"
         ]
     },
     "Soul (2020)": {
@@ -115630,6 +115839,15 @@ var movieMap = {
             "Emily Blunt",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Cillian Murphy",
+            "Djimon Hounsou",
+            "Emily Blunt",
+            "John Krasinski",
+            "Millicent Simmonds",
+            "Noah Jupe",
+            "Scoot McNairy"
         ]
     },
     "Cruella (2021)": {
