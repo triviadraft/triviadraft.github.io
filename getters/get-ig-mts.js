@@ -1,16 +1,20 @@
 function getFilteredList(list, filterVal) {
-    if (filterVal === 'Dystopian Future & Time Travel') {
-        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Back to the Future'));
+    if (filterVal === 'DC') {
+        return list.filter((item) => item['category'] === filterVal || item['category'] === 'DCEU');
+    } else if (filterVal === 'Dystopian Future & Time Travel') {
+        return list.filter((item) => item['category'] === filterVal || item['category'] === 'Back to the Future');
     } else if (filterVal === 'Hasbro') {
-        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Transformers'));
+        return list.filter((item) => item['category'] === filterVal || item['category'] === 'Transformers');
     } else if (filterVal === 'Marvel') {
-        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('MCU'));
+        return list.filter((item) => item['category'] === filterVal || item['category'] === 'MCU');
      } else if (filterVal === 'Middle-earth') {
-        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Lord of the Rings') || item['category'].includes('The Hobbit'));
+        return list.filter((item) => item['category'] === filterVal || item['category'] === 'Lord of the Rings' || item['category'] === 'The Hobbit');
+    } else if (filterVal === 'Swashbuckling & Pulp Adventure') {
+        return list.filter((item) => item['category'].includes('Swashbuckling'));
     } else if (filterVal === 'Wizarding World') {
-        return list.filter((item) => item['category'].includes(filterVal) || item['category'].includes('Harry Potter'));
+        return list.filter((item) => item['category'] === filterVal || item['category'] === 'Harry Potter');
     } else {
-        return list.filter((item) => item['category'].includes(filterVal));
+        return list.filter((item) => item['category'] === filterVal);
     }
 }
 
