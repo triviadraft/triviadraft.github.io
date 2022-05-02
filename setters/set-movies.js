@@ -46220,6 +46220,16 @@ var movieMap = {
             "1990s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Anne Heche",
+            "Bridgette Wilson",
+            "Freddie Prinze Jr.",
+            "Jennifer Love Hewitt",
+            "Johnny Galecki",
+            "Muse Watson",
+            "Ryan Phillippe",
+            "Sarah Michelle Gellar"
         ]
     },
     "The Devil's Advocate (1997)": {
@@ -47963,6 +47973,13 @@ var movieMap = {
             "Amblin",
             "Antonio Banderas",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Antonio Banderas",
+            "Catherine Zeta-Jones",
+            "Stuart Wilson",
+            "Tony Amendola"
         ]
     },
     "Lolita (1998)": {
@@ -48876,6 +48893,17 @@ var movieMap = {
             "Frat Pack",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Bill Cobbs",
+            "Brandy Norwood",
+            "Freddie Prinze Jr.",
+            "Jack Black",
+            "Jeffrey Combs",
+            "Jennifer Love Hewitt",
+            "John Hawkes",
+            "Mekhi Phifer",
+            "Muse Watson"
         ]
     },
     "I'll Be Home for Christmas (1998)": {
@@ -49739,6 +49767,18 @@ var movieMap = {
         "categories": [
             "1990s",
             "Reese Witherspoon"
+        ],
+        "cast": [
+            "Christine Baranski",
+            "Joshua Jackson",
+            "Louise Fletcher",
+            "Reese Witherspoon",
+            "Ryan Phillippe",
+            "Sarah Michelle Gellar",
+            "Sean Patrick Thomas",
+            "Selma Blair",
+            "Swoosie Kurtz",
+            "Tara Reid"
         ]
     },
     "Lock, Stock and Two Smoking Barrels (1999)": {
@@ -60547,6 +60587,16 @@ var movieMap = {
             "Disney",
             "Fantasy/Sci-Fi",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Geoffrey Rush",
+            "Jack Davenport",
+            "Johnny Depp",
+            "Jonathan Pryce",
+            "Keira Knightley",
+            "Kevin R. McNally",
+            "Orlando Bloom",
+            "Zoe Saldana"
         ]
     },
     "The League of Extraordinary Gentlemen (2003)": {
@@ -67172,6 +67222,13 @@ var movieMap = {
             "Amblin",
             "Antonio Banderas",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Antonio Banderas",
+            "Catherine Zeta-Jones",
+            "Michael Emerson",
+            "Rufus Sewell",
+            "Tony Amendola"
         ]
     },
     "Chicken Little (2005)": {
@@ -67369,6 +67426,17 @@ var movieMap = {
         "categories": [
             "2000s",
             "Musicals"
+        ],
+        "cast": [
+            "Adam Pascal",
+            "Anthony Rapp",
+            "Idina Menzel",
+            "Jesse L. Martin",
+            "Rosario Dawson",
+            "Sarah Silverman",
+            "Taye Diggs",
+            "Tracie Thoms",
+            "Wilson Jermaine Heredia"
         ]
     },
     "Syriana (2005)": {
@@ -69026,6 +69094,19 @@ var movieMap = {
             "Disney",
             "Fantasy/Sci-Fi",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Bill Nighy",
+            "Geoffrey Rush",
+            "Jack Davenport",
+            "Johnny Depp",
+            "Jonathan Pryce",
+            "Keira Knightley",
+            "Kevin McNally",
+            "Naomie Harris",
+            "Orlando Bloom",
+            "Stellan Skarsg\u00e5rd",
+            "Tom Hollander"
         ]
     },
     "Little Man (2006)": {
@@ -71780,6 +71861,22 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Musicians in Film",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Bill Nighy",
+            "Chow Yun-fat",
+            "Dominic Scott Kay",
+            "Geoffrey Rush",
+            "Jack Davenport",
+            "Johnny Depp",
+            "Jonathan Pryce",
+            "Keira Knightley",
+            "Keith Richards",
+            "Kevin R. McNally",
+            "Naomie Harris",
+            "Orlando Bloom",
+            "Stellan Skarsg\u00e5rd",
+            "Tom Hollander"
         ]
     },
     "Knocked Up (2007)": {
