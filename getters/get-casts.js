@@ -28,8 +28,13 @@ function reset() {
         var actor1 = randomList[0];
         var actor2 = randomList[1];
         var actor3 = randomList[2];
+        var question = '';
 
-        var question = '(' + category + ') What ' + year + ' film features ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
+        if ((typeof filterVal === 'undefined') || (typeof filterVal !== 'undefined' && !filterVal) {
+            question = '(' + category + ') ';
+        }
+
+        var question += 'What ' + year + ' film features ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
         var answer = movie;
 
         questions.push(question);
