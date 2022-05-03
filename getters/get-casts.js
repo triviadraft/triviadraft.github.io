@@ -20,7 +20,6 @@ function reset() {
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var category = randomItem(movieMap[movie]['categories']);
         var year = movieMap[movie]['year'];
         var actorList = movieMap[movie]['cast'];
         var randomList = randomItems(3, actorList);
@@ -31,6 +30,7 @@ function reset() {
         var question = '';
 
         if ((typeof filterVal === 'undefined') || (typeof filterVal !== 'undefined' && !filterVal)) {
+            var category = randomItem(movieMap[movie]['categories']);
             question = '(' + category + ') ';
         }
 
