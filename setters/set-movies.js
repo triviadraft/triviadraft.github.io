@@ -8444,6 +8444,13 @@ var movieMap = {
             "Classics",
             "Hepburns",
             "Musicals"
+        ],
+        "cast": [
+            "Alan Napier",
+            "Audrey Hepburn",
+            "Gladys Cooper",
+            "Rex Harrison",
+            "Stanley Holloway"
         ]
     },
     "Goldfinger (1964)": {
@@ -8861,6 +8868,16 @@ var movieMap = {
             "Classics",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Adam West",
+            "Alan Napier",
+            "Burgess Meredith",
+            "Burt Ward",
+            "Cesar Romero",
+            "Frank Gorshin",
+            "Lee Meriwether",
+            "Neil Hamilton"
         ]
     },
     "A Man Called Adam (1966)": {
@@ -14605,6 +14622,20 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Beverly D'Angelo",
+            "Carol Kane",
+            "Christopher Walken",
+            "Diane Keaton",
+            "Jeff Goldblum",
+            "John Glover",
+            "Paul Simon",
+            "Shelley Duvall",
+            "Sigourney Weaver",
+            "Tony Roberts",
+            "Truman Capote",
+            "Woody Allen"
         ]
     },
     "Star Wars (1977)": {
@@ -15580,6 +15611,13 @@ var movieMap = {
             "Dramas",
             "Meryl Streep",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Christopher Walken",
+            "John Cazale",
+            "John Savage",
+            "Meryl Streep",
+            "Robert De Niro"
         ]
     },
     "Superman (1978)": {
@@ -17058,6 +17096,15 @@ var movieMap = {
         "categories": [
             "1980s",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Dabney Coleman",
+            "Dolly Parton",
+            "Elizabeth Wilson",
+            "Jane Fonda",
+            "Lily Tomlin",
+            "Marian Mercer",
+            "Sterling Hayden"
         ]
     },
     "Inside Moves (1980)": {
@@ -19598,6 +19645,12 @@ var movieMap = {
         "categories": [
             "1980s",
             "Brat Pack"
+        ],
+        "cast": [
+            "Ally Sheedy",
+            "Dabney Coleman",
+            "John Wood",
+            "Matthew Broderick"
         ]
     },
     "Trading Places (1983)": {
@@ -25264,6 +25317,20 @@ var movieMap = {
             "Mel Brooks",
             "SCTV Alumni",
             "Spoof"
+        ],
+        "cast": [
+            "Bill Pullman",
+            "Daphne Zuniga",
+            "Dick Van Patten",
+            "Dom DeLuise",
+            "George Wyner",
+            "Joan Rivers",
+            "John Candy",
+            "John Hurt",
+            "Mel Brooks",
+            "Michael Winslow",
+            "Rick Moranis",
+            "Tony Cox"
         ]
     },
     "Dragnet (1987)": {
@@ -36403,6 +36470,20 @@ var movieMap = {
             "Coming of Age",
             "Dramas",
             "Matt & Ben"
+        ],
+        "cast": [
+            "Adam Goldberg",
+            "Anthony Rapp",
+            "Ben Affleck",
+            "Cole Hauser",
+            "Jason London",
+            "Joey Lauren Adams",
+            "Matthew McConaughey",
+            "Michelle Burke",
+            "Milla Jovovich",
+            "Parker Posey",
+            "Ren\u00e9e Zellweger",
+            "Rory Cochrane"
         ]
     },
     "The Good Son (1993)": {
@@ -44072,6 +44153,19 @@ var movieMap = {
             "Bill Murray",
             "Family",
             "Sports"
+        ],
+        "cast": [
+            "Bill Murray",
+            "Charles Barkley",
+            "Danny DeVito",
+            "Larry Bird",
+            "Larry Johnson",
+            "Michael Jordan",
+            "Muggsy Bogues",
+            "Patrick Ewing",
+            "Shawn Bradley",
+            "Theresa Randle",
+            "Wayne Knight"
         ]
     },
     "The English Patient (1996)": {
@@ -54211,6 +54305,11 @@ var movieMap = {
             "Dramas",
             "Robert Zemeckis",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Chris Noth",
+            "Helen Hunt",
+            "Tom Hanks"
         ]
     },
     "Finding Forrester (2000)": {
@@ -62088,6 +62187,16 @@ var movieMap = {
             "Keanu Reeves",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Amanda Peet",
+            "Diane Keaton",
+            "Frances McDormand",
+            "Jack Nicholson",
+            "Jon Favreau",
+            "Keanu Reeves",
+            "Paul Michael Glaser",
+            "Peter Spears"
         ]
     },
     "Stuck on You (2003)": {
@@ -64679,6 +64788,21 @@ var movieMap = {
         "categories": [
             "2000s",
             "Biopics"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Anthony Hopkins",
+            "Brian Blessed as wrestling trainer",
+            "Christopher Plummer",
+            "Colin Farrell",
+            "Ian Beattie",
+            "Jared Leto",
+            "Jonathan Rhys Meyers",
+            "Oliver Stone",
+            "Rory McCann",
+            "Rosario Dawson",
+            "Toby Kebbell",
+            "Val Kilmer"
         ]
     },
     "Christmas with the Kranks (2004)": {
@@ -69076,6 +69200,13 @@ var movieMap = {
             "2000s",
             "Keanu Reeves",
             "Romance"
+        ],
+        "cast": [
+            "Christopher Plummer",
+            "Ebon Moss-Bachrach",
+            "Keanu Reeves",
+            "Sandra Bullock",
+            "Shohreh Aghdashloo"
         ]
     },
     "Click (2006)": {
@@ -70669,6 +70800,20 @@ var movieMap = {
             "Frat Pack",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Cameron Diaz",
+            "Dustin Hoffman",
+            "Edward Burns",
+            "Eli Wallach",
+            "Jack Black",
+            "James Franco",
+            "John Krasinski",
+            "Jude Law",
+            "Kate Winslet",
+            "Kathryn Hahn",
+            "Lindsay Lohan",
+            "Rufus Sewell"
         ]
     },
     "Unaccompanied Minors (2006)": {
@@ -72520,6 +72665,18 @@ var movieMap = {
             "2000s",
             "Comedies",
             "SNL & Lorne Michaels"
+        ],
+        "cast": [
+            "Akiva Schaffer",
+            "Andy Samberg",
+            "Bill Hader",
+            "Chris Parnell",
+            "Danny McBride",
+            "Ian McShane",
+            "Isla Fisher",
+            "Jorma Taccone",
+            "Sissy Spacek",
+            "Will Arnett"
         ]
     },
     "The Bourne Ultimatum (2007)": {
@@ -74637,6 +74794,22 @@ var movieMap = {
             "Animated",
             "Frat Pack",
             "Jim Carrey"
+        ],
+        "cast": [
+            "Amy Poehler",
+            "Carol Burnett",
+            "Dan Fogler",
+            "Isla Fisher",
+            "Jaime Pressly",
+            "Jesse McCartney",
+            "Jim Carrey",
+            "Joey King",
+            "Jonah Hill",
+            "Niecy Nash",
+            "Selena Gomez",
+            "Seth Rogen",
+            "Steve Carell",
+            "Will Arnett"
         ]
     },
     "Drillbit Taylor (2008)": {
@@ -78027,6 +78200,14 @@ var movieMap = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Benedict Wong",
+            "Dominique McElligott",
+            "Kaya Scodelario",
+            "Kevin Spacey",
+            "Matt Berry",
+            "Sam Rockwell"
         ]
     },
     "The Taking of Pelham 123 (2009)": {
@@ -79868,6 +80049,27 @@ var movieMap = {
             "Queen Latifah",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anne Hathaway",
+            "Ashton Kutcher",
+            "Bradley Cooper",
+            "Emma Roberts",
+            "Eric Dane",
+            "George Lopez",
+            "H\u00e9ctor Elizondo",
+            "Jamie Foxx",
+            "Jennifer Garner",
+            "Jessica Alba",
+            "Jessica Biel",
+            "Julia Roberts",
+            "Kathy Bates",
+            "Patrick Dempsey",
+            "Queen Latifah",
+            "Shirley MacLaine",
+            "Taylor Lautner",
+            "Taylor Swift",
+            "Topher Grace"
         ]
     },
     "Shutter Island (2010)": {
@@ -82279,6 +82481,15 @@ var movieMap = {
             "Frat Pack",
             "Jack Nicholson",
             "Reese Witherspoon"
+        ],
+        "cast": [
+            "Dean Norris",
+            "Jack Nicholson",
+            "Kathryn Hahn",
+            "Owen Wilson",
+            "Paul Rudd",
+            "Reese Witherspoon",
+            "Tony Shalhoub"
         ]
     },
     "Tron: Legacy (2010)": {
@@ -82778,7 +82989,7 @@ var movieMap = {
             "Anna Faris",
             "Chris Pratt",
             "Dan Fogler",
-            "Edwin Hodge as Bryce",
+            "Edwin Hodge",
             "Lucy Punch",
             "Michael Biehn",
             "Michelle Trachtenberg",
@@ -93307,6 +93518,22 @@ var movieMap = {
             "Action/Adventure",
             "Keanu Reeves",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Adrianne Palicki",
+            "Alfie Allen",
+            "Bridget Moynahan",
+            "Clarke Peters",
+            "David Patrick Kelly",
+            "Ian McShane",
+            "John Leguizamo",
+            "Keanu Reeves",
+            "Kevin Nash",
+            "Lance Reddick",
+            "Michael Nyqvist",
+            "Randall Duk Kim",
+            "Toby Leonard Moore",
+            "Willem Dafoe"
         ]
     },
     "Ouija (2014)": {
@@ -96298,6 +96525,18 @@ var movieMap = {
             "Horror/Thriller",
             "Kurt Russell",
             "Westerns"
+        ],
+        "cast": [
+            "David Arquette",
+            "Fred Melamed",
+            "James Tolkan",
+            "Kurt Russell",
+            "Matthew Fox",
+            "Patrick Wilson",
+            "Richard Jenkins",
+            "Sean Young",
+            "Sid Haig",
+            "Zahn McClarnon"
         ]
     },
     "Jem and the Holograms (2015)": {
@@ -97416,6 +97655,11 @@ var movieMap = {
             "A24",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Anya Taylor-Joy",
+            "Kate Dickie",
+            "Ralph Ineson"
         ]
     },
     "Crouching Tiger, Hidden Dragon: Sword of Destiny (2016)": {
@@ -102229,6 +102473,19 @@ var movieMap = {
             "Comedies",
             "Queen Latifah",
             "Reginas"
+        ],
+        "cast": [
+            "Diddy",
+            "Jada Pinkett Smith",
+            "Kate Walsh",
+            "Larenz Tate",
+            "Mariah Carey",
+            "Mike Colter",
+            "Mike Epps",
+            "Ne-Yo",
+            "Queen Latifah",
+            "Regina Hall",
+            "Tiffany Haddish"
         ]
     },
     "Valerian and the City of a Thousand Planets (2017)": {
@@ -103009,6 +103266,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "A24"
+        ],
+        "cast": [
+            "Bria Vinaite",
+            "Brooklynn Prince",
+            "Caleb Landry Jones",
+            "Willem Dafoe"
         ]
     },
     "The Mountain Between Us (2017)": {
@@ -110734,6 +110997,17 @@ var movieMap = {
             "2010s",
             "Comedies",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Alfie Allen",
+            "Archie Yates",
+            "Rebel Wilson",
+            "Roman Griffin Davis",
+            "Sam Rockwell",
+            "Scarlett Johansson",
+            "Stephen Merchant",
+            "Taika Waititi",
+            "Thomasin McKenzie"
         ]
     },
     "Maleficent: Mistress of Evil (2019)": {
@@ -110777,6 +111051,11 @@ var movieMap = {
             "2010s",
             "A24",
             "Dramas"
+        ],
+        "cast": [
+            "Robert Pattinson",
+            "Valeriia Karam\u00e4n",
+            "Willem Dafoe"
         ]
     },
     "Wounds (2019)": {
