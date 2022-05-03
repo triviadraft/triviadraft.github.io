@@ -30,11 +30,11 @@ function reset() {
         var actor3 = randomList[2];
         var question = '';
 
-        if ((typeof filterVal === 'undefined') || (typeof filterVal !== 'undefined' && !filterVal) {
+        if ((typeof filterVal === 'undefined') || (typeof filterVal !== 'undefined' && !filterVal)) {
             question = '(' + category + ') ';
         }
 
-        var question += 'What ' + year + ' film features ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
+        question += 'What ' + year + ' film features ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
         var answer = movie;
 
         questions.push(question);
