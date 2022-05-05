@@ -4868,6 +4868,7 @@ var igMovieMap = {
         "year": "1994",
         "categories": [
             "Comic Book",
+            "Dystopian/Time",
             "Fantasy/Sci-Fi"
         ],
         "taglines": [
@@ -12755,6 +12756,94 @@ var igMovieMap = {
             "They're as different as night and day. But sometimes even enemies just need a little magic.",
             "Everyone deserves to be loved.",
             "From the mind of George Lucas"
+        ],
+        "mainCast": [
+            {
+                "actor": "Alan Cumming",
+                "name": "Bog King",
+                "description": ""
+            },
+            {
+                "actor": "Evan Rachel Wood",
+                "name": "Marianne",
+                "description": ""
+            },
+            {
+                "actor": "Kristin Chenoweth",
+                "name": "Sugar Plum Fairy",
+                "description": ""
+            },
+            {
+                "actor": "Maya Rudolph",
+                "name": "Griselda",
+                "description": ""
+            },
+            {
+                "actor": "Alfred Molina",
+                "name": "Fairy King",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Elijah Kelley",
+                "name": "Sunny",
+                "description": ""
+            },
+            {
+                "actor": "Meredith Anne Bull",
+                "name": "Dawn",
+                "description": ""
+            },
+            {
+                "actor": "Sam Palladio",
+                "name": "Roland",
+                "description": ""
+            },
+            {
+                "actor": "Peter Stormare",
+                "name": "Thang",
+                "description": ""
+            },
+            {
+                "actor": "Tony Cox",
+                "name": "Plum Elf",
+                "description": ""
+            },
+            {
+                "actor": "Gary Rydstrom",
+                "name": "Angry Gus",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Bob Einstein",
+                "name": "Stuff",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Michael Richardson",
+                "name": "Brutus",
+                "description": ""
+            },
+            {
+                "actor": "Llou Johnson",
+                "name": "Pare",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Daymond",
+                "name": "Fairy Cronies",
+                "description": ""
+            }
+        ],
+        "Cast": [
+            {
+                "actor": "Brenda Chapman",
+                "name": "Imp",
+                "description": ""
+            }
         ]
     },
     "Kingsman: The Secret Service (2015)": {
@@ -14915,8 +15004,8 @@ var igMovieMap = {
             "The saga comes to an end. the story lives forever"
         ]
     },
-    "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)": {
-        "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley",
+    "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)": {
+        "title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
         "year": "2020",
         "categories": [
             "Comic Book",
