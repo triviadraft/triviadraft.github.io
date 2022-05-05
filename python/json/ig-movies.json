@@ -7564,7 +7564,7 @@
                 "description": "Governor of Jamaica, based in Port Royal, and father of Elizabeth Swann"
             },
             {
-                "actor": "Kevin R. McNally",
+                "actor": "Kevin McNally",
                 "name": "Joshamee Gibbs",
                 "description": "Jack Sparrow's friend and first mate, once a sailor for the Royal Navy"
             }
@@ -7622,6 +7622,82 @@
             "An invisible man... The unseen assassin.",
             "Dr. Jekyll and Mr. Hyde... The devil inside.",
             "A vampire... A killer with a kiss."
+        ],
+        "mainCast": [
+            {
+                "actor": "Sean Connery",
+                "name": "Allan Quatermain",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Naseeruddin Shah",
+                "name": "Captain Nemo",
+                "description": ""
+            },
+            {
+                "actor": "Peta Wilson",
+                "name": "Dr. Mina Harker",
+                "description": ""
+            },
+            {
+                "actor": "Tony Curran",
+                "name": "Rodney Skinner",
+                "description": ""
+            },
+            {
+                "actor": "Stuart Townsend",
+                "name": "Dorian Gray",
+                "description": ""
+            },
+            {
+                "actor": "Shane West",
+                "name": "Tom Sawyer",
+                "description": ""
+            },
+            {
+                "actor": "Jason Flemyng",
+                "name": "Dr. Henry Jekyll / Mr. Edward Hyde",
+                "description": ""
+            },
+            {
+                "actor": "Richard Roxburgh",
+                "name": "the Fantom / \"M\" / Professor James Moriarty",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Tom Goodman-Hill",
+                "name": "Sanderson Reed",
+                "description": ""
+            },
+            {
+                "actor": "David Hemmings",
+                "name": "Nigel",
+                "description": ""
+            },
+            {
+                "actor": "Terry O'Neill",
+                "name": "Ishmael",
+                "description": ""
+            },
+            {
+                "actor": "Max Ryan",
+                "name": "Dante",
+                "description": ""
+            },
+            {
+                "actor": "Rudolf Pellar",
+                "name": "Karl Draper",
+                "description": ""
+            },
+            {
+                "actor": "Smeere-Ab Etmet Yohannes",
+                "name": "a witch doctor",
+                "description": ""
+            }
         ]
     },
     "The Matrix Revolutions (2003)": {
@@ -7801,6 +7877,112 @@
             "Here to protect",
             "Sent to destroy",
             "In the Absence of Light Darkness Prevails"
+        ],
+        "mainCast": [
+            {
+                "actor": "Ron Perlman",
+                "name": "Hellboy",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Trevor Bruttenholm",
+                "description": ""
+            },
+            {
+                "actor": "Selma Blair",
+                "name": "Liz Sherman",
+                "description": ""
+            },
+            {
+                "actor": "Jeffrey Tambor",
+                "name": "Tom Manning",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Abe Sapien",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Kevin Trainor",
+                "name": "young Trevor Bruttenholm",
+                "description": ""
+            },
+            {
+                "actor": "Millie Wilkie",
+                "name": "young Liz Sherman",
+                "description": ""
+            },
+            {
+                "actor": "Brian Steele",
+                "name": "Samael",
+                "description": ""
+            },
+            {
+                "actor": "Ladislav Beran",
+                "name": "Karl Ruprecht Kroenen",
+                "description": ""
+            },
+            {
+                "actor": "Bridget Hodson",
+                "name": "Ilsa Haupstein",
+                "description": ""
+            },
+            {
+                "actor": "Brian Caspe",
+                "name": "Agent Lime",
+                "description": ""
+            },
+            {
+                "actor": "James Babson",
+                "name": "Agent Moss",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Fisher",
+                "name": "Agent Quarry",
+                "description": ""
+            },
+            {
+                "actor": "William Hoyland",
+                "name": "General Klaus Von Krupt",
+                "description": ""
+            },
+            {
+                "actor": "Jim Howick",
+                "name": "Corporal Matlin",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Rupert Evans",
+                "name": "John \"Johnny\" Myers",
+                "description": ""
+            },
+            {
+                "actor": "Karel Roden",
+                "name": "Grigori Rasputin",
+                "description": ""
+            },
+            {
+                "actor": "David Hyde Pierce",
+                "name": "voice of Abe Sapien",
+                "description": ""
+            },
+            {
+                "actor": "Corey Johnson",
+                "name": "Agent Clay",
+                "description": ""
+            },
+            {
+                "actor": "Angus MacInnes",
+                "name": "Sergeant Whitman",
+                "description": ""
+            }
         ]
     },
     "The Punisher (2004)": {
@@ -8219,6 +8401,132 @@
             "The White Witch Cometh",
             "The beloved masterpiece comes to life December 9",
             "Evil Has Reigned For 100 Years..."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Moseley",
+                "name": "Peter Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Anna Popplewell",
+                "name": "Susan Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Skandar Keynes",
+                "name": "Edmund Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Georgie Henley",
+                "name": "Lucy Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Liam Neeson",
+                "name": "voice of Aslan",
+                "description": ""
+            },
+            {
+                "actor": "Tilda Swinton",
+                "name": "the White Witch",
+                "description": ""
+            },
+            {
+                "actor": "James McAvoy",
+                "name": "Mr. Tumnus",
+                "description": ""
+            },
+            {
+                "actor": "Jim Broadbent",
+                "name": "Professor Digory Kirke",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Noah Huntley",
+                "name": "adult Peter Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Sophie Winkleman",
+                "name": "adult Susan Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Mark Wells",
+                "name": "adult Edmund Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Rachael Henley",
+                "name": "adult Lucy Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Elizabeth Hawthorne",
+                "name": "Mrs Macready",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Kake",
+                "name": "General Oreius",
+                "description": ""
+            },
+            {
+                "actor": "Shane Rangi",
+                "name": "General Otmin",
+                "description": ""
+            },
+            {
+                "actor": "Morris Cupton",
+                "name": "Train Guard",
+                "description": ""
+            },
+            {
+                "actor": "Judy McIntosh",
+                "name": "Helen Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Philip Steuer",
+                "name": "voice of Phillip",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Ray Winstone",
+                "name": "voice of Mr. Beaver",
+                "description": ""
+            },
+            {
+                "actor": "Dawn French",
+                "name": "voice of Mrs. Beaver",
+                "description": ""
+            },
+            {
+                "actor": "Kiran Shah",
+                "name": "Ginarrbrik",
+                "description": ""
+            },
+            {
+                "actor": "James Cosmo",
+                "name": "Father Christmas",
+                "description": ""
+            },
+            {
+                "actor": "Michael Madsen",
+                "name": "voice of Maugrim",
+                "description": ""
+            },
+            {
+                "actor": "Rupert Everett",
+                "name": "voice of Mr. Fox",
+                "description": ""
+            }
         ]
     },
     "V for Vendetta (2006)": {
@@ -8444,7 +8752,7 @@
                 "description": "powerful chairman of the East India Trading Company and now armed with a mandate from the King and in possession of Davy Jones' heart"
             },
             {
-                "actor": "Kevin R. McNally",
+                "actor": "Kevin McNally",
                 "name": "Joshamee Gibbs",
                 "description": "Jack's loyal, if superstitious, first mate"
             },
@@ -8969,6 +9277,177 @@
             "Unmask the new evil.",
             "Hope has a new face.",
             "Everything you know is about to change."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Moseley",
+                "name": "Peter Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Anna Popplewell",
+                "name": "Susan Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Skandar Keynes",
+                "name": "Edmund Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Georgie Henley",
+                "name": "Lucy Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Ben Barnes",
+                "name": "Prince Caspian",
+                "description": ""
+            },
+            {
+                "actor": "Liam Neeson",
+                "name": "voice of Aslan",
+                "description": ""
+            },
+            {
+                "actor": "Peter Dinklage",
+                "name": "Trumpkin",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Sergio Castellitto",
+                "name": "King Miraz",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Nikabrik",
+                "description": ""
+            },
+            {
+                "actor": "Ken Stott",
+                "name": "voice of Trufflehunter",
+                "description": ""
+            },
+            {
+                "actor": "Eddie Izzard",
+                "name": "voice of Reepicheep",
+                "description": ""
+            },
+            {
+                "actor": "Cornell John",
+                "name": "Glenstorm",
+                "description": "centaur"
+            },
+            {
+                "actor": "David Walliams",
+                "name": "voice of Bulgy Bear",
+                "description": ""
+            },
+            {
+                "actor": "Harry Gregson-Williams",
+                "name": "voice of Pattertwig",
+                "description": "squirrel"
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Pierfrancesco Favino",
+                "name": "General Glozelle",
+                "description": ""
+            },
+            {
+                "actor": "Dami\u00e1n Alc\u00e1zar",
+                "name": "Lord Sopespian",
+                "description": ""
+            },
+            {
+                "actor": "Vincent Grass",
+                "name": "Dr. Cornelius",
+                "description": ""
+            },
+            {
+                "actor": "Alicia Borrachero",
+                "name": "Queen Prunaprismia",
+                "description": ""
+            },
+            {
+                "actor": "Sim\u00f3n Andreu",
+                "name": "Lord Scythley",
+                "description": ""
+            },
+            {
+                "actor": "Predrag Bjelac",
+                "name": "Lord Donnon",
+                "description": ""
+            },
+            {
+                "actor": "David Bowles",
+                "name": "Lord Gergiore",
+                "description": ""
+            },
+            {
+                "actor": "Juan Diego Montoya Garcia",
+                "name": "Lord Montoya",
+                "description": ""
+            },
+            {
+                "actor": "Lejla Abbasov\u00e1",
+                "name": "Windmane",
+                "description": "Glenstorm's wife"
+            },
+            {
+                "actor": "Yemi Akinyemi",
+                "name": "Ironhoof",
+                "description": "Glenstorm's son"
+            },
+            {
+                "actor": "Carlos Da Silva",
+                "name": "Suncloud",
+                "description": "Glenstorm's son"
+            },
+            {
+                "actor": "Ephraim Goldin",
+                "name": "Rainstone",
+                "description": "Glenstorm's son"
+            },
+            {
+                "actor": "Klara Issova",
+                "name": "Narnain Hag",
+                "description": ""
+            },
+            {
+                "actor": "Gomez Mussenden",
+                "name": "Lightning Bolt",
+                "description": ""
+            },
+            {
+                "actor": "Jan Pavel Filipensky",
+                "name": "Wimbleweather",
+                "description": "hiant"
+            },
+            {
+                "actor": "Shane Rangi",
+                "name": "Asterius",
+                "description": ""
+            },
+            {
+                "actor": "Josh Campbell",
+                "name": "voice of Asterius",
+                "description": ""
+            },
+            {
+                "actor": "Tilda Swinton",
+                "name": "Jadis",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Gresham",
+                "name": "Telmarine crier",
+                "description": ""
+            }
         ]
     },
     "Indiana Jones and the Kingdom of the Crystal Skull (2008)": {
