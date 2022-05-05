@@ -10839,6 +10839,107 @@ var igMovieMap = {
         ],
         "taglines": [
             "First contact. Last stand."
+        ],
+        "mainCast": [
+            {
+                "actor": "Daniel Craig",
+                "name": "Jake Lonergan",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Colonel Woodrow Dolarhyde",
+                "description": ""
+            },
+            {
+                "actor": "Olivia Wilde",
+                "name": "Ella Swenson",
+                "description": ""
+            },
+            {
+                "actor": "Sam Rockwell",
+                "name": "Doc",
+                "description": ""
+            },
+            {
+                "actor": "Paul Dano",
+                "name": "Percy Dolarhyde",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Noah Ringer",
+                "name": "Emmett Taggart",
+                "description": ""
+            },
+            {
+                "actor": "Clancy Brown",
+                "name": "Meacham",
+                "description": ""
+            },
+            {
+                "actor": "Keith Carradine",
+                "name": "Sheriff John Taggart",
+                "description": ""
+            },
+            {
+                "actor": "Adam Beach",
+                "name": "Nat Colorado",
+                "description": ""
+            },
+            {
+                "actor": "Abigail Spencer",
+                "name": "Alice",
+                "description": ""
+            },
+            {
+                "actor": "Ana de la Reguera",
+                "name": "Mar\u00eda",
+                "description": ""
+            },
+            {
+                "actor": "Buck Taylor",
+                "name": "Wes Clairbourne",
+                "description": ""
+            },
+            {
+                "actor": "Walton Goggins",
+                "name": "Hunt",
+                "description": ""
+            },
+            {
+                "actor": "David O'Hara",
+                "name": "Pat Dolan",
+                "description": ""
+            },
+            {
+                "actor": "Raoul Trujillo",
+                "name": "Black Knife",
+                "description": ""
+            },
+            {
+                "actor": "Wyatt Russell",
+                "name": "Little Mickey",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Julio Cedillo",
+                "name": "Bronc",
+                "description": ""
+            },
+            {
+                "actor": "Toby Huss",
+                "name": "Roy Murphy",
+                "description": ""
+            },
+            {
+                "actor": "Paul Ortega",
+                "name": "Apache Medicine Man",
+                "description": ""
+            }
         ]
     },
     "Rise of the Planet of the Apes (2011)": {
@@ -10950,6 +11051,102 @@ var igMovieMap = {
         ],
         "taglines": [
             "Enter An Age Undreamed Of"
+        ],
+        "mainCast": [
+            {
+                "actor": "Jason Momoa",
+                "name": "Conan",
+                "description": ""
+            },
+            {
+                "actor": "Rachel Nichols",
+                "name": "Tamara",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Lang",
+                "name": "Khalar Zym",
+                "description": ""
+            },
+            {
+                "actor": "Rose McGowan",
+                "name": "Marique",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Leo Howard",
+                "name": "young Conan",
+                "description": ""
+            },
+            {
+                "actor": "Sa\u00efd Taghmaoui",
+                "name": "Ela-Shan",
+                "description": ""
+            },
+            {
+                "actor": "Bob Sapp",
+                "name": "Ukafa",
+                "description": ""
+            },
+            {
+                "actor": "Ron Perlman",
+                "name": "Corin",
+                "description": ""
+            },
+            {
+                "actor": "Steven O'Donnell",
+                "name": "Lucius",
+                "description": ""
+            },
+            {
+                "actor": "Nonso Anozie",
+                "name": "Artus",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "the Narrator",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Diana Lubenova",
+                "name": "Cheren",
+                "description": ""
+            },
+            {
+                "actor": "Milton Welsh",
+                "name": "Remo",
+                "description": ""
+            },
+            {
+                "actor": "Raad Rawi",
+                "name": "Fassir",
+                "description": ""
+            },
+            {
+                "actor": "Anton Trendafilov",
+                "name": "Xaltotun",
+                "description": ""
+            },
+            {
+                "actor": "Gisella Marengo",
+                "name": "Maliva",
+                "description": ""
+            },
+            {
+                "actor": "Laila Rouass",
+                "name": "Fialla",
+                "description": ""
+            },
+            {
+                "actor": "Alina Pu\u0219c\u0103u",
+                "name": "Lara",
+                "description": ""
+            }
         ]
     },
     "The Adventures of Tintin (2011)": {
@@ -10981,6 +11178,97 @@ var igMovieMap = {
         ],
         "taglines": [
             "Lost in Our World. Found in Another."
+        ],
+        "mainCast": [
+            {
+                "actor": "Taylor Kitsch",
+                "name": "John Carter",
+                "description": ""
+            },
+            {
+                "actor": "Lynn Collins",
+                "name": "Dejah Thoris",
+                "description": ""
+            },
+            {
+                "actor": "Samantha Morton",
+                "name": "Sola",
+                "description": ""
+            },
+            {
+                "actor": "Mark Strong",
+                "name": "Matai Shang",
+                "description": ""
+            },
+            {
+                "actor": "Ciar\u00e1n Hinds",
+                "name": "Tardos Mors",
+                "description": ""
+            },
+            {
+                "actor": "Dominic West",
+                "name": "Sab Than",
+                "description": ""
+            },
+            {
+                "actor": "Willem Dafoe",
+                "name": "Tars Tarkas",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "James Purefoy",
+                "name": "Kantos Kan",
+                "description": ""
+            },
+            {
+                "actor": "Bryan Cranston",
+                "name": "Colonel Powell",
+                "description": ""
+            },
+            {
+                "actor": "Daryl Sabara",
+                "name": "Ned",
+                "description": ""
+            },
+            {
+                "actor": "Polly Walker",
+                "name": "Sarkoja",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Haden Church",
+                "name": "Tal Hajus",
+                "description": ""
+            },
+            {
+                "actor": "David Schwimmer",
+                "name": "young Thark warrior",
+                "description": ""
+            },
+            {
+                "actor": "Don Stark",
+                "name": "Dix",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jon Favreau",
+                "name": "Thark bookmaker",
+                "description": ""
+            },
+            {
+                "actor": "Nicholas Woodeson",
+                "name": "Dalton",
+                "description": ""
+            },
+            {
+                "actor": "Art Malik",
+                "name": "Zodangan General",
+                "description": ""
+            }
         ]
     },
     "The Avengers (2012)": {

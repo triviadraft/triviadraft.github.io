@@ -84311,6 +84311,22 @@ var movieMap = {
             "Graphic Novels",
             "Harrison Ford",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Abigail Spencer",
+            "Adam Beach",
+            "Ana de la Reguera",
+            "Clancy Brown",
+            "Daniel Craig",
+            "Harrison Ford",
+            "Keith Carradine",
+            "Noah Ringer",
+            "Olivia Wilde",
+            "Paul Dano",
+            "Raoul Trujillo",
+            "Sam Rockwell",
+            "Walton Goggins",
+            "Wyatt Russell"
         ]
     },
     "Crazy, Stupid, Love. (2011)": {
@@ -84466,6 +84482,17 @@ var movieMap = {
             "IG Fantasy/Sci-Fi",
             "Morgan Freeman",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Jason Momoa",
+            "Leo Howard",
+            "Morgan Freeman",
+            "Nonso Anozie",
+            "Rachel Nichols",
+            "Ron Perlman",
+            "Rose McGowan",
+            "Sa\u00efd Taghmaoui",
+            "Stephen Lang"
         ]
     },
     "Fright Night (2011)": {
@@ -86245,6 +86272,20 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Bryan Cranston",
+            "Ciar\u00e1n Hinds",
+            "Daryl Sabara",
+            "David Schwimmer",
+            "Dominic West",
+            "Jon Favreau",
+            "Lynn Collins",
+            "Mark Strong",
+            "Samantha Morton",
+            "Taylor Kitsch",
+            "Thomas Haden Church",
+            "Willem Dafoe"
         ]
     },
     "21 Jump Street (2012)": {
