@@ -2869,7 +2869,7 @@ var igMovieMap = {
             {
                 "actor": "Robert Eddison",
                 "name": "Grail Knight",
-                "description": "guardian of the Grail who drank from the cup of Christ during the Crusades and is immortal as long as he stays within the temple"
+                "description": "guardian of the Grail who drank from the cup of Christ during the Crusades and is immortal while staying within the temple"
             },
             {
                 "actor": "Pat Roach",
@@ -4384,6 +4384,11 @@ var igMovieMap = {
                 "actor": "Peter Guinness",
                 "name": "Peter Gregor",
                 "description": "one of the inmates who attempts to rape Ripley, who is bitten in the neck and killed by the Alien during the bait-and-chase sequence"
+            },
+            {
+                "actor": "DeObia Oparei",
+                "name": "Arthur Walkingstick",
+                "description": ""
             }
         ],
         "minorCast": [
@@ -4435,11 +4440,6 @@ var igMovieMap = {
             {
                 "actor": "Clive Mantle",
                 "name": "Clive William",
-                "description": ""
-            },
-            {
-                "actor": "DeObia Oparei",
-                "name": "Arthur Walkingstick",
                 "description": ""
             },
             {
@@ -9866,7 +9866,7 @@ var igMovieMap = {
             {
                 "actor": "Megan Fox",
                 "name": "Mikaela Banes",
-                "description": "Sam's girlfriend whom he trusts as the Allspark fragments begin to unravel"
+                "description": "Sam's girlfriend whom he trusts"
             },
             {
                 "actor": "Josh Duhamel",
@@ -9938,7 +9938,7 @@ var igMovieMap = {
             {
                 "actor": "Tony Todd",
                 "name": "The Fallen",
-                "description": "a Prime who is the first and founder of the Decepticons, as well as the master of Megatron"
+                "description": "a Prime who is the first and founder of the Decepticons, and master of Megatron"
             },
             {
                 "actor": "Mark Ryan",
@@ -10542,6 +10542,11 @@ var igMovieMap = {
                 "actor": "Keith Richards",
                 "name": "Captain Edward Teague",
                 "description": "Jack Sparrow's father"
+            },
+            {
+                "actor": "DeObia Oparei",
+                "name": "Gunner",
+                "description": ""
             }
         ]
     },
@@ -10686,7 +10691,7 @@ var igMovieMap = {
             {
                 "actor": "Leonard Nimoy",
                 "name": "Sentinel Prime",
-                "description": "Optimus' predecessor as the leader of the Autobots and later a Decepticon double agent who transforms into a red and black Rosenbauer Panther Fire Truck"
+                "description": "former leader of the Autobots and later a Decepticon double agent who transforms into a red and black Rosenbauer Panther Fire Truck"
             },
             {
                 "actor": "Mark Ryan",
@@ -11295,6 +11300,107 @@ var igMovieMap = {
             "Back to the past... to save the future",
             "This summer, he'll have to find the answers... in time.",
             "Back in time to save the future"
+        ],
+        "mainCast": [
+            {
+                "actor": "Will Smith",
+                "name": "James Darrell Edwards III / Agent J",
+                "description": ""
+            },
+            {
+                "actor": "Tommy Lee Jones",
+                "name": "Kevin Brown / Agent K",
+                "description": ""
+            },
+            {
+                "actor": "Josh Brolin",
+                "name": "young Kevin Brown / Agent K",
+                "description": ""
+            },
+            {
+                "actor": "Jemaine Clement",
+                "name": "Boris the Animal",
+                "description": ""
+            },
+            {
+                "actor": "Emma Thompson",
+                "name": "Agent O",
+                "description": ""
+            },
+            {
+                "actor": "Michael Stuhlbarg",
+                "name": "Griffin",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Cayen Martin",
+                "name": "young James Darrell Edwards III / Agent J",
+                "description": ""
+            },
+            {
+                "actor": "David Rasche",
+                "name": "Agent X",
+                "description": ""
+            },
+            {
+                "actor": "Lenny Venito",
+                "name": "Bowling Ball head",
+                "description": ""
+            },
+            {
+                "actor": "David Pittu",
+                "name": "Roman the Fabulist",
+                "description": ""
+            },
+            {
+                "actor": "Lanny Flaherty",
+                "name": "Obadiah Price",
+                "description": ""
+            },
+            {
+                "actor": "Rick Baker",
+                "name": "the Brain Alien",
+                "description": ""
+            },
+            {
+                "actor": "Chloe Sonnenfield",
+                "name": "flower child",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Alice Eve",
+                "name": "young Agent O",
+                "description": ""
+            },
+            {
+                "actor": "Mike Colter",
+                "name": "James Darrell Edwards Jr.",
+                "description": ""
+            },
+            {
+                "actor": "Nicole Scherzinger",
+                "name": "Lilly Poison",
+                "description": ""
+            },
+            {
+                "actor": "Michael Chernus",
+                "name": "Jeffrey Price",
+                "description": ""
+            },
+            {
+                "actor": "Keone Young",
+                "name": "Mr. Wu",
+                "description": ""
+            },
+            {
+                "actor": "Bill Hader",
+                "name": "Andy Warhol / Agent W",
+                "description": ""
+            }
         ]
     },
     "Prometheus (2012)": {
@@ -11393,14 +11499,14 @@ var igMovieMap = {
                 "actor": "Patrick Wilson",
                 "name": "Shaw's father",
                 "description": ""
-            }
-        ],
-        "minorCast": [
+            },
             {
                 "actor": "Ian Whyte",
                 "name": "Engineer",
                 "description": ""
-            },
+            }
+        ],
+        "minorCast": [
             {
                 "actor": "Daniel James",
                 "name": "Engineer",
@@ -11453,6 +11559,112 @@ var igMovieMap = {
         ],
         "taglines": [
             "Judgment is coming"
+        ],
+        "mainCast": [
+            {
+                "actor": "Karl Urban",
+                "name": "Dredd",
+                "description": ""
+            },
+            {
+                "actor": "Olivia Thirlby",
+                "name": "Cassandra Anderson",
+                "description": ""
+            },
+            {
+                "actor": "Lena Headey",
+                "name": "Madeline \"Ma-Ma\" Madrigal",
+                "description": ""
+            },
+            {
+                "actor": "Wood Harris",
+                "name": "Kay",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Domhnall Gleeson",
+                "name": "computer expert",
+                "description": ""
+            },
+            {
+                "actor": "DeObia Oparei",
+                "name": "TJ",
+                "description": ""
+            },
+            {
+                "actor": "Francis Chouler",
+                "name": "Judge Guthrie",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Hadebe",
+                "name": "Judge Volt",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Warrik Grier",
+                "name": "Caleb",
+                "description": ""
+            },
+            {
+                "actor": "Rakie Ayola",
+                "name": "Chief Judge",
+                "description": ""
+            },
+            {
+                "actor": "Langley Kirkwood",
+                "name": "Judge Lex",
+                "description": ""
+            },
+            {
+                "actor": "Edwin Perry",
+                "name": "Judge Alvarez",
+                "description": ""
+            },
+            {
+                "actor": "Karl Thaning",
+                "name": "Judge Chan",
+                "description": ""
+            },
+            {
+                "actor": "Michele Levin",
+                "name": "Judge Kaplan",
+                "description": ""
+            },
+            {
+                "actor": "Junior Singo",
+                "name": "Amos",
+                "description": ""
+            },
+            {
+                "actor": "Luke Tyler",
+                "name": "Freel",
+                "description": ""
+            },
+            {
+                "actor": "Jason Cope",
+                "name": "Zwirner",
+                "description": ""
+            },
+            {
+                "actor": "Joe Vaz",
+                "name": "Big Joe",
+                "description": ""
+            },
+            {
+                "actor": "Scott Sparrow",
+                "name": "Japhet",
+                "description": ""
+            },
+            {
+                "actor": "Nicole Bailey",
+                "name": "Cathy",
+                "description": ""
+            }
         ]
     },
     "The Hobbit: An Unexpected Journey (2012)": {
@@ -11475,6 +11687,45 @@ var igMovieMap = {
         ],
         "taglines": [
             "Earth is a memory worth fighting for."
+        ],
+        "mainCast": [
+            {
+                "actor": "Tom Cruise",
+                "name": "Jack Harper / Tech 49 / Tech 52",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "Malcolm Beech",
+                "description": ""
+            },
+            {
+                "actor": "Olga Kurylenko",
+                "name": "Julia Rusakova Harper",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Andrea Riseborough",
+                "name": "Victoria \"Vika\" Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Nikolaj Coster-Waldau",
+                "name": "Sergeant Sykes",
+                "description": ""
+            },
+            {
+                "actor": "Melissa Leo",
+                "name": "the Tet/\"Sally\"",
+                "description": ""
+            },
+            {
+                "actor": "Zo\u00eb Bell",
+                "name": "Kara",
+                "description": ""
+            }
         ]
     },
     "Iron Man 3 (2013)": {
@@ -11642,6 +11893,87 @@ var igMovieMap = {
         "taglines": [
             "To protect and serve the living",
             "They're defending our world one soul at a time."
+        ],
+        "mainCast": [
+            {
+                "actor": "Ryan Reynolds",
+                "name": "Nick Walker",
+                "description": ""
+            },
+            {
+                "actor": "Jeff Bridges",
+                "name": "Roicephus \"Roy\" Pulsipher",
+                "description": ""
+            },
+            {
+                "actor": "Mary-Louise Parker",
+                "name": "Mildred Proctor",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Bacon",
+                "name": "Bobby Hayes",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "St\u00e9phanie Szostak",
+                "name": "Julia Walker",
+                "description": ""
+            },
+            {
+                "actor": "Marisa Miller",
+                "name": "Opal Pavlenko",
+                "description": ""
+            },
+            {
+                "actor": "James Hong",
+                "name": "Grandpa Jerry Chen",
+                "description": ""
+            },
+            {
+                "actor": "Devin Ratray",
+                "name": "Pulaski",
+                "description": ""
+            },
+            {
+                "actor": "Mike Judge",
+                "name": "voice of Deado",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Robert Knepper",
+                "name": "Stanley Nawicki",
+                "description": ""
+            },
+            {
+                "actor": "Mike O'Malley",
+                "name": "Elliot",
+                "description": ""
+            },
+            {
+                "actor": "Larry Joe Campbell",
+                "name": "Officer Murphy",
+                "description": ""
+            },
+            {
+                "actor": "Piper Mackenzie Harris",
+                "name": "Girl Scout",
+                "description": ""
+            },
+            {
+                "actor": "Toby Huss",
+                "name": "voice of Deado",
+                "description": ""
+            },
+            {
+                "actor": "Jon Olson",
+                "name": "voice of Deado",
+                "description": ""
+            }
         ]
     },
     "Red 2 (2013)": {
@@ -11734,6 +12066,97 @@ var igMovieMap = {
             "We've got the future under control.",
             "Your move",
             "Crime has a new enemy."
+        ],
+        "mainCast": [
+            {
+                "actor": "Joel Kinnaman",
+                "name": "Alex Murphy",
+                "description": ""
+            },
+            {
+                "actor": "Michael K. Williams",
+                "name": "Jack Lewis",
+                "description": ""
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "Dr. Dennett Norton",
+                "description": ""
+            },
+            {
+                "actor": "Michael Keaton",
+                "name": "Raymond Sellars",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Pat Novak",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Abbie Cornish",
+                "name": "Clara Murphy",
+                "description": ""
+            },
+            {
+                "actor": "Jackie Earle Haley",
+                "name": "Rick Mattox",
+                "description": ""
+            },
+            {
+                "actor": "Jennifer Ehle",
+                "name": "Liz Kline",
+                "description": ""
+            },
+            {
+                "actor": "Jay Baruchel",
+                "name": "Tom Pope",
+                "description": ""
+            },
+            {
+                "actor": "Aimee Garcia",
+                "name": "Jae Kim",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Kash",
+                "name": "John Lake",
+                "description": ""
+            },
+            {
+                "actor": "Marianne Jean-Baptiste",
+                "name": "Karen Dean",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John Paul Ruttan",
+                "name": "David Murphy",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Garrow",
+                "name": "Antoine Vallon",
+                "description": ""
+            },
+            {
+                "actor": "K. C. Collins",
+                "name": "Andre Daniels",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Urbanski",
+                "name": "Durant",
+                "description": ""
+            },
+            {
+                "actor": "Zach Grenier",
+                "name": "Dreyfus",
+                "description": ""
+            }
         ]
     },
     "300: Rise of an Empire (2014)": {
@@ -12159,6 +12582,107 @@ var igMovieMap = {
         "taglines": [
             "Before he was a legend, he was a man.",
             "Discover the truth behind the legend"
+        ],
+        "mainCast": [
+            {
+                "actor": "Dwayne Johnson",
+                "name": "Hercules",
+                "description": ""
+            },
+            {
+                "actor": "Rebecca Ferguson",
+                "name": "Ergenia",
+                "description": ""
+            },
+            {
+                "actor": "Ian McShane",
+                "name": "Amphiaraus",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Irina Shayk",
+                "name": "Megara",
+                "description": ""
+            },
+            {
+                "actor": "Rufus Sewell",
+                "name": "Autolycus",
+                "description": ""
+            },
+            {
+                "actor": "Aksel Hennie",
+                "name": "Tydeus",
+                "description": ""
+            },
+            {
+                "actor": "Ingrid Bols\u00f8 Berdal",
+                "name": "Atalanta",
+                "description": ""
+            },
+            {
+                "actor": "Reece Ritchie",
+                "name": "Iolaus",
+                "description": ""
+            },
+            {
+                "actor": "Tobias Santelmann",
+                "name": "Rhesus",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Fiennes",
+                "name": "King Eurystheus",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mullan",
+                "name": "General Sitacles",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "King Cotys",
+                "description": ""
+            },
+            {
+                "actor": "Ian Whyte",
+                "name": "Bessi Leader",
+                "description": ""
+            },
+            {
+                "actor": "Robert Maillet",
+                "name": "Thracian Executioner",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Isaac Andrews",
+                "name": "Arius",
+                "description": ""
+            },
+            {
+                "actor": "Joe Anderson",
+                "name": "Phineas",
+                "description": ""
+            },
+            {
+                "actor": "Steve Peacocke",
+                "name": "Stephanos",
+                "description": ""
+            },
+            {
+                "actor": "Barbara Palvin",
+                "name": "Antimache",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Fairbank",
+                "name": "Gryza",
+                "description": ""
+            }
         ]
     },
     "Guardians of the Galaxy (2014)": {
