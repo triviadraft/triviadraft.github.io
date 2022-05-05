@@ -9313,6 +9313,11 @@
                 "actor": "Peter Dinklage",
                 "name": "Trumpkin",
                 "description": ""
+            },
+            {
+                "actor": "Eddie Izzard",
+                "name": "voice of Reepicheep",
+                "description": ""
             }
         ],
         "supportingCast": [
@@ -9329,11 +9334,6 @@
             {
                 "actor": "Ken Stott",
                 "name": "voice of Trufflehunter",
-                "description": ""
-            },
-            {
-                "actor": "Eddie Izzard",
-                "name": "voice of Reepicheep",
                 "description": ""
             },
             {
@@ -9590,6 +9590,72 @@
             "Believe it or not - he's the good guy",
             "From the visionary director of Pan's Labyrinth",
             "Good never looked so bad."
+        ],
+        "mainCast": [
+            {
+                "actor": "Ron Perlman",
+                "name": "Hellboy",
+                "description": ""
+            },
+            {
+                "actor": "Selma Blair",
+                "name": "Liz Sherman",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Abe Sapien / Angel of Death / Chamberlain",
+                "description": ""
+            },
+            {
+                "actor": "Jeffrey Tambor",
+                "name": "Tom Manning",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John Alexander",
+                "name": "Johann Krauss / Bethmoora Goblin",
+                "description": ""
+            },
+            {
+                "actor": "James Dodd",
+                "name": "Johann Krauss",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Trevor Bruttenholm",
+                "description": ""
+            },
+            {
+                "actor": "Brian Steele",
+                "name": "Mr. Wink / Cathedral Head / Fragglewump / Cronie Troll",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Seth MacFarlane",
+                "name": "voice of Johann Krauss",
+                "description": ""
+            },
+            {
+                "actor": "Luke Goss",
+                "name": "Prince Nuada Silverlance",
+                "description": ""
+            },
+            {
+                "actor": "Anna Walton",
+                "name": "Princess Nuala",
+                "description": ""
+            },
+            {
+                "actor": "Roy Dotrice",
+                "name": "King Balor",
+                "description": ""
+            }
         ]
     },
     "The Dark Knight (2008)": {
@@ -9974,6 +10040,82 @@
         "taglines": [
             "How do you save humanity when the only thing that's real is you?",
             "Human perfection. What could go wrong?"
+        ],
+        "mainCast": [
+            {
+                "actor": "Bruce Willis",
+                "name": "Greer",
+                "description": ""
+            },
+            {
+                "actor": "Radha Mitchell",
+                "name": "Peters",
+                "description": ""
+            },
+            {
+                "actor": "Rosamund Pike",
+                "name": "Maggie",
+                "description": ""
+            },
+            {
+                "actor": "James Cromwell",
+                "name": "Older Canter",
+                "description": ""
+            },
+            {
+                "actor": "Ving Rhames",
+                "name": "The Prophet",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jack Noseworthy",
+                "name": "Strickland",
+                "description": ""
+            },
+            {
+                "actor": "Boris Kodjoe",
+                "name": "Stone",
+                "description": ""
+            },
+            {
+                "actor": "Michael Cudlitz",
+                "name": "Colonel Brendon",
+                "description": ""
+            },
+            {
+                "actor": "Devin Ratray",
+                "name": "Bobby",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "James Francis Ginty",
+                "name": "Canter",
+                "description": ""
+            },
+            {
+                "actor": "Helena Mattsson",
+                "name": "JJ the Blonde",
+                "description": ""
+            },
+            {
+                "actor": "Shane Dzicek",
+                "name": "Jarod Canter",
+                "description": ""
+            },
+            {
+                "actor": "Cody Christian",
+                "name": "Boy Canter",
+                "description": ""
+            },
+            {
+                "actor": "Trevor Donovan",
+                "name": "Surrie/Greer",
+                "description": ""
+            }
         ]
     },
     "Kick-Ass (2010)": {
@@ -10166,6 +10308,132 @@
         "taglines": [
             "Return to magic. Return to hope. Return to Narnia.",
             "Take the voyage. Live the adventure. Discover Narnia like you've never seen it before."
+        ],
+        "mainCast": [
+            {
+                "actor": "Skandar Keynes",
+                "name": "Edmund Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Georgie Henley",
+                "name": "Lucy Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Will Poulter",
+                "name": "Eustace Scrubb",
+                "description": ""
+            },
+            {
+                "actor": "Ben Barnes",
+                "name": "King Caspian",
+                "description": ""
+            },
+            {
+                "actor": "Simon Pegg",
+                "name": "voice of Reepicheep",
+                "description": ""
+            },
+            {
+                "actor": "Liam Neeson",
+                "name": "voice of Aslan",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Gary Sweet",
+                "name": "Lord Drinian",
+                "description": ""
+            },
+            {
+                "actor": "Laura Brent",
+                "name": "Lilliandil",
+                "description": ""
+            },
+            {
+                "actor": "Bille Brown",
+                "name": "Coriakin",
+                "description": ""
+            },
+            {
+                "actor": "Terry Norris",
+                "name": "Lord Bern",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Spence",
+                "name": "Lord Rhoop",
+                "description": ""
+            },
+            {
+                "actor": "Nathaniel Parker",
+                "name": "Caspian IX",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Shani Rangi",
+                "name": "Tavros",
+                "description": "minotaur"
+            },
+            {
+                "actor": "Morgan Evans",
+                "name": "Randy",
+                "description": "faun"
+            },
+            {
+                "actor": "Steven Rooke",
+                "name": "Nausus",
+                "description": "faun"
+            },
+            {
+                "actor": "Tony Nixon",
+                "name": "Rynelf",
+                "description": ""
+            },
+            {
+                "actor": "Arabella Morton",
+                "name": "Gael",
+                "description": ""
+            },
+            {
+                "actor": "David Vallon",
+                "name": "Governor Gumpas",
+                "description": ""
+            },
+            {
+                "actor": "Michael Foster",
+                "name": "Gumpas' money collector",
+                "description": ""
+            },
+            {
+                "actor": "Roy Billing",
+                "name": "Chief Dufflepud",
+                "description": ""
+            },
+            {
+                "actor": "William Moseley",
+                "name": "Peter Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Anna Popplewell",
+                "name": "Susan Pevensie",
+                "description": ""
+            },
+            {
+                "actor": "Tilda Swinton",
+                "name": "Jadis",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Gresham",
+                "name": "slave buyer",
+                "description": ""
+            }
         ]
     },
     "The Green Hornet (2011)": {
