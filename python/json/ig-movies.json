@@ -14215,6 +14215,92 @@
             "An adventure too big for the real world",
             "Accept your reality... or fight for a better one.",
             "A world at stake. A quest for the ultimate prize. ARE YOU READY?"
+        ],
+        "mainCast": [
+            {
+                "actor": "Tye Sheridan",
+                "name": "Wade Watts / Parzival",
+                "description": ""
+            },
+            {
+                "actor": "Olivia Cooke",
+                "name": "Samantha Cook / Art3mis",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "Nolan Sorrento / IOI-655321",
+                "description": ""
+            },
+            {
+                "actor": "Lena Waithe",
+                "name": "Helen Harris / Aech",
+                "description": ""
+            },
+            {
+                "actor": "T.J. Miller",
+                "name": "i-R0k",
+                "description": ""
+            },
+            {
+                "actor": "Simon Pegg",
+                "name": "Ogden Morrow / The Curator",
+                "description": ""
+            },
+            {
+                "actor": "Mark Rylance",
+                "name": "James Halliday / Anorak the All-Knowing",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Philip Zhao",
+                "name": "Zhou / Sho",
+                "description": ""
+            },
+            {
+                "actor": "Win Morisaki",
+                "name": "Toshiro / Daito",
+                "description": ""
+            },
+            {
+                "actor": "Hannah John-Kamen",
+                "name": "F'Nale Zandor",
+                "description": ""
+            },
+            {
+                "actor": "Susan Lynch",
+                "name": "Alice",
+                "description": "Wade's aunt"
+            },
+            {
+                "actor": "Ralph Ineson",
+                "name": "Rick",
+                "description": ""
+            },
+            {
+                "actor": "Letitia Wright",
+                "name": "rebel in Samantha's safe house",
+                "description": ""
+            },
+            {
+                "actor": "Mckenna Grace",
+                "name": "student using OASIS",
+                "description": ""
+            },
+            {
+                "actor": "Lulu Wilson",
+                "name": "student using OASIS",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Perdita Weeks",
+                "name": "Karen \"Kira\" Underwood",
+                "description": ""
+            }
         ]
     },
     "Avengers: Infinity War (2018)": {
@@ -14791,6 +14877,132 @@
             "Meet Your New Hero",
             "He's got demons.",
             "Darkness calls."
+        ],
+        "mainCast": [
+            {
+                "actor": "David Harbour",
+                "name": "Hellboy / Anung Un Rama",
+                "description": ""
+            },
+            {
+                "actor": "Milla Jovovich",
+                "name": "Vivienne Nimue",
+                "description": ""
+            },
+            {
+                "actor": "Ian McShane",
+                "name": "Professor Trevor \"Broom\" Bruttenholm",
+                "description": ""
+            },
+            {
+                "actor": "Sasha Lane",
+                "name": "Alice Monaghan",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Dae Kim",
+                "name": "Ben Daimio",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Stephen Graham",
+                "name": "voice of Gruagach",
+                "description": ""
+            },
+            {
+                "actor": "Sophie Okonedo",
+                "name": "Lady Hatton",
+                "description": ""
+            },
+            {
+                "actor": "Alistair Petrie",
+                "name": "Lord Adam Glaren",
+                "description": ""
+            },
+            {
+                "actor": "Brian Gleeson",
+                "name": "Merlin",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Haden Church",
+                "name": "Lobster Johnson",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Penelope Mitchell",
+                "name": "Ganeida",
+                "description": ""
+            },
+            {
+                "actor": "Mark Stanley",
+                "name": "King Arthur",
+                "description": ""
+            },
+            {
+                "actor": "Emma Tate",
+                "name": "voice of Baba Yaga",
+                "description": ""
+            },
+            {
+                "actor": "Mario de la Rosa",
+                "name": "Esteban Ruiz / Camazotz",
+                "description": ""
+            },
+            {
+                "actor": "Ava Brennan",
+                "name": "Alice's mother",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Delaney",
+                "name": "Alice's father",
+                "description": ""
+            },
+            {
+                "actor": "Atanas Srebrev",
+                "name": "Agent Madison",
+                "description": ""
+            },
+            {
+                "actor": "Dawn Sherrer",
+                "name": "Agent Strode",
+                "description": ""
+            },
+            {
+                "actor": "Markos Rounthwaite",
+                "name": "Grigori Rasputin",
+                "description": ""
+            },
+            {
+                "actor": "Vanessa Eicholz",
+                "name": "Ilsa Hepstein",
+                "description": ""
+            },
+            {
+                "actor": "Ilko Iliev",
+                "name": "Professor Doctor Karl Ruprect Kroenen",
+                "description": ""
+            },
+            {
+                "actor": "Joel Harlow",
+                "name": "Von Krupt",
+                "description": ""
+            },
+            {
+                "actor": "Dimiter Banenkin",
+                "name": "Leopold Kurtz",
+                "description": ""
+            },
+            {
+                "actor": "Kristina Klebe",
+                "name": "Leni Riefenstahl",
+                "description": ""
+            }
         ]
     },
     "Avengers: Endgame (2019)": {
@@ -14834,6 +15046,107 @@
         "taglines": [
             "The Universe is Expanding",
             "The world's not going to save itself"
+        ],
+        "mainCast": [
+            {
+                "actor": "Chris Hemsworth",
+                "name": "Henry / Agent H",
+                "description": ""
+            },
+            {
+                "actor": "Tessa Thompson",
+                "name": "Molly Wright / Agent M",
+                "description": ""
+            },
+            {
+                "actor": "Liam Neeson",
+                "name": "High T",
+                "description": ""
+            },
+            {
+                "actor": "Kumail Nanjiani",
+                "name": "voice of Steve / Pawny",
+                "description": ""
+            },
+            {
+                "actor": "Rafe Spall",
+                "name": "Agent C",
+                "description": ""
+            },
+            {
+                "actor": "Rebecca Ferguson",
+                "name": "Riza Stavros",
+                "description": ""
+            },
+            {
+                "actor": "Emma Thompson",
+                "name": "Agent O",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Mandeiya Flory",
+                "name": "young Molly Wright",
+                "description": ""
+            },
+            {
+                "actor": "Annie Burkin",
+                "name": "Nerlene",
+                "description": ""
+            },
+            {
+                "actor": "Marcy Harriell",
+                "name": "Molly's mother",
+                "description": ""
+            },
+            {
+                "actor": "Inny Clemons",
+                "name": "Molly's father",
+                "description": ""
+            },
+            {
+                "actor": "Thom Fountain",
+                "name": "voice of Worm Guy",
+                "description": ""
+            },
+            {
+                "actor": "Drew Massey",
+                "name": "voice of Worm Guy",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Wight",
+                "name": "stupid guy in a call center next to Molly",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Laurent Bourgeois",
+                "name": "one of the Twins",
+                "description": ""
+            },
+            {
+                "actor": "Larry Bourgeois",
+                "name": "one of the Twins",
+                "description": ""
+            },
+            {
+                "actor": "Kayvan Novak",
+                "name": "Vungus the Ugly / Nasr / voice of Bassam",
+                "description": ""
+            },
+            {
+                "actor": "Tim Blaney",
+                "name": "Frank the Pug",
+                "description": ""
+            },
+            {
+                "actor": "Spencer Wilding",
+                "name": "Luca Brasi",
+                "description": ""
+            }
         ]
     },
     "Spider-Man: Far From Home (2019)": {
@@ -15028,6 +15341,62 @@
         "taglines": [
             "Being a hero is in his blood.",
             "You Don't Need a Past to Have a Future"
+        ],
+        "mainCast": [
+            {
+                "actor": "Vin Diesel",
+                "name": "Ray Garrison / Bloodshot",
+                "description": ""
+            },
+            {
+                "actor": "Eiza Gonz\u00e1lez",
+                "name": "KT",
+                "description": ""
+            },
+            {
+                "actor": "Toby Kebbell",
+                "name": "Martin Axe",
+                "description": ""
+            },
+            {
+                "actor": "Guy Pearce",
+                "name": "Dr. Emil Harting",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Sam Heughan",
+                "name": "Jimmy Dalton",
+                "description": ""
+            },
+            {
+                "actor": "Talulah Riley",
+                "name": "Gina Garrison",
+                "description": ""
+            },
+            {
+                "actor": "Lamorne Morris",
+                "name": "Wilfred Wigans",
+                "description": ""
+            },
+            {
+                "actor": "J\u00f3hannes Haukur J\u00f3hannesson",
+                "name": "Nick Baris",
+                "description": ""
+            },
+            {
+                "actor": "Alex Hernandez",
+                "name": "Marcus Tibbs",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Siddharth Dhananjay",
+                "name": "Eric",
+                "description": ""
+            }
         ]
     },
     "Extraction (2020)": {

@@ -105437,6 +105437,20 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Steven Spielberg"
+        ],
+        "cast": [
+            "Ben Mendelsohn",
+            "Hannah John-Kamen",
+            "Lena Waithe",
+            "Letitia Wright",
+            "Lulu Wilson",
+            "Mark Rylance",
+            "Mckenna Grace",
+            "Olivia Cooke",
+            "Ralph Ineson",
+            "Simon Pegg",
+            "T.J. Miller",
+            "Tye Sheridan"
         ]
     },
     "Acrimony (2018)": {
@@ -109444,6 +109458,16 @@ var movieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Daniel Dae Kim",
+            "David Harbour",
+            "Ian McShane",
+            "Milla Jovovich",
+            "Sasha Lane",
+            "Sophie Okonedo",
+            "Stephen Graham",
+            "Thomas Haden Church"
         ]
     },
     "Little (2019)": {
@@ -110093,6 +110117,18 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Marvel"
+        ],
+        "cast": [
+            "Annie Burkin",
+            "Chris Hemsworth",
+            "Emma Thompson",
+            "Kayvan Novak",
+            "Kumail Nanjiani",
+            "Liam Neeson",
+            "Rafe Spall",
+            "Rebecca Ferguson",
+            "Tessa Thompson",
+            "Tim Blaney"
         ]
     },
     "Murder Mystery (2019)": {
@@ -113105,6 +113141,14 @@ var movieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Eiza Gonz\u00e1lez",
+            "Guy Pearce",
+            "Lamorne Morris",
+            "Sam Heughan",
+            "Toby Kebbell",
+            "Vin Diesel"
         ]
     },
     "I Still Believe (2020)": {
