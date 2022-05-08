@@ -118,15 +118,15 @@ def generate_jsons():
     with open(r'python/json/ig-mts-questions.txt', 'w', encoding='utf-8') as f:
         f.write(str(encoded)[1:])
 
-    # oscars data
-    actor_oscar_dict = {}
+    # actor data
+    actor_dict = {}
     with open(r'python/csv/Oscars - Actors.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             name = row['Name']
-            actor_oscar_dict[name] = {}
+            actor_dict[name] = {}
             if row['Lead']:
-                actor_oscar_dict[name]['lead'] = []
+                actor_dict[name]['leadNoms'] = []
 
                 lead_movie_names = row['Lead'].split('), ')
                 for movie_name in lead_movie_names:
@@ -135,15 +135,15 @@ def generate_jsons():
                             'movie': movie_name[:-7],
                             'year': movie_name[len(movie_name)-5:len(movie_name)-1],
                         }
-                        actor_oscar_dict[name]['lead'].append(lead_movie_dict)
+                        actor_dict[name]['leadNoms'].append(lead_movie_dict)
                     else:
                         lead_movie_dict = {
                             'movie': movie_name[:-6],
                             'year': movie_name[len(movie_name)-4:len(movie_name)],
                         }
-                        actor_oscar_dict[name]['lead'].append(lead_movie_dict)
+                        actor_dict[name]['leadNoms'].append(lead_movie_dict)
             if row['Supporting']:
-                actor_oscar_dict[name]['supporting'] = []
+                actor_dict[name]['suppNoms'] = []
 
                 supp_movie_names = row['Supporting'].split('), ')
                 for movie_name in supp_movie_names:
@@ -152,16 +152,28 @@ def generate_jsons():
                             'movie': movie_name[:-7],
                             'year': movie_name[len(movie_name)-5:len(movie_name)-1],
                         }
-                        actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
+                        actor_dict[name]['suppNoms'].append(supp_movie_dict)
                     else:
                         supp_movie_dict = {
                             'movie': movie_name[:-6],
                             'year': movie_name[len(movie_name)-4:len(movie_name)],
                         }
-                        actor_oscar_dict[name]['supporting'].append(supp_movie_dict)
+                        actor_dict[name]['suppNoms'].append(supp_movie_dict)
 
-    with open(r'python/json/actor-oscars.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(actor_oscar_dict, indent=4))
+    with open(r'python/csv/actordata - casts.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+
+        for row in csvReader:
+            actor = row['actor']
+            if actor not in actor_dict:
+                actor_dict[actor] = {}
+            if 'movies' not in actor_dict[actor]:
+                actor_dict[actor]['movies'] = []
+
+            actor_dict[actor]['movies'].append(row['movie'])
+
+    with open(r'python/json/actors.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(dict(sorted(actor_dict.items())), indent=4))
 
 
     # director data

@@ -40,7 +40,7 @@ function reset() {
             name3 += ' (' + randomList[2]['description'] + ')';
         }
 
-        var question = 'What ' + category + ' film includes ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
+        var question = 'What ' + category + ' film features ' + actor1 + ', ' + actor2 + ', and ' + actor3 + '?';
         var answer = movie;
 
         questions.push(question);
