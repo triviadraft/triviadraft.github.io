@@ -1,12 +1,18 @@
+function getMapWithNominations(map) {
+    const asArray = Object.entries(map);
+    filtered = asArray.filter(([key, value]) => 'leadNoms' in map[key] || 'suppNoms' in map[key]);
+    return Object.fromEntries(filtered);
+}
+
 function reset() { 
-    var actors = randomItems(5, Object.keys(actorOscarMap));
+    var actors = randomItems(5, Object.keys(actorMapWithNominations));
 
     questions = [];
     answers = [];
     for (const actor of actors) {
         var questionTypes = [];
-        var leadMovies = actorOscarMap[actor]['lead'];
-        var suppMovies = actorOscarMap[actor]['supporting'];
+        var leadMovies = actorMapWithNominations[actor]['leadNoms'];
+        var suppMovies = actorMapWithNominations[actor]['suppNoms'];
         if (leadMovies) {
             questionTypes.push('leadMovie');
             questionTypes.push('leadYear');
@@ -47,6 +53,7 @@ function reset() {
     resetAnswers();
 }
 
+var actorMapWithNominations = getMapWithNominations(actorMap);
 var questions = [];
 var answers = [];
 reset();
