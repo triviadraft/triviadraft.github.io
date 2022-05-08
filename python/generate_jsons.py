@@ -118,6 +118,33 @@ def generate_jsons():
     with open(r'python/json/ig-mts-questions.txt', 'w', encoding='utf-8') as f:
         f.write(str(encoded)[1:])
 
+
+    # director data
+    director_dict = {}
+    with open(r'python/csv/Directors - Directors.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            name = row['Name']
+            director_dict[name] = []
+            movie_names = row['Movies'].split('), ')
+            for movie_name in movie_names:
+                if movie_name.endswith(')'):
+                    single_movie_dict = {
+                        'movie': movie_name[:-7],
+                        'year': movie_name[len(movie_name)-5:len(movie_name)-1],
+                    }
+                    director_dict[name].append(single_movie_dict)
+                else:
+                    single_movie_dict = {
+                        'movie': movie_name[:-6],
+                        'year': movie_name[len(movie_name)-4:len(movie_name)],
+                    }
+                    director_dict[name].append(single_movie_dict)
+
+    with open(r'python/json/directors.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(director_dict, indent=4))
+
+
     # actor data
     actor_dict = {}
     with open(r'python/csv/Oscars - Actors.csv', encoding='utf-8') as csvf:
@@ -176,32 +203,6 @@ def generate_jsons():
         jsonf.write(json.dumps(dict(sorted(actor_dict.items())), indent=4))
 
 
-    # director data
-    director_dict = {}
-    with open(r'python/csv/Directors - Directors.csv', encoding='utf-8') as csvf:
-        csvReader = csv.DictReader(csvf)
-        for row in csvReader:
-            name = row['Name']
-            director_dict[name] = []
-            movie_names = row['Movies'].split('), ')
-            for movie_name in movie_names:
-                if movie_name.endswith(')'):
-                    single_movie_dict = {
-                        'movie': movie_name[:-7],
-                        'year': movie_name[len(movie_name)-5:len(movie_name)-1],
-                    }
-                    director_dict[name].append(single_movie_dict)
-                else:
-                    single_movie_dict = {
-                        'movie': movie_name[:-6],
-                        'year': movie_name[len(movie_name)-4:len(movie_name)],
-                    }
-                    director_dict[name].append(single_movie_dict)
-
-    with open(r'python/json/directors.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(director_dict, indent=4))
-
-
     ################################################################################################
     ##### IG Data ##################################################################################
     ################################################################################################
@@ -212,16 +213,15 @@ def generate_jsons():
         csvReader = csv.DictReader(csvf)
         for row in csvReader:
             movie = row['movie']
-            title = row['movie']
+            title = row['movie'][:-7]
             year = row['release'][-4:]
-            if movie.endswith(')'):
-                title = title[:-7]
-            else:
-                movie += ' (' + year + ')'
+            franchise = row['franchise']
+
             single_movie_dict = {
                 'title': title,
                 'year': year,
                 'categories': row['categories'].split(','),
+                'franchise': franchise
             }
             ig_movie_dict[movie] = single_movie_dict
 
@@ -257,6 +257,33 @@ def generate_jsons():
 
     with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(ig_movie_dict, indent=4))
+
+
+    # ig actor data
+    ig_actor_dict = {}
+
+    with open(r'python/csv/actordata - ig-casts.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+
+        for row in csvReader:
+            if not row['level'] == 'minor':
+                actor = row['actor']
+                if actor not in ig_actor_dict:
+                    ig_actor_dict[actor] = {}
+                if 'movies' not in ig_actor_dict[actor]:
+                    ig_actor_dict[actor]['movies'] = {}
+
+                movie = row['movie']
+                if ig_movie_dict[movie]['franchise']:
+                    franchise = ig_movie_dict[movie]['franchise']
+                    if franchise not in ig_actor_dict[actor]['movies']:
+                        ig_actor_dict[actor]['movies'][franchise] = []
+                    ig_actor_dict[actor]['movies'][franchise].append(movie)
+                else:
+                    ig_actor_dict[actor]['movies'][movie] = [movie]
+
+    with open(r'python/json/ig-actors.json', 'w', encoding='utf-8') as jsonf:
+        jsonf.write(json.dumps(dict(sorted(ig_actor_dict.items())), indent=4))
 
 
     ################################################################################################

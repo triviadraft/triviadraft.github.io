@@ -14659,6 +14659,20 @@ var movieMap = {
             "Harrison Ford",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Alec Guinness",
+            "Anthony Daniels",
+            "Carrie Fisher",
+            "David Prowse",
+            "Denis Lawson",
+            "Harrison Ford",
+            "James Earl Jones",
+            "Kenny Baker",
+            "Mark Hamill",
+            "Peter Cushing",
+            "Peter Mayhew",
+            "Phil Brown"
         ]
     },
     "Smokey and the Bandit (1977)": {
@@ -15589,6 +15603,18 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Animated",
             "Middle-earth"
+        ],
+        "cast": [
+            "Anthony Daniels",
+            "Christopher Guard",
+            "David Buck",
+            "Dominic Guard",
+            "John Hurt",
+            "Michael Graham Cox",
+            "Michael Scholes",
+            "Norman Bird",
+            "Simon Chandler",
+            "William Squire"
         ]
     },
     "The Deer Hunter (1978)": {
@@ -15642,6 +15668,20 @@ var movieMap = {
             "Gene Hackman",
             "Richard Donner",
             "Superman"
+        ],
+        "cast": [
+            "Christopher Reeve",
+            "Gene Hackman",
+            "Glenn Ford",
+            "Jackie Cooper",
+            "Jeff East",
+            "Margot Kidder",
+            "Marlon Brando",
+            "Ned Beatty",
+            "Susannah York",
+            "Terence Stamp",
+            "Trevor Howard",
+            "Valerie Perrine"
         ]
     },
     "Every Which Way but Loose (1978)": {
@@ -16251,6 +16291,17 @@ var movieMap = {
             "1970s",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "DeForest Kelley",
+            "George Takei",
+            "James Doohan",
+            "Leonard Nimoy",
+            "Nichelle Nichols",
+            "Persis Khambatta",
+            "Stephen Collins",
+            "Walter Koenig",
+            "William Shatner"
         ]
     },
     "1941 (1979)": {
@@ -16567,6 +16618,22 @@ var movieMap = {
             "Harrison Ford",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Alec Guinness",
+            "Anthony Daniels",
+            "Billy Dee Williams",
+            "Carrie Fisher",
+            "David Prowse",
+            "Denis Lawson",
+            "Frank Oz",
+            "Harrison Ford",
+            "James Earl Jones",
+            "John Ratzenberger",
+            "Julian Glover",
+            "Kenny Baker",
+            "Mark Hamill",
+            "Peter Mayhew"
         ]
     },
     "The Shining (1980)": {

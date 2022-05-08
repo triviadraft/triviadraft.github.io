@@ -46,6 +46,8 @@ navigation:
     url: /actors/
   - title: IG MTS
     url: /ig-mts/
+  - title: IG Casts
+    url: /ig-casts/
   - title: IG Actors
     url: /ig-actors/
   - title: IG Taglines

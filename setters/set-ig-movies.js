@@ -15,6 +15,97 @@ var igMovieMap = {
             "WHAM! NOW It's All on the Cinema Screens in COLOUR!",
             "FOR THE FIRST TIME ON THE MOTION PICTURE SCREEN IN COLOR! Adam West as Batman and Burt Ward as Robin together with all their fantastic derring-do and their dastardly villains, too!",
             "MEN DIE! WOMEN SIGH! Beneath that Batcape - he's all man!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Adam West",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Burt Ward",
+                "name": "Dick Grayson / Robin",
+                "description": ""
+            },
+            {
+                "actor": "Lee Meriwether",
+                "name": "The Catwoman",
+                "description": ""
+            },
+            {
+                "actor": "Cesar Romero",
+                "name": "The Joker",
+                "description": ""
+            },
+            {
+                "actor": "Burgess Meredith",
+                "name": "The Penguin",
+                "description": ""
+            },
+            {
+                "actor": "Frank Gorshin",
+                "name": "The Riddler",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Alan Napier",
+                "name": "Alfred",
+                "description": ""
+            },
+            {
+                "actor": "Neil Hamilton",
+                "name": "Commissioner Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Stafford Repp",
+                "name": "Chief O'Hara",
+                "description": ""
+            },
+            {
+                "actor": "Madge Blake",
+                "name": "Aunt Harriet",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Reginald Denny",
+                "name": "Commodore Schmidlapp",
+                "description": ""
+            },
+            {
+                "actor": "Milton Frome",
+                "name": "Vice Admiral Fangschleister",
+                "description": ""
+            },
+            {
+                "actor": "Gil Perkins",
+                "name": "Bluebeard",
+                "description": ""
+            },
+            {
+                "actor": "Dick Crockett",
+                "name": "Morgan",
+                "description": ""
+            },
+            {
+                "actor": "George Sawaya",
+                "name": "Quetch",
+                "description": ""
+            },
+            {
+                "actor": "Van Williams",
+                "name": "voice of President Lyndon B. Johnson",
+                "description": ""
+            },
+            {
+                "actor": "Jack LaLanne",
+                "name": "man on rooftop with bikini-clad women",
+                "description": ""
+            }
         ]
     },
     "Planet of the Apes (1968)": {
@@ -537,6 +628,127 @@ var igMovieMap = {
             "The original is back.",
             "A long time ago in a galaxy far, far away...",
             "Coming to your galaxy this summer."
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Hamill",
+                "name": "Luke Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Han Solo",
+                "description": ""
+            },
+            {
+                "actor": "Carrie Fisher",
+                "name": "Princess Leia",
+                "description": ""
+            },
+            {
+                "actor": "Peter Cushing",
+                "name": "Grand Moff Tarkin",
+                "description": ""
+            },
+            {
+                "actor": "Alec Guinness",
+                "name": "Obi-Wan 'Ben' Kenobi",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "R2-D2",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mayhew",
+                "name": "Chewbacca",
+                "description": ""
+            },
+            {
+                "actor": "David Prowse",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth vader",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Phil Brown",
+                "name": "Owen",
+                "description": ""
+            },
+            {
+                "actor": "Shelagh Fraser",
+                "name": "Beru",
+                "description": ""
+            },
+            {
+                "actor": "Denis Lawson",
+                "name": "Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Garrick Hagon",
+                "name": "Biggs Darklighter",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jack Purvis",
+                "name": "the Chief Jawa",
+                "description": ""
+            },
+            {
+                "actor": "Eddie Byrne",
+                "name": "Vanden Willard",
+                "description": ""
+            },
+            {
+                "actor": "Don Henderson",
+                "name": "Cassio Tagge",
+                "description": ""
+            },
+            {
+                "actor": "Leslie Schofield",
+                "name": "Moradmin Bast",
+                "description": ""
+            },
+            {
+                "actor": "Richard LeParmentier",
+                "name": "Admiral Motti",
+                "description": ""
+            },
+            {
+                "actor": "Alex McCrindle",
+                "name": "General Jan Dodonna",
+                "description": ""
+            },
+            {
+                "actor": "Alfie Curtis",
+                "name": "Dr. Evazan",
+                "description": ""
+            },
+            {
+                "actor": "Peter Geddis",
+                "name": "Captain Raymus Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Michael Leader",
+                "name": "Stormtrooper known for accidentally hitting his helmet against a door",
+                "description": ""
+            }
         ]
     },
     "The Lord of the Rings (1978)": {
@@ -553,6 +765,102 @@ var igMovieMap = {
             "Fantasy Beyond Your Imagination",
             "One man cast a lingering spell of awe and wonder, of magical innocence overcoming evil, of simple courage conquering fear - he gave us the legend that will live forever in our minds. J.R.R. Tolkein triumphed with the perception that a single dream is more powerful than a thousand realities. Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
             "From J.R.R. Tolkien's Magical The Lord of the Rings Trilogy"
+        ],
+        "mainCast": [
+            {
+                "actor": "Christopher Guard",
+                "name": "Frodo",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "William Squire",
+                "name": "Gandalf",
+                "description": ""
+            },
+            {
+                "actor": "Michael Scholes",
+                "name": "Sam",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Aragorn",
+                "description": ""
+            },
+            {
+                "actor": "Simon Chandler",
+                "name": "Merry",
+                "description": ""
+            },
+            {
+                "actor": "Dominic Guard",
+                "name": "Pippin",
+                "description": ""
+            },
+            {
+                "actor": "Norman Bird",
+                "name": "Bilbo",
+                "description": ""
+            },
+            {
+                "actor": "Michael Graham Cox",
+                "name": "Boromir",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "Legolas",
+                "description": ""
+            },
+            {
+                "actor": "David Buck",
+                "name": "Gimli",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Peter Woodthorpe",
+                "name": "Gollum",
+                "description": ""
+            },
+            {
+                "actor": "Fraser Kerr",
+                "name": "Saruman",
+                "description": ""
+            },
+            {
+                "actor": "Philip Stone",
+                "name": "Th\u00e9oden",
+                "description": ""
+            },
+            {
+                "actor": "Michael Deacon",
+                "name": "Wormtongue",
+                "description": ""
+            },
+            {
+                "actor": "Andr\u00e9 Morell",
+                "name": "Elrond",
+                "description": ""
+            },
+            {
+                "actor": "Alan Tilvern",
+                "name": "Innkeeper",
+                "description": ""
+            },
+            {
+                "actor": "Annette Crosbie",
+                "name": "Galadriel",
+                "description": ""
+            },
+            {
+                "actor": "John Westbrook",
+                "name": "Treebeard",
+                "description": ""
+            }
         ]
     },
     "Superman (1978)": {
@@ -566,6 +874,117 @@ var igMovieMap = {
         "taglines": [
             "You'll believe a man can fly.",
             "The movie that makes a legend come to life."
+        ],
+        "mainCast": [
+            {
+                "actor": "Marlon Brando",
+                "name": "Jor-El",
+                "description": ""
+            },
+            {
+                "actor": "Gene Hackman",
+                "name": "Lex Luthor",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Reeve",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Ned Beatty",
+                "name": "Otis",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jeff East",
+                "name": "teenage Clark Kent",
+                "description": ""
+            },
+            {
+                "actor": "Maria Schell",
+                "name": "Vond-Ah",
+                "description": ""
+            },
+            {
+                "actor": "Harry Andrews",
+                "name": "Second Elder",
+                "description": ""
+            },
+            {
+                "actor": "Diane Sherry",
+                "name": "Lana Lang",
+                "description": ""
+            },
+            {
+                "actor": "Larry Hagman",
+                "name": "army major",
+                "description": ""
+            },
+            {
+                "actor": "Rex Reed",
+                "name": "himself",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Glenn Ford",
+                "name": "Jonathan Kent",
+                "description": ""
+            },
+            {
+                "actor": "Trevor Howard",
+                "name": "First Elder",
+                "description": ""
+            },
+            {
+                "actor": "Jack O'Halloran",
+                "name": "Non",
+                "description": ""
+            },
+            {
+                "actor": "Valerie Perrine",
+                "name": "Eve Teschmacher",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "General Zod",
+                "description": ""
+            },
+            {
+                "actor": "Phyllis Thaxter",
+                "name": "Martha Kent (n\u00e9e Clark)",
+                "description": ""
+            },
+            {
+                "actor": "Susannah York",
+                "name": "Lara",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Ursa",
+                "description": ""
+            }
         ]
     },
     "Alien (1979)": {
@@ -657,6 +1076,77 @@ var igMovieMap = {
             "It will startle your senses, challenge your intellect, and alter your perception of the future by taking you there.",
             "A living object of infinite proportions and divine power is searching the universe for its origins, determined to find its creator, and about to encounter a 23rd century starship from Earth called Enterprise.",
             "An army of technicians has been working for years to perfect this great starship. When completed, she will be superior to anything in space. But time has run out, and the ship has to depart unfinished, in search of the greatest mystery ever to confront the human race."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Persis Khambatta",
+                "name": "Ilia",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Collins",
+                "name": "Willard Decker",
+                "description": ""
+            },
+            {
+                "actor": "Majel Barrett",
+                "name": "Christine Chapel",
+                "description": ""
+            },
+            {
+                "actor": "Grace Lee Whitney",
+                "name": "Janie Rand",
+                "description": ""
+            },
+            {
+                "actor": "Mark Lenard",
+                "name": "Klingon commander",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "David Gautreaux",
+                "name": "Branch",
+                "description": ""
+            }
         ]
     },
     "Mad Max (1980)": {
@@ -773,6 +1263,157 @@ var igMovieMap = {
             "The Adventure Continues...",
             "The Star Wars saga continues",
             "The battle continues..."
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Hamill",
+                "name": "Luke Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Han Solo",
+                "description": ""
+            },
+            {
+                "actor": "Carrie Fisher",
+                "name": "Leia Organa",
+                "description": ""
+            },
+            {
+                "actor": "Billy Dee Williams",
+                "name": "Lando Calrissian",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "David Prowse",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mayhew",
+                "name": "Peter Mayhew",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "R2-D2",
+                "description": ""
+            },
+            {
+                "actor": "Frank Oz",
+                "name": "Yoda",
+                "description": ""
+            },
+            {
+                "actor": "Alec Guinness",
+                "name": "Obi-Wan Kenobi",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Denis Lawson",
+                "name": "Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Julian Glover",
+                "name": "General Veers",
+                "description": ""
+            },
+            {
+                "actor": "Kenneth Colley",
+                "name": "Admiral Piett",
+                "description": ""
+            },
+            {
+                "actor": "John Ratzenberger",
+                "name": "Major Derlin",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Boa",
+                "name": "General Rieekan",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Bulloch",
+                "name": "Boba Fett",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John Hollis",
+                "name": "Lobot",
+                "description": ""
+            },
+            {
+                "actor": "Michael Sheard",
+                "name": "Admiral Ozzel",
+                "description": ""
+            },
+            {
+                "actor": "Michael Culver",
+                "name": "Captain Needa",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Malcolm",
+                "name": "Zev Senesca",
+                "description": ""
+            },
+            {
+                "actor": "John Morton",
+                "name": "Dak Ralter",
+                "description": ""
+            },
+            {
+                "actor": "Richard Oldfield",
+                "name": "Hobbie Klivian",
+                "description": ""
+            },
+            {
+                "actor": "Morris Bush",
+                "name": "Dengar",
+                "description": ""
+            },
+            {
+                "actor": "Alan Harris",
+                "name": "Bossk",
+                "description": ""
+            },
+            {
+                "actor": "Chris Parsons",
+                "name": "4-LOM",
+                "description": ""
+            },
+            {
+                "actor": "Jason Wingreen",
+                "name": "voice of Boba Fett",
+                "description": ""
+            },
+            {
+                "actor": "Marjorie Eaton",
+                "name": "Emperor",
+                "description": ""
+            },
+            {
+                "actor": "Clive Revill",
+                "name": "voice of Emperor",
+                "description": ""
+            }
         ]
     },
     "Flash Gordon (1980)": {

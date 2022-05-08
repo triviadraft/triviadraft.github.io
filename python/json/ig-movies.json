@@ -7,6 +7,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "He's here big as life in a real Bat-epic",
             "From the famous character \"BATMAN\"",
@@ -15,6 +16,97 @@
             "WHAM! NOW It's All on the Cinema Screens in COLOUR!",
             "FOR THE FIRST TIME ON THE MOTION PICTURE SCREEN IN COLOR! Adam West as Batman and Burt Ward as Robin together with all their fantastic derring-do and their dastardly villains, too!",
             "MEN DIE! WOMEN SIGH! Beneath that Batcape - he's all man!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Adam West",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Burt Ward",
+                "name": "Dick Grayson / Robin",
+                "description": ""
+            },
+            {
+                "actor": "Lee Meriwether",
+                "name": "The Catwoman",
+                "description": ""
+            },
+            {
+                "actor": "Cesar Romero",
+                "name": "The Joker",
+                "description": ""
+            },
+            {
+                "actor": "Burgess Meredith",
+                "name": "The Penguin",
+                "description": ""
+            },
+            {
+                "actor": "Frank Gorshin",
+                "name": "The Riddler",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Alan Napier",
+                "name": "Alfred",
+                "description": ""
+            },
+            {
+                "actor": "Neil Hamilton",
+                "name": "Commissioner Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Stafford Repp",
+                "name": "Chief O'Hara",
+                "description": ""
+            },
+            {
+                "actor": "Madge Blake",
+                "name": "Aunt Harriet",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Reginald Denny",
+                "name": "Commodore Schmidlapp",
+                "description": ""
+            },
+            {
+                "actor": "Milton Frome",
+                "name": "Vice Admiral Fangschleister",
+                "description": ""
+            },
+            {
+                "actor": "Gil Perkins",
+                "name": "Bluebeard",
+                "description": ""
+            },
+            {
+                "actor": "Dick Crockett",
+                "name": "Morgan",
+                "description": ""
+            },
+            {
+                "actor": "George Sawaya",
+                "name": "Quetch",
+                "description": ""
+            },
+            {
+                "actor": "Van Williams",
+                "name": "voice of President Lyndon B. Johnson",
+                "description": ""
+            },
+            {
+                "actor": "Jack LaLanne",
+                "name": "man on rooftop with bikini-clad women",
+                "description": ""
+            }
         ]
     },
     "Planet of the Apes (1968)": {
@@ -23,6 +115,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "Somewhere in the universe there must be something better than man. In a matter of time, an astronaut will wing through the centuries and find the answer. He may find the most terrifying one of all on the planet where apes are the rulers and man the beast.",
             "An unusual and important motion picture from the author of \"The Bridge on the River Kwai\"!",
@@ -125,6 +218,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "Now civilization's final battle between man and ape is about to begin.",
             "The bizarre world you met in 'Planet of the Apes' was only the beginning... What lies beneath may be the end!",
@@ -221,6 +315,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "...in a democracy we do not shoot unarmed suspects on sight for a murder in which their participation is still legally unproven",
             "The most powerful family of the 20th Century...It's Baby Milo Who Has Washington Terrified!",
@@ -326,6 +421,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "The Newest And Biggest Yet!",
             "All new! The revolt of the apes. The most awesome spectacle in the annals of science fiction!"
@@ -423,6 +519,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "The final chapter in the incredible Apes saga. The most suspenseful showdown ever filmed as two civilizations battle for the right to inherit what's left of the earth!"
         ],
@@ -529,6 +626,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "It's Back! The Force will be with you for three weeks only.",
             "May the Force be with you. One year old today.",
@@ -537,6 +635,127 @@
             "The original is back.",
             "A long time ago in a galaxy far, far away...",
             "Coming to your galaxy this summer."
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Hamill",
+                "name": "Luke Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Han Solo",
+                "description": ""
+            },
+            {
+                "actor": "Carrie Fisher",
+                "name": "Princess Leia",
+                "description": ""
+            },
+            {
+                "actor": "Peter Cushing",
+                "name": "Grand Moff Tarkin",
+                "description": ""
+            },
+            {
+                "actor": "Alec Guinness",
+                "name": "Obi-Wan 'Ben' Kenobi",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "R2-D2",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mayhew",
+                "name": "Chewbacca",
+                "description": ""
+            },
+            {
+                "actor": "David Prowse",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth vader",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Phil Brown",
+                "name": "Owen",
+                "description": ""
+            },
+            {
+                "actor": "Shelagh Fraser",
+                "name": "Beru",
+                "description": ""
+            },
+            {
+                "actor": "Denis Lawson",
+                "name": "Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Garrick Hagon",
+                "name": "Biggs Darklighter",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jack Purvis",
+                "name": "the Chief Jawa",
+                "description": ""
+            },
+            {
+                "actor": "Eddie Byrne",
+                "name": "Vanden Willard",
+                "description": ""
+            },
+            {
+                "actor": "Don Henderson",
+                "name": "Cassio Tagge",
+                "description": ""
+            },
+            {
+                "actor": "Leslie Schofield",
+                "name": "Moradmin Bast",
+                "description": ""
+            },
+            {
+                "actor": "Richard LeParmentier",
+                "name": "Admiral Motti",
+                "description": ""
+            },
+            {
+                "actor": "Alex McCrindle",
+                "name": "General Jan Dodonna",
+                "description": ""
+            },
+            {
+                "actor": "Alfie Curtis",
+                "name": "Dr. Evazan",
+                "description": ""
+            },
+            {
+                "actor": "Peter Geddis",
+                "name": "Captain Raymus Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Michael Leader",
+                "name": "Stormtrooper known for accidentally hitting his helmet against a door",
+                "description": ""
+            }
         ]
     },
     "The Lord of the Rings (1978)": {
@@ -546,6 +765,7 @@
             "Animated",
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
             "Fantasy...beyond your imagination",
@@ -553,6 +773,102 @@
             "Fantasy Beyond Your Imagination",
             "One man cast a lingering spell of awe and wonder, of magical innocence overcoming evil, of simple courage conquering fear - he gave us the legend that will live forever in our minds. J.R.R. Tolkein triumphed with the perception that a single dream is more powerful than a thousand realities. Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
             "From J.R.R. Tolkien's Magical The Lord of the Rings Trilogy"
+        ],
+        "mainCast": [
+            {
+                "actor": "Christopher Guard",
+                "name": "Frodo",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "William Squire",
+                "name": "Gandalf",
+                "description": ""
+            },
+            {
+                "actor": "Michael Scholes",
+                "name": "Sam",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Aragorn",
+                "description": ""
+            },
+            {
+                "actor": "Simon Chandler",
+                "name": "Merry",
+                "description": ""
+            },
+            {
+                "actor": "Dominic Guard",
+                "name": "Pippin",
+                "description": ""
+            },
+            {
+                "actor": "Norman Bird",
+                "name": "Bilbo",
+                "description": ""
+            },
+            {
+                "actor": "Michael Graham Cox",
+                "name": "Boromir",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "Legolas",
+                "description": ""
+            },
+            {
+                "actor": "David Buck",
+                "name": "Gimli",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Peter Woodthorpe",
+                "name": "Gollum",
+                "description": ""
+            },
+            {
+                "actor": "Fraser Kerr",
+                "name": "Saruman",
+                "description": ""
+            },
+            {
+                "actor": "Philip Stone",
+                "name": "Th\u00e9oden",
+                "description": ""
+            },
+            {
+                "actor": "Michael Deacon",
+                "name": "Wormtongue",
+                "description": ""
+            },
+            {
+                "actor": "Andr\u00e9 Morell",
+                "name": "Elrond",
+                "description": ""
+            },
+            {
+                "actor": "Alan Tilvern",
+                "name": "Innkeeper",
+                "description": ""
+            },
+            {
+                "actor": "Annette Crosbie",
+                "name": "Galadriel",
+                "description": ""
+            },
+            {
+                "actor": "John Westbrook",
+                "name": "Treebeard",
+                "description": ""
+            }
         ]
     },
     "Superman (1978)": {
@@ -563,9 +879,121 @@
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "You'll believe a man can fly.",
             "The movie that makes a legend come to life."
+        ],
+        "mainCast": [
+            {
+                "actor": "Marlon Brando",
+                "name": "Jor-El",
+                "description": ""
+            },
+            {
+                "actor": "Gene Hackman",
+                "name": "Lex Luthor",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Reeve",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Ned Beatty",
+                "name": "Otis",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jeff East",
+                "name": "teenage Clark Kent",
+                "description": ""
+            },
+            {
+                "actor": "Maria Schell",
+                "name": "Vond-Ah",
+                "description": ""
+            },
+            {
+                "actor": "Harry Andrews",
+                "name": "Second Elder",
+                "description": ""
+            },
+            {
+                "actor": "Diane Sherry",
+                "name": "Lana Lang",
+                "description": ""
+            },
+            {
+                "actor": "Larry Hagman",
+                "name": "army major",
+                "description": ""
+            },
+            {
+                "actor": "Rex Reed",
+                "name": "himself",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Glenn Ford",
+                "name": "Jonathan Kent",
+                "description": ""
+            },
+            {
+                "actor": "Trevor Howard",
+                "name": "First Elder",
+                "description": ""
+            },
+            {
+                "actor": "Jack O'Halloran",
+                "name": "Non",
+                "description": ""
+            },
+            {
+                "actor": "Valerie Perrine",
+                "name": "Eve Teschmacher",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "General Zod",
+                "description": ""
+            },
+            {
+                "actor": "Phyllis Thaxter",
+                "name": "Martha Kent (n\u00e9e Clark)",
+                "description": ""
+            },
+            {
+                "actor": "Susannah York",
+                "name": "Lara",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Ursa",
+                "description": ""
+            }
         ]
     },
     "Alien (1979)": {
@@ -574,6 +1002,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "In space no one can hear you scream.",
             "The Scariest Movie Ever Made. Experience it only on the big screen",
@@ -651,12 +1080,84 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "There is no comparison.",
             "The human adventure is just beginning.",
             "It will startle your senses, challenge your intellect, and alter your perception of the future by taking you there.",
             "A living object of infinite proportions and divine power is searching the universe for its origins, determined to find its creator, and about to encounter a 23rd century starship from Earth called Enterprise.",
             "An army of technicians has been working for years to perfect this great starship. When completed, she will be superior to anything in space. But time has run out, and the ship has to depart unfinished, in search of the greatest mystery ever to confront the human race."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Persis Khambatta",
+                "name": "Ilia",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Collins",
+                "name": "Willard Decker",
+                "description": ""
+            },
+            {
+                "actor": "Majel Barrett",
+                "name": "Christine Chapel",
+                "description": ""
+            },
+            {
+                "actor": "Grace Lee Whitney",
+                "name": "Janie Rand",
+                "description": ""
+            },
+            {
+                "actor": "Mark Lenard",
+                "name": "Klingon commander",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "David Gautreaux",
+                "name": "Branch",
+                "description": ""
+            }
         ]
     },
     "Mad Max (1980)": {
@@ -665,6 +1166,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "He rules the roads.",
             "They murdered his family...... Now he's going to run them over!",
@@ -769,10 +1271,162 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "The Adventure Continues...",
             "The Star Wars saga continues",
             "The battle continues..."
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Hamill",
+                "name": "Luke Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Han Solo",
+                "description": ""
+            },
+            {
+                "actor": "Carrie Fisher",
+                "name": "Leia Organa",
+                "description": ""
+            },
+            {
+                "actor": "Billy Dee Williams",
+                "name": "Lando Calrissian",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "David Prowse",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mayhew",
+                "name": "Peter Mayhew",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "R2-D2",
+                "description": ""
+            },
+            {
+                "actor": "Frank Oz",
+                "name": "Yoda",
+                "description": ""
+            },
+            {
+                "actor": "Alec Guinness",
+                "name": "Obi-Wan Kenobi",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Denis Lawson",
+                "name": "Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Julian Glover",
+                "name": "General Veers",
+                "description": ""
+            },
+            {
+                "actor": "Kenneth Colley",
+                "name": "Admiral Piett",
+                "description": ""
+            },
+            {
+                "actor": "John Ratzenberger",
+                "name": "Major Derlin",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Boa",
+                "name": "General Rieekan",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Bulloch",
+                "name": "Boba Fett",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John Hollis",
+                "name": "Lobot",
+                "description": ""
+            },
+            {
+                "actor": "Michael Sheard",
+                "name": "Admiral Ozzel",
+                "description": ""
+            },
+            {
+                "actor": "Michael Culver",
+                "name": "Captain Needa",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Malcolm",
+                "name": "Zev Senesca",
+                "description": ""
+            },
+            {
+                "actor": "John Morton",
+                "name": "Dak Ralter",
+                "description": ""
+            },
+            {
+                "actor": "Richard Oldfield",
+                "name": "Hobbie Klivian",
+                "description": ""
+            },
+            {
+                "actor": "Morris Bush",
+                "name": "Dengar",
+                "description": ""
+            },
+            {
+                "actor": "Alan Harris",
+                "name": "Bossk",
+                "description": ""
+            },
+            {
+                "actor": "Chris Parsons",
+                "name": "4-LOM",
+                "description": ""
+            },
+            {
+                "actor": "Jason Wingreen",
+                "name": "voice of Boba Fett",
+                "description": ""
+            },
+            {
+                "actor": "Marjorie Eaton",
+                "name": "Emperor",
+                "description": ""
+            },
+            {
+                "actor": "Clive Revill",
+                "name": "voice of Emperor",
+                "description": ""
+            }
         ]
     },
     "Flash Gordon (1980)": {
@@ -781,6 +1435,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "He'll save every one of us!!",
             "Get ready to kick some Flash.",
@@ -936,6 +1591,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
             "The Return of the Great Adventure."
@@ -1045,6 +1701,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "Miraculously freed from eternal orbit, the three outlaws from Krypton descend to earth, for the ultimate confrontation.",
             "The adventure continues",
@@ -1059,6 +1716,7 @@
         "categories": [
             "Animated"
         ],
+        "franchise": "Heavy Metal",
         "taglines": [
             "Sex and crime and rock 'n' roll!",
             "Louder and nastier then ever!",
@@ -1074,6 +1732,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Science transformed him into a monster. Love changed him even more!",
             "The comic book legend lives!"
@@ -1085,6 +1744,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Conan",
         "taglines": [
             "He conquered an empire with his sword. She conquered HIM with her bare hands.",
             "Slave. Barbarian. Warrior. Thief... Conan.",
@@ -1168,6 +1828,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "Just one man can make a difference.",
             "Mad Max meets the challenge!",
@@ -1263,6 +1924,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Prepare yourself for Warp-10 excitement!",
             "At the end of the universe lies the beginning of vengeance.",
@@ -1277,6 +1939,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Coming May 25, 1983 to your galaxy.",
             "The Empire Falls....",
@@ -1292,6 +1955,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "If the world's most powerful computer can control even Superman...no one on earth is safe.",
             "Alexander Salkind Presents Christopher Reeve and Richard Pryor as you never seen them before. With more action, more twists, and more fun than Superman has ever had before!",
@@ -1306,6 +1970,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "If adventure has a name... it must be Indiana Jones.",
             "The hero is back!",
@@ -1430,6 +2095,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Join the search.",
             "The final voyage of the starship Enterprise.",
@@ -1444,6 +2110,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Conan",
         "taglines": [
             "The most powerful legend of all is back in a new adventure.",
             "The Darkest Side of Magic. The Strongest Side of Man."
@@ -1521,6 +2188,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "I'll be back!",
             "In the Year of Darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the Future by changing the Past. The plan required something that felt no pity. No pain. No fear. Something unstoppable. They created 'THE TERMINATOR'",
@@ -1621,6 +2289,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "The legend begins...",
             "Her legend is just beginning.",
@@ -1644,6 +2313,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Back to the Future",
         "taglines": [
             "He's the only kid ever to get into trouble before he was born.",
             "He was never in time for his classes . . .Then one day he wasn't in his time at all.",
@@ -1786,6 +2456,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Heroes of their time. For all time.",
             "A woman and a warrior that became a legend."
@@ -1883,6 +2554,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "Max is back...and Tina's got him!",
             "A lone warrior searching for his destiny...a tribe of lost children waiting for a hero...in a world battling to survive, they face a woman determined to rule. Hold out for Mad Max. This is his greatest adventure.",
@@ -1975,6 +2647,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "The Imagination of Jim Henson...",
             "The Wizardry of George Lucas...",
@@ -2103,6 +2776,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "This time there's more.",
             "This time it's war.",
@@ -2219,6 +2893,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "You will believe that a duck can talk.",
             "Trapped in a world he never made.",
@@ -2233,6 +2908,7 @@
             "Animated",
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "A monster planet destroys everything in its path, while Optimus Prime and Megatron battle to the death.",
             "It is the year 2005, and a new evil threatens the galaxy in the most incredible adventure you've ever seen.",
@@ -2419,6 +3095,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "How on Earth can they save the future?",
             "The crew of the starship Enterprise is coming home.",
@@ -2434,6 +3111,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "If it bleeds, we can kill it...",
             "Nothing like it has ever been on earth before.",
@@ -2515,6 +3193,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "The future of law enforcement.",
             "Part man. Part machine. All cop."
@@ -2654,6 +3333,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us."
         ]
@@ -2664,6 +3344,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Adventure doesn't come any bigger than this.",
             "Forget all you know, or think you know.",
@@ -2799,6 +3480,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "He's got a grudge, 'cos they turned him to sludge!",
             "A monster of a comedy!",
@@ -2813,6 +3495,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "He's back in an all new adventure. Memorial Day 1989.",
             "Have the adventure of your life keeping up with the Joneses",
@@ -2926,6 +3609,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "The greatest Enterprise of all is adventure.",
             "Adventure and imagination will meet at the final frontier.",
@@ -2942,6 +3626,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Only one will claim the night.",
             "Justice is always Darkest before the Dawn."
@@ -2953,6 +3638,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Back to the Future",
         "taglines": [
             "Getting back was only the beginning.",
             "Synchronize your watches. The future's coming back...",
@@ -3054,6 +3740,7 @@
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Heroes in a half shell!",
             "Lean, Green And On The Screen.",
@@ -3069,6 +3756,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Back to the Future",
         "taglines": [
             "They've saved the best trip for last... But this time they may have gone too far."
         ],
@@ -3166,6 +3854,7 @@
             "Comic Book",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Their turf. Their game. Their rules. They didn't count on HIS law...",
             "I'm on my way."
@@ -3473,6 +4162,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "He's back to protect the innocent.",
             "Even in the future of law enforcement there is room for improvement."
@@ -3666,6 +4356,7 @@
             "Fantasy/Sci-Fi",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Who is Darkman? Find out this August.",
             "In the darkest hour, there is a light that shines on every human being...but ONE!",
@@ -3814,6 +4505,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "Pull over, park, and pray.",
             "Lions! Tigers! Bears! Oh my!",
@@ -3968,6 +4660,7 @@
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Cowabunga, it's the new turtle movie.",
             "Back by bodacious demand."
@@ -3980,6 +4673,7 @@
             "Fantasy/Sci-Fi",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Three years before the United States declares war, Cliff Secord leads America's first battle against the Nazis.",
             "An Ordinary Man Forced to Become An Extraordinary Hero."
@@ -4147,6 +4841,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "It's nothing personal.",
             "This time he's back...for good!",
@@ -4298,6 +4993,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "The battle for peace has begun.",
             "On the verge of peace. On the brink of war.",
@@ -4312,6 +5008,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "In 1979, we discovered in space, no one can hear you scream. In 1992, we will discover, on Earth, everyone can hear you scream.",
             "In 1979, it came from within. In 1986, it was gone forever. In 1992, our worst fears have come true. It's back.",
@@ -4457,6 +5154,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "From the Sewers of Gotham, and New Villain Emerges. From the Rooftops of Gotham, the Purrrfect Enemy Comes to Life. And the Only One Who Can Save this City, is a Creature of the Night.",
             "While She Craves a Romance She can Sink Her Claws Into, He Plots a Fowl Reign of Destruction,",
@@ -4471,6 +5169,7 @@
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "The Most Exciting Adventure in 400 Years",
             "Turtles in time",
@@ -4485,6 +5184,7 @@
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Life finds a way.",
             "Remember. Return. Relive in 3D. Celebrate the 20th Anniversary of the adventure 65 million years in the making.",
@@ -4593,6 +5293,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "Chaos... Corruption... Civil War... He's back to lay down the law.",
             "He's back. Back online, back on duty."
@@ -4723,6 +5424,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "The Dark Knight fights to save Gotham City from its deadliest enemy."
         ]
@@ -4733,6 +5435,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Crow",
         "taglines": [
             "It Can't Rain All The Time.",
             "Nothing is trivial.",
@@ -4750,6 +5453,7 @@
             "Fantasy/Sci-Fi",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "The Shadow Knows!",
             "Who knows what evil lurks in the hearts of men?"
@@ -4857,6 +5561,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Mask",
         "taglines": [
             "S-S-S-S-S-Smokin!!!",
             "From zero to hero",
@@ -4871,6 +5576,7 @@
             "Dystopian/Time",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "They killed his wife ten years ago. There's still time to save her. Murder is forever... until now.",
             "Turn back the clock, and you're history."
@@ -4968,6 +5674,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Two captains. One destiny.",
             "The torch of adventure is about to be passed.",
@@ -4983,6 +5690,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "In the future, the odds of survival are 1000 to 1. That's just the way she likes it.",
             "In the future, the odds of survival are 1000 to 1.",
@@ -5159,6 +5867,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Half a face and some riddles ain't nothing for the Knight.",
             "In a chaotic Time, Justice wears a mask.",
@@ -5172,6 +5881,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "One man is Judge, Jury, AND Executioner.",
             "One man is the law",
@@ -5326,6 +6036,7 @@
             "Fantasy/Sci-Fi",
             "Hasbro"
         ],
+        "franchise": "Power Rangers",
         "taglines": [
             "Six teenagers have discovered the power to fight the forces of evil. Now the fate of the universe is in their hands.",
             "The power of teamwork overcomes all!",
@@ -5471,6 +6182,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "",
         "taglines": [
             "Beyond the horizon lies the secret to a new beginning."
         ],
@@ -5612,6 +6324,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Don't call me babe!",
             "No laws. No limits. No turning back."
@@ -5624,6 +6337,7 @@
             "Comic Book",
             " Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "The ghost who walks. The man who cannot die.",
             "Slam evil!"
@@ -5726,6 +6440,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Crow",
         "taglines": [
             "There will be another.",
             "Believe in the power of another.",
@@ -5740,6 +6455,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Prepare for assimilation.",
             "There is no thrill like First Contact.",
@@ -5755,6 +6471,7 @@
             "Fantasy/Sci-Fi",
             "Hasbro"
         ],
+        "franchise": "Power Rangers",
         "taglines": [
             "Shift Into Turbo!",
             "The Power Is Back!"
@@ -5897,6 +6614,7 @@
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Something has survived",
             "They're Walking Our Streets"
@@ -5984,6 +6702,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Strength Now. Courage Always. Family, Above All. Batman and Robin!",
             "Heroes. Villains. Triple Threat.",
@@ -5998,6 +6717,7 @@
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "Protecting the earth from the scum of the universe",
             "More secretive than the C.I.A. - More powerful than the F.B.I. - And they're looking for a few good men - They are the Men in Black"
@@ -6141,6 +6861,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Born in darkness. Sworn to justice.",
             "From flesh to steel. From blood to blade. From man...to Spawn.",
@@ -6220,6 +6941,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Heroes don't come any bigger.",
             "Man. Metal. Hero."
@@ -6231,6 +6953,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "It's been more than 200 years...The beginning has just started.",
             "We are not alone.",
@@ -6353,6 +7076,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Zorro",
         "taglines": [
             "When freedom is a memory and justice is outlawed, the just must become outlaws.",
             "No one has seen his face....but everyone....knows this mark.",
@@ -6453,6 +7177,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "The power of an immortal. The soul of a human. The heart of a hero.",
             "Against an army of immortals, one warrior must draw first blood.",
@@ -6468,6 +7193,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Meet the new face of evil.",
             "The battle for paradise has begun.",
@@ -6482,6 +7208,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "Free your mind",
             "In a world of 1s and 0s...are you a zero, or The One?",
@@ -6582,6 +7309,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "At last we will reveal ourselves to the Jedi.",
             "One Race. One Adventure. The One to Own.",
@@ -6598,6 +7326,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "This summer expect the unexpected",
             "Universal Pictures presents a new league of heroes that step to a different beat.",
@@ -6610,7 +7339,8 @@
         "year": "2000",
         "categories": [
             "Animated"
-        ]
+        ],
+        "franchise": "Heavy Metal"
     },
     "X-Men (2000)": {
         "title": "X-Men",
@@ -6620,6 +7350,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Evolution Begins.",
             "Join the Evolution.",
@@ -6638,6 +7369,7 @@
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "Unbreakable",
         "taglines": [
             "Shattering cinemas soon.",
             "Are You Ready For The Truth?",
@@ -6651,6 +7383,7 @@
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Disaster is an Instinct.",
             "This Time It's Not Just A Walk In The Park!",
@@ -6748,6 +7481,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "I want to make love\" to him\" - \"I'm going to tell him you said that\"",
             "Accentuate the negative.",
@@ -6760,6 +7494,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "The battle begins November 20th",
             "Rule the planet.",
@@ -6904,6 +7639,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Only the legend will survive."
         ]
@@ -6914,6 +7650,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Let The Magic Begin.",
             "Journey beyond your imagination",
@@ -6927,6 +7664,7 @@
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "The Legend Comes to Life",
             "One Ring To Rule Them All.",
@@ -6947,6 +7685,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "In A World Beyond The One We Know, The Forces Of Darkness Fear One Man...Blade!",
             "Know The Mark",
@@ -6966,6 +7705,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "With great power comes great responsibility.",
             "An Ordinary Man. An Extraordinary Power.",
@@ -6986,6 +7726,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
             "The Saga Continues.",
@@ -7003,6 +7744,7 @@
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "We Got A World To Save",
             "Same Planet. New Scum.",
@@ -7168,6 +7910,7 @@
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Pray for Michael Sullivan",
             "Every father is a hero to his son.",
@@ -7181,6 +7924,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Dobby has come to warn you Sir.",
             "Hogwarts is back in session.",
@@ -7196,6 +7940,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "A generation's final journey begins.",
             "The ultimate battle for Earth begins.",
@@ -7209,6 +7954,7 @@
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "A New Power Is Rising.",
             "The Battle for Middle-earth Begins!",
@@ -7224,6 +7970,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "A Guardian Devil.",
             "He is the man without fear",
@@ -7241,6 +7988,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "A power beyond measure requires a protector without equal.",
             "Don't mess with the monk",
@@ -7256,6 +8004,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "The time has come for those who are different to stand united",
             "Get ready for the return of the Evolution",
@@ -7272,6 +8021,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "Free your mind.",
             "Reload in IMAX: Think big.",
@@ -7441,6 +8191,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Unleash the fury!",
             "What if everything you were forced to keep inside was suddenly set free?",
@@ -7456,6 +8207,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "Next Summer, the machines will rise.",
             "Experience the 3rd time in IMAX!",
@@ -7529,6 +8281,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "Prepare to be blown out of the water.",
             "Over 3000 Islands of Paradise -- For Some it's A Blessing -- For Others... It's A Curse."
@@ -7610,6 +8363,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "From the Director of Blade",
             "Prepare for the Extraordinary",
@@ -7707,6 +8461,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "Everything that has a beginning has an end.",
             "The IMAX Revolution"
@@ -7859,6 +8614,7 @@
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "The eye of the enemy is moving.",
             "This Christmas the journey ends.",
@@ -7872,6 +8628,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Hellboy",
         "taglines": [
             "From the Dark Side to Our Side",
             "Give Evil Hell",
@@ -7993,6 +8750,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "This Is Not Revenge. It's Punishment!",
             "Frank Castle has died...but has been reborn as THE PUNISHER.",
@@ -8008,6 +8766,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Have you seen this wizard?",
             "Something wicked this way comes.",
@@ -8029,6 +8788,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "Sacrifice",
             "Destiny",
@@ -8044,6 +8804,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "CATch Her In IMAX"
         ]
@@ -8054,6 +8815,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "Whoever wins... We lose.",
             "It's our planet....It's their war.",
@@ -8147,6 +8909,7 @@
         "categories": [
             "Animated"
         ],
+        "franchise": "Incredibles",
         "taglines": [
             "Save The Day",
             "Discover the Side of Superheroes You've Never Seen Before",
@@ -8164,6 +8927,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Where it began so it shall end.",
             "The final hunt begins.",
@@ -8177,6 +8941,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "She's the last thing that stands between good and evil.",
             "Looks can kill.",
@@ -8192,6 +8957,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Hell wants him. Heaven won't take him. Earth needs him.",
             "The wager between heaven and hell is on Earth"
@@ -8203,6 +8969,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Mask",
         "taglines": [
             "Who's next?",
             "The next generation of mischief",
@@ -8216,6 +8983,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "Sin City",
         "taglines": [
             "Hell of a way to end a partnership.",
             "In a City, There is a Shaky Truce Between Those Who Rule the Streets, and Those Who Rule Everything",
@@ -8234,6 +9002,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "The saga is complete."
         ]
@@ -8246,6 +9015,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "The Legend Begins",
             "This Summer, Evil Fears The Knight.",
@@ -8260,6 +9030,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "4 times the action. 4 times the adventure. 4 times the fantastic.",
             "When an experimental space voyage goes wrong, four people are dramatically changed by cosmic rays to become the Fantastic Four.",
@@ -8273,6 +9044,7 @@
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "",
         "taglines": [
             "Brains, Brawn And Beyond.",
             "Saving The World... One Homework Assignment At A Time."
@@ -8285,6 +9057,7 @@
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Everyone has something to hide.",
             "Tom Stall had the perfect life... until he became a hero."
@@ -8296,6 +9069,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Zorro",
         "taglines": [
             "This Fall, adventure begins with a Z."
         ],
@@ -8382,6 +9156,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Everything is about to change.",
             "Difficult times lie ahead, Harry.",
@@ -8395,6 +9170,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Narnia",
         "taglines": [
             "Some journeys take us far from home. Some adventures lead us to our destiny.",
             "There are many stories of Narnia. The first is about to be told.",
@@ -8537,6 +9313,7 @@
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Remember, remember the 5th of November, the gun powder treason and plot. I know of no reason why the gun powder treason should ever be forgot.",
             "I am an idea. And ideas are bulletproof",
@@ -8553,6 +9330,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Take a Stand",
             "Whose Side Will You Be On?",
@@ -8567,6 +9345,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "On June 30, 2006! Look Up In The Sky!"
         ]
@@ -8577,6 +9356,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "Captain Jack is back."
         ],
@@ -8657,6 +9437,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Long ago he made a deal to save someone he loved.",
             "Hell Is About To Be Unleashed",
@@ -8673,6 +9454,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "300",
         "taglines": [
             "Feel the wrath in IMAX",
             "Spartans, tonight, we dine in hell!",
@@ -8691,6 +9473,7 @@
             "Animated",
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Raising Shell In 2007"
         ]
@@ -8703,6 +9486,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "Next summer, the greatest battle lies... within.",
             "The battle within.",
@@ -8718,6 +9502,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "At the End of the World, the Adventure Begins"
         ],
@@ -8890,6 +9675,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Rise",
             "Discover the secret of the Surfer",
@@ -8903,6 +9689,7 @@
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Their war. Our world.",
             "You haven't seen it all until you've seen it in IMAX",
@@ -9057,6 +9844,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "The rebellion begins.",
             "Evil must be confronted.",
@@ -9074,6 +9862,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "They're Coming!",
             "Welcome to Barrow (Alaska), Inhabitants: (scratched number 588') 15"
@@ -9085,6 +9874,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "This Christmas there will be no peace on Earth.",
             "The Last Place On Earth We Want To Be Is In The Middle",
@@ -9261,6 +10051,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Heroes aren't born. They're built.",
             "Get ready for a different breed of heavy metal hero."
@@ -9272,6 +10063,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Narnia",
         "taglines": [
             "A New Age Has Begun.",
             "Everything you know is about to change forever.",
@@ -9457,6 +10249,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "In May, the adventure continues.",
             "The adventure continues . . ."
@@ -9560,6 +10353,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "On June 13, get ready to unleash the beast.",
             "This summer, our only hope is something incredible",
@@ -9573,6 +10367,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Choose your destiny.",
             "Their world. Her rules. His destiny.",
@@ -9586,6 +10381,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Hellboy",
         "taglines": [
             "Saving the world is a hell of a job",
             "Believe it or not - he's the good guy",
@@ -9667,6 +10463,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Why So Serious?",
             "Welcome to a world without rules.",
@@ -9682,7 +10479,8 @@
         "categories": [
             "Animated",
             "Star Wars"
-        ]
+        ],
+        "franchise": "Star Wars"
     },
     "Punisher: War Zone (2008)": {
         "title": "Punisher: War Zone",
@@ -9691,6 +10489,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Vengeance has a name.",
             "Vengeance is Coming.",
@@ -9703,6 +10502,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Down these mean streets a man must come. A hero born, murdered, and born again.",
             "My city screams. She is my lover. And I am her spirit.",
@@ -9719,6 +10519,7 @@
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "DC",
         "taglines": [
             "This city is afraid of me. I've seen its true face.",
             "Who will save us now?",
@@ -9741,6 +10542,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Witness the Origin."
         ]
@@ -9751,6 +10553,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "The future begins.",
             "Before Guardians of the Galaxy... There was Star Trek!"
@@ -9762,6 +10565,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "The End Begins",
             "We Fight Back"
@@ -9849,6 +10653,7 @@
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "The battle for Earth begins in theatres and IMAX 6.24.09",
             "Revenge takes many forms.",
@@ -10026,6 +10831,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Once again I must ask too much of you, Harry.",
             "Dark secrets revealed."
@@ -10038,6 +10844,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "How do you save humanity when the only thing that's real is you?",
             "Human perfection. What could go wrong?"
@@ -10126,6 +10933,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kick-Ass",
         "taglines": [
             "I can't fly. But I can kick your ass.",
             "I can't read your mind. But I can kick your ass.",
@@ -10143,6 +10951,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Anyone Else Would Be Dead By Now.",
             "You Don't Give Them Orders. You Just Turn Them Loose.",
@@ -10161,6 +10970,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "It's not the armor that makes the hero, but the man inside."
         ]
@@ -10172,6 +10982,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Revenge gets ugly"
         ]
@@ -10182,6 +10993,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "Fear is Reborn",
             "The Hunt Is On",
@@ -10261,6 +11073,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "An epic of epic epicness.",
             "Get the hot girl. Defeat her evil exes. Hit love where it hurts.",
@@ -10274,6 +11087,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Still Armed. Still Dangerous. Still Got It.",
             "He's Got Time To Kill.",
@@ -10291,6 +11105,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Trust no one.",
             "It all ends here.",
@@ -10306,6 +11121,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Narnia",
         "taglines": [
             "Return to magic. Return to hope. Return to Narnia.",
             "Take the voyage. Live the adventure. Discover Narnia like you've never seen it before."
@@ -10443,6 +11259,7 @@
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "",
         "taglines": [
             "Protect the law by breaking it."
         ]
@@ -10454,6 +11271,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Two worlds. One hero.",
             "The god of thunder. The king of Asgard. The god of mischief. The guardian of worlds. The goddess of war. The woman of science.",
@@ -10466,6 +11284,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Vampire Killer",
             "The War is Eternal. His Mission is Just the Beginning.",
@@ -10478,6 +11297,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "Pirate's Life."
         ],
@@ -10559,6 +11379,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Before he was Professor X, he was Charles. Before he was Magneto, he was Erik. Before they were enemies, they were allies.",
             "Witness the origin",
@@ -10575,6 +11396,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "One of us... becomes one of them.",
             "In brightest day, in blackest night, no evil shall escape my sight, let those who worship evil's might, beware my power, Green Lantern's Light.",
@@ -10587,6 +11409,7 @@
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Earth goes dark",
             "Mankind's finest achievement. Our nation's proudest moment. A secret hidden for forty years.",
@@ -10819,6 +11642,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "It All Ends Here",
             "It All Ends",
@@ -10832,6 +11656,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "When patriots become heroes"
         ]
@@ -10843,6 +11668,7 @@
             "Fantasy/Sci-Fi",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "First contact. Last stand."
         ],
@@ -10954,6 +11780,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "Evolution Becomes Revolution"
         ],
@@ -11055,6 +11882,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Conan",
         "taglines": [
             "Enter An Age Undreamed Of"
         ],
@@ -11161,6 +11989,7 @@
         "categories": [
             "Animated"
         ],
+        "franchise": "",
         "taglines": [
             "This year, discover how far adventure will take you."
         ]
@@ -11172,6 +12001,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "He rides again."
         ]
@@ -11182,6 +12012,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Lost in Our World. Found in Another."
         ],
@@ -11284,6 +12115,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Avengers Assemble!"
         ]
@@ -11296,6 +12128,7 @@
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "They are back... in time.",
             "Back to the past... to save the future",
@@ -11410,6 +12243,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "The search for our beginning could lead to our end",
             "They went looking for our beginning. What they found could be our end.",
@@ -11523,6 +12357,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "The untold story begins.",
             "His past was kept from him. His search for answers has just begun."
@@ -11536,6 +12371,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "The Legend Ends",
             "A Fire Will Rise",
@@ -11558,6 +12394,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Judgment is coming"
         ],
@@ -11674,6 +12511,7 @@
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "From the smallest beginnings come the greatest legends.",
             "One journey started it all."
@@ -11686,6 +12524,7 @@
             "Fantasy/Sci-Fi",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Earth is a memory worth fighting for."
         ],
@@ -11736,6 +12575,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Prepare for heavy metal!",
             "Unleash the power behind the armor.",
@@ -11748,6 +12588,7 @@
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Beyond the darkness, lies greatness.",
             "In our darkest hour, when our leaders have fallen, a hero will rise.",
@@ -11763,6 +12604,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Accomplish Wonder."
         ]
@@ -11773,6 +12615,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Never Take Off the Mask",
             "Discover the Untold Story of an American Legend."
@@ -11891,6 +12734,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "To protect and serve the living",
             "They're defending our world one soul at a time."
@@ -11984,6 +12828,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "The best never rest.",
             "They're ex-CIA, but they're back in action."
@@ -11997,6 +12842,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "When he's most vulnerable, he's most dangerous.",
             "The hero. The fugitive. The warrior. The survivor. The legend.",
@@ -12010,6 +12856,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "2 Guns, 1 Bank."
         ]
@@ -12021,6 +12868,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kick-Ass",
         "taglines": [
             "You Can't Fight Your Destiny."
         ]
@@ -12032,6 +12880,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "There was darkness."
         ]
@@ -12042,6 +12891,7 @@
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "Beyond darkness... beyond desolation... lies the greatest danger of all."
         ]
@@ -12052,6 +12902,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "In the battle between good and evil, an immortal holds the key.",
             "200 years later, he's still alive."
@@ -12063,6 +12914,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "We've got the future under control.",
             "Your move",
@@ -12166,6 +13018,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "300",
         "taglines": [
             "Seize your glory",
             "The battle of glory continues"
@@ -12178,6 +13031,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "In heroes we trust."
         ]
@@ -12190,6 +13044,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "No more secrets.",
             "His greatest battle begins.",
@@ -12204,6 +13059,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "His past. Our future.",
             "Every hero, every power will unite.",
@@ -12216,6 +13072,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "",
         "taglines": [
             "AD 2031: the passengers in the train are the only survivors on Earth.",
             "Fight your way to the front",
@@ -12329,6 +13186,7 @@
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Prepare for extinction.",
             "The rules have changed",
@@ -12473,6 +13331,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "One last chance for peace."
         ],
@@ -12580,6 +13439,7 @@
             "Fantasy/Sci-Fi",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Before he was a legend, he was a man.",
             "Discover the truth behind the legend"
@@ -12693,6 +13553,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "You're welcome.",
             "All heroes start somewhere.",
@@ -12705,6 +13566,7 @@
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "The leader. The brains. The attitude. And Mikey.",
             "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
@@ -12718,6 +13580,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "Sin City",
         "taglines": [
             "There is no justice without sin.",
             "Outlaws Will Become Heroes in a City Without Justice"
@@ -12730,7 +13593,8 @@
             "Animated",
             "Comic Book",
             "Marvel"
-        ]
+        ],
+        "franchise": "Marvel"
     },
     "The Hobbit: The Battle of the Five Armies (2014)": {
         "title": "The Hobbit: The Battle of the Five Armies",
@@ -12738,6 +13602,7 @@
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "The Defining Chapter",
             "Witness the defining chapter of the Middle-Earth saga.",
@@ -12751,6 +13616,7 @@
             "Animated",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "For ages two worlds lived divided: the magical and the mysterious. Until someone crossed the line...",
             "They're as different as night and day. But sometimes even enemies just need a little magic.",
@@ -12853,6 +13719,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kingsman",
         "taglines": [
             "Manners maketh man."
         ]
@@ -12864,6 +13731,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "A new age begins"
         ]
@@ -12874,6 +13742,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "WHAT A LOVELY DAY",
             "Only the mad survive.",
@@ -13030,6 +13899,7 @@
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "The park is open."
         ],
@@ -13114,6 +13984,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "The rules have been reset.",
             "He's Back.",
@@ -13224,6 +14095,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Heroes don't get any bigger.",
             "No shield. No armor. No problem."
@@ -13236,6 +14108,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Change is coming.",
             "When you change the world, prepare to defend it.",
@@ -13248,6 +14121,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Every generation has a story.",
             "Coming to your galaxy this winter.",
@@ -13263,6 +14137,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "With great power comes great irresponsibility.",
             "Witness the beginning of a happy ending",
@@ -13285,6 +14160,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Who will win?"
         ]
@@ -13297,6 +14173,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Divided We Fall",
             "Whose side are you on?",
@@ -13311,6 +14188,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Prepare for the Apocalypse.",
             "Only the strong will survive",
@@ -13324,6 +14202,7 @@
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Raise some shell.",
             "Only one team can defend us all.",
@@ -13335,7 +14214,8 @@
         "year": "2016",
         "categories": [
             "Star Trek"
-        ]
+        ],
+        "franchise": "Star Trek"
     },
     "Suicide Squad (2016)": {
         "title": "Suicide Squad",
@@ -13345,6 +14225,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Justice has a bad side.",
             "Worst. Heroes. Ever.",
@@ -13361,6 +14242,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Open your mind. Change your reality.",
             "Question reality. Change your destiny.",
@@ -13375,6 +14257,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "From J.K. Rowling's wizarding world.",
             "J.K. Rowling invites you to a new era of the wizarding world.",
@@ -13390,6 +14273,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "A rebellion built on hope.",
             "Save the Rebellion. Save the dream."
@@ -13401,6 +14285,7 @@
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "Unbreakable",
         "taglines": [
             "Kevin has 23 distinct personalities. The 24th is about to be unleashed."
         ]
@@ -13414,6 +14299,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Always be yourself. Unless you can be Batman.",
             "Who says bats can't swim?",
@@ -13434,6 +14320,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "His time has come",
             "One Last Time."
@@ -13446,6 +14333,7 @@
             "Fantasy/Sci-Fi",
             "Hasbro"
         ],
+        "franchise": "Power Rangers",
         "taglines": [
             "Back to action!",
             "Together we are more",
@@ -13596,6 +14484,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "This summer, the galaxy won't save itself.",
             "Obviously.",
@@ -13609,6 +14498,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "Run",
             "The path to paradise begins in hell.",
@@ -13701,6 +14591,7 @@
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "All pirates must die."
         ],
@@ -13818,6 +14709,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Power. Grace. Wisdom. Wonder.",
             "Wonder. Power. Courage.",
@@ -13830,6 +14722,7 @@
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Rethink your heroes",
             "Every legend hides a secret",
@@ -14017,6 +14910,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Homework can wait. The city can't."
         ]
@@ -14027,6 +14921,7 @@
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "For freedom. For family. For the planet."
         ],
@@ -14128,6 +15023,7 @@
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Talents can be overrated."
         ]
@@ -14139,6 +15035,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kingsman",
         "taglines": [
             "Reports of my death have been greatly exaggerated."
         ]
@@ -14150,6 +15047,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "No Hammer. No Problem.",
             "Thunder Will Reign.",
@@ -14165,6 +15063,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Unite",
             "Justice for all.",
@@ -14180,6 +15079,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Let the Past Die",
             "Always in Motion is the Future",
@@ -14193,6 +15093,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Long live the king.",
             "Hero. Legend. King.",
@@ -14209,6 +15110,7 @@
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "A better reality awaits.",
             "Break Free",
@@ -14311,6 +15213,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "An entire universe. Once and for all.",
             "Destiny arrives.",
@@ -14325,6 +15228,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Prepare for the second coming.",
             "Be the first to see the second coming.",
@@ -14341,6 +15245,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Never tell him the odds."
         ]
@@ -14351,6 +15256,7 @@
         "categories": [
             "Animated"
         ],
+        "franchise": "Incredibles",
         "taglines": [
             "It's been too long, dahlings.",
             "Back to work.",
@@ -14364,6 +15270,7 @@
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Life finds a way.",
             "The park is gone.",
@@ -14447,6 +15354,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Real heroes. Not actual size."
         ]
@@ -14460,6 +15368,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "It's about courage. It's about action. It's the super hero movie to end all super hero movies... Hopefully.",
             "Because if Aquaman can get a movie, anyone can.",
@@ -14472,6 +15381,7 @@
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "You'll never see him coming.",
             "The Hunt has Evolved",
@@ -14604,6 +15514,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Embrace your inner anti-hero.",
             "The world has enough Superheroes.",
@@ -14616,6 +15527,7 @@
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "The fate of one will change the future of all.",
             "Who will change the future?"
@@ -14630,6 +15542,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "Enter a universe where more than one wears the mask.",
             "What makes you different is what makes you Spider-Man."
@@ -14642,6 +15555,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Home is calling.",
             "A tide is coming.",
@@ -14654,6 +15568,7 @@
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Every adventure has a beginning",
             "Every Hero Has a Beginning"
@@ -14811,6 +15726,7 @@
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "Unbreakable",
         "taglines": [
             "You Cannot Contain What You Are.",
             "Real villains are among us. Real heroes are within us.",
@@ -14824,6 +15740,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "If the Job doesn't kill you, Retirement will."
         ]
@@ -14835,6 +15752,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Discover what makes a (her)o.",
             "Higher. Further. Faster.",
@@ -14848,6 +15766,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "If you want to save the world, say the magic word.",
             "Just say the word.",
@@ -14863,6 +15782,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Hellboy",
         "taglines": [
             "Demons Have Demons Too.",
             "Legendary AF",
@@ -15013,6 +15933,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Avenge the fallen.",
             "Nothing can prepare you for the end.",
@@ -15028,6 +15949,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "A Phoenix will rise. The X-Men will fall.",
             "Every Hero Has a Dark Side",
@@ -15043,6 +15965,7 @@
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "The Universe is Expanding",
             "The world's not going to save itself"
@@ -15156,7 +16079,8 @@
             "Comic Book",
             "Marvel",
             "Spider-Man"
-        ]
+        ],
+        "franchise": "MCU"
     },
     "The Kitchen (2019)": {
         "title": "The Kitchen",
@@ -15164,7 +16088,8 @@
         "categories": [
             "Comic Book",
             "DC"
-        ]
+        ],
+        "franchise": "DC"
     },
     "Joker (2019)": {
         "title": "Joker",
@@ -15173,6 +16098,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Put on a happy face."
         ]
@@ -15183,6 +16109,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "Welcome to the Day after Judgment Day.",
             "Choose Your Fate."
@@ -15310,6 +16237,7 @@
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Every Generation Has A Legend.",
             "The Saga Concludes.",
@@ -15324,6 +16252,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Mind Over Mayhem",
             "Prey for Gotham!",
@@ -15338,6 +16267,7 @@
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Being a hero is in his blood.",
             "You Don't Need a Past to Have a Future"
@@ -15404,7 +16334,8 @@
         "year": "2020",
         "categories": [
             "Graphic Novel"
-        ]
+        ],
+        "franchise": ""
     },
     "The Old Guard (2020)": {
         "title": "The Old Guard",
@@ -15412,6 +16343,7 @@
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Forever is Harder Than It Looks",
             "Whatever it takes."
@@ -15423,6 +16355,7 @@
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "",
         "taglines": [
             "What would you risk for 5 minutes of pure power?"
         ]
@@ -15435,6 +16368,7 @@
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Everyone has demons.",
             "There is something new to fear.",
@@ -15451,6 +16385,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "A new era of wonder begins."
         ]
@@ -15464,6 +16399,7 @@
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Us United"
         ]
@@ -15475,6 +16411,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "She's Done Running From Her Past.",
             "Go back to where it all began!",
@@ -15488,6 +16425,7 @@
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "They're dying to save the world.",
             "Don't get too attached.",
@@ -15501,6 +16439,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "A Marvel legend will rise."
         ]
@@ -15512,7 +16451,8 @@
             "Comic Book",
             "Marvel",
             "Spider-Man"
-        ]
+        ],
+        "franchise": "Marvel"
     },
     "Eternals (2021)": {
         "title": "Eternals",
@@ -15521,6 +16461,7 @@
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "In the beginning...",
             "The Marvel Universe becomes Eternal.",
@@ -15535,6 +16476,7 @@
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "The Multiverse Unleashed."
         ]
@@ -15545,7 +16487,8 @@
         "categories": [
             "Comic Book",
             "Marvel"
-        ]
+        ],
+        "franchise": "Kingsman"
     },
     "The Matrix Resurrections (2021)": {
         "title": "The Matrix Resurrections",
@@ -15553,6 +16496,7 @@
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "It's been another life, beyond the one...",
             "The choice is yours.",

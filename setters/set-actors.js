@@ -248,6 +248,10 @@ var actorMap = {
                 "movie": "Little Dorrit",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
         ]
     },
     "Alfie Allen": {
@@ -619,6 +623,13 @@ var actorMap = {
     "Annie Potts": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Anthony Daniels": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Lord of the Rings (1978)",
+            "The Empire Strikes Back (1980)"
         ]
     },
     "Anthony Hopkins": {
@@ -1042,6 +1053,11 @@ var actorMap = {
             "Almost Famous (2000)"
         ]
     },
+    "Billy Dee Williams": {
+        "movies": [
+            "The Empire Strikes Back (1980)"
+        ]
+    },
     "Biz Markie": {
         "movies": [
             "Men in Black II (2002)"
@@ -1361,6 +1377,12 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Carrie Fisher": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
+        ]
+    },
     "Cary Grant": {
         "leadNoms": [
             {
@@ -1658,6 +1680,11 @@ var actorMap = {
             }
         ]
     },
+    "Christopher Guard": {
+        "movies": [
+            "The Lord of the Rings (1978)"
+        ]
+    },
     "Christopher Mintz-Plasse": {
         "movies": [
             "Promising Young Woman (2020)"
@@ -1681,6 +1708,11 @@ var actorMap = {
         "movies": [
             "Alexander (2004)",
             "The Lake House (2006)"
+        ]
+    },
+    "Christopher Reeve": {
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Christopher Walken": {
@@ -1969,6 +2001,11 @@ var actorMap = {
             "Bone Tomahawk (2015)"
         ]
     },
+    "David Buck": {
+        "movies": [
+            "The Lord of the Rings (1978)"
+        ]
+    },
     "David Cross": {
         "movies": [
             "Men in Black (1997)",
@@ -2009,6 +2046,12 @@ var actorMap = {
             }
         ]
     },
+    "David Prowse": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
+        ]
+    },
     "David Schwimmer": {
         "movies": [
             "John Carter (2012)"
@@ -2043,6 +2086,11 @@ var actorMap = {
     "Dax Shepard": {
         "movies": [
             "Knocked Up (2007)"
+        ]
+    },
+    "DeForest Kelley": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
         ]
     },
     "DeObia Oparei": {
@@ -2091,6 +2139,12 @@ var actorMap = {
         ],
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Denis Lawson": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
         ]
     },
     "Denise Richards": {
@@ -2283,6 +2337,11 @@ var actorMap = {
     "Domhnall Gleeson": {
         "movies": [
             "Dredd (2012)"
+        ]
+    },
+    "Dominic Guard": {
+        "movies": [
+            "The Lord of the Rings (1978)"
         ]
     },
     "Dominic Scott Kay": {
@@ -2847,6 +2906,7 @@ var actorMap = {
     },
     "Frank Oz": {
         "movies": [
+            "The Empire Strikes Back (1980)",
             "Spies Like Us (1985)"
         ]
     },
@@ -2987,6 +3047,9 @@ var actorMap = {
                 "movie": "Unforgiven",
                 "year": "1992"
             }
+        ],
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Gene Wilder": {
@@ -3061,6 +3124,11 @@ var actorMap = {
     "George Segal": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
+        ]
+    },
+    "George Takei": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
         ]
     },
     "George Wyner": {
@@ -3141,6 +3209,11 @@ var actorMap = {
                 "movie": "Hillbilly Elegy",
                 "year": "2020"
             }
+        ]
+    },
+    "Glenn Ford": {
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Gloria Stuart": {
@@ -3277,6 +3350,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)",
             "The Fugitive (1993)",
             "Cowboys & Aliens (2011)"
         ]
@@ -3732,6 +3807,11 @@ var actorMap = {
             "Kung Fu Panda (2008)"
         ]
     },
+    "Jackie Cooper": {
+        "movies": [
+            "Superman (1978)"
+        ]
+    },
     "Jackie Earle Haley": {
         "suppNoms": [
             {
@@ -3800,12 +3880,21 @@ var actorMap = {
             }
         ]
     },
+    "James Doohan": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
+        ]
+    },
     "James Earl Jones": {
         "leadNoms": [
             {
                 "movie": "The Great White Hope",
                 "year": "1970"
             }
+        ],
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
         ]
     },
     "James Franco": {
@@ -4112,6 +4201,11 @@ var actorMap = {
     "Jeff Daniels": {
         "movies": [
             "Terms of Endearment (1983)"
+        ]
+    },
+    "Jeff East": {
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Jeff Goldblum": {
@@ -4608,6 +4702,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Lord of the Rings (1978)",
             "Spaceballs (1987)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)",
@@ -4659,6 +4754,11 @@ var actorMap = {
         ],
         "movies": [
             "Places in the Heart (1984)"
+        ]
+    },
+    "John Ratzenberger": {
+        "movies": [
+            "The Empire Strikes Back (1980)"
         ]
     },
     "John Savage": {
@@ -4957,6 +5057,11 @@ var actorMap = {
         ],
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "Julian Glover": {
+        "movies": [
+            "The Empire Strikes Back (1980)"
         ]
     },
     "Julianne Moore": {
@@ -5361,6 +5466,12 @@ var actorMap = {
             "Armed and Dangerous (1986)"
         ]
     },
+    "Kenny Baker": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
+        ]
+    },
     "Kevin Bacon": {
         "movies": [
             "R.I.P.D. (2013)"
@@ -5676,6 +5787,11 @@ var actorMap = {
             "Conan the Barbarian (2011)"
         ]
     },
+    "Leonard Nimoy": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
+        ]
+    },
     "Leonardo DiCaprio": {
         "leadNoms": [
             {
@@ -5986,6 +6102,11 @@ var actorMap = {
             }
         ]
     },
+    "Margot Kidder": {
+        "movies": [
+            "Superman (1978)"
+        ]
+    },
     "Margot Robbie": {
         "leadNoms": [
             {
@@ -6063,6 +6184,12 @@ var actorMap = {
                 "movie": "The Wrestler",
                 "year": "2008"
             }
+        ]
+    },
+    "Mark Hamill": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
         ]
     },
     "Mark O'Brien": {
@@ -6155,6 +6282,9 @@ var actorMap = {
                 "movie": "A Dry White Season",
                 "year": "1989"
             }
+        ],
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Marta Milans": {
@@ -6630,6 +6760,11 @@ var actorMap = {
             }
         ]
     },
+    "Michael Graham Cox": {
+        "movies": [
+            "The Lord of the Rings (1978)"
+        ]
+    },
     "Michael Jackson": {
         "movies": [
             "Men in Black II (2002)"
@@ -6673,6 +6808,11 @@ var actorMap = {
     "Michael Nyqvist": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Michael Scholes": {
+        "movies": [
+            "The Lord of the Rings (1978)"
         ]
     },
     "Michael Shannon": {
@@ -6977,6 +7117,11 @@ var actorMap = {
             "Girls Trip (2017)"
         ]
     },
+    "Ned Beatty": {
+        "movies": [
+            "Superman (1978)"
+        ]
+    },
     "Neil Hamilton": {
         "movies": [
             "Batman (1966)"
@@ -6985,6 +7130,11 @@ var actorMap = {
     "Nia Long": {
         "movies": [
             "The Best Man (1999)"
+        ]
+    },
+    "Nichelle Nichols": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
         ]
     },
     "Nick Cannon": {
@@ -7099,6 +7249,11 @@ var actorMap = {
                 "movie": "Gaby: A True Story",
                 "year": "1987"
             }
+        ]
+    },
+    "Norman Bird": {
+        "movies": [
+            "The Lord of the Rings (1978)"
         ]
     },
     "Octavia Spencer": {
@@ -7409,6 +7564,11 @@ var actorMap = {
             "Pirates of the Caribbean: On Stranger Tides (2011)"
         ]
     },
+    "Persis Khambatta": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
+        ]
+    },
     "Peta Wilson": {
         "movies": [
             "The League of Extraordinary Gentlemen (2003)"
@@ -7420,6 +7580,11 @@ var actorMap = {
                 "movie": "In the Name of the Father",
                 "year": "1993"
             }
+        ]
+    },
+    "Peter Cushing": {
+        "movies": [
+            "Star Wars (1977)"
         ]
     },
     "Peter Dinklage": {
@@ -7438,6 +7603,12 @@ var actorMap = {
     "Peter Graves": {
         "movies": [
             "Men in Black II (2002)"
+        ]
+    },
+    "Peter Mayhew": {
+        "movies": [
+            "Star Wars (1977)",
+            "The Empire Strikes Back (1980)"
         ]
     },
     "Peter O'Toole": {
@@ -7484,6 +7655,11 @@ var actorMap = {
     "Peter Stormare": {
         "movies": [
             "Strange Magic (2015)"
+        ]
+    },
+    "Phil Brown": {
+        "movies": [
+            "Star Wars (1977)"
         ]
     },
     "Phil Hartman": {
@@ -8639,6 +8815,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Simon Chandler": {
+        "movies": [
+            "The Lord of the Rings (1978)"
+        ]
+    },
     "Simon Pegg": {
         "movies": [
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
@@ -8768,6 +8949,11 @@ var actorMap = {
             "Pirates of the Caribbean: At World's End (2007)"
         ]
     },
+    "Stephen Collins": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
+        ]
+    },
     "Stephen Graham": {
         "movies": [
             "Pirates of the Caribbean: On Stranger Tides (2011)",
@@ -8888,6 +9074,11 @@ var actorMap = {
             }
         ]
     },
+    "Susannah York": {
+        "movies": [
+            "Superman (1978)"
+        ]
+    },
     "Swoosie Kurtz": {
         "movies": [
             "Cruel Intentions (1999)"
@@ -8974,6 +9165,11 @@ var actorMap = {
     "Ted Danson": {
         "movies": [
             "Saving Private Ryan (1998)"
+        ]
+    },
+    "Terence Stamp": {
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Teresa Palmer": {
@@ -9325,6 +9521,11 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Trevor Howard": {
+        "movies": [
+            "Superman (1978)"
+        ]
+    },
     "Troy Kotsur": {
         "suppNoms": [
             {
@@ -9364,6 +9565,11 @@ var actorMap = {
     "Val Kilmer": {
         "movies": [
             "Alexander (2004)"
+        ]
+    },
+    "Valerie Perrine": {
+        "movies": [
+            "Superman (1978)"
         ]
     },
     "Valeriia Karam\u00e4n": {
@@ -9506,6 +9712,11 @@ var actorMap = {
                 "movie": "A Streetcar Named Desire",
                 "year": "1951"
             }
+        ]
+    },
+    "Walter Koenig": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
         ]
     },
     "Walton Goggins": {
@@ -9667,6 +9878,16 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "William Shatner": {
+        "movies": [
+            "Star Trek: The Motion Picture (1979)"
+        ]
+    },
+    "William Squire": {
+        "movies": [
+            "The Lord of the Rings (1978)"
         ]
     },
     "Wilson Jermaine Heredia": {
