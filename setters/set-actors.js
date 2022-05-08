@@ -85,6 +85,11 @@ var actorMap = {
             }
         ]
     },
+    "Aidan Gillen": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
+        ]
+    },
     "Akiva Schaffer": {
         "movies": [
             "Hot Rod (2007)"
@@ -180,7 +185,8 @@ var actorMap = {
     },
     "Alan Tudyk": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Albert Brooks": {
@@ -485,6 +491,11 @@ var actorMap = {
             "Eternals (2021)"
         ]
     },
+    "Angourie Rice": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
+        ]
+    },
     "Anjelica Huston": {
         "leadNoms": [
             {
@@ -577,7 +588,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Anne Heche": {
@@ -629,7 +641,8 @@ var actorMap = {
         "movies": [
             "Star Wars (1977)",
             "The Lord of the Rings (1978)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Anthony Hopkins": {
@@ -882,7 +895,10 @@ var actorMap = {
     },
     "Ben Mendelsohn": {
         "movies": [
-            "Ready Player One (2018)"
+            "The Dark Knight Rises (2012)",
+            "Rogue One: A Star Wars Story (2016)",
+            "Ready Player One (2018)",
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Ben Stiller": {
@@ -1191,6 +1207,11 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
+    "Brett Cullen": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
+        ]
+    },
     "Bria Vinaite": {
         "movies": [
             "The Florida Project (2017)"
@@ -1297,6 +1318,11 @@ var actorMap = {
         "movies": [
             "Batman (1966)",
             "Rocky (1976)"
+        ]
+    },
+    "Burn Gorman": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Burt Reynolds": {
@@ -1661,6 +1687,9 @@ var actorMap = {
                 "movie": "The Big Short",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Christine Baranski": {
@@ -1744,6 +1773,7 @@ var actorMap = {
     },
     "Cillian Murphy": {
         "movies": [
+            "The Dark Knight Rises (2012)",
             "A Quiet Place Part II (2021)"
         ]
     },
@@ -1786,6 +1816,11 @@ var actorMap = {
                 "movie": "Closer",
                 "year": "2004"
             }
+        ]
+    },
+    "Cobie Smulders": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Cole Hauser": {
@@ -1989,6 +2024,11 @@ var actorMap = {
     "Daryl Sabara": {
         "movies": [
             "John Carter (2012)"
+        ]
+    },
+    "Dave Filoni": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Dave Thomas": {
@@ -2308,6 +2348,11 @@ var actorMap = {
             "Girls Trip (2017)"
         ]
     },
+    "Diego Luna": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
     "Djimon Hounsou": {
         "suppNoms": [
             {
@@ -2375,6 +2420,11 @@ var actorMap = {
     "Donna Dixon": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Donnie Yen": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Dorothy Dandridge": {
@@ -2826,6 +2876,9 @@ var actorMap = {
                 "movie": "The Theory of Everything",
                 "year": "2014"
             }
+        ],
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Fernanda Montenegro": {
@@ -2855,6 +2908,9 @@ var actorMap = {
                 "movie": "The Last King of Scotland",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Frances McDormand": {
@@ -2987,6 +3043,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Dark Knight Rises (2012)",
             "RoboCop (2014)"
         ]
     },
@@ -3643,6 +3700,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "J. B. Smoove": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
+        ]
+    },
     "J. K. Simmons": {
         "suppNoms": [
             {
@@ -3655,6 +3717,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Spider-Man: Far From Home (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -3823,6 +3886,11 @@ var actorMap = {
             "RoboCop (2014)"
         ]
     },
+    "Jacob Batalon": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
+        ]
+    },
     "Jada Pinkett Smith": {
         "movies": [
             "Girls Trip (2017)"
@@ -3839,6 +3907,9 @@ var actorMap = {
                 "movie": "Brokeback Mountain",
                 "year": "2005"
             }
+        ],
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "James Caan": {
@@ -3894,7 +3965,8 @@ var actorMap = {
         ],
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "James Franco": {
@@ -4445,6 +4517,11 @@ var actorMap = {
             }
         ]
     },
+    "Jiang Wen": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
     "Jim Broadbent": {
         "suppNoms": [
             {
@@ -4469,6 +4546,11 @@ var actorMap = {
     "Jimmy Fallon": {
         "movies": [
             "Almost Famous (2000)"
+        ]
+    },
+    "Jimmy Smits": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Joan Allen": {
@@ -4632,7 +4714,8 @@ var actorMap = {
     },
     "Joey King": {
         "movies": [
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Joey Lauren Adams": {
@@ -4840,7 +4923,8 @@ var actorMap = {
     "Jon Favreau": {
         "movies": [
             "Something's Gotta Give (2003)",
-            "John Carter (2012)"
+            "John Carter (2012)",
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Jon Lovitz": {
@@ -4919,6 +5003,11 @@ var actorMap = {
         "movies": [
             "Shakespeare in Love (1998)",
             "Hercules (2014)"
+        ]
+    },
+    "Joseph Gordon-Levitt": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Joseph Mazzello": {
@@ -5171,6 +5260,11 @@ var actorMap = {
                 "movie": "Nebraska",
                 "year": "2013"
             }
+        ]
+    },
+    "Juno Temple": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Justin Henry": {
@@ -5862,6 +5956,7 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+            "The Dark Knight Rises (2012)",
             "Men in Black: International (2019)"
         ]
     },
@@ -6001,6 +6096,11 @@ var actorMap = {
     "Madonna": {
         "movies": [
             "A League of Their Own (1992)"
+        ]
+    },
+    "Mads Mikkelsen": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Mae Whitman": {
@@ -6168,6 +6268,9 @@ var actorMap = {
                 "movie": "Two Days, One Night",
                 "year": "2014"
             }
+        ],
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Marisa Tomei": {
@@ -6184,6 +6287,9 @@ var actorMap = {
                 "movie": "The Wrestler",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Mark Hamill": {
@@ -6335,7 +6441,8 @@ var actorMap = {
     },
     "Martin Starr": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Martine McCutcheon": {
@@ -6450,6 +6557,11 @@ var actorMap = {
         ],
         "movies": [
             "Dazed and Confused (1993)"
+        ]
+    },
+    "Matthew Modine": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Maude Apatow": {
@@ -6705,6 +6817,9 @@ var actorMap = {
                 "movie": "The Cider House Rules",
                 "year": "1999"
             }
+        ],
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Michael Cera": {
@@ -7016,6 +7131,7 @@ var actorMap = {
         ],
         "movies": [
             "Conan the Barbarian (2011)",
+            "The Dark Knight Rises (2012)",
             "Oblivion (2013)"
         ]
     },
@@ -7125,6 +7241,11 @@ var actorMap = {
     "Neil Hamilton": {
         "movies": [
             "Batman (1966)"
+        ]
+    },
+    "Nestor Carbonell": {
+        "movies": [
+            "The Dark Knight Rises (2012)"
         ]
     },
     "Nia Long": {
@@ -7254,6 +7375,11 @@ var actorMap = {
     "Norman Bird": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Numan Acar": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Octavia Spencer": {
@@ -7582,6 +7708,11 @@ var actorMap = {
             }
         ]
     },
+    "Peter Billingsley": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
+        ]
+    },
     "Peter Cushing": {
         "movies": [
             "Star Wars (1977)"
@@ -7860,6 +7991,11 @@ var actorMap = {
             }
         ]
     },
+    "Remy Hii": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
+        ]
+    },
     "Ren\u00e9e Zellweger": {
         "leadNoms": [
             {
@@ -7888,6 +8024,11 @@ var actorMap = {
     "Rex Harrison": {
         "movies": [
             "My Fair Lady (1964)"
+        ]
+    },
+    "Rian Johnson": {
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Richard Attenborough": {
@@ -8016,6 +8157,9 @@ var actorMap = {
                 "movie": "Sound of Metal",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Robert De Niro": {
@@ -8517,7 +8661,8 @@ var actorMap = {
         "movies": [
             "Jurassic Park (1993)",
             "RoboCop (2014)",
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Sanaa Lathan": {
@@ -9388,12 +9533,14 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Dark Knight Rises (2012)",
             "Locke (2014)"
         ]
     },
     "Tom Holland": {
         "movies": [
-            "Locke (2014)"
+            "Locke (2014)",
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Tom Hollander": {
@@ -9496,6 +9643,11 @@ var actorMap = {
     "Tony Curran": {
         "movies": [
             "The League of Extraordinary Gentlemen (2003)"
+        ]
+    },
+    "Tony Revolori": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Tony Roberts": {
@@ -9752,7 +9904,8 @@ var actorMap = {
     },
     "Warwick Davis": {
         "movies": [
-            "The Chronicles of Narnia: Prince Caspian (2008)"
+            "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Wayne Knight": {
@@ -9980,6 +10133,11 @@ var actorMap = {
     "Zahn McClarnon": {
         "movies": [
             "Bone Tomahawk (2015)"
+        ]
+    },
+    "Zendaya": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Zoe Saldana": {

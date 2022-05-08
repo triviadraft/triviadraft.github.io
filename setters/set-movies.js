@@ -87265,6 +87265,26 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Aidan Gillen",
+            "Anne Hathaway",
+            "Ben Mendelsohn",
+            "Brett Cullen",
+            "Burn Gorman",
+            "Christian Bale",
+            "Cillian Murphy",
+            "Gary Oldman",
+            "Joey King",
+            "Joseph Gordon-Levitt",
+            "Juno Temple",
+            "Liam Neeson",
+            "Marion Cotillard",
+            "Matthew Modine",
+            "Michael Caine",
+            "Morgan Freeman",
+            "Nestor Carbonell",
+            "Tom Hardy"
         ]
     },
     "Killer Joe (2012)": {
@@ -100829,6 +100849,23 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Anthony Daniels",
+            "Ben Mendelsohn",
+            "Dave Filoni",
+            "Diego Luna",
+            "Donnie Yen",
+            "Felicity Jones",
+            "Forest Whitaker",
+            "James Earl Jones",
+            "Jiang Wen",
+            "Jimmy Smits",
+            "Mads Mikkelsen",
+            "Rian Johnson",
+            "Riz Ahmed",
+            "Warwick Davis"
         ]
     },
     "Two Lovers and a Bear (2016)": {
@@ -110397,6 +110434,25 @@ var movieMap = {
             "Marvel",
             "Samuel L. Jackson",
             "Spider-Man"
+        ],
+        "cast": [
+            "Angourie Rice",
+            "Ben Mendelsohn",
+            "Cobie Smulders",
+            "J. B. Smoove",
+            "J. K. Simmons",
+            "Jacob Batalon",
+            "Jake Gyllenhaal",
+            "Jon Favreau",
+            "Marisa Tomei",
+            "Martin Starr",
+            "Numan Acar",
+            "Peter Billingsley",
+            "Remy Hii",
+            "Samuel L. Jackson",
+            "Tom Holland",
+            "Tony Revolori",
+            "Zendaya"
         ]
     },
     "Midsommar (2019)": {

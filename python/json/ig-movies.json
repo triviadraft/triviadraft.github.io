@@ -12385,6 +12385,187 @@
             "Hope is Lost. Faith is Broken. A Fire Will Rise.",
             "Let the Games Begin",
             "Every Hero has a Journey. Every Journey has an End."
+        ],
+        "mainCast": [
+            {
+                "actor": "Christian Bale",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Michael Caine",
+                "name": "Alfred Pennyworth",
+                "description": ""
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "James Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Anne Hathaway",
+                "name": "Selina Kyle / Catwoman",
+                "description": ""
+            },
+            {
+                "actor": "Tom Hardy",
+                "name": "Bane",
+                "description": ""
+            },
+            {
+                "actor": "Marion Cotillard",
+                "name": "Miranda Tate / Talia al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Gordon-Levitt",
+                "name": "John Blake",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "Lucius Fox",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Joey King",
+                "name": "young Talia al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Modine",
+                "name": "Peter Foley",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "John Daggett",
+                "description": ""
+            },
+            {
+                "actor": "Burn Gorman",
+                "name": "Philip Stryver",
+                "description": ""
+            },
+            {
+                "actor": "Alon Abutbul",
+                "name": "Leonid Pavel",
+                "description": ""
+            },
+            {
+                "actor": "Juno Temple",
+                "name": "Jen",
+                "description": ""
+            },
+            {
+                "actor": "Brett Cullen",
+                "name": "Byron Gilley",
+                "description": ""
+            },
+            {
+                "actor": "Cillian Murphy",
+                "name": "Dr. Jonathan Crane / Scarecrow",
+                "description": ""
+            },
+            {
+                "actor": "Liam Neeson",
+                "name": "Henri Ducard / Ra's al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "Nestor Carbonell",
+                "name": "Anthony Garcia",
+                "description": ""
+            },
+            {
+                "actor": "Aidan Gillen",
+                "name": "Bill Wilson",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Lennon",
+                "name": "doctor",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Daniel Sunjata",
+                "name": "Mark Jones",
+                "description": ""
+            },
+            {
+                "actor": "Chris Ellis",
+                "name": "Father Reilly",
+                "description": ""
+            },
+            {
+                "actor": "Josh Pence",
+                "name": "young Ra's al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "John Nolan",
+                "name": "Douglas Fredericks",
+                "description": ""
+            },
+            {
+                "actor": "Rob Brown",
+                "name": "police officer",
+                "description": ""
+            },
+            {
+                "actor": "Desmond Harrington",
+                "name": "police officer",
+                "description": ""
+            },
+            {
+                "actor": "Josh Stewart",
+                "name": "Barsad",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Judge",
+                "name": "Bane's henchman",
+                "description": ""
+            },
+            {
+                "actor": "Noel Gugliemi",
+                "name": "Bane's exile compeller",
+                "description": ""
+            },
+            {
+                "actor": "Tom Conti",
+                "name": "prisoner",
+                "description": ""
+            },
+            {
+                "actor": "William Devane",
+                "name": "President of the United States",
+                "description": ""
+            },
+            {
+                "actor": "Bill Cowher",
+                "name": "head coach of the Rogues",
+                "description": ""
+            },
+            {
+                "actor": "Luke Ravenstahl",
+                "name": "kicker for the Monuments",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Leahy",
+                "name": "Wayne Enterprises board member",
+                "description": ""
+            },
+            {
+                "actor": "India Wadsworth",
+                "name": "wife of Ra's al Ghul",
+                "description": ""
+            }
         ]
     },
     "Dredd (2012)": {
@@ -14277,6 +14458,232 @@
         "taglines": [
             "A rebellion built on hope.",
             "Save the Rebellion. Save the dream."
+        ],
+        "mainCast": [
+            {
+                "actor": "Felicity Jones",
+                "name": "Jyn Erso",
+                "description": ""
+            },
+            {
+                "actor": "Diego Luna",
+                "name": "Cassian Andor",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "Orson Krennic",
+                "description": ""
+            },
+            {
+                "actor": "Donnie Yen",
+                "name": "Chirrut \u00cemwe",
+                "description": ""
+            },
+            {
+                "actor": "Mads Mikkelsen",
+                "name": "Galen Erso",
+                "description": ""
+            },
+            {
+                "actor": "Alan Tudyk",
+                "name": "K-2SO",
+                "description": ""
+            },
+            {
+                "actor": "Riz Ahmed",
+                "name": "Bodhi Rook",
+                "description": ""
+            },
+            {
+                "actor": "Jiang Wen",
+                "name": "Baze Malbus",
+                "description": ""
+            },
+            {
+                "actor": "Forest Whitaker",
+                "name": "Saw Gerrera",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Beau Gadsdon",
+                "name": "8-year-old Jyn Erso",
+                "description": ""
+            },
+            {
+                "actor": "Dolly Gadsdon",
+                "name": "4-year-old Jyn Erso",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "Jimmy Vee",
+                "name": "R2-D2",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Spencer Wilding",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Naprous",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Angus MacInnes",
+                "name": "Gold Leader Dutch Vander",
+                "description": ""
+            },
+            {
+                "actor": "Drewe Henley",
+                "name": "Red Leader Garven Dreis",
+                "description": ""
+            },
+            {
+                "actor": "David Ankrum",
+                "name": "voice of Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Ian McElhinney",
+                "name": "General Jan Dodonna",
+                "description": ""
+            },
+            {
+                "actor": "Michael Smiley",
+                "name": "Dr. Evazan",
+                "description": ""
+            },
+            {
+                "actor": "Andy de la Tour",
+                "name": "General Hurst Romodi",
+                "description": ""
+            },
+            {
+                "actor": "Tim Beckmann",
+                "name": "Captain Raymus Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Weeteef Cyubee",
+                "description": ""
+            },
+            {
+                "actor": "Dave Filoni",
+                "name": "C1-10P",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Stanton",
+                "name": "voice of Admiral Raddus",
+                "description": ""
+            },
+            {
+                "actor": "Paul Kasey",
+                "name": "Admiral Raddus",
+                "description": ""
+            },
+            {
+                "actor": "Alistair Petrie",
+                "name": "General Davits Draven",
+                "description": ""
+            },
+            {
+                "actor": "Ben Daniels",
+                "name": "General Antoc Merrick",
+                "description": ""
+            },
+            {
+                "actor": "Valene Kane",
+                "name": "Lyra Erso",
+                "description": ""
+            },
+            {
+                "actor": "Jonathan Aris",
+                "name": "Senator Nower Jebel",
+                "description": ""
+            },
+            {
+                "actor": "Fares Fares",
+                "name": "Senator Vasp Vaspar",
+                "description": ""
+            },
+            {
+                "actor": "Sharon Duncan-Brewster",
+                "name": "Tynnra Pamlo",
+                "description": ""
+            },
+            {
+                "actor": "Simon Farnaby",
+                "name": "member of Blue Squadron",
+                "description": ""
+            },
+            {
+                "actor": "Jordan Stephens",
+                "name": "Corporal Tonc",
+                "description": ""
+            },
+            {
+                "actor": "Nick Kellington",
+                "name": "Bistan",
+                "description": ""
+            },
+            {
+                "actor": "Ian Whyte",
+                "name": "Moroff",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Mays",
+                "name": "Tivik",
+                "description": ""
+            },
+            {
+                "actor": "Ram Bergman",
+                "name": "Death Star technician",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jimmy Smits",
+                "name": "Bail Organa",
+                "description": ""
+            },
+            {
+                "actor": "Genevieve O'Reilly",
+                "name": "Mon Mothma",
+                "description": ""
+            },
+            {
+                "actor": "Guy Henry",
+                "name": "Grand Moff Tarkin",
+                "description": ""
+            },
+            {
+                "actor": "Ingvild Deila",
+                "name": "Princess Leia Organa",
+                "description": ""
+            },
+            {
+                "actor": "Rian Johnson",
+                "name": "Death Star technician",
+                "description": ""
+            }
         ]
     },
     "Split (2017)": {
@@ -16080,7 +16487,113 @@
             "Marvel",
             "Spider-Man"
         ],
-        "franchise": "MCU"
+        "franchise": "MCU",
+        "mainCast": [
+            {
+                "actor": "Tom Holland",
+                "name": "Peter Parker / Spider-Man",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Nick Fury",
+                "description": ""
+            },
+            {
+                "actor": "Zendaya",
+                "name": "MJ",
+                "description": ""
+            },
+            {
+                "actor": "Cobie Smulders",
+                "name": "Maria Hill",
+                "description": ""
+            },
+            {
+                "actor": "Jon Favreau",
+                "name": "Harold \"Happy\" Hogan",
+                "description": ""
+            },
+            {
+                "actor": "Jacob Batalon",
+                "name": "Ned Leeds",
+                "description": ""
+            },
+            {
+                "actor": "Marisa Tomei",
+                "name": "May Parker",
+                "description": ""
+            },
+            {
+                "actor": "Jake Gyllenhaal",
+                "name": "Quentin Beck / Mysterio",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "J. B. Smoove",
+                "name": "Julius Dell",
+                "description": ""
+            },
+            {
+                "actor": "Martin Starr",
+                "name": "Roger Harrington",
+                "description": ""
+            },
+            {
+                "actor": "Tony Revolori",
+                "name": "Eugene \"Flash\" Thompson",
+                "description": ""
+            },
+            {
+                "actor": "Angourie Rice",
+                "name": "Betty Brant",
+                "description": ""
+            },
+            {
+                "actor": "Peter Billingsley",
+                "name": "William Ginter Riva",
+                "description": ""
+            },
+            {
+                "actor": "J. K. Simmons",
+                "name": "J. Jonah Jameson",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "Talos",
+                "description": ""
+            },
+            {
+                "actor": "Sharon Blynn",
+                "name": "Soren",
+                "description": ""
+            },
+            {
+                "actor": "Numan Acar",
+                "name": "Dimitri",
+                "description": ""
+            },
+            {
+                "actor": "Remy Hii",
+                "name": "Brad Davis",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Zach Barack",
+                "name": "Zach",
+                "description": ""
+            },
+            {
+                "actor": "Dawn Michelle King",
+                "name": "voice of E.D.I.T.H.",
+                "description": ""
+            }
+        ]
     },
     "The Kitchen (2019)": {
         "title": "The Kitchen",
