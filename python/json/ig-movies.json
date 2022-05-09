@@ -918,8 +918,23 @@
                 "description": ""
             },
             {
+                "actor": "Jack O'Halloran",
+                "name": "Non",
+                "description": ""
+            },
+            {
                 "actor": "Maria Schell",
                 "name": "Vond-Ah",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "General Zod",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Ursa",
                 "description": ""
             },
             {
@@ -960,18 +975,8 @@
                 "description": ""
             },
             {
-                "actor": "Jack O'Halloran",
-                "name": "Non",
-                "description": ""
-            },
-            {
                 "actor": "Valerie Perrine",
                 "name": "Eve Teschmacher",
-                "description": ""
-            },
-            {
-                "actor": "Terence Stamp",
-                "name": "General Zod",
                 "description": ""
             },
             {
@@ -987,11 +992,6 @@
             {
                 "actor": "Marc McClure",
                 "name": "Jimmy Olsen",
-                "description": ""
-            },
-            {
-                "actor": "Sarah Douglas",
-                "name": "Ursa",
                 "description": ""
             }
         ]
@@ -1708,6 +1708,80 @@
             "The three outlaws from Krypton descend to Earth to confront the Man of Steel in a cosmic battle for world supremacy.",
             "The Man of Steel meets his match!",
             "The Man of Steel is back, and better than ever!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Gene Hackman",
+                "name": "Lex Luthor",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Reeve",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Ned Beatty",
+                "name": "Otis",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "General Zod",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Ursa",
+                "description": ""
+            },
+            {
+                "actor": "Jack O'Halloran",
+                "name": "Non",
+                "description": ""
+            },
+            {
+                "actor": "Valerie Perrine",
+                "name": "Eve Teschmacher",
+                "description": ""
+            },
+            {
+                "actor": "Susannah York",
+                "name": "Lara",
+                "description": ""
+            },
+            {
+                "actor": "Clifton James",
+                "name": "Sheriff",
+                "description": ""
+            },
+            {
+                "actor": "E. G. Marshall",
+                "name": "President of the United States",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Richard Donner",
+                "name": "man walking in sequence with de-powered Clark",
+                "description": ""
+            }
         ]
     },
     "Heavy Metal (1981)": {
@@ -1723,6 +1797,165 @@
             "A step beyond science-fiction.",
             "A universe of mystery. A universe of magic. A universe of awesome good...and terrifying evil.",
             "Columbia Pictures takes you beyond the future into a universe you've never seen before. A universe of mystery. A universe of magic. A universe of sexual fantasies. A universe of awesome good. A universe of terrifying evil."
+        ],
+        "minorCast": [
+            {
+                "actor": "Al Waxman",
+                "name": "Rudnick",
+                "description": ""
+            },
+            {
+                "actor": "Alice Playten",
+                "name": "Gloria",
+                "description": "stenographer"
+            },
+            {
+                "actor": "Caroline Semple",
+                "name": "Girl",
+                "description": ""
+            },
+            {
+                "actor": "Cedric Smith",
+                "name": "Bartender",
+                "description": ""
+            },
+            {
+                "actor": "Charles Joliffe",
+                "name": "Councilman #3",
+                "description": ""
+            },
+            {
+                "actor": "Don Francks",
+                "name": "Grimaldi / Co-Pilot (Holden) / Barbarian #2",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Kenney",
+                "name": "Regolian",
+                "description": ""
+            },
+            {
+                "actor": "George Touliatos",
+                "name": "Pilot (Skip) / Barbarian #3",
+                "description": ""
+            },
+            {
+                "actor": "Harvey Atkin",
+                "name": "Alien / Henchman",
+                "description": ""
+            },
+            {
+                "actor": "Jackie Burroughs",
+                "name": "Katherine Wells",
+                "description": ""
+            },
+            {
+                "actor": "Joe Flaherty",
+                "name": "Charlie / General",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Golland",
+                "name": "Councilman #2",
+                "description": ""
+            },
+            {
+                "actor": "Len Doncheff",
+                "name": "Barbarian #1",
+                "description": ""
+            },
+            {
+                "actor": "Marilyn Lightstone",
+                "name": "Whore / Queen",
+                "description": ""
+            },
+            {
+                "actor": "Martin Lavut",
+                "name": "Ard",
+                "description": ""
+            },
+            {
+                "actor": "Mavor Moore",
+                "name": "Elder",
+                "description": ""
+            },
+            {
+                "actor": "Ned Conlon",
+                "name": "Councilman #1",
+                "description": ""
+            },
+            {
+                "actor": "Patty Dworkin",
+                "name": "Female Reporter",
+                "description": ""
+            },
+            {
+                "actor": "Richard Romanus",
+                "name": "Harry Canyon",
+                "description": ""
+            },
+            {
+                "actor": "Susan Roman",
+                "name": "Girl / Satellite",
+                "description": ""
+            },
+            {
+                "actor": "Thor Bishopric",
+                "name": "Boy",
+                "description": ""
+            },
+            {
+                "actor": "Vlasta Vr\u00e1na",
+                "name": "Barbarian Leader",
+                "description": ""
+            },
+            {
+                "actor": "Warren Munson",
+                "name": "Senator",
+                "description": ""
+            },
+            {
+                "actor": "Zal Yanovsky",
+                "name": "Navigator / Barbarian #4",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "August Schellenberg",
+                "name": "Norl / Taarak",
+                "description": ""
+            },
+            {
+                "actor": "Eugene Levy",
+                "name": "Captain Lincoln F. Sternn / Male Reporter / Edsel",
+                "description": ""
+            },
+            {
+                "actor": "Harold Ramis",
+                "name": "Zeke",
+                "description": ""
+            },
+            {
+                "actor": "John Candy",
+                "name": "Desk Sergeant / Den / Robot",
+                "description": ""
+            },
+            {
+                "actor": "John Vernon",
+                "name": "Prosecutor",
+                "description": ""
+            },
+            {
+                "actor": "Percy Rodriguez",
+                "name": "Loc-Nar",
+                "description": ""
+            },
+            {
+                "actor": "Rodger Bumpass",
+                "name": "Hanover Fiste / Dr. Anrak",
+                "description": ""
+            }
         ]
     },
     "Swamp Thing (1982)": {
@@ -1736,6 +1969,67 @@
         "taglines": [
             "Science transformed him into a monster. Love changed him even more!",
             "The comic book legend lives!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Ray Wise",
+                "name": "Alec Holland",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Adrienne Barbeau",
+                "name": "Alice Cable",
+                "description": ""
+            },
+            {
+                "actor": "Louis Jourdan",
+                "name": "Anton Arcane",
+                "description": ""
+            },
+            {
+                "actor": "Dick Durock",
+                "name": "Swamp Thing",
+                "description": ""
+            },
+            {
+                "actor": "David Hess",
+                "name": "Ferret",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Nicholas Worth",
+                "name": "Bruno",
+                "description": ""
+            },
+            {
+                "actor": "Don Knight",
+                "name": "Harry Ritter",
+                "description": ""
+            },
+            {
+                "actor": "Al Ruban",
+                "name": "Charlie",
+                "description": ""
+            },
+            {
+                "actor": "Nannette Brown",
+                "name": "Dr. Linda Holland",
+                "description": ""
+            },
+            {
+                "actor": "Reggie Batts",
+                "name": "Jude",
+                "description": ""
+            },
+            {
+                "actor": "Karen Price",
+                "name": "Karen",
+                "description": ""
+            }
         ]
     },
     "Conan the Barbarian (1982)": {
@@ -1931,6 +2225,77 @@
             "A scientist discovered the Genesis Device. A madman stole the Genesis Device. An admiral pursued the Genesis Device. They all wanted the Genesis Device. Now, none can escape the Genesis Device.",
             "In the life of every warrior, there is a battle destined to be his greatest or his last. A battle that will reunite two old friends... and two old enemies. A battle between the starship Enterprise and the wrath of Khan.",
             "Somewhere in the darkest reaches of the universe, a battle is about to begin. A battle between good and evil, between a warrior and a madman. A battle that will take you from the end of time to the beginning of creation. A battle between the awesome power of the starship Enterprise and the wrath of Khan."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Ricardo Montalb\u00e1n",
+                "name": "Khan Noonien Singh",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Bibi Besch",
+                "name": "Carol Marcus",
+                "description": ""
+            },
+            {
+                "actor": "Merritt Butrick",
+                "name": "David Marcus",
+                "description": ""
+            },
+            {
+                "actor": "Paul Winfield",
+                "name": "Clark Terrell",
+                "description": "captain of the Reliant"
+            },
+            {
+                "actor": "Kirstie Alley",
+                "name": "Saavik",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Ike Eisenmann",
+                "name": "Scott's young nephew",
+                "description": ""
+            }
         ]
     },
     "Return of the Jedi (1983)": {
@@ -1945,6 +2310,252 @@
             "The Empire Falls....",
             "Return To A Galaxy Far, Far Away",
             "The Saga Continues."
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Hamill",
+                "name": "Luke Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Han Solo",
+                "description": ""
+            },
+            {
+                "actor": "Carrie Fisher",
+                "name": "Leia Organa",
+                "description": ""
+            },
+            {
+                "actor": "Billy Dee Williams",
+                "name": "Lando Calrissian",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mayhew",
+                "name": "Chewbacca",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "R2-D2 / Paploo",
+                "description": ""
+            },
+            {
+                "actor": "Ian McDiarmid",
+                "name": "The Emperor",
+                "description": ""
+            },
+            {
+                "actor": "Frank Oz",
+                "name": "Yoda",
+                "description": ""
+            },
+            {
+                "actor": "David Prowse",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Alec Guinness",
+                "name": "Obi-Wan Kenobi",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Sebastian Shaw",
+                "name": "unmasked Anakin Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Denis Lawson",
+                "name": "Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Kenneth Colley",
+                "name": "Admiral Piett",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Bulloch",
+                "name": "Boba Fett",
+                "description": ""
+            },
+            {
+                "actor": "Michael Pennington",
+                "name": "Moff Jerjerrod",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Wicket W. Warrick",
+                "description": ""
+            },
+            {
+                "actor": "Caroline Blakiston",
+                "name": "Mon Mothma",
+                "description": ""
+            },
+            {
+                "actor": "Deep Roy",
+                "name": "Droopy McCool",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Michael Carter",
+                "name": "Bib Fortuna",
+                "description": ""
+            },
+            {
+                "actor": "Erik Bauersfeld",
+                "name": "voice of Bib Fortuna",
+                "description": ""
+            },
+            {
+                "actor": "Femi Taylor",
+                "name": "Jabba's slave dancer",
+                "description": ""
+            },
+            {
+                "actor": "Claire Davenport",
+                "name": "Jabba's slave dancer",
+                "description": ""
+            },
+            {
+                "actor": "Tim Rose",
+                "name": "Admiral Ackbar / Salacious B. Crumb / Sy Snootles",
+                "description": ""
+            },
+            {
+                "actor": "Erik Bauersfeld",
+                "name": "voice of Admiral Ackbar",
+                "description": ""
+            },
+            {
+                "actor": "Richard Bonehill",
+                "name": "Nien Nunb",
+                "description": ""
+            },
+            {
+                "actor": "Mike Quinn",
+                "name": "Nien Nunb / Ree-Yees / Wol Cabbashite / Sy Snootles / Jabba the Hutt",
+                "description": ""
+            },
+            {
+                "actor": "Kipsang Rotich",
+                "name": "voice of Nien Nunb",
+                "description": ""
+            },
+            {
+                "actor": "Mark Dodson",
+                "name": "voice of Salacious B. Crumb",
+                "description": ""
+            },
+            {
+                "actor": "Annie Arbogast",
+                "name": "voice of Sy Snootles",
+                "description": ""
+            },
+            {
+                "actor": "Simon J. Williamson",
+                "name": "Max Rebo",
+                "description": ""
+            },
+            {
+                "actor": "Ailsa Berk",
+                "name": "Amanaman",
+                "description": ""
+            },
+            {
+                "actor": "Paul Springer",
+                "name": "Ree-Yees / Gamorrean Guard / Mon Calamari",
+                "description": ""
+            },
+            {
+                "actor": "Hugh Spight",
+                "name": "Gamorrean Guard / Elom / Mon Calamari",
+                "description": ""
+            },
+            {
+                "actor": "Swee Lim",
+                "name": "Attark the Hoover",
+                "description": ""
+            },
+            {
+                "actor": "Richard Robinson",
+                "name": "Yuzzum",
+                "description": ""
+            },
+            {
+                "actor": "Gerald Home",
+                "name": "Tessek / Mon Calamari officer",
+                "description": ""
+            },
+            {
+                "actor": "Phil Herbert",
+                "name": "Hermi Odle",
+                "description": ""
+            },
+            {
+                "actor": "Tim Dry",
+                "name": "Whiphid",
+                "description": ""
+            },
+            {
+                "actor": "Sean Crawford",
+                "name": "Yak-Face",
+                "description": ""
+            },
+            {
+                "actor": "Phil Tippett",
+                "name": "Rancor",
+                "description": ""
+            },
+            {
+                "actor": "Michael McCormick",
+                "name": "Rancor",
+                "description": ""
+            },
+            {
+                "actor": "Pat Welsh",
+                "name": "voice of Boushh",
+                "description": ""
+            },
+            {
+                "actor": "Toby Philpott",
+                "name": "Jabba the Hutt",
+                "description": ""
+            },
+            {
+                "actor": "David Barclay",
+                "name": "Jabba the Hutt",
+                "description": ""
+            },
+            {
+                "actor": "Mike Edmonds",
+                "name": "Jabba the Hutt / Logray",
+                "description": ""
+            },
+            {
+                "actor": "Larry Ward",
+                "name": "voice of Jabba the Hutt",
+                "description": ""
+            }
         ]
     },
     "Superman III (1983)": {
@@ -1962,6 +2573,72 @@
             "This time is gonna be the best time of all!",
             "The world's super hero in his toughest adventure yet!",
             "Superman vs. the king of computerized crime!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Christopher Reeve",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Richard Pryor",
+                "name": "August \"Gus\" Gorman",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Annette O'Toole",
+                "name": "Lana Lang",
+                "description": ""
+            },
+            {
+                "actor": "Annie Ross",
+                "name": "Vera Webster",
+                "description": ""
+            },
+            {
+                "actor": "Pamela Stephenson",
+                "name": "Lorelei Ambrosia",
+                "description": ""
+            },
+            {
+                "actor": "Robert Vaughn",
+                "name": "Ross Webster",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Gavan O'Herlihy",
+                "name": "Brad Wilson",
+                "description": ""
+            },
+            {
+                "actor": "Shane Rimmer",
+                "name": "state police officer",
+                "description": ""
+            },
+            {
+                "actor": "Pamela Mandell",
+                "name": "wife of Daily Planet sweepstakes winner",
+                "description": ""
+            }
         ]
     },
     "Indiana Jones and the Temple of Doom (1984)": {
@@ -2102,6 +2779,137 @@
             "A dying planet. A fight for life. The search for Spock.",
             "The needs of the one outweigh the needs of the many.",
             "Kirk must battle the Klingons to protect the Genesis Planet and save a friend's life."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "Admiral James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Joe W. Davis",
+                "name": "25-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Manley",
+                "name": "17-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Vadia Potenza",
+                "name": "13-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Carl Steven",
+                "name": "9-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "voice of Spock's screams",
+                "description": ""
+            },
+            {
+                "actor": "Robert Hooks",
+                "name": "Admiral Morrow",
+                "description": ""
+            },
+            {
+                "actor": "James B. Sikking",
+                "name": "Captain Styles",
+                "description": ""
+            },
+            {
+                "actor": "Miguel Ferrer",
+                "name": "the Excelsior's First Officer",
+                "description": ""
+            },
+            {
+                "actor": "Phillip R. Allen",
+                "name": "Captain J.T. Esteban",
+                "description": ""
+            },
+            {
+                "actor": "Catherine Shirriff",
+                "name": "Valkris",
+                "description": ""
+            },
+            {
+                "actor": "Grace Lee Whitney",
+                "name": "woman in Cafeteria",
+                "description": ""
+            },
+            {
+                "actor": "Scott McGinnis",
+                "name": "young man Uhura forces into a closet",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Judith Anderson",
+                "name": "T'Lar",
+                "description": ""
+            },
+            {
+                "actor": "Robin Curtis",
+                "name": "Saavik",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Lloyd",
+                "name": "Kruge",
+                "description": ""
+            },
+            {
+                "actor": "Mark Lenard",
+                "name": "Sarek",
+                "description": ""
+            },
+            {
+                "actor": "Merritt Butrick",
+                "name": "David Marcus",
+                "description": ""
+            },
+            {
+                "actor": "John Larroquette",
+                "name": "Maltz",
+                "description": ""
+            }
         ]
     },
     "Conan the Destroyer (1984)": {

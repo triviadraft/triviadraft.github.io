@@ -7,6 +7,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "He's here big as life in a real Bat-epic",
             "From the famous character \"BATMAN\"",
@@ -114,6 +115,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "Somewhere in the universe there must be something better than man. In a matter of time, an astronaut will wing through the centuries and find the answer. He may find the most terrifying one of all on the planet where apes are the rulers and man the beast.",
             "An unusual and important motion picture from the author of \"The Bridge on the River Kwai\"!",
@@ -216,6 +218,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "Now civilization's final battle between man and ape is about to begin.",
             "The bizarre world you met in 'Planet of the Apes' was only the beginning... What lies beneath may be the end!",
@@ -312,6 +315,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "...in a democracy we do not shoot unarmed suspects on sight for a murder in which their participation is still legally unproven",
             "The most powerful family of the 20th Century...It's Baby Milo Who Has Washington Terrified!",
@@ -417,6 +421,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "The Newest And Biggest Yet!",
             "All new! The revolt of the apes. The most awesome spectacle in the annals of science fiction!"
@@ -514,6 +519,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "The final chapter in the incredible Apes saga. The most suspenseful showdown ever filmed as two civilizations battle for the right to inherit what's left of the earth!"
         ],
@@ -620,6 +626,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "It's Back! The Force will be with you for three weeks only.",
             "May the Force be with you. One year old today.",
@@ -758,6 +765,7 @@ var igMovieMap = {
             "Animated",
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "Come to Middle-earth, a world beyond the furthest reaches of your imagination.",
             "Fantasy...beyond your imagination",
@@ -871,6 +879,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "You'll believe a man can fly.",
             "The movie that makes a legend come to life."
@@ -909,8 +918,23 @@ var igMovieMap = {
                 "description": ""
             },
             {
+                "actor": "Jack O'Halloran",
+                "name": "Non",
+                "description": ""
+            },
+            {
                 "actor": "Maria Schell",
                 "name": "Vond-Ah",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "General Zod",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Ursa",
                 "description": ""
             },
             {
@@ -951,18 +975,8 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Jack O'Halloran",
-                "name": "Non",
-                "description": ""
-            },
-            {
                 "actor": "Valerie Perrine",
                 "name": "Eve Teschmacher",
-                "description": ""
-            },
-            {
-                "actor": "Terence Stamp",
-                "name": "General Zod",
                 "description": ""
             },
             {
@@ -979,11 +993,6 @@ var igMovieMap = {
                 "actor": "Marc McClure",
                 "name": "Jimmy Olsen",
                 "description": ""
-            },
-            {
-                "actor": "Sarah Douglas",
-                "name": "Ursa",
-                "description": ""
             }
         ]
     },
@@ -993,6 +1002,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "In space no one can hear you scream.",
             "The Scariest Movie Ever Made. Experience it only on the big screen",
@@ -1070,6 +1080,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "There is no comparison.",
             "The human adventure is just beginning.",
@@ -1155,6 +1166,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "He rules the roads.",
             "They murdered his family...... Now he's going to run them over!",
@@ -1259,6 +1271,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "The Adventure Continues...",
             "The Star Wars saga continues",
@@ -1422,6 +1435,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "He'll save every one of us!!",
             "Get ready to kick some Flash.",
@@ -1577,6 +1591,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "Indiana Jones - the new hero from the creators of JAWS and STAR WARS.",
             "The Return of the Great Adventure."
@@ -1686,12 +1701,87 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "Miraculously freed from eternal orbit, the three outlaws from Krypton descend to earth, for the ultimate confrontation.",
             "The adventure continues",
             "The three outlaws from Krypton descend to Earth to confront the Man of Steel in a cosmic battle for world supremacy.",
             "The Man of Steel meets his match!",
             "The Man of Steel is back, and better than ever!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Gene Hackman",
+                "name": "Lex Luthor",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Reeve",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Ned Beatty",
+                "name": "Otis",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "General Zod",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Ursa",
+                "description": ""
+            },
+            {
+                "actor": "Jack O'Halloran",
+                "name": "Non",
+                "description": ""
+            },
+            {
+                "actor": "Valerie Perrine",
+                "name": "Eve Teschmacher",
+                "description": ""
+            },
+            {
+                "actor": "Susannah York",
+                "name": "Lara",
+                "description": ""
+            },
+            {
+                "actor": "Clifton James",
+                "name": "Sheriff",
+                "description": ""
+            },
+            {
+                "actor": "E. G. Marshall",
+                "name": "President of the United States",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Richard Donner",
+                "name": "man walking in sequence with de-powered Clark",
+                "description": ""
+            }
         ]
     },
     "Heavy Metal (1981)": {
@@ -1700,12 +1790,172 @@ var igMovieMap = {
         "categories": [
             "Animated"
         ],
+        "franchise": "Heavy Metal",
         "taglines": [
             "Sex and crime and rock 'n' roll!",
             "Louder and nastier then ever!",
             "A step beyond science-fiction.",
             "A universe of mystery. A universe of magic. A universe of awesome good...and terrifying evil.",
             "Columbia Pictures takes you beyond the future into a universe you've never seen before. A universe of mystery. A universe of magic. A universe of sexual fantasies. A universe of awesome good. A universe of terrifying evil."
+        ],
+        "minorCast": [
+            {
+                "actor": "Al Waxman",
+                "name": "Rudnick",
+                "description": ""
+            },
+            {
+                "actor": "Alice Playten",
+                "name": "Gloria",
+                "description": "stenographer"
+            },
+            {
+                "actor": "Caroline Semple",
+                "name": "Girl",
+                "description": ""
+            },
+            {
+                "actor": "Cedric Smith",
+                "name": "Bartender",
+                "description": ""
+            },
+            {
+                "actor": "Charles Joliffe",
+                "name": "Councilman #3",
+                "description": ""
+            },
+            {
+                "actor": "Don Francks",
+                "name": "Grimaldi / Co-Pilot (Holden) / Barbarian #2",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Kenney",
+                "name": "Regolian",
+                "description": ""
+            },
+            {
+                "actor": "George Touliatos",
+                "name": "Pilot (Skip) / Barbarian #3",
+                "description": ""
+            },
+            {
+                "actor": "Harvey Atkin",
+                "name": "Alien / Henchman",
+                "description": ""
+            },
+            {
+                "actor": "Jackie Burroughs",
+                "name": "Katherine Wells",
+                "description": ""
+            },
+            {
+                "actor": "Joe Flaherty",
+                "name": "Charlie / General",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Golland",
+                "name": "Councilman #2",
+                "description": ""
+            },
+            {
+                "actor": "Len Doncheff",
+                "name": "Barbarian #1",
+                "description": ""
+            },
+            {
+                "actor": "Marilyn Lightstone",
+                "name": "Whore / Queen",
+                "description": ""
+            },
+            {
+                "actor": "Martin Lavut",
+                "name": "Ard",
+                "description": ""
+            },
+            {
+                "actor": "Mavor Moore",
+                "name": "Elder",
+                "description": ""
+            },
+            {
+                "actor": "Ned Conlon",
+                "name": "Councilman #1",
+                "description": ""
+            },
+            {
+                "actor": "Patty Dworkin",
+                "name": "Female Reporter",
+                "description": ""
+            },
+            {
+                "actor": "Richard Romanus",
+                "name": "Harry Canyon",
+                "description": ""
+            },
+            {
+                "actor": "Susan Roman",
+                "name": "Girl / Satellite",
+                "description": ""
+            },
+            {
+                "actor": "Thor Bishopric",
+                "name": "Boy",
+                "description": ""
+            },
+            {
+                "actor": "Vlasta Vr\u00e1na",
+                "name": "Barbarian Leader",
+                "description": ""
+            },
+            {
+                "actor": "Warren Munson",
+                "name": "Senator",
+                "description": ""
+            },
+            {
+                "actor": "Zal Yanovsky",
+                "name": "Navigator / Barbarian #4",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "August Schellenberg",
+                "name": "Norl / Taarak",
+                "description": ""
+            },
+            {
+                "actor": "Eugene Levy",
+                "name": "Captain Lincoln F. Sternn / Male Reporter / Edsel",
+                "description": ""
+            },
+            {
+                "actor": "Harold Ramis",
+                "name": "Zeke",
+                "description": ""
+            },
+            {
+                "actor": "John Candy",
+                "name": "Desk Sergeant / Den / Robot",
+                "description": ""
+            },
+            {
+                "actor": "John Vernon",
+                "name": "Prosecutor",
+                "description": ""
+            },
+            {
+                "actor": "Percy Rodriguez",
+                "name": "Loc-Nar",
+                "description": ""
+            },
+            {
+                "actor": "Rodger Bumpass",
+                "name": "Hanover Fiste / Dr. Anrak",
+                "description": ""
+            }
         ]
     },
     "Swamp Thing (1982)": {
@@ -1715,9 +1965,71 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Science transformed him into a monster. Love changed him even more!",
             "The comic book legend lives!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Ray Wise",
+                "name": "Alec Holland",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Adrienne Barbeau",
+                "name": "Alice Cable",
+                "description": ""
+            },
+            {
+                "actor": "Louis Jourdan",
+                "name": "Anton Arcane",
+                "description": ""
+            },
+            {
+                "actor": "Dick Durock",
+                "name": "Swamp Thing",
+                "description": ""
+            },
+            {
+                "actor": "David Hess",
+                "name": "Ferret",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Nicholas Worth",
+                "name": "Bruno",
+                "description": ""
+            },
+            {
+                "actor": "Don Knight",
+                "name": "Harry Ritter",
+                "description": ""
+            },
+            {
+                "actor": "Al Ruban",
+                "name": "Charlie",
+                "description": ""
+            },
+            {
+                "actor": "Nannette Brown",
+                "name": "Dr. Linda Holland",
+                "description": ""
+            },
+            {
+                "actor": "Reggie Batts",
+                "name": "Jude",
+                "description": ""
+            },
+            {
+                "actor": "Karen Price",
+                "name": "Karen",
+                "description": ""
+            }
         ]
     },
     "Conan the Barbarian (1982)": {
@@ -1726,6 +2038,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Conan",
         "taglines": [
             "He conquered an empire with his sword. She conquered HIM with her bare hands.",
             "Slave. Barbarian. Warrior. Thief... Conan.",
@@ -1809,6 +2122,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "Just one man can make a difference.",
             "Mad Max meets the challenge!",
@@ -1904,12 +2218,84 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Prepare yourself for Warp-10 excitement!",
             "At the end of the universe lies the beginning of vengeance.",
             "A scientist discovered the Genesis Device. A madman stole the Genesis Device. An admiral pursued the Genesis Device. They all wanted the Genesis Device. Now, none can escape the Genesis Device.",
             "In the life of every warrior, there is a battle destined to be his greatest or his last. A battle that will reunite two old friends... and two old enemies. A battle between the starship Enterprise and the wrath of Khan.",
             "Somewhere in the darkest reaches of the universe, a battle is about to begin. A battle between good and evil, between a warrior and a madman. A battle that will take you from the end of time to the beginning of creation. A battle between the awesome power of the starship Enterprise and the wrath of Khan."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Ricardo Montalb\u00e1n",
+                "name": "Khan Noonien Singh",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Bibi Besch",
+                "name": "Carol Marcus",
+                "description": ""
+            },
+            {
+                "actor": "Merritt Butrick",
+                "name": "David Marcus",
+                "description": ""
+            },
+            {
+                "actor": "Paul Winfield",
+                "name": "Clark Terrell",
+                "description": "captain of the Reliant"
+            },
+            {
+                "actor": "Kirstie Alley",
+                "name": "Saavik",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Ike Eisenmann",
+                "name": "Scott's young nephew",
+                "description": ""
+            }
         ]
     },
     "Return of the Jedi (1983)": {
@@ -1918,11 +2304,258 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Coming May 25, 1983 to your galaxy.",
             "The Empire Falls....",
             "Return To A Galaxy Far, Far Away",
             "The Saga Continues."
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Hamill",
+                "name": "Luke Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Harrison Ford",
+                "name": "Han Solo",
+                "description": ""
+            },
+            {
+                "actor": "Carrie Fisher",
+                "name": "Leia Organa",
+                "description": ""
+            },
+            {
+                "actor": "Billy Dee Williams",
+                "name": "Lando Calrissian",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mayhew",
+                "name": "Chewbacca",
+                "description": ""
+            },
+            {
+                "actor": "Kenny Baker",
+                "name": "R2-D2 / Paploo",
+                "description": ""
+            },
+            {
+                "actor": "Ian McDiarmid",
+                "name": "The Emperor",
+                "description": ""
+            },
+            {
+                "actor": "Frank Oz",
+                "name": "Yoda",
+                "description": ""
+            },
+            {
+                "actor": "David Prowse",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Alec Guinness",
+                "name": "Obi-Wan Kenobi",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Sebastian Shaw",
+                "name": "unmasked Anakin Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Denis Lawson",
+                "name": "Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Kenneth Colley",
+                "name": "Admiral Piett",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Bulloch",
+                "name": "Boba Fett",
+                "description": ""
+            },
+            {
+                "actor": "Michael Pennington",
+                "name": "Moff Jerjerrod",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Wicket W. Warrick",
+                "description": ""
+            },
+            {
+                "actor": "Caroline Blakiston",
+                "name": "Mon Mothma",
+                "description": ""
+            },
+            {
+                "actor": "Deep Roy",
+                "name": "Droopy McCool",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Michael Carter",
+                "name": "Bib Fortuna",
+                "description": ""
+            },
+            {
+                "actor": "Erik Bauersfeld",
+                "name": "voice of Bib Fortuna",
+                "description": ""
+            },
+            {
+                "actor": "Femi Taylor",
+                "name": "Jabba's slave dancer",
+                "description": ""
+            },
+            {
+                "actor": "Claire Davenport",
+                "name": "Jabba's slave dancer",
+                "description": ""
+            },
+            {
+                "actor": "Tim Rose",
+                "name": "Admiral Ackbar / Salacious B. Crumb / Sy Snootles",
+                "description": ""
+            },
+            {
+                "actor": "Erik Bauersfeld",
+                "name": "voice of Admiral Ackbar",
+                "description": ""
+            },
+            {
+                "actor": "Richard Bonehill",
+                "name": "Nien Nunb",
+                "description": ""
+            },
+            {
+                "actor": "Mike Quinn",
+                "name": "Nien Nunb / Ree-Yees / Wol Cabbashite / Sy Snootles / Jabba the Hutt",
+                "description": ""
+            },
+            {
+                "actor": "Kipsang Rotich",
+                "name": "voice of Nien Nunb",
+                "description": ""
+            },
+            {
+                "actor": "Mark Dodson",
+                "name": "voice of Salacious B. Crumb",
+                "description": ""
+            },
+            {
+                "actor": "Annie Arbogast",
+                "name": "voice of Sy Snootles",
+                "description": ""
+            },
+            {
+                "actor": "Simon J. Williamson",
+                "name": "Max Rebo",
+                "description": ""
+            },
+            {
+                "actor": "Ailsa Berk",
+                "name": "Amanaman",
+                "description": ""
+            },
+            {
+                "actor": "Paul Springer",
+                "name": "Ree-Yees / Gamorrean Guard / Mon Calamari",
+                "description": ""
+            },
+            {
+                "actor": "Hugh Spight",
+                "name": "Gamorrean Guard / Elom / Mon Calamari",
+                "description": ""
+            },
+            {
+                "actor": "Swee Lim",
+                "name": "Attark the Hoover",
+                "description": ""
+            },
+            {
+                "actor": "Richard Robinson",
+                "name": "Yuzzum",
+                "description": ""
+            },
+            {
+                "actor": "Gerald Home",
+                "name": "Tessek / Mon Calamari officer",
+                "description": ""
+            },
+            {
+                "actor": "Phil Herbert",
+                "name": "Hermi Odle",
+                "description": ""
+            },
+            {
+                "actor": "Tim Dry",
+                "name": "Whiphid",
+                "description": ""
+            },
+            {
+                "actor": "Sean Crawford",
+                "name": "Yak-Face",
+                "description": ""
+            },
+            {
+                "actor": "Phil Tippett",
+                "name": "Rancor",
+                "description": ""
+            },
+            {
+                "actor": "Michael McCormick",
+                "name": "Rancor",
+                "description": ""
+            },
+            {
+                "actor": "Pat Welsh",
+                "name": "voice of Boushh",
+                "description": ""
+            },
+            {
+                "actor": "Toby Philpott",
+                "name": "Jabba the Hutt",
+                "description": ""
+            },
+            {
+                "actor": "David Barclay",
+                "name": "Jabba the Hutt",
+                "description": ""
+            },
+            {
+                "actor": "Mike Edmonds",
+                "name": "Jabba the Hutt / Logray",
+                "description": ""
+            },
+            {
+                "actor": "Larry Ward",
+                "name": "voice of Jabba the Hutt",
+                "description": ""
+            }
         ]
     },
     "Superman III (1983)": {
@@ -1933,12 +2566,79 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "If the world's most powerful computer can control even Superman...no one on earth is safe.",
             "Alexander Salkind Presents Christopher Reeve and Richard Pryor as you never seen them before. With more action, more twists, and more fun than Superman has ever had before!",
             "This time is gonna be the best time of all!",
             "The world's super hero in his toughest adventure yet!",
             "Superman vs. the king of computerized crime!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Christopher Reeve",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Richard Pryor",
+                "name": "August \"Gus\" Gorman",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Annette O'Toole",
+                "name": "Lana Lang",
+                "description": ""
+            },
+            {
+                "actor": "Annie Ross",
+                "name": "Vera Webster",
+                "description": ""
+            },
+            {
+                "actor": "Pamela Stephenson",
+                "name": "Lorelei Ambrosia",
+                "description": ""
+            },
+            {
+                "actor": "Robert Vaughn",
+                "name": "Ross Webster",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Gavan O'Herlihy",
+                "name": "Brad Wilson",
+                "description": ""
+            },
+            {
+                "actor": "Shane Rimmer",
+                "name": "state police officer",
+                "description": ""
+            },
+            {
+                "actor": "Pamela Mandell",
+                "name": "wife of Daily Planet sweepstakes winner",
+                "description": ""
+            }
         ]
     },
     "Indiana Jones and the Temple of Doom (1984)": {
@@ -1947,6 +2647,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "If adventure has a name... it must be Indiana Jones.",
             "The hero is back!",
@@ -2071,12 +2772,144 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Join the search.",
             "The final voyage of the starship Enterprise.",
             "A dying planet. A fight for life. The search for Spock.",
             "The needs of the one outweigh the needs of the many.",
             "Kirk must battle the Klingons to protect the Genesis Planet and save a friend's life."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "Admiral James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Joe W. Davis",
+                "name": "25-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Manley",
+                "name": "17-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Vadia Potenza",
+                "name": "13-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Carl Steven",
+                "name": "9-year-old Spock",
+                "description": ""
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "voice of Spock's screams",
+                "description": ""
+            },
+            {
+                "actor": "Robert Hooks",
+                "name": "Admiral Morrow",
+                "description": ""
+            },
+            {
+                "actor": "James B. Sikking",
+                "name": "Captain Styles",
+                "description": ""
+            },
+            {
+                "actor": "Miguel Ferrer",
+                "name": "the Excelsior's First Officer",
+                "description": ""
+            },
+            {
+                "actor": "Phillip R. Allen",
+                "name": "Captain J.T. Esteban",
+                "description": ""
+            },
+            {
+                "actor": "Catherine Shirriff",
+                "name": "Valkris",
+                "description": ""
+            },
+            {
+                "actor": "Grace Lee Whitney",
+                "name": "woman in Cafeteria",
+                "description": ""
+            },
+            {
+                "actor": "Scott McGinnis",
+                "name": "young man Uhura forces into a closet",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Judith Anderson",
+                "name": "T'Lar",
+                "description": ""
+            },
+            {
+                "actor": "Robin Curtis",
+                "name": "Saavik",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Lloyd",
+                "name": "Kruge",
+                "description": ""
+            },
+            {
+                "actor": "Mark Lenard",
+                "name": "Sarek",
+                "description": ""
+            },
+            {
+                "actor": "Merritt Butrick",
+                "name": "David Marcus",
+                "description": ""
+            },
+            {
+                "actor": "John Larroquette",
+                "name": "Maltz",
+                "description": ""
+            }
         ]
     },
     "Conan the Destroyer (1984)": {
@@ -2085,6 +2918,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Conan",
         "taglines": [
             "The most powerful legend of all is back in a new adventure.",
             "The Darkest Side of Magic. The Strongest Side of Man."
@@ -2162,6 +2996,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "I'll be back!",
             "In the Year of Darkness, 2029, the rulers of this planet devised the ultimate plan. They would reshape the Future by changing the Past. The plan required something that felt no pity. No pain. No fear. Something unstoppable. They created 'THE TERMINATOR'",
@@ -2262,6 +3097,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "The legend begins...",
             "Her legend is just beginning.",
@@ -2285,6 +3121,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Back to the Future",
         "taglines": [
             "He's the only kid ever to get into trouble before he was born.",
             "He was never in time for his classes . . .Then one day he wasn't in his time at all.",
@@ -2427,6 +3264,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Heroes of their time. For all time.",
             "A woman and a warrior that became a legend."
@@ -2524,6 +3362,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "Max is back...and Tina's got him!",
             "A lone warrior searching for his destiny...a tribe of lost children waiting for a hero...in a world battling to survive, they face a woman determined to rule. Hold out for Mad Max. This is his greatest adventure.",
@@ -2616,6 +3455,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "The Imagination of Jim Henson...",
             "The Wizardry of George Lucas...",
@@ -2744,6 +3584,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "This time there's more.",
             "This time it's war.",
@@ -2860,6 +3701,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "You will believe that a duck can talk.",
             "Trapped in a world he never made.",
@@ -2874,6 +3716,7 @@ var igMovieMap = {
             "Animated",
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "A monster planet destroys everything in its path, while Optimus Prime and Megatron battle to the death.",
             "It is the year 2005, and a new evil threatens the galaxy in the most incredible adventure you've ever seen.",
@@ -3060,6 +3903,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "How on Earth can they save the future?",
             "The crew of the starship Enterprise is coming home.",
@@ -3075,6 +3919,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "If it bleeds, we can kill it...",
             "Nothing like it has ever been on earth before.",
@@ -3156,6 +4001,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "The future of law enforcement.",
             "Part man. Part machine. All cop."
@@ -3295,6 +4141,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us."
         ]
@@ -3305,6 +4152,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Adventure doesn't come any bigger than this.",
             "Forget all you know, or think you know.",
@@ -3440,6 +4288,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "He's got a grudge, 'cos they turned him to sludge!",
             "A monster of a comedy!",
@@ -3454,6 +4303,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "He's back in an all new adventure. Memorial Day 1989.",
             "Have the adventure of your life keeping up with the Joneses",
@@ -3567,6 +4417,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "The greatest Enterprise of all is adventure.",
             "Adventure and imagination will meet at the final frontier.",
@@ -3583,6 +4434,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Only one will claim the night.",
             "Justice is always Darkest before the Dawn."
@@ -3594,6 +4446,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Back to the Future",
         "taglines": [
             "Getting back was only the beginning.",
             "Synchronize your watches. The future's coming back...",
@@ -3695,6 +4548,7 @@ var igMovieMap = {
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Heroes in a half shell!",
             "Lean, Green And On The Screen.",
@@ -3710,6 +4564,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Back to the Future",
         "taglines": [
             "They've saved the best trip for last... But this time they may have gone too far."
         ],
@@ -3807,6 +4662,7 @@ var igMovieMap = {
             "Comic Book",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Their turf. Their game. Their rules. They didn't count on HIS law...",
             "I'm on my way."
@@ -4114,6 +4970,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "He's back to protect the innocent.",
             "Even in the future of law enforcement there is room for improvement."
@@ -4307,6 +5164,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Who is Darkman? Find out this August.",
             "In the darkest hour, there is a light that shines on every human being...but ONE!",
@@ -4455,6 +5313,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "Pull over, park, and pray.",
             "Lions! Tigers! Bears! Oh my!",
@@ -4609,6 +5468,7 @@ var igMovieMap = {
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Cowabunga, it's the new turtle movie.",
             "Back by bodacious demand."
@@ -4621,6 +5481,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Three years before the United States declares war, Cliff Secord leads America's first battle against the Nazis.",
             "An Ordinary Man Forced to Become An Extraordinary Hero."
@@ -4788,6 +5649,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "It's nothing personal.",
             "This time he's back...for good!",
@@ -4939,6 +5801,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "The battle for peace has begun.",
             "On the verge of peace. On the brink of war.",
@@ -4953,6 +5816,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "In 1979, we discovered in space, no one can hear you scream. In 1992, we will discover, on Earth, everyone can hear you scream.",
             "In 1979, it came from within. In 1986, it was gone forever. In 1992, our worst fears have come true. It's back.",
@@ -5098,6 +5962,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "From the Sewers of Gotham, and New Villain Emerges. From the Rooftops of Gotham, the Purrrfect Enemy Comes to Life. And the Only One Who Can Save this City, is a Creature of the Night.",
             "While She Craves a Romance She can Sink Her Claws Into, He Plots a Fowl Reign of Destruction,",
@@ -5112,6 +5977,7 @@ var igMovieMap = {
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "The Most Exciting Adventure in 400 Years",
             "Turtles in time",
@@ -5126,6 +5992,7 @@ var igMovieMap = {
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Life finds a way.",
             "Remember. Return. Relive in 3D. Celebrate the 20th Anniversary of the adventure 65 million years in the making.",
@@ -5234,6 +6101,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "Chaos... Corruption... Civil War... He's back to lay down the law.",
             "He's back. Back online, back on duty."
@@ -5364,6 +6232,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "The Dark Knight fights to save Gotham City from its deadliest enemy."
         ]
@@ -5374,6 +6243,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Crow",
         "taglines": [
             "It Can't Rain All The Time.",
             "Nothing is trivial.",
@@ -5391,6 +6261,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "The Shadow Knows!",
             "Who knows what evil lurks in the hearts of men?"
@@ -5498,6 +6369,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Mask",
         "taglines": [
             "S-S-S-S-S-Smokin!!!",
             "From zero to hero",
@@ -5512,6 +6384,7 @@ var igMovieMap = {
             "Dystopian/Time",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "They killed his wife ten years ago. There's still time to save her. Murder is forever... until now.",
             "Turn back the clock, and you're history."
@@ -5609,6 +6482,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Two captains. One destiny.",
             "The torch of adventure is about to be passed.",
@@ -5624,6 +6498,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "In the future, the odds of survival are 1000 to 1. That's just the way she likes it.",
             "In the future, the odds of survival are 1000 to 1.",
@@ -5800,6 +6675,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Half a face and some riddles ain't nothing for the Knight.",
             "In a chaotic Time, Justice wears a mask.",
@@ -5813,6 +6689,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "One man is Judge, Jury, AND Executioner.",
             "One man is the law",
@@ -5967,6 +6844,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro"
         ],
+        "franchise": "Power Rangers",
         "taglines": [
             "Six teenagers have discovered the power to fight the forces of evil. Now the fate of the universe is in their hands.",
             "The power of teamwork overcomes all!",
@@ -6112,6 +6990,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "",
         "taglines": [
             "Beyond the horizon lies the secret to a new beginning."
         ],
@@ -6253,6 +7132,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Don't call me babe!",
             "No laws. No limits. No turning back."
@@ -6265,6 +7145,7 @@ var igMovieMap = {
             "Comic Book",
             " Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "The ghost who walks. The man who cannot die.",
             "Slam evil!"
@@ -6367,6 +7248,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Crow",
         "taglines": [
             "There will be another.",
             "Believe in the power of another.",
@@ -6381,6 +7263,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Prepare for assimilation.",
             "There is no thrill like First Contact.",
@@ -6396,6 +7279,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro"
         ],
+        "franchise": "Power Rangers",
         "taglines": [
             "Shift Into Turbo!",
             "The Power Is Back!"
@@ -6538,6 +7422,7 @@ var igMovieMap = {
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Something has survived",
             "They're Walking Our Streets"
@@ -6625,6 +7510,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Strength Now. Courage Always. Family, Above All. Batman and Robin!",
             "Heroes. Villains. Triple Threat.",
@@ -6639,6 +7525,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "Protecting the earth from the scum of the universe",
             "More secretive than the C.I.A. - More powerful than the F.B.I. - And they're looking for a few good men - They are the Men in Black"
@@ -6782,6 +7669,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Born in darkness. Sworn to justice.",
             "From flesh to steel. From blood to blade. From man...to Spawn.",
@@ -6861,6 +7749,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Heroes don't come any bigger.",
             "Man. Metal. Hero."
@@ -6872,6 +7761,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "It's been more than 200 years...The beginning has just started.",
             "We are not alone.",
@@ -6994,6 +7884,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Zorro",
         "taglines": [
             "When freedom is a memory and justice is outlawed, the just must become outlaws.",
             "No one has seen his face....but everyone....knows this mark.",
@@ -7094,6 +7985,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "The power of an immortal. The soul of a human. The heart of a hero.",
             "Against an army of immortals, one warrior must draw first blood.",
@@ -7109,6 +8001,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Meet the new face of evil.",
             "The battle for paradise has begun.",
@@ -7123,6 +8016,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "Free your mind",
             "In a world of 1s and 0s...are you a zero, or The One?",
@@ -7223,6 +8117,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "At last we will reveal ourselves to the Jedi.",
             "One Race. One Adventure. The One to Own.",
@@ -7239,6 +8134,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "This summer expect the unexpected",
             "Universal Pictures presents a new league of heroes that step to a different beat.",
@@ -7251,7 +8147,8 @@ var igMovieMap = {
         "year": "2000",
         "categories": [
             "Animated"
-        ]
+        ],
+        "franchise": "Heavy Metal"
     },
     "X-Men (2000)": {
         "title": "X-Men",
@@ -7261,6 +8158,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Evolution Begins.",
             "Join the Evolution.",
@@ -7279,6 +8177,7 @@ var igMovieMap = {
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "Unbreakable",
         "taglines": [
             "Shattering cinemas soon.",
             "Are You Ready For The Truth?",
@@ -7292,6 +8191,7 @@ var igMovieMap = {
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Disaster is an Instinct.",
             "This Time It's Not Just A Walk In The Park!",
@@ -7389,6 +8289,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "I want to make love\" to him\" - \"I'm going to tell him you said that\"",
             "Accentuate the negative.",
@@ -7401,6 +8302,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "The battle begins November 20th",
             "Rule the planet.",
@@ -7545,6 +8447,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Only the legend will survive."
         ]
@@ -7555,6 +8458,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Let The Magic Begin.",
             "Journey beyond your imagination",
@@ -7568,6 +8472,7 @@ var igMovieMap = {
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "The Legend Comes to Life",
             "One Ring To Rule Them All.",
@@ -7588,6 +8493,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "In A World Beyond The One We Know, The Forces Of Darkness Fear One Man...Blade!",
             "Know The Mark",
@@ -7607,6 +8513,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "With great power comes great responsibility.",
             "An Ordinary Man. An Extraordinary Power.",
@@ -7627,6 +8534,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "A Jedi Shall Not Know Anger. Nor Hatred. Nor Love.",
             "The Saga Continues.",
@@ -7644,6 +8552,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "We Got A World To Save",
             "Same Planet. New Scum.",
@@ -7809,6 +8718,7 @@ var igMovieMap = {
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Pray for Michael Sullivan",
             "Every father is a hero to his son.",
@@ -7822,6 +8732,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Dobby has come to warn you Sir.",
             "Hogwarts is back in session.",
@@ -7837,6 +8748,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "A generation's final journey begins.",
             "The ultimate battle for Earth begins.",
@@ -7850,6 +8762,7 @@ var igMovieMap = {
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "A New Power Is Rising.",
             "The Battle for Middle-earth Begins!",
@@ -7865,6 +8778,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "A Guardian Devil.",
             "He is the man without fear",
@@ -7882,6 +8796,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "A power beyond measure requires a protector without equal.",
             "Don't mess with the monk",
@@ -7897,6 +8812,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "The time has come for those who are different to stand united",
             "Get ready for the return of the Evolution",
@@ -7913,6 +8829,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "Free your mind.",
             "Reload in IMAX: Think big.",
@@ -8082,6 +8999,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Unleash the fury!",
             "What if everything you were forced to keep inside was suddenly set free?",
@@ -8097,6 +9015,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "Next Summer, the machines will rise.",
             "Experience the 3rd time in IMAX!",
@@ -8170,6 +9089,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "Prepare to be blown out of the water.",
             "Over 3000 Islands of Paradise -- For Some it's A Blessing -- For Others... It's A Curse."
@@ -8251,6 +9171,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "From the Director of Blade",
             "Prepare for the Extraordinary",
@@ -8348,6 +9269,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "Everything that has a beginning has an end.",
             "The IMAX Revolution"
@@ -8500,6 +9422,7 @@ var igMovieMap = {
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "The eye of the enemy is moving.",
             "This Christmas the journey ends.",
@@ -8513,6 +9436,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Hellboy",
         "taglines": [
             "From the Dark Side to Our Side",
             "Give Evil Hell",
@@ -8634,6 +9558,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "This Is Not Revenge. It's Punishment!",
             "Frank Castle has died...but has been reborn as THE PUNISHER.",
@@ -8649,6 +9574,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Have you seen this wizard?",
             "Something wicked this way comes.",
@@ -8670,6 +9596,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "Sacrifice",
             "Destiny",
@@ -8685,6 +9612,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "CATch Her In IMAX"
         ]
@@ -8695,6 +9623,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "Whoever wins... We lose.",
             "It's our planet....It's their war.",
@@ -8788,6 +9717,7 @@ var igMovieMap = {
         "categories": [
             "Animated"
         ],
+        "franchise": "Incredibles",
         "taglines": [
             "Save The Day",
             "Discover the Side of Superheroes You've Never Seen Before",
@@ -8805,6 +9735,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Where it began so it shall end.",
             "The final hunt begins.",
@@ -8818,6 +9749,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "She's the last thing that stands between good and evil.",
             "Looks can kill.",
@@ -8833,6 +9765,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Hell wants him. Heaven won't take him. Earth needs him.",
             "The wager between heaven and hell is on Earth"
@@ -8844,6 +9777,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "Mask",
         "taglines": [
             "Who's next?",
             "The next generation of mischief",
@@ -8857,6 +9791,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "Sin City",
         "taglines": [
             "Hell of a way to end a partnership.",
             "In a City, There is a Shaky Truce Between Those Who Rule the Streets, and Those Who Rule Everything",
@@ -8875,6 +9810,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "The saga is complete."
         ]
@@ -8887,6 +9823,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "The Legend Begins",
             "This Summer, Evil Fears The Knight.",
@@ -8901,6 +9838,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "4 times the action. 4 times the adventure. 4 times the fantastic.",
             "When an experimental space voyage goes wrong, four people are dramatically changed by cosmic rays to become the Fantastic Four.",
@@ -8914,6 +9852,7 @@ var igMovieMap = {
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "",
         "taglines": [
             "Brains, Brawn And Beyond.",
             "Saving The World... One Homework Assignment At A Time."
@@ -8926,6 +9865,7 @@ var igMovieMap = {
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Everyone has something to hide.",
             "Tom Stall had the perfect life... until he became a hero."
@@ -8937,6 +9877,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Zorro",
         "taglines": [
             "This Fall, adventure begins with a Z."
         ],
@@ -9023,6 +9964,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Everything is about to change.",
             "Difficult times lie ahead, Harry.",
@@ -9036,6 +9978,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Narnia",
         "taglines": [
             "Some journeys take us far from home. Some adventures lead us to our destiny.",
             "There are many stories of Narnia. The first is about to be told.",
@@ -9178,6 +10121,7 @@ var igMovieMap = {
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Remember, remember the 5th of November, the gun powder treason and plot. I know of no reason why the gun powder treason should ever be forgot.",
             "I am an idea. And ideas are bulletproof",
@@ -9194,6 +10138,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Take a Stand",
             "Whose Side Will You Be On?",
@@ -9208,6 +10153,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "Superman",
         "taglines": [
             "On June 30, 2006! Look Up In The Sky!"
         ]
@@ -9218,6 +10164,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "Captain Jack is back."
         ],
@@ -9298,6 +10245,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Long ago he made a deal to save someone he loved.",
             "Hell Is About To Be Unleashed",
@@ -9314,6 +10262,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "300",
         "taglines": [
             "Feel the wrath in IMAX",
             "Spartans, tonight, we dine in hell!",
@@ -9332,6 +10281,7 @@ var igMovieMap = {
             "Animated",
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Raising Shell In 2007"
         ]
@@ -9344,6 +10294,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "Next summer, the greatest battle lies... within.",
             "The battle within.",
@@ -9359,6 +10310,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "At the End of the World, the Adventure Begins"
         ],
@@ -9531,6 +10483,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Rise",
             "Discover the secret of the Surfer",
@@ -9544,6 +10497,7 @@ var igMovieMap = {
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Their war. Our world.",
             "You haven't seen it all until you've seen it in IMAX",
@@ -9698,6 +10652,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "The rebellion begins.",
             "Evil must be confronted.",
@@ -9715,6 +10670,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "They're Coming!",
             "Welcome to Barrow (Alaska), Inhabitants: (scratched number 588') 15"
@@ -9726,6 +10682,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "This Christmas there will be no peace on Earth.",
             "The Last Place On Earth We Want To Be Is In The Middle",
@@ -9902,6 +10859,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Heroes aren't born. They're built.",
             "Get ready for a different breed of heavy metal hero."
@@ -9913,6 +10871,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Narnia",
         "taglines": [
             "A New Age Has Begun.",
             "Everything you know is about to change forever.",
@@ -10098,6 +11057,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Indiana Jones",
         "taglines": [
             "In May, the adventure continues.",
             "The adventure continues . . ."
@@ -10201,6 +11161,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "On June 13, get ready to unleash the beast.",
             "This summer, our only hope is something incredible",
@@ -10214,6 +11175,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Choose your destiny.",
             "Their world. Her rules. His destiny.",
@@ -10227,6 +11189,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Hellboy",
         "taglines": [
             "Saving the world is a hell of a job",
             "Believe it or not - he's the good guy",
@@ -10308,6 +11271,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Why So Serious?",
             "Welcome to a world without rules.",
@@ -10323,7 +11287,8 @@ var igMovieMap = {
         "categories": [
             "Animated",
             "Star Wars"
-        ]
+        ],
+        "franchise": "Star Wars"
     },
     "Punisher: War Zone (2008)": {
         "title": "Punisher: War Zone",
@@ -10332,6 +11297,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Vengeance has a name.",
             "Vengeance is Coming.",
@@ -10344,6 +11310,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Down these mean streets a man must come. A hero born, murdered, and born again.",
             "My city screams. She is my lover. And I am her spirit.",
@@ -10360,6 +11327,7 @@ var igMovieMap = {
             "DC",
             "Graphic Novel"
         ],
+        "franchise": "DC",
         "taglines": [
             "This city is afraid of me. I've seen its true face.",
             "Who will save us now?",
@@ -10382,6 +11350,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Witness the Origin."
         ]
@@ -10392,6 +11361,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "The future begins.",
             "Before Guardians of the Galaxy... There was Star Trek!"
@@ -10403,6 +11373,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "The End Begins",
             "We Fight Back"
@@ -10490,6 +11461,7 @@ var igMovieMap = {
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "The battle for Earth begins in theatres and IMAX 6.24.09",
             "Revenge takes many forms.",
@@ -10667,6 +11639,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Once again I must ask too much of you, Harry.",
             "Dark secrets revealed."
@@ -10679,6 +11652,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "How do you save humanity when the only thing that's real is you?",
             "Human perfection. What could go wrong?"
@@ -10767,6 +11741,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kick-Ass",
         "taglines": [
             "I can't fly. But I can kick your ass.",
             "I can't read your mind. But I can kick your ass.",
@@ -10784,6 +11759,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Anyone Else Would Be Dead By Now.",
             "You Don't Give Them Orders. You Just Turn Them Loose.",
@@ -10802,6 +11778,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "It's not the armor that makes the hero, but the man inside."
         ]
@@ -10813,6 +11790,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Revenge gets ugly"
         ]
@@ -10823,6 +11801,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "Fear is Reborn",
             "The Hunt Is On",
@@ -10902,6 +11881,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "An epic of epic epicness.",
             "Get the hot girl. Defeat her evil exes. Hit love where it hurts.",
@@ -10915,6 +11895,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Still Armed. Still Dangerous. Still Got It.",
             "He's Got Time To Kill.",
@@ -10932,6 +11913,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "Trust no one.",
             "It all ends here.",
@@ -10947,6 +11929,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Narnia",
         "taglines": [
             "Return to magic. Return to hope. Return to Narnia.",
             "Take the voyage. Live the adventure. Discover Narnia like you've never seen it before."
@@ -11084,6 +12067,7 @@ var igMovieMap = {
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "",
         "taglines": [
             "Protect the law by breaking it."
         ]
@@ -11095,6 +12079,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Two worlds. One hero.",
             "The god of thunder. The king of Asgard. The god of mischief. The guardian of worlds. The goddess of war. The woman of science.",
@@ -11107,6 +12092,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Vampire Killer",
             "The War is Eternal. His Mission is Just the Beginning.",
@@ -11119,6 +12105,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "Pirate's Life."
         ],
@@ -11200,6 +12187,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Before he was Professor X, he was Charles. Before he was Magneto, he was Erik. Before they were enemies, they were allies.",
             "Witness the origin",
@@ -11216,6 +12204,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "One of us... becomes one of them.",
             "In brightest day, in blackest night, no evil shall escape my sight, let those who worship evil's might, beware my power, Green Lantern's Light.",
@@ -11228,6 +12217,7 @@ var igMovieMap = {
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Earth goes dark",
             "Mankind's finest achievement. Our nation's proudest moment. A secret hidden for forty years.",
@@ -11460,6 +12450,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "It All Ends Here",
             "It All Ends",
@@ -11473,6 +12464,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "When patriots become heroes"
         ]
@@ -11484,6 +12476,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "First contact. Last stand."
         ],
@@ -11595,6 +12588,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "Evolution Becomes Revolution"
         ],
@@ -11696,6 +12690,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Conan",
         "taglines": [
             "Enter An Age Undreamed Of"
         ],
@@ -11802,6 +12797,7 @@ var igMovieMap = {
         "categories": [
             "Animated"
         ],
+        "franchise": "",
         "taglines": [
             "This year, discover how far adventure will take you."
         ]
@@ -11813,6 +12809,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "He rides again."
         ]
@@ -11823,6 +12820,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Lost in Our World. Found in Another."
         ],
@@ -11925,6 +12923,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Avengers Assemble!"
         ]
@@ -11937,6 +12936,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "They are back... in time.",
             "Back to the past... to save the future",
@@ -12051,6 +13051,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "The search for our beginning could lead to our end",
             "They went looking for our beginning. What they found could be our end.",
@@ -12164,6 +13165,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "The untold story begins.",
             "His past was kept from him. His search for answers has just begun."
@@ -12177,6 +13179,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "The Legend Ends",
             "A Fire Will Rise",
@@ -12190,6 +13193,187 @@ var igMovieMap = {
             "Hope is Lost. Faith is Broken. A Fire Will Rise.",
             "Let the Games Begin",
             "Every Hero has a Journey. Every Journey has an End."
+        ],
+        "mainCast": [
+            {
+                "actor": "Christian Bale",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Michael Caine",
+                "name": "Alfred Pennyworth",
+                "description": ""
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "James Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Anne Hathaway",
+                "name": "Selina Kyle / Catwoman",
+                "description": ""
+            },
+            {
+                "actor": "Tom Hardy",
+                "name": "Bane",
+                "description": ""
+            },
+            {
+                "actor": "Marion Cotillard",
+                "name": "Miranda Tate / Talia al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Gordon-Levitt",
+                "name": "John Blake",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "Lucius Fox",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Joey King",
+                "name": "young Talia al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Modine",
+                "name": "Peter Foley",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "John Daggett",
+                "description": ""
+            },
+            {
+                "actor": "Burn Gorman",
+                "name": "Philip Stryver",
+                "description": ""
+            },
+            {
+                "actor": "Alon Abutbul",
+                "name": "Leonid Pavel",
+                "description": ""
+            },
+            {
+                "actor": "Juno Temple",
+                "name": "Jen",
+                "description": ""
+            },
+            {
+                "actor": "Brett Cullen",
+                "name": "Byron Gilley",
+                "description": ""
+            },
+            {
+                "actor": "Cillian Murphy",
+                "name": "Dr. Jonathan Crane / Scarecrow",
+                "description": ""
+            },
+            {
+                "actor": "Liam Neeson",
+                "name": "Henri Ducard / Ra's al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "Nestor Carbonell",
+                "name": "Anthony Garcia",
+                "description": ""
+            },
+            {
+                "actor": "Aidan Gillen",
+                "name": "Bill Wilson",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Lennon",
+                "name": "doctor",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Daniel Sunjata",
+                "name": "Mark Jones",
+                "description": ""
+            },
+            {
+                "actor": "Chris Ellis",
+                "name": "Father Reilly",
+                "description": ""
+            },
+            {
+                "actor": "Josh Pence",
+                "name": "young Ra's al Ghul",
+                "description": ""
+            },
+            {
+                "actor": "John Nolan",
+                "name": "Douglas Fredericks",
+                "description": ""
+            },
+            {
+                "actor": "Rob Brown",
+                "name": "police officer",
+                "description": ""
+            },
+            {
+                "actor": "Desmond Harrington",
+                "name": "police officer",
+                "description": ""
+            },
+            {
+                "actor": "Josh Stewart",
+                "name": "Barsad",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Judge",
+                "name": "Bane's henchman",
+                "description": ""
+            },
+            {
+                "actor": "Noel Gugliemi",
+                "name": "Bane's exile compeller",
+                "description": ""
+            },
+            {
+                "actor": "Tom Conti",
+                "name": "prisoner",
+                "description": ""
+            },
+            {
+                "actor": "William Devane",
+                "name": "President of the United States",
+                "description": ""
+            },
+            {
+                "actor": "Bill Cowher",
+                "name": "head coach of the Rogues",
+                "description": ""
+            },
+            {
+                "actor": "Luke Ravenstahl",
+                "name": "kicker for the Monuments",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Leahy",
+                "name": "Wayne Enterprises board member",
+                "description": ""
+            },
+            {
+                "actor": "India Wadsworth",
+                "name": "wife of Ra's al Ghul",
+                "description": ""
+            }
         ]
     },
     "Dredd (2012)": {
@@ -12199,6 +13383,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Judgment is coming"
         ],
@@ -12315,6 +13500,7 @@ var igMovieMap = {
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "From the smallest beginnings come the greatest legends.",
             "One journey started it all."
@@ -12327,6 +13513,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Earth is a memory worth fighting for."
         ],
@@ -12377,6 +13564,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Prepare for heavy metal!",
             "Unleash the power behind the armor.",
@@ -12389,6 +13577,7 @@ var igMovieMap = {
         "categories": [
             "Star Trek"
         ],
+        "franchise": "Star Trek",
         "taglines": [
             "Beyond the darkness, lies greatness.",
             "In our darkest hour, when our leaders have fallen, a hero will rise.",
@@ -12404,6 +13593,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Accomplish Wonder."
         ]
@@ -12414,6 +13604,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "",
         "taglines": [
             "Never Take Off the Mask",
             "Discover the Untold Story of an American Legend."
@@ -12532,6 +13723,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "To protect and serve the living",
             "They're defending our world one soul at a time."
@@ -12625,6 +13817,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "The best never rest.",
             "They're ex-CIA, but they're back in action."
@@ -12638,6 +13831,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "When he's most vulnerable, he's most dangerous.",
             "The hero. The fugitive. The warrior. The survivor. The legend.",
@@ -12651,6 +13845,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "2 Guns, 1 Bank."
         ]
@@ -12662,6 +13857,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kick-Ass",
         "taglines": [
             "You Can't Fight Your Destiny."
         ]
@@ -12673,6 +13869,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "There was darkness."
         ]
@@ -12683,6 +13880,7 @@ var igMovieMap = {
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "Beyond darkness... beyond desolation... lies the greatest danger of all."
         ]
@@ -12693,6 +13891,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "In the battle between good and evil, an immortal holds the key.",
             "200 years later, he's still alive."
@@ -12704,6 +13903,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "RoboCop",
         "taglines": [
             "We've got the future under control.",
             "Your move",
@@ -12807,6 +14007,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "300",
         "taglines": [
             "Seize your glory",
             "The battle of glory continues"
@@ -12819,6 +14020,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "In heroes we trust."
         ]
@@ -12831,6 +14033,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "No more secrets.",
             "His greatest battle begins.",
@@ -12845,6 +14048,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "His past. Our future.",
             "Every hero, every power will unite.",
@@ -12857,6 +14061,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "",
         "taglines": [
             "AD 2031: the passengers in the train are the only survivors on Earth.",
             "Fight your way to the front",
@@ -12970,6 +14175,7 @@ var igMovieMap = {
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Prepare for extinction.",
             "The rules have changed",
@@ -13114,6 +14320,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "One last chance for peace."
         ],
@@ -13221,6 +14428,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Before he was a legend, he was a man.",
             "Discover the truth behind the legend"
@@ -13334,6 +14542,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "You're welcome.",
             "All heroes start somewhere.",
@@ -13346,6 +14555,7 @@ var igMovieMap = {
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "The leader. The brains. The attitude. And Mikey.",
             "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
@@ -13359,6 +14569,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "Sin City",
         "taglines": [
             "There is no justice without sin.",
             "Outlaws Will Become Heroes in a City Without Justice"
@@ -13371,7 +14582,8 @@ var igMovieMap = {
             "Animated",
             "Comic Book",
             "Marvel"
-        ]
+        ],
+        "franchise": "Marvel"
     },
     "The Hobbit: The Battle of the Five Armies (2014)": {
         "title": "The Hobbit: The Battle of the Five Armies",
@@ -13379,6 +14591,7 @@ var igMovieMap = {
         "categories": [
             "Middle-earth"
         ],
+        "franchise": "Middle-earth",
         "taglines": [
             "The Defining Chapter",
             "Witness the defining chapter of the Middle-Earth saga.",
@@ -13392,6 +14605,7 @@ var igMovieMap = {
             "Animated",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "For ages two worlds lived divided: the magical and the mysterious. Until someone crossed the line...",
             "They're as different as night and day. But sometimes even enemies just need a little magic.",
@@ -13494,6 +14708,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kingsman",
         "taglines": [
             "Manners maketh man."
         ]
@@ -13505,6 +14720,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "A new age begins"
         ]
@@ -13515,6 +14731,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Mad Max",
         "taglines": [
             "WHAT A LOVELY DAY",
             "Only the mad survive.",
@@ -13671,6 +14888,7 @@ var igMovieMap = {
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "The park is open."
         ],
@@ -13755,6 +14973,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "The rules have been reset.",
             "He's Back.",
@@ -13865,6 +15084,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Heroes don't get any bigger.",
             "No shield. No armor. No problem."
@@ -13877,6 +15097,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Change is coming.",
             "When you change the world, prepare to defend it.",
@@ -13889,6 +15110,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Every generation has a story.",
             "Coming to your galaxy this winter.",
@@ -13904,6 +15126,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "With great power comes great irresponsibility.",
             "Witness the beginning of a happy ending",
@@ -13926,6 +15149,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Who will win?"
         ]
@@ -13938,6 +15162,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Divided We Fall",
             "Whose side are you on?",
@@ -13952,6 +15177,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Prepare for the Apocalypse.",
             "Only the strong will survive",
@@ -13965,6 +15191,7 @@ var igMovieMap = {
         "categories": [
             "Teenage Mutant Ninja Turtles"
         ],
+        "franchise": "TMNT",
         "taglines": [
             "Raise some shell.",
             "Only one team can defend us all.",
@@ -13976,7 +15203,8 @@ var igMovieMap = {
         "year": "2016",
         "categories": [
             "Star Trek"
-        ]
+        ],
+        "franchise": "Star Trek"
     },
     "Suicide Squad (2016)": {
         "title": "Suicide Squad",
@@ -13986,6 +15214,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Justice has a bad side.",
             "Worst. Heroes. Ever.",
@@ -14002,6 +15231,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Open your mind. Change your reality.",
             "Question reality. Change your destiny.",
@@ -14016,6 +15246,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "From J.K. Rowling's wizarding world.",
             "J.K. Rowling invites you to a new era of the wizarding world.",
@@ -14031,9 +15262,236 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "A rebellion built on hope.",
             "Save the Rebellion. Save the dream."
+        ],
+        "mainCast": [
+            {
+                "actor": "Felicity Jones",
+                "name": "Jyn Erso",
+                "description": ""
+            },
+            {
+                "actor": "Diego Luna",
+                "name": "Cassian Andor",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "Orson Krennic",
+                "description": ""
+            },
+            {
+                "actor": "Donnie Yen",
+                "name": "Chirrut \u00cemwe",
+                "description": ""
+            },
+            {
+                "actor": "Mads Mikkelsen",
+                "name": "Galen Erso",
+                "description": ""
+            },
+            {
+                "actor": "Alan Tudyk",
+                "name": "K-2SO",
+                "description": ""
+            },
+            {
+                "actor": "Riz Ahmed",
+                "name": "Bodhi Rook",
+                "description": ""
+            },
+            {
+                "actor": "Jiang Wen",
+                "name": "Baze Malbus",
+                "description": ""
+            },
+            {
+                "actor": "Forest Whitaker",
+                "name": "Saw Gerrera",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Beau Gadsdon",
+                "name": "8-year-old Jyn Erso",
+                "description": ""
+            },
+            {
+                "actor": "Dolly Gadsdon",
+                "name": "4-year-old Jyn Erso",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            },
+            {
+                "actor": "Jimmy Vee",
+                "name": "R2-D2",
+                "description": ""
+            },
+            {
+                "actor": "James Earl Jones",
+                "name": "voice of Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Spencer Wilding",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Naprous",
+                "name": "Darth Vader",
+                "description": ""
+            },
+            {
+                "actor": "Angus MacInnes",
+                "name": "Gold Leader Dutch Vander",
+                "description": ""
+            },
+            {
+                "actor": "Drewe Henley",
+                "name": "Red Leader Garven Dreis",
+                "description": ""
+            },
+            {
+                "actor": "David Ankrum",
+                "name": "voice of Wedge Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Ian McElhinney",
+                "name": "General Jan Dodonna",
+                "description": ""
+            },
+            {
+                "actor": "Michael Smiley",
+                "name": "Dr. Evazan",
+                "description": ""
+            },
+            {
+                "actor": "Andy de la Tour",
+                "name": "General Hurst Romodi",
+                "description": ""
+            },
+            {
+                "actor": "Tim Beckmann",
+                "name": "Captain Raymus Antilles",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Weeteef Cyubee",
+                "description": ""
+            },
+            {
+                "actor": "Dave Filoni",
+                "name": "C1-10P",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Stanton",
+                "name": "voice of Admiral Raddus",
+                "description": ""
+            },
+            {
+                "actor": "Paul Kasey",
+                "name": "Admiral Raddus",
+                "description": ""
+            },
+            {
+                "actor": "Alistair Petrie",
+                "name": "General Davits Draven",
+                "description": ""
+            },
+            {
+                "actor": "Ben Daniels",
+                "name": "General Antoc Merrick",
+                "description": ""
+            },
+            {
+                "actor": "Valene Kane",
+                "name": "Lyra Erso",
+                "description": ""
+            },
+            {
+                "actor": "Jonathan Aris",
+                "name": "Senator Nower Jebel",
+                "description": ""
+            },
+            {
+                "actor": "Fares Fares",
+                "name": "Senator Vasp Vaspar",
+                "description": ""
+            },
+            {
+                "actor": "Sharon Duncan-Brewster",
+                "name": "Tynnra Pamlo",
+                "description": ""
+            },
+            {
+                "actor": "Simon Farnaby",
+                "name": "member of Blue Squadron",
+                "description": ""
+            },
+            {
+                "actor": "Jordan Stephens",
+                "name": "Corporal Tonc",
+                "description": ""
+            },
+            {
+                "actor": "Nick Kellington",
+                "name": "Bistan",
+                "description": ""
+            },
+            {
+                "actor": "Ian Whyte",
+                "name": "Moroff",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Mays",
+                "name": "Tivik",
+                "description": ""
+            },
+            {
+                "actor": "Ram Bergman",
+                "name": "Death Star technician",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jimmy Smits",
+                "name": "Bail Organa",
+                "description": ""
+            },
+            {
+                "actor": "Genevieve O'Reilly",
+                "name": "Mon Mothma",
+                "description": ""
+            },
+            {
+                "actor": "Guy Henry",
+                "name": "Grand Moff Tarkin",
+                "description": ""
+            },
+            {
+                "actor": "Ingvild Deila",
+                "name": "Princess Leia Organa",
+                "description": ""
+            },
+            {
+                "actor": "Rian Johnson",
+                "name": "Death Star technician",
+                "description": ""
+            }
         ]
     },
     "Split (2017)": {
@@ -14042,6 +15500,7 @@ var igMovieMap = {
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "Unbreakable",
         "taglines": [
             "Kevin has 23 distinct personalities. The 24th is about to be unleashed."
         ]
@@ -14055,6 +15514,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "Always be yourself. Unless you can be Batman.",
             "Who says bats can't swim?",
@@ -14075,6 +15535,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "His time has come",
             "One Last Time."
@@ -14087,6 +15548,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro"
         ],
+        "franchise": "Power Rangers",
         "taglines": [
             "Back to action!",
             "Together we are more",
@@ -14237,6 +15699,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "This summer, the galaxy won't save itself.",
             "Obviously.",
@@ -14250,6 +15713,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Alien",
         "taglines": [
             "Run",
             "The path to paradise begins in hell.",
@@ -14342,6 +15806,7 @@ var igMovieMap = {
         "categories": [
             "Swashbuckling/Pulp"
         ],
+        "franchise": "Pirates",
         "taglines": [
             "All pirates must die."
         ],
@@ -14459,6 +15924,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Power. Grace. Wisdom. Wonder.",
             "Wonder. Power. Courage.",
@@ -14471,6 +15937,7 @@ var igMovieMap = {
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Rethink your heroes",
             "Every legend hides a secret",
@@ -14658,6 +16125,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Homework can wait. The city can't."
         ]
@@ -14668,6 +16136,7 @@ var igMovieMap = {
         "categories": [
             "Planet of the Apes"
         ],
+        "franchise": "Planet of the Apes",
         "taglines": [
             "For freedom. For family. For the planet."
         ],
@@ -14769,6 +16238,7 @@ var igMovieMap = {
         "categories": [
             "Graphic Novel"
         ],
+        "franchise": "",
         "taglines": [
             "Talents can be overrated."
         ]
@@ -14780,6 +16250,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "Kingsman",
         "taglines": [
             "Reports of my death have been greatly exaggerated."
         ]
@@ -14791,6 +16262,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "No Hammer. No Problem.",
             "Thunder Will Reign.",
@@ -14806,6 +16278,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Unite",
             "Justice for all.",
@@ -14821,6 +16294,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Let the Past Die",
             "Always in Motion is the Future",
@@ -14834,6 +16308,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Long live the king.",
             "Hero. Legend. King.",
@@ -14850,6 +16325,7 @@ var igMovieMap = {
         "categories": [
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "A better reality awaits.",
             "Break Free",
@@ -14952,6 +16428,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "An entire universe. Once and for all.",
             "Destiny arrives.",
@@ -14966,6 +16443,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Prepare for the second coming.",
             "Be the first to see the second coming.",
@@ -14982,6 +16460,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Never tell him the odds."
         ]
@@ -14992,6 +16471,7 @@ var igMovieMap = {
         "categories": [
             "Animated"
         ],
+        "franchise": "Incredibles",
         "taglines": [
             "It's been too long, dahlings.",
             "Back to work.",
@@ -15005,6 +16485,7 @@ var igMovieMap = {
         "categories": [
             "Jurassic Park"
         ],
+        "franchise": "Jurassic Park",
         "taglines": [
             "Life finds a way.",
             "The park is gone.",
@@ -15088,6 +16569,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Real heroes. Not actual size."
         ]
@@ -15101,6 +16583,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "Batman",
         "taglines": [
             "It's about courage. It's about action. It's the super hero movie to end all super hero movies... Hopefully.",
             "Because if Aquaman can get a movie, anyone can.",
@@ -15113,6 +16596,7 @@ var igMovieMap = {
         "categories": [
             "Alien/Predator"
         ],
+        "franchise": "Predator",
         "taglines": [
             "You'll never see him coming.",
             "The Hunt has Evolved",
@@ -15245,6 +16729,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Marvel",
         "taglines": [
             "Embrace your inner anti-hero.",
             "The world has enough Superheroes.",
@@ -15257,6 +16742,7 @@ var igMovieMap = {
         "categories": [
             "Wizarding World"
         ],
+        "franchise": "Wizarding World",
         "taglines": [
             "The fate of one will change the future of all.",
             "Who will change the future?"
@@ -15271,6 +16757,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "Spider-Man",
         "taglines": [
             "Enter a universe where more than one wears the mask.",
             "What makes you different is what makes you Spider-Man."
@@ -15283,6 +16770,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Home is calling.",
             "A tide is coming.",
@@ -15295,6 +16783,7 @@ var igMovieMap = {
         "categories": [
             "Hasbro"
         ],
+        "franchise": "Transformers",
         "taglines": [
             "Every adventure has a beginning",
             "Every Hero Has a Beginning"
@@ -15452,6 +16941,7 @@ var igMovieMap = {
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "Unbreakable",
         "taglines": [
             "You Cannot Contain What You Are.",
             "Real villains are among us. Real heroes are within us.",
@@ -15465,6 +16955,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "If the Job doesn't kill you, Retirement will."
         ]
@@ -15476,6 +16967,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Discover what makes a (her)o.",
             "Higher. Further. Faster.",
@@ -15489,6 +16981,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "If you want to save the world, say the magic word.",
             "Just say the word.",
@@ -15504,6 +16997,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "Hellboy",
         "taglines": [
             "Demons Have Demons Too.",
             "Legendary AF",
@@ -15654,6 +17148,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "Avenge the fallen.",
             "Nothing can prepare you for the end.",
@@ -15669,6 +17164,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "A Phoenix will rise. The X-Men will fall.",
             "Every Hero Has a Dark Side",
@@ -15684,6 +17180,7 @@ var igMovieMap = {
             "Fantasy/Sci-Fi",
             "Marvel"
         ],
+        "franchise": "Men in Black",
         "taglines": [
             "The Universe is Expanding",
             "The world's not going to save itself"
@@ -15797,6 +17294,113 @@ var igMovieMap = {
             "Comic Book",
             "Marvel",
             "Spider-Man"
+        ],
+        "franchise": "MCU",
+        "mainCast": [
+            {
+                "actor": "Tom Holland",
+                "name": "Peter Parker / Spider-Man",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Nick Fury",
+                "description": ""
+            },
+            {
+                "actor": "Zendaya",
+                "name": "MJ",
+                "description": ""
+            },
+            {
+                "actor": "Cobie Smulders",
+                "name": "Maria Hill",
+                "description": ""
+            },
+            {
+                "actor": "Jon Favreau",
+                "name": "Harold \"Happy\" Hogan",
+                "description": ""
+            },
+            {
+                "actor": "Jacob Batalon",
+                "name": "Ned Leeds",
+                "description": ""
+            },
+            {
+                "actor": "Marisa Tomei",
+                "name": "May Parker",
+                "description": ""
+            },
+            {
+                "actor": "Jake Gyllenhaal",
+                "name": "Quentin Beck / Mysterio",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "J. B. Smoove",
+                "name": "Julius Dell",
+                "description": ""
+            },
+            {
+                "actor": "Martin Starr",
+                "name": "Roger Harrington",
+                "description": ""
+            },
+            {
+                "actor": "Tony Revolori",
+                "name": "Eugene \"Flash\" Thompson",
+                "description": ""
+            },
+            {
+                "actor": "Angourie Rice",
+                "name": "Betty Brant",
+                "description": ""
+            },
+            {
+                "actor": "Peter Billingsley",
+                "name": "William Ginter Riva",
+                "description": ""
+            },
+            {
+                "actor": "J. K. Simmons",
+                "name": "J. Jonah Jameson",
+                "description": ""
+            },
+            {
+                "actor": "Ben Mendelsohn",
+                "name": "Talos",
+                "description": ""
+            },
+            {
+                "actor": "Sharon Blynn",
+                "name": "Soren",
+                "description": ""
+            },
+            {
+                "actor": "Numan Acar",
+                "name": "Dimitri",
+                "description": ""
+            },
+            {
+                "actor": "Remy Hii",
+                "name": "Brad Davis",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Zach Barack",
+                "name": "Zach",
+                "description": ""
+            },
+            {
+                "actor": "Dawn Michelle King",
+                "name": "voice of E.D.I.T.H.",
+                "description": ""
+            }
         ]
     },
     "The Kitchen (2019)": {
@@ -15805,7 +17409,8 @@ var igMovieMap = {
         "categories": [
             "Comic Book",
             "DC"
-        ]
+        ],
+        "franchise": "DC"
     },
     "Joker (2019)": {
         "title": "Joker",
@@ -15814,6 +17419,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DC",
         "taglines": [
             "Put on a happy face."
         ]
@@ -15824,6 +17430,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Terminator",
         "taglines": [
             "Welcome to the Day after Judgment Day.",
             "Choose Your Fate."
@@ -15951,6 +17558,7 @@ var igMovieMap = {
         "categories": [
             "Star Wars"
         ],
+        "franchise": "Star Wars",
         "taglines": [
             "Every Generation Has A Legend.",
             "The Saga Concludes.",
@@ -15965,6 +17573,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Mind Over Mayhem",
             "Prey for Gotham!",
@@ -15979,6 +17588,7 @@ var igMovieMap = {
             "Comic Book",
             "Fantasy/Sci-Fi"
         ],
+        "franchise": "",
         "taglines": [
             "Being a hero is in his blood.",
             "You Don't Need a Past to Have a Future"
@@ -16045,7 +17655,8 @@ var igMovieMap = {
         "year": "2020",
         "categories": [
             "Graphic Novel"
-        ]
+        ],
+        "franchise": ""
     },
     "The Old Guard (2020)": {
         "title": "The Old Guard",
@@ -16053,6 +17664,7 @@ var igMovieMap = {
         "categories": [
             "Comic Book"
         ],
+        "franchise": "",
         "taglines": [
             "Forever is Harder Than It Looks",
             "Whatever it takes."
@@ -16064,6 +17676,7 @@ var igMovieMap = {
         "categories": [
             "Mixed Bag"
         ],
+        "franchise": "",
         "taglines": [
             "What would you risk for 5 minutes of pure power?"
         ]
@@ -16076,6 +17689,7 @@ var igMovieMap = {
             "Marvel",
             "X-Men"
         ],
+        "franchise": "X-Men",
         "taglines": [
             "Everyone has demons.",
             "There is something new to fear.",
@@ -16092,6 +17706,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "A new era of wonder begins."
         ]
@@ -16105,6 +17720,7 @@ var igMovieMap = {
             "DC",
             "Superman"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "Us United"
         ]
@@ -16116,6 +17732,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "She's Done Running From Her Past.",
             "Go back to where it all began!",
@@ -16129,6 +17746,7 @@ var igMovieMap = {
             "Comic Book",
             "DC"
         ],
+        "franchise": "DCEU",
         "taglines": [
             "They're dying to save the world.",
             "Don't get too attached.",
@@ -16142,6 +17760,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "A Marvel legend will rise."
         ]
@@ -16153,7 +17772,8 @@ var igMovieMap = {
             "Comic Book",
             "Marvel",
             "Spider-Man"
-        ]
+        ],
+        "franchise": "Marvel"
     },
     "Eternals (2021)": {
         "title": "Eternals",
@@ -16162,6 +17782,7 @@ var igMovieMap = {
             "Comic Book",
             "Marvel"
         ],
+        "franchise": "MCU",
         "taglines": [
             "In the beginning...",
             "The Marvel Universe becomes Eternal.",
@@ -16176,6 +17797,7 @@ var igMovieMap = {
             "Marvel",
             "Spider-Man"
         ],
+        "franchise": "MCU",
         "taglines": [
             "The Multiverse Unleashed."
         ]
@@ -16186,7 +17808,8 @@ var igMovieMap = {
         "categories": [
             "Comic Book",
             "Marvel"
-        ]
+        ],
+        "franchise": "Kingsman"
     },
     "The Matrix Resurrections (2021)": {
         "title": "The Matrix Resurrections",
@@ -16194,6 +17817,7 @@ var igMovieMap = {
         "categories": [
             "Dystopian/Time"
         ],
+        "franchise": "Matrix",
         "taglines": [
             "It's been another life, beyond the one...",
             "The choice is yours.",

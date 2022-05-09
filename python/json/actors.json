@@ -85,6 +85,11 @@
             }
         ]
     },
+    "Adrienne Barbeau": {
+        "movies": [
+            "Swamp Thing (1982)"
+        ]
+    },
     "Aidan Gillen": {
         "movies": [
             "The Dark Knight Rises (2012)"
@@ -257,7 +262,8 @@
         ],
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Alfie Allen": {
@@ -642,6 +648,7 @@
             "Star Wars (1977)",
             "The Lord of the Rings (1978)",
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -786,6 +793,11 @@
         ],
         "movies": [
             "My Fair Lady (1964)"
+        ]
+    },
+    "August Schellenberg": {
+        "movies": [
+            "Heavy Metal (1981)"
         ]
     },
     "Aunjanue Ellis": {
@@ -1071,7 +1083,8 @@
     },
     "Billy Dee Williams": {
         "movies": [
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Biz Markie": {
@@ -1406,7 +1419,8 @@
     "Carrie Fisher": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Cary Grant": {
@@ -1714,6 +1728,11 @@
             "The Lord of the Rings (1978)"
         ]
     },
+    "Christopher Lloyd": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)"
+        ]
+    },
     "Christopher Mintz-Plasse": {
         "movies": [
             "Promising Young Woman (2020)"
@@ -1741,7 +1760,9 @@
     },
     "Christopher Reeve": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman III (1983)"
         ]
     },
     "Christopher Walken": {
@@ -1796,6 +1817,11 @@
     "Clifton Collins Jr.": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Clifton James": {
+        "movies": [
+            "Superman II (1981)"
         ]
     },
     "Clint Eastwood": {
@@ -2089,7 +2115,8 @@
     "David Prowse": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "David Schwimmer": {
@@ -2130,7 +2157,9 @@
     },
     "DeForest Kelley": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "DeObia Oparei": {
@@ -2184,7 +2213,8 @@
     "Denis Lawson": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Denise Richards": {
@@ -2482,6 +2512,11 @@
     "Dwayne Johnson": {
         "movies": [
             "Hercules (2014)"
+        ]
+    },
+    "E. G. Marshall": {
+        "movies": [
+            "Superman II (1981)"
         ]
     },
     "Ebon Moss-Bachrach": {
@@ -2839,6 +2874,7 @@
     },
     "Eugene Levy": {
         "movies": [
+            "Heavy Metal (1981)",
             "Armed and Dangerous (1986)"
         ]
     },
@@ -2963,7 +2999,13 @@
     "Frank Oz": {
         "movies": [
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
             "Spies Like Us (1985)"
+        ]
+    },
+    "Frank Welker": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "Fred Melamed": {
@@ -3106,7 +3148,8 @@
             }
         ],
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Gene Wilder": {
@@ -3185,7 +3228,9 @@
     },
     "George Takei": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "George Wyner": {
@@ -3396,6 +3441,7 @@
     "Harold Ramis": {
         "movies": [
             "Stripes (1981)",
+            "Heavy Metal (1981)",
             "Knocked Up (2007)"
         ]
     },
@@ -3409,6 +3455,7 @@
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
             "The Fugitive (1993)",
             "Cowboys & Aliens (2011)"
         ]
@@ -3583,6 +3630,11 @@
     "Ian Chen": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ian McDiarmid": {
+        "movies": [
+            "Return of the Jedi (1983)"
         ]
     },
     "Ian McKellen": {
@@ -3872,7 +3924,9 @@
     },
     "Jackie Cooper": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman III (1983)"
         ]
     },
     "Jackie Earle Haley": {
@@ -3953,7 +4007,9 @@
     },
     "James Doohan": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "James Earl Jones": {
@@ -3966,6 +4022,7 @@
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -4734,6 +4791,7 @@
     "John Candy": {
         "movies": [
             "Stripes (1981)",
+            "Heavy Metal (1981)",
             "Armed and Dangerous (1986)",
             "Spaceballs (1987)"
         ]
@@ -4801,7 +4859,8 @@
     },
     "John Larroquette": {
         "movies": [
-            "Stripes (1981)"
+            "Stripes (1981)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "John Leguizamo": {
@@ -4862,6 +4921,11 @@
         ],
         "movies": [
             "Carrie (1976)"
+        ]
+    },
+    "John Vernon": {
+        "movies": [
+            "Heavy Metal (1981)"
         ]
     },
     "John Wayne": {
@@ -5107,6 +5171,11 @@
         ],
         "movies": [
             "Shakespeare in Love (1998)"
+        ]
+    },
+    "Judith Anderson": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "Judy Davis": {
@@ -5563,7 +5632,8 @@
     "Kenny Baker": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Kevin Bacon": {
@@ -5653,6 +5723,11 @@
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ]
+    },
+    "Kirstie Alley": {
+        "movies": [
+            "Star Trek II: The Wrath of Khan (1982)"
         ]
     },
     "Kit Harington": {
@@ -5883,7 +5958,9 @@
     },
     "Leonard Nimoy": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "Leonardo DiCaprio": {
@@ -6028,6 +6105,11 @@
             }
         ]
     },
+    "Louis Jourdan": {
+        "movies": [
+            "Swamp Thing (1982)"
+        ]
+    },
     "Louise Fletcher": {
         "movies": [
             "Cruel Intentions (1999)"
@@ -6166,6 +6248,11 @@
             "Almost Famous (2000)"
         ]
     },
+    "Marc McClure": {
+        "movies": [
+            "Superman III (1983)"
+        ]
+    },
     "Marcello Mastroianni": {
         "leadNoms": [
             {
@@ -6204,7 +6291,9 @@
     },
     "Margot Kidder": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman III (1983)"
         ]
     },
     "Margot Robbie": {
@@ -6295,7 +6384,8 @@
     "Mark Hamill": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Mark O'Brien": {
@@ -7235,7 +7325,8 @@
     },
     "Ned Beatty": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Neil Hamilton": {
@@ -7255,7 +7346,9 @@
     },
     "Nichelle Nichols": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "Nick Cannon": {
@@ -7656,6 +7749,11 @@
             "Annie Hall (1977)"
         ]
     },
+    "Paul Winfield": {
+        "movies": [
+            "Star Trek II: The Wrath of Khan (1982)"
+        ]
+    },
     "Pauline Collins": {
         "leadNoms": [
             {
@@ -7739,7 +7837,8 @@
     "Peter Mayhew": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Peter O'Toole": {
@@ -7950,6 +8049,11 @@
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
         ]
     },
+    "Ray Wise": {
+        "movies": [
+            "Swamp Thing (1982)"
+        ]
+    },
     "Rebecca Ferguson": {
         "movies": [
             "Hercules (2014)",
@@ -8031,6 +8135,11 @@
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Ricardo Montalb\u00e1n": {
+        "movies": [
+            "Star Trek II: The Wrath of Khan (1982)"
+        ]
+    },
     "Richard Attenborough": {
         "movies": [
             "Jurassic Park (1993)"
@@ -8039,6 +8148,11 @@
     "Richard Burton": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
+        ]
+    },
+    "Richard Donner": {
+        "movies": [
+            "Superman II (1981)"
         ]
     },
     "Richard Dreyfuss": {
@@ -8117,6 +8231,11 @@
     "Richard Madden": {
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Richard Pryor": {
+        "movies": [
+            "Superman III (1983)"
         ]
     },
     "Richard Roxburgh": {
@@ -8273,12 +8392,22 @@
             }
         ]
     },
+    "Robert Vaughn": {
+        "movies": [
+            "Superman III (1983)"
+        ]
+    },
     "Roberto Benigni": {
         "leadNoms": [
             {
                 "movie": "Life Is Beautiful",
                 "year": "1998"
             }
+        ]
+    },
+    "Robin Curtis": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "Robin Williams": {
@@ -8306,6 +8435,11 @@
     "Robin Wright": {
         "movies": [
             "Forrest Gump (1994)"
+        ]
+    },
+    "Rodger Bumpass": {
+        "movies": [
+            "Heavy Metal (1981)"
         ]
     },
     "Rodrigo Santoro": {
@@ -9221,7 +9355,8 @@
     },
     "Susannah York": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Swoosie Kurtz": {
@@ -9314,7 +9449,8 @@
     },
     "Terence Stamp": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Teresa Palmer": {
@@ -9721,7 +9857,8 @@
     },
     "Valerie Perrine": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Valeriia Karam\u00e4n": {
@@ -9868,7 +10005,9 @@
     },
     "Walter Koenig": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "Walton Goggins": {
@@ -9904,6 +10043,7 @@
     },
     "Warwick Davis": {
         "movies": [
+            "Return of the Jedi (1983)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "Rogue One: A Star Wars Story (2016)"
         ]
@@ -10035,7 +10175,9 @@
     },
     "William Shatner": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "William Squire": {

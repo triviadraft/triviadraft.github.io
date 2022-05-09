@@ -57,6 +57,9 @@ var igActorMap = {
     },
     "Adrienne Barbeau": {
         "movies": {
+            "DC": [
+                "Swamp Thing (1982)"
+            ],
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
             ]
@@ -160,7 +163,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -399,6 +403,20 @@ var igActorMap = {
             ]
         }
     },
+    "Annette O'Toole": {
+        "movies": {
+            "Superman": [
+                "Superman III (1983)"
+            ]
+        }
+    },
+    "Annie Ross": {
+        "movies": {
+            "Superman": [
+                "Superman III (1983)"
+            ]
+        }
+    },
     "Anthony Anderson": {
         "movies": {
             "Transformers": [
@@ -410,7 +428,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ],
             "Middle-earth": [
                 "The Lord of the Rings (1978)"
@@ -517,6 +536,13 @@ var igActorMap = {
             ],
             "Predator": [
                 "Predator (1987)"
+            ]
+        }
+    },
+    "August Schellenberg": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
             ]
         }
     },
@@ -637,6 +663,13 @@ var igActorMap = {
             ]
         }
     },
+    "Bibi Besch": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek II: The Wrath of Khan (1982)"
+            ]
+        }
+    },
     "Bill Duke": {
         "movies": {
             "Predator": [
@@ -720,7 +753,8 @@ var igActorMap = {
     "Billy Dee Williams": {
         "movies": {
             "Star Wars": [
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -1026,11 +1060,19 @@ var igActorMap = {
             ]
         }
     },
+    "Caroline Blakiston": {
+        "movies": {
+            "Star Wars": [
+                "Return of the Jedi (1983)"
+            ]
+        }
+    },
     "Carrie Fisher": {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -1277,6 +1319,9 @@ var igActorMap = {
     },
     "Christopher Lloyd": {
         "movies": {
+            "Star Trek": [
+                "Star Trek III: The Search for Spock (1984)"
+            ],
             "Back to the Future": [
                 "Back to the Future (1985)",
                 "Back to the Future Part II (1989)",
@@ -1287,7 +1332,9 @@ var igActorMap = {
     "Christopher Reeve": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)",
+                "Superman III (1983)"
             ]
         }
     },
@@ -1337,6 +1384,13 @@ var igActorMap = {
         "movies": {
             "Back to the Future": [
                 "Back to the Future (1985)"
+            ]
+        }
+    },
+    "Clifton James": {
+        "movies": {
+            "Superman": [
+                "Superman II (1981)"
             ]
         }
     },
@@ -1640,6 +1694,13 @@ var igActorMap = {
             ]
         }
     },
+    "David Hess": {
+        "movies": {
+            "DC": [
+                "Swamp Thing (1982)"
+            ]
+        }
+    },
     "David Hewlett": {
         "movies": {
             "Planet of the Apes": [
@@ -1686,7 +1747,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -1763,7 +1825,9 @@ var igActorMap = {
     "DeForest Kelley": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -1791,6 +1855,9 @@ var igActorMap = {
         "movies": {
             "Flash Gordon (1980)": [
                 "Flash Gordon (1980)"
+            ],
+            "Star Wars": [
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -1813,7 +1880,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -1838,6 +1906,13 @@ var igActorMap = {
         "movies": {
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
+            ]
+        }
+    },
+    "Dick Durock": {
+        "movies": {
+            "DC": [
+                "Swamp Thing (1982)"
             ]
         }
     },
@@ -1964,6 +2039,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Bumblebee (2018)"
+            ]
+        }
+    },
+    "E. G. Marshall": {
+        "movies": {
+            "Superman": [
+                "Superman II (1981)"
             ]
         }
     },
@@ -2113,6 +2195,13 @@ var igActorMap = {
             ]
         }
     },
+    "Eugene Levy": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
+            ]
+        }
+    },
     "Evan Rachel Wood": {
         "movies": {
             "Strange Magic (2015)": [
@@ -2209,7 +2298,8 @@ var igActorMap = {
     "Frank Oz": {
         "movies": {
             "Star Wars": [
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -2351,7 +2441,8 @@ var igActorMap = {
     "Gene Hackman": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)"
             ]
         }
     },
@@ -2397,7 +2488,9 @@ var igActorMap = {
     "George Takei": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -2610,11 +2703,19 @@ var igActorMap = {
             ]
         }
     },
+    "Harold Ramis": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
+            ]
+        }
+    },
     "Harrison Ford": {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ],
             "Indiana Jones": [
                 "Raiders of the Lost Ark (1981)",
@@ -2760,6 +2861,13 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien (1979)"
+            ]
+        }
+    },
+    "Ian McDiarmid": {
+        "movies": {
+            "Star Wars": [
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -2929,7 +3037,7 @@ var igActorMap = {
     "Jack O'Halloran": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman II (1981)"
             ]
         }
     },
@@ -2943,7 +3051,9 @@ var igActorMap = {
     "Jackie Cooper": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)",
+                "Superman III (1983)"
             ]
         }
     },
@@ -3053,7 +3163,9 @@ var igActorMap = {
     "James Doohan": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -3061,7 +3173,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ],
             "Conan": [
                 "Conan the Barbarian (1982)"
@@ -3360,7 +3473,8 @@ var igActorMap = {
     "Jeremy Bulloch": {
         "movies": {
             "Star Wars": [
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -3524,6 +3638,13 @@ var igActorMap = {
             ]
         }
     },
+    "John Candy": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
+            ]
+        }
+    },
     "John Capodice": {
         "movies": {
             "The Phantom (1996)": [
@@ -3614,6 +3735,13 @@ var igActorMap = {
             ]
         }
     },
+    "John Larroquette": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek III: The Search for Spock (1984)"
+            ]
+        }
+    },
     "John Lavachielli": {
         "movies": {
             "The Rocketeer (1991)": [
@@ -3688,6 +3816,13 @@ var igActorMap = {
                 "Transformers: Revenge of the Fallen (2009)",
                 "Transformers: Dark of the Moon (2011)",
                 "Transformers: The Last Knight (2017)"
+            ]
+        }
+    },
+    "John Vernon": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
             ]
         }
     },
@@ -3870,6 +4005,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "The Transformers: The Movie (1986)"
+            ]
+        }
+    },
+    "Judith Anderson": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -4150,7 +4292,8 @@ var igActorMap = {
     "Kenneth Colley": {
         "movies": {
             "Star Wars": [
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -4158,7 +4301,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ],
             "Flash Gordon (1980)": [
                 "Flash Gordon (1980)"
@@ -4279,6 +4423,13 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Dawn of the Planet of the Apes (2014)"
+            ]
+        }
+    },
+    "Kirstie Alley": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek II: The Wrath of Khan (1982)"
             ]
         }
     },
@@ -4532,7 +4683,9 @@ var igActorMap = {
     "Leonard Nimoy": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ],
             "Transformers": [
                 "The Transformers: The Movie (1986)",
@@ -4651,6 +4804,13 @@ var igActorMap = {
         "movies": {
             "Tank Girl (1995)": [
                 "Tank Girl (1995)"
+            ]
+        }
+    },
+    "Louis Jourdan": {
+        "movies": {
+            "DC": [
+                "Swamp Thing (1982)"
             ]
         }
     },
@@ -4782,7 +4942,9 @@ var igActorMap = {
     "Marc McClure": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)",
+                "Superman III (1983)"
             ],
             "Back to the Future": [
                 "Back to the Future (1985)",
@@ -4807,7 +4969,9 @@ var igActorMap = {
     "Margot Kidder": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)",
+                "Superman III (1983)"
             ]
         }
     },
@@ -4857,7 +5021,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -4871,7 +5036,8 @@ var igActorMap = {
     "Mark Lenard": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -5152,6 +5318,14 @@ var igActorMap = {
             ]
         }
     },
+    "Merritt Butrick": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
+            ]
+        }
+    },
     "Mia Sara": {
         "movies": {
             "Timecop (1994)": [
@@ -5311,6 +5485,13 @@ var igActorMap = {
             ],
             "Transformers": [
                 "Transformers: Revenge of the Fallen (2009)"
+            ]
+        }
+    },
+    "Michael Pennington": {
+        "movies": {
+            "Star Wars": [
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -5512,7 +5693,8 @@ var igActorMap = {
     "Ned Beatty": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)"
             ]
         }
     },
@@ -5554,7 +5736,9 @@ var igActorMap = {
     "Nichelle Nichols": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -5782,6 +5966,13 @@ var igActorMap = {
             ]
         }
     },
+    "Pamela Stephenson": {
+        "movies": {
+            "Superman": [
+                "Superman III (1983)"
+            ]
+        }
+    },
     "Pasha D. Lychnikoff": {
         "movies": {
             "Indiana Jones": [
@@ -5935,6 +6126,9 @@ var igActorMap = {
     },
     "Paul Winfield": {
         "movies": {
+            "Star Trek": [
+                "Star Trek II: The Wrath of Khan (1982)"
+            ],
             "Terminator": [
                 "The Terminator (1984)"
             ]
@@ -5959,6 +6153,13 @@ var igActorMap = {
         "movies": {
             "Pirates": [
                 "Pirates of the Caribbean: On Stranger Tides (2011)"
+            ]
+        }
+    },
+    "Percy Rodriguez": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
             ]
         }
     },
@@ -6055,7 +6256,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
-                "The Empire Strikes Back (1980)"
+                "The Empire Strikes Back (1980)",
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -6277,6 +6479,9 @@ var igActorMap = {
     },
     "Ray Wise": {
         "movies": {
+            "DC": [
+                "Swamp Thing (1982)"
+            ],
             "RoboCop": [
                 "RoboCop (1987)"
             ]
@@ -6369,6 +6574,9 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Escape from the Planet of the Apes (1971)"
+            ],
+            "Star Trek": [
+                "Star Trek II: The Wrath of Khan (1982)"
             ]
         }
     },
@@ -6401,6 +6609,13 @@ var igActorMap = {
             ]
         }
     },
+    "Richard Donner": {
+        "movies": {
+            "Superman": [
+                "Superman II (1981)"
+            ]
+        }
+    },
     "Richard Griffiths": {
         "movies": {
             "Pirates": [
@@ -6419,6 +6634,13 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "Jurassic Park (1993)"
+            ]
+        }
+    },
+    "Richard Pryor": {
+        "movies": {
+            "Superman": [
+                "Superman III (1983)"
             ]
         }
     },
@@ -6605,6 +6827,20 @@ var igActorMap = {
             ]
         }
     },
+    "Robert Vaughn": {
+        "movies": {
+            "Superman": [
+                "Superman III (1983)"
+            ]
+        }
+    },
+    "Robin Curtis": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek III: The Search for Spock (1984)"
+            ]
+        }
+    },
     "Roddy McDowall": {
         "movies": {
             "Planet of the Apes": [
@@ -6612,6 +6848,13 @@ var igActorMap = {
                 "Escape from the Planet of the Apes (1971)",
                 "Conquest of the Planet of the Apes (1972)",
                 "Battle for the Planet of the Apes (1973)"
+            ]
+        }
+    },
+    "Rodger Bumpass": {
+        "movies": {
+            "Heavy Metal": [
+                "Heavy Metal (1981)"
             ]
         }
     },
@@ -6917,7 +7160,7 @@ var igActorMap = {
     "Sarah Douglas": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman II (1981)"
             ],
             "Conan": [
                 "Conan the Destroyer (1984)"
@@ -6980,6 +7223,13 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Prometheus (2012)"
+            ]
+        }
+    },
+    "Sebastian Shaw": {
+        "movies": {
+            "Star Wars": [
+                "Return of the Jedi (1983)"
             ]
         }
     },
@@ -7305,7 +7555,8 @@ var igActorMap = {
     "Susannah York": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)"
             ]
         }
     },
@@ -7378,7 +7629,7 @@ var igActorMap = {
     "Terence Stamp": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman II (1981)"
             ]
         }
     },
@@ -7855,7 +8106,8 @@ var igActorMap = {
     "Valerie Perrine": {
         "movies": {
             "Superman": [
-                "Superman (1978)"
+                "Superman (1978)",
+                "Superman II (1981)"
             ]
         }
     },
@@ -7928,7 +8180,9 @@ var igActorMap = {
     "Walter Koenig": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
@@ -7951,6 +8205,9 @@ var igActorMap = {
     },
     "Warwick Davis": {
         "movies": {
+            "Star Wars": [
+                "Return of the Jedi (1983)"
+            ],
             "Willow (1988)": [
                 "Willow (1988)"
             ],
@@ -8060,7 +8317,9 @@ var igActorMap = {
     "William Shatner": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek II: The Wrath of Khan (1982)",
+                "Star Trek III: The Search for Spock (1984)"
             ]
         }
     },
