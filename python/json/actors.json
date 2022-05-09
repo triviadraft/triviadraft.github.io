@@ -4,6 +4,11 @@
             "RoboCop (2014)"
         ]
     },
+    "Abby Ryder Fortson": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Abigail Breslin": {
         "suppNoms": [
             {
@@ -686,6 +691,11 @@
             "Alexander (2004)"
         ]
     },
+    "Anthony Mackie": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Anthony Michael Hall": {
         "movies": [
             "The Breakfast Club (1985)"
@@ -818,7 +828,7 @@
             "Spies Like Us (1985)"
         ]
     },
-    "B.D. Wong": {
+    "BD Wong": {
         "movies": [
             "Jurassic Park (1993)"
         ]
@@ -1110,6 +1120,11 @@
     "Bob Peck": {
         "movies": [
             "Jurassic Park (1993)"
+        ]
+    },
+    "Bobby Cannavale": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Bokeem Woodbine": {
@@ -1624,6 +1639,11 @@
             "Three Amigos (1986)"
         ]
     },
+    "Chip Zien": {
+        "movies": [
+            "Howard the Duck (1986)"
+        ]
+    },
     "Chiwetel Ejiofor": {
         "leadNoms": [
             {
@@ -1658,7 +1678,8 @@
     },
     "Chris Evans": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Ant-Man (2015)"
         ]
     },
     "Chris Hemsworth": {
@@ -1890,6 +1911,11 @@
             "Shazam! (2019)"
         ]
     },
+    "Corey Stoll": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Costa-Gavras": {
         "movies": [
             "Spies Like Us (1985)"
@@ -2079,6 +2105,11 @@
             "Kung Fu Panda (2008)"
         ]
     },
+    "David Dastmalchian": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "David Denman": {
         "movies": [
             "Power Rangers (2017)"
@@ -2110,6 +2141,9 @@
                 "movie": "Mr. Saturday Night",
                 "year": "1992"
             }
+        ],
+        "movies": [
+            "Howard the Duck (1986)"
         ]
     },
     "David Prowse": {
@@ -2888,6 +2922,11 @@
             "Strange Magic (2015)"
         ]
     },
+    "Evangeline Lilly": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Fairuza Balk": {
         "movies": [
             "Almost Famous (2000)"
@@ -2896,6 +2935,11 @@
     "Faithe Herman": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Faye Dunaway": {
+        "movies": [
+            "Supergirl (1984)"
         ]
     },
     "Felicity Huffman": {
@@ -3030,6 +3074,11 @@
                 "movie": "Precious: Based on the Novel 'Push' by Sapphire",
                 "year": "2009"
             }
+        ]
+    },
+    "Garrett Morris": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Garry Marshall": {
@@ -3486,6 +3535,11 @@
             }
         ]
     },
+    "Hayley Atwell": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Heath Ledger": {
         "leadNoms": [
             {
@@ -3498,6 +3552,11 @@
                 "movie": "The Dark Knight",
                 "year": "2008"
             }
+        ]
+    },
+    "Heather Graham": {
+        "movies": [
+            "From Hell (2001)"
         ]
     },
     "Helen Hunt": {
@@ -3537,6 +3596,11 @@
                 "movie": "Gosford Park",
                 "year": "2001"
             }
+        ]
+    },
+    "Helen Slater": {
+        "movies": [
+            "Supergirl (1984)"
         ]
     },
     "Helena Bonham Carter": {
@@ -3630,6 +3694,11 @@
     "Ian Chen": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ian Holm": {
+        "movies": [
+            "From Hell (2001)"
         ]
     },
     "Ian McDiarmid": {
@@ -4208,6 +4277,7 @@
     },
     "Jason Flemyng": {
         "movies": [
+            "From Hell (2001)",
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
@@ -4346,6 +4416,11 @@
     "Jeffrey Combs": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)"
+        ]
+    },
+    "Jeffrey Jones": {
+        "movies": [
+            "Howard the Duck (1986)"
         ]
     },
     "Jeffrey Tambor": {
@@ -4669,6 +4744,12 @@
             "Spaceballs (1987)"
         ]
     },
+    "Joanna Page": {
+        "movies": [
+            "From Hell (2001)",
+            "Love Actually (2003)"
+        ]
+    },
     "Joanne Woodward": {
         "leadNoms": [
             {
@@ -4908,6 +4989,11 @@
             "The Deer Hunter (1978)"
         ]
     },
+    "John Slattery": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "John Travolta": {
         "leadNoms": [
             {
@@ -4961,6 +5047,7 @@
             }
         ],
         "movies": [
+            "From Hell (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
@@ -5190,6 +5277,11 @@
                 "movie": "Husbands and Wives",
                 "year": "1992"
             }
+        ]
+    },
+    "Judy Greer": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Julia Roberts": {
@@ -5920,6 +6012,11 @@
             "Promising Young Woman (2020)"
         ]
     },
+    "Lea Thompson": {
+        "movies": [
+            "Howard the Duck (1986)"
+        ]
+    },
     "Lee Meriwether": {
         "movies": [
             "Batman (1966)"
@@ -6248,11 +6345,6 @@
             "Almost Famous (2000)"
         ]
     },
-    "Marc McClure": {
-        "movies": [
-            "Superman III (1983)"
-        ]
-    },
     "Marcello Mastroianni": {
         "leadNoms": [
             {
@@ -6498,6 +6590,11 @@
             "Spies Like Us (1985)"
         ]
     },
+    "Martin Donovan": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Martin Ferrero": {
         "movies": [
             "Jurassic Park (1993)"
@@ -6626,6 +6723,11 @@
                 "movie": "Crash",
                 "year": "2005"
             }
+        ]
+    },
+    "Matt Frewer": {
+        "movies": [
+            "Supergirl (1984)"
         ]
     },
     "Matthew Broderick": {
@@ -6859,6 +6961,11 @@
             "The Deer Hunter (1978)"
         ]
     },
+    "Mia Farrow": {
+        "movies": [
+            "Supergirl (1984)"
+        ]
+    },
     "Mia Sara": {
         "movies": [
             "Timecop (1994)"
@@ -6944,6 +7051,9 @@
                 "movie": "Wall Street",
                 "year": "1987"
             }
+        ],
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Michael Emerson": {
@@ -7013,6 +7123,11 @@
     "Michael Nyqvist": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Michael Pe\u00f1a": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Michael Scholes": {
@@ -7727,6 +7842,7 @@
         "movies": [
             "Knocked Up (2007)",
             "How Do You Know (2010)",
+            "Ant-Man (2015)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -7875,6 +7991,9 @@
                 "movie": "Venus",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "Supergirl (1984)"
         ]
     },
     "Peter Spears": {
@@ -8223,11 +8342,6 @@
             "Bone Tomahawk (2015)"
         ]
     },
-    "Richard Kiley": {
-        "movies": [
-            "Jurassic Park (1993)"
-        ]
-    },
     "Richard Madden": {
         "movies": [
             "Eternals (2021)"
@@ -8279,6 +8393,11 @@
         ],
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "Robbie Coltrane": {
+        "movies": [
+            "From Hell (2001)"
         ]
     },
     "Robert De Niro": {
@@ -8941,6 +9060,11 @@
             "Bone Tomahawk (2015)"
         ]
     },
+    "Sebastian Stan": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Sela Ward": {
         "movies": [
             "The Fugitive (1993)"
@@ -9155,6 +9279,11 @@
             "Atomic Blonde (2017)"
         ]
     },
+    "Sophia Myles": {
+        "movies": [
+            "From Hell (2001)"
+        ]
+    },
     "Sophie Okonedo": {
         "suppNoms": [
             {
@@ -9207,6 +9336,11 @@
         ],
         "movies": [
             "Guess Who's Coming to Dinner (1967)"
+        ]
+    },
+    "Stan Lee": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Stanley Holloway": {
@@ -9553,6 +9687,9 @@
                 "movie": "Mystic River",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "Howard the Duck (1986)"
         ]
     },
     "Tim Roth": {
@@ -9585,6 +9722,11 @@
                 "movie": "Call Me By Your Name",
                 "year": "2017"
             }
+        ]
+    },
+    "Tip \"T.I.\" Harris": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Toby Jones": {
@@ -9683,6 +9825,11 @@
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)"
+        ]
+    },
+    "Tom Kenny": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Tom Sizemore": {
@@ -10206,7 +10353,8 @@
     },
     "Wood Harris": {
         "movies": [
-            "Dredd (2012)"
+            "Dredd (2012)",
+            "Ant-Man (2015)"
         ]
     },
     "Woody Allen": {

@@ -19861,7 +19861,6 @@
         "cast": [
             "Christopher Reeve",
             "Jackie Cooper",
-            "Marc McClure",
             "Margot Kidder",
             "Richard Pryor",
             "Robert Vaughn"
@@ -21667,6 +21666,13 @@
             "1980s",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Faye Dunaway",
+            "Helen Slater",
+            "Matt Frewer",
+            "Mia Farrow",
+            "Peter O'Toole"
         ]
     },
     "Beverly Hills Cop (1984)": {
@@ -24249,6 +24255,13 @@
             "Comic Book",
             "Lucasfilm",
             "Marvel"
+        ],
+        "cast": [
+            "Chip Zien",
+            "David Paymer",
+            "Jeffrey Jones",
+            "Lea Thompson",
+            "Tim Robbins"
         ]
     },
     "She's Gotta Have It (1986)": {
@@ -35910,14 +35923,13 @@
         ],
         "cast": [
             "Ariana Richards",
-            "B.D. Wong",
+            "BD Wong",
             "Bob Peck",
             "Jeff Goldblum",
             "Joseph Mazzello",
             "Laura Dern",
             "Martin Ferrero",
             "Richard Attenborough",
-            "Richard Kiley",
             "Sam Neill",
             "Samuel L. Jackson",
             "Wayne Knight"
@@ -56265,6 +56277,15 @@
             "2000s",
             "Graphic Novels",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Heather Graham",
+            "Ian Holm",
+            "Jason Flemyng",
+            "Joanna Page",
+            "Johnny Depp",
+            "Robbie Coltrane",
+            "Sophia Myles"
         ]
     },
     "Mulholland Drive (2001)": {
@@ -62073,6 +62094,7 @@
             "Emma Thompson",
             "Hugh Grant",
             "January Jones",
+            "Joanna Page",
             "Keira Knightley",
             "Laura Linney",
             "Liam Neeson",
@@ -96054,6 +96076,28 @@
             "Fantasy/Sci-Fi",
             "Frat Pack",
             "Marvel"
+        ],
+        "cast": [
+            "Abby Ryder Fortson",
+            "Anthony Mackie",
+            "Bobby Cannavale",
+            "Chris Evans",
+            "Corey Stoll",
+            "David Dastmalchian",
+            "Evangeline Lilly",
+            "Garrett Morris",
+            "Hayley Atwell",
+            "John Slattery",
+            "Judy Greer",
+            "Martin Donovan",
+            "Michael Douglas",
+            "Michael Pe\u00f1a",
+            "Paul Rudd",
+            "Sebastian Stan",
+            "Stan Lee",
+            "Tip \"T.I.\" Harris",
+            "Tom Kenny",
+            "Wood Harris"
         ]
     },
     "Mr. Holmes (2015)": {

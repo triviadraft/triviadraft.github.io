@@ -17613,6 +17613,19 @@ var movieMap = {
             "DC",
             "Gene Hackman",
             "Superman"
+        ],
+        "cast": [
+            "Christopher Reeve",
+            "Clifton James",
+            "E. G. Marshall",
+            "Gene Hackman",
+            "Jackie Cooper",
+            "Margot Kidder",
+            "Ned Beatty",
+            "Richard Donner",
+            "Susannah York",
+            "Terence Stamp",
+            "Valerie Perrine"
         ]
     },
     "The Cannonball Run (1981)": {
@@ -17925,6 +17938,14 @@ var movieMap = {
             "John Candy",
             "Ramis & Reitmans",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "August Schellenberg",
+            "Eugene Levy",
+            "Harold Ramis",
+            "John Candy",
+            "John Vernon",
+            "Rodger Bumpass"
         ]
     },
     "Deadly Blessing (1981)": {
@@ -18454,6 +18475,11 @@ var movieMap = {
             "DC",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Adrienne Barbeau",
+            "Louis Jourdan",
+            "Ray Wise"
         ]
     },
     "Porky's (1982)": {
@@ -18649,6 +18675,18 @@ var movieMap = {
             "1980s",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "DeForest Kelley",
+            "George Takei",
+            "James Doohan",
+            "Kirstie Alley",
+            "Leonard Nimoy",
+            "Nichelle Nichols",
+            "Paul Winfield",
+            "Ricardo Montalb\u00e1n",
+            "Walter Koenig",
+            "William Shatner"
         ]
     },
     "E.T. the Extra-Terrestrial (1982)": {
@@ -19651,6 +19689,22 @@ var movieMap = {
             "Harrison Ford",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Alec Guinness",
+            "Anthony Daniels",
+            "Billy Dee Williams",
+            "Carrie Fisher",
+            "David Prowse",
+            "Denis Lawson",
+            "Frank Oz",
+            "Harrison Ford",
+            "Ian McDiarmid",
+            "James Earl Jones",
+            "Kenny Baker",
+            "Mark Hamill",
+            "Peter Mayhew",
+            "Warwick Davis"
         ]
     },
     "Psycho II (1983)": {
@@ -19803,6 +19857,13 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Superman"
+        ],
+        "cast": [
+            "Christopher Reeve",
+            "Jackie Cooper",
+            "Margot Kidder",
+            "Richard Pryor",
+            "Robert Vaughn"
         ]
     },
     "Porky's II: The Next Day (1983)": {
@@ -20901,6 +20962,20 @@ var movieMap = {
             "1980s",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "Christopher Lloyd",
+            "DeForest Kelley",
+            "Frank Welker",
+            "George Takei",
+            "James Doohan",
+            "John Larroquette",
+            "Judith Anderson",
+            "Leonard Nimoy",
+            "Nichelle Nichols",
+            "Robin Curtis",
+            "Walter Koenig",
+            "William Shatner"
         ]
     },
     "Streets of Fire (1984)": {
@@ -21591,6 +21666,13 @@ var movieMap = {
             "1980s",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Faye Dunaway",
+            "Helen Slater",
+            "Matt Frewer",
+            "Mia Farrow",
+            "Peter O'Toole"
         ]
     },
     "Beverly Hills Cop (1984)": {
@@ -24173,6 +24255,13 @@ var movieMap = {
             "Comic Book",
             "Lucasfilm",
             "Marvel"
+        ],
+        "cast": [
+            "Chip Zien",
+            "David Paymer",
+            "Jeffrey Jones",
+            "Lea Thompson",
+            "Tim Robbins"
         ]
     },
     "She's Gotta Have It (1986)": {
@@ -35834,14 +35923,13 @@ var movieMap = {
         ],
         "cast": [
             "Ariana Richards",
-            "B.D. Wong",
+            "BD Wong",
             "Bob Peck",
             "Jeff Goldblum",
             "Joseph Mazzello",
             "Laura Dern",
             "Martin Ferrero",
             "Richard Attenborough",
-            "Richard Kiley",
             "Sam Neill",
             "Samuel L. Jackson",
             "Wayne Knight"
@@ -56189,6 +56277,15 @@ var movieMap = {
             "2000s",
             "Graphic Novels",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Heather Graham",
+            "Ian Holm",
+            "Jason Flemyng",
+            "Joanna Page",
+            "Johnny Depp",
+            "Robbie Coltrane",
+            "Sophia Myles"
         ]
     },
     "Mulholland Drive (2001)": {
@@ -61997,6 +62094,7 @@ var movieMap = {
             "Emma Thompson",
             "Hugh Grant",
             "January Jones",
+            "Joanna Page",
             "Keira Knightley",
             "Laura Linney",
             "Liam Neeson",
@@ -95978,6 +96076,28 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Frat Pack",
             "Marvel"
+        ],
+        "cast": [
+            "Abby Ryder Fortson",
+            "Anthony Mackie",
+            "Bobby Cannavale",
+            "Chris Evans",
+            "Corey Stoll",
+            "David Dastmalchian",
+            "Evangeline Lilly",
+            "Garrett Morris",
+            "Hayley Atwell",
+            "John Slattery",
+            "Judy Greer",
+            "Martin Donovan",
+            "Michael Douglas",
+            "Michael Pe\u00f1a",
+            "Paul Rudd",
+            "Sebastian Stan",
+            "Stan Lee",
+            "Tip \"T.I.\" Harris",
+            "Tom Kenny",
+            "Wood Harris"
         ]
     },
     "Mr. Holmes (2015)": {

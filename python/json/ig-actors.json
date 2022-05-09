@@ -13,6 +13,13 @@
             ]
         }
     },
+    "Abby Ryder Fortson": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "Abigail Spencer": {
         "movies": {
             "Cowboys & Aliens (2011)": [
@@ -453,6 +460,13 @@
             ]
         }
     },
+    "Anthony Mackie": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "Anthony Ray Parker": {
         "movies": {
             "Matrix": [
@@ -560,16 +574,10 @@
             ]
         }
     },
-    "B.D. Wong": {
-        "movies": {
-            "Jurassic Park": [
-                "Jurassic Park (1993)"
-            ]
-        }
-    },
     "BD Wong": {
         "movies": {
             "Jurassic Park": [
+                "Jurassic Park (1993)",
                 "Jurassic World (2015)",
                 "Jurassic World: Fallen Kingdom (2018)"
             ]
@@ -797,6 +805,13 @@
             ]
         }
     },
+    "Bobby Cannavale": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "Bolaji Badejo": {
         "movies": {
             "Alien": [
@@ -843,6 +858,13 @@
         "movies": {
             "Strange Magic (2015)": [
                 "Strange Magic (2015)"
+            ]
+        }
+    },
+    "Brenda Vaccaro": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
             ]
         }
     },
@@ -1243,6 +1265,13 @@
             ]
         }
     },
+    "Chip Zien": {
+        "movies": {
+            "Marvel": [
+                "Howard the Duck (1986)"
+            ]
+        }
+    },
     "Chow Yun-fat": {
         "movies": {
             "Pirates": [
@@ -1455,6 +1484,13 @@
         "movies": {
             "Hellboy": [
                 "Hellboy (2004)"
+            ]
+        }
+    },
+    "Corey Stoll": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -1680,6 +1716,13 @@
             ]
         }
     },
+    "David Dastmalchian": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "David Denman": {
         "movies": {
             "Power Rangers": [
@@ -1736,6 +1779,13 @@
             ]
         }
     },
+    "David Paymer": {
+        "movies": {
+            "Marvel": [
+                "Howard the Duck (1986)"
+            ]
+        }
+    },
     "David Proval": {
         "movies": {
             "The Phantom (1996)": [
@@ -1754,7 +1804,11 @@
     },
     "David Schofield": {
         "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
+            ],
             "Pirates": [
+                "Pirates of the Caribbean: Dead Man's Chest (2006)",
                 "Pirates of the Caribbean: At World's End (2007)"
             ]
         }
@@ -2209,6 +2263,13 @@
             ]
         }
     },
+    "Evangeline Lilly": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "Ewen Bremner": {
         "movies": {
             "Judge Dredd (1995)": [
@@ -2219,6 +2280,13 @@
             ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ]
+        }
+    },
+    "Faye Dunaway": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
             ]
         }
     },
@@ -2373,6 +2441,13 @@
         "movies": {
             "Power Rangers": [
                 "Mighty Morphin Power Rangers: The Movie (1995)"
+            ]
+        }
+    },
+    "Garrett Morris": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -2650,6 +2725,13 @@
             ]
         }
     },
+    "Gregg Turkington": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "Guy Henry": {
         "movies": {
             "Star Wars": [
@@ -2765,10 +2847,31 @@
             ]
         }
     },
+    "Hart Bochner": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
+            ]
+        }
+    },
     "Harvey Jason": {
         "movies": {
             "Jurassic Park": [
                 "The Lost World: Jurassic Park (1997)"
+            ]
+        }
+    },
+    "Hayley Atwell": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
+    "Heather Graham": {
+        "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
             ]
         }
     },
@@ -2783,6 +2886,13 @@
         "movies": {
             "Alien": [
                 "Alien (1979)"
+            ]
+        }
+    },
+    "Helen Slater as Kara Zor-El / Linda Lee / Supergirl": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
             ]
         }
     },
@@ -2861,6 +2971,9 @@
         "movies": {
             "Alien": [
                 "Alien (1979)"
+            ],
+            "From Hell (2001)": [
+                "From Hell (2001)"
             ]
         }
     },
@@ -2888,6 +3001,13 @@
             ],
             "Hellboy": [
                 "Hellboy (2019)"
+            ]
+        }
+    },
+    "Ian Richardson": {
+        "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
             ]
         }
     },
@@ -3320,6 +3440,9 @@
     },
     "Jason Flemyng": {
         "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
+            ],
             "The League of Extraordinary Gentlemen (2003)": [
                 "The League of Extraordinary Gentlemen (2003)"
             ]
@@ -3417,6 +3540,13 @@
             "Back to the Future": [
                 "Back to the Future (1985)",
                 "Back to the Future Part II (1989)"
+            ]
+        }
+    },
+    "Jeffrey Jones": {
+        "movies": {
+            "Marvel": [
+                "Howard the Duck (1986)"
             ]
         }
     },
@@ -3572,6 +3702,13 @@
         "movies": {
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
+            ]
+        }
+    },
+    "Joanna Page": {
+        "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
             ]
         }
     },
@@ -3809,6 +3946,13 @@
             ]
         }
     },
+    "John Slattery": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "John Turturro": {
         "movies": {
             "Transformers": [
@@ -3828,6 +3972,9 @@
     },
     "Johnny Depp": {
         "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
+            ],
             "Pirates": [
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
@@ -4023,6 +4170,9 @@
             ],
             "Jurassic Park": [
                 "Jurassic World (2015)"
+            ],
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -4606,6 +4756,9 @@
                 "Back to the Future (1985)",
                 "Back to the Future Part II (1989)",
                 "Back to the Future Part III (1990)"
+            ],
+            "Marvel": [
+                "Howard the Duck (1986)"
             ]
         }
     },
@@ -4946,6 +5099,9 @@
                 "Superman II (1981)",
                 "Superman III (1983)"
             ],
+            "DC": [
+                "Supergirl (1984)"
+            ],
             "Back to the Future": [
                 "Back to the Future (1985)",
                 "Back to the Future Part III (1990)"
@@ -5100,6 +5256,13 @@
             ]
         }
     },
+    "Martin Donovan": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
+            ]
+        }
+    },
     "Martin Ferrero": {
         "movies": {
             "Jurassic Park": [
@@ -5186,6 +5349,13 @@
         "movies": {
             "Matrix": [
                 "The Matrix (1999)"
+            ]
+        }
+    },
+    "Matt Frewer": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
             ]
         }
     },
@@ -5326,6 +5496,13 @@
             ]
         }
     },
+    "Mia Farrow": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
+            ]
+        }
+    },
     "Mia Sara": {
         "movies": {
             "Timecop (1994)": [
@@ -5375,6 +5552,13 @@
         "movies": {
             "Surrogates (2009)": [
                 "Surrogates (2009)"
+            ]
+        }
+    },
+    "Michael Douglas": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -5492,6 +5676,13 @@
         "movies": {
             "Star Wars": [
                 "Return of the Jedi (1983)"
+            ]
+        }
+    },
+    "Michael Pe\u00f1a": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -6057,6 +6248,13 @@
             ]
         }
     },
+    "Paul Guilfoyle": {
+        "movies": {
+            "Marvel": [
+                "Howard the Duck (1986)"
+            ]
+        }
+    },
     "Paul L. Smith": {
         "movies": {
             "Red Sonja (1985)": [
@@ -6096,6 +6294,13 @@
         "movies": {
             "Planet of the Apes": [
                 "Beneath the Planet of the Apes (1970)"
+            ]
+        }
+    },
+    "Paul Rudd": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -6201,6 +6406,13 @@
             ]
         }
     },
+    "Peter Cook": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
+            ]
+        }
+    },
     "Peter Cullen": {
         "movies": {
             "Transformers": [
@@ -6265,6 +6477,13 @@
         "movies": {
             "Hercules (2014)": [
                 "Hercules (2014)"
+            ]
+        }
+    },
+    "Peter O'Toole": {
+        "movies": {
+            "DC": [
+                "Supergirl (1984)"
             ]
         }
     },
@@ -6632,6 +6851,9 @@
     },
     "Richard Kiley": {
         "movies": {
+            "Marvel": [
+                "Howard the Duck (1986)"
+            ],
             "Jurassic Park": [
                 "Jurassic Park (1993)"
             ]
@@ -6729,6 +6951,9 @@
         "movies": {
             "Flash Gordon (1980)": [
                 "Flash Gordon (1980)"
+            ],
+            "From Hell (2001)": [
+                "From Hell (2001)"
             ]
         }
     },
@@ -7376,6 +7601,9 @@
     },
     "Sophia Myles": {
         "movies": {
+            "From Hell (2001)": [
+                "From Hell (2001)"
+            ],
             "Transformers": [
                 "Transformers: Age of Extinction (2014)"
             ]
@@ -7406,6 +7634,13 @@
         "movies": {
             "Batman": [
                 "Batman (1966)"
+            ]
+        }
+    },
+    "Stan Lee": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -7750,6 +7985,13 @@
             ]
         }
     },
+    "Tim Robbins": {
+        "movies": {
+            "Marvel": [
+                "Howard the Duck (1986)"
+            ]
+        }
+    },
     "Tim Roth": {
         "movies": {
             "Planet of the Apes": [
@@ -7792,6 +8034,13 @@
         "movies": {
             "The Rocketeer (1991)": [
                 "The Rocketeer (1991)"
+            ]
+        }
+    },
+    "Tip \"T.I.\" Harris": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -7892,6 +8141,9 @@
                 "Transformers: Revenge of the Fallen (2009)",
                 "Transformers: Dark of the Moon (2011)",
                 "Transformers: The Last Knight (2017)"
+            ],
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },
@@ -8369,6 +8621,9 @@
         "movies": {
             "Dredd (2012)": [
                 "Dredd (2012)"
+            ],
+            "MCU": [
+                "Ant-Man (2015)"
             ]
         }
     },

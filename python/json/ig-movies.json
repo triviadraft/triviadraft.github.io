@@ -3113,6 +3113,87 @@
             "You'll believe a GIRL can fly!",
             "Her first great adventure.",
             "Adventure Runs In The Family!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Helen Slater as Kara Zor-El / Linda Lee / Supergirl",
+                "name": "Kara Zor-El / Linda Lee / Supergirl",
+                "description": ""
+            },
+            {
+                "actor": "Faye Dunaway",
+                "name": "Selena",
+                "description": ""
+            },
+            {
+                "actor": "Peter O'Toole",
+                "name": "Zaltar",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Hart Bochner",
+                "name": "Ethan",
+                "description": ""
+            },
+            {
+                "actor": "Mia Farrow",
+                "name": "Alura In-Ze",
+                "description": ""
+            },
+            {
+                "actor": "Brenda Vaccaro",
+                "name": "Bianca",
+                "description": ""
+            },
+            {
+                "actor": "Peter Cook",
+                "name": "Nigel",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Matt Frewer",
+                "name": "Eddie",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Simon Ward",
+                "name": "Zor-El",
+                "description": ""
+            },
+            {
+                "actor": "Maureen Teefy",
+                "name": "Lucy Lane",
+                "description": ""
+            },
+            {
+                "actor": "David Healy",
+                "name": "Mr. Danvers",
+                "description": ""
+            },
+            {
+                "actor": "Sandra Dickinson",
+                "name": "Pretty Young Lady",
+                "description": ""
+            },
+            {
+                "actor": "Kelly Hunter",
+                "name": "Argonian Citizen",
+                "description": ""
+            },
+            {
+                "actor": "Glory Annen",
+                "name": "Midvale Protester",
+                "description": ""
+            }
         ]
     },
     "Back to the Future (1985)": {
@@ -3707,6 +3788,117 @@
             "Trapped in a world he never made.",
             "A new breed of hero.",
             "More adventure than humanly possible."
+        ],
+        "minorCast": [
+            {
+                "actor": "Ed Gale",
+                "name": "Howard the Duck",
+                "description": ""
+            },
+            {
+                "actor": "Jordan Prentice",
+                "name": "Howard the Duck",
+                "description": ""
+            },
+            {
+                "actor": "Liz Sagal",
+                "name": "Ronette",
+                "description": ""
+            },
+            {
+                "actor": "Dominique Davalos",
+                "name": "Cal",
+                "description": ""
+            },
+            {
+                "actor": "Holly Robinson Peete",
+                "name": "K.C.",
+                "description": ""
+            },
+            {
+                "actor": "Tommy Swerdlow",
+                "name": "Ginger Moss",
+                "description": ""
+            },
+            {
+                "actor": "Richard Edson",
+                "name": "Ritchie",
+                "description": ""
+            },
+            {
+                "actor": "Miles Chapin",
+                "name": "Carter",
+                "description": ""
+            },
+            {
+                "actor": "Paul Comi",
+                "name": "Dr. Chapin",
+                "description": ""
+            },
+            {
+                "actor": "Richard McGonagle",
+                "name": "First Cop",
+                "description": ""
+            },
+            {
+                "actor": "Virginia Capers",
+                "name": "Cora Mae",
+                "description": ""
+            },
+            {
+                "actor": "Miguel Sandoval",
+                "name": "Bar Entertainment Supervisor",
+                "description": ""
+            },
+            {
+                "actor": "William Hall",
+                "name": "Officer Hanson",
+                "description": ""
+            },
+            {
+                "actor": "Brian Steele",
+                "name": "voice of Dark Overlords of the Universe",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Chip Zien",
+                "name": "voice of Howard the Duck",
+                "description": ""
+            },
+            {
+                "actor": "Jeffrey Jones",
+                "name": "Dr. Walter Jenning",
+                "description": ""
+            },
+            {
+                "actor": "David Paymer",
+                "name": "Larry",
+                "description": ""
+            },
+            {
+                "actor": "Paul Guilfoyle",
+                "name": "Lieutenant Welker",
+                "description": ""
+            },
+            {
+                "actor": "Richard Kiley",
+                "name": "voice of the Cosmos",
+                "description": ""
+            }
+        ],
+        "mainCast": [
+            {
+                "actor": "Lea Thompson",
+                "name": "Beverly Switzler",
+                "description": ""
+            },
+            {
+                "actor": "Tim Robbins",
+                "name": "Phil Blumburtt",
+                "description": ""
+            }
         ]
     },
     "The Transformers: The Movie (1986)": {
@@ -6055,7 +6247,7 @@
                 "description": ""
             },
             {
-                "actor": "B.D. Wong",
+                "actor": "BD Wong",
                 "name": "Dr. Henry Wu",
                 "description": ""
             }
@@ -8450,6 +8642,112 @@
         "franchise": "",
         "taglines": [
             "Only the legend will survive."
+        ],
+        "mainCast": [
+            {
+                "actor": "Johnny Depp",
+                "name": "Inspector Frederick Abberline",
+                "description": ""
+            },
+            {
+                "actor": "Heather Graham",
+                "name": "Mary Kelly",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Ian Holm",
+                "name": "Sir William Gull",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Coltrane",
+                "name": "Sergeant George Godley",
+                "description": ""
+            },
+            {
+                "actor": "Ian Richardson",
+                "name": "Sir Charles Warren",
+                "description": ""
+            },
+            {
+                "actor": "Jason Flemyng",
+                "name": "John Netley",
+                "description": ""
+            },
+            {
+                "actor": "David Schofield",
+                "name": "McQueen",
+                "description": ""
+            },
+            {
+                "actor": "Sophia Myles",
+                "name": "Victoria Abberline",
+                "description": ""
+            },
+            {
+                "actor": "Joanna Page",
+                "name": "Ann Crook",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Samantha Spiro",
+                "name": "Martha Tabram",
+                "description": ""
+            },
+            {
+                "actor": "Annabelle Apsion",
+                "name": "Polly Nichols",
+                "description": ""
+            },
+            {
+                "actor": "Katrin Cartlidge",
+                "name": "Annie Chapman",
+                "description": ""
+            },
+            {
+                "actor": "Susan Lynch",
+                "name": "Liz Stride",
+                "description": ""
+            },
+            {
+                "actor": "Lesley Sharp",
+                "name": "Kate Eddowes",
+                "description": ""
+            },
+            {
+                "actor": "Estelle Skornik",
+                "name": "Ada",
+                "description": ""
+            },
+            {
+                "actor": "Paul Rhys",
+                "name": "Dr. Ferral",
+                "description": ""
+            },
+            {
+                "actor": "Vincent Franklin",
+                "name": "George Lusk",
+                "description": ""
+            },
+            {
+                "actor": "Ian McNeice",
+                "name": "Robert Drudge",
+                "description": "coroner"
+            },
+            {
+                "actor": "Mark Dexter",
+                "name": "Prince Albert Victor / Albert Sickert",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Parker",
+                "name": "Joseph Merrick",
+                "description": ""
+            }
         ]
     },
     "Harry Potter and the Sorcerer's Stone (2001)": {
@@ -10235,6 +10533,11 @@
                 "actor": "Geoffrey Rush",
                 "name": "Hector Barbossa",
                 "description": "pirate resurrected by Tia Dalma to save Jack Sparrow from Davy Jones' locker"
+            },
+            {
+                "actor": "David Schofield",
+                "name": "Mr. Mercer",
+                "description": ""
             }
         ]
     },
@@ -15088,6 +15391,127 @@
         "taglines": [
             "Heroes don't get any bigger.",
             "No shield. No armor. No problem."
+        ],
+        "mainCast": [
+            {
+                "actor": "Paul Rudd",
+                "name": "Scott Lang / Ant-Man",
+                "description": ""
+            },
+            {
+                "actor": "Evangeline Lilly",
+                "name": "Hope van Dyne",
+                "description": ""
+            },
+            {
+                "actor": "Corey Stoll",
+                "name": "Darren Cross / Yellowjacket",
+                "description": ""
+            },
+            {
+                "actor": "Bobby Cannavale",
+                "name": "Jim Paxton",
+                "description": ""
+            },
+            {
+                "actor": "Michael Pe\u00f1a",
+                "name": "Luis",
+                "description": ""
+            },
+            {
+                "actor": "Tip \"T.I.\" Harris",
+                "name": "Dave",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Mackie",
+                "name": "Sam Wilson / the Falcon",
+                "description": ""
+            },
+            {
+                "actor": "Judy Greer",
+                "name": "Maggie",
+                "description": ""
+            },
+            {
+                "actor": "David Dastmalchian",
+                "name": "Kurt",
+                "description": ""
+            },
+            {
+                "actor": "Michael Douglas",
+                "name": "Hank Pym",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Wood Harris",
+                "name": "Gale",
+                "description": ""
+            },
+            {
+                "actor": "John Slattery",
+                "name": "Howard Stark",
+                "description": ""
+            },
+            {
+                "actor": "Hayley Atwell",
+                "name": "Peggy Carter",
+                "description": ""
+            },
+            {
+                "actor": "Abby Ryder Fortson",
+                "name": "Cassie",
+                "description": ""
+            },
+            {
+                "actor": "Gregg Turkington",
+                "name": "Dale",
+                "description": ""
+            },
+            {
+                "actor": "Martin Donovan",
+                "name": "Mitchell Carson",
+                "description": ""
+            },
+            {
+                "actor": "Garrett Morris",
+                "name": "taxi driver",
+                "description": ""
+            },
+            {
+                "actor": "Stan Lee",
+                "name": "bartender",
+                "description": ""
+            },
+            {
+                "actor": "Tom Kenny",
+                "name": "voice of toy rabbit",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Anna Akana",
+                "name": "writer in Luis' story",
+                "description": ""
+            },
+            {
+                "actor": "Chris Evans",
+                "name": "Steve Rogers / Captain America",
+                "description": ""
+            },
+            {
+                "actor": "Sebastian Stan",
+                "name": "Bucky Barnes / Winter Soldier",
+                "description": ""
+            },
+            {
+                "actor": "Hayley Lovitt",
+                "name": "Janet van Dyne / Wasp",
+                "description": ""
+            }
         ]
     },
     "Fantastic Four (2015)": {
