@@ -24750,6 +24750,19 @@ var movieMap = {
             "1980s",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "Catherine Hicks",
+            "DeForest Kelley",
+            "George Takei",
+            "James Doohan",
+            "Leonard Nimoy",
+            "Madge Sinclair",
+            "Majel Barrett",
+            "Nichelle Nichols",
+            "Robin Curtis",
+            "Walter Koenig",
+            "William Shatner"
         ]
     },
     "The Mosquito Coast (1986)": {
@@ -25677,6 +25690,16 @@ var movieMap = {
             "DC",
             "Gene Hackman",
             "Superman"
+        ],
+        "cast": [
+            "Christopher Reeve",
+            "Gene Hackman",
+            "Jackie Cooper",
+            "Jim Broadbent",
+            "Jon Cryer",
+            "Margot Kidder",
+            "Mariel Hemingway",
+            "Susannah York"
         ]
     },
     "The Living Daylights (1987)": {
@@ -28668,6 +28691,11 @@ var movieMap = {
             "DC",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Frank Welker",
+            "Heather Locklear",
+            "Louis Jourdan"
         ]
     },
     "For Queen and Country (1989)": {
@@ -30225,6 +30253,16 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Teenage Mutant Ninja Turtles"
+        ],
+        "cast": [
+            "Brian Tochi",
+            "Corey Feldman",
+            "Elias Koteas",
+            "Josh Pais",
+            "Judith Hoag",
+            "Robbie Rist",
+            "Sam Rockwell",
+            "Skeet Ulrich"
         ]
     },
     "I Love You to Death (1990)": {
@@ -31915,6 +31953,20 @@ var movieMap = {
             "Musicians in Film",
             "Teenage Mutant Ninja Turtles",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Adam Carl",
+            "Brian Tochi",
+            "David Warner",
+            "Ernie Reyes Jr.",
+            "Fran\u00e7ois Chau",
+            "Frank Welker",
+            "Kevin Nash",
+            "Laurie Faso",
+            "Michael Jai White",
+            "Paige Turco",
+            "Robbie Rist",
+            "Vanilla Ice"
         ]
     },
     "Career Opportunities (1991)": {
@@ -35487,6 +35539,15 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Teenage Mutant Ninja Turtles"
+        ],
+        "cast": [
+            "Brian Tochi",
+            "Corey Feldman",
+            "Elias Koteas",
+            "Paige Turco",
+            "Robbie Rist",
+            "Stuart Wilson",
+            "Tim Kelleher"
         ]
     },
     "Cop and a Half (1993)": {
@@ -55688,6 +55749,17 @@ var movieMap = {
             "2000s",
             "Comic Book",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Bob Balaban",
+            "Brad Renfro",
+            "Bruce Glover",
+            "David Cross",
+            "Patrick Fischler",
+            "Scarlett Johansson",
+            "Steve Buscemi",
+            "Teri Garr",
+            "Thora Birch"
         ]
     },
     "Planet of the Apes (2001)": {
@@ -71944,6 +72016,20 @@ var movieMap = {
             "IG Animated",
             "Kevin Smith",
             "Teenage Mutant Ninja Turtles"
+        ],
+        "cast": [
+            "Chris Evans",
+            "Frank Welker",
+            "James Arnold Taylor",
+            "Kevin Smith",
+            "Laurence Fishburne",
+            "Mako",
+            "Mikey Kelley",
+            "Mitchell Whitfield",
+            "Nolan North",
+            "Patrick Stewart",
+            "Sarah Michelle Gellar",
+            "Zhang Ziyi"
         ]
     },
     "Blades of Glory (2007)": {
@@ -77392,6 +77478,17 @@ var movieMap = {
             "Comic Book",
             "Samuel L. Jackson",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Eva Mendes",
+            "Frank Miller",
+            "Gabriel Macht",
+            "Jaime King",
+            "Johnny Simmons",
+            "Paz Vega",
+            "Samuel L. Jackson",
+            "Sarah Paulson",
+            "Scarlett Johansson"
         ]
     },
     "Valkyrie (2008)": {
@@ -80851,6 +80948,14 @@ var movieMap = {
             "Action/Adventure",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Chris Evans",
+            "Columbus Short",
+            "Idris Elba",
+            "Jason Patric",
+            "Jeffrey Dean Morgan",
+            "Zoe Saldana"
         ]
     },
     "A Nightmare on Elm Street (2010)": {
@@ -93275,6 +93380,20 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Teenage Mutant Ninja Turtles",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Abby Elliott",
+            "Alan Ritchson",
+            "Jeremy Howard",
+            "Johnny Knoxville",
+            "Megan Fox",
+            "Noel Fisher",
+            "Pete Ploszek",
+            "Taran Killam",
+            "Tony Shalhoub",
+            "Whoopi Goldberg",
+            "Will Arnett",
+            "William Fichtner"
         ]
     },
     "The Hundred-Foot Journey (2014)": {
@@ -99120,6 +99239,22 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Teenage Mutant Ninja Turtles",
             "Tyler Perry"
+        ],
+        "cast": [
+            "Alan Ritchson",
+            "Brad Garrett",
+            "Brian Tee",
+            "Gary Anthony Williams",
+            "Jeremy Howard",
+            "Laura Linney",
+            "Megan Fox",
+            "Noel Fisher",
+            "Pete Ploszek",
+            "Stephen Amell",
+            "Stephen Farrelly",
+            "Tony Shalhoub",
+            "Tyler Perry",
+            "Will Arnett"
         ]
     },
     "Genius (2016)": {
@@ -105981,6 +106116,51 @@ var movieMap = {
             "Scarlett Johansson",
             "Spider-Man",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Anthony Mackie",
+            "Ariana Greenblatt",
+            "Benedict Cumberbatch",
+            "Benedict Wong",
+            "Benicio del Toro",
+            "Bradley Cooper",
+            "Carrie Coon",
+            "Chadwick Boseman",
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Chris Pratt",
+            "Cobie Smulders",
+            "Danai Gurira",
+            "Dave Bautista",
+            "Don Cheadle",
+            "Elizabeth Olsen",
+            "Gwyneth Paltrow",
+            "Idris Elba",
+            "Jacob Batalon",
+            "Josh Brolin",
+            "Karen Gillan",
+            "Kenneth Branagh",
+            "Kerry Condon",
+            "Letitia Wright",
+            "Mark Ruffalo",
+            "Paul Bettany",
+            "Peter Dinklage",
+            "Pom Klementieff",
+            "Robert Downey Jr.",
+            "Ross Marquand",
+            "Samuel L. Jackson",
+            "Scarlett Johansson",
+            "Sean Gunn",
+            "Sebastian Stan",
+            "Stan Lee",
+            "Stephen McFeely",
+            "Terry Notary",
+            "Tom Hiddleston",
+            "Tom Holland",
+            "Vin Diesel",
+            "William Hurt",
+            "Winston Duke",
+            "Zoe Saldana"
         ]
     },
     "The Week Of (2018)": {

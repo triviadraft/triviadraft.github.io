@@ -13,6 +13,13 @@ var igActorMap = {
             ]
         }
     },
+    "Abby Elliott": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
+            ]
+        }
+    },
     "Abby Ryder Fortson": {
         "movies": {
             "MCU": [
@@ -38,6 +45,13 @@ var igActorMap = {
         "movies": {
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ]
+        }
+    },
+    "Adam Carl": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -146,6 +160,14 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman (1966)"
+            ]
+        }
+    },
+    "Alan Ritchson": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
             ]
         }
     },
@@ -872,6 +894,13 @@ var igActorMap = {
             ]
         }
     },
+    "Brad Garrett": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Brad Renfro": {
         "movies": {
             "Ghost World (2001)": [
@@ -967,6 +996,18 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "Jurassic World (2015)"
+            ],
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Brian Tochi": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+                "Teenage Mutant Ninja Turtles III (1993)"
             ]
         }
     },
@@ -974,6 +1015,13 @@ var igActorMap = {
         "movies": {
             "Red Sonja (1985)": [
                 "Red Sonja (1985)"
+            ]
+        }
+    },
+    "Brittany Ishibashi": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
             ]
         }
     },
@@ -1210,6 +1258,13 @@ var igActorMap = {
             ]
         }
     },
+    "Catherine Hicks": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek IV: The Voyage Home (1986)"
+            ]
+        }
+    },
     "Catherine O'Hara": {
         "movies": {
             "Dick Tracy (1990)": [
@@ -1348,6 +1403,9 @@ var igActorMap = {
     },
     "Chris Evans": {
         "movies": {
+            "TMNT": [
+                "TMNT (2007)"
+            ],
             "DC": [
                 "The Losers (2010)"
             ],
@@ -1442,7 +1500,8 @@ var igActorMap = {
             "Superman": [
                 "Superman (1978)",
                 "Superman II (1981)",
-                "Superman III (1983)"
+                "Superman III (1983)",
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -1564,6 +1623,14 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "The Transformers: The Movie (1986)"
+            ]
+        }
+    },
+    "Corey Feldman": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles III (1993)"
             ]
         }
     },
@@ -1766,6 +1833,13 @@ var igActorMap = {
             ]
         }
     },
+    "Danny Woodburn": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
+            ]
+        }
+    },
     "Darius McCrary": {
         "movies": {
             "Transformers": [
@@ -1869,6 +1943,14 @@ var igActorMap = {
             ]
         }
     },
+    "David McCharen": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            ]
+        }
+    },
     "David O'Hara": {
         "movies": {
             "Cowboys & Aliens (2011)": [
@@ -1952,6 +2034,13 @@ var igActorMap = {
             ]
         }
     },
+    "David Warner": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            ]
+        }
+    },
     "David Wenham": {
         "movies": {
             "Pirates": [
@@ -1992,7 +2081,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -2077,7 +2167,8 @@ var igActorMap = {
     "Dick Durock": {
         "movies": {
             "DC": [
-                "Swamp Thing (1982)"
+                "Swamp Thing (1982)",
+                "The Return of Swamp Thing (1989)"
             ]
         }
     },
@@ -2141,6 +2232,9 @@ var igActorMap = {
         "movies": {
             "Indiana Jones": [
                 "Raiders of the Lost Ark (1981)"
+            ],
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -2273,6 +2367,14 @@ var igActorMap = {
             ]
         }
     },
+    "Elias Koteas": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ]
+        }
+    },
     "Elijah Kelley": {
         "movies": {
             "Strange Magic (2015)": [
@@ -2357,6 +2459,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "The Transformers: The Movie (1986)"
+            ]
+        }
+    },
+    "Ernie Reyes Jr.": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -2529,11 +2638,25 @@ var igActorMap = {
                 "Transformers: Age of Extinction (2014)",
                 "Transformers: The Last Knight (2017)"
             ],
+            "DC": [
+                "The Return of Swamp Thing (1989)"
+            ],
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+                "TMNT (2007)"
+            ],
             "The Shadow (1994)": [
                 "The Shadow (1994)"
             ],
             "Spawn (1997)": [
                 "Spawn (1997)"
+            ]
+        }
+    },
+    "Fran\u00e7ois Chau": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -2607,6 +2730,13 @@ var igActorMap = {
             ]
         }
     },
+    "Gary Anthony Williams": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Gary Busey": {
         "movies": {
             "Predator": [
@@ -2666,7 +2796,8 @@ var igActorMap = {
         "movies": {
             "Superman": [
                 "Superman (1978)",
-                "Superman II (1981)"
+                "Superman II (1981)",
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -2714,7 +2845,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -2854,7 +2986,15 @@ var igActorMap = {
     "Grace Lee Whitney": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek IV: The Voyage Home (1986)"
+            ]
+        }
+    },
+    "Greg Baldwin": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -3031,6 +3171,13 @@ var igActorMap = {
             ]
         }
     },
+    "Heather Locklear": {
+        "movies": {
+            "DC": [
+                "The Return of Swamp Thing (1989)"
+            ]
+        }
+    },
     "Helen Buday": {
         "movies": {
             "Mad Max": [
@@ -3045,7 +3192,7 @@ var igActorMap = {
             ]
         }
     },
-    "Helen Slater as Kara Zor-El / Linda Lee / Supergirl": {
+    "Helen Slater": {
         "movies": {
             "DC": [
                 "Supergirl (1984)"
@@ -3070,6 +3217,13 @@ var igActorMap = {
             "Matrix": [
                 "The Matrix Reloaded (2003)",
                 "The Matrix Revolutions (2003)"
+            ]
+        }
+    },
+    "Henry Hayashi": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles III (1993)"
             ]
         }
     },
@@ -3345,7 +3499,8 @@ var igActorMap = {
             "Superman": [
                 "Superman (1978)",
                 "Superman II (1981)",
-                "Superman III (1983)"
+                "Superman III (1983)",
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -3415,6 +3570,13 @@ var igActorMap = {
             ]
         }
     },
+    "James Arnold Taylor": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
+            ]
+        }
+    },
     "James Bachman": {
         "movies": {
             "Transformers": [
@@ -3465,7 +3627,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -3539,6 +3702,13 @@ var igActorMap = {
             ]
         }
     },
+    "James Murray": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ]
+        }
+    },
     "James Purefoy": {
         "movies": {
             "John Carter (2012)": [
@@ -3556,6 +3726,13 @@ var igActorMap = {
             ],
             "Transformers": [
                 "Transformers: Dark of the Moon (2011)"
+            ]
+        }
+    },
+    "James Saito": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
             ]
         }
     },
@@ -3589,6 +3766,13 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator Salvation (2009)"
+            ]
+        }
+    },
+    "Jane Wyatt": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -3675,6 +3859,13 @@ var igActorMap = {
         "movies": {
             "RoboCop": [
                 "RoboCop (2014)"
+            ]
+        }
+    },
+    "Jay Patterson": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
             ]
         }
     },
@@ -3802,6 +3993,14 @@ var igActorMap = {
             ]
         }
     },
+    "Jeremy Howard": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Jerrod Carmichael": {
         "movies": {
             "Transformers": [
@@ -3863,6 +4062,9 @@ var igActorMap = {
     },
     "Jim Broadbent": {
         "movies": {
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
+            ],
             "Narnia": [
                 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
             ],
@@ -4185,6 +4387,9 @@ var igActorMap = {
         "movies": {
             "Men in Black": [
                 "Men in Black II (2002)"
+            ],
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
             ]
         }
     },
@@ -4207,6 +4412,13 @@ var igActorMap = {
             "Power Rangers": [
                 "Mighty Morphin Power Rangers: The Movie (1995)",
                 "Turbo: A Power Rangers Movie (1997)"
+            ]
+        }
+    },
+    "Jon Cryer": {
+        "movies": {
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -4345,6 +4557,13 @@ var igActorMap = {
             ]
         }
     },
+    "Josh Pais": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
+            ]
+        }
+    },
     "Joy Smithers": {
         "movies": {
             "Mad Max": [
@@ -4363,6 +4582,13 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek III: The Search for Spock (1984)"
+            ]
+        }
+    },
+    "Judith Hoag": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
             ]
         }
     },
@@ -4469,6 +4695,13 @@ var igActorMap = {
         "movies": {
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
+            ]
+        }
+    },
+    "K. Todd Freeman": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
             ]
         }
     },
@@ -4722,6 +4955,14 @@ var igActorMap = {
             ]
         }
     },
+    "Kevin Clash": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            ]
+        }
+    },
     "Kevin Costner": {
         "movies": {
             "Waterworld (1995)": [
@@ -4738,6 +4979,14 @@ var igActorMap = {
             ]
         }
     },
+    "Kevin Eastman": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Kevin McNally": {
         "movies": {
             "Pirates": [
@@ -4746,6 +4995,13 @@ var igActorMap = {
                 "Pirates of the Caribbean: At World's End (2007)",
                 "Pirates of the Caribbean: On Stranger Tides (2011)",
                 "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+            ]
+        }
+    },
+    "Kevin Nash": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -4761,6 +5017,13 @@ var igActorMap = {
         "movies": {
             "Willow (1988)": [
                 "Willow (1988)"
+            ]
+        }
+    },
+    "Kevin Smith": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -4942,6 +5205,13 @@ var igActorMap = {
             ]
         }
     },
+    "Laura Linney": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Lauren Lapkus": {
         "movies": {
             "Jurassic Park": [
@@ -4958,6 +5228,9 @@ var igActorMap = {
             ],
             "Predator": [
                 "Predators (2010)"
+            ],
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -4965,6 +5238,13 @@ var igActorMap = {
         "movies": {
             "Men in Black": [
                 "Men in Black: International (2019)"
+            ]
+        }
+    },
+    "Laurie Faso": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -5063,7 +5343,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ],
             "Transformers": [
                 "The Transformers: The Movie (1986)",
@@ -5191,7 +5472,8 @@ var igActorMap = {
     "Louis Jourdan": {
         "movies": {
             "DC": [
-                "Swamp Thing (1982)"
+                "Swamp Thing (1982)",
+                "The Return of Swamp Thing (1989)"
             ]
         }
     },
@@ -5267,6 +5549,13 @@ var igActorMap = {
             ]
         }
     },
+    "Madge Sinclair": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek IV: The Voyage Home (1986)"
+            ]
+        }
+    },
     "Madonna": {
         "movies": {
             "Dick Tracy (1990)": [
@@ -5291,7 +5580,8 @@ var igActorMap = {
     "Majel Barrett": {
         "movies": {
             "Star Trek": [
-                "Star Trek: The Motion Picture (1979)"
+                "Star Trek: The Motion Picture (1979)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -5303,6 +5593,9 @@ var igActorMap = {
             ],
             "RoboCop": [
                 "RoboCop 3 (1993)"
+            ],
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -5325,7 +5618,8 @@ var igActorMap = {
             "Superman": [
                 "Superman (1978)",
                 "Superman II (1981)",
-                "Superman III (1983)"
+                "Superman III (1983)",
+                "Superman IV: The Quest for Peace (1987)"
             ],
             "DC": [
                 "Supergirl (1984)"
@@ -5355,7 +5649,8 @@ var igActorMap = {
             "Superman": [
                 "Superman (1978)",
                 "Superman II (1981)",
-                "Superman III (1983)"
+                "Superman III (1983)",
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -5370,6 +5665,13 @@ var igActorMap = {
         "movies": {
             "RoboCop": [
                 "RoboCop (2014)"
+            ]
+        }
+    },
+    "Mariel Hemingway": {
+        "movies": {
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -5421,7 +5723,15 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
+            ]
+        }
+    },
+    "Mark Pillow": {
+        "movies": {
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -5662,6 +5972,10 @@ var igActorMap = {
             "Transformers": [
                 "Transformers (2007)",
                 "Transformers: Revenge of the Fallen (2009)"
+            ],
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
             ]
         }
     },
@@ -5858,6 +6172,9 @@ var igActorMap = {
     },
     "Michael Jai White": {
         "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            ],
             "Spawn (1997)": [
                 "Spawn (1997)"
             ]
@@ -5942,6 +6259,13 @@ var igActorMap = {
             ]
         }
     },
+    "Michael Turney": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
+            ]
+        }
+    },
     "Michael Wincott": {
         "movies": {
             "Alien": [
@@ -5984,10 +6308,24 @@ var igActorMap = {
             ]
         }
     },
+    "Mikey Kelley": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
+            ]
+        }
+    },
     "Milla Jovovich": {
         "movies": {
             "Hellboy": [
                 "Hellboy (2019)"
+            ]
+        }
+    },
+    "Minae Noji": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
             ]
         }
     },
@@ -6002,6 +6340,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
+            ]
+        }
+    },
+    "Mitchell Whitfield": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -6171,7 +6516,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -6257,6 +6603,21 @@ var igActorMap = {
         "movies": {
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ]
+        }
+    },
+    "Noel Fisher": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Nolan North": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -6392,6 +6753,14 @@ var igActorMap = {
             ]
         }
     },
+    "Paige Turco": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ]
+        }
+    },
     "Pamela Adlon": {
         "movies": {
             "Transformers": [
@@ -6463,6 +6832,13 @@ var igActorMap = {
         "movies": {
             "The Phantom (1996)": [
                 "The Phantom (1996)"
+            ]
+        }
+    },
+    "Patrick Stewart": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -6652,6 +7028,14 @@ var igActorMap = {
             ]
         }
     },
+    "Pete Ploszek": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Pete Postlethwaite": {
         "movies": {
             "Alien": [
@@ -6703,6 +7087,13 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)"
+            ]
+        }
+    },
+    "Peter D. Badalamenti": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
             ]
         }
     },
@@ -6993,6 +7384,13 @@ var igActorMap = {
             ]
         }
     },
+    "Raymond Serra": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
+            ]
+        }
+    },
     "Ra\u00fal M\u00e9ndez": {
         "movies": {
             "Zorro": [
@@ -7237,6 +7635,15 @@ var igActorMap = {
             ]
         }
     },
+    "Robbie Rist": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ]
+        }
+    },
     "Robert Axelrod": {
         "movies": {
             "Power Rangers": [
@@ -7349,7 +7756,8 @@ var igActorMap = {
     "Robin Curtis": {
         "movies": {
             "Star Trek": [
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -7542,6 +7950,9 @@ var igActorMap = {
     },
     "Sab Shimono": {
         "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ],
             "The Shadow (1994)": [
                 "The Shadow (1994)"
             ]
@@ -7599,6 +8010,9 @@ var igActorMap = {
     },
     "Sam Rockwell": {
         "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
+            ],
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
             ]
@@ -7608,6 +8022,13 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Aliens vs. Predator: Requiem (2007)"
+            ]
+        }
+    },
+    "Sam Wanamaker": {
+        "movies": {
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -7687,6 +8108,16 @@ var igActorMap = {
             ],
             "Conan": [
                 "Conan the Destroyer (1984)"
+            ],
+            "DC": [
+                "The Return of Swamp Thing (1989)"
+            ]
+        }
+    },
+    "Sarah Michelle Gellar": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },
@@ -7924,6 +8355,13 @@ var igActorMap = {
             ]
         }
     },
+    "Skeet Ulrich": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)"
+            ]
+        }
+    },
     "Song Kang-ho": {
         "movies": {
             "Snowpiercer (2014)": [
@@ -7999,10 +8437,24 @@ var igActorMap = {
             ]
         }
     },
+    "Stephen Amell": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Stephen Collins": {
         "movies": {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)"
+            ]
+        }
+    },
+    "Stephen Farrelly": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
             ]
         }
     },
@@ -8117,6 +8569,9 @@ var igActorMap = {
     },
     "Stuart Wilson": {
         "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ],
             "Zorro": [
                 "The Mask of Zorro (1998)"
             ]
@@ -8140,7 +8595,8 @@ var igActorMap = {
         "movies": {
             "Superman": [
                 "Superman (1978)",
-                "Superman II (1981)"
+                "Superman II (1981)",
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -8179,6 +8635,13 @@ var igActorMap = {
         "movies": {
             "Matrix": [
                 "The Matrix Revolutions (2003)"
+            ]
+        }
+    },
+    "Taran Killam": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
             ]
         }
     },
@@ -8351,6 +8814,13 @@ var igActorMap = {
             ]
         }
     },
+    "Tim Kelleher": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ]
+        }
+    },
     "Tim Robbins": {
         "movies": {
             "Marvel": [
@@ -8452,6 +8922,13 @@ var igActorMap = {
         "movies": {
             "Spawn (1997)": [
                 "Spawn (1997)"
+            ]
+        }
+    },
+    "Tohoru Masamune": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
             ]
         }
     },
@@ -8619,6 +9096,10 @@ var igActorMap = {
             "Men in Black": [
                 "Men in Black (1997)",
                 "Men in Black II (2002)"
+            ],
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
             ]
         }
     },
@@ -8640,6 +9121,14 @@ var igActorMap = {
         "movies": {
             "Flash Gordon (1980)": [
                 "Flash Gordon (1980)"
+            ]
+        }
+    },
+    "Toshishiro Obata": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (1990)",
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -8706,6 +9195,13 @@ var igActorMap = {
             ]
         }
     },
+    "Tyler Perry": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Tyrese Gibson": {
         "movies": {
             "Transformers": [
@@ -8748,6 +9244,13 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "The Lost World: Jurassic Park (1997)"
+            ]
+        }
+    },
+    "Vanilla Ice": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
             ]
         }
     },
@@ -8806,6 +9309,13 @@ var igActorMap = {
             ]
         }
     },
+    "Vivian Wu": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles III (1993)"
+            ]
+        }
+    },
     "Vlad Ivanov": {
         "movies": {
             "Snowpiercer (2014)": [
@@ -8818,7 +9328,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -8874,6 +9385,21 @@ var igActorMap = {
             ]
         }
     },
+    "Whoopi Goldberg": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
+            ]
+        }
+    },
+    "Will Arnett": {
+        "movies": {
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)",
+                "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
     "Will Poulter": {
         "movies": {
             "Narnia": [
@@ -8901,6 +9427,9 @@ var igActorMap = {
         "movies": {
             "The Lone Ranger (2013)": [
                 "The Lone Ranger (2013)"
+            ],
+            "TMNT": [
+                "Teenage Mutant Ninja Turtles (2014)"
             ]
         }
     },
@@ -8925,6 +9454,9 @@ var igActorMap = {
             ],
             "Indiana Jones": [
                 "Raiders of the Lost Ark (1981)"
+            ],
+            "Superman": [
+                "Superman IV: The Quest for Peace (1987)"
             ]
         }
     },
@@ -8962,7 +9494,8 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
-                "Star Trek III: The Search for Spock (1984)"
+                "Star Trek III: The Search for Spock (1984)",
+                "Star Trek IV: The Voyage Home (1986)"
             ]
         }
     },
@@ -9071,6 +9604,13 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Spider-Man: Far From Home (2019)"
+            ]
+        }
+    },
+    "Zhang Ziyi": {
+        "movies": {
+            "TMNT": [
+                "TMNT (2007)"
             ]
         }
     },

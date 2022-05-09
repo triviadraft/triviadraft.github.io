@@ -3116,7 +3116,7 @@ var igMovieMap = {
         ],
         "mainCast": [
             {
-                "actor": "Helen Slater as Kara Zor-El / Linda Lee / Supergirl",
+                "actor": "Helen Slater",
                 "name": "Kara Zor-El / Linda Lee / Supergirl",
                 "description": ""
             },
@@ -4103,6 +4103,117 @@ var igMovieMap = {
             "Only the technology of the future, can save what's endangering the past.",
             "Star Date: 1986.",
             "They travelled back where 23rd century man had never gone before. To a mad, crazy, outrageous time: 1986."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "Admiral James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Doctor Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": "engineer"
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Commander Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Catherine Hicks",
+                "name": "Dr. Gillian Taylor",
+                "description": ""
+            },
+            {
+                "actor": "Majel Barrett",
+                "name": "Christine Chapel",
+                "description": ""
+            },
+            {
+                "actor": "Mark Lenard",
+                "name": "Ambassador Sarek",
+                "description": ""
+            },
+            {
+                "actor": "Jane Wyatt",
+                "name": "Amanda Grayson",
+                "description": ""
+            },
+            {
+                "actor": "Robin Curtis",
+                "name": "Saavik",
+                "description": ""
+            },
+            {
+                "actor": "Madge Sinclair",
+                "name": "captain of the USS Saratoga",
+                "description": ""
+            },
+            {
+                "actor": "Grace Lee Whitney",
+                "name": "Janice Rand",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Alex Henteloff",
+                "name": "Dr. Nichols",
+                "description": ""
+            },
+            {
+                "actor": "Jane Wiedlin",
+                "name": "Starfleet officer seen on video screen",
+                "description": ""
+            },
+            {
+                "actor": "Vijay Amritraj",
+                "name": "Starfleet officer seen on video screen",
+                "description": ""
+            },
+            {
+                "actor": "John Schuck",
+                "name": "Klingon ambassador",
+                "description": ""
+            },
+            {
+                "actor": "Robert Ellenstein",
+                "name": "Federaation President",
+                "description": ""
+            },
+            {
+                "actor": "Michael Berryman",
+                "name": "alien display officer at Starfleet Command",
+                "description": ""
+            },
+            {
+                "actor": "Brock Peters",
+                "name": "Fleet Admiral Cartwright",
+                "description": ""
+            }
         ]
     },
     "Predator (1987)": {
@@ -4336,6 +4447,92 @@ var igMovieMap = {
         "franchise": "Superman",
         "taglines": [
             "Nuclear Power. In the best hands, it is dangerous. In the hands of Lex Luthor, it is pure evil. This is Superman's greatest battle. And it is for all of us."
+        ],
+        "mainCast": [
+            {
+                "actor": "Christopher Reeve",
+                "name": "Kal-El / Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Gene Hackman",
+                "name": "Lex Luthor / voice of Nuclear Man",
+                "description": ""
+            },
+            {
+                "actor": "Margot Kidder",
+                "name": "Lois Lane",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Mark Pillow",
+                "name": "Nuclear Man",
+                "description": ""
+            },
+            {
+                "actor": "Jackie Cooper",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Marc McClure",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Jon Cryer",
+                "name": "Lenny Luthor",
+                "description": ""
+            },
+            {
+                "actor": "Sam Wanamaker",
+                "name": "David Warfield",
+                "description": ""
+            },
+            {
+                "actor": "Mariel Hemingway",
+                "name": "Lacy Warfield",
+                "description": ""
+            },
+            {
+                "actor": "William Hootkins",
+                "name": "Harry Howler",
+                "description": ""
+            },
+            {
+                "actor": "Jim Broadbent",
+                "name": "Jean Pierre Dubois",
+                "description": ""
+            },
+            {
+                "actor": "Don Fellows",
+                "name": "Levon Hornsby",
+                "description": ""
+            },
+            {
+                "actor": "Susannah York",
+                "name": "voice of Lara",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Damian McLawhorn",
+                "name": "Jeremy",
+                "description": ""
+            },
+            {
+                "actor": "Stanley Lebor",
+                "name": "Genearl Romoff",
+                "description": ""
+            },
+            {
+                "actor": "Robert Beatty",
+                "name": "U.S. President",
+                "description": ""
+            }
         ]
     },
     "Willow (1988)": {
@@ -4487,6 +4684,60 @@ var igMovieMap = {
             "Vicious mutants! Raw terror! Sheer nightgowns!",
             "America's favorite super hero is back in action!",
             "Why can't men be more like plants?"
+        ],
+        "supportingCast": [
+            {
+                "actor": "Louis Jourdan",
+                "name": "Anton Arcane",
+                "description": ""
+            },
+            {
+                "actor": "Heather Locklear",
+                "name": "Abby Arcane",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Douglas",
+                "name": "Dr. Lana Zurrell",
+                "description": ""
+            },
+            {
+                "actor": "Dick Durock",
+                "name": "Alex Holland / Swamp Thing",
+                "description": ""
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "voice of Gigi the Parrot",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Ace Mask",
+                "name": "Dr. Rochelle",
+                "description": ""
+            },
+            {
+                "actor": "Monique Gabrielle",
+                "name": "Miss Poinsettia",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Emery Taylor",
+                "name": "Darryl",
+                "description": ""
+            },
+            {
+                "actor": "Joey Sagal",
+                "name": "Gunn",
+                "description": ""
+            },
+            {
+                "actor": "RonReaco Lee",
+                "name": "Omar",
+                "description": ""
+            }
         ]
     },
     "Indiana Jones and the Last Crusade (1989)": {
@@ -4748,6 +4999,97 @@ var igMovieMap = {
             "This ain't no cartoon.",
             "Lean, green and on the screen everywhere.",
             "Hey dude, this is NO cartoon!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Judith Hoag",
+                "name": "April O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "Elias Koteas",
+                "name": "Casey Jones",
+                "description": ""
+            },
+            {
+                "actor": "Brian Tochi",
+                "name": "voice of Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Josh Pais",
+                "name": "voice of Raphael",
+                "description": ""
+            },
+            {
+                "actor": "Corey Feldman",
+                "name": "voice of Donatello",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Rist",
+                "name": "voice of Michelangelo",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jay Patterson",
+                "name": "Charles Pennington",
+                "description": "April's boss"
+            },
+            {
+                "actor": "Michael Turney",
+                "name": "Danny Pennington",
+                "description": ""
+            },
+            {
+                "actor": "Raymond Serra",
+                "name": "Sterns",
+                "description": ""
+            },
+            {
+                "actor": "James Saito",
+                "name": "Oroku Saki / the Shredder",
+                "description": ""
+            },
+            {
+                "actor": "Toshishiro Obata",
+                "name": "Master Tatsu",
+                "description": ""
+            },
+            {
+                "actor": "Sam Rockwell",
+                "name": "Head Thug",
+                "description": ""
+            },
+            {
+                "actor": "Skeet Ulrich",
+                "name": "Foot Clan member",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Clash",
+                "name": "voice of Splinter",
+                "description": ""
+            },
+            {
+                "actor": "David McCharen",
+                "name": "voice of Oroku Saki",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Scott Wolf",
+                "name": "Foot Clan member",
+                "description": ""
+            },
+            {
+                "actor": "Michael McConnohie",
+                "name": "voice of Master Tatsu",
+                "description": ""
+            }
         ]
     },
     "Back to the Future Part III (1990)": {
@@ -4910,7 +5252,7 @@ var igMovieMap = {
             {
                 "actor": "Dick Van Dyke",
                 "name": "District Attorney John Fletcher",
-                "description": "corrupt district attorney who refuses to prosecute Caprice as he is on Caprice's payroll"
+                "description": "corrupt district attorney who refuses to prosecute Caprice because he is on Caprice's payroll"
             },
             {
                 "actor": "Frank Campanella",
@@ -5664,6 +6006,102 @@ var igMovieMap = {
         "taglines": [
             "Cowabunga, it's the new turtle movie.",
             "Back by bodacious demand."
+        ],
+        "mainCast": [
+            {
+                "actor": "Paige Turco",
+                "name": "April O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "David Warner",
+                "name": "Professor Jordan Perry",
+                "description": ""
+            },
+            {
+                "actor": "Brian Tochi",
+                "name": "voice of Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Rist",
+                "name": "voice of Michelangelo",
+                "description": ""
+            },
+            {
+                "actor": "Adam Carl",
+                "name": "voice of Donatello",
+                "description": ""
+            },
+            {
+                "actor": "Laurie Faso",
+                "name": "voice of Raphael",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Ernie Reyes Jr.",
+                "name": "Keno",
+                "description": ""
+            },
+            {
+                "actor": "Fran\u00e7ois Chau",
+                "name": "Oroku Saki / the Shredder",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Nash",
+                "name": "Super Shredder",
+                "description": ""
+            },
+            {
+                "actor": "Toshishiro Obata",
+                "name": "Tatsu",
+                "description": ""
+            },
+            {
+                "actor": "Vanilla Ice",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Michael Jai White",
+                "name": "Audience Man that hangs out with Keno",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Clash",
+                "name": "voice of Splinter",
+                "description": ""
+            },
+            {
+                "actor": "David McCharen",
+                "name": "voice of Oroku Saki",
+                "description": ""
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "voice of Tokka / Rahzar",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Mark Doerr",
+                "name": "Freddy",
+                "description": ""
+            },
+            {
+                "actor": "Michael Pressman",
+                "name": "News Manager",
+                "description": ""
+            },
+            {
+                "actor": "Michael McConnohie",
+                "name": "voice of Tatsu",
+                "description": ""
+            }
         ]
     },
     "The Rocketeer (1991)": {
@@ -6176,6 +6614,82 @@ var igMovieMap = {
             "The Turtles Are Back....In Time",
             "They're Back in Time . . . for Their NEWEST MOVIE Adventure!",
             "Ancient Japan, 1593. Without a map. Without a clue. Without a pizza."
+        ],
+        "mainCast": [
+            {
+                "actor": "Paige Turco",
+                "name": "April O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "Elias Koteas",
+                "name": "Casey Jones / Whit",
+                "description": ""
+            },
+            {
+                "actor": "Brian Tochi",
+                "name": "voice of Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Corey Feldman",
+                "name": "voice of Donatello",
+                "description": ""
+            },
+            {
+                "actor": "Tim Kelleher",
+                "name": "voice of Raphael",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Rist",
+                "name": "voice of Michelangelo",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Stuart Wilson",
+                "name": "Walker",
+                "description": ""
+            },
+            {
+                "actor": "Sab Shimono",
+                "name": "Lord Norinaga",
+                "description": ""
+            },
+            {
+                "actor": "Vivian Wu",
+                "name": "Mitsu",
+                "description": ""
+            },
+            {
+                "actor": "Henry Hayashi",
+                "name": "Kenshin",
+                "description": ""
+            },
+            {
+                "actor": "James Murray",
+                "name": "voice of Splinter",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John Aylward",
+                "name": "Niles",
+                "description": ""
+            },
+            {
+                "actor": "Mak Takano",
+                "name": "Benkei",
+                "description": ""
+            },
+            {
+                "actor": "Travis A. Moon",
+                "name": "Yoshi",
+                "description": ""
+            }
         ]
     },
     "Jurassic Park (1993)": {
@@ -10069,7 +10583,7 @@ var igMovieMap = {
             {
                 "actor": "Ian Whyte",
                 "name": "The Predator / \"Scar\" / \"Chopper\" / \"Celtic / \"Elder\"",
-                "description": "one of the three main Predators who come to Earth to create and hunt Aliens within the pyramid as a rite of passage"
+                "description": "one of the three main Predators who come to Earth to create and hunt Aliens within the pyramid"
             }
         ],
         "minorCast": [
@@ -10688,6 +11202,97 @@ var igMovieMap = {
         "franchise": "TMNT",
         "taglines": [
             "Raising Shell In 2007"
+        ],
+        "mainCast": [
+            {
+                "actor": "James Arnold Taylor",
+                "name": "Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Nolan North",
+                "name": "Raphael",
+                "description": ""
+            },
+            {
+                "actor": "Mikey Kelley",
+                "name": "Michelangelo",
+                "description": ""
+            },
+            {
+                "actor": "Mitchell Whitfield",
+                "name": "Donatello",
+                "description": ""
+            },
+            {
+                "actor": "Chris Evans",
+                "name": "Casey Jones",
+                "description": ""
+            },
+            {
+                "actor": "Sarah Michelle Gellar",
+                "name": "April O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Stewart",
+                "name": "Max Winters",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Mako",
+                "name": "Splinter",
+                "description": ""
+            },
+            {
+                "actor": "Greg Baldwin",
+                "name": "Splinter",
+                "description": ""
+            },
+            {
+                "actor": "Zhang Ziyi",
+                "name": "Karai",
+                "description": ""
+            },
+            {
+                "actor": "Frank Welker",
+                "name": "General Mono",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Smith",
+                "name": "cook at diner",
+                "description": ""
+            },
+            {
+                "actor": "Laurence Fishburne",
+                "name": "narrator",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John DiMaggio",
+                "name": "Colonel Santino",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Michael Richardson",
+                "name": "General Aguila",
+                "description": ""
+            },
+            {
+                "actor": "Paula Mattioli",
+                "name": "General Serpiente",
+                "description": ""
+            },
+            {
+                "actor": "Fred Tatasciore",
+                "name": "General Gato",
+                "description": ""
+            }
         ]
     },
     "Spider-Man 3 (2007)": {
@@ -10922,7 +11527,7 @@ var igMovieMap = {
             {
                 "actor": "Megan Fox",
                 "name": "Mikaela Banes",
-                "description": "classmate of Sam who assists him in his mission by using skills she learned as a juvenile car thief from her convict father"
+                "description": "classmate of Sam who assists him in his mission by using skills she learned from her convict father"
             },
             {
                 "actor": "Tyrese Gibson",
@@ -14154,12 +14759,12 @@ var igMovieMap = {
             {
                 "actor": "Armie Hammer",
                 "name": "John Reid / Lone Ranger",
-                "description": "youthful, scrupulous lawyer later deputized a Texas Ranger, who protects his identity as a masked vigilante"
+                "description": "youthful, scrupulous lawyer later deputized a Texas Ranger, who protects his vigilante identity"
             },
             {
                 "actor": "Johnny Depp",
                 "name": "Tonto",
-                "description": "aged narrator of the events of his life as a Comanche who recruited John Reid to bring justice to those responsible for massacring his tribe during his childhood"
+                "description": "aged narrator of the events of his Comanche life who recruited John Reid to bring justice to those responsible for massacring his tribe during his childhood"
             },
             {
                 "actor": "William Fichtner",
@@ -15102,6 +15707,112 @@ var igMovieMap = {
             "Mysterious. Dangerous. Reptilious. You've never seen heroes like this.",
             "Meet the new face of justice.",
             "Brothers become legends."
+        ],
+        "mainCast": [
+            {
+                "actor": "Pete Ploszek",
+                "name": "Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Johnny Knoxville",
+                "name": "voice of Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Howard",
+                "name": "Donatello",
+                "description": ""
+            },
+            {
+                "actor": "Alan Ritchson",
+                "name": "Raphael",
+                "description": ""
+            },
+            {
+                "actor": "Noel Fisher",
+                "name": "Michelangelo",
+                "description": ""
+            },
+            {
+                "actor": "Megan Fox",
+                "name": "April O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "Will Arnett",
+                "name": "Vern Fenwick",
+                "description": ""
+            },
+            {
+                "actor": "William Fichtner",
+                "name": "Eric Sacks",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Danny Woodburn",
+                "name": "Splinter",
+                "description": ""
+            },
+            {
+                "actor": "Tony Shalhoub",
+                "name": "voice of Splinter",
+                "description": ""
+            },
+            {
+                "actor": "Tohoru Masamune",
+                "name": "the Shredder",
+                "description": ""
+            },
+            {
+                "actor": "Whoopi Goldberg",
+                "name": "Bernadette Thompson",
+                "description": ""
+            },
+            {
+                "actor": "Minae Noji",
+                "name": "Karai",
+                "description": ""
+            },
+            {
+                "actor": "Abby Elliott",
+                "name": "Taylor",
+                "description": ""
+            },
+            {
+                "actor": "Taran Killam",
+                "name": "Jim McNaughton",
+                "description": ""
+            },
+            {
+                "actor": "K. Todd Freeman",
+                "name": "Dr. Baxter Stockman",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Eastman",
+                "name": "himself",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Paul Fitzgerald",
+                "name": "Dr. O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "Chance Kelly",
+                "name": "Mr. Rivetti",
+                "description": ""
+            },
+            {
+                "actor": "Derek Mears",
+                "name": "Dojo Ninja",
+                "description": ""
+            }
         ]
     },
     "Sin City: A Dame to Kill For (2014)": {
@@ -15447,7 +16158,7 @@ var igMovieMap = {
             {
                 "actor": "Vincent D'Onofrio",
                 "name": "Vic Hoskins",
-                "description": "head of InGen's security operations, who wants to use the Velociraptors as military animals"
+                "description": "head of InGen's security operations, who wants Velociraptors in the military"
             },
             {
                 "actor": "Ty Simpkins",
@@ -15858,6 +16569,152 @@ var igMovieMap = {
             "Raise some shell.",
             "Only one team can defend us all.",
             "Brawl with Bebop. Run with Rocksteady."
+        ],
+        "mainCast": [
+            {
+                "actor": "Pete Ploszek",
+                "name": "Leonardo",
+                "description": ""
+            },
+            {
+                "actor": "Alan Ritchson",
+                "name": "Raphael",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Howard",
+                "name": "Donatello",
+                "description": ""
+            },
+            {
+                "actor": "Noel Fisher",
+                "name": "Michelangelo",
+                "description": ""
+            },
+            {
+                "actor": "Megan Fox",
+                "name": "April O'Neil",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Amell",
+                "name": "Casey Jones",
+                "description": ""
+            },
+            {
+                "actor": "Will Arnett",
+                "name": "Vern \"The Falcon\" Fenwick",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Peter D. Badalamenti",
+                "name": "Splinter",
+                "description": ""
+            },
+            {
+                "actor": "Tony Shalhoub",
+                "name": "voice of Splinter",
+                "description": ""
+            },
+            {
+                "actor": "Gary Anthony Williams",
+                "name": "Bebop",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Farrelly",
+                "name": "Rocksteady",
+                "description": ""
+            },
+            {
+                "actor": "Brad Garrett",
+                "name": "Krang",
+                "description": ""
+            },
+            {
+                "actor": "Laura Linney",
+                "name": "Police Chief Rebecca Vincent",
+                "description": ""
+            },
+            {
+                "actor": "Brian Tee",
+                "name": "the Shredder",
+                "description": ""
+            },
+            {
+                "actor": "Tyler Perry",
+                "name": "Dr. Baxter Stockman",
+                "description": ""
+            },
+            {
+                "actor": "Brittany Ishibashi",
+                "name": "Karai",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Eastman",
+                "name": "pizza delivery man",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Dean Winters",
+                "name": "bartender",
+                "description": ""
+            },
+            {
+                "actor": "Alessandra Ambrosio",
+                "name": "herself",
+                "description": ""
+            },
+            {
+                "actor": "Carmelo Anthony",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "DeAndre Jordan",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Lou Amundson",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "JJ Redick",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Astin Rivers",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Matt Barnes",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Spencer Hawes",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Jill Martin",
+                "name": "herself",
+                "description": ""
+            },
+            {
+                "actor": "Jane Wu",
+                "name": "Jade",
+                "description": "police officer"
+            }
         ]
     },
     "Star Trek Beyond (2016)": {
