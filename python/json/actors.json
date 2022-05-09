@@ -693,7 +693,8 @@
     },
     "Anthony Mackie": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Anthony Michael Hall": {
@@ -743,6 +744,11 @@
                 "movie": "West Side Story",
                 "year": "2021"
             }
+        ]
+    },
+    "Ariana Greenblatt": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Ariana Richards": {
@@ -938,11 +944,15 @@
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Benedict Wong": {
         "movies": [
-            "Moon (2009)"
+            "Moon (2009)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Benicio del Toro": {
@@ -955,6 +965,9 @@
                 "movie": "21 Grams",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Bette Davis": {
@@ -1107,6 +1120,11 @@
             "Promising Young Woman (2020)"
         ]
     },
+    "Bob Balaban": {
+        "movies": [
+            "Ghost World (2001)"
+        ]
+    },
     "Bob Gunton": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
@@ -1167,6 +1185,11 @@
             }
         ]
     },
+    "Brad Renfro": {
+        "movies": [
+            "Ghost World (2001)"
+        ]
+    },
     "Bradley Cooper": {
         "leadNoms": [
             {
@@ -1190,7 +1213,8 @@
         ],
         "movies": [
             "Valentine's Day (2010)",
-            "10 Cloverfield Lane (2016)"
+            "10 Cloverfield Lane (2016)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Brandon Routh": {
@@ -1307,6 +1331,11 @@
         ],
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Bruce Glover": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Bruce McGill": {
@@ -1428,6 +1457,7 @@
     },
     "Carrie Coon": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -1559,6 +1589,9 @@
                 "movie": "Ma Rainey's Black Bottom",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Channing Tatum": {
@@ -1678,12 +1711,15 @@
     },
     "Chris Evans": {
         "movies": [
+            "The Losers (2010)",
             "Scott Pilgrim vs. the World (2010)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Chris Hemsworth": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Men in Black: International (2019)"
         ]
     },
@@ -1699,7 +1735,8 @@
     },
     "Chris Pratt": {
         "movies": [
-            "Take Me Home Tonight (2011)"
+            "Take Me Home Tonight (2011)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Christian Bale": {
@@ -1867,6 +1904,7 @@
     },
     "Cobie Smulders": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -1894,6 +1932,11 @@
         "movies": [
             "Shakespeare in Love (1998)",
             "Love Actually (2003)"
+        ]
+    },
+    "Columbus Short": {
+        "movies": [
+            "The Losers (2010)"
         ]
     },
     "Conan O'Brien": {
@@ -1980,6 +2023,11 @@
             "Horton Hears a Who! (2008)",
             "Kung Fu Panda (2008)",
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Danai Gurira": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Dane Cook": {
@@ -2078,6 +2126,11 @@
             "John Carter (2012)"
         ]
     },
+    "Dave Bautista": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Dave Filoni": {
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
@@ -2101,6 +2154,7 @@
     "David Cross": {
         "movies": [
             "Men in Black (1997)",
+            "Ghost World (2001)",
             "Men in Black II (2002)",
             "Kung Fu Panda (2008)"
         ]
@@ -2474,6 +2528,9 @@
                 "movie": "Hotel Rwanda",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Don Lee": {
@@ -2683,6 +2740,11 @@
     "Elizabeth Banks": {
         "movies": [
             "Power Rangers (2017)"
+        ]
+    },
+    "Elizabeth Olsen": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Elizabeth Taylor": {
@@ -2914,7 +2976,8 @@
     },
     "Eva Mendes": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "The Spirit (2008)"
         ]
     },
     "Evan Rachel Wood": {
@@ -3040,6 +3103,11 @@
             }
         ]
     },
+    "Frank Miller": {
+        "movies": [
+            "The Spirit (2008)"
+        ]
+    },
     "Frank Oz": {
         "movies": [
             "The Empire Strikes Back (1980)",
@@ -3074,6 +3142,11 @@
                 "movie": "Precious: Based on the Novel 'Push' by Sapphire",
                 "year": "2009"
             }
+        ]
+    },
+    "Gabriel Macht": {
+        "movies": [
+            "The Spirit (2008)"
         ]
     },
     "Garrett Morris": {
@@ -3426,7 +3499,8 @@
             }
         ],
         "movies": [
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "G\u00e9rard Depardieu": {
@@ -3735,6 +3809,12 @@
             "Rent (2005)"
         ]
     },
+    "Idris Elba": {
+        "movies": [
+            "The Losers (2010)",
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Imelda Staunton": {
         "leadNoms": [
             {
@@ -4011,12 +4091,18 @@
     },
     "Jacob Batalon": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
     "Jada Pinkett Smith": {
         "movies": [
             "Girls Trip (2017)"
+        ]
+    },
+    "Jaime King": {
+        "movies": [
+            "The Spirit (2008)"
         ]
     },
     "Jaime Pressly": {
@@ -4297,6 +4383,11 @@
             "Conan the Barbarian (2011)"
         ]
     },
+    "Jason Patric": {
+        "movies": [
+            "The Losers (2010)"
+        ]
+    },
     "Jason Schwartzman": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
@@ -4416,6 +4507,11 @@
     "Jeffrey Combs": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)"
+        ]
+    },
+    "Jeffrey Dean Morgan": {
+        "movies": [
+            "The Losers (2010)"
         ]
     },
     "Jeffrey Jones": {
@@ -5068,6 +5164,7 @@
     },
     "Johnny Simmons": {
         "movies": [
+            "The Spirit (2008)",
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
@@ -5174,7 +5271,8 @@
             }
         ],
         "movies": [
-            "Men in Black 3 (2012)"
+            "Men in Black 3 (2012)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Josh Gad": {
@@ -5439,6 +5537,11 @@
     "Karel Roden": {
         "movies": [
             "Hellboy (2004)"
+        ]
+    },
+    "Karen Gillan": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Karl Urban": {
@@ -5714,6 +5817,9 @@
                 "movie": "My Week with Marilyn",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Kenneth McMillan": {
@@ -5726,6 +5832,11 @@
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)"
+        ]
+    },
+    "Kerry Condon": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Kevin Bacon": {
@@ -6110,7 +6221,8 @@
     },
     "Letitia Wright": {
         "movies": [
-            "Ready Player One (2018)"
+            "Ready Player One (2018)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Lia McHugh": {
@@ -6499,6 +6611,9 @@
                 "movie": "Spotlight",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Mark Rylance": {
@@ -7732,6 +7847,11 @@
             "Space Jam (1996)"
         ]
     },
+    "Patrick Fischler": {
+        "movies": [
+            "Ghost World (2001)"
+        ]
+    },
     "Patrick Fugit": {
         "movies": [
             "Almost Famous (2000)"
@@ -7750,6 +7870,11 @@
     "Patton Oswalt": {
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Paul Bettany": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Paul Dano": {
@@ -7878,6 +8003,11 @@
             }
         ]
     },
+    "Paz Vega": {
+        "movies": [
+            "The Spirit (2008)"
+        ]
+    },
     "Pen\u00e9lope Cruz": {
         "leadNoms": [
             {
@@ -7934,7 +8064,8 @@
     },
     "Peter Dinklage": {
         "movies": [
-            "The Chronicles of Narnia: Prince Caspian (2008)"
+            "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Peter Fonda": {
@@ -8044,6 +8175,11 @@
     "Piper Laurie": {
         "movies": [
             "Carrie (1976)"
+        ]
+    },
+    "Pom Klementieff": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Queen Latifah": {
@@ -8449,6 +8585,9 @@
                 "movie": "Tropic Thunder",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Robert Duvall": {
@@ -8659,6 +8798,11 @@
     "Ross Butler": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ross Marquand": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Rowan Atkinson": {
@@ -8913,8 +9057,10 @@
         ],
         "movies": [
             "Jurassic Park (1993)",
+            "The Spirit (2008)",
             "RoboCop (2014)",
             "The Hateful Eight (2015)",
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -8972,6 +9118,11 @@
             "Cruel Intentions (1999)"
         ]
     },
+    "Sarah Paulson": {
+        "movies": [
+            "The Spirit (2008)"
+        ]
+    },
     "Sarah Silverman": {
         "movies": [
             "Rent (2005)"
@@ -9006,6 +9157,9 @@
             }
         ],
         "movies": [
+            "Ghost World (2001)",
+            "The Spirit (2008)",
+            "Avengers: Infinity War (2018)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -9023,6 +9177,11 @@
         ],
         "movies": [
             "The League of Extraordinary Gentlemen (2003)"
+        ]
+    },
+    "Sean Gunn": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Sean Patrick Thomas": {
@@ -9062,7 +9221,8 @@
     },
     "Sebastian Stan": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Sela Ward": {
@@ -9340,7 +9500,8 @@
     },
     "Stan Lee": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Stanley Holloway": {
@@ -9379,6 +9540,11 @@
             "Conan the Barbarian (2011)"
         ]
     },
+    "Stephen McFeely": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Stephen Merchant": {
         "movies": [
             "Jojo Rabbit (2019)"
@@ -9395,6 +9561,11 @@
     "Sterling Hayden": {
         "movies": [
             "9 to 5 (1980)"
+        ]
+    },
+    "Steve Buscemi": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Steve Carell": {
@@ -9592,6 +9763,11 @@
             "Take Me Home Tonight (2011)"
         ]
     },
+    "Teri Garr": {
+        "movies": [
+            "Ghost World (2001)"
+        ]
+    },
     "Terrence Howard": {
         "leadNoms": [
             {
@@ -9606,6 +9782,11 @@
     "Terry Gilliam": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Terry Notary": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Terry O'Quinn": {
@@ -9648,6 +9829,11 @@
     "Thomasin McKenzie": {
         "movies": [
             "Jojo Rabbit (2019)"
+        ]
+    },
+    "Thora Birch": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Tiffany Haddish": {
@@ -9815,9 +10001,15 @@
             "Locke (2014)"
         ]
     },
+    "Tom Hiddleston": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Tom Holland": {
         "movies": [
             "Locke (2014)",
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -10083,6 +10275,7 @@
     "Vin Diesel": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "Avengers: Infinity War (2018)",
             "Bloodshot (2020)"
         ]
     },
@@ -10311,6 +10504,9 @@
                 "movie": "A History of Violence",
                 "year": "2005"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "William Moseley": {
@@ -10349,6 +10545,11 @@
                 "movie": "The Age of Innocence",
                 "year": "1993"
             }
+        ]
+    },
+    "Winston Duke": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Wood Harris": {
@@ -10432,7 +10633,9 @@
     },
     "Zoe Saldana": {
         "movies": [
-            "Pirates of the Caribbean: The Curse of the Black Pearl (2003)"
+            "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "The Losers (2010)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Zooey Deschanel": {

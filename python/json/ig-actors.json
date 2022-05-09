@@ -463,7 +463,8 @@
     "Anthony Mackie": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -493,6 +494,13 @@
             "Zorro": [
                 "The Mask of Zorro (1998)",
                 "The Legend of Zorro (2005)"
+            ]
+        }
+    },
+    "Ariana Greenblatt": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -643,10 +651,27 @@
             ]
         }
     },
+    "Benedict Cumberbatch": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Benedict Wong": {
         "movies": {
             "Alien": [
                 "Prometheus (2012)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
+    "Benicio del Toro": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -791,6 +816,13 @@
             ]
         }
     },
+    "Bob Balaban": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ]
+        }
+    },
     "Bob Peck": {
         "movies": {
             "Jurassic Park": [
@@ -840,10 +872,24 @@
             ]
         }
     },
+    "Brad Renfro": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ]
+        }
+    },
     "Bradford Dillman": {
         "movies": {
             "Planet of the Apes": [
                 "Escape from the Planet of the Apes (1971)"
+            ]
+        }
+    },
+    "Bradley Cooper": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -949,6 +995,13 @@
         "movies": {
             "Darkman (1990)": [
                 "Darkman (1990)"
+            ]
+        }
+    },
+    "Bruce Glover": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
             ]
         }
     },
@@ -1089,6 +1142,13 @@
             ]
         }
     },
+    "Carrie Coon": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Carrie Fisher": {
         "movies": {
             "Star Wars": [
@@ -1189,6 +1249,13 @@
             ]
         }
     },
+    "Chadwick Boseman": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Charles Dance": {
         "movies": {
             "Alien": [
@@ -1281,13 +1348,22 @@
     },
     "Chris Evans": {
         "movies": {
+            "DC": [
+                "The Losers (2010)"
+            ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
     "Chris Hemsworth": {
         "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ],
             "Men in Black": [
                 "Men in Black: International (2019)"
             ]
@@ -1305,6 +1381,9 @@
             "Jurassic Park": [
                 "Jurassic World (2015)",
                 "Jurassic World: Fallen Kingdom (2018)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -1433,6 +1512,7 @@
     "Cobie Smulders": {
         "movies": {
             "MCU": [
+                "Avengers: Infinity War (2018)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -1463,6 +1543,13 @@
             "Matrix": [
                 "The Matrix Reloaded (2003)",
                 "The Matrix Revolutions (2003)"
+            ]
+        }
+    },
+    "Columbus Short": {
+        "movies": {
+            "DC": [
+                "The Losers (2010)"
             ]
         }
     },
@@ -1585,10 +1672,24 @@
             ]
         }
     },
+    "Dan Lauria": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ]
+        }
+    },
     "Dan O'Herlihy": {
         "movies": {
             "RoboCop": [
                 "RoboCop 2 (1990)"
+            ]
+        }
+    },
+    "Danai Gurira": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -1679,6 +1780,13 @@
             ]
         }
     },
+    "Dave Bautista": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "David Andrews": {
         "movies": {
             "Terminator": [
@@ -1713,6 +1821,9 @@
             "Men in Black": [
                 "Men in Black (1997)",
                 "Men in Black II (2002)"
+            ],
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
             ]
         }
     },
@@ -2019,6 +2130,13 @@
             ]
         }
     },
+    "Don Cheadle": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Don Fellows": {
         "movies": {
             "Indiana Jones": [
@@ -2184,6 +2302,13 @@
             ]
         }
     },
+    "Elizabeth Olsen": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Elpidia Carrillo": {
         "movies": {
             "Predator": [
@@ -2256,6 +2381,13 @@
             ]
         }
     },
+    "Eva Mendes": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ]
+        }
+    },
     "Evan Rachel Wood": {
         "movies": {
             "Strange Magic (2015)": [
@@ -2311,6 +2443,13 @@
             ]
         }
     },
+    "Florence Kasumba": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Forest Whitaker": {
         "movies": {
             "Star Wars": [
@@ -2360,6 +2499,9 @@
         "movies": {
             "RoboCop": [
                 "RoboCop 2 (1990)"
+            ],
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
             ]
         }
     },
@@ -2434,6 +2576,13 @@
         "movies": {
             "Terminator": [
                 "Terminator: Dark Fate (2019)"
+            ]
+        }
+    },
+    "Gabriel Macht": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
             ]
         }
     },
@@ -2749,6 +2898,13 @@
             ]
         }
     },
+    "Gwyneth Paltrow": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Hailee Steinfeld": {
         "movies": {
             "Transformers": [
@@ -2935,6 +3091,9 @@
         "movies": {
             "Alien": [
                 "Alien 3 (1992)"
+            ],
+            "DC": [
+                "The Losers (2010)"
             ]
         }
     },
@@ -3032,8 +3191,14 @@
     },
     "Idris Elba": {
         "movies": {
+            "DC": [
+                "The Losers (2010)"
+            ],
             "Alien": [
                 "Prometheus (2012)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -3048,6 +3213,13 @@
         "movies": {
             "Indiana Jones": [
                 "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
+            ]
+        }
+    },
+    "Illeana Douglas": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
             ]
         }
     },
@@ -3187,6 +3359,7 @@
     "Jacob Batalon": {
         "movies": {
             "MCU": [
+                "Avengers: Infinity War (2018)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -3211,6 +3384,13 @@
         "movies": {
             "Terminator": [
                 "Terminator Genisys (2015)"
+            ]
+        }
+    },
+    "Jaime King": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
             ]
         }
     },
@@ -3470,6 +3650,13 @@
             ]
         }
     },
+    "Jason Patric": {
+        "movies": {
+            "DC": [
+                "The Losers (2010)"
+            ]
+        }
+    },
     "Jason Scott Lee": {
         "movies": {
             "Back to the Future": [
@@ -3532,6 +3719,13 @@
                 "Jurassic Park (1993)",
                 "The Lost World: Jurassic Park (1997)",
                 "Jurassic World: Fallen Kingdom (2018)"
+            ]
+        }
+    },
+    "Jeffrey Dean Morgan": {
+        "movies": {
+            "DC": [
+                "The Losers (2010)"
             ]
         }
     },
@@ -4001,6 +4195,13 @@
             ]
         }
     },
+    "Johnny Simmons": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ]
+        }
+    },
     "Johnny Yong Bosch": {
         "movies": {
             "Power Rangers": [
@@ -4121,6 +4322,9 @@
         "movies": {
             "Men in Black": [
                 "Men in Black 3 (2012)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -4290,6 +4494,13 @@
             ]
         }
     },
+    "Karen Gillan": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Karin Konoval": {
         "movies": {
             "Planet of the Apes": [
@@ -4439,6 +4650,13 @@
             ]
         }
     },
+    "Kenneth Branagh": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Kenneth Colley": {
         "movies": {
             "Star Wars": [
@@ -4487,6 +4705,13 @@
         "movies": {
             "Power Rangers": [
                 "Mighty Morphin Power Rangers: The Movie (1995)"
+            ]
+        }
+    },
+    "Kerry Condon": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -4850,6 +5075,9 @@
         "movies": {
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -5204,6 +5432,13 @@
             ],
             "RoboCop": [
                 "RoboCop 2 (1990)"
+            ]
+        }
+    },
+    "Mark Ruffalo": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -5625,6 +5860,13 @@
         "movies": {
             "Spawn (1997)": [
                 "Spawn (1997)"
+            ]
+        }
+    },
+    "Michael James Shaw": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -6171,6 +6413,13 @@
             ]
         }
     },
+    "Pat Healy": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ]
+        }
+    },
     "Pat Roach": {
         "movies": {
             "Indiana Jones": [
@@ -6203,6 +6452,13 @@
             ]
         }
     },
+    "Patrick Fischler": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ]
+        }
+    },
     "Patrick McGoohan": {
         "movies": {
             "The Phantom (1996)": [
@@ -6221,6 +6477,13 @@
         "movies": {
             "Alien": [
                 "Prometheus (2012)"
+            ]
+        }
+    },
+    "Paul Bettany": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -6339,6 +6602,13 @@
             ]
         }
     },
+    "Paz Vega": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ]
+        }
+    },
     "Pedro Armend\u00e1riz, Jr.": {
         "movies": {
             "Zorro": [
@@ -6440,6 +6710,9 @@
         "movies": {
             "Narnia": [
                 "The Chronicles of Narnia: Prince Caspian (2008)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -6544,6 +6817,13 @@
         "movies": {
             "John Carter (2012)": [
                 "John Carter (2012)"
+            ]
+        }
+    },
+    "Pom Klementieff": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -6992,6 +7272,13 @@
             ]
         }
     },
+    "Robert Downey Jr.": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Robert Eddison": {
         "movies": {
             "Indiana Jones": [
@@ -7180,6 +7467,13 @@
             ]
         }
     },
+    "Ross Marquand": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Roy Chiao": {
         "movies": {
             "Indiana Jones": [
@@ -7343,10 +7637,14 @@
             "Jurassic Park": [
                 "Jurassic Park (1993)"
             ],
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ],
             "RoboCop": [
                 "RoboCop (2014)"
             ],
             "MCU": [
+                "Avengers: Infinity War (2018)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -7392,6 +7690,13 @@
             ]
         }
     },
+    "Sarah Paulson": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ]
+        }
+    },
     "Sasha Lane": {
         "movies": {
             "Hellboy": [
@@ -7403,6 +7708,19 @@
         "movies": {
             "Conan": [
                 "Conan the Barbarian (2011)"
+            ]
+        }
+    },
+    "Scarlett Johansson": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ],
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -7444,6 +7762,13 @@
             ]
         }
     },
+    "Sean Gunn": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Sean Harris": {
         "movies": {
             "Alien": [
@@ -7455,6 +7780,13 @@
         "movies": {
             "Star Wars": [
                 "Return of the Jedi (1983)"
+            ]
+        }
+    },
+    "Sebastian Stan": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -7485,6 +7817,13 @@
             "Planet of the Apes": [
                 "Conquest of the Planet of the Apes (1972)",
                 "Battle for the Planet of the Apes (1973)"
+            ]
+        }
+    },
+    "Seychelle Gabriel": {
+        "movies": {
+            "The Spirit (2008)": [
+                "The Spirit (2008)"
             ]
         }
     },
@@ -7623,6 +7962,13 @@
             ]
         }
     },
+    "Stacey Travis": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ]
+        }
+    },
     "Stacy Linn Ramsower": {
         "movies": {
             "Tank Girl (1995)": [
@@ -7634,13 +7980,6 @@
         "movies": {
             "Batman": [
                 "Batman (1966)"
-            ]
-        }
-    },
-    "Stan Lee": {
-        "movies": {
-            "MCU": [
-                "Ant-Man (2015)"
             ]
         }
     },
@@ -7685,6 +8024,13 @@
             ]
         }
     },
+    "Stephen McFeely": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Stephen Root": {
         "movies": {
             "RoboCop": [
@@ -7718,6 +8064,9 @@
     },
     "Steve Buscemi": {
         "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ],
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
             ]
@@ -7868,6 +8217,13 @@
             ]
         }
     },
+    "Teri Garr": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
+            ]
+        }
+    },
     "Terry Norris": {
         "movies": {
             "Narnia": [
@@ -7881,6 +8237,9 @@
                 "Rise of the Planet of the Apes (2011)",
                 "Dawn of the Planet of the Apes (2014)",
                 "War for the Planet of the Apes (2017)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -7949,6 +8308,13 @@
         "movies": {
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ]
+        }
+    },
+    "Thora Birch": {
+        "movies": {
+            "Ghost World (2001)": [
+                "Ghost World (2001)"
             ]
         }
     },
@@ -8113,9 +8479,17 @@
             ]
         }
     },
+    "Tom Hiddleston": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "Tom Holland": {
         "movies": {
             "MCU": [
+                "Avengers: Infinity War (2018)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -8158,6 +8532,13 @@
         "movies": {
             "Alien": [
                 "Alien (1979)"
+            ]
+        }
+    },
+    "Tom Vaughan-Lawlor": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -8393,6 +8774,9 @@
     },
     "Vin Diesel": {
         "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ],
             "Bloodshot (2020)": [
                 "Bloodshot (2020)"
             ]
@@ -8551,6 +8935,13 @@
             ]
         }
     },
+    "William Hurt": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
     "William Moseley": {
         "movies": {
             "Narnia": [
@@ -8607,6 +8998,13 @@
         "movies": {
             "Alien": [
                 "Alien Resurrection (1997)"
+            ]
+        }
+    },
+    "Winston Duke": {
+        "movies": {
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -8680,6 +9078,12 @@
         "movies": {
             "Pirates": [
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)"
+            ],
+            "DC": [
+                "The Losers (2010)"
+            ],
+            "MCU": [
+                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -8713,6 +9117,9 @@
     },
     "\u00d3scar Jaenada": {
         "movies": {
+            "DC": [
+                "The Losers (2010)"
+            ],
             "Pirates": [
                 "Pirates of the Caribbean: On Stranger Tides (2011)"
             ]
