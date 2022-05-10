@@ -27,6 +27,13 @@ var igActorMap = {
             ]
         }
     },
+    "Abe Vigoda": {
+        "movies": {
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
+            ]
+        }
+    },
     "Abigail Spencer": {
         "movies": {
             "Cowboys & Aliens (2011)": [
@@ -97,6 +104,13 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ]
+        }
+    },
+    "Aidan Quinn": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
             ]
         }
     },
@@ -300,6 +314,13 @@ var igActorMap = {
             ]
         }
     },
+    "Amy Yasbeck": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ]
+        }
+    },
     "Ana de la Reguera": {
         "movies": {
             "Cowboys & Aliens (2011)": [
@@ -318,6 +339,13 @@ var igActorMap = {
         "movies": {
             "Oblivion (2013)": [
                 "Oblivion (2013)"
+            ]
+        }
+    },
+    "Andrew Bryniarski": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -355,6 +383,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Bumblebee (2018)"
+            ]
+        }
+    },
+    "Angelina Jolie": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -583,6 +618,13 @@ var igActorMap = {
             ]
         }
     },
+    "Artie Lange": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "August Schellenberg": {
         "movies": {
             "Heavy Metal": [
@@ -618,6 +660,13 @@ var igActorMap = {
             "Power Rangers": [
                 "Mighty Morphin Power Rangers: The Movie (1995)",
                 "Turbo: A Power Rangers Movie (1997)"
+            ]
+        }
+    },
+    "Barry Keoghan": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -670,6 +719,20 @@ var igActorMap = {
             ],
             "MCU": [
                 "Spider-Man: Far From Home (2019)"
+            ]
+        }
+    },
+    "Ben Stein": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ]
+        }
+    },
+    "Ben Stiller": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ]
         }
     },
@@ -770,6 +833,13 @@ var igActorMap = {
             ]
         }
     },
+    "Bill Skarsg\u00e5rd": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "Bill Smitrovich": {
         "movies": {
             "The Phantom (1996)": [
@@ -810,6 +880,9 @@ var igActorMap = {
             "Star Wars": [
                 "The Empire Strikes Back (1980)",
                 "Return of the Jedi (1983)"
+            ],
+            "Batman": [
+                "Batman (1989)"
             ]
         }
     },
@@ -828,6 +901,13 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "Jurassic Park III (2001)"
+            ]
+        }
+    },
+    "Blake Clark": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
             ]
         }
     },
@@ -1011,6 +1091,13 @@ var igActorMap = {
             ]
         }
     },
+    "Brian Tyree Henry": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "Brigitte Nielsen": {
         "movies": {
             "Red Sonja (1985)": [
@@ -1022,6 +1109,14 @@ var igActorMap = {
         "movies": {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Brock Peters": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -1152,6 +1247,13 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien: Covenant (2017)"
+            ]
+        }
+    },
+    "Cameron Diaz": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
             ]
         }
     },
@@ -1495,6 +1597,13 @@ var igActorMap = {
             ]
         }
     },
+    "Christopher Plummer": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek VI: The Undiscovered Country (1991)"
+            ]
+        }
+    },
     "Christopher Reeve": {
         "movies": {
             "Superman": [
@@ -1502,6 +1611,13 @@ var igActorMap = {
                 "Superman II (1981)",
                 "Superman III (1983)",
                 "Superman IV: The Quest for Peace (1987)"
+            ]
+        }
+    },
+    "Christopher Walken": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -1530,6 +1646,13 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator 3: Rise of the Machines (2003)"
+            ]
+        }
+    },
+    "Claire Forlani": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ]
         }
     },
@@ -1753,10 +1876,24 @@ var igActorMap = {
             ]
         }
     },
+    "Dana Delany": {
+        "movies": {
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
+            ]
+        }
+    },
     "Danai Gurira": {
         "movies": {
             "MCU": [
                 "Avengers: Infinity War (2018)"
+            ]
+        }
+    },
+    "Dane Cook": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ]
         }
     },
@@ -1802,6 +1939,13 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "Jurassic World: Fallen Kingdom (2018)"
+            ]
+        }
+    },
+    "Danny DeVito": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -1943,6 +2087,13 @@ var igActorMap = {
             ]
         }
     },
+    "David Kaye": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "David McCharen": {
         "movies": {
             "TMNT": [
@@ -2036,8 +2187,15 @@ var igActorMap = {
     },
     "David Warner": {
         "movies": {
+            "Star Trek": [
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
+            ],
             "TMNT": [
                 "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            ],
+            "Planet of the Apes": [
+                "Planet of the Apes (2001)"
             ]
         }
     },
@@ -2082,7 +2240,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -2172,6 +2332,13 @@ var igActorMap = {
             ]
         }
     },
+    "Dick Miller": {
+        "movies": {
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
+            ]
+        }
+    },
     "Dick Van Dyke": {
         "movies": {
             "Dick Tracy (1990)": [
@@ -2245,6 +2412,13 @@ var igActorMap = {
             ]
         }
     },
+    "Don Lee": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "Don Murray": {
         "movies": {
             "Planet of the Apes": [
@@ -2275,8 +2449,14 @@ var igActorMap = {
     },
     "Doug Jones": {
         "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
+            ],
             "Tank Girl (1995)": [
                 "Tank Girl (1995)"
+            ],
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ],
             "Men in Black": [
                 "Men in Black II (2002)"
@@ -2347,6 +2527,9 @@ var igActorMap = {
     },
     "Eddie Izzard": {
         "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ],
             "Narnia": [
                 "The Chronicles of Narnia: Prince Caspian (2008)"
             ]
@@ -2357,6 +2540,13 @@ var igActorMap = {
             "Terminator": [
                 "Terminator 2: Judgment Day (1991)",
                 "Terminator: Dark Fate (2019)"
+            ]
+        }
+    },
+    "Efrem Zimbalist Jr.": {
+        "movies": {
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
             ]
         }
     },
@@ -2727,6 +2917,9 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)"
+            ],
+            "Batman": [
+                "Batman (1989)"
             ]
         }
     },
@@ -2789,6 +2982,9 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
+            ],
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -2817,6 +3013,9 @@ var igActorMap = {
     },
     "Geoffrey Rush": {
         "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ],
             "Pirates": [
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
@@ -2846,7 +3045,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -3014,6 +3215,13 @@ var igActorMap = {
             ]
         }
     },
+    "Greg Kinnear": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "Gregg Turkington": {
         "movies": {
             "MCU": [
@@ -3045,6 +3253,13 @@ var igActorMap = {
             ]
         }
     },
+    "Haaz Sleiman": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "Hailee Steinfeld": {
         "movies": {
             "Transformers": [
@@ -3059,6 +3274,13 @@ var igActorMap = {
             ]
         }
     },
+    "Hank Azaria": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "Hannah John-Kamen": {
         "movies": {
             "Ready Player One (2018)": [
@@ -3070,6 +3292,13 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Conquest of the Planet of the Apes (1972)"
+            ]
+        }
+    },
+    "Harish Patel": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -3128,6 +3357,13 @@ var igActorMap = {
             ]
         }
     },
+    "Harry Styles": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "Harry Treadaway": {
         "movies": {
             "The Lone Ranger (2013)": [
@@ -3147,6 +3383,9 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Supergirl (1984)"
+            ],
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
             ]
         }
     },
@@ -3377,6 +3616,13 @@ var igActorMap = {
             ]
         }
     },
+    "Iman": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek VI: The Undiscovered Country (1991)"
+            ]
+        }
+    },
     "Ingrid Bols\u00f8 Berdal": {
         "movies": {
             "Hercules (2014)": [
@@ -3473,6 +3719,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jack Nicholson": {
+        "movies": {
+            "Batman": [
+                "Batman (1989)"
+            ]
+        }
+    },
     "Jack Noseworthy": {
         "movies": {
             "Surrogates (2009)": [
@@ -3484,6 +3737,13 @@ var igActorMap = {
         "movies": {
             "Superman": [
                 "Superman II (1981)"
+            ]
+        }
+    },
+    "Jack Palance": {
+        "movies": {
+            "Batman": [
+                "Batman (1989)"
             ]
         }
     },
@@ -3628,7 +3888,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -3776,6 +4038,13 @@ var igActorMap = {
             ]
         }
     },
+    "Janeane Garofalo": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "Jason Clarke": {
         "movies": {
             "Planet of the Apes": [
@@ -3916,7 +4185,8 @@ var igActorMap = {
     "Jeffrey Dean Morgan": {
         "movies": {
             "DC": [
-                "The Losers (2010)"
+                "The Losers (2010)",
+                "Jonah Hex (2010)"
             ]
         }
     },
@@ -3965,6 +4235,13 @@ var igActorMap = {
             ],
             "Terminator": [
                 "Terminator 2: Judgment Day (1991)"
+            ]
+        }
+    },
+    "Jenifer Lewis": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ]
         }
     },
@@ -4073,10 +4350,24 @@ var igActorMap = {
             ]
         }
     },
+    "Jim Carrey": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ]
+        }
+    },
     "Jim Carter": {
         "movies": {
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
+            ]
+        }
+    },
+    "Jim Doughan": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
             ]
         }
     },
@@ -4207,6 +4498,13 @@ var igActorMap = {
             ]
         }
     },
+    "John Gallagher Jr.": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ]
+        }
+    },
     "John Glover": {
         "movies": {
             "RoboCop": [
@@ -4305,6 +4603,9 @@ var igActorMap = {
     },
     "John Malkovich": {
         "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ],
             "Transformers": [
                 "Transformers: Dark of the Moon (2011)"
             ]
@@ -4532,6 +4833,9 @@ var igActorMap = {
     },
     "Josh Brolin": {
         "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ],
             "Men in Black": [
                 "Men in Black 3 (2012)"
             ],
@@ -4603,6 +4907,13 @@ var igActorMap = {
             ],
             "MCU": [
                 "Ant-Man (2015)"
+            ]
+        }
+    },
+    "Julia Jones": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
             ]
         }
     },
@@ -4835,7 +5146,8 @@ var igActorMap = {
             "Pirates": [
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
-                "Pirates of the Caribbean: At World's End (2007)"
+                "Pirates of the Caribbean: At World's End (2007)",
+                "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
             ]
         }
     },
@@ -4851,6 +5163,13 @@ var igActorMap = {
             "Pirates": [
                 "Pirates of the Caribbean: At World's End (2007)",
                 "Pirates of the Caribbean: On Stranger Tides (2011)"
+            ]
+        }
+    },
+    "Kel Mitchell": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ]
         }
     },
@@ -4963,6 +5282,13 @@ var igActorMap = {
             ]
         }
     },
+    "Kevin Conroy": {
+        "movies": {
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
+            ]
+        }
+    },
     "Kevin Costner": {
         "movies": {
             "Waterworld (1995)": [
@@ -5034,6 +5360,20 @@ var igActorMap = {
             ]
         }
     },
+    "Kim Basinger": {
+        "movies": {
+            "Batman": [
+                "Batman (1989)"
+            ]
+        }
+    },
+    "Kim Cattrall": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek VI: The Undiscovered Country (1991)"
+            ]
+        }
+    },
     "Kim Flowers": {
         "movies": {
             "Alien": [
@@ -5068,6 +5408,13 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek II: The Wrath of Khan (1982)"
+            ]
+        }
+    },
+    "Kit Harington": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -5124,6 +5471,9 @@ var igActorMap = {
         "movies": {
             "Men in Black": [
                 "Men in Black: International (2019)"
+            ],
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -5159,6 +5509,13 @@ var igActorMap = {
                 "Aliens (1986)",
                 "Alien 3 (1992)",
                 "Alien vs. Predator (2004)"
+            ]
+        }
+    },
+    "Lance Reddick": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
             ]
         }
     },
@@ -5219,6 +5576,13 @@ var igActorMap = {
             ]
         }
     },
+    "Lauren Ridloff": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
+            ]
+        }
+    },
     "Laurence Fishburne": {
         "movies": {
             "Matrix": [
@@ -5231,6 +5595,13 @@ var igActorMap = {
             ],
             "TMNT": [
                 "TMNT (2007)"
+            ]
+        }
+    },
+    "Laurence Luckinbill": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek V: The Final Frontier (1989)"
             ]
         }
     },
@@ -5310,6 +5681,13 @@ var igActorMap = {
             ]
         }
     },
+    "Lena Olin": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "Lena Waithe": {
         "movies": {
             "Ready Player One (2018)": [
@@ -5344,7 +5722,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ],
             "Transformers": [
                 "The Transformers: The Movie (1986)",
@@ -5387,6 +5767,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers: Age of Extinction (2014)"
+            ]
+        }
+    },
+    "Lia McHugh": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -5574,6 +5961,9 @@ var igActorMap = {
         "movies": {
             "Predator": [
                 "Predators (2010)"
+            ],
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -5709,6 +6099,9 @@ var igActorMap = {
                 "Star Wars (1977)",
                 "The Empire Strikes Back (1980)",
                 "Return of the Jedi (1983)"
+            ],
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
             ]
         }
     },
@@ -5973,6 +6366,9 @@ var igActorMap = {
                 "Transformers (2007)",
                 "Transformers: Revenge of the Fallen (2009)"
             ],
+            "DC": [
+                "Jonah Hex (2010)"
+            ],
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)",
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
@@ -6104,6 +6500,13 @@ var igActorMap = {
             ]
         }
     },
+    "Michael Dorn": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek VI: The Undiscovered Country (1991)"
+            ]
+        }
+    },
     "Michael Douglas": {
         "movies": {
             "MCU": [
@@ -6120,6 +6523,9 @@ var igActorMap = {
     },
     "Michael Fassbender": {
         "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ],
             "Alien": [
                 "Prometheus (2012)",
                 "Alien: Covenant (2017)"
@@ -6130,6 +6536,14 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator Genisys (2015)"
+            ]
+        }
+    },
+    "Michael Gough": {
+        "movies": {
+            "Batman": [
+                "Batman (1989)",
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -6206,6 +6620,10 @@ var igActorMap = {
     },
     "Michael Keaton": {
         "movies": {
+            "Batman": [
+                "Batman (1989)",
+                "Batman Returns (1992)"
+            ],
             "RoboCop": [
                 "RoboCop (2014)"
             ]
@@ -6215,6 +6633,13 @@ var igActorMap = {
         "movies": {
             "Narnia": [
                 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+            ]
+        }
+    },
+    "Michael Murphy": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -6252,6 +6677,13 @@ var igActorMap = {
             ]
         }
     },
+    "Michael Shannon": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ]
+        }
+    },
     "Michael Stuhlbarg": {
         "movies": {
             "Men in Black": [
@@ -6270,6 +6702,13 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien Resurrection (1997)"
+            ]
+        }
+    },
+    "Michelle Pfeiffer": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -6517,7 +6956,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -6730,12 +7171,20 @@ var igActorMap = {
             ]
         }
     },
+    "Orestes Matacena": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ]
+        }
+    },
     "Orlando Bloom": {
         "movies": {
             "Pirates": [
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
-                "Pirates of the Caribbean: At World's End (2007)"
+                "Pirates of the Caribbean: At World's End (2007)",
+                "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
             ]
         }
     },
@@ -6786,6 +7235,14 @@ var igActorMap = {
         "movies": {
             "Ghost World (2001)": [
                 "Ghost World (2001)"
+            ]
+        }
+    },
+    "Pat Hingle": {
+        "movies": {
+            "Batman": [
+                "Batman (1989)",
+                "Batman Returns (1992)"
             ]
         }
     },
@@ -6853,6 +7310,13 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Prometheus (2012)"
+            ]
+        }
+    },
+    "Patton Oswalt": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -6926,6 +7390,16 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Aliens (1986)"
+            ]
+        }
+    },
+    "Paul Reubens": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
+            ],
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
             ]
         }
     },
@@ -7114,6 +7588,13 @@ var igActorMap = {
             ]
         }
     },
+    "Peter Greene": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ]
+        }
+    },
     "Peter Guinness": {
         "movies": {
             "Alien": [
@@ -7148,6 +7629,13 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Supergirl (1984)"
+            ]
+        }
+    },
+    "Peter Riegert": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
             ]
         }
     },
@@ -7417,6 +7905,9 @@ var igActorMap = {
     },
     "Reg E. Cathey": {
         "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ],
             "Tank Girl (1995)": [
                 "Tank Girl (1995)"
             ]
@@ -7527,6 +8018,13 @@ var igActorMap = {
             ]
         }
     },
+    "Richard Jeni": {
+        "movies": {
+            "Mask": [
+                "The Mask (1994)"
+            ]
+        }
+    },
     "Richard Kiley": {
         "movies": {
             "Marvel": [
@@ -7534,6 +8032,13 @@ var igActorMap = {
             ],
             "Jurassic Park": [
                 "Jurassic Park (1993)"
+            ]
+        }
+    },
+    "Richard Madden": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -7753,6 +8258,13 @@ var igActorMap = {
             ]
         }
     },
+    "Robert Wuhl": {
+        "movies": {
+            "Batman": [
+                "Batman (1989)"
+            ]
+        }
+    },
     "Robin Curtis": {
         "movies": {
             "Star Trek": [
@@ -7841,6 +8353,13 @@ var igActorMap = {
         "movies": {
             "Surrogates (2009)": [
                 "Surrogates (2009)"
+            ]
+        }
+    },
+    "Rosanna DeSoto": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -7969,6 +8488,13 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Escape from the Planet of the Apes (1971)"
+            ]
+        }
+    },
+    "Salma Hayek": {
+        "movies": {
+            "MCU": [
+                "Eternals (2021)"
             ]
         }
     },
@@ -8400,10 +8926,24 @@ var igActorMap = {
             ]
         }
     },
+    "Spice Williams-Crosby": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek V: The Final Frontier (1989)"
+            ]
+        }
+    },
     "Stacey Travis": {
         "movies": {
             "Ghost World (2001)": [
                 "Ghost World (2001)"
+            ]
+        }
+    },
+    "Stacy Keach": {
+        "movies": {
+            "Batman": [
+                "Batman: Mask of the Phantasm (1993)"
             ]
         }
     },
@@ -8918,6 +9458,13 @@ var igActorMap = {
             ]
         }
     },
+    "Todd Bryant": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek V: The Final Frontier (1989)"
+            ]
+        }
+    },
     "Todd McFarlane": {
         "movies": {
             "Spawn (1997)": [
@@ -9019,6 +9566,13 @@ var igActorMap = {
             ]
         }
     },
+    "Tom Waits": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "Tom Wilkinson": {
         "movies": {
             "The Lone Ranger (2013)": [
@@ -9033,6 +9587,13 @@ var igActorMap = {
                 "Alien Resurrection (1997)",
                 "Alien vs. Predator (2004)",
                 "Aliens vs. Predator: Requiem (2007)"
+            ]
+        }
+    },
+    "Tom Wopat": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
             ]
         }
     },
@@ -9136,6 +9697,9 @@ var igActorMap = {
         "movies": {
             "Conan": [
                 "Conan the Destroyer (1984)"
+            ],
+            "Batman": [
+                "Batman (1989)"
             ]
         }
     },
@@ -9302,6 +9866,13 @@ var igActorMap = {
             ]
         }
     },
+    "Vincent Schiavelli": {
+        "movies": {
+            "Batman": [
+                "Batman Returns (1992)"
+            ]
+        }
+    },
     "Ving Rhames": {
         "movies": {
             "Surrogates (2009)": [
@@ -9329,7 +9900,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },
@@ -9378,6 +9951,20 @@ var igActorMap = {
             ]
         }
     },
+    "Wes Bentley": {
+        "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ]
+        }
+    },
+    "Wes Studi": {
+        "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ]
+        }
+    },
     "Wesley MacInnes": {
         "movies": {
             "Power Rangers": [
@@ -9394,6 +9981,9 @@ var igActorMap = {
     },
     "Will Arnett": {
         "movies": {
+            "DC": [
+                "Jonah Hex (2010)"
+            ],
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)",
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
@@ -9442,6 +10032,9 @@ var igActorMap = {
     },
     "William H. Macy": {
         "movies": {
+            "Mystery Men (1999)": [
+                "Mystery Men (1999)"
+            ],
             "Jurassic Park": [
                 "Jurassic Park III (2001)"
             ]
@@ -9457,6 +10050,9 @@ var igActorMap = {
             ],
             "Superman": [
                 "Superman IV: The Quest for Peace (1987)"
+            ],
+            "Batman": [
+                "Batman (1989)"
             ]
         }
     },
@@ -9495,7 +10091,9 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek II: The Wrath of Khan (1982)",
                 "Star Trek III: The Search for Spock (1984)",
-                "Star Trek IV: The Voyage Home (1986)"
+                "Star Trek IV: The Voyage Home (1986)",
+                "Star Trek V: The Final Frontier (1989)",
+                "Star Trek VI: The Undiscovered Country (1991)"
             ]
         }
     },

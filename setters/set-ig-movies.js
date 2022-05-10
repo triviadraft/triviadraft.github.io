@@ -4173,6 +4173,11 @@ var igMovieMap = {
                 "description": ""
             },
             {
+                "actor": "Brock Peters",
+                "name": "Fleet Admiral Cartwright",
+                "description": ""
+            },
+            {
                 "actor": "Grace Lee Whitney",
                 "name": "Janice Rand",
                 "description": ""
@@ -4207,11 +4212,6 @@ var igMovieMap = {
             {
                 "actor": "Michael Berryman",
                 "name": "alien display officer at Starfleet Command",
-                "description": ""
-            },
-            {
-                "actor": "Brock Peters",
-                "name": "Fleet Admiral Cartwright",
                 "description": ""
             }
         ]
@@ -4867,6 +4867,92 @@ var igMovieMap = {
             "The crew of the starship Enterprise is taking you where no one has gone before.",
             "It's a place beyond mystery, beyond time, and until now, beyond reach. The last barrier in the universe is about to be broken.",
             "An expedition to a remote planet. A surrender to a Vulcan renegade. An attack by an ancient enemy. A race towards the center of the galaxy."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "Captain James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Nyota Uhura",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Laurence Luckinbill",
+                "name": "Sybok",
+                "description": ""
+            },
+            {
+                "actor": "Todd Bryant",
+                "name": "Klingon Captain Klaa",
+                "description": ""
+            },
+            {
+                "actor": "Spice Williams-Crosby",
+                "name": "Vixis",
+                "description": ""
+            },
+            {
+                "actor": "David Warner",
+                "name": "Federation ambassador to Nimbus III",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Charles Cooper",
+                "name": "Klingon ambassador to Nimbus III",
+                "description": ""
+            },
+            {
+                "actor": "Cynthia Gouw",
+                "name": "Romulan ambassador to Nimbus III",
+                "description": ""
+            },
+            {
+                "actor": "George Murdock",
+                "name": "\"God\" entity",
+                "description": ""
+            },
+            {
+                "actor": "Bill Quinn",
+                "name": "McCoy's father",
+                "description": ""
+            },
+            {
+                "actor": "Harve Bennett",
+                "name": "Starfleet admiral",
+                "description": ""
+            }
         ]
     },
     "Batman (1989)": {
@@ -4881,6 +4967,107 @@ var igMovieMap = {
         "taglines": [
             "Only one will claim the night.",
             "Justice is always Darkest before the Dawn."
+        ],
+        "mainCast": [
+            {
+                "actor": "Jack Nicholson",
+                "name": "the Joker / Jack Napier",
+                "description": ""
+            },
+            {
+                "actor": "Michael Keaton",
+                "name": "Batman / Bruce Wayne",
+                "description": ""
+            },
+            {
+                "actor": "Kim Basinger",
+                "name": "Vicki Vale",
+                "description": ""
+            },
+            {
+                "actor": "Pat Hingle",
+                "name": "Commissioner Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gough",
+                "name": "Alfred Pennyworth",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Hugo E. Blick",
+                "name": "young Jack Napier",
+                "description": ""
+            },
+            {
+                "actor": "Charles Roskilly",
+                "name": "young Bruce Wayne",
+                "description": ""
+            },
+            {
+                "actor": "Jerry Hall",
+                "name": "Alicia Hunt",
+                "description": ""
+            },
+            {
+                "actor": "Lee Wallace",
+                "name": "Mayor Borg",
+                "description": ""
+            },
+            {
+                "actor": "David Baxt",
+                "name": "Thomas Wayne",
+                "description": ""
+            },
+            {
+                "actor": "Sharon Holm",
+                "name": "Martha Wayne",
+                "description": ""
+            },
+            {
+                "actor": "Liza Ross",
+                "name": "Tourist Mom",
+                "description": ""
+            },
+            {
+                "actor": "Adrian Meyers",
+                "name": "Tourist Son",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Robert Wuhl",
+                "name": "Alexander Knox",
+                "description": ""
+            },
+            {
+                "actor": "Billy Dee Williams",
+                "name": "Harvey Dent",
+                "description": ""
+            },
+            {
+                "actor": "Jack Palance",
+                "name": "Carl Grissom",
+                "description": ""
+            },
+            {
+                "actor": "Tracey Walter",
+                "name": "Bob the Goon",
+                "description": ""
+            },
+            {
+                "actor": "William Hootkins",
+                "name": "Lt. Max Eckhardt",
+                "description": ""
+            },
+            {
+                "actor": "Garrick Hagon",
+                "name": "Tourist Dad",
+                "description": ""
+            }
         ]
     },
     "Back to the Future Part II (1989)": {
@@ -5454,7 +5641,7 @@ var igMovieMap = {
             {
                 "actor": "Marshall Bell",
                 "name": "goon of Big Boy Caprice",
-                "description": "goon who poses as an arresting officer to ensnare Lips"
+                "description": "goon who pretends to be arresting officer to ensnare Lips"
             },
             {
                 "actor": "Allen Garfield",
@@ -6438,6 +6625,80 @@ var igMovieMap = {
             "An epic journey is about to begin to an undiscovered country.",
             "Between war and peace, there exists the undiscovered country, the final mission.",
             "The crew of the starship Enterprise fights not to win battles, but to end them forever."
+        ],
+        "mainCast": [
+            {
+                "actor": "William Shatner",
+                "name": "James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "DeForest Kelley",
+                "name": "Leonard McCoy",
+                "description": ""
+            },
+            {
+                "actor": "James Doohan",
+                "name": "Montgomery Scott",
+                "description": ""
+            },
+            {
+                "actor": "George Takei",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Walter Koenig",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Nichelle Nichols",
+                "name": "Uhura",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Kim Cattrall",
+                "name": "Valeris",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Plummer",
+                "name": "Chang",
+                "description": ""
+            },
+            {
+                "actor": "David Warner",
+                "name": "Gorkon",
+                "description": ""
+            },
+            {
+                "actor": "Rosanna DeSoto",
+                "name": "Azetbur",
+                "description": ""
+            },
+            {
+                "actor": "Iman",
+                "name": "Martia",
+                "description": ""
+            },
+            {
+                "actor": "Brock Peters",
+                "name": "Admiral Cartwright",
+                "description": ""
+            },
+            {
+                "actor": "Michael Dorn",
+                "name": "Colonel Worf",
+                "description": ""
+            }
         ]
     },
     "Alien 3 (1992)": {
@@ -6599,6 +6860,87 @@ var igMovieMap = {
             "Above Gotham, Looms Its Greatest Hero",
             "The Bat, the Cat, the Penguin",
             "Returns June 19"
+        ],
+        "mainCast": [
+            {
+                "actor": "Michael Keaton",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Danny DeVito",
+                "name": "Oswald Cobblepot",
+                "description": ""
+            },
+            {
+                "actor": "Michelle Pfeiffer",
+                "name": "Selina Kyle / Catwoman",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Walken",
+                "name": "Max Shreck",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gough",
+                "name": "Alfred Pennyworth",
+                "description": ""
+            },
+            {
+                "actor": "Pat Hingle",
+                "name": "James Gordon",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Michael Murphy",
+                "name": "Mayor of Gotham City",
+                "description": ""
+            },
+            {
+                "actor": "Vincent Schiavelli",
+                "name": "the Organ Grinder",
+                "description": ""
+            },
+            {
+                "actor": "Andrew Bryniarski",
+                "name": "Charles \"Chip\" Shreck",
+                "description": ""
+            },
+            {
+                "actor": "Paul Reubens",
+                "name": "Tucker Cobblepot",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Thin Clown",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Cristi Conaway",
+                "name": "the Ice Princess",
+                "description": ""
+            },
+            {
+                "actor": "Rick Zumwalt",
+                "name": "the Tattooed Strongman",
+                "description": ""
+            },
+            {
+                "actor": "Anna Katarina",
+                "name": "the Poodle Lady",
+                "description": ""
+            },
+            {
+                "actor": "Diane Salinger",
+                "name": "Esther Cobblepot",
+                "description": ""
+            }
         ]
     },
     "Teenage Mutant Ninja Turtles III (1993)": {
@@ -6941,6 +7283,72 @@ var igMovieMap = {
         "franchise": "Batman",
         "taglines": [
             "The Dark Knight fights to save Gotham City from its deadliest enemy."
+        ],
+        "mainCast": [
+            {
+                "actor": "Kevin Conroy",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Mark Hamill",
+                "name": "the Joker",
+                "description": ""
+            },
+            {
+                "actor": "Dana Delany",
+                "name": "Andrea Beaumont / the Phantasm",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Stacy Keach",
+                "name": "voice of masked Phantasm / Carl Beaumont",
+                "description": ""
+            },
+            {
+                "actor": "Hart Bochner",
+                "name": "Arthur Reeves",
+                "description": ""
+            },
+            {
+                "actor": "Abe Vigoda",
+                "name": "Salvatore \"The Wheezer\" Valestra",
+                "description": ""
+            },
+            {
+                "actor": "Dick Miller",
+                "name": "Charles \"Chuckie\" Sol",
+                "description": ""
+            },
+            {
+                "actor": "Efrem Zimbalist Jr.",
+                "name": "Alfred Pennyworth",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "John P. Ryan",
+                "name": "Buzz Bronski",
+                "description": ""
+            },
+            {
+                "actor": "Bob Hastings",
+                "name": "Commissioner James Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Robert Costanzo",
+                "name": "Detective Harvey Bullock",
+                "description": ""
+            },
+            {
+                "actor": "Jeff Bennett",
+                "name": "first and second Burglar, Biker, Cop in helicopter, Cop on radio, SWAT team member, and Man on ship",
+                "description": ""
+            }
         ]
     },
     "The Crow (1994)": {
@@ -7080,6 +7488,102 @@ var igMovieMap = {
             "S-S-S-S-S-Smokin!!!",
             "From zero to hero",
             "Stanley Ipkiss is not the man he used to be."
+        ],
+        "mainCast": [
+            {
+                "actor": "Jim Carrey",
+                "name": "Stanley Ipkiss / the Mask",
+                "description": ""
+            },
+            {
+                "actor": "Peter Greene",
+                "name": "Dorian Tyrell",
+                "description": ""
+            },
+            {
+                "actor": "Cameron Diaz",
+                "name": "Tina Carlyle",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Orestes Matacena",
+                "name": "Niko",
+                "description": ""
+            },
+            {
+                "actor": "Peter Riegert",
+                "name": "Lt. Mitch Kellaway",
+                "description": ""
+            },
+            {
+                "actor": "Jim Doughan",
+                "name": "Detective Doyle",
+                "description": ""
+            },
+            {
+                "actor": "Richard Jeni",
+                "name": "Charles \"Charlie\" Schumaker",
+                "description": ""
+            },
+            {
+                "actor": "Amy Yasbeck",
+                "name": "Peggy Brandt",
+                "description": ""
+            },
+            {
+                "actor": "Ben Stein",
+                "name": "Dr. Arthur Neuman",
+                "description": ""
+            },
+            {
+                "actor": "Reg E. Cathey",
+                "name": "Freeze",
+                "description": ""
+            },
+            {
+                "actor": "Blake Clark",
+                "name": "Murray",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jeremy Roberts",
+                "name": "Bobby the Bouncer",
+                "description": ""
+            },
+            {
+                "actor": "Ivory Ocean",
+                "name": "Mitchell Tilton",
+                "description": ""
+            },
+            {
+                "actor": "William Daniel Mielcarek",
+                "name": "Doc",
+                "description": ""
+            },
+            {
+                "actor": "Denis Forest",
+                "name": "Sweet Eddy",
+                "description": ""
+            },
+            {
+                "actor": "Eamonn Roche",
+                "name": "Mr. Dickey",
+                "description": ""
+            },
+            {
+                "actor": "Nancy Fish",
+                "name": "Mrs Peenman",
+                "description": ""
+            },
+            {
+                "actor": "Nils Allen Stewart",
+                "name": "Orlando",
+                "description": ""
+            }
         ]
     },
     "Timecop (1994)": {
@@ -8846,6 +9350,117 @@ var igMovieMap = {
             "Universal Pictures presents a new league of heroes that step to a different beat.",
             "We're not your classic heroes, we're the other guys.",
             "They're not your average superheroes."
+        ],
+        "mainCast": [
+            {
+                "actor": "Hank Azaria",
+                "name": "the Blue Raja / Jeffrey",
+                "description": ""
+            },
+            {
+                "actor": "Claire Forlani",
+                "name": "Monica",
+                "description": ""
+            },
+            {
+                "actor": "Janeane Garofalo",
+                "name": "the Bowler / Carol",
+                "description": ""
+            },
+            {
+                "actor": "Greg Kinnear",
+                "name": "Captain Amazing / Lance Hunt",
+                "description": ""
+            },
+            {
+                "actor": "William H. Macy",
+                "name": "the Shoveler / Eddie",
+                "description": ""
+            },
+            {
+                "actor": "Kel Mitchell",
+                "name": "Invisible Boy",
+                "description": ""
+            },
+            {
+                "actor": "Paul Reubens",
+                "name": "the Spleen",
+                "description": ""
+            },
+            {
+                "actor": "Geoffrey Rush",
+                "name": "Casanova Frankenstein",
+                "description": ""
+            },
+            {
+                "actor": "Ben Stiller",
+                "name": "Mr. Furious / Roy",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Lena Olin",
+                "name": "Dr. Anabel Leek",
+                "description": ""
+            },
+            {
+                "actor": "Wes Studi",
+                "name": "Sphinx",
+                "description": ""
+            },
+            {
+                "actor": "Tom Waits",
+                "name": "Doc Heller",
+                "description": ""
+            },
+            {
+                "actor": "Eddie Izzard",
+                "name": "Tony P(ompadour)",
+                "description": ""
+            },
+            {
+                "actor": "Artie Lange",
+                "name": "Big Red",
+                "description": ""
+            },
+            {
+                "actor": "Jenifer Lewis",
+                "name": "Lucille",
+                "description": "Eddie's wife"
+            },
+            {
+                "actor": "Dane Cook",
+                "name": "Waffler",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Pencilhead",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Louise Lasser",
+                "name": "Violet",
+                "description": ""
+            },
+            {
+                "actor": "Ricky Jay",
+                "name": "Vic Weems",
+                "description": ""
+            },
+            {
+                "actor": "Prakazrel Michel",
+                "name": "Tony C",
+                "description": ""
+            },
+            {
+                "actor": "Goodie Mob",
+                "name": "the Not So Goody Mob",
+                "description": ""
+            }
         ]
     },
     "Heavy Metal 2000 (2000)": {
@@ -9160,6 +9775,11 @@ var igMovieMap = {
                 "description": "comical orangutan who works in the trade business of human slaves and is caught in the conflict between humans and apes and tries his best to simply survive"
             },
             {
+                "actor": "David Warner",
+                "name": "Senator Sandar",
+                "description": ""
+            },
+            {
                 "actor": "Charlton Heston",
                 "name": "Zaius",
                 "description": "Thade's father"
@@ -9180,11 +9800,6 @@ var igMovieMap = {
                 "actor": "Jacob",
                 "name": "Pericles",
                 "description": "trained chimpanzee in a US Air Force program in 2029, working with Leo on the space station to fly space pods"
-            },
-            {
-                "actor": "David Warner",
-                "name": "Senator Sandar",
-                "description": ""
             },
             {
                 "actor": "Lisa Marie",
@@ -12939,6 +13554,75 @@ var igMovieMap = {
         "franchise": "DC",
         "taglines": [
             "Revenge gets ugly"
+        ],
+        "mainCast": [
+            {
+                "actor": "Josh Brolin",
+                "name": "Jonah Hex",
+                "description": ""
+            },
+            {
+                "actor": "John Malkovich",
+                "name": "Quentin Turnbull",
+                "description": ""
+            },
+            {
+                "actor": "Megan Fox",
+                "name": "Lilah Black",
+                "description": ""
+            },
+            {
+                "actor": "Michael Fassbender",
+                "name": "Burke",
+                "description": ""
+            },
+            {
+                "actor": "Will Arnett",
+                "name": "Lieutenant Grass",
+                "description": ""
+            },
+            {
+                "actor": "Michael Shannon",
+                "name": "Dr. Cross Williams",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Wes Bentley",
+                "name": "Adleman Lusk",
+                "description": ""
+            },
+            {
+                "actor": "Aidan Quinn",
+                "name": "Ulysses S. Grant",
+                "description": ""
+            },
+            {
+                "actor": "Lance Reddick",
+                "name": "Smith",
+                "description": ""
+            },
+            {
+                "actor": "John Gallagher Jr.",
+                "name": "Lieutenant Evan",
+                "description": ""
+            },
+            {
+                "actor": "Tom Wopat",
+                "name": "Colonel Slocum",
+                "description": ""
+            },
+            {
+                "actor": "Julia Jones",
+                "name": "Cassie",
+                "description": ""
+            },
+            {
+                "actor": "Jeffrey Dean Morgan",
+                "name": "Jeb Turnbull",
+                "description": ""
+            }
         ]
     },
     "Predators (2010)": {
@@ -14235,7 +14919,7 @@ var igMovieMap = {
             {
                 "actor": "Michael Fassbender",
                 "name": "David",
-                "description": "android that acts as the ship's butler and maintenance man"
+                "description": "ship's android butler and maintenance man"
             },
             {
                 "actor": "Charlize Theron",
@@ -17359,6 +18043,16 @@ var igMovieMap = {
                 "actor": "Kevin McNally",
                 "name": "Joshamee Gibbs",
                 "description": "Captain Jack's loyal friend and first mate"
+            },
+            {
+                "actor": "Orlando Bloom",
+                "name": "Will Turner",
+                "description": "blacksmith-turned-pirate who was transformed into the Captain of the Flying Dutchman"
+            },
+            {
+                "actor": "Keira Knightley",
+                "name": "Elizabeth Swann",
+                "description": "Will's wife and Henry's mother"
             }
         ],
         "minorCast": [
@@ -17371,16 +18065,6 @@ var igMovieMap = {
                 "actor": "Lewis McGowan",
                 "name": "young Henry Turner",
                 "description": ""
-            },
-            {
-                "actor": "Orlando Bloom",
-                "name": "Will Turner",
-                "description": "blacksmith-turned-pirate who was transformed into the Captain of the Flying Dutchman"
-            },
-            {
-                "actor": "Keira Knightley",
-                "name": "Elizabeth Swann",
-                "description": "Will's wife and Henry's mother"
             },
             {
                 "actor": "Adam Brown",
@@ -19557,6 +20241,112 @@ var igMovieMap = {
             "In the beginning...",
             "The Marvel Universe becomes Eternal.",
             "The end was just the beginning."
+        ],
+        "mainCast": [
+            {
+                "actor": "Gemma Chan",
+                "name": "Sersi",
+                "description": ""
+            },
+            {
+                "actor": "Richard Madden",
+                "name": "Ikaris",
+                "description": ""
+            },
+            {
+                "actor": "Kumail Nanjiani",
+                "name": "Kingo",
+                "description": ""
+            },
+            {
+                "actor": "Lia McHugh",
+                "name": "Sprite",
+                "description": ""
+            },
+            {
+                "actor": "Brian Tyree Henry",
+                "name": "Phastos",
+                "description": ""
+            },
+            {
+                "actor": "Lauren Ridloff",
+                "name": "Makkari",
+                "description": ""
+            },
+            {
+                "actor": "Barry Keoghan",
+                "name": "Druig",
+                "description": ""
+            },
+            {
+                "actor": "Don Lee",
+                "name": "Gilgamesh",
+                "description": ""
+            },
+            {
+                "actor": "Kit Harington",
+                "name": "Dane Whitman",
+                "description": ""
+            },
+            {
+                "actor": "Salma Hayek",
+                "name": "Ajak",
+                "description": ""
+            },
+            {
+                "actor": "Angelina Jolie",
+                "name": "Thena",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Harish Patel",
+                "name": "Karun",
+                "description": "Kingo's human valet"
+            },
+            {
+                "actor": "Bill Skarsg\u00e5rd",
+                "name": "voice of Kro",
+                "description": ""
+            },
+            {
+                "actor": "David Kaye",
+                "name": "voice of Arishem",
+                "description": ""
+            },
+            {
+                "actor": "Haaz Sleiman",
+                "name": "Ben",
+                "description": "Phastos' husband"
+            },
+            {
+                "actor": "Harry Styles",
+                "name": "Eros / Starfox",
+                "description": ""
+            },
+            {
+                "actor": "Patton Oswalt",
+                "name": "voice of Pip the Troll",
+                "description": ""
+            },
+            {
+                "actor": "Mahershala Ali",
+                "name": "voice of Blade",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Esai Daniel Cross",
+                "name": "Jack",
+                "description": ""
+            },
+            {
+                "actor": "Zain Al Rafeea",
+                "name": "villager",
+                "description": ""
+            }
         ]
     },
     "Spider-Man: No Way Home (2021)": {
