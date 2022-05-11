@@ -38155,6 +38155,14 @@ var movieMap = {
         "categories": [
             "1990s",
             "Comic Book"
+        ],
+        "cast": [
+            "Brandon Lee",
+            "David Patrick Kelly",
+            "Ernie Hudson",
+            "Jon Polito",
+            "Michael Wincott",
+            "Tony Todd"
         ]
     },
     "Maverick (1994)": {
@@ -39449,6 +39457,21 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Star Trek",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Alan Ruck",
+            "Brent Spiner",
+            "Gates McFadden",
+            "James Doohan",
+            "Jonathan Frakes",
+            "LeVar Burton",
+            "Malcolm McDowell",
+            "Marina Sirtis",
+            "Michael Dorn",
+            "Patrick Stewart",
+            "Walter Koenig",
+            "Whoopi Goldberg",
+            "William Shatner"
         ]
     },
     "A Low Down Dirty Shame (1994)": {
@@ -40832,6 +40855,19 @@ var movieMap = {
             "DC",
             "Jim Carrey",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Chris O'Donnell",
+            "Drew Barrymore",
+            "Ed Begley Jr.",
+            "George Wallace",
+            "Jim Carrey",
+            "Jon Favreau",
+            "Michael Gough",
+            "Nicole Kidman",
+            "Pat Hingle",
+            "Tommy Lee Jones",
+            "Val Kilmer"
         ]
     },
     "Pocahontas (1995)": {
@@ -43082,6 +43118,14 @@ var movieMap = {
         "categories": [
             "1990s",
             "Comic Book"
+        ],
+        "cast": [
+            "Clint Howard",
+            "Pamela Anderson",
+            "Temuera Morrison",
+            "Tommy Lister Jr.",
+            "Udo Kier",
+            "Victoria Rowell"
         ]
     },
     "The Craft (1996)": {
@@ -43901,6 +43945,13 @@ var movieMap = {
         "categories": [
             "1990s",
             "Comic Book"
+        ],
+        "cast": [
+            "Iggy Pop",
+            "Mia Kirshner",
+            "Richard Brooks",
+            "Thomas Jane",
+            "Vincent P\u00e9rez"
         ]
     },
     "Bulletproof (1996)": {
@@ -44551,6 +44602,19 @@ var movieMap = {
             "1990s",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "Alfre Woodard",
+            "Alice Krige",
+            "Brent Spiner",
+            "Gates McFadden",
+            "James Cromwell",
+            "Jonathan Frakes",
+            "LeVar Burton",
+            "Marina Sirtis",
+            "Michael Dorn",
+            "Neal McDonough",
+            "Patrick Stewart"
         ]
     },
     "101 Dalmatians (1996)": {
@@ -45929,6 +45993,17 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Alicia Silverstone",
+            "Arnold Schwarzenegger",
+            "Chris O'Donnell",
+            "George Clooney",
+            "John Glover",
+            "Michael Gough",
+            "Pat Hingle",
+            "Uma Thurman",
+            "Vivica A. Fox"
         ]
     },
     "My Best Friend's Wedding (1997)": {
@@ -46288,6 +46363,13 @@ var movieMap = {
             "Brat Pack",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Annabeth Gish",
+            "Irma P. Hall",
+            "Judd Nelson",
+            "Richard Roundtree",
+            "Shaquille O'Neal"
         ]
     },
     "The Full Monty (1997)": {
@@ -48730,6 +48812,15 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Marvel"
+        ],
+        "cast": [
+            "Donal Logue",
+            "Kris Kristofferson",
+            "N'Bushe Wright",
+            "Sanaa Lathan",
+            "Stephen Dorff",
+            "Udo Kier",
+            "Wesley Snipes"
         ]
     },
     "Wrongfully Accused (1998)": {
@@ -49754,6 +49845,17 @@ var movieMap = {
             "1990s",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "Brent Spiner",
+            "Donna Murphy",
+            "F. Murray Abraham",
+            "Gates McFadden",
+            "Jonathan Frakes",
+            "LeVar Burton",
+            "Marina Sirtis",
+            "Michael Dorn",
+            "Patrick Stewart"
         ]
     },
     "The Prince of Egypt (1998)": {
@@ -50716,6 +50818,27 @@ var movieMap = {
             "Natalie Portman",
             "Samuel L. Jackson",
             "Star Wars"
+        ],
+        "cast": [
+            "Ahmed Best",
+            "Anthony Daniels",
+            "Dominic West",
+            "Ewan McGregor",
+            "Frank Oz",
+            "Ian McDiarmid",
+            "Jake Lloyd",
+            "Keira Knightley",
+            "Kenny Baker",
+            "Liam Neeson",
+            "Lindsay Duncan",
+            "Natalie Portman",
+            "Peter Serafinowicz",
+            "Ray Park",
+            "Sally Hawkins",
+            "Samuel L. Jackson",
+            "Sofia Coppola",
+            "Terence Stamp",
+            "Warwick Davis"
         ]
     },
     "Notting Hill (1999)": {
@@ -53527,6 +53650,11 @@ var movieMap = {
             "Animated",
             "IG Animated",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Billy Idol",
+            "Julie Strain",
+            "Michael Ironside"
         ]
     },
     "X-Men (2000)": {
@@ -53552,6 +53680,22 @@ var movieMap = {
             "Halle Berry",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Anna Paquin",
+            "Bruce Davison",
+            "Famke Janssen",
+            "Halle Berry",
+            "Hugh Jackman",
+            "Ian McKellen",
+            "James Marsden",
+            "Patrick Stewart",
+            "Ray Park",
+            "Rebecca Romijn",
+            "Shawn Ashmore",
+            "Shawn Roberts",
+            "Stan Lee",
+            "Tyler Mane"
         ]
     },
     "The In Crowd (2000)": {
@@ -54404,6 +54548,15 @@ var movieMap = {
             "M. Night Shyamalan",
             "Samuel L. Jackson",
             "Thriller"
+        ],
+        "cast": [
+            "Bruce Willis",
+            "Charlayne Woodard",
+            "M. Night Shyamalan",
+            "Michael Kelly",
+            "Robin Wright",
+            "Samuel L. Jackson",
+            "Spencer Treat Clark"
         ]
     },
     "Crouching Tiger, Hidden Dragon (2000)": {
@@ -56706,6 +56859,30 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Bonnie Wright",
+            "Daniel Radcliffe",
+            "David Bradley",
+            "Emma Watson",
+            "Fiona Shaw",
+            "Harry Melling",
+            "Ian Hart",
+            "James Phelps",
+            "John Cleese",
+            "John Hurt",
+            "Julie Walters",
+            "Maggie Smith",
+            "Matthew Lewis",
+            "Oliver Phelps",
+            "Richard Griffiths",
+            "Richard Harris",
+            "Robbie Coltrane",
+            "Rupert Grint",
+            "Tom Felton",
+            "Verne Troyer",
+            "Warwick Davis"
         ]
     },
     "The Wash (2001)": {
@@ -56949,6 +57126,23 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Middle-earth",
             "Modern Classics"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Billy Boyd",
+            "Cate Blanchett",
+            "Christopher Lee",
+            "Dominic Monaghan",
+            "Elijah Wood",
+            "Hugo Weaving",
+            "Ian Holm",
+            "Ian McKellen",
+            "John Rhys-Davies",
+            "Liv Tyler",
+            "Orlando Bloom",
+            "Sean Astin",
+            "Sean Bean",
+            "Viggo Mortensen"
         ]
     },
     "A Beautiful Mind (2001)": {
@@ -57666,6 +57860,16 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Marvel"
+        ],
+        "cast": [
+            "Donnie Yen",
+            "Kris Kristofferson",
+            "Luke Goss",
+            "Norman Reedus",
+            "Ron Perlman",
+            "Thomas Kretschmann",
+            "Tony Curran",
+            "Wesley Snipes"
         ]
     },
     "Death to Smoochy (2002)": {
@@ -57938,6 +58142,25 @@ var movieMap = {
             "Octavia Spencer",
             "Spider-Man",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Bill Nunn",
+            "Bruce Campbell",
+            "Cliff Robertson",
+            "Elizabeth Banks",
+            "J. K. Simmons",
+            "James Franco",
+            "Joe Manganiello",
+            "Kirsten Dunst",
+            "Lucy Lawless",
+            "Macy Gray",
+            "Octavia Spencer",
+            "Randy Savage",
+            "Rosemary Harris",
+            "Sam Raimi",
+            "Stan Lee",
+            "Tobey Maguire",
+            "Willem Dafoe"
         ]
     },
     "Star Wars: Episode II \u2013 Attack of the Clones (2002)": {
@@ -57962,6 +58185,23 @@ var movieMap = {
             "Natalie Portman",
             "Samuel L. Jackson",
             "Star Wars"
+        ],
+        "cast": [
+            "Ahmed Best",
+            "Anthony Daniels",
+            "Christopher Lee",
+            "Daniel Logan",
+            "Ewan McGregor",
+            "Frank Oz",
+            "Hayden Christensen",
+            "Ian McDiarmid",
+            "Jimmy Smits",
+            "Joel Edgerton",
+            "Kenny Baker",
+            "Natalie Portman",
+            "Rose Byrne",
+            "Samuel L. Jackson",
+            "Temuera Morrison"
         ]
     },
     "About a Boy (2002)": {
@@ -81873,13 +82113,10 @@ var movieMap = {
             "Erik Knudsen",
             "Jason Schwartzman",
             "Johnny Simmons",
-            "Keita Saito",
             "Kieran Culkin",
             "Mae Whitman",
             "Mary Elizabeth Winstead",
             "Michael Cera",
-            "Satya Bhabha",
-            "Shota Saito",
             "Thomas Jane"
         ]
     },

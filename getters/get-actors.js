@@ -1,6 +1,6 @@
 function getMapWithThreeMovies(map) {
     const asArray = Object.entries(map);
-    filtered = asArray.filter(([key, value]) => 'movies' in map[key] && map[key]['movies'].length >= 3);
+    filtered = asArray.filter(([key, value]) => 'movies' in map[key] && map[key]['movies'].length >= 5);
     return Object.fromEntries(filtered);
 }
 

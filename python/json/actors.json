@@ -110,6 +110,12 @@
             "Swamp Thing (1982)"
         ]
     },
+    "Ahmed Best": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
     "Aidan Gillen": {
         "movies": [
             "The Dark Knight Rises (2012)"
@@ -210,6 +216,7 @@
     },
     "Alan Rickman": {
         "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
             "Love Actually (2003)"
         ]
     },
@@ -217,6 +224,11 @@
         "movies": [
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Alan Ruck": {
+        "movies": [
+            "Star Trek Generations (1994)"
         ]
     },
     "Alan Tudyk": {
@@ -303,6 +315,11 @@
             "Jojo Rabbit (2019)"
         ]
     },
+    "Alfre Woodard": {
+        "movies": [
+            "Star Trek: First Contact (1996)"
+        ]
+    },
     "Alfred Molina": {
         "movies": [
             "Strange Magic (2015)",
@@ -312,6 +329,16 @@
     "Alice Eve": {
         "movies": [
             "Men in Black 3 (2012)"
+        ]
+    },
+    "Alice Krige": {
+        "movies": [
+            "Star Trek: First Contact (1996)"
+        ]
+    },
+    "Alicia Silverstone": {
+        "movies": [
+            "Batman & Robin (1997)"
         ]
     },
     "Alicia Vikander": {
@@ -495,6 +522,11 @@
             "Hot Rod (2007)"
         ]
     },
+    "Andy Serkis": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
+        ]
+    },
     "Angela Bassett": {
         "leadNoms": [
             {
@@ -598,6 +630,7 @@
             }
         ],
         "movies": [
+            "X-Men (2000)",
             "Almost Famous (2000)"
         ]
     },
@@ -611,6 +644,11 @@
     "Anna Walton": {
         "movies": [
             "Hellboy II: The Golden Army (2008)"
+        ]
+    },
+    "Annabeth Gish": {
+        "movies": [
+            "Steel (1997)"
         ]
     },
     "Anne Archer": {
@@ -690,6 +728,8 @@
             "The Lord of the Rings (1978)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -798,6 +838,11 @@
                 "movie": "Shine",
                 "year": "1996"
             }
+        ]
+    },
+    "Arnold Schwarzenegger": {
+        "movies": [
+            "Batman & Robin (1997)"
         ]
     },
     "Artie Lange": {
@@ -1106,6 +1151,11 @@
             "Pirates of the Caribbean: At World's End (2007)"
         ]
     },
+    "Bill Nunn": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Bill Paxton": {
         "movies": [
             "Stripes (1981)"
@@ -1140,6 +1190,11 @@
             "Love Actually (2003)"
         ]
     },
+    "Billy Boyd": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
+        ]
+    },
     "Billy Crudup": {
         "movies": [
             "Almost Famous (2000)"
@@ -1150,6 +1205,11 @@
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
             "Batman (1989)"
+        ]
+    },
+    "Billy Idol": {
+        "movies": [
+            "Heavy Metal 2000 (2000)"
         ]
     },
     "Biz Markie": {
@@ -1195,6 +1255,11 @@
     "Bokeem Woodbine": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Bonnie Wright": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Boris Kodjoe": {
@@ -1269,6 +1334,11 @@
             "Avengers: Infinity War (2018)"
         ]
     },
+    "Brandon Lee": {
+        "movies": [
+            "The Crow (1994)"
+        ]
+    },
     "Brandon Routh": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
@@ -1304,6 +1374,13 @@
                 "movie": "My Left Foot: The Story of Christy Brown",
                 "year": "1989"
             }
+        ]
+    },
+    "Brent Spiner": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)"
         ]
     },
     "Brenton Thwaites": {
@@ -1369,6 +1446,11 @@
             "The Florida Project (2017)"
         ]
     },
+    "Bruce Campbell": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Bruce Davison": {
         "leadNoms": [
             {
@@ -1377,7 +1459,8 @@
             }
         ],
         "movies": [
-            "Spies Like Us (1985)"
+            "Spies Like Us (1985)",
+            "X-Men (2000)"
         ]
     },
     "Bruce Dern": {
@@ -1409,6 +1492,7 @@
     },
     "Bruce Willis": {
         "movies": [
+            "Unbreakable (2000)",
             "Surrogates (2009)"
         ]
     },
@@ -1599,6 +1683,9 @@
                 "movie": "I'm Not There",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "Catherine Deneuve": {
@@ -1667,6 +1754,11 @@
     "Channing Tatum": {
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Charlayne Woodard": {
+        "movies": [
+            "Unbreakable (2000)"
         ]
     },
     "Charles Barkley": {
@@ -1799,6 +1891,12 @@
             "Cast Away (2000)"
         ]
     },
+    "Chris O'Donnell": {
+        "movies": [
+            "Batman Forever (1995)",
+            "Batman & Robin (1997)"
+        ]
+    },
     "Chris Parnell": {
         "movies": [
             "Hot Rod (2007)"
@@ -1855,6 +1953,12 @@
     "Christopher Guard": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Christopher Lee": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Christopher Lloyd": {
@@ -1946,6 +2050,11 @@
             "John Wick (2014)"
         ]
     },
+    "Cliff Robertson": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Clifton Collins Jr.": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
@@ -1966,6 +2075,11 @@
                 "movie": "Million Dollar Baby",
                 "year": "2004"
             }
+        ]
+    },
+    "Clint Howard": {
+        "movies": [
+            "Barb Wire (1996)"
         ]
     },
     "Clive Owen": {
@@ -2172,6 +2286,16 @@
             }
         ]
     },
+    "Daniel Logan": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
+    "Daniel Radcliffe": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "Daniel Roebuck": {
         "movies": [
             "The Fugitive (1993)"
@@ -2232,6 +2356,11 @@
             "Bone Tomahawk (2015)"
         ]
     },
+    "David Bradley": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "David Buck": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -2272,6 +2401,7 @@
     },
     "David Patrick Kelly": {
         "movies": [
+            "The Crow (1994)",
             "John Wick (2014)"
         ]
     },
@@ -2608,6 +2738,11 @@
             "The Lord of the Rings (1978)"
         ]
     },
+    "Dominic Monaghan": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
+        ]
+    },
     "Dominic Scott Kay": {
         "movies": [
             "Pirates of the Caribbean: At World's End (2007)"
@@ -2615,6 +2750,7 @@
     },
     "Dominic West": {
         "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "John Carter (2012)"
         ]
     },
@@ -2639,13 +2775,24 @@
             "Eternals (2021)"
         ]
     },
+    "Donal Logue": {
+        "movies": [
+            "Blade (1998)"
+        ]
+    },
     "Donna Dixon": {
         "movies": [
             "Spies Like Us (1985)"
         ]
     },
+    "Donna Murphy": {
+        "movies": [
+            "Star Trek: Insurrection (1998)"
+        ]
+    },
     "Donnie Yen": {
         "movies": [
+            "Blade II (2002)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -2664,6 +2811,11 @@
             "Men in Black II (2002)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)"
+        ]
+    },
+    "Drew Barrymore": {
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "Dustin Hoffman": {
@@ -2715,6 +2867,11 @@
     "Ebon Moss-Bachrach": {
         "movies": [
             "The Lake House (2006)"
+        ]
+    },
+    "Ed Begley Jr.": {
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "Ed Harris": {
@@ -2837,6 +2994,11 @@
             "Strange Magic (2015)"
         ]
     },
+    "Elijah Wood": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
+        ]
+    },
     "Elisabeth Shue": {
         "leadNoms": [
             {
@@ -2847,6 +3009,7 @@
     },
     "Elizabeth Banks": {
         "movies": [
+            "Spider-Man (2002)",
             "Power Rangers (2017)"
         ]
     },
@@ -3016,6 +3179,11 @@
             "Men in Black: International (2019)"
         ]
     },
+    "Emma Watson": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "Emmanuelle Riva": {
         "leadNoms": [
             {
@@ -3041,6 +3209,7 @@
     },
     "Ernie Hudson": {
         "movies": [
+            "The Crow (1994)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -3103,6 +3272,17 @@
             "Ant-Man (2015)"
         ]
     },
+    "Ewan McGregor": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
+    "F. Murray Abraham": {
+        "movies": [
+            "Star Trek: Insurrection (1998)"
+        ]
+    },
     "Fairuza Balk": {
         "movies": [
             "Almost Famous (2000)"
@@ -3111,6 +3291,11 @@
     "Faithe Herman": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Famke Janssen": {
+        "movies": [
+            "X-Men (2000)"
         ]
     },
     "Faye Dunaway": {
@@ -3148,6 +3333,11 @@
     "Finn Wolfhard": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Fiona Shaw": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Florence Pugh": {
@@ -3225,7 +3415,9 @@
         "movies": [
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
-            "Spies Like Us (1985)"
+            "Spies Like Us (1985)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Frank Welker": {
@@ -3348,6 +3540,13 @@
             "Forrest Gump (1994)"
         ]
     },
+    "Gates McFadden": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)"
+        ]
+    },
     "Geena Davis": {
         "leadNoms": [
             {
@@ -3462,6 +3661,7 @@
             }
         ],
         "movies": [
+            "Batman & Robin (1997)",
             "Gravity (2013)"
         ]
     },
@@ -3483,6 +3683,11 @@
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
+    "George Wallace": {
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "George Wyner": {
@@ -3674,6 +3879,9 @@
                 "movie": "Monster's Ball",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "X-Men (2000)"
         ]
     },
     "Hank Azaria": {
@@ -3718,6 +3926,11 @@
             "The Chronicles of Narnia: Prince Caspian (2008)"
         ]
     },
+    "Harry Melling": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "Harry Styles": {
         "movies": [
             "Eternals (2021)"
@@ -3737,6 +3950,11 @@
                 "movie": "Gone with the Wind",
                 "year": "1939"
             }
+        ]
+    },
+    "Hayden Christensen": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Hayley Atwell": {
@@ -3888,6 +4106,14 @@
                 "movie": "Les Mis\u00e9rables",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "X-Men (2000)"
+        ]
+    },
+    "Hugo Weaving": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "H\u00e9ctor Elizondo": {
@@ -3905,14 +4131,22 @@
             "Shazam! (2019)"
         ]
     },
+    "Ian Hart": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "Ian Holm": {
         "movies": [
-            "From Hell (2001)"
+            "From Hell (2001)",
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "Ian McDiarmid": {
         "movies": [
-            "Return of the Jedi (1983)"
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Ian McKellen": {
@@ -3927,6 +4161,10 @@
                 "movie": "The Lord of the Rings: The Fellowship of the Ring",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "X-Men (2000)",
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "Ian McShane": {
@@ -3948,6 +4186,11 @@
         "movies": [
             "The Losers (2010)",
             "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Iggy Pop": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
         ]
     },
     "Imelda Staunton": {
@@ -4005,6 +4248,11 @@
             "Knocked Up (2007)"
         ]
     },
+    "Irma P. Hall": {
+        "movies": [
+            "Steel (1997)"
+        ]
+    },
     "Isabelle Adjani": {
         "leadNoms": [
             {
@@ -4053,6 +4301,7 @@
             }
         ],
         "movies": [
+            "Spider-Man (2002)",
             "Spider-Man: Far From Home (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -4261,6 +4510,11 @@
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Jake Lloyd": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
     "James Arnold Taylor": {
         "movies": [
             "TMNT (2007)"
@@ -4290,6 +4544,7 @@
             }
         ],
         "movies": [
+            "Star Trek: First Contact (1996)",
             "Surrogates (2009)"
         ]
     },
@@ -4312,7 +4567,8 @@
             "Star Trek III: The Search for Spock (1984)",
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
-            "Star Trek VI: The Undiscovered Country (1991)"
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)"
         ]
     },
     "James Earl Jones": {
@@ -4337,6 +4593,7 @@
             }
         ],
         "movies": [
+            "Spider-Man (2002)",
             "The Holiday (2006)",
             "Knocked Up (2007)"
         ]
@@ -4345,6 +4602,11 @@
         "movies": [
             "Kung Fu Panda (2008)",
             "R.I.P.D. (2013)"
+        ]
+    },
+    "James Marsden": {
+        "movies": [
+            "X-Men (2000)"
         ]
     },
     "James McAvoy": {
@@ -4356,6 +4618,11 @@
     "James Parks": {
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "James Phelps": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "James Stewart": {
@@ -4920,6 +5187,7 @@
     "Jim Carrey": {
         "movies": [
             "The Mask (1994)",
+            "Batman Forever (1995)",
             "Horton Hears a Who! (2008)"
         ]
     },
@@ -4935,6 +5203,7 @@
     },
     "Jimmy Smits": {
         "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -5067,6 +5336,11 @@
             }
         ]
     },
+    "Joe Manganiello": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Joe Pantoliano": {
         "movies": [
             "The Fugitive (1993)"
@@ -5096,6 +5370,11 @@
     "Joel Coen": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Joel Edgerton": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Joel Kinnaman": {
@@ -5135,6 +5414,11 @@
             "The Deer Hunter (1978)"
         ]
     },
+    "John Cleese": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "John Gallagher Jr.": {
         "movies": [
             "Jonah Hex (2010)",
@@ -5144,6 +5428,7 @@
     "John Glover": {
         "movies": [
             "Annie Hall (1977)",
+            "Batman & Robin (1997)",
             "Shazam! (2019)"
         ]
     },
@@ -5180,6 +5465,7 @@
         "movies": [
             "The Lord of the Rings (1978)",
             "Spaceballs (1987)",
+            "Harry Potter and the Sorcerer's Stone (2001)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)",
             "Hercules (2014)"
@@ -5237,6 +5523,11 @@
     "John Ratzenberger": {
         "movies": [
             "The Empire Strikes Back (1980)"
+        ]
+    },
+    "John Rhys-Davies": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "John Savage": {
@@ -5335,6 +5626,7 @@
     },
     "Jon Favreau": {
         "movies": [
+            "Batman Forever (1995)",
             "Something's Gotta Give (2003)",
             "John Carter (2012)",
             "Spider-Man: Far From Home (2019)"
@@ -5344,6 +5636,11 @@
         "movies": [
             "Three Amigos (1986)",
             "A League of Their Own (1992)"
+        ]
+    },
+    "Jon Polito": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Jon Voight": {
@@ -5387,6 +5684,13 @@
     "Jonathan Banks": {
         "movies": [
             "Armed and Dangerous (1986)"
+        ]
+    },
+    "Jonathan Frakes": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)"
         ]
     },
     "Jonathan Pryce": {
@@ -5463,7 +5767,8 @@
     },
     "Judd Nelson": {
         "movies": [
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "Steel (1997)"
         ]
     },
     "Jude Law": {
@@ -5658,6 +5963,11 @@
             }
         ]
     },
+    "Julie Strain": {
+        "movies": [
+            "Heavy Metal 2000 (2000)"
+        ]
+    },
     "Julie Walters": {
         "leadNoms": [
             {
@@ -5670,6 +5980,9 @@
                 "movie": "Billy Elliot",
                 "year": "2000"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Juliette Binoche": {
@@ -5932,6 +6245,7 @@
             }
         ],
         "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Love Actually (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
@@ -5945,11 +6259,6 @@
                 "movie": "Whale Rider",
                 "year": "2003"
             }
-        ]
-    },
-    "Keita Saito": {
-        "movies": [
-            "Scott Pilgrim vs. the World (2010)"
         ]
     },
     "Keith Carradine": {
@@ -6012,7 +6321,9 @@
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
-            "Return of the Jedi (1983)"
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Kerry Condon": {
@@ -6126,6 +6437,9 @@
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Spider-Man (2002)"
         ]
     },
     "Kirstie Alley": {
@@ -6144,6 +6458,12 @@
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ]
+    },
+    "Kris Kristofferson": {
+        "movies": [
+            "Blade (1998)",
+            "Blade II (2002)"
         ]
     },
     "Kristen Stewart": {
@@ -6338,6 +6658,13 @@
             "Promising Young Woman (2020)"
         ]
     },
+    "LeVar Burton": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)"
+        ]
+    },
     "Lea Thompson": {
         "movies": [
             "Howard the Duck (1986)"
@@ -6456,6 +6783,7 @@
             }
         ],
         "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Love Actually (2003)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
@@ -6501,6 +6829,11 @@
             "Places in the Heart (1984)"
         ]
     },
+    "Lindsay Duncan": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
     "Lindsay Lohan": {
         "movies": [
             "The Holiday (2006)"
@@ -6512,6 +6845,11 @@
                 "movie": "A Free Soul",
                 "year": "1931"
             }
+        ]
+    },
+    "Liv Tyler": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "Logan Kim": {
@@ -6551,6 +6889,11 @@
             }
         ]
     },
+    "Lucy Lawless": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Lucy Liu": {
         "movies": [
             "Kung Fu Panda (2008)"
@@ -6568,6 +6911,7 @@
     },
     "Luke Goss": {
         "movies": [
+            "Blade II (2002)",
             "Hellboy II: The Golden Army (2008)"
         ]
     },
@@ -6601,6 +6945,16 @@
                 "movie": "Gods and Monsters",
                 "year": "1998"
             }
+        ]
+    },
+    "M. Night Shyamalan": {
+        "movies": [
+            "Unbreakable (2000)"
+        ]
+    },
+    "Macy Gray": {
+        "movies": [
+            "Spider-Man (2002)"
         ]
     },
     "Madge Sinclair": {
@@ -6659,6 +7013,9 @@
                 "movie": "Gosford Park",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Mahershala Ali": {
@@ -6684,6 +7041,11 @@
     "Mako": {
         "movies": [
             "TMNT (2007)"
+        ]
+    },
+    "Malcolm McDowell": {
+        "movies": [
+            "Star Trek Generations (1994)"
         ]
     },
     "Marc Maron": {
@@ -6781,6 +7143,13 @@
     "Mariel Hemingway": {
         "movies": [
             "Superman IV: The Quest for Peace (1987)"
+        ]
+    },
+    "Marina Sirtis": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)"
         ]
     },
     "Marina de Tavira": {
@@ -7096,6 +7465,11 @@
             "Bone Tomahawk (2015)"
         ]
     },
+    "Matthew Lewis": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
     "Matthew McConaughey": {
         "leadNoms": [
             {
@@ -7329,6 +7703,11 @@
             "Supergirl (1984)"
         ]
     },
+    "Mia Kirshner": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
+        ]
+    },
     "Mia Sara": {
         "movies": [
             "Timecop (1994)"
@@ -7410,7 +7789,10 @@
     },
     "Michael Dorn": {
         "movies": [
-            "Star Trek VI: The Undiscovered Country (1991)"
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)"
         ]
     },
     "Michael Douglas": {
@@ -7449,12 +7831,19 @@
     "Michael Gough": {
         "movies": [
             "Batman (1989)",
-            "Batman Returns (1992)"
+            "Batman Returns (1992)",
+            "Batman Forever (1995)",
+            "Batman & Robin (1997)"
         ]
     },
     "Michael Graham Cox": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Michael Ironside": {
+        "movies": [
+            "Heavy Metal 2000 (2000)"
         ]
     },
     "Michael Jackson": {
@@ -7487,6 +7876,11 @@
         "movies": [
             "Batman (1989)",
             "RoboCop (2014)"
+        ]
+    },
+    "Michael Kelly": {
+        "movies": [
+            "Unbreakable (2000)"
         ]
     },
     "Michael Lerner": {
@@ -7542,6 +7936,11 @@
     "Michael Stuhlbarg": {
         "movies": [
             "Men in Black 3 (2012)"
+        ]
+    },
+    "Michael Wincott": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Michael Winslow": {
@@ -7763,6 +8162,11 @@
             "Forrest Gump (1994)"
         ]
     },
+    "N'Bushe Wright": {
+        "movies": [
+            "Blade (1998)"
+        ]
+    },
     "Nancy Allen": {
         "movies": [
             "Carrie (1976)"
@@ -7823,6 +8227,10 @@
                 "movie": "Closer",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
         ]
     },
     "Nathan Fillion": {
@@ -7838,6 +8246,11 @@
     "Ne-Yo": {
         "movies": [
             "Girls Trip (2017)"
+        ]
+    },
+    "Neal McDonough": {
+        "movies": [
+            "Star Trek: First Contact (1996)"
         ]
     },
     "Ned Beatty": {
@@ -7930,6 +8343,9 @@
                 "movie": "Lion",
                 "year": "2016"
             }
+        ],
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "Nicole Scherzinger": {
@@ -8001,6 +8417,11 @@
             "The Lord of the Rings (1978)"
         ]
     },
+    "Norman Reedus": {
+        "movies": [
+            "Blade II (2002)"
+        ]
+    },
     "Numan Acar": {
         "movies": [
             "Spider-Man: Far From Home (2019)"
@@ -8020,11 +8441,19 @@
                 "movie": "The Shape of Water",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Spider-Man (2002)"
         ]
     },
     "Olga Kurylenko": {
         "movies": [
             "Oblivion (2013)"
+        ]
+    },
+    "Oliver Phelps": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Oliver Stone": {
@@ -8092,6 +8521,7 @@
     },
     "Orlando Bloom": {
         "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
@@ -8123,6 +8553,11 @@
             "Teenage Mutant Ninja Turtles III (1993)"
         ]
     },
+    "Pamela Anderson": {
+        "movies": [
+            "Barb Wire (1996)"
+        ]
+    },
     "Parker Posey": {
         "movies": [
             "Dazed and Confused (1993)"
@@ -8131,7 +8566,9 @@
     "Pat Hingle": {
         "movies": [
             "Batman (1989)",
-            "Batman Returns (1992)"
+            "Batman Returns (1992)",
+            "Batman Forever (1995)",
+            "Batman & Robin (1997)"
         ]
     },
     "Patricia Arquette": {
@@ -8172,6 +8609,10 @@
     },
     "Patrick Stewart": {
         "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "X-Men (2000)",
             "TMNT (2007)"
         ]
     },
@@ -8462,6 +8903,11 @@
             "The Mask (1994)"
         ]
     },
+    "Peter Serafinowicz": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
     "Peter Spears": {
         "movies": [
             "Something's Gotta Give (2003)"
@@ -8629,9 +9075,20 @@
             "Three Amigos (1986)"
         ]
     },
+    "Randy Savage": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Raoul Trujillo": {
         "movies": [
             "Cowboys & Aliens (2011)"
+        ]
+    },
+    "Ray Park": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "X-Men (2000)"
         ]
     },
     "Ray Winstone": {
@@ -8648,6 +9105,11 @@
         "movies": [
             "Hercules (2014)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Rebecca Romijn": {
+        "movies": [
+            "X-Men (2000)"
         ]
     },
     "Rebel Wilson": {
@@ -8740,6 +9202,11 @@
             "Jurassic Park (1993)"
         ]
     },
+    "Richard Brooks": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
+        ]
+    },
     "Richard Burton": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
@@ -8786,6 +9253,7 @@
     },
     "Richard Griffiths": {
         "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
             "Pirates of the Caribbean: On Stranger Tides (2011)"
         ]
     },
@@ -8799,6 +9267,9 @@
                 "movie": "The Field",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Richard Jenkins": {
@@ -8826,6 +9297,11 @@
     "Richard Pryor": {
         "movies": [
             "Superman III (1983)"
+        ]
+    },
+    "Richard Roundtree": {
+        "movies": [
+            "Steel (1997)"
         ]
     },
     "Richard Roxburgh": {
@@ -8873,7 +9349,8 @@
     },
     "Robbie Coltrane": {
         "movies": [
-            "From Hell (2001)"
+            "From Hell (2001)",
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Robbie Rist": {
@@ -9045,7 +9522,8 @@
     },
     "Robin Wright": {
         "movies": [
-            "Forrest Gump (1994)"
+            "Forrest Gump (1994)",
+            "Unbreakable (2000)"
         ]
     },
     "Rodger Bumpass": {
@@ -9065,6 +9543,7 @@
     },
     "Ron Perlman": {
         "movies": [
+            "Blade II (2002)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)",
             "Conan the Barbarian (2011)"
@@ -9122,6 +9601,11 @@
             "Rent (2005)"
         ]
     },
+    "Rose Byrne": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
     "Rose McGowan": {
         "movies": [
             "Conan the Barbarian (2011)"
@@ -9133,6 +9617,9 @@
                 "movie": "Tom & Viv",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Spider-Man (2002)"
         ]
     },
     "Rosie O'Donnell": {
@@ -9187,6 +9674,11 @@
         "movies": [
             "Shakespeare in Love (1998)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+        ]
+    },
+    "Rupert Grint": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Russell Crowe": {
@@ -9293,6 +9785,9 @@
                 "movie": "Blue Jasmine",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
     "Sally Kirkland": {
@@ -9354,7 +9849,8 @@
     },
     "Sam Raimi": {
         "movies": [
-            "Spies Like Us (1985)"
+            "Spies Like Us (1985)",
+            "Spider-Man (2002)"
         ]
     },
     "Sam Richardson": {
@@ -9411,6 +9907,9 @@
         ],
         "movies": [
             "Jurassic Park (1993)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Unbreakable (2000)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Spirit (2008)",
             "RoboCop (2014)",
             "The Hateful Eight (2015)",
@@ -9420,6 +9919,7 @@
     },
     "Sanaa Lathan": {
         "movies": [
+            "Blade (1998)",
             "The Best Man (1999)"
         ]
     },
@@ -9488,11 +9988,6 @@
             "Hellboy (2019)"
         ]
     },
-    "Satya Bhabha": {
-        "movies": [
-            "Scott Pilgrim vs. the World (2010)"
-        ]
-    },
     "Sa\u00efd Taghmaoui": {
         "movies": [
             "Conan the Barbarian (2011)"
@@ -9521,6 +10016,16 @@
     "Scoot McNairy": {
         "movies": [
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Sean Astin": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
+        ]
+    },
+    "Sean Bean": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "Sean Connery": {
@@ -9624,6 +10129,11 @@
             "Love Actually (2003)"
         ]
     },
+    "Shaquille O'Neal": {
+        "movies": [
+            "Steel (1997)"
+        ]
+    },
     "Sharon Stone": {
         "leadNoms": [
             {
@@ -9632,9 +10142,19 @@
             }
         ]
     },
+    "Shawn Ashmore": {
+        "movies": [
+            "X-Men (2000)"
+        ]
+    },
     "Shawn Bradley": {
         "movies": [
             "Space Jam (1996)"
+        ]
+    },
+    "Shawn Roberts": {
+        "movies": [
+            "X-Men (2000)"
         ]
     },
     "Shelley Duvall": {
@@ -9679,11 +10199,6 @@
         ],
         "movies": [
             "The Lake House (2006)"
-        ]
-    },
-    "Shota Saito": {
-        "movies": [
-            "Scott Pilgrim vs. the World (2010)"
         ]
     },
     "Sid Haig": {
@@ -9799,6 +10314,11 @@
             "Atomic Blonde (2017)"
         ]
     },
+    "Sofia Coppola": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
     "Sophia Myles": {
         "movies": [
             "From Hell (2001)"
@@ -9858,6 +10378,11 @@
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
+    "Spencer Treat Clark": {
+        "movies": [
+            "Unbreakable (2000)"
+        ]
+    },
     "Stacy Keach": {
         "movies": [
             "Batman: Mask of the Phantasm (1993)"
@@ -9865,6 +10390,8 @@
     },
     "Stan Lee": {
         "movies": [
+            "X-Men (2000)",
+            "Spider-Man (2002)",
             "Ant-Man (2015)",
             "Avengers: Infinity War (2018)"
         ]
@@ -9896,6 +10423,11 @@
     "Stephen Collins": {
         "movies": [
             "Star Trek: The Motion Picture (1979)"
+        ]
+    },
+    "Stephen Dorff": {
+        "movies": [
+            "Blade (1998)"
         ]
     },
     "Stephen Farrelly": {
@@ -10134,10 +10666,17 @@
             "Saving Private Ryan (1998)"
         ]
     },
+    "Temuera Morrison": {
+        "movies": [
+            "Barb Wire (1996)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
     "Terence Stamp": {
         "movies": [
             "Superman (1978)",
-            "Superman II (1981)"
+            "Superman II (1981)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
     "Teresa Palmer": {
@@ -10205,7 +10744,13 @@
     },
     "Thomas Jane": {
         "movies": [
+            "The Crow: City of Angels (1996)",
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Thomas Kretschmann": {
+        "movies": [
+            "Blade II (2002)"
         ]
     },
     "Thomasin McKenzie": {
@@ -10302,6 +10847,11 @@
             "Ant-Man (2015)"
         ]
     },
+    "Tobey Maguire": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Toby Jones": {
         "movies": [
             "Atomic Blonde (2017)"
@@ -10338,6 +10888,11 @@
         "movies": [
             "Vanilla Sky (2001)",
             "Oblivion (2013)"
+        ]
+    },
+    "Tom Felton": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
     "Tom Hanks": {
@@ -10466,6 +11021,7 @@
         ],
         "movies": [
             "The Fugitive (1993)",
+            "Batman Forever (1995)",
             "Men in Black (1997)",
             "Men in Black II (2002)",
             "Men in Black 3 (2012)"
@@ -10473,7 +11029,8 @@
     },
     "Tommy Lister Jr.": {
         "movies": [
-            "Armed and Dangerous (1986)"
+            "Armed and Dangerous (1986)",
+            "Barb Wire (1996)"
         ]
     },
     "Toni Collette": {
@@ -10504,6 +11061,7 @@
     },
     "Tony Curran": {
         "movies": [
+            "Blade II (2002)",
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
@@ -10524,6 +11082,11 @@
             "How Do You Know (2010)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Tony Todd": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Topher Grace": {
@@ -10565,6 +11128,11 @@
             "Ready Player One (2018)"
         ]
     },
+    "Tyler Mane": {
+        "movies": [
+            "X-Men (2000)"
+        ]
+    },
     "Tyler Perry": {
         "movies": [
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
@@ -10575,16 +11143,26 @@
             "A League of Their Own (1992)"
         ]
     },
+    "Udo Kier": {
+        "movies": [
+            "Barb Wire (1996)",
+            "Blade (1998)"
+        ]
+    },
     "Uma Thurman": {
         "suppNoms": [
             {
                 "movie": "Pulp Fiction",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Batman & Robin (1997)"
         ]
     },
     "Val Kilmer": {
         "movies": [
+            "Batman Forever (1995)",
             "Alexander (2004)"
         ]
     },
@@ -10655,6 +11233,16 @@
             }
         ]
     },
+    "Verne Troyer": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
+    "Victoria Rowell": {
+        "movies": [
+            "Barb Wire (1996)"
+        ]
+    },
     "Viggo Mortensen": {
         "leadNoms": [
             {
@@ -10669,6 +11257,9 @@
                 "movie": "Green Book",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)"
         ]
     },
     "Vin Diesel": {
@@ -10693,6 +11284,11 @@
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ]
+    },
+    "Vincent P\u00e9rez": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
         ]
     },
     "Vincent Schiavelli": {
@@ -10735,6 +11331,11 @@
             }
         ]
     },
+    "Vivica A. Fox": {
+        "movies": [
+            "Batman & Robin (1997)"
+        ]
+    },
     "Vivien Leigh": {
         "leadNoms": [
             {
@@ -10754,7 +11355,8 @@
             "Star Trek III: The Search for Spock (1984)",
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
-            "Star Trek VI: The Undiscovered Country (1991)"
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)"
         ]
     },
     "Walton Goggins": {
@@ -10791,6 +11393,8 @@
     "Warwick Davis": {
         "movies": [
             "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Harry Potter and the Sorcerer's Stone (2001)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "Rogue One: A Star Wars Story (2016)"
         ]
@@ -10811,6 +11415,12 @@
             "Mystery Men (1999)"
         ]
     },
+    "Wesley Snipes": {
+        "movies": [
+            "Blade (1998)",
+            "Blade II (2002)"
+        ]
+    },
     "Whoopi Goldberg": {
         "leadNoms": [
             {
@@ -10825,6 +11435,7 @@
             }
         ],
         "movies": [
+            "Star Trek Generations (1994)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
@@ -10885,6 +11496,7 @@
             }
         ],
         "movies": [
+            "Spider-Man (2002)",
             "John Carter (2012)",
             "John Wick (2014)",
             "The Florida Project (2017)",
@@ -10946,7 +11558,8 @@
             "Star Trek III: The Search for Spock (1984)",
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
-            "Star Trek VI: The Undiscovered Country (1991)"
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)"
         ]
     },
     "William Squire": {
