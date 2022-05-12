@@ -20,7 +20,10 @@ function reset() {
     questions = [];
     answers = [];
     for (const movie of movies) {
-        var category = randomItem(igMovieMap[movie]['categories']);
+        var category = '';
+        if (typeof filterVal === 'undefined' || !filterVal) {
+            category = randomItem(igMovieMap[movie]['categories']);
+        }
         var actorList = igMovieMap[movie]['supportingCast'];
         var randomList = randomItems(3, actorList);
 
