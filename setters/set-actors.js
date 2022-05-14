@@ -1,7 +1,37 @@
 var actorMap = {
+    "Aaron Eckhart": {
+        "movies": [
+            "The Dark Knight (2008)"
+        ]
+    },
+    "Aaron Taylor-Johnson": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
+    "Aasif Mandvi": {
+        "movies": [
+            "Spider-Man 2 (2004)"
+        ]
+    },
     "Abbie Cornish": {
         "movies": [
             "RoboCop (2014)"
+        ]
+    },
+    "Abby Elliott": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (2014)"
+        ]
+    },
+    "Abby Ryder Fortson": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
+    "Abe Vigoda": {
+        "movies": [
+            "Batman: Mask of the Phantasm (1993)"
         ]
     },
     "Abigail Breslin": {
@@ -27,6 +57,11 @@ var actorMap = {
             "Shazam! (2019)",
             "Ready or Not (2019)",
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Adam Carl": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
     "Adam Driver": {
@@ -70,6 +105,9 @@ var actorMap = {
                 "movie": "Babel",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Adrianne Palicki": {
@@ -85,9 +123,26 @@ var actorMap = {
             }
         ]
     },
+    "Adrienne Barbeau": {
+        "movies": [
+            "Swamp Thing (1982)"
+        ]
+    },
+    "Ahmed Best": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
     "Aidan Gillen": {
         "movies": [
             "The Dark Knight Rises (2012)"
+        ]
+    },
+    "Aidan Quinn": {
+        "movies": [
+            "Jonah Hex (2010)"
         ]
     },
     "Akiva Schaffer": {
@@ -169,7 +224,15 @@ var actorMap = {
     },
     "Alan Cumming": {
         "movies": [
+            "X2 (2003)",
+            "Son of the Mask (2005)",
             "Strange Magic (2015)"
+        ]
+    },
+    "Alan Dale": {
+        "movies": [
+            "Star Trek: Nemesis (2002)",
+            "Priest (2011)"
         ]
     },
     "Alan Napier": {
@@ -180,7 +243,26 @@ var actorMap = {
     },
     "Alan Rickman": {
         "movies": [
-            "Love Actually (2003)"
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Love Actually (2003)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Alan Ritchson": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Alan Ruck": {
+        "movies": [
+            "Star Trek Generations (1994)"
         ]
     },
     "Alan Tudyk": {
@@ -257,7 +339,18 @@ var actorMap = {
         ],
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
+        ]
+    },
+    "Alex Borstein": {
+        "movies": [
+            "Catwoman (2004)"
+        ]
+    },
+    "Alexis Bledel": {
+        "movies": [
+            "Sin City (2005)"
         ]
     },
     "Alfie Allen": {
@@ -266,8 +359,14 @@ var actorMap = {
             "Jojo Rabbit (2019)"
         ]
     },
+    "Alfre Woodard": {
+        "movies": [
+            "Star Trek: First Contact (1996)"
+        ]
+    },
     "Alfred Molina": {
         "movies": [
+            "Spider-Man 2 (2004)",
             "Strange Magic (2015)",
             "Promising Young Woman (2020)"
         ]
@@ -275,6 +374,16 @@ var actorMap = {
     "Alice Eve": {
         "movies": [
             "Men in Black 3 (2012)"
+        ]
+    },
+    "Alice Krige": {
+        "movies": [
+            "Star Trek: First Contact (1996)"
+        ]
+    },
+    "Alicia Silverstone": {
+        "movies": [
+            "Batman & Robin (1997)"
         ]
     },
     "Alicia Vikander": {
@@ -380,6 +489,11 @@ var actorMap = {
             }
         ]
     },
+    "Amy Yasbeck": {
+        "movies": [
+            "The Mask (1994)"
+        ]
+    },
     "Ana de la Reguera": {
         "movies": [
             "Cowboys & Aliens (2011)"
@@ -398,9 +512,19 @@ var actorMap = {
             }
         ]
     },
+    "Andre Braugher": {
+        "movies": [
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
+        ]
+    },
     "Andrea Riseborough": {
         "movies": [
             "Oblivion (2013)"
+        ]
+    },
+    "Andrew Bryniarski": {
+        "movies": [
+            "Batman Returns (1992)"
         ]
     },
     "Andrew Garfield": {
@@ -448,12 +572,27 @@ var actorMap = {
             "Hot Rod (2007)"
         ]
     },
+    "Andy Serkis": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
+    "Ang Lee": {
+        "movies": [
+            "Hulk (2003)"
+        ]
+    },
     "Angela Bassett": {
         "leadNoms": [
             {
                 "movie": "What's Love Got to Do with It",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Green Lantern (2011)"
         ]
     },
     "Angela Lansbury": {
@@ -488,12 +627,20 @@ var actorMap = {
         "movies": [
             "Alexander (2004)",
             "Kung Fu Panda (2008)",
+            "Wanted (2008)",
             "Eternals (2021)"
         ]
     },
     "Angourie Rice": {
         "movies": [
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "Angus MacInnes": {
+        "movies": [
+            "Star Wars (1977)",
+            "Hellboy (2004)",
+            "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Anjelica Huston": {
@@ -551,7 +698,10 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Almost Famous (2000)"
+            "X-Men (2000)",
+            "Almost Famous (2000)",
+            "X2 (2003)",
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Anna Popplewell": {
@@ -564,6 +714,16 @@ var actorMap = {
     "Anna Walton": {
         "movies": [
             "Hellboy II: The Golden Army (2008)"
+        ]
+    },
+    "Annabelle Wallis": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "Annabeth Gish": {
+        "movies": [
+            "Steel (1997)"
         ]
     },
     "Anne Archer": {
@@ -642,6 +802,11 @@ var actorMap = {
             "Star Wars (1977)",
             "The Lord of the Rings (1978)",
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Clone Wars (2008)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -676,12 +841,20 @@ var actorMap = {
         ],
         "movies": [
             "The Mask of Zorro (1998)",
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "Thor (2011)"
+        ]
+    },
+    "Anthony Mackie": {
+        "movies": [
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Anthony Michael Hall": {
         "movies": [
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "The Dark Knight (2008)"
         ]
     },
     "Anthony Perkins": {
@@ -696,6 +869,11 @@ var actorMap = {
         "movies": [
             "Dazed and Confused (1993)",
             "Rent (2005)"
+        ]
+    },
+    "Anton Yelchin": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Antonio Banderas": {
@@ -728,6 +906,11 @@ var actorMap = {
             }
         ]
     },
+    "Ariana Greenblatt": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Ariana Richards": {
         "movies": [
             "Jurassic Park (1993)"
@@ -741,6 +924,11 @@ var actorMap = {
             }
         ]
     },
+    "Arnold Schwarzenegger": {
+        "movies": [
+            "Batman & Robin (1997)"
+        ]
+    },
     "Artie Lange": {
         "movies": [
             "Mystery Men (1999)"
@@ -749,6 +937,11 @@ var actorMap = {
     "Asher Angel": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ashley Eckstein": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Ashton Kutcher": {
@@ -788,6 +981,11 @@ var actorMap = {
             "My Fair Lady (1964)"
         ]
     },
+    "August Schellenberg": {
+        "movies": [
+            "Heavy Metal (1981)"
+        ]
+    },
     "Aunjanue Ellis": {
         "suppNoms": [
             {
@@ -806,7 +1004,7 @@ var actorMap = {
             "Spies Like Us (1985)"
         ]
     },
-    "B.D. Wong": {
+    "BD Wong": {
         "movies": [
             "Jurassic Park (1993)"
         ]
@@ -862,13 +1060,21 @@ var actorMap = {
     "Ben Affleck": {
         "movies": [
             "Dazed and Confused (1993)",
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Daredevil (2003)"
         ]
     },
     "Ben Barnes": {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "Ben Foster": {
+        "movies": [
+            "The Punisher (2004)",
+            "X-Men: The Last Stand (2006)",
+            "30 Days of Night (2007)"
         ]
     },
     "Ben Kingsley": {
@@ -901,6 +1107,12 @@ var actorMap = {
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Ben Stein": {
+        "movies": [
+            "The Mask (1994)",
+            "Son of the Mask (2005)"
+        ]
+    },
     "Ben Stiller": {
         "movies": [
             "Mystery Men (1999)"
@@ -916,11 +1128,15 @@ var actorMap = {
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Benedict Wong": {
         "movies": [
-            "Moon (2009)"
+            "Moon (2009)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Benicio del Toro": {
@@ -933,6 +1149,21 @@ var actorMap = {
                 "movie": "21 Grams",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "Sin City (2005)",
+            "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Benjamin Bratt": {
+        "movies": [
+            "Catwoman (2004)"
+        ]
+    },
+    "Bernard Hill": {
+        "movies": [
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
         ]
     },
     "Bette Davis": {
@@ -1001,6 +1232,11 @@ var actorMap = {
             "I Still Know What You Did Last Summer (1998)"
         ]
     },
+    "Bill Duke": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
+        ]
+    },
     "Bill Hader": {
         "movies": [
             "Knocked Up (2007)",
@@ -1027,12 +1263,26 @@ var actorMap = {
         "movies": [
             "Love Actually (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+        ]
+    },
+    "Bill Nunn": {
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
+    "Bill O'Reilly": {
+        "movies": [
+            "Iron Man 2 (2010)"
         ]
     },
     "Bill Paxton": {
         "movies": [
-            "Stripes (1981)"
+            "Stripes (1981)",
+            "2 Guns (2013)"
         ]
     },
     "Bill Pullman": {
@@ -1064,14 +1314,29 @@ var actorMap = {
             "Love Actually (2003)"
         ]
     },
+    "Billy Boyd": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
     "Billy Crudup": {
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Watchmen (2009)"
         ]
     },
     "Billy Dee Williams": {
         "movies": [
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
+            "Batman (1989)"
+        ]
+    },
+    "Billy Idol": {
+        "movies": [
+            "Heavy Metal 2000 (2000)"
         ]
     },
     "Biz Markie": {
@@ -1079,9 +1344,24 @@ var actorMap = {
             "Men in Black II (2002)"
         ]
     },
+    "Blake Clark": {
+        "movies": [
+            "The Mask (1994)"
+        ]
+    },
+    "Blake Lively": {
+        "movies": [
+            "Green Lantern (2011)"
+        ]
+    },
     "Bo Burnham": {
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Bob Balaban": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Bob Gunton": {
@@ -1094,9 +1374,19 @@ var actorMap = {
             "Spies Like Us (1985)"
         ]
     },
+    "Bob Hoskins": {
+        "movies": [
+            "Son of the Mask (2005)"
+        ]
+    },
     "Bob Peck": {
         "movies": [
             "Jurassic Park (1993)"
+        ]
+    },
+    "Bobby Cannavale": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Bokeem Woodbine": {
@@ -1104,9 +1394,26 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Bonnie Wright": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Boris Kodjoe": {
         "movies": [
             "Surrogates (2009)"
+        ]
+    },
+    "Brad Bird": {
+        "movies": [
+            "The Incredibles (2004)"
         ]
     },
     "Brad Dourif": {
@@ -1115,6 +1422,15 @@ var actorMap = {
                 "movie": "One Flew Over the Cuckoo\u2019s Nest",
                 "year": "1975"
             }
+        ],
+        "movies": [
+            "The Lord of the Rings: The Two Towers (2002)",
+            "Priest (2011)"
+        ]
+    },
+    "Brad Garrett": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
     "Brad Pitt": {
@@ -1137,6 +1453,11 @@ var actorMap = {
                 "movie": "Once Upon a Time in Hollywood",
                 "year": "2019"
             }
+        ]
+    },
+    "Brad Renfro": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Bradley Cooper": {
@@ -1162,11 +1483,18 @@ var actorMap = {
         ],
         "movies": [
             "Valentine's Day (2010)",
-            "10 Cloverfield Lane (2016)"
+            "10 Cloverfield Lane (2016)",
+            "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Brandon Lee": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Brandon Routh": {
         "movies": [
+            "Superman Returns (2006)",
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
@@ -1202,6 +1530,21 @@ var actorMap = {
             }
         ]
     },
+    "Brendan Gleeson": {
+        "movies": [
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+        ]
+    },
+    "Brent Spiner": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "Star Trek: Nemesis (2002)"
+        ]
+    },
     "Brenton Thwaites": {
         "movies": [
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -1209,6 +1552,7 @@ var actorMap = {
     },
     "Brett Cullen": {
         "movies": [
+            "Ghost Rider (2007)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -1220,6 +1564,29 @@ var actorMap = {
     "Brian Blessed": {
         "movies": [
             "Alexander (2004)"
+        ]
+    },
+    "Brian Cox": {
+        "movies": [
+            "X2 (2003)",
+            "Red (2010)"
+        ]
+    },
+    "Brian Posehn": {
+        "movies": [
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
+        ]
+    },
+    "Brian Tee": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Brian Tochi": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)",
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "Teenage Mutant Ninja Turtles III (1993)"
         ]
     },
     "Brian Tyree Henry": {
@@ -1248,9 +1615,22 @@ var actorMap = {
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Brittany Murphy": {
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
     "Brooklynn Prince": {
         "movies": [
             "The Florida Project (2017)"
+        ]
+    },
+    "Bruce Campbell": {
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Sky High (2005)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Bruce Davison": {
@@ -1261,7 +1641,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Spies Like Us (1985)"
+            "Spies Like Us (1985)",
+            "X-Men (2000)",
+            "X2 (2003)"
         ]
     },
     "Bruce Dern": {
@@ -1281,6 +1663,16 @@ var actorMap = {
             "The Hateful Eight (2015)"
         ]
     },
+    "Bruce Glover": {
+        "movies": [
+            "Ghost World (2001)"
+        ]
+    },
+    "Bruce Greenwood": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Bruce McGill": {
         "movies": [
             "Timecop (1994)"
@@ -1288,7 +1680,10 @@ var actorMap = {
     },
     "Bruce Willis": {
         "movies": [
-            "Surrogates (2009)"
+            "Unbreakable (2000)",
+            "Sin City (2005)",
+            "Surrogates (2009)",
+            "Red (2010)"
         ]
     },
     "Bryan Cranston": {
@@ -1302,6 +1697,16 @@ var actorMap = {
             "Saving Private Ryan (1998)",
             "John Carter (2012)",
             "Power Rangers (2017)"
+        ]
+    },
+    "Bryan Singer": {
+        "movies": [
+            "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Bryce Dallas Howard": {
+        "movies": [
+            "Spider-Man 3 (2007)"
         ]
     },
     "Burgess Meredith": {
@@ -1349,6 +1754,11 @@ var actorMap = {
             "Rocky (1976)"
         ]
     },
+    "Byron Mann": {
+        "movies": [
+            "Catwoman (2004)"
+        ]
+    },
     "B\u00e9r\u00e9nice Bejo": {
         "suppNoms": [
             {
@@ -1359,13 +1769,26 @@ var actorMap = {
     },
     "Caleb Landry Jones": {
         "movies": [
+            "X-Men: First Class (2011)",
             "The Florida Project (2017)"
+        ]
+    },
+    "Cam Gigandet": {
+        "movies": [
+            "Priest (2011)"
+        ]
+    },
+    "Cameron Bright": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Cameron Diaz": {
         "movies": [
+            "The Mask (1994)",
             "Vanilla Sky (2001)",
-            "The Holiday (2006)"
+            "The Holiday (2006)",
+            "The Green Hornet (2011)"
         ]
     },
     "Carey Mulligan": {
@@ -1388,6 +1811,12 @@ var actorMap = {
             "Rocky (1976)"
         ]
     },
+    "Carla Gugino": {
+        "movies": [
+            "Sin City (2005)",
+            "Watchmen (2009)"
+        ]
+    },
     "Carol Burnett": {
         "movies": [
             "Horton Hears a Who! (2008)"
@@ -1400,13 +1829,15 @@ var actorMap = {
     },
     "Carrie Coon": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
     "Carrie Fisher": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Cary Grant": {
@@ -1419,6 +1850,11 @@ var actorMap = {
                 "movie": "None but the Lonely Heart",
                 "year": "1944"
             }
+        ]
+    },
+    "Cary-Hiroyuki Tagawa": {
+        "movies": [
+            "Elektra (2005)"
         ]
     },
     "Casey Affleck": {
@@ -1475,6 +1911,11 @@ var actorMap = {
                 "movie": "I'm Not There",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
         ]
     },
     "Catherine Deneuve": {
@@ -1483,6 +1924,11 @@ var actorMap = {
                 "movie": "Indochine",
                 "year": "1992"
             }
+        ]
+    },
+    "Catherine Hicks": {
+        "movies": [
+            "Star Trek IV: The Voyage Home (1986)"
         ]
     },
     "Catherine Keener": {
@@ -1509,6 +1955,11 @@ var actorMap = {
             "The Legend of Zorro (2005)"
         ]
     },
+    "Cayden Boyd": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
+        ]
+    },
     "Cecil Kellaway": {
         "movies": [
             "Guess Who's Coming to Dinner (1967)"
@@ -1530,11 +1981,19 @@ var actorMap = {
                 "movie": "Ma Rainey's Black Bottom",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Channing Tatum": {
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Charlayne Woodard": {
+        "movies": [
+            "Unbreakable (2000)"
         ]
     },
     "Charles Barkley": {
@@ -1610,6 +2069,11 @@ var actorMap = {
             "Three Amigos (1986)"
         ]
     },
+    "Chip Zien": {
+        "movies": [
+            "Howard the Duck (1986)"
+        ]
+    },
     "Chiwetel Ejiofor": {
         "leadNoms": [
             {
@@ -1619,6 +2083,11 @@ var actorMap = {
         ],
         "movies": [
             "Love Actually (2003)"
+        ]
+    },
+    "Chlo\u00eb Grace Moretz": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Chlo\u00eb Sevigny": {
@@ -1631,6 +2100,7 @@ var actorMap = {
     },
     "Chow Yun-fat": {
         "movies": [
+            "Bulletproof Monk (2003)",
             "Pirates of the Caribbean: At World's End (2007)"
         ]
     },
@@ -1644,11 +2114,20 @@ var actorMap = {
     },
     "Chris Evans": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Fantastic Four (2005)",
+            "TMNT (2007)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "The Losers (2010)",
+            "Scott Pilgrim vs. the World (2010)",
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Chris Hemsworth": {
         "movies": [
+            "Star Trek (2009)",
+            "Thor (2011)",
+            "Avengers: Infinity War (2018)",
             "Men in Black: International (2019)"
         ]
     },
@@ -1657,14 +2136,26 @@ var actorMap = {
             "Cast Away (2000)"
         ]
     },
+    "Chris O'Donnell": {
+        "movies": [
+            "Batman Forever (1995)",
+            "Batman & Robin (1997)"
+        ]
+    },
     "Chris Parnell": {
         "movies": [
             "Hot Rod (2007)"
         ]
     },
+    "Chris Pine": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Chris Pratt": {
         "movies": [
-            "Take Me Home Tonight (2011)"
+            "Take Me Home Tonight (2011)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Christian Bale": {
@@ -1689,6 +2180,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Batman Begins (2005)",
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -1707,6 +2200,9 @@ var actorMap = {
                 "movie": "Django Unchained",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "The Green Hornet (2011)"
         ]
     },
     "Christopher Guard": {
@@ -1714,8 +2210,23 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "Christopher Lee": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Clone Wars (2008)"
+        ]
+    },
+    "Christopher Lloyd": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)"
+        ]
+    },
     "Christopher Mintz-Plasse": {
         "movies": [
+            "Kick-Ass (2010)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -1735,13 +2246,18 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Star Trek VI: The Undiscovered Country (1991)",
             "Alexander (2004)",
-            "The Lake House (2006)"
+            "The Lake House (2006)",
+            "Priest (2011)"
         ]
     },
     "Christopher Reeve": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman III (1983)",
+            "Superman IV: The Quest for Peace (1987)"
         ]
     },
     "Christopher Walken": {
@@ -1757,7 +2273,13 @@ var actorMap = {
         ],
         "movies": [
             "Annie Hall (1977)",
-            "The Deer Hunter (1978)"
+            "The Deer Hunter (1978)",
+            "Batman Returns (1992)"
+        ]
+    },
+    "Christopher Young": {
+        "movies": [
+            "Spider-Man 3 (2007)"
         ]
     },
     "Ciar\u00e1n Hinds": {
@@ -1768,11 +2290,15 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Road to Perdition (2002)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "John Carter (2012)"
         ]
     },
     "Cillian Murphy": {
         "movies": [
+            "Batman Begins (2005)",
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
             "A Quiet Place Part II (2021)"
         ]
@@ -1784,8 +2310,21 @@ var actorMap = {
     },
     "Clancy Brown": {
         "movies": [
+            "Green Lantern (2011)",
             "Cowboys & Aliens (2011)",
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Clark Duke": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
+    "Clark Gregg": {
+        "movies": [
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
+            "Thor (2011)"
         ]
     },
     "Clarke Peters": {
@@ -1793,9 +2332,22 @@ var actorMap = {
             "John Wick (2014)"
         ]
     },
+    "Cliff Robertson": {
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
     "Clifton Collins Jr.": {
         "movies": [
+            "Star Trek (2009)",
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Clifton James": {
+        "movies": [
+            "Superman II (1981)"
         ]
     },
     "Clint Eastwood": {
@@ -1810,16 +2362,37 @@ var actorMap = {
             }
         ]
     },
+    "Clint Howard": {
+        "movies": [
+            "Barb Wire (1996)"
+        ]
+    },
     "Clive Owen": {
         "suppNoms": [
             {
                 "movie": "Closer",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
+    "Cloris Leachman": {
+        "movies": [
+            "Sky High (2005)"
+        ]
+    },
+    "Cl\u00e9mence Po\u00e9sy": {
+        "movies": [
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Cobie Smulders": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -1830,6 +2403,7 @@ var actorMap = {
     },
     "Colin Farrell": {
         "movies": [
+            "Daredevil (2003)",
             "Alexander (2004)"
         ]
     },
@@ -1849,6 +2423,21 @@ var actorMap = {
             "Love Actually (2003)"
         ]
     },
+    "Colm Feore": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
+    "Columbus Short": {
+        "movies": [
+            "The Losers (2010)"
+        ]
+    },
+    "Common": {
+        "movies": [
+            "Wanted (2008)"
+        ]
+    },
     "Conan O'Brien": {
         "movies": [
             "Vanilla Sky (2001)"
@@ -1864,14 +2453,35 @@ var actorMap = {
             "Shazam! (2019)"
         ]
     },
+    "Corey Feldman": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)",
+            "Teenage Mutant Ninja Turtles III (1993)"
+        ]
+    },
+    "Corey Stoll": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Costa-Gavras": {
         "movies": [
             "Spies Like Us (1985)"
         ]
     },
+    "Craig Ferguson": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
     "Craig Robinson": {
         "movies": [
             "Knocked Up (2007)"
+        ]
+    },
+    "Craig T. Nelson": {
+        "movies": [
+            "The Incredibles (2004)"
         ]
     },
     "Cuba Gooding Jr.": {
@@ -1911,6 +2521,11 @@ var actorMap = {
             "Power Rangers (2017)"
         ]
     },
+    "Dakota Goyo": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Dan Aykroyd": {
         "suppNoms": [
             {
@@ -1930,18 +2545,36 @@ var actorMap = {
             "Take Me Home Tonight (2011)"
         ]
     },
+    "Dana Delany": {
+        "movies": [
+            "Batman: Mask of the Phantasm (1993)"
+        ]
+    },
+    "Danai Gurira": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Dane Cook": {
         "movies": [
             "Mystery Men (1999)"
         ]
     },
+    "Dania Ramirez": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
+        ]
+    },
     "Daniel Craig": {
         "movies": [
+            "Road to Perdition (2002)",
             "Cowboys & Aliens (2011)"
         ]
     },
     "Daniel Dae Kim": {
         "movies": [
+            "Hulk (2003)",
+            "Spider-Man 2 (2004)",
             "Hellboy (2019)"
         ]
     },
@@ -1973,6 +2606,11 @@ var actorMap = {
             }
         ]
     },
+    "Daniel Henney": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
     "Daniel Kaluuya": {
         "leadNoms": [
             {
@@ -1987,9 +2625,31 @@ var actorMap = {
             }
         ]
     },
+    "Daniel Logan": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
+    "Daniel Radcliffe": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Daniel Roebuck": {
         "movies": [
             "The Fugitive (1993)"
+        ]
+    },
+    "Danielle Panabaker": {
+        "movies": [
+            "Sky High (2005)"
         ]
     },
     "Danny Aiello": {
@@ -2003,12 +2663,19 @@ var actorMap = {
     "Danny DeVito": {
         "movies": [
             "Terms of Endearment (1983)",
+            "Batman Returns (1992)",
             "Space Jam (1996)"
         ]
     },
     "Danny Glover": {
         "movies": [
             "Places in the Heart (1984)"
+        ]
+    },
+    "Danny Huston": {
+        "movies": [
+            "30 Days of Night (2007)",
+            "X-Men Origins: Wolverine (2009)"
         ]
     },
     "Danny McBride": {
@@ -2026,9 +2693,19 @@ var actorMap = {
             "John Carter (2012)"
         ]
     },
+    "Dave Bautista": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Dave Filoni": {
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "Dave Foley": {
+        "movies": [
+            "Sky High (2005)"
         ]
     },
     "Dave Thomas": {
@@ -2041,6 +2718,17 @@ var actorMap = {
             "Bone Tomahawk (2015)"
         ]
     },
+    "David Bradley": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "David Buck": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -2049,8 +2737,15 @@ var actorMap = {
     "David Cross": {
         "movies": [
             "Men in Black (1997)",
+            "Ghost World (2001)",
             "Men in Black II (2002)",
             "Kung Fu Panda (2008)"
+        ]
+    },
+    "David Dastmalchian": {
+        "movies": [
+            "The Dark Knight (2008)",
+            "Ant-Man (2015)"
         ]
     },
     "David Denman": {
@@ -2065,6 +2760,7 @@ var actorMap = {
     },
     "David Harbour": {
         "movies": [
+            "The Green Hornet (2011)",
             "Hellboy (2019)"
         ]
     },
@@ -2075,6 +2771,7 @@ var actorMap = {
     },
     "David Patrick Kelly": {
         "movies": [
+            "The Crow (1994)",
             "John Wick (2014)"
         ]
     },
@@ -2084,12 +2781,16 @@ var actorMap = {
                 "movie": "Mr. Saturday Night",
                 "year": "1992"
             }
+        ],
+        "movies": [
+            "Howard the Duck (1986)"
         ]
     },
     "David Prowse": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "David Schwimmer": {
@@ -2108,18 +2809,43 @@ var actorMap = {
             "A League of Their Own (1992)"
         ]
     },
+    "David Tennant": {
+        "movies": [
+            "Harry Potter and the Goblet of Fire (2005)"
+        ]
+    },
+    "David Thewlis": {
+        "movies": [
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "David Walliams": {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)"
         ]
     },
+    "David Warner": {
+        "movies": [
+            "Star Trek V: The Final Frontier (1989)",
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
     "David Wenham": {
         "movies": [
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "300 (2007)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
     "Dawn French": {
         "movies": [
+            "Harry Potter and the Prisoner of Azkaban (2004)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
         ]
     },
@@ -2130,7 +2856,12 @@ var actorMap = {
     },
     "DeForest Kelley": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)"
         ]
     },
     "DeObia Oparei": {
@@ -2170,6 +2901,11 @@ var actorMap = {
             "Terms of Endearment (1983)"
         ]
     },
+    "Dee Bradley Baker": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
+        ]
+    },
     "Demi\u00e1n Bichir": {
         "leadNoms": [
             {
@@ -2184,7 +2920,8 @@ var actorMap = {
     "Denis Lawson": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)"
         ]
     },
     "Denise Richards": {
@@ -2245,6 +2982,9 @@ var actorMap = {
                 "movie": "Glory",
                 "year": "1989"
             }
+        ],
+        "movies": [
+            "2 Guns (2013)"
         ]
     },
     "Dev Patel": {
@@ -2259,6 +2999,16 @@ var actorMap = {
         "movies": [
             "Surrogates (2009)",
             "R.I.P.D. (2013)"
+        ]
+    },
+    "Devon Aoki": {
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
+    "Dexter Fletcher": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Dexter Gordon": {
@@ -2338,6 +3088,11 @@ var actorMap = {
             "Forrest Gump (1994)"
         ]
     },
+    "Dick Miller": {
+        "movies": [
+            "Batman: Mask of the Phantasm (1993)"
+        ]
+    },
     "Dick Van Patten": {
         "movies": [
             "Spaceballs (1987)"
@@ -2353,6 +3108,11 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Dina Meyer": {
+        "movies": [
+            "Star Trek: Nemesis (2002)"
+        ]
+    },
     "Djimon Hounsou": {
         "suppNoms": [
             {
@@ -2365,6 +3125,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Constantine (2005)",
             "Shazam! (2019)",
             "A Quiet Place Part II (2021)"
         ]
@@ -2381,12 +3142,27 @@ var actorMap = {
     },
     "Domhnall Gleeson": {
         "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Dredd (2012)"
         ]
     },
     "Dominic Guard": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Dominic Monaghan": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
+    "Dominic Purcell": {
+        "movies": [
+            "Blade: Trinity (2004)"
         ]
     },
     "Dominic Scott Kay": {
@@ -2396,6 +3172,9 @@ var actorMap = {
     },
     "Dominic West": {
         "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "300 (2007)",
+            "Punisher: War Zone (2008)",
             "John Carter (2012)"
         ]
     },
@@ -2410,6 +3189,10 @@ var actorMap = {
                 "movie": "Hotel Rwanda",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Iron Man 2 (2010)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Don Lee": {
@@ -2417,13 +3200,26 @@ var actorMap = {
             "Eternals (2021)"
         ]
     },
+    "Donal Logue": {
+        "movies": [
+            "Blade (1998)",
+            "Ghost Rider (2007)"
+        ]
+    },
     "Donna Dixon": {
         "movies": [
             "Spies Like Us (1985)"
         ]
     },
+    "Donna Murphy": {
+        "movies": [
+            "Star Trek: Insurrection (1998)",
+            "Spider-Man 2 (2004)"
+        ]
+    },
     "Donnie Yen": {
         "movies": [
+            "Blade II (2002)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -2437,10 +3233,17 @@ var actorMap = {
     },
     "Doug Jones": {
         "movies": [
+            "Batman Returns (1992)",
             "Mystery Men (1999)",
             "Men in Black II (2002)",
             "Hellboy (2004)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Hellboy II: The Golden Army (2008)"
+        ]
+    },
+    "Drew Barrymore": {
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "Dustin Hoffman": {
@@ -2484,9 +3287,26 @@ var actorMap = {
             "Hercules (2014)"
         ]
     },
+    "Dylan Baker": {
+        "movies": [
+            "Road to Perdition (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
+    "E. G. Marshall": {
+        "movies": [
+            "Superman II (1981)"
+        ]
+    },
     "Ebon Moss-Bachrach": {
         "movies": [
             "The Lake House (2006)"
+        ]
+    },
+    "Ed Begley Jr.": {
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "Ed Harris": {
@@ -2512,6 +3332,7 @@ var actorMap = {
         ],
         "movies": [
             "Places in the Heart (1984)",
+            "A History of Violence (2005)",
             "Gravity (2013)"
         ]
     },
@@ -2521,8 +3342,14 @@ var actorMap = {
             "The Chronicles of Narnia: Prince Caspian (2008)"
         ]
     },
+    "Eddie Jemison": {
+        "movies": [
+            "The Punisher (2004)"
+        ]
+    },
     "Eddie Marsan": {
         "movies": [
+            "V for Vendetta (2006)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -2546,6 +3373,11 @@ var actorMap = {
             }
         ]
     },
+    "Edi Gathegi": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
     "Edie McClurg": {
         "movies": [
             "Carrie (1976)"
@@ -2557,12 +3389,21 @@ var actorMap = {
             "The Holiday (2006)"
         ]
     },
+    "Edward Furlong": {
+        "movies": [
+            "The Green Hornet (2011)"
+        ]
+    },
     "Edward James Olmos": {
         "leadNoms": [
             {
                 "movie": "Stand and Deliver",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "The Green Hornet (2011)",
+            "2 Guns (2013)"
         ]
     },
     "Edward Norton": {
@@ -2581,6 +3422,9 @@ var actorMap = {
                 "movie": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "year": "2014"
             }
+        ],
+        "movies": [
+            "The Incredible Hulk (2008)"
         ]
     },
     "Edwin Hodge": {
@@ -2598,9 +3442,23 @@ var actorMap = {
             "The Holiday (2006)"
         ]
     },
+    "Elias Koteas": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)",
+            "Teenage Mutant Ninja Turtles III (1993)"
+        ]
+    },
     "Elijah Kelley": {
         "movies": [
             "Strange Magic (2015)"
+        ]
+    },
+    "Elijah Wood": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "Sin City (2005)"
         ]
     },
     "Elisabeth Shue": {
@@ -2613,7 +3471,20 @@ var actorMap = {
     },
     "Elizabeth Banks": {
         "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)",
             "Power Rangers (2017)"
+        ]
+    },
+    "Elizabeth McGovern": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
+    "Elizabeth Olsen": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Elizabeth Taylor": {
@@ -2678,6 +3549,11 @@ var actorMap = {
             }
         ]
     },
+    "Ellen Pompeo": {
+        "movies": [
+            "Daredevil (2003)"
+        ]
+    },
     "Ellen Wong": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
@@ -2689,6 +3565,9 @@ var actorMap = {
                 "movie": "Juno",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Elliott Gould": {
@@ -2697,6 +3576,11 @@ var actorMap = {
                 "movie": "Bob & Carol & Ted & Alice",
                 "year": "1969"
             }
+        ]
+    },
+    "Elon Musk": {
+        "movies": [
+            "Iron Man 2 (2010)"
         ]
     },
     "Emerald Fennell": {
@@ -2773,8 +3657,23 @@ var actorMap = {
         ],
         "movies": [
             "Love Actually (2003)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Emma Watson": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Emmanuelle Riva": {
@@ -2785,9 +3684,21 @@ var actorMap = {
             }
         ]
     },
+    "Eric Bana": {
+        "movies": [
+            "Hulk (2003)",
+            "Star Trek (2009)"
+        ]
+    },
     "Eric Dane": {
         "movies": [
+            "X-Men: The Last Stand (2006)",
             "Valentine's Day (2010)"
+        ]
+    },
+    "Eric Roberts": {
+        "movies": [
+            "The Dark Knight (2008)"
         ]
     },
     "Eric Stonestreet": {
@@ -2800,9 +3711,20 @@ var actorMap = {
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Ernest Borgnine": {
+        "movies": [
+            "Red (2010)"
+        ]
+    },
     "Ernie Hudson": {
         "movies": [
+            "The Crow (1994)",
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Ernie Reyes Jr.": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
     "Ethan Hawke": {
@@ -2839,17 +3761,55 @@ var actorMap = {
     },
     "Eugene Levy": {
         "movies": [
+            "Heavy Metal (1981)",
             "Armed and Dangerous (1986)"
+        ]
+    },
+    "Eva Marie Saint": {
+        "movies": [
+            "Superman Returns (2006)"
         ]
     },
     "Eva Mendes": {
         "movies": [
-            "Knocked Up (2007)"
+            "Ghost Rider (2007)",
+            "Knocked Up (2007)",
+            "The Spirit (2008)"
+        ]
+    },
+    "Evan Peters": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Evan Rachel Wood": {
         "movies": [
             "Strange Magic (2015)"
+        ]
+    },
+    "Evangeline Lilly": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
+    "Evanna Lynch": {
+        "movies": [
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Ewan McGregor": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
+    "F. Murray Abraham": {
+        "movies": [
+            "Star Trek: Insurrection (1998)"
         ]
     },
     "Fairuza Balk": {
@@ -2860,6 +3820,18 @@ var actorMap = {
     "Faithe Herman": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Famke Janssen": {
+        "movies": [
+            "X-Men (2000)",
+            "X2 (2003)",
+            "X-Men: The Last Stand (2006)"
+        ]
+    },
+    "Faye Dunaway": {
+        "movies": [
+            "Supergirl (1984)"
         ]
     },
     "Felicity Huffman": {
@@ -2894,6 +3866,15 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Fiona Shaw": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+        ]
+    },
     "Florence Pugh": {
         "suppNoms": [
             {
@@ -2911,6 +3892,11 @@ var actorMap = {
         ],
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "Frances Conroy": {
+        "movies": [
+            "Catwoman (2004)"
         ]
     },
     "Frances McDormand": {
@@ -2958,12 +3944,39 @@ var actorMap = {
                 "movie": "Frost/Nixon",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Superman Returns (2006)"
+        ]
+    },
+    "Frank Miller": {
+        "movies": [
+            "Daredevil (2003)",
+            "Sin City (2005)",
+            "The Spirit (2008)"
         ]
     },
     "Frank Oz": {
         "movies": [
             "The Empire Strikes Back (1980)",
-            "Spies Like Us (1985)"
+            "Return of the Jedi (1983)",
+            "Spies Like Us (1985)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
+    "Frank Welker": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)",
+            "The Return of Swamp Thing (1989)",
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "TMNT (2007)"
+        ]
+    },
+    "Fran\u00e7ois Chau": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
     "Fred Melamed": {
@@ -2975,6 +3988,13 @@ var actorMap = {
         "movies": [
             "I Know What You Did Last Summer (1997)",
             "I Still Know What You Did Last Summer (1998)"
+        ]
+    },
+    "Freddie Stroma": {
+        "movies": [
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Fredric Lehne": {
@@ -2990,9 +4010,29 @@ var actorMap = {
             }
         ]
     },
+    "Gabriel Macht": {
+        "movies": [
+            "The Spirit (2008)"
+        ]
+    },
+    "Garrett Morris": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Garry Marshall": {
         "movies": [
             "A League of Their Own (1992)"
+        ]
+    },
+    "Garry Shandling": {
+        "movies": [
+            "Iron Man 2 (2010)"
+        ]
+    },
+    "Gary Anthony Williams": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
     "Gary Busey": {
@@ -3043,6 +4083,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Batman Begins (2005)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "The Dark Knight (2008)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Dark Knight Rises (2012)",
             "RoboCop (2014)"
         ]
@@ -3056,6 +4102,19 @@ var actorMap = {
         ],
         "movies": [
             "Forrest Gump (1994)"
+        ]
+    },
+    "Gates McFadden": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Gattlin Griffith": {
+        "movies": [
+            "Green Lantern (2011)"
         ]
     },
     "Geena Davis": {
@@ -3078,6 +4137,13 @@ var actorMap = {
     "Gemma Chan": {
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Gemma Jones": {
+        "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Gene Hackman": {
@@ -3106,7 +4172,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman IV: The Quest for Peace (1987)"
         ]
     },
     "Gene Wilder": {
@@ -3145,6 +4213,7 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Green Lantern (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
@@ -3170,12 +4239,18 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Batman & Robin (1997)",
             "Gravity (2013)"
         ]
     },
     "George Lopez": {
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "George Lucas": {
+        "movies": [
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
         ]
     },
     "George Segal": {
@@ -3185,7 +4260,17 @@ var actorMap = {
     },
     "George Takei": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
+    "George Wallace": {
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "George Wyner": {
@@ -3198,6 +4283,11 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "Gerard Butler": {
+        "movies": [
+            "300 (2007)"
         ]
     },
     "Giovanni Ribisi": {
@@ -3308,6 +4398,11 @@ var actorMap = {
             }
         ]
     },
+    "Greg Grunberg": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Greg Kinnear": {
         "suppNoms": [
             {
@@ -3332,7 +4427,10 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "G\u00e9rard Depardieu": {
@@ -3376,6 +4474,12 @@ var actorMap = {
                 "movie": "Monster's Ball",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "X-Men (2000)",
+            "X2 (2003)",
+            "Catwoman (2004)",
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Hank Azaria": {
@@ -3396,6 +4500,7 @@ var actorMap = {
     "Harold Ramis": {
         "movies": [
             "Stripes (1981)",
+            "Heavy Metal (1981)",
             "Knocked Up (2007)"
         ]
     },
@@ -3409,6 +4514,7 @@ var actorMap = {
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
             "The Fugitive (1993)",
             "Cowboys & Aliens (2011)"
         ]
@@ -3416,6 +4522,15 @@ var actorMap = {
     "Harry Gregson-Williams": {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)"
+        ]
+    },
+    "Harry Melling": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Harry Styles": {
@@ -3439,6 +4554,17 @@ var actorMap = {
             }
         ]
     },
+    "Hayden Christensen": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
+    "Hayley Atwell": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
     "Heath Ledger": {
         "leadNoms": [
             {
@@ -3451,6 +4577,19 @@ var actorMap = {
                 "movie": "The Dark Knight",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "The Dark Knight (2008)"
+        ]
+    },
+    "Heather Graham": {
+        "movies": [
+            "From Hell (2001)"
+        ]
+    },
+    "Heather Locklear": {
+        "movies": [
+            "The Return of Swamp Thing (1989)"
         ]
     },
     "Helen Hunt": {
@@ -3468,6 +4607,13 @@ var actorMap = {
         ],
         "movies": [
             "Cast Away (2000)"
+        ]
+    },
+    "Helen McCrory": {
+        "movies": [
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Helen Mirren": {
@@ -3490,6 +4636,14 @@ var actorMap = {
                 "movie": "Gosford Park",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Red (2010)"
+        ]
+    },
+    "Helen Slater": {
+        "movies": [
+            "Supergirl (1984)"
         ]
     },
     "Helena Bonham Carter": {
@@ -3504,6 +4658,12 @@ var actorMap = {
                 "movie": "The King's Speech",
                 "year": "2010"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Henry Czerny": {
@@ -3521,6 +4681,11 @@ var actorMap = {
                 "movie": "On Golden Pond",
                 "year": "1981"
             }
+        ]
+    },
+    "Hero Fiennes Tiffin": {
+        "movies": [
+            "Harry Potter and the Half-Blood Prince (2009)"
         ]
     },
     "Hilary Swank": {
@@ -3555,6 +4720,9 @@ var actorMap = {
                 "movie": "Thirteen",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "The Incredibles (2004)"
         ]
     },
     "Hugh Grant": {
@@ -3568,11 +4736,31 @@ var actorMap = {
                 "movie": "Les Mis\u00e9rables",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "X-Men (2000)",
+            "X2 (2003)",
+            "X-Men: The Last Stand (2006)",
+            "X-Men Origins: Wolverine (2009)",
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "Hugo Weaving": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "V for Vendetta (2006)"
         ]
     },
     "H\u00e9ctor Elizondo": {
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "Ian Abercrombie": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Ian Beattie": {
@@ -3583,6 +4771,26 @@ var actorMap = {
     "Ian Chen": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ian Hart": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
+    "Ian Holm": {
+        "movies": [
+            "From Hell (2001)",
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
+    "Ian McDiarmid": {
+        "movies": [
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
         ]
     },
     "Ian McKellen": {
@@ -3597,6 +4805,14 @@ var actorMap = {
                 "movie": "The Lord of the Rings: The Fellowship of the Ring",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "X-Men (2000)",
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "X2 (2003)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Ian McShane": {
@@ -3614,6 +4830,18 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Idris Elba": {
+        "movies": [
+            "The Losers (2010)",
+            "Thor (2011)",
+            "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Iggy Pop": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
+        ]
+    },
     "Imelda Staunton": {
         "leadNoms": [
             {
@@ -3622,7 +4850,14 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+        ]
+    },
+    "Imogen Poots": {
+        "movies": [
+            "V for Vendetta (2006)"
         ]
     },
     "Ingrid Bergman": {
@@ -3659,6 +4894,12 @@ var actorMap = {
             }
         ]
     },
+    "Ioan Gruffudd": {
+        "movies": [
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
+        ]
+    },
     "Irina Shayk": {
         "movies": [
             "Hercules (2014)"
@@ -3667,6 +4908,11 @@ var actorMap = {
     "Iris Apatow": {
         "movies": [
             "Knocked Up (2007)"
+        ]
+    },
+    "Irma P. Hall": {
+        "movies": [
+            "Steel (1997)"
         ]
     },
     "Isabelle Adjani": {
@@ -3717,6 +4963,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)",
             "Spider-Man: Far From Home (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -3738,6 +4987,11 @@ var actorMap = {
     "Jack Dylan Grazer": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Jack Gleeson": {
+        "movies": [
+            "Batman Begins (2005)"
         ]
     },
     "Jack Lemmon": {
@@ -3833,6 +5087,7 @@ var actorMap = {
         ],
         "movies": [
             "Terms of Endearment (1983)",
+            "Batman (1989)",
             "Something's Gotta Give (2003)",
             "How Do You Know (2010)"
         ]
@@ -3851,6 +5106,9 @@ var actorMap = {
                 "movie": "City Slickers",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Batman (1989)"
         ]
     },
     "Jacki Weaver": {
@@ -3872,7 +5130,10 @@ var actorMap = {
     },
     "Jackie Cooper": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman III (1983)",
+            "Superman IV: The Quest for Peace (1987)"
         ]
     },
     "Jackie Earle Haley": {
@@ -3883,11 +5144,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Watchmen (2009)",
             "RoboCop (2014)"
         ]
     },
     "Jacob Batalon": {
         "movies": [
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -3896,9 +5159,21 @@ var actorMap = {
             "Girls Trip (2017)"
         ]
     },
+    "Jaime King": {
+        "movies": [
+            "Bulletproof Monk (2003)",
+            "Sin City (2005)",
+            "The Spirit (2008)"
+        ]
+    },
     "Jaime Pressly": {
         "movies": [
             "Horton Hears a Who! (2008)"
+        ]
+    },
+    "Jaimie Alexander": {
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Jake Gyllenhaal": {
@@ -3910,6 +5185,17 @@ var actorMap = {
         ],
         "movies": [
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "Jake Lloyd": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
+    "James Arnold Taylor": {
+        "movies": [
+            "TMNT (2007)",
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "James Caan": {
@@ -3936,6 +5222,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Star Trek: First Contact (1996)",
+            "Spider-Man 3 (2007)",
             "Surrogates (2009)"
         ]
     },
@@ -3953,7 +5241,13 @@ var actorMap = {
     },
     "James Doohan": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)"
         ]
     },
     "James Earl Jones": {
@@ -3966,6 +5260,8 @@ var actorMap = {
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -3977,8 +5273,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
             "The Holiday (2006)",
-            "Knocked Up (2007)"
+            "Spider-Man 3 (2007)",
+            "Knocked Up (2007)",
+            "The Green Hornet (2011)"
         ]
     },
     "James Hong": {
@@ -3987,15 +5287,44 @@ var actorMap = {
             "R.I.P.D. (2013)"
         ]
     },
+    "James Marsden": {
+        "movies": [
+            "X-Men (2000)",
+            "X2 (2003)",
+            "X-Men: The Last Stand (2006)",
+            "Superman Returns (2006)",
+            "2 Guns (2013)"
+        ]
+    },
     "James McAvoy": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Wanted (2008)",
+            "X-Men: First Class (2011)",
             "Atomic Blonde (2017)"
         ]
     },
     "James Parks": {
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "James Phelps": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "James Remar": {
+        "movies": [
+            "Blade: Trinity (2004)",
+            "Red (2010)"
         ]
     },
     "James Stewart": {
@@ -4062,6 +5391,11 @@ var actorMap = {
         ],
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "Jamie Kennedy": {
+        "movies": [
+            "Son of the Mask (2005)"
         ]
     },
     "Jane Fonda": {
@@ -4135,7 +5469,8 @@ var actorMap = {
     },
     "January Jones": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Jared Leto": {
@@ -4151,13 +5486,27 @@ var actorMap = {
     },
     "Jason Flemyng": {
         "movies": [
-            "The League of Extraordinary Gentlemen (2003)"
+            "From Hell (2001)",
+            "The League of Extraordinary Gentlemen (2003)",
+            "Kick-Ass (2010)",
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "Jason Isaacs": {
+        "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Elektra (2005)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Jason Lee": {
         "movies": [
             "Almost Famous (2000)",
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "The Incredibles (2004)"
         ]
     },
     "Jason London": {
@@ -4168,6 +5517,11 @@ var actorMap = {
     "Jason Momoa": {
         "movies": [
             "Conan the Barbarian (2011)"
+        ]
+    },
+    "Jason Patric": {
+        "movies": [
+            "The Losers (2010)"
         ]
     },
     "Jason Schwartzman": {
@@ -4210,6 +5564,11 @@ var actorMap = {
             "Almost Famous (2000)",
             "Knocked Up (2007)",
             "RoboCop (2014)"
+        ]
+    },
+    "Jay Chou": {
+        "movies": [
+            "The Green Hornet (2011)"
         ]
     },
     "Jaye Davidson": {
@@ -4267,6 +5626,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Iron Man (2008)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -4291,6 +5651,18 @@ var actorMap = {
             "I Still Know What You Did Last Summer (1998)"
         ]
     },
+    "Jeffrey Dean Morgan": {
+        "movies": [
+            "Watchmen (2009)",
+            "The Losers (2010)",
+            "Jonah Hex (2010)"
+        ]
+    },
+    "Jeffrey Jones": {
+        "movies": [
+            "Howard the Duck (1986)"
+        ]
+    },
     "Jeffrey Tambor": {
         "movies": [
             "Hellboy (2004)",
@@ -4313,6 +5685,9 @@ var actorMap = {
                 "movie": "A Beautiful Mind",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Hulk (2003)"
         ]
     },
     "Jennifer Coolidge": {
@@ -4327,6 +5702,8 @@ var actorMap = {
     },
     "Jennifer Garner": {
         "movies": [
+            "Daredevil (2003)",
+            "Elektra (2005)",
             "Valentine's Day (2010)"
         ]
     },
@@ -4346,6 +5723,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Road to Perdition (2002)",
             "The Hateful Eight (2015)"
         ]
     },
@@ -4369,12 +5747,20 @@ var actorMap = {
                 "movie": "American Hustle",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Jennifer Love Hewitt": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
             "I Still Know What You Did Last Summer (1998)"
+        ]
+    },
+    "Jennifer Morrison": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Jennifer Tilly": {
@@ -4388,6 +5774,12 @@ var actorMap = {
     "Jeremy Davies": {
         "movies": [
             "Saving Private Ryan (1998)"
+        ]
+    },
+    "Jeremy Howard": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
     "Jeremy Irons": {
@@ -4410,6 +5802,14 @@ var actorMap = {
                 "movie": "The Town",
                 "year": "2010"
             }
+        ],
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
+    "Jeremy Theobald": {
+        "movies": [
+            "Batman Begins (2005)"
         ]
     },
     "Jesse Eisenberg": {
@@ -4440,12 +5840,16 @@ var actorMap = {
     },
     "Jessica Alba": {
         "movies": [
+            "Sin City (2005)",
+            "Fantastic Four (2005)",
             "Knocked Up (2007)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Valentine's Day (2010)"
         ]
     },
     "Jessica Biel": {
         "movies": [
+            "Blade: Trinity (2004)",
             "Valentine's Day (2010)"
         ]
     },
@@ -4530,17 +5934,33 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+            "Superman IV: The Quest for Peace (1987)",
+            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Jim Carrey": {
         "movies": [
+            "The Mask (1994)",
+            "Batman Forever (1995)",
             "Horton Hears a Who! (2008)"
         ]
     },
     "Jim Carter": {
         "movies": [
             "Shakespeare in Love (1998)"
+        ]
+    },
+    "Jim Rash": {
+        "movies": [
+            "Sky High (2005)"
+        ]
+    },
+    "Jimmy Bennett": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Jimmy Fallon": {
@@ -4550,6 +5970,8 @@ var actorMap = {
     },
     "Jimmy Smits": {
         "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -4610,6 +6032,12 @@ var actorMap = {
     "Joan Rivers": {
         "movies": [
             "Spaceballs (1987)"
+        ]
+    },
+    "Joanna Page": {
+        "movies": [
+            "From Hell (2001)",
+            "Love Actually (2003)"
         ]
     },
     "Joanne Woodward": {
@@ -4676,9 +6104,16 @@ var actorMap = {
             }
         ]
     },
+    "Joe Manganiello": {
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
     "Joe Pantoliano": {
         "movies": [
-            "The Fugitive (1993)"
+            "The Fugitive (1993)",
+            "Daredevil (2003)"
         ]
     },
     "Joe Pesci": {
@@ -4707,9 +6142,20 @@ var actorMap = {
             "Spies Like Us (1985)"
         ]
     },
+    "Joel Edgerton": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
     "Joel Kinnaman": {
         "movies": [
             "RoboCop (2014)"
+        ]
+    },
+    "Joel McHale": {
+        "movies": [
+            "Spider-Man 2 (2004)"
         ]
     },
     "Joey King": {
@@ -4734,6 +6180,7 @@ var actorMap = {
     "John Candy": {
         "movies": [
             "Stripes (1981)",
+            "Heavy Metal (1981)",
             "Armed and Dangerous (1986)",
             "Spaceballs (1987)"
         ]
@@ -4743,14 +6190,27 @@ var actorMap = {
             "The Deer Hunter (1978)"
         ]
     },
+    "John Cho": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
+    "John Cleese": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)"
+        ]
+    },
     "John Gallagher Jr.": {
         "movies": [
+            "Jonah Hex (2010)",
             "10 Cloverfield Lane (2016)"
         ]
     },
     "John Glover": {
         "movies": [
             "Annie Hall (1977)",
+            "Batman & Robin (1997)",
             "Shazam! (2019)"
         ]
     },
@@ -4787,8 +6247,12 @@ var actorMap = {
         "movies": [
             "The Lord of the Rings (1978)",
             "Spaceballs (1987)",
+            "Harry Potter and the Sorcerer's Stone (2001)",
             "Hellboy (2004)",
+            "V for Vendetta (2006)",
             "Hellboy II: The Golden Army (2008)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Hercules (2014)"
         ]
     },
@@ -4799,9 +6263,15 @@ var actorMap = {
             "A Quiet Place Part II (2021)"
         ]
     },
+    "John Landis": {
+        "movies": [
+            "Spider-Man 2 (2004)"
+        ]
+    },
     "John Larroquette": {
         "movies": [
-            "Stripes (1981)"
+            "Stripes (1981)",
+            "Star Trek III: The Search for Spock (1984)"
         ]
     },
     "John Leguizamo": {
@@ -4836,7 +6306,19 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Places in the Heart (1984)"
+            "Places in the Heart (1984)",
+            "Jonah Hex (2010)",
+            "Red (2010)"
+        ]
+    },
+    "John Michael Higgins": {
+        "movies": [
+            "Blade: Trinity (2004)"
+        ]
+    },
+    "John Noble": {
+        "movies": [
+            "The Lord of the Rings: The Return of the King (2003)"
         ]
     },
     "John Ratzenberger": {
@@ -4844,9 +6326,22 @@ var actorMap = {
             "The Empire Strikes Back (1980)"
         ]
     },
+    "John Rhys-Davies": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
     "John Savage": {
         "movies": [
             "The Deer Hunter (1978)"
+        ]
+    },
+    "John Slattery": {
+        "movies": [
+            "Iron Man 2 (2010)",
+            "Ant-Man (2015)"
         ]
     },
     "John Travolta": {
@@ -4861,7 +6356,13 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Carrie (1976)"
+            "Carrie (1976)",
+            "The Punisher (2004)"
+        ]
+    },
+    "John Vernon": {
+        "movies": [
+            "Heavy Metal (1981)"
         ]
     },
     "John Wayne": {
@@ -4897,6 +6398,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "From Hell (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
@@ -4912,17 +6414,28 @@ var actorMap = {
     },
     "Johnny Knoxville": {
         "movies": [
-            "Men in Black II (2002)"
+            "Men in Black II (2002)",
+            "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
     "Johnny Simmons": {
         "movies": [
+            "The Spirit (2008)",
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Jon Cryer": {
+        "movies": [
+            "Superman IV: The Quest for Peace (1987)"
         ]
     },
     "Jon Favreau": {
         "movies": [
+            "Batman Forever (1995)",
+            "Daredevil (2003)",
             "Something's Gotta Give (2003)",
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
             "John Carter (2012)",
             "Spider-Man: Far From Home (2019)"
         ]
@@ -4931,6 +6444,11 @@ var actorMap = {
         "movies": [
             "Three Amigos (1986)",
             "A League of Their Own (1992)"
+        ]
+    },
+    "Jon Polito": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Jon Voight": {
@@ -4974,6 +6492,14 @@ var actorMap = {
     "Jonathan Banks": {
         "movies": [
             "Armed and Dangerous (1986)"
+        ]
+    },
+    "Jonathan Frakes": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "Star Trek: Nemesis (2002)"
         ]
     },
     "Jonathan Pryce": {
@@ -5023,12 +6549,35 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Men in Black 3 (2012)"
+            "Jonah Hex (2010)",
+            "Men in Black 3 (2012)",
+            "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Josh Dallas": {
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Josh Gad": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Josh Hartnett": {
+        "movies": [
+            "Sin City (2005)",
+            "30 Days of Night (2007)"
+        ]
+    },
+    "Josh Lucas": {
+        "movies": [
+            "Hulk (2003)"
+        ]
+    },
+    "Josh Pais": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)"
         ]
     },
     "Joshua Jackson": {
@@ -5041,9 +6590,15 @@ var actorMap = {
             "Shazam! (2019)"
         ]
     },
+    "Joy Bryant": {
+        "movies": [
+            "Spider-Man 2 (2004)"
+        ]
+    },
     "Judd Nelson": {
         "movies": [
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "Steel (1997)"
         ]
     },
     "Jude Law": {
@@ -5060,6 +6615,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Road to Perdition (2002)",
             "The Holiday (2006)"
         ]
     },
@@ -5109,6 +6665,16 @@ var actorMap = {
             "Shakespeare in Love (1998)"
         ]
     },
+    "Judith Anderson": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)"
+        ]
+    },
+    "Judith Hoag": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)"
+        ]
+    },
     "Judy Davis": {
         "leadNoms": [
             {
@@ -5121,6 +6687,16 @@ var actorMap = {
                 "movie": "Husbands and Wives",
                 "year": "1992"
             }
+        ]
+    },
+    "Judy Greer": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
+    "Julia Jones": {
+        "movies": [
+            "Jonah Hex (2010)"
         ]
     },
     "Julia Roberts": {
@@ -5150,7 +6726,15 @@ var actorMap = {
     },
     "Julian Glover": {
         "movies": [
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Harry Potter and the Chamber of Secrets (2002)"
+        ]
+    },
+    "Julian McMahon": {
+        "movies": [
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Red (2010)"
         ]
     },
     "Julianne Moore": {
@@ -5198,6 +6782,11 @@ var actorMap = {
             }
         ]
     },
+    "Julie Benz": {
+        "movies": [
+            "Punisher: War Zone (2008)"
+        ]
+    },
     "Julie Christie": {
         "leadNoms": [
             {
@@ -5216,6 +6805,14 @@ var actorMap = {
                 "movie": "Away from Her",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Prisoner of Azkaban (2004)"
+        ]
+    },
+    "Julie Strain": {
+        "movies": [
+            "Heavy Metal 2000 (2000)"
         ]
     },
     "Julie Walters": {
@@ -5230,6 +6827,15 @@ var actorMap = {
                 "movie": "Billy Elliot",
                 "year": "2000"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Juliette Binoche": {
@@ -5275,14 +6881,41 @@ var actorMap = {
             }
         ]
     },
+    "Kal Penn": {
+        "movies": [
+            "Son of the Mask (2005)",
+            "Superman Returns (2006)"
+        ]
+    },
     "Karel Roden": {
         "movies": [
+            "Bulletproof Monk (2003)",
             "Hellboy (2004)"
+        ]
+    },
+    "Karen Gillan": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Karl Urban": {
         "movies": [
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "Star Trek (2009)",
+            "Red (2010)",
+            "Priest (2011)",
             "Dredd (2012)"
+        ]
+    },
+    "Kat Dennings": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
+    "Kate Bosworth": {
+        "movies": [
+            "Superman Returns (2006)"
         ]
     },
     "Kate Dickie": {
@@ -5299,6 +6932,11 @@ var actorMap = {
         ],
         "movies": [
             "Almost Famous (2000)"
+        ]
+    },
+    "Kate Mara": {
+        "movies": [
+            "Iron Man 2 (2010)"
         ]
     },
     "Kate Nelligan": {
@@ -5455,6 +7093,11 @@ var actorMap = {
             "Valentine's Day (2010)"
         ]
     },
+    "Katie Holmes": {
+        "movies": [
+            "Batman Begins (2005)"
+        ]
+    },
     "Kaya Scodelario": {
         "movies": [
             "Moon (2009)",
@@ -5469,6 +7112,7 @@ var actorMap = {
     "Keanu Reeves": {
         "movies": [
             "Something's Gotta Give (2003)",
+            "Constantine (2005)",
             "The Lake House (2006)",
             "John Wick (2014)"
         ]
@@ -5487,6 +7131,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Love Actually (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
@@ -5500,11 +7145,6 @@ var actorMap = {
                 "movie": "Whale Rider",
                 "year": "2003"
             }
-        ]
-    },
-    "Keita Saito": {
-        "movies": [
-            "Scott Pilgrim vs. the World (2010)"
         ]
     },
     "Keith Carradine": {
@@ -5523,6 +7163,21 @@ var actorMap = {
             "Mystery Men (1999)"
         ]
     },
+    "Kelly Macdonald": {
+        "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Kelly Preston": {
+        "movies": [
+            "Sky High (2005)"
+        ]
+    },
+    "Kelsey Grammer": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
+        ]
+    },
     "Ken Jeong": {
         "movies": [
             "Knocked Up (2007)"
@@ -5530,7 +7185,8 @@ var actorMap = {
     },
     "Ken Leung": {
         "movies": [
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Ken Watanabe": {
@@ -5539,6 +7195,9 @@ var actorMap = {
                 "movie": "The Last Samurai",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "Batman Begins (2005)"
         ]
     },
     "Kenneth Branagh": {
@@ -5553,6 +7212,10 @@ var actorMap = {
                 "movie": "My Week with Marilyn",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Kenneth McMillan": {
@@ -5563,12 +7226,33 @@ var actorMap = {
     "Kenny Baker": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
+    "Kerry Condon": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Kerry Washington": {
+        "movies": [
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
     "Kevin Bacon": {
         "movies": [
+            "X-Men: First Class (2011)",
             "R.I.P.D. (2013)"
+        ]
+    },
+    "Kevin Conroy": {
+        "movies": [
+            "Batman: Mask of the Phantasm (1993)"
         ]
     },
     "Kevin Costner": {
@@ -5579,12 +7263,27 @@ var actorMap = {
             }
         ]
     },
+    "Kevin Durand": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
+    "Kevin Heffernan": {
+        "movies": [
+            "Sky High (2005)"
+        ]
+    },
     "Kevin Kline": {
         "suppNoms": [
             {
                 "movie": "A Fish Called Wanda",
                 "year": "1988"
             }
+        ]
+    },
+    "Kevin McDonald": {
+        "movies": [
+            "Sky High (2005)"
         ]
     },
     "Kevin McNally": {
@@ -5598,7 +7297,15 @@ var actorMap = {
     },
     "Kevin Nash": {
         "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "The Punisher (2004)",
             "John Wick (2014)"
+        ]
+    },
+    "Kevin Smith": {
+        "movies": [
+            "Daredevil (2003)",
+            "TMNT (2007)"
         ]
     },
     "Kevin Spacey": {
@@ -5615,6 +7322,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Superman Returns (2006)",
             "Moon (2009)"
         ]
     },
@@ -5629,6 +7337,14 @@ var actorMap = {
                 "movie": "L.A. Confidential",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "Batman (1989)"
+        ]
+    },
+    "Kim Cattrall": {
+        "movies": [
+            "Star Trek VI: The Undiscovered Country (1991)"
         ]
     },
     "Kirk Douglas": {
@@ -5653,6 +7369,16 @@ var actorMap = {
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
+    "Kirstie Alley": {
+        "movies": [
+            "Star Trek II: The Wrath of Khan (1982)"
         ]
     },
     "Kit Harington": {
@@ -5666,6 +7392,13 @@ var actorMap = {
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ]
+    },
+    "Kris Kristofferson": {
+        "movies": [
+            "Blade (1998)",
+            "Blade II (2002)",
+            "Blade: Trinity (2004)"
         ]
     },
     "Kristen Stewart": {
@@ -5704,6 +7437,7 @@ var actorMap = {
         "movies": [
             "Forrest Gump (1994)",
             "Vanilla Sky (2001)",
+            "Sky High (2005)",
             "Bone Tomahawk (2015)",
             "The Hateful Eight (2015)"
         ]
@@ -5736,6 +7470,7 @@ var actorMap = {
     },
     "Lance Reddick": {
         "movies": [
+            "Jonah Hex (2010)",
             "John Wick (2014)"
         ]
     },
@@ -5790,6 +7525,11 @@ var actorMap = {
             "Vanilla Sky (2001)"
         ]
     },
+    "Laura Harring": {
+        "movies": [
+            "The Punisher (2004)"
+        ]
+    },
     "Laura Linney": {
         "leadNoms": [
             {
@@ -5808,7 +7548,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
     "Lauren Bacall": {
@@ -5830,6 +7571,25 @@ var actorMap = {
                 "movie": "What's Love Got to Do with It",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "TMNT (2007)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
+        ]
+    },
+    "Laurence Luckinbill": {
+        "movies": [
+            "Star Trek V: The Final Frontier (1989)"
+        ]
+    },
+    "Laurie Faso": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+        ]
+    },
+    "Laurie Holden": {
+        "movies": [
+            "Fantastic Four (2005)"
         ]
     },
     "Laurie Metcalf": {
@@ -5845,6 +7605,19 @@ var actorMap = {
             "Promising Young Woman (2020)"
         ]
     },
+    "LeVar Burton": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Lea Thompson": {
+        "movies": [
+            "Howard the Duck (1986)"
+        ]
+    },
     "Lee Meriwether": {
         "movies": [
             "Batman (1966)"
@@ -5857,6 +7630,7 @@ var actorMap = {
     },
     "Lena Headey": {
         "movies": [
+            "300 (2007)",
             "Dredd (2012)"
         ]
     },
@@ -5883,7 +7657,13 @@ var actorMap = {
     },
     "Leonard Nimoy": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek (2009)"
         ]
     },
     "Leonardo DiCaprio": {
@@ -5924,6 +7704,12 @@ var actorMap = {
             }
         ]
     },
+    "Leslie Bibb": {
+        "movies": [
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)"
+        ]
+    },
     "Leslie Mann": {
         "movies": [
             "Knocked Up (2007)"
@@ -5936,12 +7722,18 @@ var actorMap = {
     },
     "Letitia Wright": {
         "movies": [
-            "Ready Player One (2018)"
+            "Ready Player One (2018)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Lia McHugh": {
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Liam Aiken": {
+        "movies": [
+            "Road to Perdition (2002)"
         ]
     },
     "Liam Neeson": {
@@ -5952,12 +7744,24 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Love Actually (2003)",
+            "Batman Begins (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Dark Knight Rises (2012)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Liev Schreiber": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
+    "Lily Collins": {
+        "movies": [
+            "Priest (2011)"
         ]
     },
     "Lily Tomlin": {
@@ -5997,9 +7801,19 @@ var actorMap = {
             "Places in the Heart (1984)"
         ]
     },
+    "Lindsay Duncan": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
     "Lindsay Lohan": {
         "movies": [
             "The Holiday (2006)"
+        ]
+    },
+    "Lio Tipton": {
+        "movies": [
+            "The Green Hornet (2011)"
         ]
     },
     "Lionel Barrymore": {
@@ -6008,6 +7822,14 @@ var actorMap = {
                 "movie": "A Free Soul",
                 "year": "1931"
             }
+        ]
+    },
+    "Liv Tyler": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "The Incredible Hulk (2008)"
         ]
     },
     "Logan Kim": {
@@ -6028,6 +7850,23 @@ var actorMap = {
             }
         ]
     },
+    "Lou Ferrigno": {
+        "movies": [
+            "Hulk (2003)",
+            "The Incredible Hulk (2008)"
+        ]
+    },
+    "Lou Romano": {
+        "movies": [
+            "The Incredibles (2004)"
+        ]
+    },
+    "Louis Jourdan": {
+        "movies": [
+            "Swamp Thing (1982)",
+            "The Return of Swamp Thing (1989)"
+        ]
+    },
     "Louise Fletcher": {
         "movies": [
             "Cruel Intentions (1999)"
@@ -6039,6 +7878,16 @@ var actorMap = {
                 "movie": "Manchester by the Sea",
                 "year": "2016"
             }
+        ]
+    },
+    "Lucas Till": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "Lucy Lawless": {
+        "movies": [
+            "Spider-Man (2002)"
         ]
     },
     "Lucy Liu": {
@@ -6058,6 +7907,7 @@ var actorMap = {
     },
     "Luke Goss": {
         "movies": [
+            "Blade II (2002)",
             "Hellboy II: The Golden Army (2008)"
         ]
     },
@@ -6074,8 +7924,19 @@ var actorMap = {
             }
         ]
     },
+    "Lynda Carter": {
+        "movies": [
+            "Sky High (2005)"
+        ]
+    },
+    "Lyndsy Fonseca": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
     "Lynn Collins": {
         "movies": [
+            "X-Men Origins: Wolverine (2009)",
             "John Carter (2012)"
         ]
     },
@@ -6093,6 +7954,21 @@ var actorMap = {
             }
         ]
     },
+    "M. Night Shyamalan": {
+        "movies": [
+            "Unbreakable (2000)"
+        ]
+    },
+    "Macy Gray": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
+    "Madge Sinclair": {
+        "movies": [
+            "Star Trek IV: The Voyage Home (1986)"
+        ]
+    },
     "Madonna": {
         "movies": [
             "A League of Their Own (1992)"
@@ -6108,12 +7984,25 @@ var actorMap = {
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Magda Szubanski": {
+        "movies": [
+            "Son of the Mask (2005)"
+        ]
+    },
     "Maggie Gyllenhaal": {
         "suppNoms": [
             {
                 "movie": "Crazy Heart",
                 "year": "2009"
             }
+        ],
+        "movies": [
+            "The Dark Knight (2008)"
+        ]
+    },
+    "Maggie Q": {
+        "movies": [
+            "Priest (2011)"
         ]
     },
     "Maggie Smith": {
@@ -6144,6 +8033,15 @@ var actorMap = {
                 "movie": "Gosford Park",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Mahershala Ali": {
@@ -6159,6 +8057,32 @@ var actorMap = {
         ],
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Majel Barrett": {
+        "movies": [
+            "Star Trek IV: The Voyage Home (1986)"
+        ]
+    },
+    "Makenzie Vega": {
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
+    "Mako": {
+        "movies": [
+            "Bulletproof Monk (2003)",
+            "TMNT (2007)"
+        ]
+    },
+    "Malcolm McDowell": {
+        "movies": [
+            "Star Trek Generations (1994)"
+        ]
+    },
+    "Malin \u00c5kerman": {
+        "movies": [
+            "Watchmen (2009)"
         ]
     },
     "Marc Maron": {
@@ -6204,7 +8128,10 @@ var actorMap = {
     },
     "Margot Kidder": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman III (1983)",
+            "Superman IV: The Quest for Peace (1987)"
         ]
     },
     "Margot Robbie": {
@@ -6229,6 +8156,16 @@ var actorMap = {
             }
         ]
     },
+    "Maria Bello": {
+        "movies": [
+            "A History of Violence (2005)"
+        ]
+    },
+    "Maria Menounos": {
+        "movies": [
+            "Fantastic Four (2005)"
+        ]
+    },
     "Mariah Carey": {
         "movies": [
             "Girls Trip (2017)"
@@ -6248,6 +8185,19 @@ var actorMap = {
         ],
         "movies": [
             "RoboCop (2014)"
+        ]
+    },
+    "Mariel Hemingway": {
+        "movies": [
+            "Superman IV: The Quest for Peace (1987)"
+        ]
+    },
+    "Marina Sirtis": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "Star Trek: Nemesis (2002)"
         ]
     },
     "Marina de Tavira": {
@@ -6292,10 +8242,18 @@ var actorMap = {
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Mark Boone Junior": {
+        "movies": [
+            "Batman Begins (2005)",
+            "30 Days of Night (2007)"
+        ]
+    },
     "Mark Hamill": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
+            "Batman: Mask of the Phantasm (1993)"
         ]
     },
     "Mark O'Brien": {
@@ -6317,6 +8275,9 @@ var actorMap = {
                 "movie": "Spotlight",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Mark Rylance": {
@@ -6332,6 +8293,8 @@ var actorMap = {
     },
     "Mark Strong": {
         "movies": [
+            "Kick-Ass (2010)",
+            "Green Lantern (2011)",
             "John Carter (2012)",
             "Shazam! (2019)"
         ]
@@ -6342,6 +8305,20 @@ var actorMap = {
                 "movie": "The Departed",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "2 Guns (2013)"
+        ]
+    },
+    "Mark Williams": {
+        "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Marlee Matlin": {
@@ -6350,6 +8327,11 @@ var actorMap = {
                 "movie": "Children of a Lesser God",
                 "year": "1986"
             }
+        ]
+    },
+    "Marley Shelton": {
+        "movies": [
+            "Sin City (2005)"
         ]
     },
     "Marlon Brando": {
@@ -6390,7 +8372,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman Returns (2006)"
         ]
     },
     "Marta Milans": {
@@ -6406,6 +8389,11 @@ var actorMap = {
     "Martin Brest": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Martin Donovan": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Martin Ferrero": {
@@ -6442,6 +8430,7 @@ var actorMap = {
     "Martin Starr": {
         "movies": [
             "Knocked Up (2007)",
+            "The Incredible Hulk (2008)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -6460,6 +8449,7 @@ var actorMap = {
     },
     "Mary Elizabeth Winstead": {
         "movies": [
+            "Sky High (2005)",
             "Scott Pilgrim vs. the World (2010)",
             "10 Cloverfield Lane (2016)"
         ]
@@ -6493,6 +8483,7 @@ var actorMap = {
     },
     "Mary-Louise Parker": {
         "movies": [
+            "Red (2010)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -6538,6 +8529,21 @@ var actorMap = {
             }
         ]
     },
+    "Matt Frewer": {
+        "movies": [
+            "Supergirl (1984)"
+        ]
+    },
+    "Matt Lanter": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
+        ]
+    },
+    "Matt Long": {
+        "movies": [
+            "Ghost Rider (2007)"
+        ]
+    },
     "Matthew Broderick": {
         "movies": [
             "WarGames (1983)"
@@ -6546,6 +8552,23 @@ var actorMap = {
     "Matthew Fox": {
         "movies": [
             "Bone Tomahawk (2015)"
+        ]
+    },
+    "Matthew Goode": {
+        "movies": [
+            "Watchmen (2009)"
+        ]
+    },
+    "Matthew Lewis": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Matthew McConaughey": {
@@ -6562,6 +8585,12 @@ var actorMap = {
     "Matthew Modine": {
         "movies": [
             "The Dark Knight Rises (2012)"
+        ]
+    },
+    "Matthew Wood": {
+        "movies": [
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Maude Apatow": {
@@ -6588,6 +8617,11 @@ var actorMap = {
             }
         ]
     },
+    "Maximiliano Hern\u00e1ndez": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Maya Rudolph": {
         "movies": [
             "Strange Magic (2015)"
@@ -6607,6 +8641,13 @@ var actorMap = {
     "Meg Ryan": {
         "movies": [
             "Armed and Dangerous (1986)"
+        ]
+    },
+    "Megan Fox": {
+        "movies": [
+            "Jonah Hex (2010)",
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
     "Mekhi Phifer": {
@@ -6630,6 +8671,11 @@ var actorMap = {
     "Melissa De Sousa": {
         "movies": [
             "The Best Man (1999)"
+        ]
+    },
+    "Melissa George": {
+        "movies": [
+            "30 Days of Night (2007)"
         ]
     },
     "Melissa Leo": {
@@ -6769,6 +8815,16 @@ var actorMap = {
             "The Deer Hunter (1978)"
         ]
     },
+    "Mia Farrow": {
+        "movies": [
+            "Supergirl (1984)"
+        ]
+    },
+    "Mia Kirshner": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
+        ]
+    },
     "Mia Sara": {
         "movies": [
             "Timecop (1994)"
@@ -6776,7 +8832,8 @@ var actorMap = {
     },
     "Michael Angarano": {
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Sky High (2005)"
         ]
     },
     "Michael Apted": {
@@ -6819,6 +8876,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Batman Begins (2005)",
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -6832,6 +8891,12 @@ var actorMap = {
             "Men in Black 3 (2012)"
         ]
     },
+    "Michael Chiklis": {
+        "movies": [
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
+        ]
+    },
     "Michael Clarke Duncan": {
         "suppNoms": [
             {
@@ -6840,12 +8905,24 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Kung Fu Panda (2008)"
+            "Daredevil (2003)",
+            "Sin City (2005)",
+            "Kung Fu Panda (2008)",
+            "Green Lantern (2011)"
         ]
     },
     "Michael Cudlitz": {
         "movies": [
             "Surrogates (2009)"
+        ]
+    },
+    "Michael Dorn": {
+        "movies": [
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "Star Trek: Nemesis (2002)"
         ]
     },
     "Michael Douglas": {
@@ -6854,6 +8931,9 @@ var actorMap = {
                 "movie": "Wall Street",
                 "year": "1987"
             }
+        ],
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Michael Emerson": {
@@ -6873,6 +8953,29 @@ var actorMap = {
                 "movie": "12 Years a Slave",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "300 (2007)",
+            "Jonah Hex (2010)",
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "Michael Gambon": {
+        "movies": [
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Michael Gough": {
+        "movies": [
+            "Batman (1989)",
+            "Batman Returns (1992)",
+            "Batman Forever (1995)",
+            "Batman & Robin (1997)"
         ]
     },
     "Michael Graham Cox": {
@@ -6880,9 +8983,20 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "Michael Ironside": {
+        "movies": [
+            "Heavy Metal 2000 (2000)"
+        ]
+    },
     "Michael Jackson": {
         "movies": [
             "Men in Black II (2002)"
+        ]
+    },
+    "Michael Jai White": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "The Dark Knight (2008)"
         ]
     },
     "Michael Jordan": {
@@ -6892,6 +9006,7 @@ var actorMap = {
     },
     "Michael K. Williams": {
         "movies": [
+            "The Incredible Hulk (2008)",
             "RoboCop (2014)"
         ]
     },
@@ -6903,7 +9018,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Batman (1989)",
             "RoboCop (2014)"
+        ]
+    },
+    "Michael Kelly": {
+        "movies": [
+            "Unbreakable (2000)"
         ]
     },
     "Michael Lerner": {
@@ -6916,13 +9037,25 @@ var actorMap = {
     },
     "Michael Madsen": {
         "movies": [
+            "Sin City (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Michael Murphy": {
+        "movies": [
+            "Batman Returns (1992)",
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Michael Nyqvist": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Michael Pe\u00f1a": {
+        "movies": [
+            "Ant-Man (2015)"
         ]
     },
     "Michael Scholes": {
@@ -6942,12 +9075,18 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "Jonah Hex (2010)"
         ]
     },
     "Michael Stuhlbarg": {
         "movies": [
             "Men in Black 3 (2012)"
+        ]
+    },
+    "Michael Wincott": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Michael Winslow": {
@@ -6981,6 +9120,9 @@ var actorMap = {
                 "movie": "Dangerous Liaisons",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "Batman Returns (1992)"
         ]
     },
     "Michelle Trachtenberg": {
@@ -7016,6 +9158,10 @@ var actorMap = {
                 "movie": "The Wrestler",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Sin City (2005)",
+            "Iron Man 2 (2010)"
         ]
     },
     "Mike Colter": {
@@ -7032,6 +9178,11 @@ var actorMap = {
     "Mike Judge": {
         "movies": [
             "R.I.P.D. (2013)"
+        ]
+    },
+    "Mikey Kelley": {
+        "movies": [
+            "TMNT (2007)"
         ]
     },
     "Milla Jovovich": {
@@ -7067,6 +9218,12 @@ var actorMap = {
             }
         ]
     },
+    "Miranda Otto": {
+        "movies": [
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
     "Miranda Richardson": {
         "leadNoms": [
             {
@@ -7079,6 +9236,20 @@ var actorMap = {
                 "movie": "Damage",
                 "year": "1992"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Goblet of Fire (2005)"
+        ]
+    },
+    "Miriam Margolyes": {
+        "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Mitchell Whitfield": {
+        "movies": [
+            "TMNT (2007)"
         ]
     },
     "Mo'Nique": {
@@ -7130,6 +9301,10 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Batman Begins (2005)",
+            "Wanted (2008)",
+            "The Dark Knight (2008)",
+            "Red (2010)",
             "Conan the Barbarian (2011)",
             "The Dark Knight Rises (2012)",
             "Oblivion (2013)"
@@ -7154,6 +9329,11 @@ var actorMap = {
     "Mykelti Williamson": {
         "movies": [
             "Forrest Gump (1994)"
+        ]
+    },
+    "N'Bushe Wright": {
+        "movies": [
+            "Blade (1998)"
         ]
     },
     "Nancy Allen": {
@@ -7216,6 +9396,18 @@ var actorMap = {
                 "movie": "Closer",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "V for Vendetta (2006)",
+            "Thor (2011)"
+        ]
+    },
+    "Natasha Lyonne": {
+        "movies": [
+            "Blade: Trinity (2004)"
         ]
     },
     "Nathan Fillion": {
@@ -7233,9 +9425,15 @@ var actorMap = {
             "Girls Trip (2017)"
         ]
     },
+    "Neal McDonough": {
+        "movies": [
+            "Star Trek: First Contact (1996)"
+        ]
+    },
     "Ned Beatty": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Neil Hamilton": {
@@ -7245,6 +9443,7 @@ var actorMap = {
     },
     "Nestor Carbonell": {
         "movies": [
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -7255,7 +9454,22 @@ var actorMap = {
     },
     "Nichelle Nichols": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
+    "Nicholas Braun": {
+        "movies": [
+            "Sky High (2005)"
+        ]
+    },
+    "Nicholas Hoult": {
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Nick Cannon": {
@@ -7279,6 +9493,19 @@ var actorMap = {
                 "movie": "Warrior",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "Hulk (2003)"
+        ]
+    },
+    "Nick Offerman": {
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
+    "Nick Stahl": {
+        "movies": [
+            "Sin City (2005)"
         ]
     },
     "Nicolas Cage": {
@@ -7291,6 +9518,10 @@ var actorMap = {
                 "movie": "Adaptation",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "Ghost Rider (2007)",
+            "Kick-Ass (2010)"
         ]
     },
     "Nicole Kidman": {
@@ -7317,6 +9548,9 @@ var actorMap = {
                 "movie": "Lion",
                 "year": "2016"
             }
+        ],
+        "movies": [
+            "Batman Forever (1995)"
         ]
     },
     "Nicole Scherzinger": {
@@ -7359,6 +9593,17 @@ var actorMap = {
             "Vanilla Sky (2001)"
         ]
     },
+    "Noel Fisher": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Nolan North": {
+        "movies": [
+            "TMNT (2007)"
+        ]
+    },
     "Nonso Anozie": {
         "movies": [
             "Conan the Barbarian (2011)"
@@ -7375,6 +9620,11 @@ var actorMap = {
     "Norman Bird": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Norman Reedus": {
+        "movies": [
+            "Blade II (2002)"
         ]
     },
     "Numan Acar": {
@@ -7396,11 +9646,31 @@ var actorMap = {
                 "movie": "The Shape of Water",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Spider-Man (2002)"
         ]
     },
     "Olga Kurylenko": {
         "movies": [
             "Oblivion (2013)"
+        ]
+    },
+    "Oliver Phelps": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Oliver Platt": {
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Oliver Stone": {
@@ -7434,6 +9704,11 @@ var actorMap = {
             "Ready Player One (2018)"
         ]
     },
+    "Olivia Munn": {
+        "movies": [
+            "Iron Man 2 (2010)"
+        ]
+    },
     "Olivia Olson": {
         "movies": [
             "Love Actually (2003)"
@@ -7450,12 +9725,22 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Olivia Williams": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
+        ]
+    },
     "Olympia Dukakis": {
         "suppNoms": [
             {
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ]
+    },
+    "Omari Hardwick": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Oprah Winfrey": {
@@ -7468,7 +9753,10 @@ var actorMap = {
     },
     "Orlando Bloom": {
         "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "The Lord of the Rings: The Return of the King (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -7493,9 +9781,35 @@ var actorMap = {
             "Stripes (1981)"
         ]
     },
+    "Paige Turco": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "Teenage Mutant Ninja Turtles III (1993)"
+        ]
+    },
+    "Pam Ferris": {
+        "movies": [
+            "Harry Potter and the Prisoner of Azkaban (2004)"
+        ]
+    },
+    "Pamela Anderson": {
+        "movies": [
+            "Barb Wire (1996)"
+        ]
+    },
     "Parker Posey": {
         "movies": [
-            "Dazed and Confused (1993)"
+            "Dazed and Confused (1993)",
+            "Blade: Trinity (2004)",
+            "Superman Returns (2006)"
+        ]
+    },
+    "Pat Hingle": {
+        "movies": [
+            "Batman (1989)",
+            "Batman Returns (1992)",
+            "Batman Forever (1995)",
+            "Batman & Robin (1997)"
         ]
     },
     "Patricia Arquette": {
@@ -7524,24 +9838,53 @@ var actorMap = {
             "Space Jam (1996)"
         ]
     },
+    "Patrick Fischler": {
+        "movies": [
+            "Ghost World (2001)"
+        ]
+    },
     "Patrick Fugit": {
         "movies": [
             "Almost Famous (2000)"
         ]
     },
+    "Patrick Stewart": {
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: First Contact (1996)",
+            "Star Trek: Insurrection (1998)",
+            "X-Men (2000)",
+            "Star Trek: Nemesis (2002)",
+            "X2 (2003)",
+            "X-Men: The Last Stand (2006)",
+            "TMNT (2007)",
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
     "Patrick Warburton": {
         "movies": [
-            "Men in Black II (2002)"
+            "Men in Black II (2002)",
+            "Sky High (2005)"
         ]
     },
     "Patrick Wilson": {
         "movies": [
+            "Watchmen (2009)",
             "Bone Tomahawk (2015)"
         ]
     },
     "Patton Oswalt": {
         "movies": [
+            "Blade: Trinity (2004)",
             "Eternals (2021)"
+        ]
+    },
+    "Paul Bettany": {
+        "movies": [
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
+            "Priest (2011)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Paul Dano": {
@@ -7615,6 +9958,9 @@ var actorMap = {
                 "movie": "Road to Perdition",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "Road to Perdition (2002)"
         ]
     },
     "Paul Raci": {
@@ -7627,6 +9973,7 @@ var actorMap = {
     },
     "Paul Reubens": {
         "movies": [
+            "Batman Returns (1992)",
             "Mystery Men (1999)"
         ]
     },
@@ -7634,6 +9981,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "How Do You Know (2010)",
+            "Ant-Man (2015)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -7656,12 +10004,27 @@ var actorMap = {
             "Annie Hall (1977)"
         ]
     },
+    "Paul Winfield": {
+        "movies": [
+            "Star Trek II: The Wrath of Khan (1982)"
+        ]
+    },
+    "Paula Patton": {
+        "movies": [
+            "2 Guns (2013)"
+        ]
+    },
     "Pauline Collins": {
         "leadNoms": [
             {
                 "movie": "Shirley Valentine",
                 "year": "1989"
             }
+        ]
+    },
+    "Paz Vega": {
+        "movies": [
+            "The Spirit (2008)"
         ]
     },
     "Pen\u00e9lope Cruz": {
@@ -7700,6 +10063,12 @@ var actorMap = {
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
+    "Pete Ploszek": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
     "Pete Postlethwaite": {
         "suppNoms": [
             {
@@ -7710,6 +10079,7 @@ var actorMap = {
     },
     "Peter Billingsley": {
         "movies": [
+            "Iron Man (2008)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -7720,7 +10090,8 @@ var actorMap = {
     },
     "Peter Dinklage": {
         "movies": [
-            "The Chronicles of Narnia: Prince Caspian (2008)"
+            "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Peter Fonda": {
@@ -7729,6 +10100,9 @@ var actorMap = {
                 "movie": "Ulee's Gold",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "Ghost Rider (2007)"
         ]
     },
     "Peter Graves": {
@@ -7736,10 +10110,28 @@ var actorMap = {
             "Men in Black II (2002)"
         ]
     },
+    "Peter Greene": {
+        "movies": [
+            "The Mask (1994)"
+        ]
+    },
+    "Peter Jackson": {
+        "movies": [
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
     "Peter Mayhew": {
         "movies": [
             "Star Wars (1977)",
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+        ]
+    },
+    "Peter McRobbie": {
+        "movies": [
+            "Spider-Man 2 (2004)"
         ]
     },
     "Peter O'Toole": {
@@ -7776,6 +10168,24 @@ var actorMap = {
                 "movie": "Venus",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "Supergirl (1984)"
+        ]
+    },
+    "Peter Riegert": {
+        "movies": [
+            "The Mask (1994)"
+        ]
+    },
+    "Peter Sarsgaard": {
+        "movies": [
+            "Green Lantern (2011)"
+        ]
+    },
+    "Peter Serafinowicz": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
     "Peter Spears": {
@@ -7785,6 +10195,7 @@ var actorMap = {
     },
     "Peter Stormare": {
         "movies": [
+            "Constantine (2005)",
             "Strange Magic (2015)"
         ]
     },
@@ -7828,6 +10239,16 @@ var actorMap = {
             "Carrie (1976)"
         ]
     },
+    "Pom Klementieff": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Powers Boothe": {
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
     "Queen Latifah": {
         "suppNoms": [
             {
@@ -7846,6 +10267,11 @@ var actorMap = {
                 "movie": "Beasts of the Southern Wild",
                 "year": "2012"
             }
+        ]
+    },
+    "R. Lee Ermey": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "RJ Cyler": {
@@ -7871,6 +10297,7 @@ var actorMap = {
     },
     "Rachel Nichols": {
         "movies": [
+            "Star Trek (2009)",
             "Conan the Barbarian (2011)"
         ]
     },
@@ -7884,6 +10311,9 @@ var actorMap = {
                 "movie": "The Favourite",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Constantine (2005)"
         ]
     },
     "Radha Mitchell": {
@@ -7913,6 +10343,12 @@ var actorMap = {
                 "movie": "Schindler\u2019s List",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Ralph Ineson": {
@@ -7940,14 +10376,36 @@ var actorMap = {
             "Three Amigos (1986)"
         ]
     },
+    "Randy Savage": {
+        "movies": [
+            "Spider-Man (2002)"
+        ]
+    },
     "Raoul Trujillo": {
         "movies": [
             "Cowboys & Aliens (2011)"
         ]
     },
+    "Ray Park": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "X-Men (2000)"
+        ]
+    },
+    "Ray Stevenson": {
+        "movies": [
+            "Punisher: War Zone (2008)",
+            "Thor (2011)"
+        ]
+    },
     "Ray Winstone": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+        ]
+    },
+    "Ray Wise": {
+        "movies": [
+            "Swamp Thing (1982)"
         ]
     },
     "Rebecca Ferguson": {
@@ -7956,8 +10414,18 @@ var actorMap = {
             "Men in Black: International (2019)"
         ]
     },
+    "Rebecca Romijn": {
+        "movies": [
+            "X-Men (2000)",
+            "X2 (2003)",
+            "The Punisher (2004)",
+            "X-Men: The Last Stand (2006)",
+            "X-Men: First Class (2011)"
+        ]
+    },
     "Rebel Wilson": {
         "movies": [
+            "Ghost Rider (2007)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -7977,6 +10445,11 @@ var actorMap = {
             "How Do You Know (2010)"
         ]
     },
+    "Reg E. Cathey": {
+        "movies": [
+            "The Mask (1994)"
+        ]
+    },
     "Regina Hall": {
         "movies": [
             "The Best Man (1999)",
@@ -7994,6 +10467,11 @@ var actorMap = {
     "Remy Hii": {
         "movies": [
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "Rene Russo": {
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Ren\u00e9e Zellweger": {
@@ -8026,9 +10504,19 @@ var actorMap = {
             "My Fair Lady (1964)"
         ]
     },
+    "Rhys Ifans": {
+        "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+        ]
+    },
     "Rian Johnson": {
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "Ricardo Montalb\u00e1n": {
+        "movies": [
+            "Star Trek II: The Wrath of Khan (1982)"
         ]
     },
     "Richard Attenborough": {
@@ -8036,9 +10524,19 @@ var actorMap = {
             "Jurassic Park (1993)"
         ]
     },
+    "Richard Brooks": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
+        ]
+    },
     "Richard Burton": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
+        ]
+    },
+    "Richard Donner": {
+        "movies": [
+            "Superman II (1981)"
         ]
     },
     "Richard Dreyfuss": {
@@ -8051,6 +10549,9 @@ var actorMap = {
                 "movie": "Mr. Holland's Opus",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "Red (2010)"
         ]
     },
     "Richard E. Grant": {
@@ -8077,6 +10578,11 @@ var actorMap = {
     },
     "Richard Griffiths": {
         "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)"
         ]
     },
@@ -8090,6 +10596,10 @@ var actorMap = {
                 "movie": "The Field",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)"
         ]
     },
     "Richard Jenkins": {
@@ -8109,14 +10619,19 @@ var actorMap = {
             "Bone Tomahawk (2015)"
         ]
     },
-    "Richard Kiley": {
-        "movies": [
-            "Jurassic Park (1993)"
-        ]
-    },
     "Richard Madden": {
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Richard Pryor": {
+        "movies": [
+            "Superman III (1983)"
+        ]
+    },
+    "Richard Roundtree": {
+        "movies": [
+            "Steel (1997)"
         ]
     },
     "Richard Roxburgh": {
@@ -8160,6 +10675,26 @@ var actorMap = {
         ],
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "Robbie Coltrane": {
+        "movies": [
+            "From Hell (2001)",
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Robbie Rist": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)",
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "Teenage Mutant Ninja Turtles III (1993)"
         ]
     },
     "Robert De Niro": {
@@ -8211,6 +10746,12 @@ var actorMap = {
                 "movie": "Tropic Thunder",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Iron Man (2008)",
+            "The Incredible Hulk (2008)",
+            "Iron Man 2 (2010)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Robert Duvall": {
@@ -8255,6 +10796,11 @@ var actorMap = {
             }
         ]
     },
+    "Robert John Burke": {
+        "movies": [
+            "2 Guns (2013)"
+        ]
+    },
     "Robert Loggia": {
         "movies": [
             "Armed and Dangerous (1986)"
@@ -8262,6 +10808,7 @@ var actorMap = {
     },
     "Robert Pattinson": {
         "movies": [
+            "Harry Potter and the Goblet of Fire (2005)",
             "The Lighthouse (2019)"
         ]
     },
@@ -8273,12 +10820,33 @@ var actorMap = {
             }
         ]
     },
+    "Robert Rodriguez": {
+        "movies": [
+            "Sin City (2005)"
+        ]
+    },
+    "Robert Vaughn": {
+        "movies": [
+            "Superman III (1983)"
+        ]
+    },
+    "Robert Wuhl": {
+        "movies": [
+            "Batman (1989)"
+        ]
+    },
     "Roberto Benigni": {
         "leadNoms": [
             {
                 "movie": "Life Is Beautiful",
                 "year": "1998"
             }
+        ]
+    },
+    "Robin Curtis": {
+        "movies": [
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)"
         ]
     },
     "Robin Williams": {
@@ -8305,12 +10873,19 @@ var actorMap = {
     },
     "Robin Wright": {
         "movies": [
-            "Forrest Gump (1994)"
+            "Forrest Gump (1994)",
+            "Unbreakable (2000)"
+        ]
+    },
+    "Rodger Bumpass": {
+        "movies": [
+            "Heavy Metal (1981)"
         ]
     },
     "Rodrigo Santoro": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "300 (2007)"
         ]
     },
     "Roman Griffin Davis": {
@@ -8320,6 +10895,8 @@ var actorMap = {
     },
     "Ron Perlman": {
         "movies": [
+            "Blade II (2002)",
+            "Star Trek: Nemesis (2002)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)",
             "Conan the Barbarian (2011)"
@@ -8374,7 +10951,14 @@ var actorMap = {
         "movies": [
             "Men in Black II (2002)",
             "Alexander (2004)",
+            "Sin City (2005)",
             "Rent (2005)"
+        ]
+    },
+    "Rose Byrne": {
+        "movies": [
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Rose McGowan": {
@@ -8388,6 +10972,11 @@ var actorMap = {
                 "movie": "Tom & Viv",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Rosie O'Donnell": {
@@ -8408,9 +10997,19 @@ var actorMap = {
             "Shazam! (2019)"
         ]
     },
+    "Ross Marquand": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Rowan Atkinson": {
         "movies": [
             "Love Actually (2003)"
+        ]
+    },
+    "Roy Scheider": {
+        "movies": [
+            "The Punisher (2004)"
         ]
     },
     "Ruby Dee": {
@@ -8439,6 +11038,18 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
         ]
     },
+    "Rupert Grint": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Russell Crowe": {
         "leadNoms": [
             {
@@ -8453,6 +11064,12 @@ var actorMap = {
                 "movie": "A Beautiful Mind",
                 "year": "2001"
             }
+        ]
+    },
+    "Rutger Hauer": {
+        "movies": [
+            "Sin City (2005)",
+            "Batman Begins (2005)"
         ]
     },
     "Ruth Negga": {
@@ -8493,6 +11110,9 @@ var actorMap = {
     },
     "Ryan Reynolds": {
         "movies": [
+            "Blade: Trinity (2004)",
+            "X-Men Origins: Wolverine (2009)",
+            "Green Lantern (2011)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -8543,6 +11163,9 @@ var actorMap = {
                 "movie": "Blue Jasmine",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
     "Sally Kirkland": {
@@ -8580,6 +11203,10 @@ var actorMap = {
                 "movie": "A Star Is Born",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Hulk (2003)",
+            "Ghost Rider (2007)"
         ]
     },
     "Sam Hargrave": {
@@ -8590,6 +11217,11 @@ var actorMap = {
     "Sam Heughan": {
         "movies": [
             "Bloodshot (2020)"
+        ]
+    },
+    "Sam Huntington": {
+        "movies": [
+            "Superman Returns (2006)"
         ]
     },
     "Sam Neill": {
@@ -8604,7 +11236,8 @@ var actorMap = {
     },
     "Sam Raimi": {
         "movies": [
-            "Spies Like Us (1985)"
+            "Spies Like Us (1985)",
+            "Spider-Man (2002)"
         ]
     },
     "Sam Richardson": {
@@ -8624,7 +11257,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Teenage Mutant Ninja Turtles (1990)",
             "Moon (2009)",
+            "Iron Man 2 (2010)",
             "Cowboys & Aliens (2011)",
             "Jojo Rabbit (2019)"
         ]
@@ -8660,13 +11295,25 @@ var actorMap = {
         ],
         "movies": [
             "Jurassic Park (1993)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Unbreakable (2000)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "The Incredibles (2004)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Iron Man (2008)",
+            "Star Wars: The Clone Wars (2008)",
+            "The Spirit (2008)",
+            "Iron Man 2 (2010)",
+            "Thor (2011)",
             "RoboCop (2014)",
             "The Hateful Eight (2015)",
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
     "Sanaa Lathan": {
         "movies": [
+            "Blade (1998)",
             "The Best Man (1999)"
         ]
     },
@@ -8716,7 +11363,13 @@ var actorMap = {
     "Sarah Michelle Gellar": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
-            "Cruel Intentions (1999)"
+            "Cruel Intentions (1999)",
+            "TMNT (2007)"
+        ]
+    },
+    "Sarah Paulson": {
+        "movies": [
+            "The Spirit (2008)"
         ]
     },
     "Sarah Silverman": {
@@ -8724,14 +11377,14 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Sarah Vowell": {
+        "movies": [
+            "The Incredibles (2004)"
+        ]
+    },
     "Sasha Lane": {
         "movies": [
             "Hellboy (2019)"
-        ]
-    },
-    "Satya Bhabha": {
-        "movies": [
-            "Scott Pilgrim vs. the World (2010)"
         ]
     },
     "Sa\u00efd Taghmaoui": {
@@ -8753,12 +11406,29 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghost World (2001)",
+            "The Spirit (2008)",
+            "Iron Man 2 (2010)",
+            "Avengers: Infinity War (2018)",
             "Jojo Rabbit (2019)"
         ]
     },
     "Scoot McNairy": {
         "movies": [
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Sean Astin": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
+    "Sean Bean": {
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Return of the King (2003)"
         ]
     },
     "Sean Connery": {
@@ -8770,6 +11440,11 @@ var actorMap = {
         ],
         "movies": [
             "The League of Extraordinary Gentlemen (2003)"
+        ]
+    },
+    "Sean Gunn": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Sean Patrick Thomas": {
@@ -8807,6 +11482,17 @@ var actorMap = {
             "Bone Tomahawk (2015)"
         ]
     },
+    "Seann William Scott": {
+        "movies": [
+            "Bulletproof Monk (2003)"
+        ]
+    },
+    "Sebastian Stan": {
+        "movies": [
+            "Ant-Man (2015)",
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Sela Ward": {
         "movies": [
             "The Fugitive (1993)"
@@ -8838,7 +11524,8 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "The Green Hornet (2011)"
         ]
     },
     "Shane West": {
@@ -8851,12 +11538,32 @@ var actorMap = {
             "Love Actually (2003)"
         ]
     },
+    "Shaquille O'Neal": {
+        "movies": [
+            "Steel (1997)"
+        ]
+    },
     "Sharon Stone": {
         "leadNoms": [
             {
                 "movie": "Casino",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "Catwoman (2004)"
+        ]
+    },
+    "Shaun Toub": {
+        "movies": [
+            "Iron Man (2008)"
+        ]
+    },
+    "Shawn Ashmore": {
+        "movies": [
+            "X-Men (2000)",
+            "X2 (2003)",
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Shawn Bradley": {
@@ -8864,9 +11571,25 @@ var actorMap = {
             "Space Jam (1996)"
         ]
     },
+    "Shawn Roberts": {
+        "movies": [
+            "X-Men (2000)"
+        ]
+    },
     "Shelley Duvall": {
         "movies": [
             "Annie Hall (1977)"
+        ]
+    },
+    "Shia LaBeouf": {
+        "movies": [
+            "Constantine (2005)"
+        ]
+    },
+    "Shirley Henderson": {
+        "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Goblet of Fire (2005)"
         ]
     },
     "Shirley MacLaine": {
@@ -8905,12 +11628,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "X-Men: The Last Stand (2006)",
             "The Lake House (2006)"
-        ]
-    },
-    "Shota Saito": {
-        "movies": [
-            "Scott Pilgrim vs. the World (2010)"
         ]
     },
     "Sid Haig": {
@@ -8967,6 +11686,7 @@ var actorMap = {
     },
     "Simon Pegg": {
         "movies": [
+            "Star Trek (2009)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "Ready Player One (2018)"
         ]
@@ -9016,9 +11736,24 @@ var actorMap = {
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
         ]
     },
+    "Skeet Ulrich": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)"
+        ]
+    },
     "Sofia Boutella": {
         "movies": [
             "Atomic Blonde (2017)"
+        ]
+    },
+    "Sofia Coppola": {
+        "movies": [
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
+    "Sophia Myles": {
+        "movies": [
+            "From Hell (2001)"
         ]
     },
     "Sophie Okonedo": {
@@ -9030,6 +11765,11 @@ var actorMap = {
         ],
         "movies": [
             "Hellboy (2019)"
+        ]
+    },
+    "Spencer Fox": {
+        "movies": [
+            "The Incredibles (2004)"
         ]
     },
     "Spencer Tracy": {
@@ -9075,6 +11815,16 @@ var actorMap = {
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
+    "Spencer Treat Clark": {
+        "movies": [
+            "Unbreakable (2000)"
+        ]
+    },
+    "Stacy Keach": {
+        "movies": [
+            "Batman: Mask of the Phantasm (1993)"
+        ]
+    },
     "Stanley Holloway": {
         "movies": [
             "My Fair Lady (1964)"
@@ -9086,17 +11836,41 @@ var actorMap = {
                 "movie": "The Lovely Bones",
                 "year": "2009"
             }
+        ],
+        "movies": [
+            "Road to Perdition (2002)"
         ]
     },
     "Stellan Skarsg\u00e5rd": {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "Thor (2011)"
+        ]
+    },
+    "Stephen Amell": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
     "Stephen Collins": {
         "movies": [
             "Star Trek: The Motion Picture (1979)"
+        ]
+    },
+    "Stephen Dorff": {
+        "movies": [
+            "Blade (1998)"
+        ]
+    },
+    "Stephen Farrelly": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Stephen Fry": {
+        "movies": [
+            "V for Vendetta (2006)"
         ]
     },
     "Stephen Graham": {
@@ -9111,6 +11885,11 @@ var actorMap = {
             "Conan the Barbarian (2011)"
         ]
     },
+    "Stephen McFeely": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
+        ]
+    },
     "Stephen Merchant": {
         "movies": [
             "Jojo Rabbit (2019)"
@@ -9122,11 +11901,19 @@ var actorMap = {
                 "movie": "The Crying Game",
                 "year": "1992"
             }
+        ],
+        "movies": [
+            "V for Vendetta (2006)"
         ]
     },
     "Sterling Hayden": {
         "movies": [
             "9 to 5 (1980)"
+        ]
+    },
+    "Steve Buscemi": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Steve Carell": {
@@ -9187,6 +11974,7 @@ var actorMap = {
     },
     "Stuart Wilson": {
         "movies": [
+            "Teenage Mutant Ninja Turtles III (1993)",
             "The Mask of Zorro (1998)"
         ]
     },
@@ -9221,7 +12009,9 @@ var actorMap = {
     },
     "Susannah York": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Superman IV: The Quest for Peace (1987)"
         ]
     },
     "Swoosie Kurtz": {
@@ -9246,13 +12036,24 @@ var actorMap = {
             "Rocky (1976)"
         ]
     },
+    "T. J. Storm": {
+        "movies": [
+            "Punisher: War Zone (2008)"
+        ]
+    },
     "T.J. Miller": {
         "movies": [
             "Ready Player One (2018)"
         ]
     },
+    "Tadanobu Asano": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Taika Waititi": {
         "movies": [
+            "Green Lantern (2011)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -9286,6 +12087,11 @@ var actorMap = {
             }
         ]
     },
+    "Taran Killam": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (2014)"
+        ]
+    },
     "Taye Diggs": {
         "movies": [
             "The Best Man (1999)",
@@ -9294,6 +12100,7 @@ var actorMap = {
     },
     "Taylor Kitsch": {
         "movies": [
+            "X-Men Origins: Wolverine (2009)",
             "John Carter (2012)"
         ]
     },
@@ -9312,14 +12119,31 @@ var actorMap = {
             "Saving Private Ryan (1998)"
         ]
     },
+    "Temuera Morrison": {
+        "movies": [
+            "Barb Wire (1996)",
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Green Lantern (2011)"
+        ]
+    },
     "Terence Stamp": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Elektra (2005)",
+            "Wanted (2008)"
         ]
     },
     "Teresa Palmer": {
         "movies": [
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Teri Garr": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Terrence Howard": {
@@ -9330,12 +12154,18 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "Iron Man (2008)"
         ]
     },
     "Terry Gilliam": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Terry Notary": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Terry O'Quinn": {
@@ -9366,18 +12196,32 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "Hellboy (2019)"
         ]
     },
     "Thomas Jane": {
         "movies": [
+            "The Crow: City of Angels (1996)",
+            "The Punisher (2004)",
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Thomas Kretschmann": {
+        "movies": [
+            "Blade II (2002)",
+            "Wanted (2008)"
         ]
     },
     "Thomasin McKenzie": {
         "movies": [
             "Jojo Rabbit (2019)"
+        ]
+    },
+    "Thora Birch": {
+        "movies": [
+            "Ghost World (2001)"
         ]
     },
     "Tiffany Haddish": {
@@ -9394,6 +12238,7 @@ var actorMap = {
         ],
         "movies": [
             "Vanilla Sky (2001)",
+            "Constantine (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
@@ -9404,11 +12249,21 @@ var actorMap = {
             "Knocked Up (2007)"
         ]
     },
+    "Tim Blake Nelson": {
+        "movies": [
+            "The Incredible Hulk (2008)"
+        ]
+    },
     "Tim Blaney": {
         "movies": [
             "Men in Black (1997)",
             "Men in Black II (2002)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Tim Kelleher": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles III (1993)"
         ]
     },
     "Tim Robbins": {
@@ -9417,6 +12272,10 @@ var actorMap = {
                 "movie": "Mystic River",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "Howard the Duck (1986)",
+            "Green Lantern (2011)"
         ]
     },
     "Tim Roth": {
@@ -9427,6 +12286,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Incredible Hulk (2008)",
             "The Hateful Eight (2015)"
         ]
     },
@@ -9440,7 +12300,11 @@ var actorMap = {
     },
     "Timothy Spall": {
         "movies": [
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Timoth\u00e9e Chalamet": {
@@ -9451,8 +12315,21 @@ var actorMap = {
             }
         ]
     },
+    "Tip \"T.I.\" Harris": {
+        "movies": [
+            "Ant-Man (2015)"
+        ]
+    },
+    "Tobey Maguire": {
+        "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
     "Toby Jones": {
         "movies": [
+            "Harry Potter and the Chamber of Secrets (2002)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -9489,6 +12366,18 @@ var actorMap = {
             "Oblivion (2013)"
         ]
     },
+    "Tom Felton": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Tom Hanks": {
         "leadNoms": [
             {
@@ -9522,7 +12411,8 @@ var actorMap = {
             "A League of Their Own (1992)",
             "Forrest Gump (1994)",
             "Saving Private Ryan (1998)",
-            "Cast Away (2000)"
+            "Cast Away (2000)",
+            "Road to Perdition (2002)"
         ]
     },
     "Tom Hardy": {
@@ -9533,13 +12423,21 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Star Trek: Nemesis (2002)",
             "The Dark Knight Rises (2012)",
             "Locke (2014)"
+        ]
+    },
+    "Tom Hiddleston": {
+        "movies": [
+            "Thor (2011)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Tom Holland": {
         "movies": [
             "Locke (2014)",
+            "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -9547,6 +12445,12 @@ var actorMap = {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)"
+        ]
+    },
+    "Tom Kenny": {
+        "movies": [
+            "Sky High (2005)",
+            "Ant-Man (2015)"
         ]
     },
     "Tom Sizemore": {
@@ -9573,7 +12477,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Batman Begins (2005)",
+            "The Green Hornet (2011)"
         ]
     },
     "Tommy Lee": {
@@ -9604,6 +12510,7 @@ var actorMap = {
         ],
         "movies": [
             "The Fugitive (1993)",
+            "Batman Forever (1995)",
             "Men in Black (1997)",
             "Men in Black II (2002)",
             "Men in Black 3 (2012)"
@@ -9611,7 +12518,9 @@ var actorMap = {
     },
     "Tommy Lister Jr.": {
         "movies": [
-            "Armed and Dangerous (1986)"
+            "Armed and Dangerous (1986)",
+            "Barb Wire (1996)",
+            "The Dark Knight (2008)"
         ]
     },
     "Toni Collette": {
@@ -9642,6 +12551,7 @@ var actorMap = {
     },
     "Tony Curran": {
         "movies": [
+            "Blade II (2002)",
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
@@ -9659,11 +12569,19 @@ var actorMap = {
         "movies": [
             "Men in Black (1997)",
             "Men in Black II (2002)",
-            "How Do You Know (2010)"
+            "How Do You Know (2010)",
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Tony Todd": {
+        "movies": [
+            "The Crow (1994)"
         ]
     },
     "Topher Grace": {
         "movies": [
+            "Spider-Man 3 (2007)",
             "Valentine's Day (2010)",
             "Take Me Home Tonight (2011)"
         ]
@@ -9673,9 +12591,19 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Traylor Howard": {
+        "movies": [
+            "Son of the Mask (2005)"
+        ]
+    },
     "Trevor Howard": {
         "movies": [
             "Superman (1978)"
+        ]
+    },
+    "Triple H": {
+        "movies": [
+            "Blade: Trinity (2004)"
         ]
     },
     "Troy Kotsur": {
@@ -9684,6 +12612,11 @@ var actorMap = {
                 "movie": "CODA",
                 "year": "2021"
             }
+        ]
+    },
+    "Troye Sivan": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
         ]
     },
     "Truman Capote": {
@@ -9696,14 +12629,41 @@ var actorMap = {
             "The Joy Luck Club (1993)"
         ]
     },
+    "Ty Burrell": {
+        "movies": [
+            "The Incredible Hulk (2008)"
+        ]
+    },
     "Tye Sheridan": {
         "movies": [
             "Ready Player One (2018)"
         ]
     },
+    "Tyler Hoechlin": {
+        "movies": [
+            "Road to Perdition (2002)"
+        ]
+    },
+    "Tyler Mane": {
+        "movies": [
+            "X-Men (2000)"
+        ]
+    },
+    "Tyler Perry": {
+        "movies": [
+            "Star Trek (2009)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
     "T\u00e9a Leoni": {
         "movies": [
             "A League of Their Own (1992)"
+        ]
+    },
+    "Udo Kier": {
+        "movies": [
+            "Barb Wire (1996)",
+            "Blade (1998)"
         ]
     },
     "Uma Thurman": {
@@ -9712,16 +12672,21 @@ var actorMap = {
                 "movie": "Pulp Fiction",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Batman & Robin (1997)"
         ]
     },
     "Val Kilmer": {
         "movies": [
+            "Batman Forever (1995)",
             "Alexander (2004)"
         ]
     },
     "Valerie Perrine": {
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman II (1981)"
         ]
     },
     "Valeriia Karam\u00e4n": {
@@ -9772,12 +12737,27 @@ var actorMap = {
             }
         ]
     },
+    "Vanilla Ice": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+        ]
+    },
     "Vera Farmiga": {
         "suppNoms": [
             {
                 "movie": "Up in the Air",
                 "year": "2009"
             }
+        ]
+    },
+    "Verne Troyer": {
+        "movies": [
+            "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
+    "Victoria Rowell": {
+        "movies": [
+            "Barb Wire (1996)"
         ]
     },
     "Viggo Mortensen": {
@@ -9794,11 +12774,18 @@ var actorMap = {
                 "movie": "Green Book",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "The Lord of the Rings: The Two Towers (2002)",
+            "The Lord of the Rings: The Return of the King (2003)",
+            "A History of Violence (2005)"
         ]
     },
     "Vin Diesel": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "Avengers: Infinity War (2018)",
             "Bloodshot (2020)"
         ]
     },
@@ -9819,9 +12806,24 @@ var actorMap = {
             }
         ]
     },
+    "Vincent P\u00e9rez": {
+        "movies": [
+            "The Crow: City of Angels (1996)"
+        ]
+    },
+    "Vincent Schiavelli": {
+        "movies": [
+            "Batman Returns (1992)"
+        ]
+    },
     "Ving Rhames": {
         "movies": [
             "Surrogates (2009)"
+        ]
+    },
+    "Vinnie Jones": {
+        "movies": [
+            "X-Men: The Last Stand (2006)"
         ]
     },
     "Viola Davis": {
@@ -9854,6 +12856,11 @@ var actorMap = {
             }
         ]
     },
+    "Vivica A. Fox": {
+        "movies": [
+            "Batman & Robin (1997)"
+        ]
+    },
     "Vivien Leigh": {
         "leadNoms": [
             {
@@ -9866,9 +12873,20 @@ var actorMap = {
             }
         ]
     },
+    "Wallace Shawn": {
+        "movies": [
+            "The Incredibles (2004)"
+        ]
+    },
     "Walter Koenig": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)"
         ]
     },
     "Walton Goggins": {
@@ -9904,19 +12922,44 @@ var actorMap = {
     },
     "Warwick Davis": {
         "movies": [
+            "Return of the Jedi (1983)",
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Wayne Knight": {
         "movies": [
             "Jurassic Park (1993)",
-            "Space Jam (1996)"
+            "Space Jam (1996)",
+            "Punisher: War Zone (2008)"
+        ]
+    },
+    "Wes Bentley": {
+        "movies": [
+            "Ghost Rider (2007)",
+            "Jonah Hex (2010)"
         ]
     },
     "Wes Studi": {
         "movies": [
             "Mystery Men (1999)"
+        ]
+    },
+    "Wesley Snipes": {
+        "movies": [
+            "Blade (1998)",
+            "Blade II (2002)",
+            "Blade: Trinity (2004)"
         ]
     },
     "Whoopi Goldberg": {
@@ -9931,12 +12974,31 @@ var actorMap = {
                 "movie": "Ghost",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Star Trek Generations (1994)",
+            "Star Trek: Nemesis (2002)",
+            "Teenage Mutant Ninja Turtles (2014)"
+        ]
+    },
+    "Wil Wheaton": {
+        "movies": [
+            "Star Trek: Nemesis (2002)",
+            "Star Trek (2009)"
         ]
     },
     "Will Arnett": {
         "movies": [
             "Hot Rod (2007)",
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "Jonah Hex (2010)",
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Will Patton": {
+        "movies": [
+            "The Punisher (2004)"
         ]
     },
     "Will Poulter": {
@@ -9965,6 +13027,11 @@ var actorMap = {
             "Men in Black 3 (2012)"
         ]
     },
+    "Will Yun Lee": {
+        "movies": [
+            "Elektra (2005)"
+        ]
+    },
     "Willem Dafoe": {
         "leadNoms": [
             {
@@ -9987,10 +13054,19 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Spider-Man (2002)",
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "John Wick (2014)",
             "The Florida Project (2017)",
             "The Lighthouse (2019)"
+        ]
+    },
+    "William Fichtner": {
+        "movies": [
+            "The Dark Knight (2008)",
+            "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
     "William H. Macy": {
@@ -10024,6 +13100,11 @@ var actorMap = {
                 "movie": "A History of Violence",
                 "year": "2005"
             }
+        ],
+        "movies": [
+            "A History of Violence (2005)",
+            "The Incredible Hulk (2008)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "William Moseley": {
@@ -10035,7 +13116,13 @@ var actorMap = {
     },
     "William Shatner": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Star Trek III: The Search for Spock (1984)",
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek V: The Final Frontier (1989)",
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek Generations (1994)"
         ]
     },
     "William Squire": {
@@ -10060,11 +13147,20 @@ var actorMap = {
                 "movie": "The Age of Innocence",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
+    "Winston Duke": {
+        "movies": [
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Wood Harris": {
         "movies": [
-            "Dredd (2012)"
+            "Dredd (2012)",
+            "Ant-Man (2015)"
         ]
     },
     "Woody Allen": {
@@ -10130,6 +13226,11 @@ var actorMap = {
             "Shazam! (2019)"
         ]
     },
+    "Zachary Quinto": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Zahn McClarnon": {
         "movies": [
             "Bone Tomahawk (2015)"
@@ -10140,9 +13241,17 @@ var actorMap = {
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Zhang Ziyi": {
+        "movies": [
+            "TMNT (2007)"
+        ]
+    },
     "Zoe Saldana": {
         "movies": [
-            "Pirates of the Caribbean: The Curse of the Black Pearl (2003)"
+            "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "Star Trek (2009)",
+            "The Losers (2010)",
+            "Avengers: Infinity War (2018)"
         ]
     },
     "Zooey Deschanel": {
@@ -10154,6 +13263,16 @@ var actorMap = {
         "movies": [
             "Oblivion (2013)",
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Zo\u00eb Kravitz": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "will.i.am": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
         ]
     }
 }
