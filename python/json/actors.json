@@ -1,4 +1,14 @@
 {
+    "Aaron Eckhart": {
+        "movies": [
+            "The Dark Knight (2008)"
+        ]
+    },
+    "Aaron Taylor-Johnson": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
     "Aasif Mandvi": {
         "movies": [
             "Spider-Man 2 (2004)"
@@ -95,6 +105,9 @@
                 "movie": "Babel",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Adrianne Palicki": {
@@ -218,7 +231,8 @@
     },
     "Alan Dale": {
         "movies": [
-            "Star Trek: Nemesis (2002)"
+            "Star Trek: Nemesis (2002)",
+            "Priest (2011)"
         ]
     },
     "Alan Napier": {
@@ -233,7 +247,11 @@
             "Harry Potter and the Chamber of Secrets (2002)",
             "Love Actually (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Alan Ritchson": {
@@ -494,6 +512,11 @@
             }
         ]
     },
+    "Andre Braugher": {
+        "movies": [
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
+        ]
+    },
     "Andrea Riseborough": {
         "movies": [
             "Oblivion (2013)"
@@ -567,6 +590,9 @@
                 "movie": "What's Love Got to Do with It",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Green Lantern (2011)"
         ]
     },
     "Angela Lansbury": {
@@ -601,6 +627,7 @@
         "movies": [
             "Alexander (2004)",
             "Kung Fu Panda (2008)",
+            "Wanted (2008)",
             "Eternals (2021)"
         ]
     },
@@ -689,6 +716,11 @@
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Annabelle Wallis": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
     "Annabeth Gish": {
         "movies": [
             "Steel (1997)"
@@ -774,6 +806,7 @@
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Clone Wars (2008)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -808,7 +841,8 @@
         ],
         "movies": [
             "The Mask of Zorro (1998)",
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "Thor (2011)"
         ]
     },
     "Anthony Mackie": {
@@ -819,7 +853,8 @@
     },
     "Anthony Michael Hall": {
         "movies": [
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "The Dark Knight (2008)"
         ]
     },
     "Anthony Perkins": {
@@ -834,6 +869,11 @@
         "movies": [
             "Dazed and Confused (1993)",
             "Rent (2005)"
+        ]
+    },
+    "Anton Yelchin": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Antonio Banderas": {
@@ -897,6 +937,11 @@
     "Asher Angel": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ashley Eckstein": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Ashton Kutcher": {
@@ -1218,13 +1263,20 @@
         "movies": [
             "Love Actually (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Bill Nunn": {
         "movies": [
             "Spider-Man (2002)",
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
+        ]
+    },
+    "Bill O'Reilly": {
+        "movies": [
+            "Iron Man 2 (2010)"
         ]
     },
     "Bill Paxton": {
@@ -1271,7 +1323,8 @@
     },
     "Billy Crudup": {
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Watchmen (2009)"
         ]
     },
     "Billy Dee Williams": {
@@ -1294,6 +1347,11 @@
     "Blake Clark": {
         "movies": [
             "The Mask (1994)"
+        ]
+    },
+    "Blake Lively": {
+        "movies": [
+            "Green Lantern (2011)"
         ]
     },
     "Bo Burnham": {
@@ -1341,7 +1399,11 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Boris Kodjoe": {
@@ -1362,7 +1424,8 @@
             }
         ],
         "movies": [
-            "The Lord of the Rings: The Two Towers (2002)"
+            "The Lord of the Rings: The Two Towers (2002)",
+            "Priest (2011)"
         ]
     },
     "Brad Garrett": {
@@ -1431,6 +1494,7 @@
     },
     "Brandon Routh": {
         "movies": [
+            "Superman Returns (2006)",
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
@@ -1468,7 +1532,9 @@
     },
     "Brendan Gleeson": {
         "movies": [
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Brent Spiner": {
@@ -1486,6 +1552,7 @@
     },
     "Brett Cullen": {
         "movies": [
+            "Ghost Rider (2007)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -1501,7 +1568,13 @@
     },
     "Brian Cox": {
         "movies": [
-            "X2 (2003)"
+            "X2 (2003)",
+            "Red (2010)"
+        ]
+    },
+    "Brian Posehn": {
+        "movies": [
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
     "Brian Tee": {
@@ -1556,7 +1629,8 @@
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
-            "Sky High (2005)"
+            "Sky High (2005)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Bruce Davison": {
@@ -1594,6 +1668,11 @@
             "Ghost World (2001)"
         ]
     },
+    "Bruce Greenwood": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Bruce McGill": {
         "movies": [
             "Timecop (1994)"
@@ -1603,7 +1682,8 @@
         "movies": [
             "Unbreakable (2000)",
             "Sin City (2005)",
-            "Surrogates (2009)"
+            "Surrogates (2009)",
+            "Red (2010)"
         ]
     },
     "Bryan Cranston": {
@@ -1622,6 +1702,11 @@
     "Bryan Singer": {
         "movies": [
             "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Bryce Dallas Howard": {
+        "movies": [
+            "Spider-Man 3 (2007)"
         ]
     },
     "Burgess Meredith": {
@@ -1684,7 +1769,13 @@
     },
     "Caleb Landry Jones": {
         "movies": [
+            "X-Men: First Class (2011)",
             "The Florida Project (2017)"
+        ]
+    },
+    "Cam Gigandet": {
+        "movies": [
+            "Priest (2011)"
         ]
     },
     "Cameron Bright": {
@@ -1696,7 +1787,8 @@
         "movies": [
             "The Mask (1994)",
             "Vanilla Sky (2001)",
-            "The Holiday (2006)"
+            "The Holiday (2006)",
+            "The Green Hornet (2011)"
         ]
     },
     "Carey Mulligan": {
@@ -1721,7 +1813,8 @@
     },
     "Carla Gugino": {
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "Watchmen (2009)"
         ]
     },
     "Carol Burnett": {
@@ -1992,6 +2085,11 @@
             "Love Actually (2003)"
         ]
     },
+    "Chlo\u00eb Grace Moretz": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
     "Chlo\u00eb Sevigny": {
         "suppNoms": [
             {
@@ -2018,6 +2116,7 @@
         "movies": [
             "Fantastic Four (2005)",
             "TMNT (2007)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
             "The Losers (2010)",
             "Scott Pilgrim vs. the World (2010)",
             "Ant-Man (2015)",
@@ -2026,6 +2125,8 @@
     },
     "Chris Hemsworth": {
         "movies": [
+            "Star Trek (2009)",
+            "Thor (2011)",
             "Avengers: Infinity War (2018)",
             "Men in Black: International (2019)"
         ]
@@ -2044,6 +2145,11 @@
     "Chris Parnell": {
         "movies": [
             "Hot Rod (2007)"
+        ]
+    },
+    "Chris Pine": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Chris Pratt": {
@@ -2075,6 +2181,7 @@
         ],
         "movies": [
             "Batman Begins (2005)",
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -2093,6 +2200,9 @@
                 "movie": "Django Unchained",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "The Green Hornet (2011)"
         ]
     },
     "Christopher Guard": {
@@ -2105,7 +2215,8 @@
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Lord of the Rings: The Two Towers (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Christopher Lloyd": {
@@ -2115,6 +2226,7 @@
     },
     "Christopher Mintz-Plasse": {
         "movies": [
+            "Kick-Ass (2010)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -2136,7 +2248,8 @@
         "movies": [
             "Star Trek VI: The Undiscovered Country (1991)",
             "Alexander (2004)",
-            "The Lake House (2006)"
+            "The Lake House (2006)",
+            "Priest (2011)"
         ]
     },
     "Christopher Reeve": {
@@ -2164,6 +2277,11 @@
             "Batman Returns (1992)"
         ]
     },
+    "Christopher Young": {
+        "movies": [
+            "Spider-Man 3 (2007)"
+        ]
+    },
     "Ciar\u00e1n Hinds": {
         "suppNoms": [
             {
@@ -2173,12 +2291,14 @@
         ],
         "movies": [
             "Road to Perdition (2002)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "John Carter (2012)"
         ]
     },
     "Cillian Murphy": {
         "movies": [
             "Batman Begins (2005)",
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
             "A Quiet Place Part II (2021)"
         ]
@@ -2190,8 +2310,21 @@
     },
     "Clancy Brown": {
         "movies": [
+            "Green Lantern (2011)",
             "Cowboys & Aliens (2011)",
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Clark Duke": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
+    "Clark Gregg": {
+        "movies": [
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
+            "Thor (2011)"
         ]
     },
     "Clarke Peters": {
@@ -2202,11 +2335,13 @@
     "Cliff Robertson": {
         "movies": [
             "Spider-Man (2002)",
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Clifton Collins Jr.": {
         "movies": [
+            "Star Trek (2009)",
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
@@ -2250,7 +2385,9 @@
     },
     "Cl\u00e9mence Po\u00e9sy": {
         "movies": [
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Cobie Smulders": {
@@ -2286,9 +2423,19 @@
             "Love Actually (2003)"
         ]
     },
+    "Colm Feore": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Columbus Short": {
         "movies": [
             "The Losers (2010)"
+        ]
+    },
+    "Common": {
+        "movies": [
+            "Wanted (2008)"
         ]
     },
     "Conan O'Brien": {
@@ -2320,6 +2467,11 @@
     "Costa-Gavras": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Craig Ferguson": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Craig Robinson": {
@@ -2367,6 +2519,11 @@
     "Dacre Montgomery": {
         "movies": [
             "Power Rangers (2017)"
+        ]
+    },
+    "Dakota Goyo": {
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Dan Aykroyd": {
@@ -2449,6 +2606,11 @@
             }
         ]
     },
+    "Daniel Henney": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
     "Daniel Kaluuya": {
         "leadNoms": [
             {
@@ -2473,7 +2635,11 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Daniel Roebuck": {
@@ -2508,7 +2674,8 @@
     },
     "Danny Huston": {
         "movies": [
-            "30 Days of Night (2007)"
+            "30 Days of Night (2007)",
+            "X-Men Origins: Wolverine (2009)"
         ]
     },
     "Danny McBride": {
@@ -2556,7 +2723,10 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "David Buck": {
@@ -2574,6 +2744,7 @@
     },
     "David Dastmalchian": {
         "movies": [
+            "The Dark Knight (2008)",
             "Ant-Man (2015)"
         ]
     },
@@ -2589,6 +2760,7 @@
     },
     "David Harbour": {
         "movies": [
+            "The Green Hornet (2011)",
             "Hellboy (2019)"
         ]
     },
@@ -2644,7 +2816,11 @@
     },
     "David Thewlis": {
         "movies": [
-            "Harry Potter and the Prisoner of Azkaban (2004)"
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "David Walliams": {
@@ -2663,6 +2839,7 @@
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "300 (2007)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
@@ -2722,6 +2899,11 @@
         ],
         "movies": [
             "Terms of Endearment (1983)"
+        ]
+    },
+    "Dee Bradley Baker": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Demi\u00e1n Bichir": {
@@ -2822,6 +3004,11 @@
     "Devon Aoki": {
         "movies": [
             "Sin City (2005)"
+        ]
+    },
+    "Dexter Fletcher": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Dexter Gordon": {
@@ -2955,6 +3142,8 @@
     },
     "Domhnall Gleeson": {
         "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Dredd (2012)"
         ]
     },
@@ -2967,7 +3156,8 @@
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "X-Men Origins: Wolverine (2009)"
         ]
     },
     "Dominic Purcell": {
@@ -2983,6 +3173,8 @@
     "Dominic West": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "300 (2007)",
+            "Punisher: War Zone (2008)",
             "John Carter (2012)"
         ]
     },
@@ -2999,6 +3191,7 @@
             }
         ],
         "movies": [
+            "Iron Man 2 (2010)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -3009,7 +3202,8 @@
     },
     "Donal Logue": {
         "movies": [
-            "Blade (1998)"
+            "Blade (1998)",
+            "Ghost Rider (2007)"
         ]
     },
     "Donna Dixon": {
@@ -3043,6 +3237,7 @@
             "Mystery Men (1999)",
             "Men in Black II (2002)",
             "Hellboy (2004)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Hellboy II: The Golden Army (2008)"
         ]
     },
@@ -3095,7 +3290,8 @@
     "Dylan Baker": {
         "movies": [
             "Road to Perdition (2002)",
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "E. G. Marshall": {
@@ -3177,6 +3373,11 @@
             }
         ]
     },
+    "Edi Gathegi": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
     "Edie McClurg": {
         "movies": [
             "Carrie (1976)"
@@ -3188,6 +3389,11 @@
             "The Holiday (2006)"
         ]
     },
+    "Edward Furlong": {
+        "movies": [
+            "The Green Hornet (2011)"
+        ]
+    },
     "Edward James Olmos": {
         "leadNoms": [
             {
@@ -3196,6 +3402,7 @@
             }
         ],
         "movies": [
+            "The Green Hornet (2011)",
             "2 Guns (2013)"
         ]
     },
@@ -3215,6 +3422,9 @@
                 "movie": "Birdman or (The Unexpected Virtue of Ignorance)",
                 "year": "2014"
             }
+        ],
+        "movies": [
+            "The Incredible Hulk (2008)"
         ]
     },
     "Edwin Hodge": {
@@ -3263,7 +3473,13 @@
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)",
             "Power Rangers (2017)"
+        ]
+    },
+    "Elizabeth McGovern": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Elizabeth Olsen": {
@@ -3362,6 +3578,11 @@
             }
         ]
     },
+    "Elon Musk": {
+        "movies": [
+            "Iron Man 2 (2010)"
+        ]
+    },
     "Emerald Fennell": {
         "movies": [
             "Promising Young Woman (2020)"
@@ -3437,6 +3658,8 @@
         "movies": [
             "Love Actually (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
             "Men in Black: International (2019)"
         ]
@@ -3446,7 +3669,11 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Emmanuelle Riva": {
@@ -3459,13 +3686,19 @@
     },
     "Eric Bana": {
         "movies": [
-            "Hulk (2003)"
+            "Hulk (2003)",
+            "Star Trek (2009)"
         ]
     },
     "Eric Dane": {
         "movies": [
             "X-Men: The Last Stand (2006)",
             "Valentine's Day (2010)"
+        ]
+    },
+    "Eric Roberts": {
+        "movies": [
+            "The Dark Knight (2008)"
         ]
     },
     "Eric Stonestreet": {
@@ -3476,6 +3709,11 @@
     "Erik Knudsen": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Ernest Borgnine": {
+        "movies": [
+            "Red (2010)"
         ]
     },
     "Ernie Hudson": {
@@ -3527,10 +3765,21 @@
             "Armed and Dangerous (1986)"
         ]
     },
+    "Eva Marie Saint": {
+        "movies": [
+            "Superman Returns (2006)"
+        ]
+    },
     "Eva Mendes": {
         "movies": [
+            "Ghost Rider (2007)",
             "Knocked Up (2007)",
             "The Spirit (2008)"
+        ]
+    },
+    "Evan Peters": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Evan Rachel Wood": {
@@ -3541,6 +3790,14 @@
     "Evangeline Lilly": {
         "movies": [
             "Ant-Man (2015)"
+        ]
+    },
+    "Evanna Lynch": {
+        "movies": [
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Ewan McGregor": {
@@ -3613,7 +3870,9 @@
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
-            "Harry Potter and the Prisoner of Azkaban (2004)"
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Florence Pugh": {
@@ -3685,6 +3944,9 @@
                 "movie": "Frost/Nixon",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Superman Returns (2006)"
         ]
     },
     "Frank Miller": {
@@ -3728,6 +3990,13 @@
             "I Still Know What You Did Last Summer (1998)"
         ]
     },
+    "Freddie Stroma": {
+        "movies": [
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Fredric Lehne": {
         "movies": [
             "Men in Black (1997)"
@@ -3754,6 +4023,11 @@
     "Garry Marshall": {
         "movies": [
             "A League of Their Own (1992)"
+        ]
+    },
+    "Garry Shandling": {
+        "movies": [
+            "Iron Man 2 (2010)"
         ]
     },
     "Gary Anthony Williams": {
@@ -3812,6 +4086,9 @@
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Batman Begins (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "The Dark Knight (2008)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Dark Knight Rises (2012)",
             "RoboCop (2014)"
         ]
@@ -3833,6 +4110,11 @@
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
             "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Gattlin Griffith": {
+        "movies": [
+            "Green Lantern (2011)"
         ]
     },
     "Geena Davis": {
@@ -3859,7 +4141,9 @@
     },
     "Gemma Jones": {
         "movies": [
-            "Harry Potter and the Chamber of Secrets (2002)"
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Gene Hackman": {
@@ -3929,6 +4213,7 @@
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Green Lantern (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
@@ -3998,6 +4283,11 @@
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "Gerard Butler": {
+        "movies": [
+            "300 (2007)"
         ]
     },
     "Giovanni Ribisi": {
@@ -4108,6 +4398,11 @@
             }
         ]
     },
+    "Greg Grunberg": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Greg Kinnear": {
         "suppNoms": [
             {
@@ -4133,6 +4428,8 @@
         ],
         "movies": [
             "Shakespeare in Love (1998)",
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -4231,7 +4528,9 @@
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
-            "Harry Potter and the Prisoner of Azkaban (2004)"
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Harry Styles": {
@@ -4278,6 +4577,9 @@
                 "movie": "The Dark Knight",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "The Dark Knight (2008)"
         ]
     },
     "Heather Graham": {
@@ -4307,6 +4609,13 @@
             "Cast Away (2000)"
         ]
     },
+    "Helen McCrory": {
+        "movies": [
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Helen Mirren": {
         "leadNoms": [
             {
@@ -4327,6 +4636,9 @@
                 "movie": "Gosford Park",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Red (2010)"
         ]
     },
     "Helen Slater": {
@@ -4346,6 +4658,12 @@
                 "movie": "The King's Speech",
                 "year": "2010"
             }
+        ],
+        "movies": [
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Henry Czerny": {
@@ -4363,6 +4681,11 @@
                 "movie": "On Golden Pond",
                 "year": "1981"
             }
+        ]
+    },
+    "Hero Fiennes Tiffin": {
+        "movies": [
+            "Harry Potter and the Half-Blood Prince (2009)"
         ]
     },
     "Hilary Swank": {
@@ -4417,7 +4740,9 @@
         "movies": [
             "X-Men (2000)",
             "X2 (2003)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men Origins: Wolverine (2009)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Hugo Weaving": {
@@ -4431,6 +4756,11 @@
     "H\u00e9ctor Elizondo": {
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "Ian Abercrombie": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Ian Beattie": {
@@ -4503,6 +4833,7 @@
     "Idris Elba": {
         "movies": [
             "The Losers (2010)",
+            "Thor (2011)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -4519,7 +4850,9 @@
             }
         ],
         "movies": [
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Imogen Poots": {
@@ -4563,7 +4896,8 @@
     },
     "Ioan Gruffudd": {
         "movies": [
-            "Fantastic Four (2005)"
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
     "Irina Shayk": {
@@ -4631,6 +4965,7 @@
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)",
             "Spider-Man: Far From Home (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -4809,6 +5144,7 @@
             }
         ],
         "movies": [
+            "Watchmen (2009)",
             "RoboCop (2014)"
         ]
     },
@@ -4835,6 +5171,11 @@
             "Horton Hears a Who! (2008)"
         ]
     },
+    "Jaimie Alexander": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Jake Gyllenhaal": {
         "suppNoms": [
             {
@@ -4853,7 +5194,8 @@
     },
     "James Arnold Taylor": {
         "movies": [
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "James Caan": {
@@ -4881,6 +5223,7 @@
         ],
         "movies": [
             "Star Trek: First Contact (1996)",
+            "Spider-Man 3 (2007)",
             "Surrogates (2009)"
         ]
     },
@@ -4933,7 +5276,9 @@
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "The Holiday (2006)",
-            "Knocked Up (2007)"
+            "Spider-Man 3 (2007)",
+            "Knocked Up (2007)",
+            "The Green Hornet (2011)"
         ]
     },
     "James Hong": {
@@ -4947,12 +5292,15 @@
             "X-Men (2000)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
+            "Superman Returns (2006)",
             "2 Guns (2013)"
         ]
     },
     "James McAvoy": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Wanted (2008)",
+            "X-Men: First Class (2011)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -4966,12 +5314,17 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "James Remar": {
         "movies": [
-            "Blade: Trinity (2004)"
+            "Blade: Trinity (2004)",
+            "Red (2010)"
         ]
     },
     "James Stewart": {
@@ -5116,7 +5469,8 @@
     },
     "January Jones": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Jared Leto": {
@@ -5133,14 +5487,19 @@
     "Jason Flemyng": {
         "movies": [
             "From Hell (2001)",
-            "The League of Extraordinary Gentlemen (2003)"
+            "The League of Extraordinary Gentlemen (2003)",
+            "Kick-Ass (2010)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Jason Isaacs": {
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
             "Elektra (2005)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Jason Lee": {
@@ -5207,6 +5566,11 @@
             "RoboCop (2014)"
         ]
     },
+    "Jay Chou": {
+        "movies": [
+            "The Green Hornet (2011)"
+        ]
+    },
     "Jaye Davidson": {
         "suppNoms": [
             {
@@ -5262,6 +5626,7 @@
             }
         ],
         "movies": [
+            "Iron Man (2008)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -5288,6 +5653,7 @@
     },
     "Jeffrey Dean Morgan": {
         "movies": [
+            "Watchmen (2009)",
             "The Losers (2010)",
             "Jonah Hex (2010)"
         ]
@@ -5381,12 +5747,20 @@
                 "movie": "American Hustle",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Jennifer Love Hewitt": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
             "I Still Know What You Did Last Summer (1998)"
+        ]
+    },
+    "Jennifer Morrison": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Jennifer Tilly": {
@@ -5428,6 +5802,9 @@
                 "movie": "The Town",
                 "year": "2010"
             }
+        ],
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Jeremy Theobald": {
@@ -5466,6 +5843,7 @@
             "Sin City (2005)",
             "Fantastic Four (2005)",
             "Knocked Up (2007)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Valentine's Day (2010)"
         ]
     },
@@ -5557,7 +5935,10 @@
         ],
         "movies": [
             "Superman IV: The Quest for Peace (1987)",
-            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Jim Carrey": {
@@ -5575,6 +5956,11 @@
     "Jim Rash": {
         "movies": [
             "Sky High (2005)"
+        ]
+    },
+    "Jimmy Bennett": {
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Jimmy Fallon": {
@@ -5720,7 +6106,8 @@
     },
     "Joe Manganiello": {
         "movies": [
-            "Spider-Man (2002)"
+            "Spider-Man (2002)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Joe Pantoliano": {
@@ -5803,6 +6190,11 @@
             "The Deer Hunter (1978)"
         ]
     },
+    "John Cho": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "John Cleese": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -5859,6 +6251,8 @@
             "Hellboy (2004)",
             "V for Vendetta (2006)",
             "Hellboy II: The Golden Army (2008)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Hercules (2014)"
         ]
     },
@@ -5913,7 +6307,8 @@
         ],
         "movies": [
             "Places in the Heart (1984)",
-            "Jonah Hex (2010)"
+            "Jonah Hex (2010)",
+            "Red (2010)"
         ]
     },
     "John Michael Higgins": {
@@ -5945,6 +6340,7 @@
     },
     "John Slattery": {
         "movies": [
+            "Iron Man 2 (2010)",
             "Ant-Man (2015)"
         ]
     },
@@ -6038,6 +6434,8 @@
             "Batman Forever (1995)",
             "Daredevil (2003)",
             "Something's Gotta Give (2003)",
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
             "John Carter (2012)",
             "Spider-Man: Far From Home (2019)"
         ]
@@ -6154,6 +6552,11 @@
             "Jonah Hex (2010)",
             "Men in Black 3 (2012)",
             "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Josh Dallas": {
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Josh Gad": {
@@ -6329,7 +6732,9 @@
     },
     "Julian McMahon": {
         "movies": [
-            "Fantastic Four (2005)"
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Red (2010)"
         ]
     },
     "Julianne Moore": {
@@ -6377,6 +6782,11 @@
             }
         ]
     },
+    "Julie Benz": {
+        "movies": [
+            "Punisher: War Zone (2008)"
+        ]
+    },
     "Julie Christie": {
         "leadNoms": [
             {
@@ -6421,7 +6831,11 @@
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
-            "Harry Potter and the Prisoner of Azkaban (2004)"
+            "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Juliette Binoche": {
@@ -6469,7 +6883,8 @@
     },
     "Kal Penn": {
         "movies": [
-            "Son of the Mask (2005)"
+            "Son of the Mask (2005)",
+            "Superman Returns (2006)"
         ]
     },
     "Karel Roden": {
@@ -6487,7 +6902,20 @@
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "Star Trek (2009)",
+            "Red (2010)",
+            "Priest (2011)",
             "Dredd (2012)"
+        ]
+    },
+    "Kat Dennings": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
+    "Kate Bosworth": {
+        "movies": [
+            "Superman Returns (2006)"
         ]
     },
     "Kate Dickie": {
@@ -6504,6 +6932,11 @@
         ],
         "movies": [
             "Almost Famous (2000)"
+        ]
+    },
+    "Kate Mara": {
+        "movies": [
+            "Iron Man 2 (2010)"
         ]
     },
     "Kate Nelligan": {
@@ -6730,6 +7163,11 @@
             "Mystery Men (1999)"
         ]
     },
+    "Kelly Macdonald": {
+        "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
     "Kelly Preston": {
         "movies": [
             "Sky High (2005)"
@@ -6802,11 +7240,13 @@
     },
     "Kerry Washington": {
         "movies": [
-            "Fantastic Four (2005)"
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
     "Kevin Bacon": {
         "movies": [
+            "X-Men: First Class (2011)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -6821,6 +7261,11 @@
                 "movie": "Dances with Wolves",
                 "year": "1990"
             }
+        ]
+    },
+    "Kevin Durand": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
         ]
     },
     "Kevin Heffernan": {
@@ -6877,6 +7322,7 @@
             }
         ],
         "movies": [
+            "Superman Returns (2006)",
             "Moon (2009)"
         ]
     },
@@ -6926,7 +7372,8 @@
         ],
         "movies": [
             "Spider-Man (2002)",
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Kirstie Alley": {
@@ -7126,7 +7573,8 @@
             }
         ],
         "movies": [
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
     "Laurence Luckinbill": {
@@ -7182,6 +7630,7 @@
     },
     "Lena Headey": {
         "movies": [
+            "300 (2007)",
             "Dredd (2012)"
         ]
     },
@@ -7213,7 +7662,8 @@
             "Star Trek III: The Search for Spock (1984)",
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
-            "Star Trek VI: The Undiscovered Country (1991)"
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Star Trek (2009)"
         ]
     },
     "Leonardo DiCaprio": {
@@ -7252,6 +7702,12 @@
                 "movie": "Phantom Thread",
                 "year": "2017"
             }
+        ]
+    },
+    "Leslie Bibb": {
+        "movies": [
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)"
         ]
     },
     "Leslie Mann": {
@@ -7296,6 +7752,16 @@
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Dark Knight Rises (2012)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Liev Schreiber": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
+    "Lily Collins": {
+        "movies": [
+            "Priest (2011)"
         ]
     },
     "Lily Tomlin": {
@@ -7345,6 +7811,11 @@
             "The Holiday (2006)"
         ]
     },
+    "Lio Tipton": {
+        "movies": [
+            "The Green Hornet (2011)"
+        ]
+    },
     "Lionel Barrymore": {
         "leadNoms": [
             {
@@ -7357,7 +7828,8 @@
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "The Incredible Hulk (2008)"
         ]
     },
     "Logan Kim": {
@@ -7380,7 +7852,8 @@
     },
     "Lou Ferrigno": {
         "movies": [
-            "Hulk (2003)"
+            "Hulk (2003)",
+            "The Incredible Hulk (2008)"
         ]
     },
     "Lou Romano": {
@@ -7405,6 +7878,11 @@
                 "movie": "Manchester by the Sea",
                 "year": "2016"
             }
+        ]
+    },
+    "Lucas Till": {
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Lucy Lawless": {
@@ -7451,8 +7929,14 @@
             "Sky High (2005)"
         ]
     },
+    "Lyndsy Fonseca": {
+        "movies": [
+            "Kick-Ass (2010)"
+        ]
+    },
     "Lynn Collins": {
         "movies": [
+            "X-Men Origins: Wolverine (2009)",
             "John Carter (2012)"
         ]
     },
@@ -7511,6 +7995,14 @@
                 "movie": "Crazy Heart",
                 "year": "2009"
             }
+        ],
+        "movies": [
+            "The Dark Knight (2008)"
+        ]
+    },
+    "Maggie Q": {
+        "movies": [
+            "Priest (2011)"
         ]
     },
     "Maggie Smith": {
@@ -7546,7 +8038,10 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Mahershala Ali": {
@@ -7583,6 +8078,11 @@
     "Malcolm McDowell": {
         "movies": [
             "Star Trek Generations (1994)"
+        ]
+    },
+    "Malin \u00c5kerman": {
+        "movies": [
+            "Watchmen (2009)"
         ]
     },
     "Marc Maron": {
@@ -7793,6 +8293,8 @@
     },
     "Mark Strong": {
         "movies": [
+            "Kick-Ass (2010)",
+            "Green Lantern (2011)",
             "John Carter (2012)",
             "Shazam! (2019)"
         ]
@@ -7812,7 +8314,11 @@
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Marlee Matlin": {
@@ -7866,7 +8372,8 @@
             }
         ],
         "movies": [
-            "Superman (1978)"
+            "Superman (1978)",
+            "Superman Returns (2006)"
         ]
     },
     "Marta Milans": {
@@ -7923,6 +8430,7 @@
     "Martin Starr": {
         "movies": [
             "Knocked Up (2007)",
+            "The Incredible Hulk (2008)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -7975,6 +8483,7 @@
     },
     "Mary-Louise Parker": {
         "movies": [
+            "Red (2010)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -8025,6 +8534,16 @@
             "Supergirl (1984)"
         ]
     },
+    "Matt Lanter": {
+        "movies": [
+            "Star Wars: The Clone Wars (2008)"
+        ]
+    },
+    "Matt Long": {
+        "movies": [
+            "Ghost Rider (2007)"
+        ]
+    },
     "Matthew Broderick": {
         "movies": [
             "WarGames (1983)"
@@ -8035,12 +8554,21 @@
             "Bone Tomahawk (2015)"
         ]
     },
+    "Matthew Goode": {
+        "movies": [
+            "Watchmen (2009)"
+        ]
+    },
     "Matthew Lewis": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Matthew McConaughey": {
@@ -8061,7 +8589,8 @@
     },
     "Matthew Wood": {
         "movies": [
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Clone Wars (2008)"
         ]
     },
     "Maude Apatow": {
@@ -8086,6 +8615,11 @@
                 "movie": "Extremely Loud & Incredibly Close",
                 "year": "2011"
             }
+        ]
+    },
+    "Maximiliano Hern\u00e1ndez": {
+        "movies": [
+            "Thor (2011)"
         ]
     },
     "Maya Rudolph": {
@@ -8343,6 +8877,7 @@
         ],
         "movies": [
             "Batman Begins (2005)",
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -8358,7 +8893,8 @@
     },
     "Michael Chiklis": {
         "movies": [
-            "Fantastic Four (2005)"
+            "Fantastic Four (2005)",
+            "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
     "Michael Clarke Duncan": {
@@ -8371,7 +8907,8 @@
         "movies": [
             "Daredevil (2003)",
             "Sin City (2005)",
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "Green Lantern (2011)"
         ]
     },
     "Michael Cudlitz": {
@@ -8418,13 +8955,19 @@
             }
         ],
         "movies": [
-            "Jonah Hex (2010)"
+            "300 (2007)",
+            "Jonah Hex (2010)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Michael Gambon": {
         "movies": [
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Michael Gough": {
@@ -8452,7 +8995,8 @@
     },
     "Michael Jai White": {
         "movies": [
-            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "The Dark Knight (2008)"
         ]
     },
     "Michael Jordan": {
@@ -8462,6 +9006,7 @@
     },
     "Michael K. Williams": {
         "movies": [
+            "The Incredible Hulk (2008)",
             "RoboCop (2014)"
         ]
     },
@@ -8615,7 +9160,8 @@
             }
         ],
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "Iron Man 2 (2010)"
         ]
     },
     "Mike Colter": {
@@ -8697,7 +9243,8 @@
     },
     "Miriam Margolyes": {
         "movies": [
-            "Harry Potter and the Chamber of Secrets (2002)"
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Mitchell Whitfield": {
@@ -8755,6 +9302,9 @@
         ],
         "movies": [
             "Batman Begins (2005)",
+            "Wanted (2008)",
+            "The Dark Knight (2008)",
+            "Red (2010)",
             "Conan the Barbarian (2011)",
             "The Dark Knight Rises (2012)",
             "Oblivion (2013)"
@@ -8851,7 +9401,8 @@
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-            "V for Vendetta (2006)"
+            "V for Vendetta (2006)",
+            "Thor (2011)"
         ]
     },
     "Natasha Lyonne": {
@@ -8892,6 +9443,7 @@
     },
     "Nestor Carbonell": {
         "movies": [
+            "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -8913,6 +9465,11 @@
     "Nicholas Braun": {
         "movies": [
             "Sky High (2005)"
+        ]
+    },
+    "Nicholas Hoult": {
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Nick Cannon": {
@@ -8961,6 +9518,10 @@
                 "movie": "Adaptation",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "Ghost Rider (2007)",
+            "Kick-Ass (2010)"
         ]
     },
     "Nicole Kidman": {
@@ -9100,7 +9661,16 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Oliver Platt": {
+        "movies": [
+            "X-Men: First Class (2011)"
         ]
     },
     "Oliver Stone": {
@@ -9134,6 +9704,11 @@
             "Ready Player One (2018)"
         ]
     },
+    "Olivia Munn": {
+        "movies": [
+            "Iron Man 2 (2010)"
+        ]
+    },
     "Olivia Olson": {
         "movies": [
             "Love Actually (2003)"
@@ -9161,6 +9736,11 @@
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ]
+    },
+    "Omari Hardwick": {
+        "movies": [
+            "Kick-Ass (2010)"
         ]
     },
     "Oprah Winfrey": {
@@ -9220,7 +9800,8 @@
     "Parker Posey": {
         "movies": [
             "Dazed and Confused (1993)",
-            "Blade: Trinity (2004)"
+            "Blade: Trinity (2004)",
+            "Superman Returns (2006)"
         ]
     },
     "Pat Hingle": {
@@ -9276,7 +9857,8 @@
             "Star Trek: Nemesis (2002)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "X-Men Origins: Wolverine (2009)"
         ]
     },
     "Patrick Warburton": {
@@ -9287,6 +9869,7 @@
     },
     "Patrick Wilson": {
         "movies": [
+            "Watchmen (2009)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -9298,6 +9881,9 @@
     },
     "Paul Bettany": {
         "movies": [
+            "Iron Man (2008)",
+            "Iron Man 2 (2010)",
+            "Priest (2011)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -9493,6 +10079,7 @@
     },
     "Peter Billingsley": {
         "movies": [
+            "Iron Man (2008)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -9513,6 +10100,9 @@
                 "movie": "Ulee's Gold",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "Ghost Rider (2007)"
         ]
     },
     "Peter Graves": {
@@ -9586,6 +10176,11 @@
     "Peter Riegert": {
         "movies": [
             "The Mask (1994)"
+        ]
+    },
+    "Peter Sarsgaard": {
+        "movies": [
+            "Green Lantern (2011)"
         ]
     },
     "Peter Serafinowicz": {
@@ -9702,6 +10297,7 @@
     },
     "Rachel Nichols": {
         "movies": [
+            "Star Trek (2009)",
             "Conan the Barbarian (2011)"
         ]
     },
@@ -9749,7 +10345,10 @@
             }
         ],
         "movies": [
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Ralph Ineson": {
@@ -9793,6 +10392,12 @@
             "X-Men (2000)"
         ]
     },
+    "Ray Stevenson": {
+        "movies": [
+            "Punisher: War Zone (2008)",
+            "Thor (2011)"
+        ]
+    },
     "Ray Winstone": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
@@ -9814,11 +10419,13 @@
             "X-Men (2000)",
             "X2 (2003)",
             "The Punisher (2004)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Rebel Wilson": {
         "movies": [
+            "Ghost Rider (2007)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -9862,6 +10469,11 @@
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Rene Russo": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Ren\u00e9e Zellweger": {
         "leadNoms": [
             {
@@ -9890,6 +10502,11 @@
     "Rex Harrison": {
         "movies": [
             "My Fair Lady (1964)"
+        ]
+    },
+    "Rhys Ifans": {
+        "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Rian Johnson": {
@@ -9932,6 +10549,9 @@
                 "movie": "Mr. Holland's Opus",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "Red (2010)"
         ]
     },
     "Richard E. Grant": {
@@ -9961,6 +10581,8 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)"
         ]
     },
@@ -10061,7 +10683,11 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Robbie Rist": {
@@ -10122,6 +10748,9 @@
             }
         ],
         "movies": [
+            "Iron Man (2008)",
+            "The Incredible Hulk (2008)",
+            "Iron Man 2 (2010)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -10255,7 +10884,8 @@
     },
     "Rodrigo Santoro": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "300 (2007)"
         ]
     },
     "Roman Griffin Davis": {
@@ -10327,7 +10957,8 @@
     },
     "Rose Byrne": {
         "movies": [
-            "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+            "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "X-Men: First Class (2011)"
         ]
     },
     "Rose McGowan": {
@@ -10344,7 +10975,8 @@
         ],
         "movies": [
             "Spider-Man (2002)",
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Rosie O'Donnell": {
@@ -10411,7 +11043,11 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Russell Crowe": {
@@ -10475,6 +11111,8 @@
     "Ryan Reynolds": {
         "movies": [
             "Blade: Trinity (2004)",
+            "X-Men Origins: Wolverine (2009)",
+            "Green Lantern (2011)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -10567,7 +11205,8 @@
             }
         ],
         "movies": [
-            "Hulk (2003)"
+            "Hulk (2003)",
+            "Ghost Rider (2007)"
         ]
     },
     "Sam Hargrave": {
@@ -10578,6 +11217,11 @@
     "Sam Heughan": {
         "movies": [
             "Bloodshot (2020)"
+        ]
+    },
+    "Sam Huntington": {
+        "movies": [
+            "Superman Returns (2006)"
         ]
     },
     "Sam Neill": {
@@ -10615,6 +11259,7 @@
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
             "Moon (2009)",
+            "Iron Man 2 (2010)",
             "Cowboys & Aliens (2011)",
             "Jojo Rabbit (2019)"
         ]
@@ -10655,7 +11300,11 @@
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Incredibles (2004)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Iron Man (2008)",
+            "Star Wars: The Clone Wars (2008)",
             "The Spirit (2008)",
+            "Iron Man 2 (2010)",
+            "Thor (2011)",
             "RoboCop (2014)",
             "The Hateful Eight (2015)",
             "Avengers: Infinity War (2018)",
@@ -10759,6 +11408,7 @@
         "movies": [
             "Ghost World (2001)",
             "The Spirit (2008)",
+            "Iron Man 2 (2010)",
             "Avengers: Infinity War (2018)",
             "Jojo Rabbit (2019)"
         ]
@@ -10874,7 +11524,8 @@
         "movies": [
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "The Green Hornet (2011)"
         ]
     },
     "Shane West": {
@@ -10901,6 +11552,11 @@
         ],
         "movies": [
             "Catwoman (2004)"
+        ]
+    },
+    "Shaun Toub": {
+        "movies": [
+            "Iron Man (2008)"
         ]
     },
     "Shawn Ashmore": {
@@ -11030,6 +11686,7 @@
     },
     "Simon Pegg": {
         "movies": [
+            "Star Trek (2009)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "Ready Player One (2018)"
         ]
@@ -11187,7 +11844,8 @@
     "Stellan Skarsg\u00e5rd": {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "Thor (2011)"
         ]
     },
     "Stephen Amell": {
@@ -11378,13 +12036,24 @@
             "Rocky (1976)"
         ]
     },
+    "T. J. Storm": {
+        "movies": [
+            "Punisher: War Zone (2008)"
+        ]
+    },
     "T.J. Miller": {
         "movies": [
             "Ready Player One (2018)"
         ]
     },
+    "Tadanobu Asano": {
+        "movies": [
+            "Thor (2011)"
+        ]
+    },
     "Taika Waititi": {
         "movies": [
+            "Green Lantern (2011)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -11431,6 +12100,7 @@
     },
     "Taylor Kitsch": {
         "movies": [
+            "X-Men Origins: Wolverine (2009)",
             "John Carter (2012)"
         ]
     },
@@ -11453,7 +12123,8 @@
         "movies": [
             "Barb Wire (1996)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Green Lantern (2011)"
         ]
     },
     "Terence Stamp": {
@@ -11461,7 +12132,8 @@
             "Superman (1978)",
             "Superman II (1981)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
-            "Elektra (2005)"
+            "Elektra (2005)",
+            "Wanted (2008)"
         ]
     },
     "Teresa Palmer": {
@@ -11482,7 +12154,8 @@
             }
         ],
         "movies": [
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "Iron Man (2008)"
         ]
     },
     "Terry Gilliam": {
@@ -11523,6 +12196,7 @@
             }
         ],
         "movies": [
+            "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "Hellboy (2019)"
         ]
@@ -11536,7 +12210,8 @@
     },
     "Thomas Kretschmann": {
         "movies": [
-            "Blade II (2002)"
+            "Blade II (2002)",
+            "Wanted (2008)"
         ]
     },
     "Thomasin McKenzie": {
@@ -11574,6 +12249,11 @@
             "Knocked Up (2007)"
         ]
     },
+    "Tim Blake Nelson": {
+        "movies": [
+            "The Incredible Hulk (2008)"
+        ]
+    },
     "Tim Blaney": {
         "movies": [
             "Men in Black (1997)",
@@ -11594,7 +12274,8 @@
             }
         ],
         "movies": [
-            "Howard the Duck (1986)"
+            "Howard the Duck (1986)",
+            "Green Lantern (2011)"
         ]
     },
     "Tim Roth": {
@@ -11605,6 +12286,7 @@
             }
         ],
         "movies": [
+            "The Incredible Hulk (2008)",
             "The Hateful Eight (2015)"
         ]
     },
@@ -11620,7 +12302,9 @@
         "movies": [
             "Vanilla Sky (2001)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
     "Timoth\u00e9e Chalamet": {
@@ -11639,7 +12323,8 @@
     "Tobey Maguire": {
         "movies": [
             "Spider-Man (2002)",
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)"
         ]
     },
     "Toby Jones": {
@@ -11686,7 +12371,11 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
     "Tom Hanks": {
@@ -11741,6 +12430,7 @@
     },
     "Tom Hiddleston": {
         "movies": [
+            "Thor (2011)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -11788,7 +12478,8 @@
         ],
         "movies": [
             "Shakespeare in Love (1998)",
-            "Batman Begins (2005)"
+            "Batman Begins (2005)",
+            "The Green Hornet (2011)"
         ]
     },
     "Tommy Lee": {
@@ -11828,7 +12519,8 @@
     "Tommy Lister Jr.": {
         "movies": [
             "Armed and Dangerous (1986)",
-            "Barb Wire (1996)"
+            "Barb Wire (1996)",
+            "The Dark Knight (2008)"
         ]
     },
     "Toni Collette": {
@@ -11889,6 +12581,7 @@
     },
     "Topher Grace": {
         "movies": [
+            "Spider-Man 3 (2007)",
             "Valentine's Day (2010)",
             "Take Me Home Tonight (2011)"
         ]
@@ -11921,6 +12614,11 @@
             }
         ]
     },
+    "Troye Sivan": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
+        ]
+    },
     "Truman Capote": {
         "movies": [
             "Annie Hall (1977)"
@@ -11929,6 +12627,11 @@
     "Tsai Chin": {
         "movies": [
             "The Joy Luck Club (1993)"
+        ]
+    },
+    "Ty Burrell": {
+        "movies": [
+            "The Incredible Hulk (2008)"
         ]
     },
     "Tye Sheridan": {
@@ -11948,6 +12651,7 @@
     },
     "Tyler Perry": {
         "movies": [
+            "Star Trek (2009)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
@@ -12225,18 +12929,24 @@
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
+            "Harry Potter and the Order of the Phoenix (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Harry Potter and the Half-Blood Prince (2009)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
     "Wayne Knight": {
         "movies": [
             "Jurassic Park (1993)",
-            "Space Jam (1996)"
+            "Space Jam (1996)",
+            "Punisher: War Zone (2008)"
         ]
     },
     "Wes Bentley": {
         "movies": [
+            "Ghost Rider (2007)",
             "Jonah Hex (2010)"
         ]
     },
@@ -12273,7 +12983,8 @@
     },
     "Wil Wheaton": {
         "movies": [
-            "Star Trek: Nemesis (2002)"
+            "Star Trek: Nemesis (2002)",
+            "Star Trek (2009)"
         ]
     },
     "Will Arnett": {
@@ -12345,6 +13056,7 @@
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "John Wick (2014)",
             "The Florida Project (2017)",
@@ -12353,6 +13065,7 @@
     },
     "William Fichtner": {
         "movies": [
+            "The Dark Knight (2008)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
@@ -12390,6 +13103,7 @@
         ],
         "movies": [
             "A History of Violence (2005)",
+            "The Incredible Hulk (2008)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -12433,6 +13147,9 @@
                 "movie": "The Age of Innocence",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Star Trek (2009)"
         ]
     },
     "Winston Duke": {
@@ -12509,6 +13226,11 @@
             "Shazam! (2019)"
         ]
     },
+    "Zachary Quinto": {
+        "movies": [
+            "Star Trek (2009)"
+        ]
+    },
     "Zahn McClarnon": {
         "movies": [
             "Bone Tomahawk (2015)"
@@ -12527,6 +13249,7 @@
     "Zoe Saldana": {
         "movies": [
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "Star Trek (2009)",
             "The Losers (2010)",
             "Avengers: Infinity War (2018)"
         ]
@@ -12540,6 +13263,16 @@
         "movies": [
             "Oblivion (2013)",
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Zo\u00eb Kravitz": {
+        "movies": [
+            "X-Men: First Class (2011)"
+        ]
+    },
+    "will.i.am": {
+        "movies": [
+            "X-Men Origins: Wolverine (2009)"
         ]
     }
 }

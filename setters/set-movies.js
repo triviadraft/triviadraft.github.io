@@ -70305,6 +70305,18 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Superman"
+        ],
+        "cast": [
+            "Brandon Routh",
+            "Eva Marie Saint",
+            "Frank Langella",
+            "James Marsden",
+            "Kal Penn",
+            "Kate Bosworth",
+            "Kevin Spacey",
+            "Marlon Brando",
+            "Parker Posey",
+            "Sam Huntington"
         ]
     },
     "The Devil Wears Prada (2006)": {
@@ -72476,6 +72488,17 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Nicolas Cage"
+        ],
+        "cast": [
+            "Brett Cullen",
+            "Donal Logue",
+            "Eva Mendes",
+            "Matt Long",
+            "Nicolas Cage",
+            "Peter Fonda",
+            "Rebel Wilson",
+            "Sam Elliott",
+            "Wes Bentley"
         ]
     },
     "The Number 23 (2007)": {
@@ -72584,6 +72607,14 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Graphic Novels"
+        ],
+        "cast": [
+            "David Wenham",
+            "Dominic West",
+            "Gerard Butler",
+            "Lena Headey",
+            "Michael Fassbender",
+            "Rodrigo Santoro"
         ]
     },
     "Dead Silence (2007)": {
@@ -73059,6 +73090,25 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Spider-Man"
+        ],
+        "cast": [
+            "Bill Nunn",
+            "Bruce Campbell",
+            "Bryce Dallas Howard",
+            "Christopher Young",
+            "Cliff Robertson",
+            "Dylan Baker",
+            "Elizabeth Banks",
+            "J. K. Simmons",
+            "James Cromwell",
+            "James Franco",
+            "Joe Manganiello",
+            "Kirsten Dunst",
+            "Rosemary Harris",
+            "Thomas Haden Church",
+            "Tobey Maguire",
+            "Topher Grace",
+            "Willem Dafoe"
         ]
     },
     "28 Weeks Later (2007)": {
@@ -73370,6 +73420,18 @@ var movieMap = {
             "2000s",
             "Comic Book",
             "Marvel"
+        ],
+        "cast": [
+            "Andre Braugher",
+            "Brian Posehn",
+            "Chris Evans",
+            "Doug Jones",
+            "Ioan Gruffudd",
+            "Jessica Alba",
+            "Julian McMahon",
+            "Kerry Washington",
+            "Laurence Fishburne",
+            "Michael Chiklis"
         ]
     },
     "Nancy Drew (2007)": {
@@ -73564,6 +73626,36 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Bonnie Wright",
+            "Brendan Gleeson",
+            "Daniel Radcliffe",
+            "David Bradley",
+            "David Thewlis",
+            "Emma Thompson",
+            "Emma Watson",
+            "Evanna Lynch",
+            "Fiona Shaw",
+            "Gary Oldman",
+            "Harry Melling",
+            "Helena Bonham Carter",
+            "Imelda Staunton",
+            "James Phelps",
+            "Jason Isaacs",
+            "Julie Walters",
+            "Maggie Smith",
+            "Mark Williams",
+            "Matthew Lewis",
+            "Michael Gambon",
+            "Oliver Phelps",
+            "Ralph Fiennes",
+            "Richard Griffiths",
+            "Robbie Coltrane",
+            "Rupert Grint",
+            "Tom Felton",
+            "Warwick Davis"
         ]
     },
     "Talk to Me (2007)": {
@@ -76185,6 +76277,19 @@ var movieMap = {
             "Marvel",
             "Robert Downey Jr.",
             "Samuel L. Jackson"
+        ],
+        "cast": [
+            "Clark Gregg",
+            "Gwyneth Paltrow",
+            "Jeff Bridges",
+            "Jon Favreau",
+            "Leslie Bibb",
+            "Paul Bettany",
+            "Peter Billingsley",
+            "Robert Downey Jr.",
+            "Samuel L. Jackson",
+            "Shaun Toub",
+            "Terrence Howard"
         ]
     },
     "Speed Racer (2008)": {
@@ -76435,6 +76540,18 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Robert Downey Jr."
+        ],
+        "cast": [
+            "Edward Norton",
+            "Liv Tyler",
+            "Lou Ferrigno",
+            "Martin Starr",
+            "Michael K. Williams",
+            "Robert Downey Jr.",
+            "Tim Blake Nelson",
+            "Tim Roth",
+            "Ty Burrell",
+            "William Hurt"
         ]
     },
     "Get Smart (2008)": {
@@ -76530,6 +76647,14 @@ var movieMap = {
             "Action/Adventure",
             "Comic Book",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Common",
+            "James McAvoy",
+            "Morgan Freeman",
+            "Terence Stamp",
+            "Thomas Kretschmann"
         ]
     },
     "Hancock (2008)": {
@@ -76699,6 +76824,23 @@ var movieMap = {
             "DC",
             "Gyllenhaals",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Aaron Eckhart",
+            "Anthony Michael Hall",
+            "Christian Bale",
+            "Cillian Murphy",
+            "David Dastmalchian",
+            "Eric Roberts",
+            "Gary Oldman",
+            "Heath Ledger",
+            "Maggie Gyllenhaal",
+            "Michael Caine",
+            "Michael Jai White",
+            "Morgan Freeman",
+            "Nestor Carbonell",
+            "Tommy Lister Jr.",
+            "William Fichtner"
         ]
     },
     "Step Brothers (2008)": {
@@ -76872,6 +77014,17 @@ var movieMap = {
             "Lucasfilm",
             "Samuel L. Jackson",
             "Star Wars"
+        ],
+        "cast": [
+            "Anthony Daniels",
+            "Ashley Eckstein",
+            "Christopher Lee",
+            "Dee Bradley Baker",
+            "Ian Abercrombie",
+            "James Arnold Taylor",
+            "Matt Lanter",
+            "Matthew Wood",
+            "Samuel L. Jackson"
         ]
     },
     "Vicky Cristina Barcelona (2008)": {
@@ -77933,6 +78086,13 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Dominic West",
+            "Julie Benz",
+            "Ray Stevenson",
+            "T. J. Storm",
+            "Wayne Knight"
         ]
     },
     "Doubt (2008)": {
@@ -78635,6 +78795,15 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Graphic Novels"
+        ],
+        "cast": [
+            "Billy Crudup",
+            "Carla Gugino",
+            "Jackie Earle Haley",
+            "Jeffrey Dean Morgan",
+            "Malin \u00c5kerman",
+            "Matthew Goode",
+            "Patrick Wilson"
         ]
     },
     "Race to Witch Mountain (2009)": {
@@ -79045,6 +79214,20 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Daniel Henney",
+            "Danny Huston",
+            "Dominic Monaghan",
+            "Hugh Jackman",
+            "Kevin Durand",
+            "Liev Schreiber",
+            "Lynn Collins",
+            "Patrick Stewart",
+            "Ryan Reynolds",
+            "Taylor Kitsch",
+            "Troye Sivan",
+            "will.i.am"
         ]
     },
     "Star Trek (2009)": {
@@ -79069,6 +79252,27 @@ var movieMap = {
             "Remakes & Reboots",
             "Star Trek",
             "Tyler Perry"
+        ],
+        "cast": [
+            "Anton Yelchin",
+            "Bruce Greenwood",
+            "Chris Hemsworth",
+            "Chris Pine",
+            "Clifton Collins Jr.",
+            "Eric Bana",
+            "Greg Grunberg",
+            "Jennifer Morrison",
+            "Jimmy Bennett",
+            "John Cho",
+            "Karl Urban",
+            "Leonard Nimoy",
+            "Rachel Nichols",
+            "Simon Pegg",
+            "Tyler Perry",
+            "Wil Wheaton",
+            "Winona Ryder",
+            "Zachary Quinto",
+            "Zoe Saldana"
         ]
     },
     "Angels & Demons (2009)": {
@@ -79580,6 +79784,33 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Bonnie Wright",
+            "Daniel Radcliffe",
+            "David Bradley",
+            "David Thewlis",
+            "Emma Watson",
+            "Evanna Lynch",
+            "Freddie Stroma",
+            "Gemma Jones",
+            "Helen McCrory",
+            "Helena Bonham Carter",
+            "Hero Fiennes Tiffin",
+            "James Phelps",
+            "Jim Broadbent",
+            "Julie Walters",
+            "Maggie Smith",
+            "Mark Williams",
+            "Matthew Lewis",
+            "Michael Gambon",
+            "Oliver Phelps",
+            "Robbie Coltrane",
+            "Rupert Grint",
+            "Timothy Spall",
+            "Tom Felton",
+            "Warwick Davis"
         ]
     },
     "G-Force (2009)": {
@@ -81628,6 +81859,21 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Nicolas Cage"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "Chlo\u00eb Grace Moretz",
+            "Christopher Mintz-Plasse",
+            "Clark Duke",
+            "Craig Ferguson",
+            "Dexter Fletcher",
+            "Elizabeth McGovern",
+            "Evan Peters",
+            "Jason Flemyng",
+            "Lyndsy Fonseca",
+            "Mark Strong",
+            "Nicolas Cage",
+            "Omari Hardwick"
         ]
     },
     "The Back-up Plan (2010)": {
@@ -81726,6 +81972,25 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "Robert Downey Jr.",
+            "Samuel L. Jackson",
+            "Scarlett Johansson"
+        ],
+        "cast": [
+            "Bill O'Reilly",
+            "Clark Gregg",
+            "Don Cheadle",
+            "Elon Musk",
+            "Garry Shandling",
+            "Gwyneth Paltrow",
+            "John Slattery",
+            "Jon Favreau",
+            "Kate Mara",
+            "Leslie Bibb",
+            "Mickey Rourke",
+            "Olivia Munn",
+            "Paul Bettany",
+            "Robert Downey Jr.",
+            "Sam Rockwell",
             "Samuel L. Jackson",
             "Scarlett Johansson"
         ]
@@ -83188,6 +83453,19 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Brian Cox",
+            "Bruce Willis",
+            "Ernest Borgnine",
+            "Helen Mirren",
+            "James Remar",
+            "John Malkovich",
+            "Julian McMahon",
+            "Karl Urban",
+            "Mary-Louise Parker",
+            "Morgan Freeman",
+            "Richard Dreyfuss"
         ]
     },
     "Paranormal Activity 2 (2010)": {
@@ -83409,6 +83687,41 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Bill Nighy",
+            "Bonnie Wright",
+            "Brendan Gleeson",
+            "Cl\u00e9mence Po\u00e9sy",
+            "Daniel Radcliffe",
+            "David Thewlis",
+            "Domhnall Gleeson",
+            "Emma Watson",
+            "Evanna Lynch",
+            "Fiona Shaw",
+            "Freddie Stroma",
+            "Harry Melling",
+            "Helen McCrory",
+            "Helena Bonham Carter",
+            "Imelda Staunton",
+            "James Phelps",
+            "Jason Isaacs",
+            "Jim Broadbent",
+            "John Hurt",
+            "Julie Walters",
+            "Mark Williams",
+            "Matthew Lewis",
+            "Michael Gambon",
+            "Oliver Phelps",
+            "Ralph Fiennes",
+            "Rhys Ifans",
+            "Richard Griffiths",
+            "Robbie Coltrane",
+            "Rupert Grint",
+            "Timothy Spall",
+            "Tom Felton",
+            "Warwick Davis"
         ]
     },
     "The Next Three Days (2010)": {
@@ -83881,6 +84194,18 @@ var movieMap = {
             "Action/Adventure",
             "Frat Pack",
             "IG Mixed Bag"
+        ],
+        "cast": [
+            "Cameron Diaz",
+            "Christoph Waltz",
+            "David Harbour",
+            "Edward Furlong",
+            "Edward James Olmos",
+            "James Franco",
+            "Jay Chou",
+            "Lio Tipton",
+            "Seth Rogen",
+            "Tom Wilkinson"
         ]
     },
     "No Strings Attached (2011)": {
@@ -84765,6 +85090,27 @@ var movieMap = {
             "Marvel",
             "Natalie Portman",
             "Samuel L. Jackson"
+        ],
+        "cast": [
+            "Adriana Barraza",
+            "Anthony Hopkins",
+            "Chris Hemsworth",
+            "Clark Gregg",
+            "Colm Feore",
+            "Dakota Goyo",
+            "Idris Elba",
+            "Jaimie Alexander",
+            "Jeremy Renner",
+            "Josh Dallas",
+            "Kat Dennings",
+            "Maximiliano Hern\u00e1ndez",
+            "Natalie Portman",
+            "Ray Stevenson",
+            "Rene Russo",
+            "Samuel L. Jackson",
+            "Stellan Skarsg\u00e5rd",
+            "Tadanobu Asano",
+            "Tom Hiddleston"
         ]
     },
     "Bridesmaids (2011)": {
@@ -84808,6 +85154,16 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Alan Dale",
+            "Brad Dourif",
+            "Cam Gigandet",
+            "Christopher Plummer",
+            "Karl Urban",
+            "Lily Collins",
+            "Maggie Q",
+            "Paul Bettany"
         ]
     },
     "Midnight in Paris (2011)": {
@@ -84977,6 +85333,24 @@ var movieMap = {
             "Jennifer Lawrence",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Annabelle Wallis",
+            "Caleb Landry Jones",
+            "Edi Gathegi",
+            "Hugh Jackman",
+            "James McAvoy",
+            "January Jones",
+            "Jason Flemyng",
+            "Jennifer Lawrence",
+            "Kevin Bacon",
+            "Lucas Till",
+            "Michael Fassbender",
+            "Nicholas Hoult",
+            "Oliver Platt",
+            "Rebecca Romijn",
+            "Rose Byrne",
+            "Zo\u00eb Kravitz"
         ]
     },
     "Super 8 (2011)": {
@@ -85019,6 +85393,20 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Angela Bassett",
+            "Blake Lively",
+            "Clancy Brown",
+            "Gattlin Griffith",
+            "Geoffrey Rush",
+            "Mark Strong",
+            "Michael Clarke Duncan",
+            "Peter Sarsgaard",
+            "Ryan Reynolds",
+            "Taika Waititi",
+            "Temuera Morrison",
+            "Tim Robbins"
         ]
     },
     "Mr. Popper's Penguins (2011)": {
@@ -85232,6 +85620,41 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Bonnie Wright",
+            "Ciar\u00e1n Hinds",
+            "Cl\u00e9mence Po\u00e9sy",
+            "Daniel Radcliffe",
+            "David Bradley",
+            "David Thewlis",
+            "Domhnall Gleeson",
+            "Emma Thompson",
+            "Emma Watson",
+            "Evanna Lynch",
+            "Freddie Stroma",
+            "Gary Oldman",
+            "Gemma Jones",
+            "Helen McCrory",
+            "Helena Bonham Carter",
+            "James Phelps",
+            "Jason Isaacs",
+            "Jim Broadbent",
+            "John Hurt",
+            "Julie Walters",
+            "Kelly Macdonald",
+            "Maggie Smith",
+            "Mark Williams",
+            "Matthew Lewis",
+            "Michael Gambon",
+            "Miriam Margolyes",
+            "Oliver Phelps",
+            "Ralph Fiennes",
+            "Robbie Coltrane",
+            "Rupert Grint",
+            "Tom Felton",
+            "Warwick Davis"
         ]
     },
     "Winnie the Pooh (2011)": {

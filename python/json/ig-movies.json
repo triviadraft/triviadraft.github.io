@@ -1664,7 +1664,7 @@
             },
             {
                 "actor": "Bill Nunn",
-                "name": "Robbie Robertson",
+                "name": "Joseph \"Robbie\" Robertson",
                 "description": ""
             },
             {
@@ -1706,7 +1706,7 @@
             },
             {
                 "actor": "Michael Papajohn",
-                "name": "the Carjacker",
+                "name": "Dennis Carradine",
                 "description": ""
             },
             {
@@ -2126,8 +2126,13 @@
                 "description": ""
             },
             {
+                "actor": "Dylan Baker",
+                "name": "Dr. Curt Connors",
+                "description": ""
+            },
+            {
                 "actor": "Willem Dafoe",
-                "name": "Norman Osborn",
+                "name": "Norman Osborn / Green Goblin",
                 "description": ""
             },
             {
@@ -2142,7 +2147,7 @@
             },
             {
                 "actor": "Bill Nunn",
-                "name": "Robbie Robertson",
+                "name": "Joseph \"Robbie\" Robertson",
                 "description": ""
             },
             {
@@ -2163,11 +2168,6 @@
                 "description": ""
             },
             {
-                "actor": "Dylan Baker",
-                "name": "Curt Connors",
-                "description": ""
-            },
-            {
                 "actor": "John Paxton",
                 "name": "Bernard Houseman",
                 "description": ""
@@ -2175,6 +2175,11 @@
             {
                 "actor": "Elya Baskin",
                 "name": "Mr. Ditkovitch",
+                "description": ""
+            },
+            {
+                "actor": "Mageina Tovah",
+                "name": "Ursula",
                 "description": ""
             },
             {
@@ -2282,13 +2287,6 @@
             {
                 "actor": "Gregg Edelman",
                 "name": "Dr. Davis",
-                "description": ""
-            }
-        ],
-        "Cast": [
-            {
-                "actor": "Mageina Tovah",
-                "name": "Ursula",
                 "description": ""
             }
         ]
@@ -2437,11 +2435,6 @@
                 "description": ""
             },
             {
-                "actor": "Dave Legeno",
-                "name": "League of Shadows member",
-                "description": ""
-            },
-            {
                 "actor": "Khan Bonfils",
                 "name": "League of Shadows member",
                 "description": ""
@@ -2506,6 +2499,11 @@
             {
                 "actor": "Jack Gleeson",
                 "name": "young Batman admirer",
+                "description": ""
+            },
+            {
+                "actor": "Dave Legeno",
+                "name": "League of Shadows member",
                 "description": ""
             }
         ]
@@ -2737,6 +2735,92 @@
         "franchise": "Superman",
         "taglines": [
             "On June 30, 2006! Look Up In The Sky!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Brandon Routh",
+                "name": "Clark Kent / Superman",
+                "description": ""
+            },
+            {
+                "actor": "Kate Bosworth",
+                "name": "Lois Lane",
+                "description": ""
+            },
+            {
+                "actor": "James Marsden",
+                "name": "Richard White",
+                "description": ""
+            },
+            {
+                "actor": "Frank Langella",
+                "name": "Perry White",
+                "description": ""
+            },
+            {
+                "actor": "Eva Marie Saint",
+                "name": "Martha Kent",
+                "description": ""
+            },
+            {
+                "actor": "Parker Posey",
+                "name": "Kitty Kowalski",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Spacey",
+                "name": "Lex Luthor",
+                "description": ""
+            },
+            {
+                "actor": "Marlon Brando",
+                "name": "Jor-El",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Kal Penn",
+                "name": "Stanford",
+                "description": ""
+            },
+            {
+                "actor": "Sam Huntington",
+                "name": "Jimmy Olsen",
+                "description": ""
+            },
+            {
+                "actor": "Peta Wilson",
+                "name": "Bobbie-Faye",
+                "description": ""
+            },
+            {
+                "actor": "Richard Branson",
+                "name": "space shuttle engineer",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Tristan Lake Leabu",
+                "name": "Jason White",
+                "description": ""
+            },
+            {
+                "actor": "Jack Larson",
+                "name": "bartender",
+                "description": ""
+            },
+            {
+                "actor": "Noel Neill",
+                "name": "Gertrude Vanderworth",
+                "description": ""
+            },
+            {
+                "actor": "Ian Roberts",
+                "name": "Riley",
+                "description": ""
+            }
         ]
     },
     "Spider-Man 3 (2007)": {
@@ -2755,6 +2839,157 @@
             "Every hero has a choice, to face the darkness... or be consumed by it.",
             "One man will fight to find the hero within",
             "The greatest battle lies within."
+        ],
+        "mainCast": [
+            {
+                "actor": "Tobey Maguire",
+                "name": "Peter Parker / Spider-Man",
+                "description": ""
+            },
+            {
+                "actor": "Kirsten Dunst",
+                "name": "Mary Jane Watson",
+                "description": ""
+            },
+            {
+                "actor": "James Franco",
+                "name": "Harry Osborn / the New Goblin",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Haden Church",
+                "name": "Flint Marko / the Sandman",
+                "description": ""
+            },
+            {
+                "actor": "Topher Grace",
+                "name": "Eddie Brock / Venom",
+                "description": ""
+            },
+            {
+                "actor": "Bryce Dallas Howard",
+                "name": "Gwen Stacy",
+                "description": ""
+            },
+            {
+                "actor": "Rosemary Harris",
+                "name": "May Parker",
+                "description": ""
+            },
+            {
+                "actor": "J. K. Simmons",
+                "name": "J. Jonah Jameson",
+                "description": ""
+            },
+            {
+                "actor": "Dylan Baker",
+                "name": "Dr. Curt Connors",
+                "description": ""
+            },
+            {
+                "actor": "Willem Dafoe",
+                "name": "Norman Osborn / Green Goblin",
+                "description": ""
+            },
+            {
+                "actor": "Cliff Robertson",
+                "name": "Ben Parker",
+                "description": ""
+            },
+            {
+                "actor": "Bill Nunn",
+                "name": "Joseph \"Robbie\" Robertson",
+                "description": ""
+            },
+            {
+                "actor": "Ted Raimi",
+                "name": "Ted Hoffman",
+                "description": ""
+            },
+            {
+                "actor": "Elizabeth Banks",
+                "name": "Betty Brant",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Campbell",
+                "name": "French ma\u00eetre d'",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "James Cromwell",
+                "name": "Captain George Stacy",
+                "description": ""
+            },
+            {
+                "actor": "Michael Papajohn",
+                "name": "Dennis Carradine",
+                "description": ""
+            },
+            {
+                "actor": "John Paxton",
+                "name": "Bernard Houseman",
+                "description": ""
+            },
+            {
+                "actor": "Elya Baskin",
+                "name": "Mr. Ditkovitch",
+                "description": ""
+            },
+            {
+                "actor": "Mageina Tovah",
+                "name": "Ursula",
+                "description": ""
+            },
+            {
+                "actor": "Joe Manganiello",
+                "name": "Flash Thompson",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Young",
+                "name": "pianist",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Stan Lee",
+                "name": "man in Times Square",
+                "description": ""
+            },
+            {
+                "actor": "Grant Curtis",
+                "name": "armored car driver",
+                "description": ""
+            },
+            {
+                "actor": "Dean Edwards",
+                "name": "newpaper reader",
+                "description": ""
+            },
+            {
+                "actor": "Hal Fishman",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Lucy Gordon",
+                "name": "Jennifer Dugan",
+                "description": ""
+            },
+            {
+                "actor": "Theresa Russell",
+                "name": "Emma Marko",
+                "description": ""
+            },
+            {
+                "actor": "Becky Ann Baker",
+                "name": "Mrs. Stacy",
+                "description": ""
+            }
         ]
     },
     "The Dark Knight (2008)": {
@@ -2773,6 +3008,147 @@
             "The night is darkest before the dawn.",
             "It's All Part of the Plan",
             "I Believe In Harvey Dent."
+        ],
+        "mainCast": [
+            {
+                "actor": "Christian Bale",
+                "name": "Bruce Wayne / Batman",
+                "description": ""
+            },
+            {
+                "actor": "Michael Caine",
+                "name": "Alfred Pennyworth",
+                "description": ""
+            },
+            {
+                "actor": "Heath Ledger",
+                "name": "the Joker",
+                "description": ""
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "James Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Aaron Eckhart",
+                "name": "Harvey Dent",
+                "description": ""
+            },
+            {
+                "actor": "Maggie Gyllenhaal",
+                "name": "Rachel Dawes",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "Lucius Fox",
+                "description": ""
+            },
+            {
+                "actor": "Cillian Murphy",
+                "name": "Dr. Jonathan Crane / Scarecrow",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Monique Gabriela Curnen",
+                "name": "Anna Ramirez",
+                "description": ""
+            },
+            {
+                "actor": "Ron Dean",
+                "name": "Michael Wuertz",
+                "description": ""
+            },
+            {
+                "actor": "Nestor Carbonell",
+                "name": "Anthony Garcia",
+                "description": ""
+            },
+            {
+                "actor": "Ng Chin Han",
+                "name": "Lau",
+                "description": ""
+            },
+            {
+                "actor": "Eric Roberts",
+                "name": "Sal Maroni",
+                "description": ""
+            },
+            {
+                "actor": "Ritchie Coster",
+                "name": "the Chechen",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Michael Hall",
+                "name": "Mike Engel",
+                "description": ""
+            },
+            {
+                "actor": "Michael Jai White",
+                "name": "Gambol",
+                "description": ""
+            },
+            {
+                "actor": "Tommy Lister Jr.",
+                "name": "prison inmate",
+                "description": ""
+            },
+            {
+                "actor": "William Fichtner",
+                "name": "Gotham National Bank manager",
+                "description": ""
+            },
+            {
+                "actor": "David Dastmalchian",
+                "name": "Thomas Schiff",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Keith Szarabajka",
+                "name": "Gerard Stephens",
+                "description": ""
+            },
+            {
+                "actor": "Joshua Harto",
+                "name": "Coleman Reese",
+                "description": ""
+            },
+            {
+                "actor": "Melinda McGraw",
+                "name": "Barbara Gordon",
+                "description": ""
+            },
+            {
+                "actor": "Nathan Gamble",
+                "name": "James Gordon Jr.",
+                "description": ""
+            },
+            {
+                "actor": "Colin McFarlane",
+                "name": "Gillian B. Loeb",
+                "description": ""
+            },
+            {
+                "actor": "Nydia Rodriguez Terracina",
+                "name": "Judge Janet Surrillo",
+                "description": ""
+            },
+            {
+                "actor": "Vincenzo Nicoli",
+                "name": "crime boss",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Leahy",
+                "name": "guest at Bruce's party",
+                "description": ""
+            }
         ]
     },
     "Watchmen (2009)": {
@@ -2796,6 +3172,182 @@
             "We're society's only protection.",
             "A world at peace. There had to be sacrifice.",
             "Who watches the Watchmen?"
+        ],
+        "mainCast": [
+            {
+                "actor": "Malin \u00c5kerman",
+                "name": "Laurie Jupiter / Silk Spectre II",
+                "description": ""
+            },
+            {
+                "actor": "Billy Crudup",
+                "name": "Jon Osterman / Doctor Manhattan",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Goode",
+                "name": "Adrian Veidt / Ozymandias",
+                "description": ""
+            },
+            {
+                "actor": "Jackie Earle Haley",
+                "name": "Walter Kovacs / Rorschach",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Wilson",
+                "name": "Daniel Dreiberg / Nite Owl II",
+                "description": ""
+            },
+            {
+                "actor": "Carla Gugino",
+                "name": "Sally Jupiter / Silk Spectre",
+                "description": ""
+            },
+            {
+                "actor": "Jeffrey Dean Morgan",
+                "name": "Edward Blake / the Comedian",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Haley Guiel",
+                "name": "young Laurie Jupiter",
+                "description": ""
+            },
+            {
+                "actor": "Jaryd Heidrick",
+                "name": "young Jon Osterman",
+                "description": ""
+            },
+            {
+                "actor": "Eli Snyder",
+                "name": "young Walter Kovacs",
+                "description": ""
+            },
+            {
+                "actor": "Clint Carleton",
+                "name": "young Hollis Mason",
+                "description": ""
+            },
+            {
+                "actor": "Dan Payne",
+                "name": "William Brady / Dollar Bill",
+                "description": ""
+            },
+            {
+                "actor": "Apollonia Vanova",
+                "name": "Ursula Zandt / the Silhouette",
+                "description": ""
+            },
+            {
+                "actor": "Glenn Ennis",
+                "name": "Hooded Justice",
+                "description": ""
+            },
+            {
+                "actor": "Darryl Scheelar",
+                "name": "Nelson Gardner / Captain Metropolis",
+                "description": ""
+            },
+            {
+                "actor": "Mike Carpenter",
+                "name": "young Moloch",
+                "description": ""
+            },
+            {
+                "actor": "Laura Mennell",
+                "name": "Janey Slater",
+                "description": ""
+            },
+            {
+                "actor": "Robert Wisden",
+                "name": "Richard Nixon",
+                "description": ""
+            },
+            {
+                "actor": "Frank Novak",
+                "name": "Henry Kissinger",
+                "description": ""
+            },
+            {
+                "actor": "Gary Houston",
+                "name": "John McLaughlin",
+                "description": ""
+            },
+            {
+                "actor": "Sean Allan",
+                "name": "NORAD General",
+                "description": ""
+            },
+            {
+                "actor": "Garry Chalk",
+                "name": "NORAD General",
+                "description": ""
+            },
+            {
+                "actor": "Michael Kopsa",
+                "name": "Paul Klein",
+                "description": ""
+            },
+            {
+                "actor": "Chris Gauthier",
+                "name": "Seymour David",
+                "description": ""
+            },
+            {
+                "actor": "Jay Brazeau",
+                "name": "news vendor",
+                "description": ""
+            },
+            {
+                "actor": "Mark Acheson",
+                "name": "large man at Happy Harry's",
+                "description": ""
+            },
+            {
+                "actor": "Leah Gibson",
+                "name": "Silhouette's girlfriend",
+                "description": ""
+            },
+            {
+                "actor": "Alessandro Juliani",
+                "name": "Rockefeller Military Base technician",
+                "description": ""
+            },
+            {
+                "actor": "Salli Saffioti",
+                "name": "Annie Leibowitz",
+                "description": ""
+            },
+            {
+                "actor": "Ted Cole",
+                "name": "Dick Cavett",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Stephen McHattie",
+                "name": "Hollis Mason / Nite Owl",
+                "description": ""
+            },
+            {
+                "actor": "Niall Matter",
+                "name": "Byron Lewis / Mothman",
+                "description": ""
+            },
+            {
+                "actor": "Matt Frewer",
+                "name": "Edgar Jacobi / Moloch",
+                "description": ""
+            },
+            {
+                "actor": "Danny Woodburn",
+                "name": "Tom Ryan / Big Figure",
+                "description": ""
+            }
         ]
     },
     "X-Men Origins: Wolverine (2009)": {
@@ -2809,6 +3361,117 @@
         "franchise": "X-Men",
         "taglines": [
             "Witness the Origin."
+        ],
+        "mainCast": [
+            {
+                "actor": "Hugh Jackman",
+                "name": "Logan / Wolverine / James Howlett",
+                "description": ""
+            },
+            {
+                "actor": "Liev Schreiber",
+                "name": "Victor Creed",
+                "description": ""
+            },
+            {
+                "actor": "Danny Huston",
+                "name": "William Stryker",
+                "description": ""
+            },
+            {
+                "actor": "will.i.am",
+                "name": "John Wraith",
+                "description": ""
+            },
+            {
+                "actor": "Lynn Collins",
+                "name": "Kayla Silverfox",
+                "description": ""
+            },
+            {
+                "actor": "Dominic Monaghan",
+                "name": "Chris Bradley",
+                "description": ""
+            },
+            {
+                "actor": "Taylor Kitsch",
+                "name": "Remy LeBeau / Gambit",
+                "description": ""
+            },
+            {
+                "actor": "Ryan Reynolds",
+                "name": "Wade Wilson / Weapon XI",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Stewart",
+                "name": "Charles Xavier / Professor X",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Troye Sivan",
+                "name": "young James Howlett",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Durand",
+                "name": "Fred Dukes / Blob",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Henney",
+                "name": "Agent Zero",
+                "description": ""
+            },
+            {
+                "actor": "Tim Pocock",
+                "name": "Scott Summers",
+                "description": ""
+            },
+            {
+                "actor": "Max Cullen",
+                "name": "Travis Hudson",
+                "description": ""
+            },
+            {
+                "actor": "Julia Blake",
+                "name": "Heather Hudson",
+                "description": ""
+            },
+            {
+                "actor": "Tahyna Tozzi",
+                "name": "Emma",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Michael-James Olsen",
+                "name": "young Victor Creed",
+                "description": ""
+            },
+            {
+                "actor": "Aaron Jeffery",
+                "name": "Thomas Logan",
+                "description": ""
+            },
+            {
+                "actor": "Alice Parkinson",
+                "name": "Elizabeth Howlett",
+                "description": ""
+            },
+            {
+                "actor": "Peter O'Brien",
+                "name": "John Howlett",
+                "description": ""
+            },
+            {
+                "actor": "Asher Keddie",
+                "name": "Dr. Carol Frost",
+                "description": ""
+            }
         ]
     },
     "X-Men: First Class (2011)": {
@@ -2827,6 +3490,132 @@
             "Their powers would make them different. But destiny would make them allies.",
             "Witness the beginning.",
             "Witness the moment that will change our world."
+        ],
+        "mainCast": [
+            {
+                "actor": "James McAvoy",
+                "name": "Charles Xavier / Professor X",
+                "description": ""
+            },
+            {
+                "actor": "Michael Fassbender",
+                "name": "Erik Lehnsherr / Magneto",
+                "description": ""
+            },
+            {
+                "actor": "Rose Byrne",
+                "name": "Moira MacTaggert",
+                "description": ""
+            },
+            {
+                "actor": "Jennifer Lawrence",
+                "name": "Raven Darkh\u00f6lme / Mystique",
+                "description": ""
+            },
+            {
+                "actor": "Rebecca Romijn",
+                "name": "older Raven Darkh\u00f6lme",
+                "description": ""
+            },
+            {
+                "actor": "January Jones",
+                "name": "Emma Frost",
+                "description": ""
+            },
+            {
+                "actor": "Nicholas Hoult",
+                "name": "Hank McCoy / Beast",
+                "description": ""
+            },
+            {
+                "actor": "Lucas Till",
+                "name": "Alex Summers / Havok",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Bacon",
+                "name": "Sebastian Shaw / Dr. Klaus Schmidt",
+                "description": ""
+            },
+            {
+                "actor": "Caleb Landry Jones",
+                "name": "Sean Cassidy / Banshee",
+                "description": ""
+            },
+            {
+                "actor": "Zo\u00eb Kravitz",
+                "name": "Angel Salvadore",
+                "description": ""
+            },
+            {
+                "actor": "Hugh Jackman",
+                "name": "Logan / Wolverine",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Laurence Belcher",
+                "name": "young Charles Xavier",
+                "description": ""
+            },
+            {
+                "actor": "Bill Milner",
+                "name": "young Erik Lehnsherr",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Lily",
+                "name": "young Raven Darkh\u00f6lme",
+                "description": ""
+            },
+            {
+                "actor": "Rade \u0160erbed\u017eija",
+                "name": "high-ranking Soviet military official",
+                "description": ""
+            },
+            {
+                "actor": "Don Creech",
+                "name": "CIA Agent Stryker",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Oliver Platt",
+                "name": "Man In Black Suit",
+                "description": ""
+            },
+            {
+                "actor": "Jason Flemyng",
+                "name": "Azazel",
+                "description": ""
+            },
+            {
+                "actor": "Edi Gathegi",
+                "name": "Armando Mu\u00f1oz / Darwin",
+                "description": ""
+            },
+            {
+                "actor": "Matt Craven",
+                "name": "CIA Director McCone",
+                "description": ""
+            },
+            {
+                "actor": "\u00c1lex Gonz\u00e1lez",
+                "name": "Janos Quested / Riptide",
+                "description": ""
+            },
+            {
+                "actor": "Glenn Morshower",
+                "name": "Colonel Robert Hendry",
+                "description": ""
+            },
+            {
+                "actor": "Annabelle Wallis",
+                "name": "Amy",
+                "description": ""
+            }
         ]
     },
     "Men in Black 3 (2012)": {
@@ -6014,11 +6803,6 @@
                 "description": ""
             },
             {
-                "actor": "Michael Papajohn",
-                "name": "Glen",
-                "description": "Zack's father"
-            },
-            {
                 "actor": "Frank Welker",
                 "name": "voice of Malebolgia",
                 "description": ""
@@ -6044,6 +6828,11 @@
                 "actor": "Sydni Beaudoin",
                 "name": "Cyan Simmons-Fitzgerald",
                 "description": ""
+            },
+            {
+                "actor": "Michael Papajohn",
+                "name": "Glen",
+                "description": "Zack's father"
             }
         ]
     },
@@ -7757,6 +8546,82 @@
             "He's the only one that can walk on both worlds.",
             "Lets Ride !",
             "Long ago, he made a deal... to save someone he loved... What he didn't know was the price he would have to pay..."
+        ],
+        "mainCast": [
+            {
+                "actor": "Nicolas Cage",
+                "name": "Johnny Blaze / Ghost Rider",
+                "description": ""
+            },
+            {
+                "actor": "Eva Mendes",
+                "name": "Roxanne Simpson",
+                "description": ""
+            },
+            {
+                "actor": "Wes Bentley",
+                "name": "Blackheart / Legion",
+                "description": ""
+            },
+            {
+                "actor": "Sam Elliott",
+                "name": "Carter Slade / Caretaker",
+                "description": ""
+            },
+            {
+                "actor": "Peter Fonda",
+                "name": "Mephistopheles / The Devil",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Matt Long",
+                "name": "young Johnny Blaze",
+                "description": ""
+            },
+            {
+                "actor": "Donal Logue",
+                "name": "Mack",
+                "description": ""
+            },
+            {
+                "actor": "Brett Cullen",
+                "name": "Barton Blaze",
+                "description": ""
+            },
+            {
+                "actor": "Rebel Wilson",
+                "name": "girl in alley",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Raquel Alessi",
+                "name": "young Roxanne Simpson",
+                "description": ""
+            },
+            {
+                "actor": "David Roberts",
+                "name": "Captain Jack Dolan",
+                "description": ""
+            },
+            {
+                "actor": "Laurence Breuls",
+                "name": "Gressil",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Frederiksen",
+                "name": "Wallow",
+                "description": ""
+            },
+            {
+                "actor": "Mathew Wilkinson",
+                "name": "Abigor",
+                "description": ""
+            }
         ]
     },
     "TMNT (2007)": {
@@ -7875,6 +8740,77 @@
             "Discover the secret of the Surfer",
             "The forces that made them fantastic, will give rise to a new power, and nothing will ever be the same.",
             "Who will rise?"
+        ],
+        "mainCast": [
+            {
+                "actor": "Ioan Gruffudd",
+                "name": "Dr. Reed Richards / Mister Fantastic",
+                "description": ""
+            },
+            {
+                "actor": "Jessica Alba",
+                "name": "Susan Storm / Invisible Woman",
+                "description": ""
+            },
+            {
+                "actor": "Chris Evans",
+                "name": "Johnny Storm / the Human Torch",
+                "description": ""
+            },
+            {
+                "actor": "Michael Chiklis",
+                "name": "Ben Grimm / the Thing",
+                "description": ""
+            },
+            {
+                "actor": "Doug Jones",
+                "name": "Norrin Radd / Silver Surfer",
+                "description": ""
+            },
+            {
+                "actor": "Laurence Fishburne",
+                "name": "voice of Norrin Radd",
+                "description": ""
+            },
+            {
+                "actor": "Julian McMahon",
+                "name": "Victor Von Doom / Dr. Doom",
+                "description": ""
+            },
+            {
+                "actor": "Kerry Washington",
+                "name": "Alicia Masters",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Beau Garrett",
+                "name": "Captain Frankie Raye",
+                "description": ""
+            },
+            {
+                "actor": "Vanessa Minnillo",
+                "name": "Julie Angel",
+                "description": ""
+            },
+            {
+                "actor": "Andre Braugher",
+                "name": "General Hager",
+                "description": ""
+            },
+            {
+                "actor": "Brian Posehn",
+                "name": "Wedding Minister",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Stan Lee",
+                "name": "himself",
+                "description": ""
+            }
         ]
     },
     "Iron Man (2008)": {
@@ -7888,6 +8824,92 @@
         "taglines": [
             "Heroes aren't born. They're built.",
             "Get ready for a different breed of heavy metal hero."
+        ],
+        "mainCast": [
+            {
+                "actor": "Robert Downey Jr.",
+                "name": "Tony Stark / Iron Man",
+                "description": ""
+            },
+            {
+                "actor": "Terrence Howard",
+                "name": "James \"Rhodey\" Rhodes",
+                "description": ""
+            },
+            {
+                "actor": "Jeff Bridges",
+                "name": "Obadiah Stane / Iron Monger",
+                "description": ""
+            },
+            {
+                "actor": "Shaun Toub",
+                "name": "Ho Yinsen",
+                "description": ""
+            },
+            {
+                "actor": "Gwyneth Paltrow",
+                "name": "Virginia \"Pepper\" Potts",
+                "description": ""
+            },
+            {
+                "actor": "Paul Bettany",
+                "name": "voice of J.A.R.V.I.S.",
+                "description": ""
+            },
+            {
+                "actor": "Leslie Bibb",
+                "name": "Christine Everhart",
+                "description": ""
+            },
+            {
+                "actor": "Clark Gregg",
+                "name": "Phil Coulson",
+                "description": ""
+            },
+            {
+                "actor": "Jon Favreau",
+                "name": "Harold \"Happy\" Hogan",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Nick Fury",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Faran Tahir",
+                "name": "Raza",
+                "description": ""
+            },
+            {
+                "actor": "Peter Billingsley",
+                "name": "William Ginter Riva",
+                "description": ""
+            },
+            {
+                "actor": "Tom Morello",
+                "name": "terrorist guard",
+                "description": ""
+            },
+            {
+                "actor": "Jim Cramer",
+                "name": "himself",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Will Lyman",
+                "name": "awards voiceover",
+                "description": ""
+            },
+            {
+                "actor": "Stan Lee",
+                "name": "himself",
+                "description": ""
+            }
         ]
     },
     "The Incredible Hulk (2008)": {
@@ -7903,6 +8925,102 @@
             "This summer, our only hope is something incredible",
             "This June, a hero shows his true colors",
             "You'll like him when he's angry."
+        ],
+        "mainCast": [
+            {
+                "actor": "Edward Norton",
+                "name": "Bruce Banner / Hulk",
+                "description": ""
+            },
+            {
+                "actor": "Liv Tyler",
+                "name": "Betty Ross",
+                "description": ""
+            },
+            {
+                "actor": "Tim Roth",
+                "name": "Emil Blonsky / Abomination",
+                "description": ""
+            },
+            {
+                "actor": "Tim Blake Nelson",
+                "name": "Samuel Sterns",
+                "description": ""
+            },
+            {
+                "actor": "William Hurt",
+                "name": "Thaddeus \"Thunderbolt\" Ross",
+                "description": ""
+            },
+            {
+                "actor": "Robert Downey Jr.",
+                "name": "Tony Stark",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Lou Ferrigno",
+                "name": "voice of Hulk / security guard",
+                "description": ""
+            },
+            {
+                "actor": "Ty Burrell",
+                "name": "Leonard Samson",
+                "description": ""
+            },
+            {
+                "actor": "Michael K. Williams",
+                "name": "Harlem bystander",
+                "description": ""
+            },
+            {
+                "actor": "Paul Soles",
+                "name": "Stanley",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mensah",
+                "name": "General Joe Greller",
+                "description": ""
+            },
+            {
+                "actor": "Martin Starr",
+                "name": "computer nerd",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Stan Lee",
+                "name": "man who becomes ill drinking soda",
+                "description": ""
+            },
+            {
+                "actor": "Rickson Gracie",
+                "name": "Bruce's martial arts instructor",
+                "description": ""
+            },
+            {
+                "actor": "D\u00e9bora Nascimento",
+                "name": "Martina",
+                "description": ""
+            },
+            {
+                "actor": "Christina Cabot",
+                "name": "Major Kathleen Sparr",
+                "description": ""
+            },
+            {
+                "actor": "P.J. Kerr",
+                "name": "Jim Wilson",
+                "description": ""
+            },
+            {
+                "actor": "Nicholas Rose",
+                "name": "Jack McGee",
+                "description": ""
+            }
         ]
     },
     "Hellboy II: The Golden Army (2008)": {
@@ -7939,6 +9057,11 @@
                 "actor": "Jeffrey Tambor",
                 "name": "Tom Manning",
                 "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Trevor Bruttenholm",
+                "description": ""
             }
         ],
         "minorCast": [
@@ -7950,11 +9073,6 @@
             {
                 "actor": "James Dodd",
                 "name": "Johann Krauss",
-                "description": ""
-            },
-            {
-                "actor": "John Hurt",
-                "name": "Trevor Bruttenholm",
                 "description": ""
             },
             {
@@ -7993,7 +9111,88 @@
             "Animated",
             "Star Wars"
         ],
-        "franchise": "Star Wars"
+        "franchise": "Star Wars",
+        "mainCast": [
+            {
+                "actor": "Matt Lanter",
+                "name": "Anakin Skywalker",
+                "description": ""
+            },
+            {
+                "actor": "Ashley Eckstein",
+                "name": "Ahsoka Tano",
+                "description": ""
+            },
+            {
+                "actor": "James Arnold Taylor",
+                "name": "Obi-Wan Kenobi / 4A-7",
+                "description": ""
+            },
+            {
+                "actor": "Tom Kane",
+                "name": "Yoda / narrator / Admiral Yularen",
+                "description": ""
+            },
+            {
+                "actor": "Dee Bradley Baker",
+                "name": "Captain Rex / Commander Cody / clone troopers",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Lee",
+                "name": "Count Dooku / Darth Tyranus",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Mace Windu",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Daniels",
+                "name": "C-3PO",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Nika Futterman",
+                "name": "Asajj Ventress / TC-70",
+                "description": ""
+            },
+            {
+                "actor": "Ian Abercrombie",
+                "name": "Chancellor Palpatine / Darth Sidious",
+                "description": ""
+            },
+            {
+                "actor": "Catherine Taber",
+                "name": "Padm\u00e9 Amidala",
+                "description": ""
+            },
+            {
+                "actor": "Corey Burton",
+                "name": "Ziro the Hutt / Whorm Loathsom / KRONOS-327",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Wood",
+                "name": "battle droids",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "David Acord",
+                "name": "Rotta the Huttlet",
+                "description": ""
+            },
+            {
+                "actor": "Kevin Michael Richardson",
+                "name": "Jabba the Hutt",
+                "description": ""
+            }
+        ]
     },
     "Punisher: War Zone (2008)": {
         "title": "Punisher: War Zone",
@@ -8007,6 +9206,102 @@
             "Vengeance has a name.",
             "Vengeance is Coming.",
             "Our Future Rests in His Hands."
+        ],
+        "mainCast": [
+            {
+                "actor": "Ray Stevenson",
+                "name": "Frank Castle / the Punisher",
+                "description": ""
+            },
+            {
+                "actor": "Wayne Knight",
+                "name": "Linus Lieberman / Microchip",
+                "description": ""
+            },
+            {
+                "actor": "Dominic West",
+                "name": "Billy Russoti / Jigsaw",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Colin Salmon",
+                "name": "Agent Paul Budiansky",
+                "description": ""
+            },
+            {
+                "actor": "Doug Hutchison",
+                "name": "James Russoti / Loony Bin Jim (LBJ)",
+                "description": ""
+            },
+            {
+                "actor": "Dash Mihok",
+                "name": "Detective Martin Soap",
+                "description": ""
+            },
+            {
+                "actor": "Romano Orzari",
+                "name": "Nicky Calvella/Donatelli",
+                "description": ""
+            },
+            {
+                "actor": "Julie Benz",
+                "name": "Angela Donatelli",
+                "description": ""
+            },
+            {
+                "actor": "T. J. Storm",
+                "name": "Maginty",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Stephanie Janusauskas",
+                "name": "Grace Donatelli",
+                "description": ""
+            },
+            {
+                "actor": "Larry Day",
+                "name": "Agent Miller",
+                "description": ""
+            },
+            {
+                "actor": "Ron Lea",
+                "name": "Captain Ross",
+                "description": ""
+            },
+            {
+                "actor": "Bjanka Murgel",
+                "name": "Amy Candy",
+                "description": ""
+            },
+            {
+                "actor": "Mark Camacho",
+                "name": "Carmine \"Pittsy\" Gazzera",
+                "description": ""
+            },
+            {
+                "actor": "Keram Malicki-S\u00e1nchez",
+                "name": "Ink",
+                "description": ""
+            },
+            {
+                "actor": "Carlos Gonzalez-Vio",
+                "name": "Carlos Cruz",
+                "description": ""
+            },
+            {
+                "actor": "David Vadim",
+                "name": "Cristu Bulat",
+                "description": ""
+            },
+            {
+                "actor": "Aubert Pallascio",
+                "name": "Tiberiu Bulat",
+                "description": ""
+            }
         ]
     },
     "Surrogates (2009)": {
@@ -8114,6 +9409,162 @@
             "Shut Up. Kick-Ass.",
             "A new breed of superheroes will be revealed.",
             "Have fear. They're here."
+        ],
+        "mainCast": [
+            {
+                "actor": "Aaron Taylor-Johnson",
+                "name": "Dave Lizewski / Kick-Ass",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Mintz-Plasse",
+                "name": "Chris D\u2019Amico / Red Mist",
+                "description": ""
+            },
+            {
+                "actor": "Mark Strong",
+                "name": "Frank D\u2019Amico",
+                "description": ""
+            },
+            {
+                "actor": "Chlo\u00eb Grace Moretz",
+                "name": "Mindy Macready / Hit-Girl",
+                "description": ""
+            },
+            {
+                "actor": "Nicolas Cage",
+                "name": "Damon Macready / Big Daddy",
+                "description": ""
+            },
+            {
+                "actor": "Evan Peters",
+                "name": "Todd Haynes",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Lyndsy Fonseca",
+                "name": "Katie Deauxma",
+                "description": ""
+            },
+            {
+                "actor": "Clark Duke",
+                "name": "Marty Eisenberg",
+                "description": ""
+            },
+            {
+                "actor": "Sophie Wu",
+                "name": "Erika Cho",
+                "description": ""
+            },
+            {
+                "actor": "Omari Hardwick",
+                "name": "Sergeant Marcus Williams",
+                "description": ""
+            },
+            {
+                "actor": "Dexter Fletcher",
+                "name": "Cody",
+                "description": ""
+            },
+            {
+                "actor": "Jason Flemyng",
+                "name": "Lobby Goon",
+                "description": ""
+            },
+            {
+                "actor": "Xander Berkeley",
+                "name": "Detective Gigante",
+                "description": ""
+            },
+            {
+                "actor": "Adrian Martinez",
+                "name": "Ginger Goon",
+                "description": ""
+            },
+            {
+                "actor": "Elizabeth McGovern",
+                "name": "Mrs. Lizewski",
+                "description": ""
+            },
+            {
+                "actor": "Craig Ferguson",
+                "name": "himself",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Stu Riley",
+                "name": "Huge Goon",
+                "description": ""
+            },
+            {
+                "actor": "Michael Rispoli",
+                "name": "Big Joe",
+                "description": ""
+            },
+            {
+                "actor": "Kofi Natei",
+                "name": "Rasul",
+                "description": ""
+            },
+            {
+                "actor": "Corey Johnson",
+                "name": "Sporty Goon",
+                "description": ""
+            },
+            {
+                "actor": "Katrena Rochell",
+                "name": "Female Junkie",
+                "description": ""
+            },
+            {
+                "actor": "Omar Soriano",
+                "name": "Leroy",
+                "description": ""
+            },
+            {
+                "actor": "Garrett M. Brown",
+                "name": "Mr. Lizewski",
+                "description": ""
+            },
+            {
+                "actor": "Yancy Butler",
+                "name": "Angie D'Amico",
+                "description": ""
+            },
+            {
+                "actor": "Deborah Twiss",
+                "name": "Mrs. Zane",
+                "description": ""
+            },
+            {
+                "actor": "Maurice DuBois",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Dana Tyler",
+                "name": "herself",
+                "description": ""
+            },
+            {
+                "actor": "Lou Young",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Claudia Schiffer",
+                "name": "woman on billboard poster",
+                "description": ""
+            },
+            {
+                "actor": "John Romita Jr.",
+                "name": "barista",
+                "description": ""
+            }
         ]
     },
     "The Losers (2010)": {
@@ -8206,6 +9657,132 @@
         "franchise": "MCU",
         "taglines": [
             "It's not the armor that makes the hero, but the man inside."
+        ],
+        "mainCast": [
+            {
+                "actor": "Robert Downey Jr.",
+                "name": "Tony Stark / Iron Man",
+                "description": ""
+            },
+            {
+                "actor": "Gwyneth Paltrow",
+                "name": "Virginia \"Pepper\" Potts",
+                "description": ""
+            },
+            {
+                "actor": "Don Cheadle",
+                "name": "James \"Rhodey\" Rhodes / War Machine",
+                "description": ""
+            },
+            {
+                "actor": "Scarlett Johansson",
+                "name": "Natasha Romanoff / Black Widow",
+                "description": ""
+            },
+            {
+                "actor": "Sam Rockwell",
+                "name": "Justin Hammer",
+                "description": ""
+            },
+            {
+                "actor": "Mickey Rourke",
+                "name": "Ivan Vanko / Whiplash",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Nick Fury",
+                "description": ""
+            },
+            {
+                "actor": "Jon Favreau",
+                "name": "Harold \"Happy\" Hogan",
+                "description": ""
+            },
+            {
+                "actor": "Clark Gregg",
+                "name": "Phil Coulson",
+                "description": ""
+            },
+            {
+                "actor": "Leslie Bibb",
+                "name": "Christine Everhart",
+                "description": ""
+            },
+            {
+                "actor": "John Slattery",
+                "name": "Howard Stark",
+                "description": ""
+            },
+            {
+                "actor": "Paul Bettany",
+                "name": "voice of J.A.R.V.I.S.",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Davin Ransom",
+                "name": "child Tony Stark",
+                "description": ""
+            },
+            {
+                "actor": "Yevgeni Lazarev",
+                "name": "Anton Vanko",
+                "description": ""
+            },
+            {
+                "actor": "Stan Lee",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Christiane Amanpour",
+                "name": "herself",
+                "description": ""
+            },
+            {
+                "actor": "Adam Goldstein",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Larry Ellison",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Max Favreau",
+                "name": "Peter Parker",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Garry Shandling",
+                "name": "United States Senator Stern",
+                "description": ""
+            },
+            {
+                "actor": "Olivia Munn",
+                "name": "Chess Roberts",
+                "description": ""
+            },
+            {
+                "actor": "Kate Mara",
+                "name": "process server",
+                "description": ""
+            },
+            {
+                "actor": "Bill O'Reilly",
+                "name": "himself",
+                "description": ""
+            },
+            {
+                "actor": "Elon Musk",
+                "name": "himself",
+                "description": ""
+            }
         ]
     },
     "Jonah Hex (2010)": {
@@ -8306,6 +9883,70 @@
             "Looking For A Little Action.",
             "A High Caliber Woman.",
             "There's No Substitute for Experience."
+        ],
+        "mainCast": [
+            {
+                "actor": "Bruce Willis",
+                "name": "Frank Moses",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "Joe Matheson",
+                "description": ""
+            },
+            {
+                "actor": "John Malkovich",
+                "name": "Marvin Boggs",
+                "description": ""
+            },
+            {
+                "actor": "Helen Mirren",
+                "name": "Victoria Winslow",
+                "description": ""
+            },
+            {
+                "actor": "Karl Urban",
+                "name": "William Cooper",
+                "description": ""
+            },
+            {
+                "actor": "Mary-Louise Parker",
+                "name": "Sarah Ross",
+                "description": ""
+            },
+            {
+                "actor": "Brian Cox",
+                "name": "Ivan Simanov",
+                "description": ""
+            },
+            {
+                "actor": "Richard Dreyfuss",
+                "name": "Alexander Dunning",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Rebecca Pidgeon",
+                "name": "Cynthia Wilkes",
+                "description": ""
+            },
+            {
+                "actor": "Julian McMahon",
+                "name": "Vice President Robert Stanton",
+                "description": ""
+            },
+            {
+                "actor": "Ernest Borgnine",
+                "name": "Henry",
+                "description": ""
+            },
+            {
+                "actor": "James Remar",
+                "name": "Gabriel Singer",
+                "description": ""
+            }
         ]
     },
     "Thor (2011)": {
@@ -8320,6 +9961,147 @@
             "Two worlds. One hero.",
             "The god of thunder. The king of Asgard. The god of mischief. The guardian of worlds. The goddess of war. The woman of science.",
             "Courage is immortal"
+        ],
+        "mainCast": [
+            {
+                "actor": "Chris Hemsworth",
+                "name": "Thor",
+                "description": ""
+            },
+            {
+                "actor": "Natalie Portman",
+                "name": "Jane Foster",
+                "description": ""
+            },
+            {
+                "actor": "Tom Hiddleston",
+                "name": "Loki",
+                "description": ""
+            },
+            {
+                "actor": "Stellan Skarsg\u00e5rd",
+                "name": "Erik Selvig",
+                "description": ""
+            },
+            {
+                "actor": "Ray Stevenson",
+                "name": "Volstagg",
+                "description": ""
+            },
+            {
+                "actor": "Idris Elba",
+                "name": "Heimdall",
+                "description": ""
+            },
+            {
+                "actor": "Kat Dennings",
+                "name": "Darcy Lewis",
+                "description": ""
+            },
+            {
+                "actor": "Rene Russo",
+                "name": "Frigga",
+                "description": ""
+            },
+            {
+                "actor": "Anthony Hopkins",
+                "name": "Odin",
+                "description": ""
+            },
+            {
+                "actor": "Tadanobu Asano",
+                "name": "Hogun",
+                "description": ""
+            },
+            {
+                "actor": "Josh Dallas",
+                "name": "Fandral",
+                "description": ""
+            },
+            {
+                "actor": "Jaimie Alexander",
+                "name": "Sif",
+                "description": ""
+            },
+            {
+                "actor": "Clark Gregg",
+                "name": "Phil Coulson",
+                "description": ""
+            },
+            {
+                "actor": "Samuel L. Jackson",
+                "name": "Nick Fury",
+                "description": ""
+            },
+            {
+                "actor": "Jeremy Renner",
+                "name": "Clint Barton",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Dakota Goyo",
+                "name": "young Thor",
+                "description": ""
+            },
+            {
+                "actor": "Colm Feore",
+                "name": "Laufey",
+                "description": ""
+            },
+            {
+                "actor": "Maximiliano Hern\u00e1ndez",
+                "name": "Jasper Sitwell",
+                "description": ""
+            },
+            {
+                "actor": "Adriana Barraza",
+                "name": "Isabella Alvarez",
+                "description": "diner owner"
+            },
+            {
+                "actor": "J. Michael Straczynski",
+                "name": "pick-up truck driver",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Ted Allpress",
+                "name": "young Loki",
+                "description": ""
+            },
+            {
+                "actor": "Isaac Kappy",
+                "name": "pet store clerk",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Gatt",
+                "name": "Frost Giant",
+                "description": ""
+            },
+            {
+                "actor": "Joshua Cox",
+                "name": "Frost Giant",
+                "description": ""
+            },
+            {
+                "actor": "Douglas Tait",
+                "name": "Frost Giant",
+                "description": ""
+            },
+            {
+                "actor": "Stan Lee",
+                "name": "pick-up truck driver",
+                "description": ""
+            },
+            {
+                "actor": "Walter Simonson",
+                "name": "Asgardian banquet guest",
+                "description": ""
+            }
         ]
     },
     "Green Lantern (2011)": {
@@ -8334,6 +10116,102 @@
             "One of us... becomes one of them.",
             "In brightest day, in blackest night, no evil shall escape my sight, let those who worship evil's might, beware my power, Green Lantern's Light.",
             "In our darkest hour, there will be light."
+        ],
+        "mainCast": [
+            {
+                "actor": "Ryan Reynolds",
+                "name": "Hal Jordan",
+                "description": ""
+            },
+            {
+                "actor": "Blake Lively",
+                "name": "Carol Ferris",
+                "description": ""
+            },
+            {
+                "actor": "Peter Sarsgaard",
+                "name": "Hector Hammond",
+                "description": ""
+            },
+            {
+                "actor": "Mark Strong",
+                "name": "Thaal Sinestro",
+                "description": ""
+            },
+            {
+                "actor": "Angela Bassett",
+                "name": "Amanda Waller",
+                "description": ""
+            },
+            {
+                "actor": "Tim Robbins",
+                "name": "Robert Hammond",
+                "description": ""
+            },
+            {
+                "actor": "Geoffrey Rush",
+                "name": "voice of Tomar-Re",
+                "description": ""
+            },
+            {
+                "actor": "Michael Clarke Duncan",
+                "name": "voice of Kilowog",
+                "description": ""
+            },
+            {
+                "actor": "Taika Waititi",
+                "name": "Thomas Kalmaku",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Gattlin Griffith",
+                "name": "young Hal Jordan",
+                "description": ""
+            },
+            {
+                "actor": "Temuera Morrison",
+                "name": "Abin Sur",
+                "description": ""
+            },
+            {
+                "actor": "Clancy Brown",
+                "name": "voice of Parallax",
+                "description": ""
+            },
+            {
+                "actor": "Jon Tenney",
+                "name": "Martin Jordan",
+                "description": ""
+            },
+            {
+                "actor": "Jay O. Sanders",
+                "name": "Carl Ferris",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jenna Craig",
+                "name": "young Carol Ferris",
+                "description": ""
+            },
+            {
+                "actor": "Kennon Kepper",
+                "name": "young Hector Hammond",
+                "description": ""
+            },
+            {
+                "actor": "Mike Doyle",
+                "name": "Jack Jordan",
+                "description": ""
+            },
+            {
+                "actor": "Nick Jandl",
+                "name": "Jim Jordan",
+                "description": ""
+            }
         ]
     },
     "Captain America: The First Avenger (2011)": {
@@ -9128,6 +11006,11 @@
                 "description": ""
             },
             {
+                "actor": "John Slattery",
+                "name": "Howard Stark",
+                "description": ""
+            },
+            {
                 "actor": "Hayley Atwell",
                 "name": "Peggy Carter",
                 "description": ""
@@ -9147,11 +11030,6 @@
             {
                 "actor": "Wood Harris",
                 "name": "Gale",
-                "description": ""
-            },
-            {
-                "actor": "John Slattery",
-                "name": "Howard Stark",
                 "description": ""
             },
             {
@@ -14298,11 +16176,6 @@
                 "description": "LAPD cop and Harrigan's immediate boss"
             },
             {
-                "actor": "Michael Papajohn",
-                "name": "gang member in subway",
-                "description": ""
-            },
-            {
                 "actor": "Elpidia Carrillo",
                 "name": "Anna Gonsalves",
                 "description": "woman aiding government agents in a videotape, showing the devastating after-effects of the first Predator's self-destruct device to the U.S. Army"
@@ -14357,6 +16230,11 @@
             {
                 "actor": "Thomas Rosales Jr.",
                 "name": "El Scorpio Gang Member",
+                "description": ""
+            },
+            {
+                "actor": "Michael Papajohn",
+                "name": "gang member in subway",
                 "description": ""
             },
             {
@@ -17580,7 +19458,7 @@
             },
             {
                 "actor": "John Hurt",
-                "name": "Mr. Ollivander",
+                "name": "Garrick Ollivander",
                 "description": ""
             },
             {
@@ -17650,12 +19528,12 @@
             },
             {
                 "actor": "Jamie Waylett",
-                "name": "Crabbe",
+                "name": "Vincent Crabbe",
                 "description": ""
             },
             {
                 "actor": "Joshua Herdman",
-                "name": "Goyle",
+                "name": "Gregory Goyle",
                 "description": ""
             }
         ],
@@ -18103,12 +19981,12 @@
             },
             {
                 "actor": "Jamie Waylett",
-                "name": "Crabbe",
+                "name": "Vincent Crabbe",
                 "description": ""
             },
             {
                 "actor": "Joshua Herdman",
-                "name": "Goyle",
+                "name": "Gregory Goyle",
                 "description": ""
             },
             {
@@ -19292,12 +21170,12 @@
             },
             {
                 "actor": "Jamie Waylett",
-                "name": "Crabbe",
+                "name": "Vincent Crabbe",
                 "description": ""
             },
             {
                 "actor": "Joshua Herdman",
-                "name": "Goyle",
+                "name": "Gregory Goyle",
                 "description": ""
             },
             {
@@ -20411,12 +22289,12 @@
             },
             {
                 "actor": "Jamie Waylett",
-                "name": "Crabbe",
+                "name": "Vincent Crabbe",
                 "description": ""
             },
             {
                 "actor": "Joshua Herdman",
-                "name": "Goyle",
+                "name": "Gregory Goyle",
                 "description": ""
             },
             {
@@ -20441,7 +22319,7 @@
             },
             {
                 "actor": "Warwick Davis",
-                "name": "Professor Flitwick",
+                "name": "Filius Flitwick",
                 "description": ""
             }
         ],
@@ -20499,6 +22377,11 @@
             {
                 "actor": "Eric Sykes",
                 "name": "Frank Bryce",
+                "description": ""
+            },
+            {
+                "actor": "Katie Leung",
+                "name": "Cho Chang",
                 "description": ""
             }
         ]
@@ -20746,6 +22629,112 @@
             "This is where we fight, this is where they die!!",
             "What does it mean to turn one of the great graphic novels of our time into a major motion picture?",
             "Spartans, prepare for glory!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Gerard Butler",
+                "name": "Leonidas",
+                "description": ""
+            },
+            {
+                "actor": "David Wenham",
+                "name": "Dilios",
+                "description": ""
+            },
+            {
+                "actor": "Lena Headey",
+                "name": "Queen Gorgo",
+                "description": ""
+            },
+            {
+                "actor": "Dominic West",
+                "name": "Theron",
+                "description": ""
+            },
+            {
+                "actor": "Rodrigo Santoro",
+                "name": "King Xerxes",
+                "description": ""
+            },
+            {
+                "actor": "Michael Fassbender",
+                "name": "Stelios",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Tyler Neitzel",
+                "name": "15-year-old Leonidas",
+                "description": ""
+            },
+            {
+                "actor": "Eli Snyder",
+                "name": "7 to 8-year-old Leonidas",
+                "description": ""
+            },
+            {
+                "actor": "Giovanni Cimmino",
+                "name": "Pleistarchus",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Sabongui",
+                "name": "Persian General",
+                "description": ""
+            },
+            {
+                "actor": "Leon Laderach",
+                "name": "Executioner",
+                "description": ""
+            },
+            {
+                "actor": "Tyrone Benskin",
+                "name": "whip-wielding Persian Emissary",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Vincent Regan",
+                "name": "Captain Artemis",
+                "description": ""
+            },
+            {
+                "actor": "Tom Wisdom",
+                "name": "Astinos",
+                "description": ""
+            },
+            {
+                "actor": "Andrew Pleavin",
+                "name": "Daxos",
+                "description": ""
+            },
+            {
+                "actor": "Andrew Tiernan",
+                "name": "Ephialtes",
+                "description": ""
+            },
+            {
+                "actor": "Stephen McHattie",
+                "name": "the Loyalist",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mensah",
+                "name": "Persian messenger",
+                "description": ""
+            },
+            {
+                "actor": "Kelly Craig",
+                "name": "Pythia",
+                "description": ""
+            },
+            {
+                "actor": "Robert Maillet",
+                "name": "\u00dcber Immortal (giant)",
+                "description": ""
+            }
         ]
     },
     "Pirates of the Caribbean: At World's End (2007)": {
@@ -21091,6 +23080,212 @@
             "No one can protect you.",
             "Make a final stand.",
             "Dissent will not be tolerated."
+        ],
+        "mainCast": [
+            {
+                "actor": "Daniel Radcliffe",
+                "name": "Harry Potter",
+                "description": ""
+            },
+            {
+                "actor": "Rupert Grint",
+                "name": "Ron Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Emma Watson",
+                "name": "Hermione Granger",
+                "description": ""
+            },
+            {
+                "actor": "Helena Bonham Carter",
+                "name": "Bellatrix Lestrange",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Coltrane",
+                "name": "Rubeus Hagrid",
+                "description": ""
+            },
+            {
+                "actor": "Ralph Fiennes",
+                "name": "Lord Voldemort",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gambon",
+                "name": "Albus Dumbledore",
+                "description": ""
+            },
+            {
+                "actor": "Brendan Gleeson",
+                "name": "Alastor \"Mad-Eye\" Moody",
+                "description": ""
+            },
+            {
+                "actor": "Richard Griffiths",
+                "name": "Vernon Dursley",
+                "description": ""
+            },
+            {
+                "actor": "Jason Isaacs",
+                "name": "Lucius Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "Sirius Black",
+                "description": ""
+            },
+            {
+                "actor": "Alan Rickman",
+                "name": "Severus Snape",
+                "description": ""
+            },
+            {
+                "actor": "Fiona Shaw",
+                "name": "Petunia Dursley",
+                "description": ""
+            },
+            {
+                "actor": "Maggie Smith",
+                "name": "Minerva McGonagall",
+                "description": ""
+            },
+            {
+                "actor": "Imelda Staunton",
+                "name": "Dolores Umbridge",
+                "description": ""
+            },
+            {
+                "actor": "David Thewlis",
+                "name": "Remus Lupin",
+                "description": ""
+            },
+            {
+                "actor": "Emma Thompson",
+                "name": "Sybill Trelawney",
+                "description": ""
+            },
+            {
+                "actor": "Julie Walters",
+                "name": "Molly Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Mark Williams",
+                "name": "Arthur Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Filius Flitwick",
+                "description": ""
+            },
+            {
+                "actor": "David Bradley",
+                "name": "Argus Filch",
+                "description": ""
+            },
+            {
+                "actor": "Tom Felton",
+                "name": "Draco Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Jamie Waylett",
+                "name": "Vincent Crabbe",
+                "description": ""
+            },
+            {
+                "actor": "Joshua Herdman",
+                "name": "Gregory Goyle",
+                "description": ""
+            },
+            {
+                "actor": "James Phelps",
+                "name": "Fred Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Oliver Phelps",
+                "name": "George Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Bonnie Wright",
+                "name": "Ginny Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Lewis",
+                "name": "Neville Longbottom",
+                "description": ""
+            },
+            {
+                "actor": "Devon Murray",
+                "name": "Seamus Finnigan",
+                "description": ""
+            },
+            {
+                "actor": "Alfred Enoch",
+                "name": "Dean Thomas",
+                "description": ""
+            },
+            {
+                "actor": "Harry Melling",
+                "name": "Dudley Dursley",
+                "description": ""
+            },
+            {
+                "actor": "Evanna Lynch",
+                "name": "Luna Lovegood",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Chris Rankin",
+                "name": "Percy Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Katie Leung",
+                "name": "Cho Chang",
+                "description": ""
+            },
+            {
+                "actor": "Robert Hardy",
+                "name": "Cornelius Fudge",
+                "description": ""
+            },
+            {
+                "actor": "Timothy Bateson",
+                "name": "voice of Kreacher",
+                "description": ""
+            },
+            {
+                "actor": "Kathryn Hunter",
+                "name": "Mrs. Figg",
+                "description": ""
+            },
+            {
+                "actor": "George Harris",
+                "name": "Kingsley Shacklebolt",
+                "description": ""
+            },
+            {
+                "actor": "Natalia Tena",
+                "name": "Nymphadora Tonks",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Tony Maudsley",
+                "name": "Grawp",
+                "description": ""
+            }
         ]
     },
     "30 Days of Night (2007)": {
@@ -21707,6 +23902,82 @@
             "Choose your destiny.",
             "Their world. Her rules. His destiny.",
             "Brutal, Sexy, Built to thrill"
+        ],
+        "mainCast": [
+            {
+                "actor": "James McAvoy",
+                "name": "Wesley Gibson",
+                "description": ""
+            },
+            {
+                "actor": "Angelina Jolie",
+                "name": "Fox",
+                "description": ""
+            },
+            {
+                "actor": "Morgan Freeman",
+                "name": "Sloan",
+                "description": ""
+            },
+            {
+                "actor": "Thomas Kretschmann",
+                "name": "Cross",
+                "description": ""
+            },
+            {
+                "actor": "Common",
+                "name": "Earl Spellman / the Gunsmith",
+                "description": ""
+            },
+            {
+                "actor": "Chris Pratt",
+                "name": "Barry",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Konstantin Khabensky",
+                "name": "the Exterminator",
+                "description": ""
+            },
+            {
+                "actor": "Marc Warren",
+                "name": "the Repairman",
+                "description": ""
+            },
+            {
+                "actor": "Dato Bakhtadze",
+                "name": "the Butcher",
+                "description": ""
+            },
+            {
+                "actor": "Terence Stamp",
+                "name": "Pekwarsky",
+                "description": ""
+            },
+            {
+                "actor": "David O'Hara",
+                "name": "Mr. X",
+                "description": ""
+            },
+            {
+                "actor": "Kristen Hager",
+                "name": "Cathy",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Sophiya Haque",
+                "name": "Puja",
+                "description": ""
+            },
+            {
+                "actor": "Lorna Scott",
+                "name": "Janice",
+                "description": ""
+            }
         ]
     },
     "The Spirit (2008)": {
@@ -21810,6 +24081,182 @@
         "taglines": [
             "The future begins.",
             "Before Guardians of the Galaxy... There was Star Trek!"
+        ],
+        "mainCast": [
+            {
+                "actor": "Chris Pine",
+                "name": "James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Zachary Quinto",
+                "name": "Spock",
+                "description": ""
+            },
+            {
+                "actor": "Leonard Nimoy",
+                "name": "Spock Prime",
+                "description": ""
+            },
+            {
+                "actor": "Karl Urban",
+                "name": "Dr. Leonard \"Bones\" McCoy",
+                "description": ""
+            },
+            {
+                "actor": "Zoe Saldana",
+                "name": "Nyota Uhura",
+                "description": ""
+            },
+            {
+                "actor": "Simon Pegg",
+                "name": "Montgomery \"Scotty\" Scott",
+                "description": ""
+            },
+            {
+                "actor": "John Cho",
+                "name": "Hikaru Sulu",
+                "description": ""
+            },
+            {
+                "actor": "Anton Yelchin",
+                "name": "Pavel Chekov",
+                "description": ""
+            },
+            {
+                "actor": "Eric Bana",
+                "name": "Captain Nero",
+                "description": ""
+            },
+            {
+                "actor": "Bruce Greenwood",
+                "name": "Christopher Pike",
+                "description": ""
+            },
+            {
+                "actor": "Winona Ryder",
+                "name": "Amanda Grayson",
+                "description": ""
+            },
+            {
+                "actor": "Chris Hemsworth",
+                "name": "George Kirk",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jimmy Bennett",
+                "name": "young James T. Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Ben Cross",
+                "name": "Sarek",
+                "description": "Spock's father"
+            },
+            {
+                "actor": "Clifton Collins Jr.",
+                "name": "Ayel",
+                "description": ""
+            },
+            {
+                "actor": "Jennifer Morrison",
+                "name": "Winona Kirk",
+                "description": ""
+            },
+            {
+                "actor": "Rachel Nichols",
+                "name": "Gaila",
+                "description": ""
+            },
+            {
+                "actor": "Faran Tahir",
+                "name": "Richard Robau",
+                "description": ""
+            },
+            {
+                "actor": "Deep Roy",
+                "name": "Keenser",
+                "description": ""
+            },
+            {
+                "actor": "Greg Ellis",
+                "name": "Chief Engineer Olson",
+                "description": ""
+            },
+            {
+                "actor": "Tyler Perry",
+                "name": "Admiral Richard Barnett",
+                "description": ""
+            },
+            {
+                "actor": "Greg Grunberg",
+                "name": "voice of Kirk's stepfather",
+                "description": ""
+            },
+            {
+                "actor": "Wil Wheaton",
+                "name": "voices of several Romulans",
+                "description": ""
+            },
+            {
+                "actor": "Majel Barrett",
+                "name": "voice of Enterprise's computer",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jacob Kogan",
+                "name": "young Spock",
+                "description": ""
+            },
+            {
+                "actor": "Amanda Foreman",
+                "name": "Hannity",
+                "description": ""
+            },
+            {
+                "actor": "Spencer Daniels",
+                "name": "Johnny",
+                "description": ""
+            },
+            {
+                "actor": "Chris Doohan",
+                "name": "man in transporter room",
+                "description": ""
+            },
+            {
+                "actor": "Paul McGillion",
+                "name": "barracks leader",
+                "description": ""
+            },
+            {
+                "actor": "James Cawley",
+                "name": "Starfleet officer",
+                "description": ""
+            },
+            {
+                "actor": "Pavel Lychnikoff",
+                "name": "Romulan Commander",
+                "description": ""
+            },
+            {
+                "actor": "Lucia Rijker",
+                "name": "Romulan Commanding Officer",
+                "description": ""
+            },
+            {
+                "actor": "W. Morgan Sheppard",
+                "name": "head of Vulcan Science Council",
+                "description": ""
+            },
+            {
+                "actor": "Randy Pausch",
+                "name": "Kelvin crew member",
+                "description": ""
+            }
         ]
     },
     "Terminator Salvation (2009)": {
@@ -22088,6 +24535,192 @@
         "taglines": [
             "Once again I must ask too much of you, Harry.",
             "Dark secrets revealed."
+        ],
+        "mainCast": [
+            {
+                "actor": "Daniel Radcliffe",
+                "name": "Harry Potter",
+                "description": ""
+            },
+            {
+                "actor": "Rupert Grint",
+                "name": "Ron Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Emma Watson",
+                "name": "Hermione Granger",
+                "description": ""
+            },
+            {
+                "actor": "Helena Bonham Carter",
+                "name": "Bellatrix Lestrange",
+                "description": ""
+            },
+            {
+                "actor": "Jim Broadbent",
+                "name": "Horace Slughorn",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Coltrane",
+                "name": "Rubeus Hagrid",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Filius Flitwick",
+                "description": ""
+            },
+            {
+                "actor": "Tom Felton",
+                "name": "Draco Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gambon",
+                "name": "Albus Dumbledore",
+                "description": ""
+            },
+            {
+                "actor": "Alan Rickman",
+                "name": "Severus Snape",
+                "description": ""
+            },
+            {
+                "actor": "Maggie Smith",
+                "name": "Minerva McGonagall",
+                "description": ""
+            },
+            {
+                "actor": "Timothy Spall",
+                "name": "Peter Pettigrew",
+                "description": ""
+            },
+            {
+                "actor": "David Thewlis",
+                "name": "Remus Lupin",
+                "description": ""
+            },
+            {
+                "actor": "Julie Walters",
+                "name": "Molly Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Mark Williams",
+                "name": "Arthur Weasley",
+                "description": ""
+            },
+            {
+                "actor": "James Phelps",
+                "name": "Fred Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Oliver Phelps",
+                "name": "George Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Lewis",
+                "name": "Neville Longbottom",
+                "description": ""
+            },
+            {
+                "actor": "Devon Murray",
+                "name": "Seamus Finnigan",
+                "description": ""
+            },
+            {
+                "actor": "Alfred Enoch",
+                "name": "Dean Thomas",
+                "description": ""
+            },
+            {
+                "actor": "Evanna Lynch",
+                "name": "Luna Lovegood",
+                "description": ""
+            },
+            {
+                "actor": "Jamie Waylett",
+                "name": "Vincent Crabbe",
+                "description": ""
+            },
+            {
+                "actor": "Joshua Herdman",
+                "name": "Gregory Goyle",
+                "description": ""
+            },
+            {
+                "actor": "Bonnie Wright",
+                "name": "Ginny Weasley",
+                "description": ""
+            },
+            {
+                "actor": "David Bradley",
+                "name": "Argus Filch",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Gemma Jones",
+                "name": "Poppy Pomfrey",
+                "description": ""
+            },
+            {
+                "actor": "Natalia Tena",
+                "name": "Nymphadora Tonks",
+                "description": ""
+            },
+            {
+                "actor": "Katie Leung",
+                "name": "Cho Chang",
+                "description": ""
+            },
+            {
+                "actor": "Jessie Cave",
+                "name": "Lavender Brown",
+                "description": ""
+            },
+            {
+                "actor": "Anna Shaffer",
+                "name": "Romilda Vane",
+                "description": ""
+            },
+            {
+                "actor": "Freddie Stroma",
+                "name": "Cormac McLaggen",
+                "description": ""
+            },
+            {
+                "actor": "Helen McCrory",
+                "name": "Narcissa Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Dave Legeno",
+                "name": "Fenrir Greyback",
+                "description": ""
+            },
+            {
+                "actor": "Hero Fiennes Tiffin",
+                "name": "11-year-old Tom Riddle",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Rob Knox",
+                "name": "Marcus Belby",
+                "description": ""
+            },
+            {
+                "actor": "Frank Dillane",
+                "name": "16-year-old Tom Riddle",
+                "description": ""
+            }
         ]
     },
     "Predators (2010)": {
@@ -22353,6 +24986,232 @@
             "Part 1 Of The Epic Finale",
             "The end begins.",
             "The hunt begins."
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jessie Cave",
+                "name": "Lavender Brown",
+                "description": ""
+            },
+            {
+                "actor": "Anna Shaffer",
+                "name": "Romilda Vane",
+                "description": ""
+            },
+            {
+                "actor": "Freddie Stroma",
+                "name": "Cormac McLaggen",
+                "description": ""
+            },
+            {
+                "actor": "Dave Legeno",
+                "name": "Fenrir Greyback",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Garrick Ollivander",
+                "description": ""
+            },
+            {
+                "actor": "Rhys Ifans",
+                "name": "Xenophilius Lovegood",
+                "description": ""
+            },
+            {
+                "actor": "Helen McCrory",
+                "name": "Narcissa Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Natalia Tena",
+                "name": "Nymphadora Tonks",
+                "description": ""
+            },
+            {
+                "actor": "George Harris",
+                "name": "Kingsley Shacklebolt",
+                "description": ""
+            },
+            {
+                "actor": "Cl\u00e9mence Po\u00e9sy",
+                "name": "Fleur Delacour",
+                "description": ""
+            },
+            {
+                "actor": "Guy Henry",
+                "name": "Pius Thicknesse",
+                "description": ""
+            },
+            {
+                "actor": "Peter Mullan",
+                "name": "Corban Yaxley",
+                "description": ""
+            },
+            {
+                "actor": "Carolyn Pickles",
+                "name": "Charity Burbage",
+                "description": ""
+            }
+        ],
+        "mainCast": [
+            {
+                "actor": "Daniel Radcliffe",
+                "name": "Harry Potter",
+                "description": ""
+            },
+            {
+                "actor": "Rupert Grint",
+                "name": "Ron Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Emma Watson",
+                "name": "Hermione Granger",
+                "description": ""
+            },
+            {
+                "actor": "Bonnie Wright",
+                "name": "Ginny Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Helena Bonham Carter",
+                "name": "Bellatrix Lestrange",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Coltrane",
+                "name": "Rubeus Hagrid",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Griphook",
+                "description": ""
+            },
+            {
+                "actor": "Tom Felton",
+                "name": "Draco Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Ralph Fiennes",
+                "name": "Lord Voldemort",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gambon",
+                "name": "Albus Dumbledore",
+                "description": ""
+            },
+            {
+                "actor": "Brendan Gleeson",
+                "name": "Alastor \"Mad-Eye\" Moody",
+                "description": ""
+            },
+            {
+                "actor": "Jason Isaacs",
+                "name": "Lucius Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Bill Nighy",
+                "name": "Rufus Scrimgeour",
+                "description": ""
+            },
+            {
+                "actor": "Alan Rickman",
+                "name": "Severus Snape",
+                "description": ""
+            },
+            {
+                "actor": "Jim Broadbent",
+                "name": "Horace Slughorn",
+                "description": ""
+            },
+            {
+                "actor": "Timothy Spall",
+                "name": "Peter Pettigrew",
+                "description": ""
+            },
+            {
+                "actor": "Imelda Staunton",
+                "name": "Dolores Umbridge",
+                "description": ""
+            },
+            {
+                "actor": "David Thewlis",
+                "name": "Remus Lupin",
+                "description": ""
+            },
+            {
+                "actor": "Julie Walters",
+                "name": "Molly Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Mark Williams",
+                "name": "Arthur Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Domhnall Gleeson",
+                "name": "Bill Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Richard Griffiths",
+                "name": "Vernon Dursley",
+                "description": ""
+            },
+            {
+                "actor": "Fiona Shaw",
+                "name": "Petunia Dursley",
+                "description": ""
+            },
+            {
+                "actor": "Harry Melling",
+                "name": "Dudley Dursley",
+                "description": ""
+            },
+            {
+                "actor": "Evanna Lynch",
+                "name": "Luna Lovegood",
+                "description": ""
+            },
+            {
+                "actor": "James Phelps",
+                "name": "Fred Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Oliver Phelps",
+                "name": "George Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Lewis",
+                "name": "Neville Longbottom",
+                "description": ""
+            },
+            {
+                "actor": "Devon Murray",
+                "name": "Seamus Finnigan",
+                "description": ""
+            },
+            {
+                "actor": "Joshua Herdman",
+                "name": "Gregory Goyle",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "David Ryall",
+                "name": "Elphias Doge",
+                "description": ""
+            }
         ]
     },
     "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)": {
@@ -22502,6 +25361,92 @@
         "franchise": "",
         "taglines": [
             "Protect the law by breaking it."
+        ],
+        "mainCast": [
+            {
+                "actor": "Seth Rogen",
+                "name": "Britt Reid / the Green Hornet",
+                "description": ""
+            },
+            {
+                "actor": "Jay Chou",
+                "name": "Kato",
+                "description": ""
+            },
+            {
+                "actor": "Cameron Diaz",
+                "name": "Lenore Case",
+                "description": ""
+            },
+            {
+                "actor": "Tom Wilkinson",
+                "name": "James Reid",
+                "description": ""
+            },
+            {
+                "actor": "Christoph Waltz",
+                "name": "Benjamin Chudnofsky / Bloodnofsky",
+                "description": ""
+            },
+            {
+                "actor": "David Harbour",
+                "name": "D.A. Frank Scanlon",
+                "description": ""
+            },
+            {
+                "actor": "James Franco",
+                "name": "Danny \"Crystal\" Clear",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Joshua Erenberg",
+                "name": "young Britt Reid",
+                "description": ""
+            },
+            {
+                "actor": "Jill Remez",
+                "name": "Daily Sentinel reporter",
+                "description": ""
+            },
+            {
+                "actor": "Reuben Langdon",
+                "name": "Crackhead",
+                "description": ""
+            },
+            {
+                "actor": "Jerry Trimble",
+                "name": "Chudnofsky's man",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Edward James Olmos",
+                "name": "Mike Axford",
+                "description": ""
+            },
+            {
+                "actor": "Jamie Harris",
+                "name": "Popeye",
+                "description": ""
+            },
+            {
+                "actor": "Chad Coleman",
+                "name": "Chili",
+                "description": ""
+            },
+            {
+                "actor": "Edward Furlong",
+                "name": "Tupper",
+                "description": ""
+            },
+            {
+                "actor": "Lio Tipton",
+                "name": "Ana Lee",
+                "description": ""
+            }
         ]
     },
     "Priest (2011)": {
@@ -22515,6 +25460,82 @@
             "Vampire Killer",
             "The War is Eternal. His Mission is Just the Beginning.",
             "This war will never end. His mission is just the beginning."
+        ],
+        "mainCast": [
+            {
+                "actor": "Paul Bettany",
+                "name": "Priest",
+                "description": ""
+            },
+            {
+                "actor": "Karl Urban",
+                "name": "Black Hat",
+                "description": ""
+            },
+            {
+                "actor": "Cam Gigandet",
+                "name": "Hicks",
+                "description": ""
+            },
+            {
+                "actor": "Maggie Q",
+                "name": "Priestess",
+                "description": ""
+            },
+            {
+                "actor": "Lily Collins",
+                "name": "Lucy Pace",
+                "description": ""
+            },
+            {
+                "actor": "Christopher Plummer",
+                "name": "Monsignor Orelas",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Brad Dourif",
+                "name": "Salesman",
+                "description": ""
+            },
+            {
+                "actor": "Stephen Moyer",
+                "name": "Owen Pace",
+                "description": ""
+            },
+            {
+                "actor": "Alan Dale",
+                "name": "Monsignor Chamberlain",
+                "description": ""
+            },
+            {
+                "actor": "M\u00e4dchen Amick",
+                "name": "Shannon Pace",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Jacob Hopkins",
+                "name": "Boy",
+                "description": ""
+            },
+            {
+                "actor": "Dave Florek",
+                "name": "Crocker",
+                "description": ""
+            },
+            {
+                "actor": "Joel Polinsky",
+                "name": "Dr. Tomlin",
+                "description": ""
+            },
+            {
+                "actor": "Josh Wingate",
+                "name": "Familiar",
+                "description": ""
+            }
         ]
     },
     "Pirates of the Caribbean: On Stranger Tides (2011)": {
@@ -22841,6 +25862,235 @@
             "It All Ends Here",
             "It All Ends",
             "The Last Enemy Is Death"
+        ],
+        "supportingCast": [
+            {
+                "actor": "Katie Leung",
+                "name": "Cho Chang",
+                "description": ""
+            },
+            {
+                "actor": "Jessie Cave",
+                "name": "Lavender Brown",
+                "description": ""
+            },
+            {
+                "actor": "Anna Shaffer",
+                "name": "Romilda Vane",
+                "description": ""
+            },
+            {
+                "actor": "Freddie Stroma",
+                "name": "Cormac McLaggen",
+                "description": ""
+            },
+            {
+                "actor": "Dave Legeno",
+                "name": "Fenrir Greyback",
+                "description": ""
+            },
+            {
+                "actor": "Natalia Tena",
+                "name": "Nymphadora Tonks",
+                "description": ""
+            },
+            {
+                "actor": "George Harris",
+                "name": "Kingsley Shacklebolt",
+                "description": ""
+            },
+            {
+                "actor": "Guy Henry",
+                "name": "Pius Thicknesse",
+                "description": ""
+            },
+            {
+                "actor": "John Hurt",
+                "name": "Garrick Ollivander",
+                "description": ""
+            },
+            {
+                "actor": "Helen McCrory",
+                "name": "Narcissa Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Kelly Macdonald",
+                "name": "Helena Ravenclaw",
+                "description": ""
+            },
+            {
+                "actor": "Chris Rankin",
+                "name": "Percy Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Ciar\u00e1n Hinds",
+                "name": "Aberforth Dumbledore",
+                "description": ""
+            },
+            {
+                "actor": "Cl\u00e9mence Po\u00e9sy",
+                "name": "Fleur Delacour",
+                "description": ""
+            },
+            {
+                "actor": "Sean Biggerstaff",
+                "name": "Oliver Wood",
+                "description": ""
+            },
+            {
+                "actor": "Gemma Jones",
+                "name": "Madam Pomfrey",
+                "description": ""
+            },
+            {
+                "actor": "Miriam Margolyes",
+                "name": "Pomona Sprout",
+                "description": ""
+            }
+        ],
+        "mainCast": [
+            {
+                "actor": "Mark Williams",
+                "name": "Arthur Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Daniel Radcliffe",
+                "name": "Harry Potter",
+                "description": ""
+            },
+            {
+                "actor": "Rupert Grint",
+                "name": "Ron Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Emma Watson",
+                "name": "Hermione Granger",
+                "description": ""
+            },
+            {
+                "actor": "Helena Bonham Carter",
+                "name": "Bellatrix Lestrange",
+                "description": ""
+            },
+            {
+                "actor": "Robbie Coltrane",
+                "name": "Rubeus Hagrid",
+                "description": ""
+            },
+            {
+                "actor": "Warwick Davis",
+                "name": "Filius Flitwick / Griphook",
+                "description": ""
+            },
+            {
+                "actor": "Ralph Fiennes",
+                "name": "Lord Voldemort",
+                "description": ""
+            },
+            {
+                "actor": "Michael Gambon",
+                "name": "Albus Dumbledore",
+                "description": ""
+            },
+            {
+                "actor": "Jason Isaacs",
+                "name": "Lucius Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Gary Oldman",
+                "name": "Sirius Black",
+                "description": ""
+            },
+            {
+                "actor": "Alan Rickman",
+                "name": "Severus Snape",
+                "description": ""
+            },
+            {
+                "actor": "Maggie Smith",
+                "name": "Minerva McGonagall",
+                "description": ""
+            },
+            {
+                "actor": "David Thewlis",
+                "name": "Remus Lupin",
+                "description": ""
+            },
+            {
+                "actor": "Julie Walters",
+                "name": "Molly Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Tom Felton",
+                "name": "Draco Malfoy",
+                "description": ""
+            },
+            {
+                "actor": "Bonnie Wright",
+                "name": "Ginny Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Matthew Lewis",
+                "name": "Neville Longbottom",
+                "description": ""
+            },
+            {
+                "actor": "Evanna Lynch",
+                "name": "Luna Lovegood",
+                "description": ""
+            },
+            {
+                "actor": "James Phelps",
+                "name": "Fred Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Oliver Phelps",
+                "name": "George Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Domhnall Gleeson",
+                "name": "Bill Weasley",
+                "description": ""
+            },
+            {
+                "actor": "Devon Murray",
+                "name": "Seamus Finnigan",
+                "description": ""
+            },
+            {
+                "actor": "Alfred Enoch",
+                "name": "Dean Thomas",
+                "description": ""
+            },
+            {
+                "actor": "Joshua Herdman",
+                "name": "Gregory Goyle",
+                "description": ""
+            },
+            {
+                "actor": "David Bradley",
+                "name": "Argus Filch",
+                "description": ""
+            },
+            {
+                "actor": "Jim Broadbent",
+                "name": "Horace Slughorn",
+                "description": ""
+            },
+            {
+                "actor": "Emma Thompson",
+                "name": "Sybill Trelawney",
+                "description": ""
+            }
         ]
     },
     "Rise of the Planet of the Apes (2011)": {
@@ -25734,6 +28984,11 @@
                 "actor": "Yvonne Strahovski",
                 "name": "Emily Quinn",
                 "description": "McKenna's estranged wife and the mother to Rory"
+            },
+            {
+                "actor": "Niall Matter",
+                "name": "Sapir",
+                "description": ""
             }
         ],
         "minorCast": [
@@ -25760,11 +29015,6 @@
             {
                 "actor": "Gabriel LaBelle",
                 "name": "E.J.",
-                "description": ""
-            },
-            {
-                "actor": "Niall Matter",
-                "name": "Sapir",
                 "description": ""
             },
             {
