@@ -1,12 +1,15 @@
 {
     "Aaron Eckhart": {
         "movies": [
-            "The Dark Knight (2008)"
+            "The Dark Knight (2008)",
+            "I, Frankenstein (2014)"
         ]
     },
     "Aaron Taylor-Johnson": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "Kick-Ass 2 (2013)",
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Aasif Mandvi": {
@@ -104,6 +107,11 @@
             "Batman (1966)"
         ]
     },
+    "Adewale Akinnuoye-Agbaje": {
+        "movies": [
+            "Thor: The Dark World (2013)"
+        ]
+    },
     "Adriana Barraza": {
         "suppNoms": [
             {
@@ -148,6 +156,11 @@
     "Aidan Quinn": {
         "movies": [
             "Jonah Hex (2010)"
+        ]
+    },
+    "Aidy Bryant": {
+        "movies": [
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Akiva Schaffer": {
@@ -237,7 +250,8 @@
     "Alan Dale": {
         "movies": [
             "Star Trek: Nemesis (2002)",
-            "Priest (2011)"
+            "Priest (2011)",
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Alan Napier": {
@@ -273,6 +287,7 @@
     "Alan Tudyk": {
         "movies": [
             "Knocked Up (2007)",
+            "Big Hero 6 (2014)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -353,6 +368,11 @@
             "Catwoman (2004)"
         ]
     },
+    "Alexa Vega": {
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
     "Alexis Bledel": {
         "movies": [
             "Sin City (2005)"
@@ -384,7 +404,8 @@
     },
     "Alice Krige": {
         "movies": [
-            "Star Trek: First Contact (1996)"
+            "Star Trek: First Contact (1996)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Alicia Silverstone": {
@@ -548,7 +569,8 @@
             }
         ],
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Andrew Lincoln": {
@@ -715,7 +737,8 @@
             "X-Men (2000)",
             "Almost Famous (2000)",
             "X2 (2003)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Anna Popplewell": {
@@ -856,11 +879,14 @@
         "movies": [
             "The Mask of Zorro (1998)",
             "Alexander (2004)",
-            "Thor (2011)"
+            "Thor (2011)",
+            "Red 2 (2013)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Anthony Mackie": {
         "movies": [
+            "Captain America: The Winter Soldier (2014)",
             "Ant-Man (2015)",
             "Avengers: Infinity War (2018)"
         ]
@@ -1016,7 +1042,8 @@
     },
     "B. J. Novak": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "B.B. King": {
@@ -1155,12 +1182,15 @@
         "movies": [
             "The Hobbit: An Unexpected Journey (2012)",
             "Star Trek Into Darkness (2013)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
     "Benedict Wong": {
         "movies": [
             "Moon (2009)",
+            "Kick-Ass 2 (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -1177,6 +1207,8 @@
         ],
         "movies": [
             "Sin City (2005)",
+            "Thor: The Dark World (2013)",
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -1294,7 +1326,8 @@
             "Love Actually (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "I, Frankenstein (2014)"
         ]
     },
     "Bill Nunn": {
@@ -1349,6 +1382,16 @@
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
+    "Billy Bush": {
+        "movies": [
+            "Big Hero 6 (2014)"
+        ]
+    },
+    "Billy Connolly": {
+        "movies": [
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Billy Crudup": {
@@ -1436,6 +1479,11 @@
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Booboo Stewart": {
+        "movies": [
+            "X-Men: Days of Future Past (2014)"
+        ]
+    },
     "Boris Kodjoe": {
         "movies": [
             "Surrogates (2009)"
@@ -1513,6 +1561,7 @@
         ],
         "movies": [
             "Valentine's Day (2010)",
+            "Guardians of the Galaxy (2014)",
             "10 Cloverfield Lane (2016)",
             "Avengers: Infinity War (2018)"
         ]
@@ -1599,7 +1648,8 @@
     "Brian Cox": {
         "movies": [
             "X2 (2003)",
-            "Red (2010)"
+            "Red (2010)",
+            "Red 2 (2013)"
         ]
     },
     "Brian Posehn": {
@@ -1714,7 +1764,9 @@
             "Unbreakable (2000)",
             "Sin City (2005)",
             "Surrogates (2009)",
-            "Red (2010)"
+            "Red (2010)",
+            "Red 2 (2013)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Bryan Cranston": {
@@ -1732,7 +1784,8 @@
     },
     "Bryan Singer": {
         "movies": [
-            "Star Trek: Nemesis (2002)"
+            "Star Trek: Nemesis (2002)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Bryce Dallas Howard": {
@@ -1790,6 +1843,11 @@
             "Catwoman (2004)"
         ]
     },
+    "Byung-hun Lee": {
+        "movies": [
+            "Red 2 (2013)"
+        ]
+    },
     "B\u00e9r\u00e9nice Bejo": {
         "suppNoms": [
             {
@@ -1829,7 +1887,8 @@
     },
     "Campbell Scott": {
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Carey Mulligan": {
@@ -1963,7 +2022,9 @@
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Catherine Deneuve": {
@@ -2000,7 +2061,8 @@
         ],
         "movies": [
             "The Mask of Zorro (1998)",
-            "The Legend of Zorro (2005)"
+            "The Legend of Zorro (2005)",
+            "Red 2 (2013)"
         ]
     },
     "Cayden Boyd": {
@@ -2135,7 +2197,8 @@
     },
     "Chlo\u00eb Grace Moretz": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Chlo\u00eb Sevigny": {
@@ -2158,6 +2221,9 @@
                 "movie": "Adaptation",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Chris Evans": {
@@ -2169,6 +2235,8 @@
             "Scott Pilgrim vs. the World (2010)",
             "Captain America: The First Avenger (2011)",
             "The Avengers (2012)",
+            "Thor: The Dark World (2013)",
+            "Captain America: The Winter Soldier (2014)",
             "Ant-Man (2015)",
             "Avengers: Infinity War (2018)"
         ]
@@ -2178,6 +2246,7 @@
             "Star Trek (2009)",
             "Thor (2011)",
             "The Avengers (2012)",
+            "Thor: The Dark World (2013)",
             "Avengers: Infinity War (2018)",
             "Men in Black: International (2019)"
         ]
@@ -2191,6 +2260,11 @@
         "movies": [
             "Batman Forever (1995)",
             "Batman & Robin (1997)"
+        ]
+    },
+    "Chris O'Dowd": {
+        "movies": [
+            "Thor: The Dark World (2013)"
         ]
     },
     "Chris Parnell": {
@@ -2207,6 +2281,7 @@
     "Chris Pratt": {
         "movies": [
             "Take Me Home Tonight (2011)",
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -2257,6 +2332,11 @@
             "The Green Hornet (2011)"
         ]
     },
+    "Christopher Eccleston": {
+        "movies": [
+            "Thor: The Dark World (2013)"
+        ]
+    },
     "Christopher Guard": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -2274,22 +2354,26 @@
             "The Lord of the Rings: The Two Towers (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Clone Wars (2008)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Christopher Lloyd": {
         "movies": [
-            "Star Trek III: The Search for Spock (1984)"
+            "Star Trek III: The Search for Spock (1984)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Christopher Meloni": {
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Christopher Mintz-Plasse": {
         "movies": [
             "Kick-Ass (2010)",
+            "Kick-Ass 2 (2013)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -2381,7 +2465,8 @@
     },
     "Clark Duke": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Clark Gregg": {
@@ -2458,6 +2543,7 @@
     "Cobie Smulders": {
         "movies": [
             "The Avengers (2012)",
+            "Captain America: The Winter Soldier (2014)",
             "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
@@ -2491,7 +2577,8 @@
     },
     "Colm Feore": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Columbus Short": {
@@ -2597,6 +2684,11 @@
             "Thor (2011)"
         ]
     },
+    "Damon Wayans Jr.": {
+        "movies": [
+            "Big Hero 6 (2014)"
+        ]
+    },
     "Dan Aykroyd": {
         "suppNoms": [
             {
@@ -2629,6 +2721,11 @@
     "Dane Cook": {
         "movies": [
             "Mystery Men (1999)"
+        ]
+    },
+    "Dane DeHaan": {
+        "movies": [
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Dania Ramirez": {
@@ -2680,7 +2777,8 @@
     },
     "Daniel Henney": {
         "movies": [
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "Big Hero 6 (2014)"
         ]
     },
     "Daniel Kaluuya": {
@@ -2695,6 +2793,9 @@
                 "movie": "Judas and the Black Messiah",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Daniel Logan": {
@@ -2755,6 +2856,11 @@
             "Hot Rod (2007)"
         ]
     },
+    "Danny Pudi": {
+        "movies": [
+            "Captain America: The Winter Soldier (2014)"
+        ]
+    },
     "Daphne Zuniga": {
         "movies": [
             "Spaceballs (1987)"
@@ -2767,6 +2873,7 @@
     },
     "Dave Bautista": {
         "movies": [
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -2892,7 +2999,8 @@
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Red 2 (2013)"
         ]
     },
     "David Walliams": {
@@ -2912,6 +3020,7 @@
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "300 (2007)",
+            "300: Rise of an Empire (2014)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
@@ -2998,7 +3107,8 @@
     },
     "Denis Leary": {
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Denise Richards": {
@@ -3009,6 +3119,11 @@
     "Dennis Farina": {
         "movies": [
             "Saving Private Ryan (1998)"
+        ]
+    },
+    "Dennis Haysbert": {
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Dennis Hopper": {
@@ -3211,6 +3326,7 @@
         ],
         "movies": [
             "Constantine (2005)",
+            "Guardians of the Galaxy (2014)",
             "Shazam! (2019)",
             "A Quiet Place Part II (2021)"
         ]
@@ -3295,6 +3411,11 @@
         "movies": [
             "Blade (1998)",
             "Ghost Rider (2007)"
+        ]
+    },
+    "Donald Faison": {
+        "movies": [
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Donna Dixon": {
@@ -3576,6 +3697,7 @@
     },
     "Elizabeth Olsen": {
         "movies": [
+            "Captain America: The Winter Soldier (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -3659,7 +3781,8 @@
             }
         ],
         "movies": [
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Elliott Gould": {
@@ -3677,7 +3800,8 @@
     },
     "Embeth Davidtz": {
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Emerald Fennell": {
@@ -3694,6 +3818,11 @@
         "movies": [
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Emily VanCamp": {
+        "movies": [
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Emily Watson": {
@@ -3731,7 +3860,8 @@
             }
         ],
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Emma Thompson": {
@@ -3865,6 +3995,12 @@
             "Armed and Dangerous (1986)"
         ]
     },
+    "Eva Green": {
+        "movies": [
+            "300: Rise of an Empire (2014)",
+            "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
     "Eva Marie Saint": {
         "movies": [
             "Superman Returns (2006)"
@@ -3877,9 +4013,15 @@
             "The Spirit (2008)"
         ]
     },
+    "Evan Jonigkeit": {
+        "movies": [
+            "X-Men: Days of Future Past (2014)"
+        ]
+    },
     "Evan Peters": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Evan Rachel Wood": {
@@ -3889,6 +4031,8 @@
     },
     "Evangeline Lilly": {
         "movies": [
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)",
             "Ant-Man (2015)"
         ]
     },
@@ -3926,7 +4070,13 @@
         "movies": [
             "X-Men (2000)",
             "X2 (2003)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: Days of Future Past (2014)"
+        ]
+    },
+    "Fan Bingbing": {
+        "movies": [
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Faye Dunaway": {
@@ -3950,6 +4100,7 @@
             }
         ],
         "movies": [
+            "The Amazing Spider-Man 2 (2014)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -4038,6 +4189,11 @@
             "Batman (1966)"
         ]
     },
+    "Frank Grillo": {
+        "movies": [
+            "Captain America: The Winter Soldier (2014)"
+        ]
+    },
     "Frank Langella": {
         "leadNoms": [
             {
@@ -4053,7 +4209,8 @@
         "movies": [
             "Daredevil (2003)",
             "Sin City (2005)",
-            "The Spirit (2008)"
+            "The Spirit (2008)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Frank Oz": {
@@ -4127,7 +4284,8 @@
     },
     "Garry Shandling": {
         "movies": [
-            "Iron Man 2 (2010)"
+            "Iron Man 2 (2010)",
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Gary Anthony Williams": {
@@ -4201,7 +4359,8 @@
             }
         ],
         "movies": [
-            "Forrest Gump (1994)"
+            "Forrest Gump (1994)",
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Gates McFadden": {
@@ -4283,6 +4442,11 @@
                 "movie": "The Producers",
                 "year": "1968"
             }
+        ]
+    },
+    "Genesis Rodriguez": {
+        "movies": [
+            "Big Hero 6 (2014)"
         ]
     },
     "Geoffrey Rush": {
@@ -4378,6 +4542,11 @@
             "Spaceballs (1987)"
         ]
     },
+    "Georges St-Pierre": {
+        "movies": [
+            "Captain America: The Winter Soldier (2014)"
+        ]
+    },
     "Georgie Henley": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
@@ -4387,7 +4556,8 @@
     },
     "Gerard Butler": {
         "movies": [
-            "300 (2007)"
+            "300 (2007)",
+            "300: Rise of an Empire (2014)"
         ]
     },
     "Giovanni Ribisi": {
@@ -4456,6 +4626,9 @@
                 "movie": "Hillbilly Elegy",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "Glenn Ford": {
@@ -4500,7 +4673,9 @@
     },
     "Graham McTavish": {
         "movies": [
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Greg Grunberg": {
@@ -4587,7 +4762,8 @@
             "X-Men (2000)",
             "X2 (2003)",
             "Catwoman (2004)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Hank Azaria": {
@@ -4681,6 +4857,7 @@
     "Hayley Atwell": {
         "movies": [
             "Captain America: The First Avenger (2011)",
+            "Captain America: The Winter Soldier (2014)",
             "Ant-Man (2015)"
         ]
     },
@@ -4762,7 +4939,8 @@
             }
         ],
         "movies": [
-            "Red (2010)"
+            "Red (2010)",
+            "Red 2 (2013)"
         ]
     },
     "Helen Slater": {
@@ -4871,7 +5049,8 @@
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "X-Men Origins: Wolverine (2009)",
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Hugo Weaving": {
@@ -4881,12 +5060,18 @@
             "The Lord of the Rings: The Return of the King (2003)",
             "V for Vendetta (2006)",
             "Captain America: The First Avenger (2011)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "H\u00e9ctor Elizondo": {
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "Iain Glen": {
+        "movies": [
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Ian Abercrombie": {
@@ -4914,7 +5099,8 @@
             "From Hell (2001)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Ian McDiarmid": {
@@ -4945,7 +5131,10 @@
             "X2 (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
             "X-Men: The Last Stand (2006)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "X-Men: Days of Future Past (2014)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Ian McShane": {
@@ -4968,6 +5157,7 @@
             "The Losers (2010)",
             "Thor (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
+            "Thor: The Dark World (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -5231,6 +5421,11 @@
             "How Do You Know (2010)"
         ]
     },
+    "Jack O'Connell": {
+        "movies": [
+            "300: Rise of an Empire (2014)"
+        ]
+    },
     "Jack Palance": {
         "suppNoms": [
             {
@@ -5298,11 +5493,17 @@
             "Girls Trip (2017)"
         ]
     },
+    "Jai Courtney": {
+        "movies": [
+            "I, Frankenstein (2014)"
+        ]
+    },
     "Jaime King": {
         "movies": [
             "Bulletproof Monk (2003)",
             "Sin City (2005)",
-            "The Spirit (2008)"
+            "The Spirit (2008)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Jaime Pressly": {
@@ -5312,7 +5513,8 @@
     },
     "Jaimie Alexander": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Jake Gyllenhaal": {
@@ -5368,7 +5570,8 @@
         "movies": [
             "Star Trek: First Contact (1996)",
             "Spider-Man 3 (2007)",
-            "Surrogates (2009)"
+            "Surrogates (2009)",
+            "Big Hero 6 (2014)"
         ]
     },
     "James Dean": {
@@ -5425,6 +5628,11 @@
             "The Green Hornet (2011)"
         ]
     },
+    "James Gunn": {
+        "movies": [
+            "Guardians of the Galaxy (2014)"
+        ]
+    },
     "James Hong": {
         "movies": [
             "Kung Fu Panda (2008)",
@@ -5437,7 +5645,8 @@
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "Superman Returns (2006)",
-            "2 Guns (2013)"
+            "2 Guns (2013)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "James McAvoy": {
@@ -5445,6 +5654,7 @@
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "Wanted (2008)",
             "X-Men: First Class (2011)",
+            "X-Men: Days of Future Past (2014)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -5525,6 +5735,12 @@
             "The Adventures of Tintin (2011)"
         ]
     },
+    "Jamie Chung": {
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)",
+            "Big Hero 6 (2014)"
+        ]
+    },
     "Jamie Foxx": {
         "leadNoms": [
             {
@@ -5539,7 +5755,8 @@
             }
         ],
         "movies": [
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Jamie Kennedy": {
@@ -5903,7 +6120,8 @@
             }
         ],
         "movies": [
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Jennifer Love Hewitt": {
@@ -5942,6 +6160,11 @@
                 "movie": "Reversal of Fortune",
                 "year": "1990"
             }
+        ]
+    },
+    "Jeremy Piven": {
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Jeremy Renner": {
@@ -5999,7 +6222,8 @@
             "Fantastic Four (2005)",
             "Knocked Up (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Jessica Biel": {
@@ -6100,7 +6324,8 @@
         "movies": [
             "The Mask (1994)",
             "Batman Forever (1995)",
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Jim Carter": {
@@ -6288,6 +6513,11 @@
             }
         ]
     },
+    "Joe Russo": {
+        "movies": [
+            "Captain America: The Winter Soldier (2014)"
+        ]
+    },
     "Joe Spinell": {
         "movies": [
             "Rocky (1976)"
@@ -6331,6 +6561,9 @@
                 "movie": "Chicago",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "John Candy": {
@@ -6433,6 +6666,7 @@
     },
     "John Leguizamo": {
         "movies": [
+            "Kick-Ass 2 (2013)",
             "John Wick (2014)"
         ]
     },
@@ -6465,7 +6699,8 @@
         "movies": [
             "Places in the Heart (1984)",
             "Jonah Hex (2010)",
-            "Red (2010)"
+            "Red (2010)",
+            "Red 2 (2013)"
         ]
     },
     "John Michael Higgins": {
@@ -6701,7 +6936,8 @@
     },
     "Joseph Gordon-Levitt": {
         "movies": [
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Joseph Mazzello": {
@@ -6719,6 +6955,8 @@
         "movies": [
             "Jonah Hex (2010)",
             "Men in Black 3 (2012)",
+            "Guardians of the Galaxy (2014)",
+            "Sin City: A Dame to Kill For (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -6860,6 +7098,11 @@
     "Judy Greer": {
         "movies": [
             "Ant-Man (2015)"
+        ]
+    },
+    "Julia Garner": {
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Julia Jones": {
@@ -7038,7 +7281,8 @@
     },
     "Juno Temple": {
         "movies": [
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Justin Henry": {
@@ -7063,6 +7307,7 @@
     },
     "Karen Gillan": {
         "movies": [
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -7079,7 +7324,8 @@
     },
     "Kat Dennings": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Kate Bosworth": {
@@ -7344,7 +7590,8 @@
     },
     "Kelsey Grammer": {
         "movies": [
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Ken Jeong": {
@@ -7625,6 +7872,9 @@
                 "movie": "A Star Is Born",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Lakeith Stanfield": {
@@ -7699,7 +7949,8 @@
     },
     "Laura Haddock": {
         "movies": [
-            "Captain America: The First Avenger (2011)"
+            "Captain America: The First Avenger (2011)",
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "Laura Harring": {
@@ -7801,6 +8052,13 @@
             "Batman (1966)"
         ]
     },
+    "Lee Pace": {
+        "movies": [
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "Guardians of the Galaxy (2014)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
+        ]
+    },
     "Leland Orser": {
         "movies": [
             "Saving Private Ryan (1998)"
@@ -7809,7 +8067,8 @@
     "Lena Headey": {
         "movies": [
             "300 (2007)",
-            "Dredd (2012)"
+            "Dredd (2012)",
+            "300: Rise of an Empire (2014)"
         ]
     },
     "Lena Olin": {
@@ -8061,7 +8320,8 @@
     },
     "Lucas Till": {
         "movies": [
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Lucy Lawless": {
@@ -8082,6 +8342,12 @@
     "Ludi Lin": {
         "movies": [
             "Power Rangers (2017)"
+        ]
+    },
+    "Luke Evans": {
+        "movies": [
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Luke Goss": {
@@ -8110,7 +8376,8 @@
     },
     "Lyndsy Fonseca": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Lynn Collins": {
@@ -8585,7 +8852,9 @@
     "Martin Freeman": {
         "movies": [
             "Love Actually (2003)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Martin Landau": {
@@ -8671,7 +8940,8 @@
     "Mary-Louise Parker": {
         "movies": [
             "Red (2010)",
-            "R.I.P.D. (2013)"
+            "R.I.P.D. (2013)",
+            "Red 2 (2013)"
         ]
     },
     "Massimo Troisi": {
@@ -8787,7 +9057,8 @@
     },
     "Max Charles": {
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Max Greenfield": {
@@ -8816,6 +9087,7 @@
     },
     "Maya Rudolph": {
         "movies": [
+            "Big Hero 6 (2014)",
             "Strange Magic (2015)"
         ]
     },
@@ -9149,7 +9421,8 @@
         "movies": [
             "300 (2007)",
             "Jonah Hex (2010)",
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Michael Gambon": {
@@ -9226,6 +9499,9 @@
                 "movie": "Barton Fink",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Michael Madsen": {
@@ -9249,6 +9525,11 @@
     "Michael Pe\u00f1a": {
         "movies": [
             "Ant-Man (2015)"
+        ]
+    },
+    "Michael Rooker": {
+        "movies": [
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "Michael Scholes": {
@@ -9355,7 +9636,8 @@
         ],
         "movies": [
             "Sin City (2005)",
-            "Iron Man 2 (2010)"
+            "Iron Man 2 (2010)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Mike Colter": {
@@ -9415,7 +9697,8 @@
     "Miranda Otto": {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "I, Frankenstein (2014)"
         ]
     },
     "Miranda Richardson": {
@@ -9506,7 +9789,8 @@
     },
     "Morris Chestnut": {
         "movies": [
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "Kick-Ass 2 (2013)"
         ]
     },
     "Muggsy Bogues": {
@@ -9601,7 +9885,8 @@
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "V for Vendetta (2006)",
-            "Thor (2011)"
+            "Thor (2011)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Natasha Lyonne": {
@@ -9611,7 +9896,8 @@
     },
     "Nathan Fillion": {
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "Nathaniel Parker": {
@@ -9627,7 +9913,8 @@
     "Neal McDonough": {
         "movies": [
             "Star Trek: First Contact (1996)",
-            "Captain America: The First Avenger (2011)"
+            "Captain America: The First Avenger (2011)",
+            "Red 2 (2013)"
         ]
     },
     "Ned Beatty": {
@@ -9669,7 +9956,8 @@
     },
     "Nicholas Hoult": {
         "movies": [
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Nick Cannon": {
@@ -9945,6 +10233,11 @@
             }
         ]
     },
+    "Omar Sy": {
+        "movies": [
+            "X-Men: Days of Future Past (2014)"
+        ]
+    },
     "Omari Hardwick": {
         "movies": [
             "Kick-Ass (2010)"
@@ -9966,6 +10259,8 @@
             "The Lord of the Rings: The Return of the King (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
@@ -10065,7 +10360,8 @@
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "TMNT (2007)",
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Patrick Warburton": {
@@ -10109,7 +10405,8 @@
             }
         ],
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Paul Gleason": {
@@ -10300,6 +10597,7 @@
     "Peter Dinklage": {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)",
+            "X-Men: Days of Future Past (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -10328,7 +10626,8 @@
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)"
         ]
     },
     "Peter Mayhew": {
@@ -10342,6 +10641,11 @@
     "Peter McRobbie": {
         "movies": [
             "Spider-Man 2 (2004)"
+        ]
+    },
+    "Peter Mensah": {
+        "movies": [
+            "300: Rise of an Empire (2014)"
         ]
     },
     "Peter O'Toole": {
@@ -10395,7 +10699,8 @@
     },
     "Peter Serafinowicz": {
         "movies": [
-            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "Peter Spears": {
@@ -10462,7 +10767,8 @@
     "Powers Boothe": {
         "movies": [
             "Sin City (2005)",
-            "The Avengers (2012)"
+            "The Avengers (2012)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Queen Latifah": {
@@ -10602,6 +10908,11 @@
             "Cowboys & Aliens (2011)"
         ]
     },
+    "Ray Liotta": {
+        "movies": [
+            "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
     "Ray Park": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
@@ -10611,7 +10922,8 @@
     "Ray Stevenson": {
         "movies": [
             "Punisher: War Zone (2008)",
-            "Thor (2011)"
+            "Thor (2011)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Ray Winstone": {
@@ -10692,7 +11004,8 @@
     },
     "Rene Russo": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Ren\u00e9e Zellweger": {
@@ -10744,7 +11057,9 @@
     "Richard Armitage": {
         "movies": [
             "Captain America: The First Avenger (2011)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Richard Attenborough": {
@@ -10905,6 +11220,11 @@
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Rob Zombie": {
+        "movies": [
+            "Guardians of the Galaxy (2014)"
+        ]
+    },
     "Robbie Coltrane": {
         "movies": [
             "From Hell (2001)",
@@ -11048,11 +11368,15 @@
                 "movie": "The Sting",
                 "year": "1973"
             }
+        ],
+        "movies": [
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Robert Rodriguez": {
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Robert Vaughn": {
@@ -11115,7 +11439,8 @@
     "Rodrigo Santoro": {
         "movies": [
             "Love Actually (2003)",
-            "300 (2007)"
+            "300 (2007)",
+            "300: Rise of an Empire (2014)"
         ]
     },
     "Roman Griffin Davis": {
@@ -11182,7 +11507,8 @@
             "Men in Black II (2002)",
             "Alexander (2004)",
             "Sin City (2005)",
-            "Rent (2005)"
+            "Rent (2005)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Rose Byrne": {
@@ -11341,6 +11667,11 @@
             "Cruel Intentions (1999)"
         ]
     },
+    "Ryan Potter": {
+        "movies": [
+            "Big Hero 6 (2014)"
+        ]
+    },
     "Ryan Reynolds": {
         "movies": [
             "Blade: Trinity (2004)",
@@ -11382,7 +11713,8 @@
         "movies": [
             "Places in the Heart (1984)",
             "Forrest Gump (1994)",
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Sally Hawkins": {
@@ -11542,6 +11874,7 @@
             "Captain America: The First Avenger (2011)",
             "The Avengers (2012)",
             "RoboCop (2014)",
+            "Captain America: The Winter Soldier (2014)",
             "The Hateful Eight (2015)",
             "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
@@ -11646,6 +11979,7 @@
             "The Spirit (2008)",
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
+            "Captain America: The Winter Soldier (2014)",
             "Avengers: Infinity War (2018)",
             "Jojo Rabbit (2019)"
         ]
@@ -11653,6 +11987,11 @@
     "Scoot McNairy": {
         "movies": [
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Scott Adsit": {
+        "movies": [
+            "Big Hero 6 (2014)"
         ]
     },
     "Sean Astin": {
@@ -11681,6 +12020,7 @@
     },
     "Sean Gunn": {
         "movies": [
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -11727,6 +12067,7 @@
     "Sebastian Stan": {
         "movies": [
             "Captain America: The First Avenger (2011)",
+            "Captain America: The Winter Soldier (2014)",
             "Ant-Man (2015)",
             "Avengers: Infinity War (2018)"
         ]
@@ -11753,6 +12094,11 @@
             "The Chronicles of Narnia: Prince Caspian (2008)"
         ]
     },
+    "Seth Green": {
+        "movies": [
+            "Guardians of the Galaxy (2014)"
+        ]
+    },
     "Seth MacFarlane": {
         "movies": [
             "Hellboy II: The Golden Army (2008)"
@@ -11764,6 +12110,11 @@
             "Horton Hears a Who! (2008)",
             "Kung Fu Panda (2008)",
             "The Green Hornet (2011)"
+        ]
+    },
+    "Shailene Woodley": {
+        "movies": [
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Shane West": {
@@ -11802,7 +12153,8 @@
         "movies": [
             "X-Men (2000)",
             "X2 (2003)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "X-Men: Days of Future Past (2014)"
         ]
     },
     "Shawn Bradley": {
@@ -11984,7 +12336,8 @@
     },
     "Skyler Gisondo": {
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "The Amazing Spider-Man 2 (2014)"
         ]
     },
     "Sofia Boutella": {
@@ -12068,7 +12421,8 @@
     },
     "Stacy Keach": {
         "movies": [
-            "Batman: Mask of the Phantasm (1993)"
+            "Batman: Mask of the Phantasm (1993)",
+            "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Stanley Holloway": {
@@ -12093,12 +12447,18 @@
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Thor (2011)",
-            "The Avengers (2012)"
+            "The Avengers (2012)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Stephen Amell": {
         "movies": [
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Stephen Colbert": {
+        "movies": [
+            "The Hobbit: The Desolation of Smaug (2013)"
         ]
     },
     "Stephen Collins": {
@@ -12118,7 +12478,9 @@
     },
     "Stephen Fry": {
         "movies": [
-            "V for Vendetta (2006)"
+            "V for Vendetta (2006)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Stephen Graham": {
@@ -12231,6 +12593,11 @@
             "R.I.P.D. (2013)"
         ]
     },
+    "Sullivan Stapleton": {
+        "movies": [
+            "300: Rise of an Empire (2014)"
+        ]
+    },
     "Susan Sarandon": {
         "leadNoms": [
             {
@@ -12269,7 +12636,9 @@
     },
     "Sylvester McCoy": {
         "movies": [
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Sylvester Stallone": {
@@ -12296,12 +12665,14 @@
     },
     "T.J. Miller": {
         "movies": [
+            "Big Hero 6 (2014)",
             "Ready Player One (2018)"
         ]
     },
     "Tadanobu Asano": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "Thor: The Dark World (2013)"
         ]
     },
     "Taika Waititi": {
@@ -12419,6 +12790,7 @@
     "Terry Notary": {
         "movies": [
             "The Hobbit: An Unexpected Journey (2012)",
+            "The Hobbit: The Battle of the Five Armies (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -12465,7 +12837,8 @@
     "Thomas Kretschmann": {
         "movies": [
             "Blade II (2002)",
-            "Wanted (2008)"
+            "Wanted (2008)",
+            "Captain America: The Winter Soldier (2014)"
         ]
     },
     "Thomasin McKenzie": {
@@ -12574,6 +12947,11 @@
             "Ant-Man (2015)"
         ]
     },
+    "Titus Welliver": {
+        "movies": [
+            "Red 2 (2013)"
+        ]
+    },
     "Tobey Maguire": {
         "movies": [
             "Spider-Man (2002)",
@@ -12586,6 +12964,7 @@
             "Harry Potter and the Chamber of Secrets (2002)",
             "Captain America: The First Avenger (2011)",
             "The Adventures of Tintin (2011)",
+            "Captain America: The Winter Soldier (2014)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -12688,6 +13067,7 @@
         "movies": [
             "Thor (2011)",
             "The Avengers (2012)",
+            "Thor: The Dark World (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -12902,6 +13282,11 @@
             "Ready Player One (2018)"
         ]
     },
+    "Tyler Bates": {
+        "movies": [
+            "Guardians of the Galaxy (2014)"
+        ]
+    },
     "Tyler Hoechlin": {
         "movies": [
             "Road to Perdition (2002)"
@@ -13048,6 +13433,7 @@
     "Vin Diesel": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)",
             "Bloodshot (2020)"
         ]
@@ -13460,6 +13846,11 @@
             }
         ]
     },
+    "Wyatt Oleff": {
+        "movies": [
+            "Guardians of the Galaxy (2014)"
+        ]
+    },
     "Wyatt Russell": {
         "movies": [
             "Cowboys & Aliens (2011)"
@@ -13489,8 +13880,14 @@
             }
         ]
     },
+    "Yvonne Strahovski": {
+        "movies": [
+            "I, Frankenstein (2014)"
+        ]
+    },
     "Zachary Levi": {
         "movies": [
+            "Thor: The Dark World (2013)",
             "Shazam! (2019)"
         ]
     },
@@ -13521,6 +13918,7 @@
             "Star Trek (2009)",
             "The Losers (2010)",
             "Star Trek Into Darkness (2013)",
+            "Guardians of the Galaxy (2014)",
             "Avengers: Infinity War (2018)"
         ]
     },
