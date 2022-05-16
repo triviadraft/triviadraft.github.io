@@ -84,6 +84,11 @@
             "Saving Private Ryan (1998)"
         ]
     },
+    "Adam Pally": {
+        "movies": [
+            "Iron Man 3 (2013)"
+        ]
+    },
     "Adam Pascal": {
         "movies": [
             "Rent (2005)"
@@ -373,7 +378,8 @@
     },
     "Alice Eve": {
         "movies": [
-            "Men in Black 3 (2012)"
+            "Men in Black 3 (2012)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Alice Krige": {
@@ -464,6 +470,9 @@
                 "movie": "Vice",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Amy Irving": {
@@ -537,6 +546,9 @@
                 "movie": "Tick, Tick... Boom!",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Andrew Lincoln": {
@@ -576,7 +588,9 @@
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "The Adventures of Tintin (2011)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Ang Lee": {
@@ -873,7 +887,8 @@
     },
     "Anton Yelchin": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Antonio Banderas": {
@@ -994,6 +1009,11 @@
             }
         ]
     },
+    "Ayelet Zurer": {
+        "movies": [
+            "Man of Steel (2013)"
+        ]
+    },
     "B. J. Novak": {
         "movies": [
             "Knocked Up (2007)"
@@ -1097,6 +1117,9 @@
                 "movie": "Sexy Beast",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Iron Man 3 (2013)"
         ]
     },
     "Ben Mendelsohn": {
@@ -1130,6 +1153,8 @@
             }
         ],
         "movies": [
+            "The Hobbit: An Unexpected Journey (2012)",
+            "Star Trek Into Darkness (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -1244,6 +1269,11 @@
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
             "Power Rangers (2017)"
+        ]
+    },
+    "Bill Maher": {
+        "movies": [
+            "Iron Man 3 (2013)"
         ]
     },
     "Bill Murray": {
@@ -1670,7 +1700,8 @@
     },
     "Bruce Greenwood": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Bruce McGill": {
@@ -1767,6 +1798,11 @@
             }
         ]
     },
+    "C. Thomas Howell": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
+        ]
+    },
     "Caleb Landry Jones": {
         "movies": [
             "X-Men: First Class (2011)",
@@ -1789,6 +1825,11 @@
             "Vanilla Sky (2001)",
             "The Holiday (2006)",
             "The Green Hornet (2011)"
+        ]
+    },
+    "Campbell Scott": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Carey Mulligan": {
@@ -1814,7 +1855,8 @@
     "Carla Gugino": {
         "movies": [
             "Sin City (2005)",
-            "Watchmen (2009)"
+            "Watchmen (2009)",
+            "Man of Steel (2013)"
         ]
     },
     "Carol Burnett": {
@@ -1838,6 +1880,11 @@
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)"
+        ]
+    },
+    "Cary Elwes": {
+        "movies": [
+            "The Adventures of Tintin (2011)"
         ]
     },
     "Cary Grant": {
@@ -1915,7 +1962,8 @@
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Catherine Deneuve": {
@@ -2119,6 +2167,8 @@
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "The Losers (2010)",
             "Scott Pilgrim vs. the World (2010)",
+            "Captain America: The First Avenger (2011)",
+            "The Avengers (2012)",
             "Ant-Man (2015)",
             "Avengers: Infinity War (2018)"
         ]
@@ -2127,6 +2177,7 @@
         "movies": [
             "Star Trek (2009)",
             "Thor (2011)",
+            "The Avengers (2012)",
             "Avengers: Infinity War (2018)",
             "Men in Black: International (2019)"
         ]
@@ -2149,7 +2200,8 @@
     },
     "Chris Pine": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Chris Pratt": {
@@ -2210,18 +2262,29 @@
             "The Lord of the Rings (1978)"
         ]
     },
+    "Christopher Lambert": {
+        "movies": [
+            "Ghost Rider: Spirit of Vengeance (2012)"
+        ]
+    },
     "Christopher Lee": {
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-            "Star Wars: The Clone Wars (2008)"
+            "Star Wars: The Clone Wars (2008)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Christopher Lloyd": {
         "movies": [
             "Star Trek III: The Search for Spock (1984)"
+        ]
+    },
+    "Christopher Meloni": {
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Christopher Mintz-Plasse": {
@@ -2292,6 +2355,7 @@
         "movies": [
             "Road to Perdition (2002)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Ghost Rider: Spirit of Vengeance (2012)",
             "John Carter (2012)"
         ]
     },
@@ -2324,7 +2388,8 @@
         "movies": [
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
-            "Thor (2011)"
+            "Thor (2011)",
+            "The Avengers (2012)"
         ]
     },
     "Clarke Peters": {
@@ -2392,6 +2457,7 @@
     },
     "Cobie Smulders": {
         "movies": [
+            "The Avengers (2012)",
             "Avengers: Infinity War (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
@@ -2457,6 +2523,11 @@
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
             "Teenage Mutant Ninja Turtles III (1993)"
+        ]
+    },
+    "Corey Hawkins": {
+        "movies": [
+            "Iron Man 3 (2013)"
         ]
     },
     "Corey Stoll": {
@@ -2568,7 +2639,8 @@
     "Daniel Craig": {
         "movies": [
             "Road to Perdition (2002)",
-            "Cowboys & Aliens (2011)"
+            "Cowboys & Aliens (2011)",
+            "The Adventures of Tintin (2011)"
         ]
     },
     "Daniel Dae Kim": {
@@ -2924,6 +2996,11 @@
             "Return of the Jedi (1983)"
         ]
     },
+    "Denis Leary": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
+        ]
+    },
     "Denise Richards": {
         "movies": [
             "Love Actually (2003)"
@@ -2985,6 +3062,11 @@
         ],
         "movies": [
             "2 Guns (2013)"
+        ]
+    },
+    "Derek Luke": {
+        "movies": [
+            "Captain America: The First Avenger (2011)"
         ]
     },
     "Dev Patel": {
@@ -3065,6 +3147,9 @@
                 "movie": "Unfaithful",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Dianne Wiest": {
@@ -3147,6 +3232,11 @@
             "Dredd (2012)"
         ]
     },
+    "Dominic Cooper": {
+        "movies": [
+            "Captain America: The First Avenger (2011)"
+        ]
+    },
     "Dominic Guard": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -3192,6 +3282,7 @@
         ],
         "movies": [
             "Iron Man 2 (2010)",
+            "Iron Man 3 (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -3458,7 +3549,8 @@
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Elisabeth Shue": {
@@ -3583,6 +3675,11 @@
             "Iron Man 2 (2010)"
         ]
     },
+    "Embeth Davidtz": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
+        ]
+    },
     "Emerald Fennell": {
         "movies": [
             "Promising Young Woman (2020)"
@@ -3632,6 +3729,9 @@
                 "movie": "The Favourite",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Emma Thompson": {
@@ -4398,6 +4498,11 @@
             }
         ]
     },
+    "Graham McTavish": {
+        "movies": [
+            "The Hobbit: An Unexpected Journey (2012)"
+        ]
+    },
     "Greg Grunberg": {
         "movies": [
             "Star Trek (2009)"
@@ -4416,6 +4521,7 @@
     },
     "Guy Pearce": {
         "movies": [
+            "Iron Man 3 (2013)",
             "Bloodshot (2020)"
         ]
     },
@@ -4430,6 +4536,8 @@
             "Shakespeare in Love (1998)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
+            "The Avengers (2012)",
+            "Iron Man 3 (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -4519,9 +4627,19 @@
             "Cowboys & Aliens (2011)"
         ]
     },
+    "Harry Dean Stanton": {
+        "movies": [
+            "The Avengers (2012)"
+        ]
+    },
     "Harry Gregson-Williams": {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)"
+        ]
+    },
+    "Harry Lennix": {
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Harry Melling": {
@@ -4562,6 +4680,7 @@
     },
     "Hayley Atwell": {
         "movies": [
+            "Captain America: The First Avenger (2011)",
             "Ant-Man (2015)"
         ]
     },
@@ -4585,6 +4704,11 @@
     "Heather Graham": {
         "movies": [
             "From Hell (2001)"
+        ]
+    },
+    "Heather Langenkamp": {
+        "movies": [
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Heather Locklear": {
@@ -4664,6 +4788,11 @@
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Henry Cavill": {
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Henry Czerny": {
@@ -4750,7 +4879,9 @@
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "V for Vendetta (2006)"
+            "V for Vendetta (2006)",
+            "Captain America: The First Avenger (2011)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "H\u00e9ctor Elizondo": {
@@ -4782,7 +4913,8 @@
         "movies": [
             "From Hell (2001)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Ian McDiarmid": {
@@ -4812,7 +4944,8 @@
             "The Lord of the Rings: The Two Towers (2002)",
             "X2 (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Ian McShane": {
@@ -4834,6 +4967,7 @@
         "movies": [
             "The Losers (2010)",
             "Thor (2011)",
+            "Ghost Rider: Spirit of Vengeance (2012)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -4913,6 +5047,11 @@
     "Irma P. Hall": {
         "movies": [
             "Steel (1997)"
+        ]
+    },
+    "Irrfan Khan": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Isabelle Adjani": {
@@ -5198,6 +5337,11 @@
             "Star Wars: The Clone Wars (2008)"
         ]
     },
+    "James Badge Dale": {
+        "movies": [
+            "Iron Man 3 (2013)"
+        ]
+    },
     "James Caan": {
         "suppNoms": [
             {
@@ -5374,6 +5518,11 @@
                 "movie": "Ghosts of Mississippi",
                 "year": "1996"
             }
+        ]
+    },
+    "Jamie Bell": {
+        "movies": [
+            "The Adventures of Tintin (2011)"
         ]
     },
     "Jamie Foxx": {
@@ -5679,6 +5828,11 @@
             "Mystery Men (1999)"
         ]
     },
+    "Jenna Coleman": {
+        "movies": [
+            "Captain America: The First Avenger (2011)"
+        ]
+    },
     "Jennifer Connelly": {
         "suppNoms": [
             {
@@ -5804,7 +5958,8 @@
             }
         ],
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "The Avengers (2012)"
         ]
     },
     "Jeremy Theobald": {
@@ -6031,7 +6186,8 @@
     },
     "Joan Rivers": {
         "movies": [
-            "Spaceballs (1987)"
+            "Spaceballs (1987)",
+            "Iron Man 3 (2013)"
         ]
     },
     "Joanna Page": {
@@ -6192,7 +6348,8 @@
     },
     "John Cho": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "John Cleese": {
@@ -6424,6 +6581,11 @@
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Johnny Whitworth": {
+        "movies": [
+            "Ghost Rider: Spirit of Vengeance (2012)"
+        ]
+    },
     "Jon Cryer": {
         "movies": [
             "Superman IV: The Quest for Peace (1987)"
@@ -6437,6 +6599,7 @@
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
             "John Carter (2012)",
+            "Iron Man 3 (2013)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -6518,6 +6681,11 @@
     "Jonathan Rhys Meyers": {
         "movies": [
             "Alexander (2004)"
+        ]
+    },
+    "Jorge Lendeborg Jr.": {
+        "movies": [
+            "Spider-Man: Far From Home (2019)"
         ]
     },
     "Jorma Taccone": {
@@ -6905,7 +7073,8 @@
             "Star Trek (2009)",
             "Red (2010)",
             "Priest (2011)",
-            "Dredd (2012)"
+            "Dredd (2012)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Kat Dennings": {
@@ -7261,6 +7430,9 @@
                 "movie": "Dances with Wolves",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Kevin Durand": {
@@ -7525,6 +7697,11 @@
             "Vanilla Sky (2001)"
         ]
     },
+    "Laura Haddock": {
+        "movies": [
+            "Captain America: The First Avenger (2011)"
+        ]
+    },
     "Laura Harring": {
         "movies": [
             "The Punisher (2004)"
@@ -7574,7 +7751,8 @@
         ],
         "movies": [
             "TMNT (2007)",
-            "Fantastic Four: Rise of the Silver Surfer (2007)"
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Man of Steel (2013)"
         ]
     },
     "Laurence Luckinbill": {
@@ -7663,7 +7841,8 @@
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)",
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Leonardo DiCaprio": {
@@ -8277,6 +8456,8 @@
             }
         ],
         "movies": [
+            "The Avengers (2012)",
+            "Iron Man 3 (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -8403,7 +8584,8 @@
     },
     "Martin Freeman": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Martin Landau": {
@@ -8420,6 +8602,11 @@
                 "movie": "Ed Wood",
                 "year": "1994"
             }
+        ]
+    },
+    "Martin Sheen": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Martin Short": {
@@ -8596,6 +8783,11 @@
     "Maude Apatow": {
         "movies": [
             "Knocked Up (2007)"
+        ]
+    },
+    "Max Charles": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Max Greenfield": {
@@ -9024,7 +9216,8 @@
     },
     "Michael Kelly": {
         "movies": [
-            "Unbreakable (2000)"
+            "Unbreakable (2000)",
+            "Man of Steel (2013)"
         ]
     },
     "Michael Lerner": {
@@ -9076,7 +9269,8 @@
         ],
         "movies": [
             "Vanilla Sky (2001)",
-            "Jonah Hex (2010)"
+            "Jonah Hex (2010)",
+            "Man of Steel (2013)"
         ]
     },
     "Michael Stuhlbarg": {
@@ -9380,6 +9574,11 @@
             "Ready or Not (2019)"
         ]
     },
+    "Natalie Dormer": {
+        "movies": [
+            "Captain America: The First Avenger (2011)"
+        ]
+    },
     "Natalie Portman": {
         "leadNoms": [
             {
@@ -9427,7 +9626,8 @@
     },
     "Neal McDonough": {
         "movies": [
-            "Star Trek: First Contact (1996)"
+            "Star Trek: First Contact (1996)",
+            "Captain America: The First Avenger (2011)"
         ]
     },
     "Ned Beatty": {
@@ -9477,6 +9677,11 @@
             "Men in Black II (2002)"
         ]
     },
+    "Nick Frost": {
+        "movies": [
+            "The Adventures of Tintin (2011)"
+        ]
+    },
     "Nick Nolte": {
         "leadNoms": [
             {
@@ -9521,7 +9726,8 @@
         ],
         "movies": [
             "Ghost Rider (2007)",
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "Ghost Rider: Spirit of Vengeance (2012)"
         ]
     },
     "Nicole Kidman": {
@@ -9601,7 +9807,8 @@
     },
     "Nolan North": {
         "movies": [
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Nonso Anozie": {
@@ -9884,6 +10091,8 @@
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
             "Priest (2011)",
+            "The Avengers (2012)",
+            "Iron Man 3 (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -10118,7 +10327,8 @@
     "Peter Jackson": {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Peter Mayhew": {
@@ -10199,6 +10409,11 @@
             "Strange Magic (2015)"
         ]
     },
+    "Peter Weller": {
+        "movies": [
+            "Star Trek Into Darkness (2013)"
+        ]
+    },
     "Phil Brown": {
         "movies": [
             "Star Wars (1977)"
@@ -10246,7 +10461,8 @@
     },
     "Powers Boothe": {
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "The Avengers (2012)"
         ]
     },
     "Queen Latifah": {
@@ -10414,6 +10630,11 @@
             "Men in Black: International (2019)"
         ]
     },
+    "Rebecca Hall": {
+        "movies": [
+            "Iron Man 3 (2013)"
+        ]
+    },
     "Rebecca Romijn": {
         "movies": [
             "X-Men (2000)",
@@ -10506,7 +10727,8 @@
     },
     "Rhys Ifans": {
         "movies": [
-            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Rian Johnson": {
@@ -10517,6 +10739,12 @@
     "Ricardo Montalb\u00e1n": {
         "movies": [
             "Star Trek II: The Wrath of Khan (1982)"
+        ]
+    },
+    "Richard Armitage": {
+        "movies": [
+            "Captain America: The First Avenger (2011)",
+            "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
     "Richard Attenborough": {
@@ -10751,6 +10979,8 @@
             "Iron Man (2008)",
             "The Incredible Hulk (2008)",
             "Iron Man 2 (2010)",
+            "The Avengers (2012)",
+            "Iron Man 3 (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -11064,6 +11294,9 @@
                 "movie": "A Beautiful Mind",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Man of Steel (2013)"
         ]
     },
     "Rutger Hauer": {
@@ -11148,7 +11381,8 @@
         ],
         "movies": [
             "Places in the Heart (1984)",
-            "Forrest Gump (1994)"
+            "Forrest Gump (1994)",
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Sally Hawkins": {
@@ -11305,6 +11539,8 @@
             "The Spirit (2008)",
             "Iron Man 2 (2010)",
             "Thor (2011)",
+            "Captain America: The First Avenger (2011)",
+            "The Avengers (2012)",
             "RoboCop (2014)",
             "The Hateful Eight (2015)",
             "Avengers: Infinity War (2018)",
@@ -11409,6 +11645,7 @@
             "Ghost World (2001)",
             "The Spirit (2008)",
             "Iron Man 2 (2010)",
+            "The Avengers (2012)",
             "Avengers: Infinity War (2018)",
             "Jojo Rabbit (2019)"
         ]
@@ -11489,6 +11726,7 @@
     },
     "Sebastian Stan": {
         "movies": [
+            "Captain America: The First Avenger (2011)",
             "Ant-Man (2015)",
             "Avengers: Infinity War (2018)"
         ]
@@ -11556,7 +11794,8 @@
     },
     "Shaun Toub": {
         "movies": [
-            "Iron Man (2008)"
+            "Iron Man (2008)",
+            "Iron Man 3 (2013)"
         ]
     },
     "Shawn Ashmore": {
@@ -11688,6 +11927,8 @@
         "movies": [
             "Star Trek (2009)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+            "The Adventures of Tintin (2011)",
+            "Star Trek Into Darkness (2013)",
             "Ready Player One (2018)"
         ]
     },
@@ -11739,6 +11980,11 @@
     "Skeet Ulrich": {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)"
+        ]
+    },
+    "Skyler Gisondo": {
+        "movies": [
+            "The Amazing Spider-Man (2012)"
         ]
     },
     "Sofia Boutella": {
@@ -11838,14 +12084,16 @@
             }
         ],
         "movies": [
-            "Road to Perdition (2002)"
+            "Road to Perdition (2002)",
+            "Captain America: The First Avenger (2011)"
         ]
     },
     "Stellan Skarsg\u00e5rd": {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
-            "Thor (2011)"
+            "Thor (2011)",
+            "The Avengers (2012)"
         ]
     },
     "Stephen Amell": {
@@ -12019,6 +12267,11 @@
             "Cruel Intentions (1999)"
         ]
     },
+    "Sylvester McCoy": {
+        "movies": [
+            "The Hobbit: An Unexpected Journey (2012)"
+        ]
+    },
     "Sylvester Stallone": {
         "leadNoms": [
             {
@@ -12165,6 +12418,7 @@
     },
     "Terry Notary": {
         "movies": [
+            "The Hobbit: An Unexpected Journey (2012)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -12330,6 +12584,8 @@
     "Toby Jones": {
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
+            "Captain America: The First Avenger (2011)",
+            "The Adventures of Tintin (2011)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -12431,6 +12687,7 @@
     "Tom Hiddleston": {
         "movies": [
             "Thor (2011)",
+            "The Avengers (2012)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -12513,6 +12770,7 @@
             "Batman Forever (1995)",
             "Men in Black (1997)",
             "Men in Black II (2002)",
+            "Captain America: The First Avenger (2011)",
             "Men in Black 3 (2012)"
         ]
     },
@@ -12632,6 +12890,11 @@
     "Ty Burrell": {
         "movies": [
             "The Incredible Hulk (2008)"
+        ]
+    },
+    "Ty Simpkins": {
+        "movies": [
+            "Iron Man 3 (2013)"
         ]
     },
     "Tye Sheridan": {
@@ -13114,6 +13377,11 @@
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
         ]
     },
+    "William Sadler": {
+        "movies": [
+            "Iron Man 3 (2013)"
+        ]
+    },
     "William Shatner": {
         "movies": [
             "Star Trek: The Motion Picture (1979)",
@@ -13228,7 +13496,8 @@
     },
     "Zachary Quinto": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Trek Into Darkness (2013)"
         ]
     },
     "Zahn McClarnon": {
@@ -13251,6 +13520,7 @@
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Star Trek (2009)",
             "The Losers (2010)",
+            "Star Trek Into Darkness (2013)",
             "Avengers: Infinity War (2018)"
         ]
     },
