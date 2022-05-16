@@ -65462,6 +65462,7 @@ var movieMap = {
             "Craig T. Nelson",
             "Holly Hunter",
             "Jason Lee",
+            "John Ratzenberger",
             "Lou Romano",
             "Samuel L. Jackson",
             "Sarah Vowell",
@@ -83706,6 +83707,7 @@ var movieMap = {
             "Helena Bonham Carter",
             "Imelda Staunton",
             "James Phelps",
+            "Jamie Campbell Bower",
             "Jason Isaacs",
             "Jim Broadbent",
             "John Hurt",
@@ -96696,6 +96698,17 @@ var movieMap = {
             "Marvel",
             "Samuel L. Jackson",
             "Spy"
+        ],
+        "cast": [
+            "Colin Firth",
+            "Jack Davenport",
+            "Mark Hamill",
+            "Mark Strong",
+            "Michael Caine",
+            "Ralph Ineson",
+            "Samuel L. Jackson",
+            "Sofia Boutella",
+            "Taron Egerton"
         ]
     },
     "What We Do in the Shadows (2015)": {
@@ -97236,6 +97249,31 @@ var movieMap = {
             "Robert Downey Jr.",
             "Samuel L. Jackson",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "Andy Serkis",
+            "Anthony Mackie",
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Claudia Kim",
+            "Cobie Smulders",
+            "Don Cheadle",
+            "Elizabeth Olsen",
+            "Hayley Atwell",
+            "Idris Elba",
+            "James Spader",
+            "Jeremy Renner",
+            "Josh Brolin",
+            "Julie Delpy",
+            "Linda Cardellini",
+            "Mark Ruffalo",
+            "Paul Bettany",
+            "Robert Downey Jr.",
+            "Samuel L. Jackson",
+            "Scarlett Johansson",
+            "Stellan Skarsg\u00e5rd",
+            "Thomas Kretschmann"
         ]
     },
     "Hot Pursuit (2015)": {
@@ -97953,6 +97991,15 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "Marvel"
+        ],
+        "cast": [
+            "Jamie Bell",
+            "Kate Mara",
+            "Michael B. Jordan",
+            "Miles Teller",
+            "Reg E. Cathey",
+            "Tim Blake Nelson",
+            "Toby Kebbell"
         ]
     },
     "Ricki and the Flash (2015)": {
@@ -99288,6 +99335,41 @@ var movieMap = {
             "Kevin Smith",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Andy Serkis",
+            "Anthony Daniels",
+            "Billie Lourd",
+            "Carrie Fisher",
+            "Daisy Ridley",
+            "Daniel Craig",
+            "Dave Chapman",
+            "Domhnall Gleeson",
+            "Ewan McGregor",
+            "Greg Grunberg",
+            "Gwendoline Christie",
+            "Hannah John-Kamen",
+            "Harrison Ford",
+            "Iko Uwais",
+            "J. J. Abrams",
+            "Jessica Henwick",
+            "John Boyega",
+            "Joonas Suotamo",
+            "Ken Leung",
+            "Kevin Smith",
+            "Lin-Manuel Miranda",
+            "Lupita Nyong'o",
+            "Maisie Richardson-Sellers",
+            "Mark Hamill",
+            "Max von Sydow",
+            "Michael Giacchino",
+            "Oscar Isaac",
+            "Peter Mayhew",
+            "Simon Pegg",
+            "Thomas Brodie-Sangster",
+            "Warwick Davis",
+            "Yayan Ruhian"
         ]
     },
     "Concussion (2015)": {
@@ -99701,6 +99783,16 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Brianna Hildebrand",
+            "Ed Skrein",
+            "Gina Carano",
+            "Karan Soni",
+            "Leslie Uggams",
+            "Morena Baccarin",
+            "Ryan Reynolds",
+            "T.J. Miller"
         ]
     },
     "How to Be Single (2016)": {
@@ -100098,6 +100190,30 @@ var movieMap = {
             "DC",
             "Matt & Ben",
             "Superman"
+        ],
+        "cast": [
+            "Amy Adams",
+            "Anderson Cooper",
+            "Ben Affleck",
+            "Carla Gugino",
+            "Diane Lane",
+            "Ezra Miller",
+            "Gal Gadot",
+            "Harry Lennix",
+            "Henry Cavill",
+            "Holly Hunter",
+            "Jason Momoa",
+            "Jeffrey Dean Morgan",
+            "Jeremy Irons",
+            "Jesse Eisenberg",
+            "Joe Morton",
+            "Kevin Costner",
+            "Lauren Cohan",
+            "Laurence Fishburne",
+            "Neil deGrasse Tyson",
+            "Patrick Wilson",
+            "Ray Fisher",
+            "Scoot McNairy"
         ]
     },
     "My Big Fat Greek Wedding 2 (2016)": {
@@ -100492,6 +100608,32 @@ var movieMap = {
             "Robert Downey Jr.",
             "Scarlett Johansson",
             "Spider-Man"
+        ],
+        "cast": [
+            "Alfre Woodard",
+            "Anthony Mackie",
+            "Chadwick Boseman",
+            "Chris Evans",
+            "Daniel Br\u00fchl",
+            "Don Cheadle",
+            "Elizabeth Olsen",
+            "Emily VanCamp",
+            "Frank Grillo",
+            "Hope Davis",
+            "Jeremy Renner",
+            "Jim Rash",
+            "Joe Russo",
+            "John Kani",
+            "John Slattery",
+            "Marisa Tomei",
+            "Martin Freeman",
+            "Paul Bettany",
+            "Paul Rudd",
+            "Robert Downey Jr.",
+            "Scarlett Johansson",
+            "Sebastian Stan",
+            "Tom Holland",
+            "William Hurt"
         ]
     },
     "Love & Friendship (2016)": {
@@ -100691,6 +100833,26 @@ var movieMap = {
             "Jennifer Lawrence",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Alexandra Shipp",
+            "Ally Sheedy",
+            "Ben Hardy",
+            "Bryan Singer",
+            "Evan Peters",
+            "Hugh Jackman",
+            "James McAvoy",
+            "Jennifer Lawrence",
+            "Kodi Smit-McPhee",
+            "Lana Condor",
+            "Lucas Till",
+            "Michael Fassbender",
+            "Nicholas Hoult",
+            "Olivia Munn",
+            "Oscar Isaac",
+            "Rose Byrne",
+            "Sophie Turner",
+            "Tye Sheridan"
         ]
     },
     "Me Before You (2016)": {
@@ -101290,6 +101452,22 @@ var movieMap = {
             "Cornetto Trio",
             "Fantasy/Sci-Fi",
             "Star Trek"
+        ],
+        "cast": [
+            "Anton Yelchin",
+            "Chris Pine",
+            "Danny Pudi",
+            "Greg Grunberg",
+            "Idris Elba",
+            "Joe Taslim",
+            "John Cho",
+            "Karl Urban",
+            "Shea Whigham",
+            "Shohreh Aghdashloo",
+            "Simon Pegg",
+            "Sofia Boutella",
+            "Zachary Quinto",
+            "Zoe Saldana"
         ]
     },
     "Train to Busan (2016)": {
@@ -101423,6 +101601,26 @@ var movieMap = {
             "Eastwoods",
             "Margot Robbie",
             "Matt & Ben",
+            "Viola Davis",
+            "Will Smith"
+        ],
+        "cast": [
+            "Adam Beach",
+            "Adewale Akinnuoye-Agbaje",
+            "Ben Affleck",
+            "Cara Delevingne",
+            "Common",
+            "David Ayer",
+            "David Harbour",
+            "Ezra Miller",
+            "Ike Barinholtz",
+            "Jai Courtney",
+            "Jared Leto",
+            "Jay Hernandez",
+            "Joel Kinnaman",
+            "Karen Fukuhara",
+            "Margot Robbie",
+            "Scott Eastwood",
             "Viola Davis",
             "Will Smith"
         ]
@@ -102172,6 +102370,18 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "Marvel"
+        ],
+        "cast": [
+            "Benedict Cumberbatch",
+            "Benedict Wong",
+            "Benjamin Bratt",
+            "Chiwetel Ejiofor",
+            "Chris Hemsworth",
+            "Mads Mikkelsen",
+            "Michael Stuhlbarg",
+            "Rachel McAdams",
+            "Scott Adkins",
+            "Tilda Swinton"
         ]
     },
     "Hacksaw Ridge (2016)": {
@@ -102318,6 +102528,20 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alison Sudol",
+            "Carmen Ejogo",
+            "Colin Farrell",
+            "Dan Fogler",
+            "Eddie Redmayne",
+            "Ezra Miller",
+            "Gemma Chan",
+            "Johnny Depp",
+            "Jon Voight",
+            "Katherine Waterston",
+            "Ron Perlman",
+            "Samantha Morton"
         ]
     },
     "Manchester by the Sea (2016)": {
@@ -102992,6 +103216,14 @@ var movieMap = {
             "IG Mixed Bag",
             "M. Night Shyamalan",
             "Thriller"
+        ],
+        "cast": [
+            "Anya Taylor-Joy",
+            "Betty Buckley",
+            "Bruce Willis",
+            "Haley Lu Richardson",
+            "James McAvoy",
+            "M. Night Shyamalan"
         ]
     },
     "XXX: Return of Xander Cage (2017)": {
@@ -103186,6 +103418,31 @@ var movieMap = {
             "Comic Book",
             "DC",
             "IG Animated"
+        ],
+        "cast": [
+            "Adam DeVine",
+            "Billy Dee Williams",
+            "Channing Tatum",
+            "Chris McKay",
+            "Conan O'Brien",
+            "Doug Benson",
+            "Eddie Izzard",
+            "Ellie Kemper",
+            "H\u00e9ctor Elizondo",
+            "Jason Mantzoukas",
+            "Jemaine Clement",
+            "Jenny Slate",
+            "Jonah Hill",
+            "Kate Micucci",
+            "Mariah Carey",
+            "Michael Cera",
+            "Ralph Fiennes",
+            "Riki Lindhome",
+            "Rosario Dawson",
+            "Seth Green",
+            "Will Arnett",
+            "Zach Galifianakis",
+            "Zo\u00eb Kravitz"
         ]
     },
     "Girlfriend's Day (2017)": {
@@ -103358,6 +103615,14 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Boyd Holbrook",
+            "Dafne Keen",
+            "Hugh Jackman",
+            "Patrick Stewart",
+            "Richard E. Grant",
+            "Stephen Merchant"
         ]
     },
     "The Shack (2017)": {
@@ -103931,6 +104196,32 @@ var movieMap = {
             "Marvel",
             "Musicians in Film",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Bradley Cooper",
+            "Chris Pratt",
+            "Chris Sullivan",
+            "Dave Bautista",
+            "David Hasselhoff",
+            "Elizabeth Debicki",
+            "Jeff Goldblum",
+            "Karen Gillan",
+            "Kurt Russell",
+            "Laura Haddock",
+            "Michael Rooker",
+            "Michael Rosenbaum",
+            "Michelle Yeoh",
+            "Miley Cyrus",
+            "Pom Klementieff",
+            "Rob Zombie",
+            "Sean Gunn",
+            "Seth Green",
+            "Steve Agee",
+            "Sylvester Stallone",
+            "Vin Diesel",
+            "Ving Rhames",
+            "Wyatt Oleff",
+            "Zoe Saldana"
         ]
     },
     "Handsome (2017)": {
@@ -104183,6 +104474,18 @@ var movieMap = {
             "Action/Adventure",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Chris Pine",
+            "Connie Nielsen",
+            "Danny Huston",
+            "David Thewlis",
+            "Elena Anaya",
+            "Ewen Bremner",
+            "Gal Gadot",
+            "Robin Wright",
+            "Sa\u00efd Taghmaoui",
+            "Zack Snyder"
         ]
     },
     "It Comes at Night (2017)": {
@@ -104552,6 +104855,30 @@ var movieMap = {
             "Michael Keaton",
             "Robert Downey Jr.",
             "Spider-Man"
+        ],
+        "cast": [
+            "Abraham Attah",
+            "Angourie Rice",
+            "Bokeem Woodbine",
+            "Chris Evans",
+            "Donald Glover",
+            "Gwyneth Paltrow",
+            "Hannibal Buress",
+            "Jacob Batalon",
+            "Jennifer Connelly",
+            "Jon Favreau",
+            "Jorge Lendeborg Jr.",
+            "Laura Harrier",
+            "Logan Marshall-Green",
+            "Marisa Tomei",
+            "Martin Starr",
+            "Michael Keaton",
+            "Michael Mando",
+            "Robert Downey Jr.",
+            "Tom Holland",
+            "Tony Revolori",
+            "Tyne Daly",
+            "Zendaya"
         ]
     },
     "To the Bone (2017)": {
@@ -105178,6 +105505,20 @@ var movieMap = {
             "Marvel",
             "Musicians in Film",
             "Spy"
+        ],
+        "cast": [
+            "Bruce Greenwood",
+            "Channing Tatum",
+            "Colin Firth",
+            "Elton John",
+            "Emily Watson",
+            "Halle Berry",
+            "Jeff Bridges",
+            "Julianne Moore",
+            "Mark Strong",
+            "Michael Gambon",
+            "Pedro Pascal",
+            "Taron Egerton"
         ]
     },
     "Loving Vincent (2017)": {
@@ -105902,6 +106243,27 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "Matt & Ben"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Benedict Cumberbatch",
+            "Cate Blanchett",
+            "Chris Hemsworth",
+            "Clancy Brown",
+            "Idris Elba",
+            "Jeff Goldblum",
+            "Karl Urban",
+            "Luke Hemsworth",
+            "Mark Ruffalo",
+            "Matt Damon",
+            "Rachel House",
+            "Ray Stevenson",
+            "Sam Neill",
+            "Tadanobu Asano",
+            "Taika Waititi",
+            "Tessa Thompson",
+            "Tom Hiddleston",
+            "Zachary Levi"
         ]
     },
     "Daddy's Home 2 (2017)": {
@@ -106012,6 +106374,26 @@ var movieMap = {
             "DC",
             "Matt & Ben",
             "Superman"
+        ],
+        "cast": [
+            "Amber Heard",
+            "Amy Adams",
+            "Ben Affleck",
+            "Billy Crudup",
+            "Ciar\u00e1n Hinds",
+            "Connie Nielsen",
+            "David Thewlis",
+            "Diane Lane",
+            "Ezra Miller",
+            "Gal Gadot",
+            "Henry Cavill",
+            "J. K. Simmons",
+            "Jason Momoa",
+            "Jeremy Irons",
+            "Jesse Eisenberg",
+            "Joe Manganiello",
+            "Joe Morton",
+            "Ray Fisher"
         ]
     },
     "Roman J. Israel, Esq. (2017)": {
@@ -106332,6 +106714,32 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Andy Serkis",
+            "Anthony Daniels",
+            "Benicio del Toro",
+            "Billie Lourd",
+            "Carrie Fisher",
+            "Daisy Ridley",
+            "Domhnall Gleeson",
+            "Edgar Wright",
+            "Frank Oz",
+            "Gareth Edwards",
+            "Gwendoline Christie",
+            "Joe Cornish",
+            "John Boyega",
+            "Joonas Suotamo",
+            "Joseph Gordon-Levitt",
+            "Justin Theroux",
+            "Kelly Marie Tran",
+            "Laura Dern",
+            "Lupita Nyong'o",
+            "Mark Hamill",
+            "Oscar Isaac",
+            "Veronica Ng\u00f4",
+            "Warwick Davis"
         ]
     },
     "Jumanji: Welcome to the Jungle (2017)": {
@@ -106865,6 +107273,24 @@ var movieMap = {
             "Black Cinema",
             "Comic Book",
             "Marvel"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Angela Bassett",
+            "Chadwick Boseman",
+            "Danai Gurira",
+            "Daniel Kaluuya",
+            "Denzel Whitaker",
+            "Forest Whitaker",
+            "John Kani",
+            "Letitia Wright",
+            "Lupita Nyong'o",
+            "Martin Freeman",
+            "Michael B. Jordan",
+            "Sebastian Stan",
+            "Sterling K. Brown",
+            "Trevor Noah",
+            "Winston Duke"
         ]
     },
     "Irreplaceable You (2018)": {
@@ -107892,6 +108318,34 @@ var movieMap = {
             "Marvel",
             "Matt & Ben",
             "X-Men"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Alexandra Shipp",
+            "Bill Skarsg\u00e5rd",
+            "Brad Pitt",
+            "Brianna Hildebrand",
+            "David Leitch",
+            "Eddie Marsan",
+            "Evan Peters",
+            "James McAvoy",
+            "Josh Brolin",
+            "Julian Dennison",
+            "Karan Soni",
+            "Kodi Smit-McPhee",
+            "Leslie Uggams",
+            "Lewis Tan",
+            "Matt Damon",
+            "Morena Baccarin",
+            "Nicholas Hoult",
+            "Paul Wernick",
+            "Rhett Reese",
+            "Rob Delaney",
+            "Ryan Reynolds",
+            "T.J. Miller",
+            "Terry Crews",
+            "Tye Sheridan",
+            "Zazie Beetz"
         ]
     },
     "First Reformed (2018)": {
@@ -107975,6 +108429,24 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Lucasfilm",
             "Star Wars"
+        ],
+        "cast": [
+            "Alden Ehrenreich",
+            "Anthony Daniels",
+            "Clint Howard",
+            "Donald Glover",
+            "Emilia Clarke",
+            "Erin Kellyman",
+            "Jon Favreau",
+            "Joonas Suotamo",
+            "Linda Hunt",
+            "Paul Bettany",
+            "Phoebe Waller-Bridge",
+            "Ray Park",
+            "Sam Witwer",
+            "Thandiwe Newton",
+            "Warwick Davis",
+            "Woody Harrelson"
         ]
     },
     "Adrift (2018)": {
@@ -108143,6 +108615,21 @@ var movieMap = {
             "IG Animated",
             "Pixar",
             "Samuel L. Jackson"
+        ],
+        "cast": [
+            "Barry Bostwick",
+            "Bob Odenkirk",
+            "Brad Bird",
+            "Catherine Keener",
+            "Craig T. Nelson",
+            "Holly Hunter",
+            "Isabella Rossellini",
+            "John Ratzenberger",
+            "Jonathan Banks",
+            "Samuel L. Jackson",
+            "Sarah Vowell",
+            "Sophia Bush",
+            "Usher"
         ]
     },
     "Set It Up (2018)": {
@@ -108318,6 +108805,23 @@ var movieMap = {
             "Frat Pack",
             "Marvel",
             "Michelle Pfeiffer"
+        ],
+        "cast": [
+            "Abby Ryder Fortson",
+            "Bobby Cannavale",
+            "David Dastmalchian",
+            "Evangeline Lilly",
+            "Hannah John-Kamen",
+            "Judy Greer",
+            "Langston Fishburne",
+            "Laurence Fishburne",
+            "Michael Douglas",
+            "Michael Pe\u00f1a",
+            "Michelle Pfeiffer",
+            "Paul Rudd",
+            "Randall Park",
+            "Tip \"T.I.\" Harris",
+            "Walton Goggins"
         ]
     },
     "Sorry to Bother You (2018)": {
@@ -108582,6 +109086,25 @@ var movieMap = {
             "IG Animated",
             "Musicians in Film",
             "Nicolas Cage"
+        ],
+        "cast": [
+            "Greg Cipes",
+            "Halsey",
+            "Hynden Walch",
+            "James Arnold Taylor",
+            "Jimmy Kimmel",
+            "Khary Payton",
+            "Kristen Bell",
+            "Lil Yachty",
+            "Meredith Salenger",
+            "Michael Bolton",
+            "Nicolas Cage",
+            "Patton Oswalt",
+            "Scott Menville",
+            "Tara Strong",
+            "Tom Kenny",
+            "Wil Wheaton",
+            "Will Arnett"
         ]
     },
     "Christopher Robin (2018)": {
@@ -109351,6 +109874,15 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Spider-Man"
+        ],
+        "cast": [
+            "Jenny Slate",
+            "Michelle Williams",
+            "Reid Scott",
+            "Riz Ahmed",
+            "Ron Cephas Jones",
+            "Tom Hardy",
+            "Woody Harrelson"
         ]
     },
     "22 July (2018)": {
@@ -109902,6 +110434,21 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Wizarding World"
+        ],
+        "cast": [
+            "Alison Sudol",
+            "Callum Turner",
+            "Carmen Ejogo",
+            "Claudia Kim",
+            "Dan Fogler",
+            "Eddie Redmayne",
+            "Ezra Miller",
+            "Jamie Campbell Bower",
+            "Jessica Williams",
+            "Johnny Depp",
+            "Jude Law",
+            "Katherine Waterston",
+            "Zo\u00eb Kravitz"
         ]
     },
     "Green Book (2018)": {
@@ -110286,6 +110833,25 @@ var movieMap = {
             "Marvel",
             "Nicolas Cage",
             "Spider-Man"
+        ],
+        "cast": [
+            "Brian Tyree Henry",
+            "Chris Pine",
+            "Hailee Steinfeld",
+            "Jake Johnson",
+            "John Mulaney",
+            "Jorma Taccone",
+            "Kathryn Hahn",
+            "Kimiko Glenn",
+            "Lake Bell",
+            "Liev Schreiber",
+            "Lily Tomlin",
+            "Mahershala Ali",
+            "Nicolas Cage",
+            "Oscar Isaac",
+            "Post Malone",
+            "Shameik Moore",
+            "Zo\u00eb Kravitz"
         ]
     },
     "The Mule (2018)": {
@@ -110359,6 +110925,23 @@ var movieMap = {
             "DC",
             "Fantasy/Sci-Fi",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Amber Heard",
+            "Djimon Hounsou",
+            "Dolph Lundgren",
+            "Graham McTavish",
+            "Jason Momoa",
+            "John Rhys-Davies",
+            "Julie Andrews",
+            "Leigh Whannell",
+            "Ludi Lin",
+            "Nicole Kidman",
+            "Patrick Wilson",
+            "Randall Park",
+            "Temuera Morrison",
+            "Willem Dafoe",
+            "Yahya Abdul-Mateen II"
         ]
     },
     "Bumblebee (2018)": {
@@ -110664,6 +111247,17 @@ var movieMap = {
             "M. Night Shyamalan",
             "Samuel L. Jackson",
             "Thriller"
+        ],
+        "cast": [
+            "Anya Taylor-Joy",
+            "Bruce Willis",
+            "Charlayne Woodard",
+            "Diana Silvers",
+            "James McAvoy",
+            "M. Night Shyamalan",
+            "Samuel L. Jackson",
+            "Sarah Paulson",
+            "Spencer Treat Clark"
         ]
     },
     "Io (2019)": {
@@ -110706,6 +111300,15 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "Streaming"
+        ],
+        "cast": [
+            "Johnny Knoxville",
+            "Katheryn Winnick",
+            "Mads Mikkelsen",
+            "Matt Lucas",
+            "Richard Dreyfuss",
+            "Ruby O. Fee",
+            "Vanessa Hudgens"
         ]
     },
     "Serenity (2019)": {
@@ -111066,6 +111669,24 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "Marvel",
+            "Samuel L. Jackson",
+            "Scarlett Johansson"
+        ],
+        "cast": [
+            "Algenis P\u00e9rez Soto",
+            "Annette Bening",
+            "Ben Mendelsohn",
+            "Brie Larson",
+            "Chris Evans",
+            "Clark Gregg",
+            "Djimon Hounsou",
+            "Don Cheadle",
+            "Gemma Chan",
+            "Jude Law",
+            "Lashana Lynch",
+            "Lee Pace",
+            "Mark Ruffalo",
+            "Mckenna Grace",
             "Samuel L. Jackson",
             "Scarlett Johansson"
         ]
@@ -111567,6 +112188,67 @@ var movieMap = {
             "Scarlett Johansson",
             "Spider-Man",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Angela Bassett",
+            "Anthony Mackie",
+            "Benedict Cumberbatch",
+            "Benedict Wong",
+            "Bradley Cooper",
+            "Brie Larson",
+            "Chadwick Boseman",
+            "Chris Evans",
+            "Chris Hemsworth",
+            "Chris Pratt",
+            "Cobie Smulders",
+            "Danai Gurira",
+            "Dave Bautista",
+            "Don Cheadle",
+            "Elizabeth Olsen",
+            "Evangeline Lilly",
+            "Frank Grillo",
+            "Gwyneth Paltrow",
+            "Hayley Atwell",
+            "Hiroyuki Sanada",
+            "Jackson A. Dunn",
+            "Jacob Batalon",
+            "James D'Arcy",
+            "Jeremy Renner",
+            "Joe Russo",
+            "John Slattery",
+            "Jon Favreau",
+            "Josh Brolin",
+            "Karen Gillan",
+            "Ken Jeong",
+            "Letitia Wright",
+            "Linda Cardellini",
+            "Marisa Tomei",
+            "Mark Ruffalo",
+            "Michael Douglas",
+            "Michelle Pfeiffer",
+            "Natalie Portman",
+            "Paul Rudd",
+            "Pom Klementieff",
+            "Rene Russo",
+            "Robert Downey Jr.",
+            "Robert Redford",
+            "Ross Marquand",
+            "Samuel L. Jackson",
+            "Scarlett Johansson",
+            "Sean Gunn",
+            "Sebastian Stan",
+            "Taika Waititi",
+            "Terry Notary",
+            "Tessa Thompson",
+            "Tilda Swinton",
+            "Tom Hiddleston",
+            "Tom Holland",
+            "Ty Simpkins",
+            "Vin Diesel",
+            "William Hurt",
+            "Winston Duke",
+            "Yvette Nicole Brown",
+            "Zoe Saldana"
         ]
     },
     "Extremely Wicked, Shockingly Evil and Vile (2019)": {
@@ -111972,6 +112654,20 @@ var movieMap = {
             "Jennifer Lawrence",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Alexandra Shipp",
+            "Brian d'Arcy James",
+            "Evan Peters",
+            "Halston Sage",
+            "James McAvoy",
+            "Jennifer Lawrence",
+            "Jessica Chastain",
+            "Kodi Smit-McPhee",
+            "Michael Fassbender",
+            "Nicholas Hoult",
+            "Sophie Turner",
+            "Tye Sheridan"
         ]
     },
     "Late Night (2019)": {
@@ -112574,6 +113270,18 @@ var movieMap = {
             "2010s",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Annabella Sciorra",
+            "Bill Camp",
+            "Brian d'Arcy James",
+            "Common",
+            "Domhnall Gleeson",
+            "Elisabeth Moss",
+            "James Badge Dale",
+            "Margo Martindale",
+            "Melissa McCarthy",
+            "Tiffany Haddish"
         ]
     },
     "The Peanut Butter Falcon (2019)": {
@@ -113035,6 +113743,18 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Bill Camp",
+            "Brett Cullen",
+            "Brian Tyree Henry",
+            "Frances Conroy",
+            "Joaquin Phoenix",
+            "Justin Theroux",
+            "Marc Maron",
+            "Robert De Niro",
+            "Shea Whigham",
+            "Zazie Beetz"
         ]
     },
     "Lucy in the Sky (2019)": {
@@ -114232,6 +114952,50 @@ var movieMap = {
             "Lucasfilm",
             "Samuel L. Jackson",
             "Star Wars"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Andy Serkis",
+            "Anthony Daniels",
+            "Ashley Eckstein",
+            "Billie Lourd",
+            "Billy Dee Williams",
+            "Carrie Fisher",
+            "Chris Terrio",
+            "Daisy Ridley",
+            "Denis Lawson",
+            "Domhnall Gleeson",
+            "Dominic Monaghan",
+            "Ed Sheeran",
+            "Ewan McGregor",
+            "Frank Oz",
+            "Freddie Prinze Jr.",
+            "Greg Grunberg",
+            "Harrison Ford",
+            "Hayden Christensen",
+            "Ian McDiarmid",
+            "J. J. Abrams",
+            "James Earl Jones",
+            "Jeff Garlin",
+            "Jodie Comer",
+            "John Boyega",
+            "John Williams",
+            "Joonas Suotamo",
+            "Karl Urban",
+            "Kelly Marie Tran",
+            "Keri Russell",
+            "Kevin Smith",
+            "Liam Neeson",
+            "Lin-Manuel Miranda",
+            "Lupita Nyong'o",
+            "Mark Hamill",
+            "Michael Giacchino",
+            "Naomi Ackie",
+            "Oscar Isaac",
+            "Richard E. Grant",
+            "Samuel L. Jackson",
+            "Shirley Henderson",
+            "Warwick Davis"
         ]
     },
     "Togo (2019)": {
@@ -114610,6 +115374,17 @@ var movieMap = {
             "Comic Book",
             "DC",
             "Margot Robbie"
+        ],
+        "cast": [
+            "Ali Wong",
+            "Chris Messina",
+            "Ella Jay Basco",
+            "Ewan McGregor",
+            "Fran\u00e7ois Chau",
+            "Jurnee Smollett-Bell",
+            "Margot Robbie",
+            "Mary Elizabeth Winstead",
+            "Rosie Perez"
         ]
     },
     "Horse Girl (2020)": {
@@ -115320,6 +116095,12 @@ var movieMap = {
             "2020s",
             "Graphic Novels",
             "Streaming"
+        ],
+        "cast": [
+            "Chris Hemsworth",
+            "David Harbour",
+            "Rudhraksh Jaiswal",
+            "Sam Hargrave"
         ]
     },
     "Valley Girl (2020)": {
@@ -115718,6 +116499,15 @@ var movieMap = {
             "Charlize Theron",
             "Comic Book",
             "Streaming"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "Chiwetel Ejiofor",
+            "Harry Melling",
+            "KiKi Layne",
+            "Marwan Kenzari",
+            "Matthias Schoenaerts",
+            "Veronica Ng\u00f4"
         ]
     },
     "Radioactive (2020)": {
@@ -115883,6 +116673,16 @@ var movieMap = {
             "2020s",
             "IG Mixed Bag",
             "Streaming"
+        ],
+        "cast": [
+            "Amy Landecker",
+            "Casey Neistat",
+            "Colson Baker",
+            "Courtney B. Vance",
+            "Dominique Fishback",
+            "Jamie Foxx",
+            "Joseph Gordon-Levitt",
+            "Rodrigo Santoro"
         ]
     },
     "Chemical Hearts (2020)": {
@@ -116090,6 +116890,16 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Adam Beach",
+            "Alice Braga",
+            "Anya Taylor-Joy",
+            "Blu Hunt",
+            "Charlie Heaton",
+            "Henry Zaga",
+            "Maisie Williams",
+            "Marilyn Manson"
         ]
     },
     "The Personal History of David Copperfield (2020)": {
@@ -117564,6 +118374,16 @@ var movieMap = {
             "Action/Adventure",
             "Comic Book",
             "DC"
+        ],
+        "cast": [
+            "Chris Pine",
+            "Connie Nielsen",
+            "Gal Gadot",
+            "Kristen Wiig",
+            "Lynda Carter",
+            "Natasha Rothwell",
+            "Pedro Pascal",
+            "Robin Wright"
         ]
     },
     "Pieces of a Woman (2020)": {
@@ -118064,6 +118884,32 @@ var movieMap = {
             "Matt & Ben",
             "Streaming",
             "Superman"
+        ],
+        "cast": [
+            "Amber Heard",
+            "Amy Adams",
+            "Ben Affleck",
+            "Billy Crudup",
+            "Carla Gugino",
+            "Ciar\u00e1n Hinds",
+            "Connie Nielsen",
+            "David Thewlis",
+            "Diane Lane",
+            "Ezra Miller",
+            "Gal Gadot",
+            "Harry Lennix",
+            "Henry Cavill",
+            "J. K. Simmons",
+            "Jared Leto",
+            "Jason Momoa",
+            "Jeremy Irons",
+            "Jesse Eisenberg",
+            "Joe Manganiello",
+            "Joe Morton",
+            "Kiersey Clemons",
+            "Ray Fisher",
+            "Robin Wright",
+            "Willem Dafoe"
         ]
     },
     "Bad Trip (2021)": {
@@ -118862,6 +119708,19 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "David Harbour",
+            "Ever Anderson",
+            "Florence Pugh",
+            "Jeremy Renner",
+            "Julia Louis-Dreyfus",
+            "O-T Fagbenle",
+            "Olga Kurylenko",
+            "Rachel Weisz",
+            "Ray Winstone",
+            "Scarlett Johansson",
+            "William Hurt"
         ]
     },
     "Fear Street Part Two: 1978 (2021)": {
@@ -119099,6 +119958,30 @@ var movieMap = {
             "Sly & Arnie",
             "Viola Davis",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Alice Braga",
+            "Daniela Melchior",
+            "David Dastmalchian",
+            "Dee Bradley Baker",
+            "Flula Borg",
+            "Idris Elba",
+            "Jai Courtney",
+            "Jennifer Holland",
+            "Joel Kinnaman",
+            "John Cena",
+            "Margot Robbie",
+            "Michael Rooker",
+            "Nathan Fillion",
+            "Pete Davidson",
+            "Peter Capaldi",
+            "Pom Klementieff",
+            "Sean Gunn",
+            "Steve Agee",
+            "Storm Reid",
+            "Sylvester Stallone",
+            "Taika Waititi",
+            "Viola Davis"
         ]
     },
     "The Kissing Booth 3 (2021)": {
@@ -119306,6 +120189,24 @@ var movieMap = {
             "Comic Book",
             "Martial Arts",
             "Marvel"
+        ],
+        "cast": [
+            "Awkwafina",
+            "Ben Kingsley",
+            "Benedict Wong",
+            "Brie Larson",
+            "Dee Bradley Baker",
+            "Fala Chen",
+            "Florian Munteanu",
+            "Mark Ruffalo",
+            "Meng'er Zhang",
+            "Michelle Yeoh",
+            "Ronny Chieng",
+            "Simu Liu",
+            "Stephanie Hsu",
+            "Tim Roth",
+            "Tony Leung",
+            "Tsai Chin"
         ]
     },
     "Everybody's Talking About Jamie (2021)": {
@@ -119616,6 +120517,16 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Spider-Man"
+        ],
+        "cast": [
+            "J. K. Simmons",
+            "Michelle Williams",
+            "Naomie Harris",
+            "Reid Scott",
+            "Stephen Graham",
+            "Tom Hardy",
+            "Tom Holland",
+            "Woody Harrelson"
         ]
     },
     "No Time to Die (2021)": {
@@ -120447,6 +121358,30 @@ var movieMap = {
             "Comic Book",
             "Marvel",
             "Spider-Man"
+        ],
+        "cast": [
+            "Alfred Molina",
+            "Andrew Garfield",
+            "Angourie Rice",
+            "Benedict Cumberbatch",
+            "Benedict Wong",
+            "Charlie Cox",
+            "Hannibal Buress",
+            "J. B. Smoove",
+            "J. K. Simmons",
+            "Jacob Batalon",
+            "Jamie Foxx",
+            "Jon Favreau",
+            "Marisa Tomei",
+            "Martin Starr",
+            "Rhys Ifans",
+            "Thomas Haden Church",
+            "Tobey Maguire",
+            "Tom Hardy",
+            "Tom Holland",
+            "Tony Revolori",
+            "Willem Dafoe",
+            "Zendaya"
         ]
     },
     "Swan Song (2021)": {
@@ -120517,6 +121452,20 @@ var movieMap = {
             "Marvel",
             "Spy",
             "Stanley Tucci"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "Charles Dance",
+            "Daniel Br\u00fchl",
+            "David Kross",
+            "Djimon Hounsou",
+            "Gemma Arterton",
+            "Harris Dickinson",
+            "Matthew Goode",
+            "Ralph Fiennes",
+            "Rhys Ifans",
+            "Stanley Tucci",
+            "Tom Hollander"
         ]
     },
     "The Matrix Resurrections (2021)": {

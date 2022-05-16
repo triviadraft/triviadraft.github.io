@@ -9,7 +9,9 @@
         "movies": [
             "Kick-Ass (2010)",
             "Kick-Ass 2 (2013)",
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
+            "The King's Man (2021)"
         ]
     },
     "Aasif Mandvi": {
@@ -29,7 +31,8 @@
     },
     "Abby Ryder Fortson": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Abe Vigoda": {
@@ -50,9 +53,16 @@
             "Cowboys & Aliens (2011)"
         ]
     },
+    "Abraham Attah": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)"
+        ]
+    },
     "Adam Beach": {
         "movies": [
-            "Cowboys & Aliens (2011)"
+            "Cowboys & Aliens (2011)",
+            "Suicide Squad (2016)",
+            "The New Mutants (2020)"
         ]
     },
     "Adam Brody": {
@@ -67,6 +77,11 @@
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
+    "Adam DeVine": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
+        ]
+    },
     "Adam Driver": {
         "leadNoms": [
             {
@@ -79,6 +94,11 @@
                 "movie": "BlacKkKlansman",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Adam Goldberg": {
@@ -109,7 +129,8 @@
     },
     "Adewale Akinnuoye-Agbaje": {
         "movies": [
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Suicide Squad (2016)"
         ]
     },
     "Adriana Barraza": {
@@ -288,7 +309,8 @@
         "movies": [
             "Knocked Up (2007)",
             "Big Hero 6 (2014)",
-            "Rogue One: A Star Wars Story (2016)"
+            "Rogue One: A Star Wars Story (2016)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Albert Brooks": {
@@ -326,6 +348,11 @@
                 "movie": "Erin Brockovich",
                 "year": "2000"
             }
+        ]
+    },
+    "Alden Ehrenreich": {
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Alec Baldwin": {
@@ -373,6 +400,13 @@
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Alexandra Shipp": {
+        "movies": [
+            "X-Men: Apocalypse (2016)",
+            "Deadpool 2 (2018)",
+            "Dark Phoenix (2019)"
+        ]
+    },
     "Alexis Bledel": {
         "movies": [
             "Sin City (2005)"
@@ -386,14 +420,32 @@
     },
     "Alfre Woodard": {
         "movies": [
-            "Star Trek: First Contact (1996)"
+            "Star Trek: First Contact (1996)",
+            "Captain America: Civil War (2016)"
         ]
     },
     "Alfred Molina": {
         "movies": [
             "Spider-Man 2 (2004)",
             "Strange Magic (2015)",
-            "Promising Young Woman (2020)"
+            "Promising Young Woman (2020)",
+            "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Algenis P\u00e9rez Soto": {
+        "movies": [
+            "Captain Marvel (2019)"
+        ]
+    },
+    "Ali Wong": {
+        "movies": [
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+        ]
+    },
+    "Alice Braga": {
+        "movies": [
+            "The New Mutants (2020)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Alice Eve": {
@@ -436,6 +488,12 @@
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Alison Sudol": {
+        "movies": [
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
     "Allison Janney": {
         "suppNoms": [
             {
@@ -447,7 +505,8 @@
     "Ally Sheedy": {
         "movies": [
             "WarGames (1983)",
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "X-Men: Apocalypse (2016)"
         ]
     },
     "Amanda Peet": {
@@ -461,6 +520,13 @@
                 "movie": "Mank",
                 "year": "2020"
             }
+        ]
+    },
+    "Amber Heard": {
+        "movies": [
+            "Justice League (2017)",
+            "Aquaman (2018)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Amy Adams": {
@@ -493,12 +559,20 @@
             }
         ],
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Amy Irving": {
         "movies": [
             "Carrie (1976)"
+        ]
+    },
+    "Amy Landecker": {
+        "movies": [
+            "Project Power (2020)"
         ]
     },
     "Amy Madigan": {
@@ -527,6 +601,11 @@
     "Ana de la Reguera": {
         "movies": [
             "Cowboys & Aliens (2011)"
+        ]
+    },
+    "Anderson Cooper": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
     "Andie MacDowell": {
@@ -570,7 +649,8 @@
         ],
         "movies": [
             "The Amazing Spider-Man (2012)",
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Andrew Lincoln": {
@@ -612,7 +692,12 @@
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "The Adventures of Tintin (2011)",
-            "The Hobbit: An Unexpected Journey (2012)"
+            "The Hobbit: An Unexpected Journey (2012)",
+            "Avengers: Age of Ultron (2015)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Black Panther (2018)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Ang Lee": {
@@ -628,7 +713,9 @@
             }
         ],
         "movies": [
-            "Green Lantern (2011)"
+            "Green Lantern (2011)",
+            "Black Panther (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Angela Lansbury": {
@@ -669,7 +756,9 @@
     },
     "Angourie Rice": {
         "movies": [
-            "Spider-Man: Far From Home (2019)"
+            "Spider-Man: Homecoming (2017)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Angus MacInnes": {
@@ -753,6 +842,11 @@
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Annabella Sciorra": {
+        "movies": [
+            "The Kitchen (2019)"
+        ]
+    },
     "Annabelle Wallis": {
         "movies": [
             "X-Men: First Class (2011)"
@@ -822,6 +916,9 @@
                 "movie": "The Grifters",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Captain Marvel (2019)"
         ]
     },
     "Annie Burkin": {
@@ -844,7 +941,11 @@
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Clone Wars (2008)",
-            "Rogue One: A Star Wars Story (2016)"
+            "Star Wars: The Force Awakens (2015)",
+            "Rogue One: A Star Wars Story (2016)",
+            "Star Wars: The Last Jedi (2017)",
+            "Solo: A Star Wars Story (2018)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Anthony Hopkins": {
@@ -881,14 +982,18 @@
             "Alexander (2004)",
             "Thor (2011)",
             "Red 2 (2013)",
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Thor: Ragnarok (2017)"
         ]
     },
     "Anthony Mackie": {
         "movies": [
             "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
             "Ant-Man (2015)",
-            "Avengers: Infinity War (2018)"
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Anthony Michael Hall": {
@@ -914,7 +1019,8 @@
     "Anton Yelchin": {
         "movies": [
             "Star Trek (2009)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Star Trek Beyond (2016)"
         ]
     },
     "Antonio Banderas": {
@@ -931,7 +1037,10 @@
     },
     "Anya Taylor-Joy": {
         "movies": [
-            "The Witch (2016)"
+            "The Witch (2016)",
+            "Split (2017)",
+            "Glass (2019)",
+            "The New Mutants (2020)"
         ]
     },
     "Archie Yates": {
@@ -982,7 +1091,8 @@
     },
     "Ashley Eckstein": {
         "movies": [
-            "Star Wars: The Clone Wars (2008)"
+            "Star Wars: The Clone Wars (2008)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Ashton Kutcher": {
@@ -1035,6 +1145,11 @@
             }
         ]
     },
+    "Awkwafina": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
+        ]
+    },
     "Ayelet Zurer": {
         "movies": [
             "Man of Steel (2013)"
@@ -1084,6 +1199,11 @@
             }
         ]
     },
+    "Barry Bostwick": {
+        "movies": [
+            "Incredibles 2 (2018)"
+        ]
+    },
     "Barry Keoghan": {
         "movies": [
             "Eternals (2021)"
@@ -1108,7 +1228,11 @@
         "movies": [
             "Dazed and Confused (1993)",
             "Shakespeare in Love (1998)",
-            "Daredevil (2003)"
+            "Daredevil (2003)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Suicide Squad (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Ben Barnes": {
@@ -1122,6 +1246,11 @@
             "The Punisher (2004)",
             "X-Men: The Last Stand (2006)",
             "30 Days of Night (2007)"
+        ]
+    },
+    "Ben Hardy": {
+        "movies": [
+            "X-Men: Apocalypse (2016)"
         ]
     },
     "Ben Kingsley": {
@@ -1146,7 +1275,8 @@
             }
         ],
         "movies": [
-            "Iron Man 3 (2013)"
+            "Iron Man 3 (2013)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Ben Mendelsohn": {
@@ -1154,6 +1284,7 @@
             "The Dark Knight Rises (2012)",
             "Rogue One: A Star Wars Story (2016)",
             "Ready Player One (2018)",
+            "Captain Marvel (2019)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -1184,14 +1315,22 @@
             "Star Trek Into Darkness (2013)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
-            "Avengers: Infinity War (2018)"
+            "Doctor Strange (2016)",
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Benedict Wong": {
         "movies": [
             "Moon (2009)",
             "Kick-Ass 2 (2013)",
-            "Avengers: Infinity War (2018)"
+            "Doctor Strange (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Benicio del Toro": {
@@ -1209,12 +1348,14 @@
             "Sin City (2005)",
             "Thor: The Dark World (2013)",
             "Guardians of the Galaxy (2014)",
+            "Star Wars: The Last Jedi (2017)",
             "Avengers: Infinity War (2018)"
         ]
     },
     "Benjamin Bratt": {
         "movies": [
-            "Catwoman (2004)"
+            "Catwoman (2004)",
+            "Doctor Strange (2016)"
         ]
     },
     "Bernard Hill": {
@@ -1279,9 +1420,20 @@
             }
         ]
     },
+    "Betty Buckley": {
+        "movies": [
+            "Split (2017)"
+        ]
+    },
     "Beverly D'Angelo": {
         "movies": [
             "Annie Hall (1977)"
+        ]
+    },
+    "Bill Camp": {
+        "movies": [
+            "The Kitchen (2019)",
+            "Joker (2019)"
         ]
     },
     "Bill Cobbs": {
@@ -1357,7 +1509,15 @@
     "Bill Skarsg\u00e5rd": {
         "movies": [
             "Atomic Blonde (2017)",
+            "Deadpool 2 (2018)",
             "Eternals (2021)"
+        ]
+    },
+    "Billie Lourd": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Billy Bob Thornton": {
@@ -1397,14 +1557,18 @@
     "Billy Crudup": {
         "movies": [
             "Almost Famous (2000)",
-            "Watchmen (2009)"
+            "Watchmen (2009)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Billy Dee Williams": {
         "movies": [
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
-            "Batman (1989)"
+            "Batman (1989)",
+            "The Lego Batman Movie (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Billy Idol": {
@@ -1425,6 +1589,11 @@
     "Blake Lively": {
         "movies": [
             "Green Lantern (2011)"
+        ]
+    },
+    "Blu Hunt": {
+        "movies": [
+            "The New Mutants (2020)"
         ]
     },
     "Bo Burnham": {
@@ -1452,6 +1621,11 @@
             "Son of the Mask (2005)"
         ]
     },
+    "Bob Odenkirk": {
+        "movies": [
+            "Incredibles 2 (2018)"
+        ]
+    },
     "Bob Peck": {
         "movies": [
             "Jurassic Park (1993)"
@@ -1459,11 +1633,13 @@
     },
     "Bobby Cannavale": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Bokeem Woodbine": {
         "movies": [
+            "Spider-Man: Homecoming (2017)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -1489,9 +1665,15 @@
             "Surrogates (2009)"
         ]
     },
+    "Boyd Holbrook": {
+        "movies": [
+            "Logan (2017)"
+        ]
+    },
     "Brad Bird": {
         "movies": [
-            "The Incredibles (2004)"
+            "The Incredibles (2004)",
+            "Incredibles 2 (2018)"
         ]
     },
     "Brad Dourif": {
@@ -1531,6 +1713,9 @@
                 "movie": "Once Upon a Time in Hollywood",
                 "year": "2019"
             }
+        ],
+        "movies": [
+            "Deadpool 2 (2018)"
         ]
     },
     "Brad Renfro": {
@@ -1563,7 +1748,9 @@
             "Valentine's Day (2010)",
             "Guardians of the Galaxy (2014)",
             "10 Cloverfield Lane (2016)",
-            "Avengers: Infinity War (2018)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Brandon Lee": {
@@ -1632,7 +1819,8 @@
     "Brett Cullen": {
         "movies": [
             "Ghost Rider (2007)",
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Joker (2019)"
         ]
     },
     "Bria Vinaite": {
@@ -1671,7 +1859,21 @@
     },
     "Brian Tyree Henry": {
         "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "Joker (2019)",
             "Eternals (2021)"
+        ]
+    },
+    "Brian d'Arcy James": {
+        "movies": [
+            "Dark Phoenix (2019)",
+            "The Kitchen (2019)"
+        ]
+    },
+    "Brianna Hildebrand": {
+        "movies": [
+            "Deadpool (2016)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Bridget Moynahan": {
@@ -1692,7 +1894,10 @@
             }
         ],
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Captain Marvel (2019)",
+            "Avengers: Endgame (2019)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Brittany Murphy": {
@@ -1751,7 +1956,8 @@
     "Bruce Greenwood": {
         "movies": [
             "Star Trek (2009)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Bruce McGill": {
@@ -1766,7 +1972,9 @@
             "Surrogates (2009)",
             "Red (2010)",
             "Red 2 (2013)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "Split (2017)",
+            "Glass (2019)"
         ]
     },
     "Bryan Cranston": {
@@ -1785,7 +1993,8 @@
     "Bryan Singer": {
         "movies": [
             "Star Trek: Nemesis (2002)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)"
         ]
     },
     "Bryce Dallas Howard": {
@@ -1867,6 +2076,11 @@
             "The Florida Project (2017)"
         ]
     },
+    "Callum Turner": {
+        "movies": [
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
     "Cam Gigandet": {
         "movies": [
             "Priest (2011)"
@@ -1889,6 +2103,11 @@
         "movies": [
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)"
+        ]
+    },
+    "Cara Delevingne": {
+        "movies": [
+            "Suicide Squad (2016)"
         ]
     },
     "Carey Mulligan": {
@@ -1915,7 +2134,15 @@
         "movies": [
             "Sin City (2005)",
             "Watchmen (2009)",
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Carmen Ejogo": {
+        "movies": [
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
     "Carol Burnett": {
@@ -1938,7 +2165,10 @@
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
-            "Return of the Jedi (1983)"
+            "Return of the Jedi (1983)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Cary Elwes": {
@@ -1975,6 +2205,11 @@
                 "movie": "The Assassination of Jesse James by the Coward Robert Ford",
                 "year": "2007"
             }
+        ]
+    },
+    "Casey Neistat": {
+        "movies": [
+            "Project Power (2020)"
         ]
     },
     "Catalina Sandino Moreno": {
@@ -2024,7 +2259,8 @@
             "The Lord of the Rings: The Return of the King (2003)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Thor: Ragnarok (2017)"
         ]
     },
     "Catherine Deneuve": {
@@ -2050,6 +2286,9 @@
                 "movie": "Capote",
                 "year": "2005"
             }
+        ],
+        "movies": [
+            "Incredibles 2 (2018)"
         ]
     },
     "Catherine Zeta-Jones": {
@@ -2093,22 +2332,43 @@
             }
         ],
         "movies": [
-            "Avengers: Infinity War (2018)"
+            "Captain America: Civil War (2016)",
+            "Black Panther (2018)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Channing Tatum": {
         "movies": [
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "The Lego Batman Movie (2017)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Charlayne Woodard": {
         "movies": [
-            "Unbreakable (2000)"
+            "Unbreakable (2000)",
+            "Glass (2019)"
         ]
     },
     "Charles Barkley": {
         "movies": [
             "Space Jam (1996)"
+        ]
+    },
+    "Charles Dance": {
+        "movies": [
+            "The King's Man (2021)"
+        ]
+    },
+    "Charlie Cox": {
+        "movies": [
+            "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Charlie Heaton": {
+        "movies": [
+            "The New Mutants (2020)"
         ]
     },
     "Charlize Theron": {
@@ -2127,7 +2387,8 @@
             }
         ],
         "movies": [
-            "Atomic Blonde (2017)"
+            "Atomic Blonde (2017)",
+            "The Old Guard (2020)"
         ]
     },
     "Charlotte Rampling": {
@@ -2192,7 +2453,9 @@
             }
         ],
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "Doctor Strange (2016)",
+            "The Old Guard (2020)"
         ]
     },
     "Chlo\u00eb Grace Moretz": {
@@ -2237,8 +2500,13 @@
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
             "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
             "Ant-Man (2015)",
-            "Avengers: Infinity War (2018)"
+            "Captain America: Civil War (2016)",
+            "Spider-Man: Homecoming (2017)",
+            "Avengers: Infinity War (2018)",
+            "Captain Marvel (2019)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Chris Hemsworth": {
@@ -2247,8 +2515,23 @@
             "Thor (2011)",
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
+            "Avengers: Age of Ultron (2015)",
+            "Doctor Strange (2016)",
+            "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
-            "Men in Black: International (2019)"
+            "Avengers: Endgame (2019)",
+            "Men in Black: International (2019)",
+            "Extraction (2020)"
+        ]
+    },
+    "Chris McKay": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
+        ]
+    },
+    "Chris Messina": {
+        "movies": [
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
     "Chris Noth": {
@@ -2275,14 +2558,30 @@
     "Chris Pine": {
         "movies": [
             "Star Trek (2009)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Star Trek Beyond (2016)",
+            "Wonder Woman (2017)",
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "Wonder Woman 1984 (2020)"
         ]
     },
     "Chris Pratt": {
         "movies": [
             "Take Me Home Tonight (2011)",
             "Guardians of the Galaxy (2014)",
-            "Avengers: Infinity War (2018)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+        ]
+    },
+    "Chris Sullivan": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)"
+        ]
+    },
+    "Chris Terrio": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Christian Bale": {
@@ -2440,7 +2739,9 @@
             "Road to Perdition (2002)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
-            "John Carter (2012)"
+            "John Carter (2012)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Cillian Murphy": {
@@ -2460,6 +2761,7 @@
         "movies": [
             "Green Lantern (2011)",
             "Cowboys & Aliens (2011)",
+            "Thor: Ragnarok (2017)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -2474,12 +2776,19 @@
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
             "Thor (2011)",
-            "The Avengers (2012)"
+            "The Avengers (2012)",
+            "Captain Marvel (2019)"
         ]
     },
     "Clarke Peters": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Claudia Kim": {
+        "movies": [
+            "Avengers: Age of Ultron (2015)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
     "Cliff Robertson": {
@@ -2514,7 +2823,8 @@
     },
     "Clint Howard": {
         "movies": [
-            "Barb Wire (1996)"
+            "Barb Wire (1996)",
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Clive Owen": {
@@ -2544,7 +2854,9 @@
         "movies": [
             "The Avengers (2012)",
             "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
             "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -2556,7 +2868,8 @@
     "Colin Farrell": {
         "movies": [
             "Daredevil (2003)",
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "Fantastic Beasts and Where to Find Them (2016)"
         ]
     },
     "Colin Firth": {
@@ -2572,13 +2885,20 @@
         ],
         "movies": [
             "Shakespeare in Love (1998)",
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "Kingsman: The Secret Service (2015)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Colm Feore": {
         "movies": [
             "Thor (2011)",
             "The Amazing Spider-Man 2 (2014)"
+        ]
+    },
+    "Colson Baker": {
+        "movies": [
+            "Project Power (2020)"
         ]
     },
     "Columbus Short": {
@@ -2588,17 +2908,28 @@
     },
     "Common": {
         "movies": [
-            "Wanted (2008)"
+            "Wanted (2008)",
+            "Suicide Squad (2016)",
+            "The Kitchen (2019)"
         ]
     },
     "Conan O'Brien": {
         "movies": [
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Connie Britton": {
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Connie Nielsen": {
+        "movies": [
+            "Wonder Woman (2017)",
+            "Justice League (2017)",
+            "Wonder Woman 1984 (2020)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Cooper Andrews": {
@@ -2627,6 +2958,11 @@
             "Spies Like Us (1985)"
         ]
     },
+    "Courtney B. Vance": {
+        "movies": [
+            "Project Power (2020)"
+        ]
+    },
     "Craig Ferguson": {
         "movies": [
             "Kick-Ass (2010)"
@@ -2639,7 +2975,8 @@
     },
     "Craig T. Nelson": {
         "movies": [
-            "The Incredibles (2004)"
+            "The Incredibles (2004)",
+            "Incredibles 2 (2018)"
         ]
     },
     "Cuba Gooding Jr.": {
@@ -2679,6 +3016,18 @@
             "Power Rangers (2017)"
         ]
     },
+    "Dafne Keen": {
+        "movies": [
+            "Logan (2017)"
+        ]
+    },
+    "Daisy Ridley": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "Dakota Goyo": {
         "movies": [
             "Thor (2011)"
@@ -2705,7 +3054,9 @@
         "movies": [
             "Horton Hears a Who! (2008)",
             "Kung Fu Panda (2008)",
-            "Take Me Home Tonight (2011)"
+            "Take Me Home Tonight (2011)",
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
     "Dana Delany": {
@@ -2715,7 +3066,9 @@
     },
     "Danai Gurira": {
         "movies": [
-            "Avengers: Infinity War (2018)"
+            "Black Panther (2018)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Dane Cook": {
@@ -2733,11 +3086,18 @@
             "X-Men: The Last Stand (2006)"
         ]
     },
+    "Daniel Br\u00fchl": {
+        "movies": [
+            "Captain America: Civil War (2016)",
+            "The King's Man (2021)"
+        ]
+    },
     "Daniel Craig": {
         "movies": [
             "Road to Perdition (2002)",
             "Cowboys & Aliens (2011)",
-            "The Adventures of Tintin (2011)"
+            "The Adventures of Tintin (2011)",
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Daniel Dae Kim": {
@@ -2795,7 +3155,8 @@
             }
         ],
         "movies": [
-            "Kick-Ass 2 (2013)"
+            "Kick-Ass 2 (2013)",
+            "Black Panther (2018)"
         ]
     },
     "Daniel Logan": {
@@ -2818,6 +3179,11 @@
     "Daniel Roebuck": {
         "movies": [
             "The Fugitive (1993)"
+        ]
+    },
+    "Daniela Melchior": {
+        "movies": [
+            "The Suicide Squad (2021)"
         ]
     },
     "Danielle Panabaker": {
@@ -2848,7 +3214,8 @@
     "Danny Huston": {
         "movies": [
             "30 Days of Night (2007)",
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "Wonder Woman (2017)"
         ]
     },
     "Danny McBride": {
@@ -2858,7 +3225,8 @@
     },
     "Danny Pudi": {
         "movies": [
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Star Trek Beyond (2016)"
         ]
     },
     "Daphne Zuniga": {
@@ -2874,7 +3242,14 @@
     "Dave Bautista": {
         "movies": [
             "Guardians of the Galaxy (2014)",
-            "Avengers: Infinity War (2018)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+        ]
+    },
+    "Dave Chapman": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Dave Filoni": {
@@ -2895,6 +3270,11 @@
     "David Arquette": {
         "movies": [
             "Bone Tomahawk (2015)"
+        ]
+    },
+    "David Ayer": {
+        "movies": [
+            "Suicide Squad (2016)"
         ]
     },
     "David Bradley": {
@@ -2924,7 +3304,9 @@
     "David Dastmalchian": {
         "movies": [
             "The Dark Knight (2008)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)",
+            "The Suicide Squad (2021)"
         ]
     },
     "David Denman": {
@@ -2940,12 +3322,30 @@
     "David Harbour": {
         "movies": [
             "The Green Hornet (2011)",
-            "Hellboy (2019)"
+            "Suicide Squad (2016)",
+            "Hellboy (2019)",
+            "Extraction (2020)",
+            "Black Widow (2021)"
+        ]
+    },
+    "David Hasselhoff": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "David Hyde Pierce": {
         "movies": [
             "Hellboy (2004)"
+        ]
+    },
+    "David Kross": {
+        "movies": [
+            "The King's Man (2021)"
+        ]
+    },
+    "David Leitch": {
+        "movies": [
+            "Deadpool 2 (2018)"
         ]
     },
     "David Patrick Kelly": {
@@ -3000,7 +3400,10 @@
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
-            "Red 2 (2013)"
+            "Red 2 (2013)",
+            "Wonder Woman (2017)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "David Walliams": {
@@ -3084,7 +3487,9 @@
     },
     "Dee Bradley Baker": {
         "movies": [
-            "Star Wars: The Clone Wars (2008)"
+            "Star Wars: The Clone Wars (2008)",
+            "The Suicide Squad (2021)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Demi\u00e1n Bichir": {
@@ -3102,7 +3507,8 @@
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
-            "Return of the Jedi (1983)"
+            "Return of the Jedi (1983)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Denis Leary": {
@@ -3179,6 +3585,11 @@
             "2 Guns (2013)"
         ]
     },
+    "Denzel Whitaker": {
+        "movies": [
+            "Black Panther (2018)"
+        ]
+    },
     "Derek Luke": {
         "movies": [
             "Captain America: The First Avenger (2011)"
@@ -3214,6 +3625,11 @@
                 "movie": "Round Midnight",
                 "year": "1986"
             }
+        ]
+    },
+    "Diana Silvers": {
+        "movies": [
+            "Glass (2019)"
         ]
     },
     "Diane Keaton": {
@@ -3264,7 +3680,10 @@
             }
         ],
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Dianne Wiest": {
@@ -3327,13 +3746,21 @@
         "movies": [
             "Constantine (2005)",
             "Guardians of the Galaxy (2014)",
+            "Aquaman (2018)",
+            "Captain Marvel (2019)",
             "Shazam! (2019)",
-            "A Quiet Place Part II (2021)"
+            "A Quiet Place Part II (2021)",
+            "The King's Man (2021)"
         ]
     },
     "Dolly Parton": {
         "movies": [
             "9 to 5 (1980)"
+        ]
+    },
+    "Dolph Lundgren": {
+        "movies": [
+            "Aquaman (2018)"
         ]
     },
     "Dom DeLuise": {
@@ -3345,7 +3772,11 @@
         "movies": [
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
-            "Dredd (2012)"
+            "Dredd (2012)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "The Kitchen (2019)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Dominic Cooper": {
@@ -3363,7 +3794,8 @@
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Dominic Purcell": {
@@ -3384,6 +3816,11 @@
             "John Carter (2012)"
         ]
     },
+    "Dominique Fishback": {
+        "movies": [
+            "Project Power (2020)"
+        ]
+    },
     "Dominique McElligott": {
         "movies": [
             "Moon (2009)"
@@ -3399,7 +3836,11 @@
         "movies": [
             "Iron Man 2 (2010)",
             "Iron Man 3 (2013)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Captain Marvel (2019)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Don Lee": {
@@ -3416,6 +3857,12 @@
     "Donald Faison": {
         "movies": [
             "Kick-Ass 2 (2013)"
+        ]
+    },
+    "Donald Glover": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)",
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Donna Dixon": {
@@ -3441,6 +3888,11 @@
                 "movie": "Carmen Jones",
                 "year": "1954"
             }
+        ]
+    },
+    "Doug Benson": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Doug Jones": {
@@ -3548,10 +4000,21 @@
             "Gravity (2013)"
         ]
     },
+    "Ed Sheeran": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Ed Skrein": {
+        "movies": [
+            "Deadpool (2016)"
+        ]
+    },
     "Eddie Izzard": {
         "movies": [
             "Mystery Men (1999)",
-            "The Chronicles of Narnia: Prince Caspian (2008)"
+            "The Chronicles of Narnia: Prince Caspian (2008)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Eddie Jemison": {
@@ -3562,7 +4025,8 @@
     "Eddie Marsan": {
         "movies": [
             "V for Vendetta (2006)",
-            "Atomic Blonde (2017)"
+            "Atomic Blonde (2017)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Eddie Murphy": {
@@ -3583,6 +4047,15 @@
                 "movie": "The Danish Girl",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
+    "Edgar Wright": {
+        "movies": [
+            "Star Wars: The Last Jedi (2017)"
         ]
     },
     "Edi Gathegi": {
@@ -3649,6 +4122,11 @@
             "Bloodshot (2020)"
         ]
     },
+    "Elena Anaya": {
+        "movies": [
+            "Wonder Woman (2017)"
+        ]
+    },
     "Eli Wallach": {
         "movies": [
             "The Holiday (2006)"
@@ -3674,6 +4152,11 @@
             "The Hobbit: An Unexpected Journey (2012)"
         ]
     },
+    "Elisabeth Moss": {
+        "movies": [
+            "The Kitchen (2019)"
+        ]
+    },
     "Elisabeth Shue": {
         "leadNoms": [
             {
@@ -3690,6 +4173,11 @@
             "Power Rangers (2017)"
         ]
     },
+    "Elizabeth Debicki": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)"
+        ]
+    },
     "Elizabeth McGovern": {
         "movies": [
             "Kick-Ass (2010)"
@@ -3698,7 +4186,10 @@
     "Elizabeth Olsen": {
         "movies": [
             "Captain America: The Winter Soldier (2014)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Elizabeth Taylor": {
@@ -3731,6 +4222,11 @@
     "Elizabeth Wilson": {
         "movies": [
             "9 to 5 (1980)"
+        ]
+    },
+    "Ella Jay Basco": {
+        "movies": [
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
     "Ellen Burstyn": {
@@ -3773,6 +4269,11 @@
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Ellie Kemper": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
+        ]
+    },
     "Elliot Page": {
         "leadNoms": [
             {
@@ -3798,6 +4299,11 @@
             "Iron Man 2 (2010)"
         ]
     },
+    "Elton John": {
+        "movies": [
+            "Kingsman: The Golden Circle (2017)"
+        ]
+    },
     "Embeth Davidtz": {
         "movies": [
             "The Amazing Spider-Man (2012)",
@@ -3807,6 +4313,11 @@
     "Emerald Fennell": {
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Emilia Clarke": {
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Emilio Estevez": {
@@ -3822,7 +4333,8 @@
     },
     "Emily VanCamp": {
         "movies": [
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Captain America: Civil War (2016)"
         ]
     },
     "Emily Watson": {
@@ -3835,6 +4347,9 @@
                 "movie": "Hilary and Jackie",
                 "year": "1998"
             }
+        ],
+        "movies": [
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Emma Roberts": {
@@ -3941,6 +4456,11 @@
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Erin Kellyman": {
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
+        ]
+    },
     "Ernest Borgnine": {
         "movies": [
             "Red (2010)"
@@ -4021,7 +4541,10 @@
     "Evan Peters": {
         "movies": [
             "Kick-Ass (2010)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)",
+            "Deadpool 2 (2018)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Evan Rachel Wood": {
@@ -4033,7 +4556,9 @@
         "movies": [
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Evanna Lynch": {
@@ -4044,11 +4569,34 @@
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Ever Anderson": {
+        "movies": [
+            "Black Widow (2021)"
+        ]
+    },
     "Ewan McGregor": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Rise of Skywalker (2019)",
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+        ]
+    },
+    "Ewen Bremner": {
+        "movies": [
+            "Wonder Woman (2017)"
+        ]
+    },
+    "Ezra Miller": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Suicide Squad (2016)",
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Justice League (2017)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "F. Murray Abraham": {
@@ -4064,6 +4612,11 @@
     "Faithe Herman": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Fala Chen": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Famke Janssen": {
@@ -4132,6 +4685,19 @@
                 "movie": "Little Women",
                 "year": "2019"
             }
+        ],
+        "movies": [
+            "Black Widow (2021)"
+        ]
+    },
+    "Florian Munteanu": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
+        ]
+    },
+    "Flula Borg": {
+        "movies": [
+            "The Suicide Squad (2021)"
         ]
     },
     "Forest Whitaker": {
@@ -4142,12 +4708,14 @@
             }
         ],
         "movies": [
-            "Rogue One: A Star Wars Story (2016)"
+            "Rogue One: A Star Wars Story (2016)",
+            "Black Panther (2018)"
         ]
     },
     "Frances Conroy": {
         "movies": [
-            "Catwoman (2004)"
+            "Catwoman (2004)",
+            "Joker (2019)"
         ]
     },
     "Frances McDormand": {
@@ -4191,7 +4759,9 @@
     },
     "Frank Grillo": {
         "movies": [
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Frank Langella": {
@@ -4220,7 +4790,9 @@
             "Spies Like Us (1985)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Frank Welker": {
@@ -4233,7 +4805,8 @@
     },
     "Fran\u00e7ois Chau": {
         "movies": [
-            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
     "Fred Melamed": {
@@ -4244,7 +4817,8 @@
     "Freddie Prinze Jr.": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
-            "I Still Know What You Did Last Summer (1998)"
+            "I Still Know What You Did Last Summer (1998)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Freddie Stroma": {
@@ -4270,6 +4844,20 @@
     "Gabriel Macht": {
         "movies": [
             "The Spirit (2008)"
+        ]
+    },
+    "Gal Gadot": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Wonder Woman (2017)",
+            "Justice League (2017)",
+            "Wonder Woman 1984 (2020)",
+            "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Gareth Edwards": {
+        "movies": [
+            "Star Wars: The Last Jedi (2017)"
         ]
     },
     "Garrett Morris": {
@@ -4393,8 +4981,15 @@
             "A League of Their Own (1992)"
         ]
     },
+    "Gemma Arterton": {
+        "movies": [
+            "The King's Man (2021)"
+        ]
+    },
     "Gemma Chan": {
         "movies": [
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Captain Marvel (2019)",
             "Eternals (2021)"
         ]
     },
@@ -4560,6 +5155,11 @@
             "300: Rise of an Empire (2014)"
         ]
     },
+    "Gina Carano": {
+        "movies": [
+            "Deadpool (2016)"
+        ]
+    },
     "Giovanni Ribisi": {
         "movies": [
             "Saving Private Ryan (1998)"
@@ -4675,12 +5275,21 @@
         "movies": [
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Aquaman (2018)"
+        ]
+    },
+    "Greg Cipes": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Greg Grunberg": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Trek Beyond (2016)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Greg Kinnear": {
@@ -4700,6 +5309,12 @@
             "Bloodshot (2020)"
         ]
     },
+    "Gwendoline Christie": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)"
+        ]
+    },
     "Gwyneth Paltrow": {
         "leadNoms": [
             {
@@ -4713,7 +5328,9 @@
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
-            "Avengers: Infinity War (2018)"
+            "Spider-Man: Homecoming (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "G\u00e9rard Depardieu": {
@@ -4730,6 +5347,9 @@
                 "movie": "True Grit",
                 "year": "2010"
             }
+        ],
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Hal Holbrook": {
@@ -4751,6 +5371,11 @@
             "Forrest Gump (1994)"
         ]
     },
+    "Haley Lu Richardson": {
+        "movies": [
+            "Split (2017)"
+        ]
+    },
     "Halle Berry": {
         "leadNoms": [
             {
@@ -4763,7 +5388,18 @@
             "X2 (2003)",
             "Catwoman (2004)",
             "X-Men: The Last Stand (2006)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Halsey": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Halston Sage": {
+        "movies": [
+            "Dark Phoenix (2019)"
         ]
     },
     "Hank Azaria": {
@@ -4773,7 +5409,15 @@
     },
     "Hannah John-Kamen": {
         "movies": [
-            "Ready Player One (2018)"
+            "Star Wars: The Force Awakens (2015)",
+            "Ready Player One (2018)",
+            "Ant-Man and the Wasp (2018)"
+        ]
+    },
+    "Hannibal Buress": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Harold Perrineau": {
@@ -4788,6 +5432,11 @@
             "Knocked Up (2007)"
         ]
     },
+    "Harris Dickinson": {
+        "movies": [
+            "The King's Man (2021)"
+        ]
+    },
     "Harrison Ford": {
         "leadNoms": [
             {
@@ -4800,7 +5449,9 @@
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
             "The Fugitive (1993)",
-            "Cowboys & Aliens (2011)"
+            "Cowboys & Aliens (2011)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Harry Dean Stanton": {
@@ -4815,7 +5466,9 @@
     },
     "Harry Lennix": {
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Harry Melling": {
@@ -4824,7 +5477,8 @@
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Order of the Phoenix (2007)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The Old Guard (2020)"
         ]
     },
     "Harry Styles": {
@@ -4851,14 +5505,17 @@
     "Hayden Christensen": {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Hayley Atwell": {
         "movies": [
             "Captain America: The First Avenger (2011)",
             "Captain America: The Winter Soldier (2014)",
-            "Ant-Man (2015)"
+            "Avengers: Age of Ultron (2015)",
+            "Ant-Man (2015)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Heath Ledger": {
@@ -4970,7 +5627,10 @@
     },
     "Henry Cavill": {
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Henry Czerny": {
@@ -4990,6 +5650,11 @@
             }
         ]
     },
+    "Henry Zaga": {
+        "movies": [
+            "The New Mutants (2020)"
+        ]
+    },
     "Hero Fiennes Tiffin": {
         "movies": [
             "Harry Potter and the Half-Blood Prince (2009)"
@@ -5005,6 +5670,11 @@
                 "movie": "Million Dollar Baby",
                 "year": "2004"
             }
+        ]
+    },
+    "Hiroyuki Sanada": {
+        "movies": [
+            "Avengers: Endgame (2019)"
         ]
     },
     "Holly Hunter": {
@@ -5029,7 +5699,14 @@
             }
         ],
         "movies": [
-            "The Incredibles (2004)"
+            "The Incredibles (2004)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Incredibles 2 (2018)"
+        ]
+    },
+    "Hope Davis": {
+        "movies": [
+            "Captain America: Civil War (2016)"
         ]
     },
     "Hugh Grant": {
@@ -5050,7 +5727,9 @@
             "X-Men: The Last Stand (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)",
+            "Logan (2017)"
         ]
     },
     "Hugo Weaving": {
@@ -5064,9 +5743,15 @@
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
+    "Hynden Walch": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
     "H\u00e9ctor Elizondo": {
         "movies": [
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Iain Glen": {
@@ -5108,7 +5793,8 @@
             "Return of the Jedi (1983)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Ian McKellen": {
@@ -5158,12 +5844,26 @@
             "Thor (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
             "Thor: The Dark World (2013)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Star Trek Beyond (2016)",
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Iggy Pop": {
         "movies": [
             "The Crow: City of Angels (1996)"
+        ]
+    },
+    "Ike Barinholtz": {
+        "movies": [
+            "Suicide Squad (2016)"
+        ]
+    },
+    "Iko Uwais": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Imelda Staunton": {
@@ -5244,6 +5944,11 @@
             "The Amazing Spider-Man (2012)"
         ]
     },
+    "Isabella Rossellini": {
+        "movies": [
+            "Incredibles 2 (2018)"
+        ]
+    },
     "Isabelle Adjani": {
         "leadNoms": [
             {
@@ -5277,7 +5982,14 @@
     },
     "J. B. Smoove": {
         "movies": [
-            "Spider-Man: Far From Home (2019)"
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "J. J. Abrams": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "J. K. Simmons": {
@@ -5295,8 +6007,12 @@
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "Justice League (2017)",
             "Spider-Man: Far From Home (2019)",
-            "Ghostbusters: Afterlife (2021)"
+            "Zack Snyder's Justice League (2021)",
+            "Venom: Let There Be Carnage (2021)",
+            "Ghostbusters: Afterlife (2021)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Jack Black": {
@@ -5310,7 +6026,8 @@
         "movies": [
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "Kingsman: The Secret Service (2015)"
         ]
     },
     "Jack Dylan Grazer": {
@@ -5482,10 +6199,18 @@
             "RoboCop (2014)"
         ]
     },
+    "Jackson A. Dunn": {
+        "movies": [
+            "Avengers: Endgame (2019)"
+        ]
+    },
     "Jacob Batalon": {
         "movies": [
+            "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
-            "Spider-Man: Far From Home (2019)"
+            "Avengers: Endgame (2019)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Jada Pinkett Smith": {
@@ -5495,7 +6220,9 @@
     },
     "Jai Courtney": {
         "movies": [
-            "I, Frankenstein (2014)"
+            "I, Frankenstein (2014)",
+            "Suicide Squad (2016)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Jaime King": {
@@ -5528,6 +6255,11 @@
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Jake Johnson": {
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
     "Jake Lloyd": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
@@ -5536,12 +6268,14 @@
     "James Arnold Taylor": {
         "movies": [
             "TMNT (2007)",
-            "Star Wars: The Clone Wars (2008)"
+            "Star Wars: The Clone Wars (2008)",
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "James Badge Dale": {
         "movies": [
-            "Iron Man 3 (2013)"
+            "Iron Man 3 (2013)",
+            "The Kitchen (2019)"
         ]
     },
     "James Caan": {
@@ -5572,6 +6306,11 @@
             "Spider-Man 3 (2007)",
             "Surrogates (2009)",
             "Big Hero 6 (2014)"
+        ]
+    },
+    "James D'Arcy": {
+        "movies": [
+            "Avengers: Endgame (2019)"
         ]
     },
     "James Dean": {
@@ -5609,7 +6348,8 @@
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-            "Rogue One: A Star Wars Story (2016)"
+            "Rogue One: A Star Wars Story (2016)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "James Franco": {
@@ -5655,7 +6395,12 @@
             "Wanted (2008)",
             "X-Men: First Class (2011)",
             "X-Men: Days of Future Past (2014)",
-            "Atomic Blonde (2017)"
+            "X-Men: Apocalypse (2016)",
+            "Split (2017)",
+            "Atomic Blonde (2017)",
+            "Deadpool 2 (2018)",
+            "Glass (2019)",
+            "Dark Phoenix (2019)"
         ]
     },
     "James Parks": {
@@ -5679,6 +6424,11 @@
         "movies": [
             "Blade: Trinity (2004)",
             "Red (2010)"
+        ]
+    },
+    "James Spader": {
+        "movies": [
+            "Avengers: Age of Ultron (2015)"
         ]
     },
     "James Stewart": {
@@ -5732,7 +6482,14 @@
     },
     "Jamie Bell": {
         "movies": [
-            "The Adventures of Tintin (2011)"
+            "The Adventures of Tintin (2011)",
+            "Fantastic Four (2015)"
+        ]
+    },
+    "Jamie Campbell Bower": {
+        "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
     "Jamie Chung": {
@@ -5756,7 +6513,9 @@
         ],
         "movies": [
             "Valentine's Day (2010)",
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "Project Power (2020)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Jamie Kennedy": {
@@ -5847,7 +6606,9 @@
             }
         ],
         "movies": [
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "Suicide Squad (2016)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Jason Flemyng": {
@@ -5880,9 +6641,18 @@
             "Dazed and Confused (1993)"
         ]
     },
+    "Jason Mantzoukas": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
+        ]
+    },
     "Jason Momoa": {
         "movies": [
-            "Conan the Barbarian (2011)"
+            "Conan the Barbarian (2011)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Aquaman (2018)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Jason Patric": {
@@ -5935,6 +6705,11 @@
     "Jay Chou": {
         "movies": [
             "The Green Hornet (2011)"
+        ]
+    },
+    "Jay Hernandez": {
+        "movies": [
+            "Suicide Squad (2016)"
         ]
     },
     "Jaye Davidson": {
@@ -5993,7 +6768,8 @@
         ],
         "movies": [
             "Iron Man (2008)",
-            "R.I.P.D. (2013)"
+            "R.I.P.D. (2013)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Jeff Daniels": {
@@ -6006,10 +6782,17 @@
             "Superman (1978)"
         ]
     },
+    "Jeff Garlin": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "Jeff Goldblum": {
         "movies": [
             "Annie Hall (1977)",
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Thor: Ragnarok (2017)"
         ]
     },
     "Jeffrey Combs": {
@@ -6021,7 +6804,8 @@
         "movies": [
             "Watchmen (2009)",
             "The Losers (2010)",
-            "Jonah Hex (2010)"
+            "Jonah Hex (2010)",
+            "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
     "Jeffrey Jones": {
@@ -6037,7 +6821,8 @@
     },
     "Jemaine Clement": {
         "movies": [
-            "Men in Black 3 (2012)"
+            "Men in Black 3 (2012)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Jenifer Lewis": {
@@ -6058,7 +6843,8 @@
             }
         ],
         "movies": [
-            "Hulk (2003)"
+            "Hulk (2003)",
+            "Spider-Man: Homecoming (2017)"
         ]
     },
     "Jennifer Coolidge": {
@@ -6076,6 +6862,11 @@
             "Daredevil (2003)",
             "Elektra (2005)",
             "Valentine's Day (2010)"
+        ]
+    },
+    "Jennifer Holland": {
+        "movies": [
+            "The Suicide Squad (2021)"
         ]
     },
     "Jennifer Hudson": {
@@ -6121,7 +6912,9 @@
         ],
         "movies": [
             "X-Men: First Class (2011)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Jennifer Love Hewitt": {
@@ -6143,6 +6936,12 @@
             }
         ]
     },
+    "Jenny Slate": {
+        "movies": [
+            "The Lego Batman Movie (2017)",
+            "Venom (2018)"
+        ]
+    },
     "Jeremy Davies": {
         "movies": [
             "Saving Private Ryan (1998)"
@@ -6160,6 +6959,11 @@
                 "movie": "Reversal of Fortune",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Jeremy Piven": {
@@ -6182,7 +6986,11 @@
         ],
         "movies": [
             "Thor (2011)",
-            "The Avengers (2012)"
+            "The Avengers (2012)",
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Endgame (2019)",
+            "Black Widow (2021)"
         ]
     },
     "Jeremy Theobald": {
@@ -6196,6 +7004,11 @@
                 "movie": "The Social Network",
                 "year": "2010"
             }
+        ],
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Jesse L. Martin": {
@@ -6248,6 +7061,14 @@
                 "movie": "The Help",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "Dark Phoenix (2019)"
+        ]
+    },
+    "Jessica Henwick": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Jessica Lange": {
@@ -6290,6 +7111,11 @@
                 "movie": "Fried Green Tomatoes",
                 "year": "1991"
             }
+        ]
+    },
+    "Jessica Williams": {
+        "movies": [
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
     "Jessie Buckley": {
@@ -6335,7 +7161,8 @@
     },
     "Jim Rash": {
         "movies": [
-            "Sky High (2005)"
+            "Sky High (2005)",
+            "Captain America: Civil War (2016)"
         ]
     },
     "Jimmy Bennett": {
@@ -6346,6 +7173,11 @@
     "Jimmy Fallon": {
         "movies": [
             "Almost Famous (2000)"
+        ]
+    },
+    "Jimmy Kimmel": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Jimmy Smits": {
@@ -6461,6 +7293,14 @@
                 "movie": "Gladiator",
                 "year": "2000"
             }
+        ],
+        "movies": [
+            "Joker (2019)"
+        ]
+    },
+    "Jodie Comer": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Jodie Foster": {
@@ -6485,10 +7325,24 @@
             }
         ]
     },
+    "Joe Cornish": {
+        "movies": [
+            "Star Wars: The Last Jedi (2017)"
+        ]
+    },
     "Joe Manganiello": {
         "movies": [
             "Spider-Man (2002)",
-            "Spider-Man 3 (2007)"
+            "Spider-Man 3 (2007)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Joe Morton": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Joe Pantoliano": {
@@ -6515,12 +7369,19 @@
     },
     "Joe Russo": {
         "movies": [
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Joe Spinell": {
         "movies": [
             "Rocky (1976)"
+        ]
+    },
+    "Joe Taslim": {
+        "movies": [
+            "Star Trek Beyond (2016)"
         ]
     },
     "Joel Coen": {
@@ -6536,7 +7397,9 @@
     },
     "Joel Kinnaman": {
         "movies": [
-            "RoboCop (2014)"
+            "RoboCop (2014)",
+            "Suicide Squad (2016)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Joel McHale": {
@@ -6553,6 +7416,13 @@
     "Joey Lauren Adams": {
         "movies": [
             "Dazed and Confused (1993)"
+        ]
+    },
+    "John Boyega": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "John C. Reilly": {
@@ -6579,10 +7449,16 @@
             "The Deer Hunter (1978)"
         ]
     },
+    "John Cena": {
+        "movies": [
+            "The Suicide Squad (2021)"
+        ]
+    },
     "John Cho": {
         "movies": [
             "Star Trek (2009)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Star Trek Beyond (2016)"
         ]
     },
     "John Cleese": {
@@ -6644,6 +7520,12 @@
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Hercules (2014)"
+        ]
+    },
+    "John Kani": {
+        "movies": [
+            "Captain America: Civil War (2016)",
+            "Black Panther (2018)"
         ]
     },
     "John Krasinski": {
@@ -6708,6 +7590,11 @@
             "Blade: Trinity (2004)"
         ]
     },
+    "John Mulaney": {
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
     "John Noble": {
         "movies": [
             "The Lord of the Rings: The Return of the King (2003)"
@@ -6715,14 +7602,17 @@
     },
     "John Ratzenberger": {
         "movies": [
-            "The Empire Strikes Back (1980)"
+            "The Empire Strikes Back (1980)",
+            "The Incredibles (2004)",
+            "Incredibles 2 (2018)"
         ]
     },
     "John Rhys-Davies": {
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "Aquaman (2018)"
         ]
     },
     "John Savage": {
@@ -6733,7 +7623,9 @@
     "John Slattery": {
         "movies": [
             "Iron Man 2 (2010)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "John Travolta": {
@@ -6769,6 +7661,11 @@
             }
         ]
     },
+    "John Williams": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "John Wood": {
         "movies": [
             "WarGames (1983)"
@@ -6795,7 +7692,9 @@
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
-            "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
     "Johnny Galecki": {
@@ -6807,7 +7706,8 @@
     "Johnny Knoxville": {
         "movies": [
             "Men in Black II (2002)",
-            "Teenage Mutant Ninja Turtles (2014)"
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Polar (2019)"
         ]
     },
     "Johnny Simmons": {
@@ -6835,7 +7735,11 @@
             "Iron Man 2 (2010)",
             "John Carter (2012)",
             "Iron Man 3 (2013)",
-            "Spider-Man: Far From Home (2019)"
+            "Spider-Man: Homecoming (2017)",
+            "Solo: A Star Wars Story (2018)",
+            "Avengers: Endgame (2019)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Jon Lovitz": {
@@ -6869,6 +7773,9 @@
                 "movie": "Ali",
                 "year": "2001"
             }
+        ],
+        "movies": [
+            "Fantastic Beasts and Where to Find Them (2016)"
         ]
     },
     "Jonah Hill": {
@@ -6884,12 +7791,14 @@
         ],
         "movies": [
             "Knocked Up (2007)",
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Jonathan Banks": {
         "movies": [
-            "Armed and Dangerous (1986)"
+            "Armed and Dangerous (1986)",
+            "Incredibles 2 (2018)"
         ]
     },
     "Jonathan Frakes": {
@@ -6918,14 +7827,24 @@
             "Alexander (2004)"
         ]
     },
+    "Joonas Suotamo": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Solo: A Star Wars Story (2018)",
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "Jorge Lendeborg Jr.": {
         "movies": [
+            "Spider-Man: Homecoming (2017)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
     "Jorma Taccone": {
         "movies": [
-            "Hot Rod (2007)"
+            "Hot Rod (2007)",
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Joseph Fiennes": {
@@ -6937,7 +7856,9 @@
     "Joseph Gordon-Levitt": {
         "movies": [
             "The Dark Knight Rises (2012)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "Star Wars: The Last Jedi (2017)",
+            "Project Power (2020)"
         ]
     },
     "Joseph Mazzello": {
@@ -6957,7 +7878,10 @@
             "Men in Black 3 (2012)",
             "Guardians of the Galaxy (2014)",
             "Sin City: A Dame to Kill For (2014)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Avengers: Infinity War (2018)",
+            "Deadpool 2 (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Josh Dallas": {
@@ -7022,7 +7946,9 @@
         ],
         "movies": [
             "Road to Perdition (2002)",
-            "The Holiday (2006)"
+            "The Holiday (2006)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)",
+            "Captain Marvel (2019)"
         ]
     },
     "Judge Reinhold": {
@@ -7097,7 +8023,8 @@
     },
     "Judy Greer": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Julia Garner": {
@@ -7108,6 +8035,11 @@
     "Julia Jones": {
         "movies": [
             "Jonah Hex (2010)"
+        ]
+    },
+    "Julia Louis-Dreyfus": {
+        "movies": [
+            "Black Widow (2021)"
         ]
     },
     "Julia Roberts": {
@@ -7133,6 +8065,11 @@
         ],
         "movies": [
             "Valentine's Day (2010)"
+        ]
+    },
+    "Julian Dennison": {
+        "movies": [
+            "Deadpool 2 (2018)"
         ]
     },
     "Julian Glover": {
@@ -7174,7 +8111,8 @@
             }
         ],
         "movies": [
-            "The Fugitive (1993)"
+            "The Fugitive (1993)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Julie Andrews": {
@@ -7191,6 +8129,9 @@
                 "movie": "Victor/Victoria",
                 "year": "1982"
             }
+        ],
+        "movies": [
+            "Aquaman (2018)"
         ]
     },
     "Julie Benz": {
@@ -7219,6 +8160,11 @@
         ],
         "movies": [
             "Harry Potter and the Prisoner of Azkaban (2004)"
+        ]
+    },
+    "Julie Delpy": {
+        "movies": [
+            "Avengers: Age of Ultron (2015)"
         ]
     },
     "Julie Strain": {
@@ -7285,6 +8231,11 @@
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Jurnee Smollett-Bell": {
+        "movies": [
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+        ]
+    },
     "Justin Henry": {
         "suppNoms": [
             {
@@ -7293,10 +8244,22 @@
             }
         ]
     },
+    "Justin Theroux": {
+        "movies": [
+            "Star Wars: The Last Jedi (2017)",
+            "Joker (2019)"
+        ]
+    },
     "Kal Penn": {
         "movies": [
             "Son of the Mask (2005)",
             "Superman Returns (2006)"
+        ]
+    },
+    "Karan Soni": {
+        "movies": [
+            "Deadpool (2016)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Karel Roden": {
@@ -7305,10 +8268,17 @@
             "Hellboy (2004)"
         ]
     },
+    "Karen Fukuhara": {
+        "movies": [
+            "Suicide Squad (2016)"
+        ]
+    },
     "Karen Gillan": {
         "movies": [
             "Guardians of the Galaxy (2014)",
-            "Avengers: Infinity War (2018)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Karl Urban": {
@@ -7319,7 +8289,10 @@
             "Red (2010)",
             "Priest (2011)",
             "Dredd (2012)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Star Trek Beyond (2016)",
+            "Thor: Ragnarok (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Kat Dennings": {
@@ -7351,7 +8324,13 @@
     },
     "Kate Mara": {
         "movies": [
-            "Iron Man 2 (2010)"
+            "Iron Man 2 (2010)",
+            "Fantastic Four (2015)"
+        ]
+    },
+    "Kate Micucci": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Kate Nelligan": {
@@ -7469,6 +8448,17 @@
             "Knocked Up (2007)"
         ]
     },
+    "Katherine Waterston": {
+        "movies": [
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
+    "Katheryn Winnick": {
+        "movies": [
+            "Polar (2019)"
+        ]
+    },
     "Kathleen Quinlan": {
         "suppNoms": [
             {
@@ -7480,7 +8470,8 @@
     "Kathryn Hahn": {
         "movies": [
             "The Holiday (2006)",
-            "How Do You Know (2010)"
+            "How Do You Know (2010)",
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Kathy Bates": {
@@ -7583,6 +8574,12 @@
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Kelly Marie Tran": {
+        "movies": [
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "Kelly Preston": {
         "movies": [
             "Sky High (2005)"
@@ -7596,13 +8593,15 @@
     },
     "Ken Jeong": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Ken Leung": {
         "movies": [
             "Vanilla Sky (2001)",
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Ken Watanabe": {
@@ -7649,6 +8648,11 @@
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
         ]
     },
+    "Keri Russell": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "Kerry Condon": {
         "movies": [
             "Avengers: Infinity War (2018)"
@@ -7679,7 +8683,8 @@
             }
         ],
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
     "Kevin Durand": {
@@ -7724,7 +8729,9 @@
     "Kevin Smith": {
         "movies": [
             "Daredevil (2003)",
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Kevin Spacey": {
@@ -7745,9 +8752,24 @@
             "Moon (2009)"
         ]
     },
+    "Khary Payton": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "KiKi Layne": {
+        "movies": [
+            "The Old Guard (2020)"
+        ]
+    },
     "Kieran Culkin": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Kiersey Clemons": {
+        "movies": [
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Kim Basinger": {
@@ -7764,6 +8786,11 @@
     "Kim Cattrall": {
         "movies": [
             "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
+    "Kimiko Glenn": {
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Kirk Douglas": {
@@ -7811,6 +8838,11 @@
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "X-Men: Apocalypse (2016)",
+            "Deadpool 2 (2018)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Kris Kristofferson": {
@@ -7818,6 +8850,11 @@
             "Blade (1998)",
             "Blade II (2002)",
             "Blade: Trinity (2004)"
+        ]
+    },
+    "Kristen Bell": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Kristen Stewart": {
@@ -7830,7 +8867,8 @@
     },
     "Kristen Wiig": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "Wonder Woman 1984 (2020)"
         ]
     },
     "Kristin Chenoweth": {
@@ -7858,7 +8896,8 @@
             "Vanilla Sky (2001)",
             "Sky High (2005)",
             "Bone Tomahawk (2015)",
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "L. Scott Caldwell": {
@@ -7877,6 +8916,11 @@
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Lake Bell": {
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
     "Lakeith Stanfield": {
         "suppNoms": [
             {
@@ -7890,10 +8934,20 @@
             "Bloodshot (2020)"
         ]
     },
+    "Lana Condor": {
+        "movies": [
+            "X-Men: Apocalypse (2016)"
+        ]
+    },
     "Lance Reddick": {
         "movies": [
             "Jonah Hex (2010)",
             "John Wick (2014)"
+        ]
+    },
+    "Langston Fishburne": {
+        "movies": [
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Lara Flynn Boyle": {
@@ -7921,6 +8975,11 @@
             "Space Jam (1996)"
         ]
     },
+    "Lashana Lynch": {
+        "movies": [
+            "Captain Marvel (2019)"
+        ]
+    },
     "Laura Dern": {
         "leadNoms": [
             {
@@ -7939,7 +8998,8 @@
             }
         ],
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "Star Wars: The Last Jedi (2017)"
         ]
     },
     "Laura Fraser": {
@@ -7950,7 +9010,13 @@
     "Laura Haddock": {
         "movies": [
             "Captain America: The First Avenger (2011)",
-            "Guardians of the Galaxy (2014)"
+            "Guardians of the Galaxy (2014)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
+        ]
+    },
+    "Laura Harrier": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)"
         ]
     },
     "Laura Harring": {
@@ -7988,6 +9054,11 @@
             }
         ]
     },
+    "Lauren Cohan": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)"
+        ]
+    },
     "Lauren Ridloff": {
         "movies": [
             "Eternals (2021)"
@@ -8003,7 +9074,9 @@
         "movies": [
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Laurence Luckinbill": {
@@ -8056,7 +9129,13 @@
         "movies": [
             "The Hobbit: The Desolation of Smaug (2013)",
             "Guardians of the Galaxy (2014)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Captain Marvel (2019)"
+        ]
+    },
+    "Leigh Whannell": {
+        "movies": [
+            "Aquaman (2018)"
         ]
     },
     "Leland Orser": {
@@ -8153,6 +9232,12 @@
             "Knocked Up (2007)"
         ]
     },
+    "Leslie Uggams": {
+        "movies": [
+            "Deadpool (2016)",
+            "Deadpool 2 (2018)"
+        ]
+    },
     "Lester Holt": {
         "movies": [
             "The Fugitive (1993)"
@@ -8160,8 +9245,15 @@
     },
     "Letitia Wright": {
         "movies": [
+            "Black Panther (2018)",
             "Ready Player One (2018)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
+        ]
+    },
+    "Lewis Tan": {
+        "movies": [
+            "Deadpool 2 (2018)"
         ]
     },
     "Lia McHugh": {
@@ -8189,12 +9281,19 @@
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Dark Knight Rises (2012)",
-            "Men in Black: International (2019)"
+            "Men in Black: International (2019)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Liev Schreiber": {
         "movies": [
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
+    "Lil Yachty": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Lily Collins": {
@@ -8210,7 +9309,14 @@
             }
         ],
         "movies": [
-            "9 to 5 (1980)"
+            "9 to 5 (1980)",
+            "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
+    "Lin-Manuel Miranda": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Linda Blair": {
@@ -8219,6 +9325,12 @@
                 "movie": "The Exorcist",
                 "year": "1973"
             }
+        ]
+    },
+    "Linda Cardellini": {
+        "movies": [
+            "Avengers: Age of Ultron (2015)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Linda Fiorentino": {
@@ -8232,6 +9344,9 @@
                 "movie": "The Year of Living Dangerously",
                 "year": "1983"
             }
+        ],
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Lindsay Crouse": {
@@ -8273,6 +9388,11 @@
     "Logan Kim": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Logan Marshall-Green": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)"
         ]
     },
     "Lori Petty": {
@@ -8321,7 +9441,8 @@
     "Lucas Till": {
         "movies": [
             "X-Men: First Class (2011)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)"
         ]
     },
     "Lucy Lawless": {
@@ -8341,7 +9462,8 @@
     },
     "Ludi Lin": {
         "movies": [
-            "Power Rangers (2017)"
+            "Power Rangers (2017)",
+            "Aquaman (2018)"
         ]
     },
     "Luke Evans": {
@@ -8356,6 +9478,11 @@
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Luke Hemsworth": {
+        "movies": [
+            "Thor: Ragnarok (2017)"
+        ]
+    },
     "Lulu Wilson": {
         "movies": [
             "Ready Player One (2018)"
@@ -8367,11 +9494,18 @@
                 "movie": "12 Years a Slave",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Black Panther (2018)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Lynda Carter": {
         "movies": [
-            "Sky High (2005)"
+            "Sky High (2005)",
+            "Wonder Woman 1984 (2020)"
         ]
     },
     "Lyndsy Fonseca": {
@@ -8402,7 +9536,9 @@
     },
     "M. Night Shyamalan": {
         "movies": [
-            "Unbreakable (2000)"
+            "Unbreakable (2000)",
+            "Split (2017)",
+            "Glass (2019)"
         ]
     },
     "Macy Gray": {
@@ -8422,7 +9558,9 @@
     },
     "Mads Mikkelsen": {
         "movies": [
-            "Rogue One: A Star Wars Story (2016)"
+            "Doctor Strange (2016)",
+            "Rogue One: A Star Wars Story (2016)",
+            "Polar (2019)"
         ]
     },
     "Mae Whitman": {
@@ -8502,7 +9640,18 @@
             }
         ],
         "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)",
             "Eternals (2021)"
+        ]
+    },
+    "Maisie Richardson-Sellers": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)"
+        ]
+    },
+    "Maisie Williams": {
+        "movies": [
+            "The New Mutants (2020)"
         ]
     },
     "Majel Barrett": {
@@ -8533,7 +9682,8 @@
     },
     "Marc Maron": {
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Joker (2019)"
         ]
     },
     "Marcello Mastroianni": {
@@ -8572,6 +9722,11 @@
             }
         ]
     },
+    "Margo Martindale": {
+        "movies": [
+            "The Kitchen (2019)"
+        ]
+    },
     "Margot Kidder": {
         "movies": [
             "Superman (1978)",
@@ -8592,6 +9747,11 @@
                 "movie": "Bombshell",
                 "year": "2019"
             }
+        ],
+        "movies": [
+            "Suicide Squad (2016)",
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Maria Bakalova": {
@@ -8614,6 +9774,7 @@
     },
     "Mariah Carey": {
         "movies": [
+            "The Lego Batman Movie (2017)",
             "Girls Trip (2017)"
         ]
     },
@@ -8636,6 +9797,11 @@
     "Mariel Hemingway": {
         "movies": [
             "Superman IV: The Quest for Peace (1987)"
+        ]
+    },
+    "Marilyn Manson": {
+        "movies": [
+            "The New Mutants (2020)"
         ]
     },
     "Marina Sirtis": {
@@ -8685,7 +9851,11 @@
             }
         ],
         "movies": [
-            "Spider-Man: Far From Home (2019)"
+            "Captain America: Civil War (2016)",
+            "Spider-Man: Homecoming (2017)",
+            "Avengers: Endgame (2019)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Mark Boone Junior": {
@@ -8699,7 +9869,11 @@
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
-            "Batman: Mask of the Phantasm (1993)"
+            "Batman: Mask of the Phantasm (1993)",
+            "Kingsman: The Secret Service (2015)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Last Jedi (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Mark O'Brien": {
@@ -8725,7 +9899,12 @@
         "movies": [
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "Captain Marvel (2019)",
+            "Avengers: Endgame (2019)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Mark Rylance": {
@@ -8744,6 +9923,8 @@
             "Kick-Ass (2010)",
             "Green Lantern (2011)",
             "John Carter (2012)",
+            "Kingsman: The Secret Service (2015)",
+            "Kingsman: The Golden Circle (2017)",
             "Shazam! (2019)"
         ]
     },
@@ -8854,7 +10035,9 @@
             "Love Actually (2003)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Captain America: Civil War (2016)",
+            "Black Panther (2018)"
         ]
     },
     "Martin Landau": {
@@ -8887,12 +10070,19 @@
         "movies": [
             "Knocked Up (2007)",
             "The Incredible Hulk (2008)",
-            "Spider-Man: Far From Home (2019)"
+            "Spider-Man: Homecoming (2017)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Martine McCutcheon": {
         "movies": [
             "Love Actually (2003)"
+        ]
+    },
+    "Marwan Kenzari": {
+        "movies": [
+            "The Old Guard (2020)"
         ]
     },
     "Mary Elizabeth Mastrantonio": {
@@ -8907,7 +10097,8 @@
         "movies": [
             "Sky High (2005)",
             "Scott Pilgrim vs. the World (2010)",
-            "10 Cloverfield Lane (2016)"
+            "10 Cloverfield Lane (2016)",
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
     "Mary J. Blige": {
@@ -8975,7 +10166,9 @@
             }
         ],
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "Thor: Ragnarok (2017)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Matt Dillon": {
@@ -9001,6 +10194,11 @@
             "Ghost Rider (2007)"
         ]
     },
+    "Matt Lucas": {
+        "movies": [
+            "Polar (2019)"
+        ]
+    },
     "Matthew Broderick": {
         "movies": [
             "WarGames (1983)"
@@ -9013,7 +10211,8 @@
     },
     "Matthew Goode": {
         "movies": [
-            "Watchmen (2009)"
+            "Watchmen (2009)",
+            "The King's Man (2021)"
         ]
     },
     "Matthew Lewis": {
@@ -9050,6 +10249,11 @@
             "Star Wars: The Clone Wars (2008)"
         ]
     },
+    "Matthias Schoenaerts": {
+        "movies": [
+            "The Old Guard (2020)"
+        ]
+    },
     "Maude Apatow": {
         "movies": [
             "Knocked Up (2007)"
@@ -9078,6 +10282,9 @@
                 "movie": "Extremely Loud & Incredibly Close",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Maximiliano Hern\u00e1ndez": {
@@ -9094,6 +10301,7 @@
     "Mckenna Grace": {
         "movies": [
             "Ready Player One (2018)",
+            "Captain Marvel (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -9171,6 +10379,14 @@
                 "movie": "Bridesmaids",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "The Kitchen (2019)"
+        ]
+    },
+    "Meng'er Zhang": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Mercedes Ruehl": {
@@ -9184,6 +10400,11 @@
     "Meredith Anne Bull": {
         "movies": [
             "Strange Magic (2015)"
+        ]
+    },
+    "Meredith Salenger": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Meryl Streep": {
@@ -9305,9 +10526,20 @@
             "Spies Like Us (1985)"
         ]
     },
+    "Michael B. Jordan": {
+        "movies": [
+            "Fantastic Four (2015)",
+            "Black Panther (2018)"
+        ]
+    },
     "Michael Biehn": {
         "movies": [
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Michael Bolton": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Michael Caine": {
@@ -9342,12 +10574,14 @@
         "movies": [
             "Batman Begins (2005)",
             "The Dark Knight (2008)",
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Kingsman: The Secret Service (2015)"
         ]
     },
     "Michael Cera": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Michael Chernus": {
@@ -9397,7 +10631,9 @@
             }
         ],
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Michael Emerson": {
@@ -9422,7 +10658,9 @@
             "300 (2007)",
             "Jonah Hex (2010)",
             "X-Men: First Class (2011)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Michael Gambon": {
@@ -9432,7 +10670,14 @@
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Michael Giacchino": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Michael Gough": {
@@ -9484,7 +10729,8 @@
         ],
         "movies": [
             "Batman (1989)",
-            "RoboCop (2014)"
+            "RoboCop (2014)",
+            "Spider-Man: Homecoming (2017)"
         ]
     },
     "Michael Kelly": {
@@ -9511,6 +10757,11 @@
             "The Hateful Eight (2015)"
         ]
     },
+    "Michael Mando": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)"
+        ]
+    },
     "Michael Murphy": {
         "movies": [
             "Batman Returns (1992)",
@@ -9524,12 +10775,20 @@
     },
     "Michael Pe\u00f1a": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Michael Rooker": {
         "movies": [
-            "Guardians of the Galaxy (2014)"
+            "Guardians of the Galaxy (2014)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "The Suicide Squad (2021)"
+        ]
+    },
+    "Michael Rosenbaum": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "Michael Scholes": {
@@ -9556,7 +10815,8 @@
     },
     "Michael Stuhlbarg": {
         "movies": [
-            "Men in Black 3 (2012)"
+            "Men in Black 3 (2012)",
+            "Doctor Strange (2016)"
         ]
     },
     "Michael Wincott": {
@@ -9597,7 +10857,9 @@
             }
         ],
         "movies": [
-            "Batman Returns (1992)"
+            "Batman Returns (1992)",
+            "Ant-Man and the Wasp (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Michelle Trachtenberg": {
@@ -9625,6 +10887,16 @@
                 "movie": "Manchester by the Sea",
                 "year": "2016"
             }
+        ],
+        "movies": [
+            "Venom (2018)",
+            "Venom: Let There Be Carnage (2021)"
+        ]
+    },
+    "Michelle Yeoh": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Mickey Rourke": {
@@ -9659,6 +10931,16 @@
     "Mikey Kelley": {
         "movies": [
             "TMNT (2007)"
+        ]
+    },
+    "Miles Teller": {
+        "movies": [
+            "Fantastic Four (2015)"
+        ]
+    },
+    "Miley Cyrus": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "Milla Jovovich": {
@@ -9752,6 +11034,12 @@
             "The Best Man (1999)"
         ]
     },
+    "Morena Baccarin": {
+        "movies": [
+            "Deadpool (2016)",
+            "Deadpool 2 (2018)"
+        ]
+    },
     "Morgan Freeman": {
         "leadNoms": [
             {
@@ -9819,6 +11107,11 @@
             "Carrie (1976)"
         ]
     },
+    "Naomi Ackie": {
+        "movies": [
+            "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
     "Naomi Scott": {
         "movies": [
             "Power Rangers (2017)"
@@ -9845,7 +11138,8 @@
         ],
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "Venom: Let There Be Carnage (2021)"
         ]
     },
     "Naseeruddin Shah": {
@@ -9886,7 +11180,8 @@
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "V for Vendetta (2006)",
             "Thor (2011)",
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Natasha Lyonne": {
@@ -9894,10 +11189,16 @@
             "Blade: Trinity (2004)"
         ]
     },
+    "Natasha Rothwell": {
+        "movies": [
+            "Wonder Woman 1984 (2020)"
+        ]
+    },
     "Nathan Fillion": {
         "movies": [
             "Saving Private Ryan (1998)",
-            "Guardians of the Galaxy (2014)"
+            "Guardians of the Galaxy (2014)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Nathaniel Parker": {
@@ -9926,6 +11227,11 @@
     "Neil Hamilton": {
         "movies": [
             "Batman (1966)"
+        ]
+    },
+    "Neil deGrasse Tyson": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
     "Nestor Carbonell": {
@@ -9957,7 +11263,10 @@
     "Nicholas Hoult": {
         "movies": [
             "X-Men: First Class (2011)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)",
+            "Deadpool 2 (2018)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Nick Cannon": {
@@ -10015,7 +11324,9 @@
         "movies": [
             "Ghost Rider (2007)",
             "Kick-Ass (2010)",
-            "Ghost Rider: Spirit of Vengeance (2012)"
+            "Ghost Rider: Spirit of Vengeance (2012)",
+            "Teen Titans Go! To the Movies (2018)",
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Nicole Kidman": {
@@ -10044,7 +11355,8 @@
             }
         ],
         "movies": [
-            "Batman Forever (1995)"
+            "Batman Forever (1995)",
+            "Aquaman (2018)"
         ]
     },
     "Nicole Scherzinger": {
@@ -10127,6 +11439,11 @@
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "O-T Fagbenle": {
+        "movies": [
+            "Black Widow (2021)"
+        ]
+    },
     "Octavia Spencer": {
         "suppNoms": [
             {
@@ -10148,7 +11465,8 @@
     },
     "Olga Kurylenko": {
         "movies": [
-            "Oblivion (2013)"
+            "Oblivion (2013)",
+            "Black Widow (2021)"
         ]
     },
     "Oliver Phelps": {
@@ -10201,7 +11519,8 @@
     },
     "Olivia Munn": {
         "movies": [
-            "Iron Man 2 (2010)"
+            "Iron Man 2 (2010)",
+            "X-Men: Apocalypse (2016)"
         ]
     },
     "Olivia Olson": {
@@ -10270,6 +11589,15 @@
                 "movie": "Citizen Kane",
                 "year": "1941"
             }
+        ]
+    },
+    "Oscar Isaac": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)",
+            "X-Men: Apocalypse (2016)",
+            "Star Wars: The Last Jedi (2017)",
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Owen Wilson": {
@@ -10361,7 +11689,8 @@
             "X-Men: The Last Stand (2006)",
             "TMNT (2007)",
             "X-Men Origins: Wolverine (2009)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "Logan (2017)"
         ]
     },
     "Patrick Warburton": {
@@ -10373,12 +11702,15 @@
     "Patrick Wilson": {
         "movies": [
             "Watchmen (2009)",
-            "Bone Tomahawk (2015)"
+            "Bone Tomahawk (2015)",
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Aquaman (2018)"
         ]
     },
     "Patton Oswalt": {
         "movies": [
             "Blade: Trinity (2004)",
+            "Teen Titans Go! To the Movies (2018)",
             "Eternals (2021)"
         ]
     },
@@ -10389,7 +11721,10 @@
             "Priest (2011)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Paul Dano": {
@@ -10488,6 +11823,9 @@
             "Knocked Up (2007)",
             "How Do You Know (2010)",
             "Ant-Man (2015)",
+            "Captain America: Civil War (2016)",
+            "Ant-Man and the Wasp (2018)",
+            "Avengers: Endgame (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -10508,6 +11846,11 @@
     "Paul Simon": {
         "movies": [
             "Annie Hall (1977)"
+        ]
+    },
+    "Paul Wernick": {
+        "movies": [
+            "Deadpool 2 (2018)"
         ]
     },
     "Paul Winfield": {
@@ -10531,6 +11874,12 @@
     "Paz Vega": {
         "movies": [
             "The Spirit (2008)"
+        ]
+    },
+    "Pedro Pascal": {
+        "movies": [
+            "Kingsman: The Golden Circle (2017)",
+            "Wonder Woman 1984 (2020)"
         ]
     },
     "Pen\u00e9lope Cruz": {
@@ -10569,6 +11918,11 @@
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
+    "Pete Davidson": {
+        "movies": [
+            "The Suicide Squad (2021)"
+        ]
+    },
     "Pete Ploszek": {
         "movies": [
             "Teenage Mutant Ninja Turtles (2014)",
@@ -10587,6 +11941,11 @@
         "movies": [
             "Iron Man (2008)",
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "Peter Capaldi": {
+        "movies": [
+            "The Suicide Squad (2021)"
         ]
     },
     "Peter Cushing": {
@@ -10635,7 +11994,8 @@
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Peter McRobbie": {
@@ -10754,6 +12114,11 @@
             "Almost Famous (2000)"
         ]
     },
+    "Phoebe Waller-Bridge": {
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
+        ]
+    },
     "Piper Laurie": {
         "movies": [
             "Carrie (1976)"
@@ -10761,7 +12126,15 @@
     },
     "Pom Klementieff": {
         "movies": [
-            "Avengers: Infinity War (2018)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "The Suicide Squad (2021)"
+        ]
+    },
+    "Post Malone": {
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Powers Boothe": {
@@ -10809,12 +12182,20 @@
             }
         ]
     },
+    "Rachel House": {
+        "movies": [
+            "Thor: Ragnarok (2017)"
+        ]
+    },
     "Rachel McAdams": {
         "suppNoms": [
             {
                 "movie": "Spotlight",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "Doctor Strange (2016)"
         ]
     },
     "Rachel Nichols": {
@@ -10835,7 +12216,8 @@
             }
         ],
         "movies": [
-            "Constantine (2005)"
+            "Constantine (2005)",
+            "Black Widow (2021)"
         ]
     },
     "Radha Mitchell": {
@@ -10870,11 +12252,14 @@
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "The Lego Batman Movie (2017)",
+            "The King's Man (2021)"
         ]
     },
     "Ralph Ineson": {
         "movies": [
+            "Kingsman: The Secret Service (2015)",
             "The Witch (2016)",
             "Ready Player One (2018)"
         ]
@@ -10893,6 +12278,12 @@
             "John Wick (2014)"
         ]
     },
+    "Randall Park": {
+        "movies": [
+            "Ant-Man and the Wasp (2018)",
+            "Aquaman (2018)"
+        ]
+    },
     "Randy Newman": {
         "movies": [
             "Three Amigos (1986)"
@@ -10908,6 +12299,13 @@
             "Cowboys & Aliens (2011)"
         ]
     },
+    "Ray Fisher": {
+        "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Justice League (2017)",
+            "Zack Snyder's Justice League (2021)"
+        ]
+    },
     "Ray Liotta": {
         "movies": [
             "Sin City: A Dame to Kill For (2014)"
@@ -10916,19 +12314,22 @@
     "Ray Park": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
-            "X-Men (2000)"
+            "X-Men (2000)",
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Ray Stevenson": {
         "movies": [
             "Punisher: War Zone (2008)",
             "Thor (2011)",
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Thor: Ragnarok (2017)"
         ]
     },
     "Ray Winstone": {
         "movies": [
-            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Black Widow (2021)"
         ]
     },
     "Ray Wise": {
@@ -10980,7 +12381,8 @@
     },
     "Reg E. Cathey": {
         "movies": [
-            "The Mask (1994)"
+            "The Mask (1994)",
+            "Fantastic Four (2015)"
         ]
     },
     "Regina Hall": {
@@ -10997,6 +12399,12 @@
             }
         ]
     },
+    "Reid Scott": {
+        "movies": [
+            "Venom (2018)",
+            "Venom: Let There Be Carnage (2021)"
+        ]
+    },
     "Remy Hii": {
         "movies": [
             "Spider-Man: Far From Home (2019)"
@@ -11005,7 +12413,8 @@
     "Rene Russo": {
         "movies": [
             "Thor (2011)",
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Ren\u00e9e Zellweger": {
@@ -11038,10 +12447,17 @@
             "My Fair Lady (1964)"
         ]
     },
+    "Rhett Reese": {
+        "movies": [
+            "Deadpool 2 (2018)"
+        ]
+    },
     "Rhys Ifans": {
         "movies": [
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "Spider-Man: No Way Home (2021)",
+            "The King's Man (2021)"
         ]
     },
     "Rian Johnson": {
@@ -11094,7 +12510,8 @@
             }
         ],
         "movies": [
-            "Red (2010)"
+            "Red (2010)",
+            "Polar (2019)"
         ]
     },
     "Richard E. Grant": {
@@ -11103,6 +12520,10 @@
                 "movie": "Can You Ever Forgive Me?",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Logan (2017)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Richard Farnsworth": {
@@ -11187,6 +12608,11 @@
             "Spaceballs (1987)"
         ]
     },
+    "Riki Lindhome": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
+        ]
+    },
     "Rinko Kikuchi": {
         "suppNoms": [
             {
@@ -11217,12 +12643,19 @@
             }
         ],
         "movies": [
-            "Rogue One: A Star Wars Story (2016)"
+            "Rogue One: A Star Wars Story (2016)",
+            "Venom (2018)"
+        ]
+    },
+    "Rob Delaney": {
+        "movies": [
+            "Deadpool 2 (2018)"
         ]
     },
     "Rob Zombie": {
         "movies": [
-            "Guardians of the Galaxy (2014)"
+            "Guardians of the Galaxy (2014)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "Robbie Coltrane": {
@@ -11279,7 +12712,8 @@
             }
         ],
         "movies": [
-            "The Deer Hunter (1978)"
+            "The Deer Hunter (1978)",
+            "Joker (2019)"
         ]
     },
     "Robert Downey Jr.": {
@@ -11301,7 +12735,11 @@
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
+            "Spider-Man: Homecoming (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Robert Duvall": {
@@ -11370,7 +12808,8 @@
             }
         ],
         "movies": [
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Robert Rodriguez": {
@@ -11428,7 +12867,10 @@
     "Robin Wright": {
         "movies": [
             "Forrest Gump (1994)",
-            "Unbreakable (2000)"
+            "Unbreakable (2000)",
+            "Wonder Woman (2017)",
+            "Wonder Woman 1984 (2020)",
+            "Zack Snyder's Justice League (2021)"
         ]
     },
     "Rodger Bumpass": {
@@ -11440,12 +12882,18 @@
         "movies": [
             "Love Actually (2003)",
             "300 (2007)",
-            "300: Rise of an Empire (2014)"
+            "300: Rise of an Empire (2014)",
+            "Project Power (2020)"
         ]
     },
     "Roman Griffin Davis": {
         "movies": [
             "Jojo Rabbit (2019)"
+        ]
+    },
+    "Ron Cephas Jones": {
+        "movies": [
+            "Venom (2018)"
         ]
     },
     "Ron Perlman": {
@@ -11454,12 +12902,18 @@
             "Star Trek: Nemesis (2002)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)",
-            "Conan the Barbarian (2011)"
+            "Conan the Barbarian (2011)",
+            "Fantastic Beasts and Where to Find Them (2016)"
         ]
     },
     "Ron Silver": {
         "movies": [
             "Timecop (1994)"
+        ]
+    },
+    "Ronny Chieng": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Rooney Mara": {
@@ -11508,13 +12962,15 @@
             "Alexander (2004)",
             "Sin City (2005)",
             "Rent (2005)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "The Lego Batman Movie (2017)"
         ]
     },
     "Rose Byrne": {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "X-Men: Apocalypse (2016)"
         ]
     },
     "Rose McGowan": {
@@ -11546,6 +13002,9 @@
                 "movie": "Fearless",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
     "Ross Butler": {
@@ -11555,7 +13014,8 @@
     },
     "Ross Marquand": {
         "movies": [
-            "Avengers: Infinity War (2018)"
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Rowan Atkinson": {
@@ -11574,6 +13034,16 @@
                 "movie": "American Gangster",
                 "year": "2007"
             }
+        ]
+    },
+    "Ruby O. Fee": {
+        "movies": [
+            "Polar (2019)"
+        ]
+    },
+    "Rudhraksh Jaiswal": {
+        "movies": [
+            "Extraction (2020)"
         ]
     },
     "Rufus Sewell": {
@@ -11677,7 +13147,9 @@
             "Blade: Trinity (2004)",
             "X-Men Origins: Wolverine (2009)",
             "Green Lantern (2011)",
-            "R.I.P.D. (2013)"
+            "R.I.P.D. (2013)",
+            "Deadpool (2016)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Ryan Seacrest": {
@@ -11777,7 +13249,8 @@
     },
     "Sam Hargrave": {
         "movies": [
-            "Atomic Blonde (2017)"
+            "Atomic Blonde (2017)",
+            "Extraction (2020)"
         ]
     },
     "Sam Heughan": {
@@ -11792,7 +13265,8 @@
     },
     "Sam Neill": {
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "Thor: Ragnarok (2017)"
         ]
     },
     "Sam Palladio": {
@@ -11830,6 +13304,11 @@
             "Jojo Rabbit (2019)"
         ]
     },
+    "Sam Witwer": {
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
+        ]
+    },
     "Samantha Morton": {
         "leadNoms": [
             {
@@ -11844,7 +13323,8 @@
             }
         ],
         "movies": [
-            "John Carter (2012)"
+            "John Carter (2012)",
+            "Fantastic Beasts and Where to Find Them (2016)"
         ]
     },
     "Samara Weaving": {
@@ -11875,9 +13355,16 @@
             "The Avengers (2012)",
             "RoboCop (2014)",
             "Captain America: The Winter Soldier (2014)",
+            "Kingsman: The Secret Service (2015)",
+            "Avengers: Age of Ultron (2015)",
             "The Hateful Eight (2015)",
             "Avengers: Infinity War (2018)",
-            "Spider-Man: Far From Home (2019)"
+            "Incredibles 2 (2018)",
+            "Glass (2019)",
+            "Captain Marvel (2019)",
+            "Avengers: Endgame (2019)",
+            "Spider-Man: Far From Home (2019)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Sanaa Lathan": {
@@ -11938,7 +13425,8 @@
     },
     "Sarah Paulson": {
         "movies": [
-            "The Spirit (2008)"
+            "The Spirit (2008)",
+            "Glass (2019)"
         ]
     },
     "Sarah Silverman": {
@@ -11948,7 +13436,8 @@
     },
     "Sarah Vowell": {
         "movies": [
-            "The Incredibles (2004)"
+            "The Incredibles (2004)",
+            "Incredibles 2 (2018)"
         ]
     },
     "Sasha Lane": {
@@ -11958,7 +13447,8 @@
     },
     "Sa\u00efd Taghmaoui": {
         "movies": [
-            "Conan the Barbarian (2011)"
+            "Conan the Barbarian (2011)",
+            "Wonder Woman (2017)"
         ]
     },
     "Scarlett Johansson": {
@@ -11980,18 +13470,39 @@
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
             "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)",
+            "Captain America: Civil War (2016)",
             "Avengers: Infinity War (2018)",
-            "Jojo Rabbit (2019)"
+            "Captain Marvel (2019)",
+            "Avengers: Endgame (2019)",
+            "Jojo Rabbit (2019)",
+            "Black Widow (2021)"
         ]
     },
     "Scoot McNairy": {
         "movies": [
+            "Batman v Superman: Dawn of Justice (2016)",
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Scott Adkins": {
+        "movies": [
+            "Doctor Strange (2016)"
         ]
     },
     "Scott Adsit": {
         "movies": [
             "Big Hero 6 (2014)"
+        ]
+    },
+    "Scott Eastwood": {
+        "movies": [
+            "Suicide Squad (2016)"
+        ]
+    },
+    "Scott Menville": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Sean Astin": {
@@ -12021,7 +13532,10 @@
     "Sean Gunn": {
         "movies": [
             "Guardians of the Galaxy (2014)",
-            "Avengers: Infinity War (2018)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Sean Patrick Thomas": {
@@ -12069,7 +13583,10 @@
             "Captain America: The First Avenger (2011)",
             "Captain America: The Winter Soldier (2014)",
             "Ant-Man (2015)",
-            "Avengers: Infinity War (2018)"
+            "Captain America: Civil War (2016)",
+            "Black Panther (2018)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Sela Ward": {
@@ -12096,7 +13613,9 @@
     },
     "Seth Green": {
         "movies": [
-            "Guardians of the Galaxy (2014)"
+            "Guardians of the Galaxy (2014)",
+            "The Lego Batman Movie (2017)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "Seth MacFarlane": {
@@ -12115,6 +13634,11 @@
     "Shailene Woodley": {
         "movies": [
             "The Amazing Spider-Man 2 (2014)"
+        ]
+    },
+    "Shameik Moore": {
+        "movies": [
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "Shane West": {
@@ -12167,6 +13691,12 @@
             "X-Men (2000)"
         ]
     },
+    "Shea Whigham": {
+        "movies": [
+            "Star Trek Beyond (2016)",
+            "Joker (2019)"
+        ]
+    },
     "Shelley Duvall": {
         "movies": [
             "Annie Hall (1977)"
@@ -12180,7 +13710,8 @@
     "Shirley Henderson": {
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Shirley MacLaine": {
@@ -12220,7 +13751,8 @@
         ],
         "movies": [
             "X-Men: The Last Stand (2006)",
-            "The Lake House (2006)"
+            "The Lake House (2006)",
+            "Star Trek Beyond (2016)"
         ]
     },
     "Sid Haig": {
@@ -12281,7 +13813,14 @@
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Adventures of Tintin (2011)",
             "Star Trek Into Darkness (2013)",
+            "Star Wars: The Force Awakens (2015)",
+            "Star Trek Beyond (2016)",
             "Ready Player One (2018)"
+        ]
+    },
+    "Simu Liu": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Siobhan Fallon Hogan": {
@@ -12342,12 +13881,19 @@
     },
     "Sofia Boutella": {
         "movies": [
+            "Kingsman: The Secret Service (2015)",
+            "Star Trek Beyond (2016)",
             "Atomic Blonde (2017)"
         ]
     },
     "Sofia Coppola": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
+    "Sophia Bush": {
+        "movies": [
+            "Incredibles 2 (2018)"
         ]
     },
     "Sophia Myles": {
@@ -12364,6 +13910,12 @@
         ],
         "movies": [
             "Hellboy (2019)"
+        ]
+    },
+    "Sophie Turner": {
+        "movies": [
+            "X-Men: Apocalypse (2016)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Spencer Fox": {
@@ -12416,7 +13968,8 @@
     },
     "Spencer Treat Clark": {
         "movies": [
-            "Unbreakable (2000)"
+            "Unbreakable (2000)",
+            "Glass (2019)"
         ]
     },
     "Stacy Keach": {
@@ -12439,7 +13992,8 @@
         ],
         "movies": [
             "Road to Perdition (2002)",
-            "Captain America: The First Avenger (2011)"
+            "Captain America: The First Avenger (2011)",
+            "The King's Man (2021)"
         ]
     },
     "Stellan Skarsg\u00e5rd": {
@@ -12448,7 +14002,13 @@
             "Pirates of the Caribbean: At World's End (2007)",
             "Thor (2011)",
             "The Avengers (2012)",
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Avengers: Age of Ultron (2015)"
+        ]
+    },
+    "Stephanie Hsu": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Stephen Amell": {
@@ -12487,7 +14047,8 @@
         "movies": [
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
-            "Hellboy (2019)"
+            "Hellboy (2019)",
+            "Venom: Let There Be Carnage (2021)"
         ]
     },
     "Stephen Lang": {
@@ -12502,6 +14063,7 @@
     },
     "Stephen Merchant": {
         "movies": [
+            "Logan (2017)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -12519,6 +14081,17 @@
     "Sterling Hayden": {
         "movies": [
             "9 to 5 (1980)"
+        ]
+    },
+    "Sterling K. Brown": {
+        "movies": [
+            "Black Panther (2018)"
+        ]
+    },
+    "Steve Agee": {
+        "movies": [
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Steve Buscemi": {
@@ -12570,6 +14143,11 @@
                 "movie": "Six Degrees of Separation",
                 "year": "1993"
             }
+        ]
+    },
+    "Storm Reid": {
+        "movies": [
+            "The Suicide Squad (2021)"
         ]
     },
     "Stormy Daniels": {
@@ -12655,7 +14233,9 @@
             }
         ],
         "movies": [
-            "Rocky (1976)"
+            "Rocky (1976)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "The Suicide Squad (2021)"
         ]
     },
     "T. J. Storm": {
@@ -12666,19 +14246,25 @@
     "T.J. Miller": {
         "movies": [
             "Big Hero 6 (2014)",
-            "Ready Player One (2018)"
+            "Deadpool (2016)",
+            "Ready Player One (2018)",
+            "Deadpool 2 (2018)"
         ]
     },
     "Tadanobu Asano": {
         "movies": [
             "Thor (2011)",
-            "Thor: The Dark World (2013)"
+            "Thor: The Dark World (2013)",
+            "Thor: Ragnarok (2017)"
         ]
     },
     "Taika Waititi": {
         "movies": [
             "Green Lantern (2011)",
-            "Jojo Rabbit (2019)"
+            "Thor: Ragnarok (2017)",
+            "Avengers: Endgame (2019)",
+            "Jojo Rabbit (2019)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Talia Shire": {
@@ -12703,6 +14289,11 @@
             "Cruel Intentions (1999)"
         ]
     },
+    "Tara Strong": {
+        "movies": [
+            "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
     "Taraji P. Henson": {
         "suppNoms": [
             {
@@ -12714,6 +14305,12 @@
     "Taran Killam": {
         "movies": [
             "Teenage Mutant Ninja Turtles (2014)"
+        ]
+    },
+    "Taron Egerton": {
+        "movies": [
+            "Kingsman: The Secret Service (2015)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Taye Diggs": {
@@ -12748,7 +14345,8 @@
             "Barb Wire (1996)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-            "Green Lantern (2011)"
+            "Green Lantern (2011)",
+            "Aquaman (2018)"
         ]
     },
     "Terence Stamp": {
@@ -12782,6 +14380,11 @@
             "Iron Man (2008)"
         ]
     },
+    "Terry Crews": {
+        "movies": [
+            "Deadpool 2 (2018)"
+        ]
+    },
     "Terry Gilliam": {
         "movies": [
             "Spies Like Us (1985)"
@@ -12791,7 +14394,8 @@
         "movies": [
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Terry O'Quinn": {
@@ -12801,7 +14405,14 @@
     },
     "Tessa Thompson": {
         "movies": [
+            "Thor: Ragnarok (2017)",
+            "Avengers: Endgame (2019)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Thandiwe Newton": {
+        "movies": [
+            "Solo: A Star Wars Story (2018)"
         ]
     },
     "Theresa Randle": {
@@ -12811,7 +14422,8 @@
     },
     "Thomas Brodie-Sangster": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Thomas Haden Church": {
@@ -12824,7 +14436,8 @@
         "movies": [
             "Spider-Man 3 (2007)",
             "John Carter (2012)",
-            "Hellboy (2019)"
+            "Hellboy (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Thomas Jane": {
@@ -12838,7 +14451,8 @@
         "movies": [
             "Blade II (2002)",
             "Wanted (2008)",
-            "Captain America: The Winter Soldier (2014)"
+            "Captain America: The Winter Soldier (2014)",
+            "Avengers: Age of Ultron (2015)"
         ]
     },
     "Thomasin McKenzie": {
@@ -12853,7 +14467,8 @@
     },
     "Tiffany Haddish": {
         "movies": [
-            "Girls Trip (2017)"
+            "Girls Trip (2017)",
+            "The Kitchen (2019)"
         ]
     },
     "Tilda Swinton": {
@@ -12868,7 +14483,9 @@
             "Constantine (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
-            "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+            "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+            "Doctor Strange (2016)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Tim Bagley": {
@@ -12878,7 +14495,8 @@
     },
     "Tim Blake Nelson": {
         "movies": [
-            "The Incredible Hulk (2008)"
+            "The Incredible Hulk (2008)",
+            "Fantastic Four (2015)"
         ]
     },
     "Tim Blaney": {
@@ -12914,7 +14532,8 @@
         ],
         "movies": [
             "The Incredible Hulk (2008)",
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Timothy Hutton": {
@@ -12944,7 +14563,8 @@
     },
     "Tip \"T.I.\" Harris": {
         "movies": [
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Titus Welliver": {
@@ -12956,7 +14576,8 @@
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
-            "Spider-Man 3 (2007)"
+            "Spider-Man 3 (2007)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Toby Jones": {
@@ -12971,6 +14592,7 @@
     "Toby Kebbell": {
         "movies": [
             "Alexander (2004)",
+            "Fantastic Four (2015)",
             "Bloodshot (2020)"
         ]
     },
@@ -13060,7 +14682,10 @@
         "movies": [
             "Star Trek: Nemesis (2002)",
             "The Dark Knight Rises (2012)",
-            "Locke (2014)"
+            "Locke (2014)",
+            "Venom (2018)",
+            "Venom: Let There Be Carnage (2021)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Tom Hiddleston": {
@@ -13068,26 +14693,35 @@
             "Thor (2011)",
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
-            "Avengers: Infinity War (2018)"
+            "Thor: Ragnarok (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Tom Holland": {
         "movies": [
             "Locke (2014)",
+            "Captain America: Civil War (2016)",
+            "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
-            "Spider-Man: Far From Home (2019)"
+            "Avengers: Endgame (2019)",
+            "Spider-Man: Far From Home (2019)",
+            "Venom: Let There Be Carnage (2021)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Tom Hollander": {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
-            "Pirates of the Caribbean: At World's End (2007)"
+            "Pirates of the Caribbean: At World's End (2007)",
+            "The King's Man (2021)"
         ]
     },
     "Tom Kenny": {
         "movies": [
             "Sky High (2005)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Tom Sizemore": {
@@ -13193,9 +14827,16 @@
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
+    "Tony Leung": {
+        "movies": [
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
+        ]
+    },
     "Tony Revolori": {
         "movies": [
-            "Spider-Man: Far From Home (2019)"
+            "Spider-Man: Homecoming (2017)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Tony Roberts": {
@@ -13239,6 +14880,11 @@
             "Superman (1978)"
         ]
     },
+    "Trevor Noah": {
+        "movies": [
+            "Black Panther (2018)"
+        ]
+    },
     "Triple H": {
         "movies": [
             "Blade: Trinity (2004)"
@@ -13264,7 +14910,8 @@
     },
     "Tsai Chin": {
         "movies": [
-            "The Joy Luck Club (1993)"
+            "The Joy Luck Club (1993)",
+            "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
     "Ty Burrell": {
@@ -13274,12 +14921,16 @@
     },
     "Ty Simpkins": {
         "movies": [
-            "Iron Man 3 (2013)"
+            "Iron Man 3 (2013)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Tye Sheridan": {
         "movies": [
-            "Ready Player One (2018)"
+            "X-Men: Apocalypse (2016)",
+            "Ready Player One (2018)",
+            "Deadpool 2 (2018)",
+            "Dark Phoenix (2019)"
         ]
     },
     "Tyler Bates": {
@@ -13301,6 +14952,11 @@
         "movies": [
             "Star Trek (2009)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Tyne Daly": {
+        "movies": [
+            "Spider-Man: Homecoming (2017)"
         ]
     },
     "T\u00e9a Leoni": {
@@ -13325,6 +14981,11 @@
             "Batman & Robin (1997)"
         ]
     },
+    "Usher": {
+        "movies": [
+            "Incredibles 2 (2018)"
+        ]
+    },
     "Val Kilmer": {
         "movies": [
             "Batman Forever (1995)",
@@ -13345,6 +15006,11 @@
     "Vanessa Angel": {
         "movies": [
             "Spies Like Us (1985)"
+        ]
+    },
+    "Vanessa Hudgens": {
+        "movies": [
+            "Polar (2019)"
         ]
     },
     "Vanessa Kirby": {
@@ -13403,6 +15069,12 @@
             "Harry Potter and the Sorcerer's Stone (2001)"
         ]
     },
+    "Veronica Ng\u00f4": {
+        "movies": [
+            "Star Wars: The Last Jedi (2017)",
+            "The Old Guard (2020)"
+        ]
+    },
     "Victoria Rowell": {
         "movies": [
             "Barb Wire (1996)"
@@ -13434,7 +15106,9 @@
         "movies": [
             "Saving Private Ryan (1998)",
             "Guardians of the Galaxy (2014)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
             "Bloodshot (2020)"
         ]
     },
@@ -13467,7 +15141,8 @@
     },
     "Ving Rhames": {
         "movies": [
-            "Surrogates (2009)"
+            "Surrogates (2009)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "Vinnie Jones": {
@@ -13495,6 +15170,10 @@
                 "movie": "Fences",
                 "year": "2016"
             }
+        ],
+        "movies": [
+            "Suicide Squad (2016)",
+            "The Suicide Squad (2021)"
         ]
     },
     "Virginia Madsen": {
@@ -13541,7 +15220,8 @@
     "Walton Goggins": {
         "movies": [
             "Cowboys & Aliens (2011)",
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Warren Beatty": {
@@ -13583,7 +15263,11 @@
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
-            "Rogue One: A Star Wars Story (2016)"
+            "Star Wars: The Force Awakens (2015)",
+            "Rogue One: A Star Wars Story (2016)",
+            "Star Wars: The Last Jedi (2017)",
+            "Solo: A Star Wars Story (2018)",
+            "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
     "Wayne Knight": {
@@ -13633,7 +15317,8 @@
     "Wil Wheaton": {
         "movies": [
             "Star Trek: Nemesis (2002)",
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Will Arnett": {
@@ -13642,7 +15327,9 @@
             "Horton Hears a Who! (2008)",
             "Jonah Hex (2010)",
             "Teenage Mutant Ninja Turtles (2014)",
-            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
+            "The Lego Batman Movie (2017)",
+            "Teen Titans Go! To the Movies (2018)"
         ]
     },
     "Will Patton": {
@@ -13673,7 +15360,8 @@
         "movies": [
             "Men in Black (1997)",
             "Men in Black II (2002)",
-            "Men in Black 3 (2012)"
+            "Men in Black 3 (2012)",
+            "Suicide Squad (2016)"
         ]
     },
     "Will Yun Lee": {
@@ -13709,7 +15397,10 @@
             "John Carter (2012)",
             "John Wick (2014)",
             "The Florida Project (2017)",
-            "The Lighthouse (2019)"
+            "Aquaman (2018)",
+            "The Lighthouse (2019)",
+            "Zack Snyder's Justice League (2021)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "William Fichtner": {
@@ -13753,7 +15444,10 @@
         "movies": [
             "A History of Violence (2005)",
             "The Incredible Hulk (2008)",
-            "Avengers: Infinity War (2018)"
+            "Captain America: Civil War (2016)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)",
+            "Black Widow (2021)"
         ]
     },
     "William Moseley": {
@@ -13808,7 +15502,9 @@
     },
     "Winston Duke": {
         "movies": [
-            "Avengers: Infinity War (2018)"
+            "Black Panther (2018)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Wood Harris": {
@@ -13844,16 +15540,27 @@
                 "movie": "Three Billboards Outside Ebbing, Missouri",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Solo: A Star Wars Story (2018)",
+            "Venom (2018)",
+            "Venom: Let There Be Carnage (2021)"
         ]
     },
     "Wyatt Oleff": {
         "movies": [
-            "Guardians of the Galaxy (2014)"
+            "Guardians of the Galaxy (2014)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
     "Wyatt Russell": {
         "movies": [
             "Cowboys & Aliens (2011)"
+        ]
+    },
+    "Yahya Abdul-Mateen II": {
+        "movies": [
+            "Aquaman (2018)"
         ]
     },
     "Yalitza Aparicio": {
@@ -13862,6 +15569,11 @@
                 "movie": "Roma",
                 "year": "2018"
             }
+        ]
+    },
+    "Yayan Ruhian": {
+        "movies": [
+            "Star Wars: The Force Awakens (2015)"
         ]
     },
     "Youn Yuh-jung": {
@@ -13880,21 +15592,38 @@
             }
         ]
     },
+    "Yvette Nicole Brown": {
+        "movies": [
+            "Avengers: Endgame (2019)"
+        ]
+    },
     "Yvonne Strahovski": {
         "movies": [
             "I, Frankenstein (2014)"
         ]
     },
+    "Zach Galifianakis": {
+        "movies": [
+            "The Lego Batman Movie (2017)"
+        ]
+    },
     "Zachary Levi": {
         "movies": [
             "Thor: The Dark World (2013)",
+            "Thor: Ragnarok (2017)",
             "Shazam! (2019)"
         ]
     },
     "Zachary Quinto": {
         "movies": [
             "Star Trek (2009)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Star Trek Beyond (2016)"
+        ]
+    },
+    "Zack Snyder": {
+        "movies": [
+            "Wonder Woman (2017)"
         ]
     },
     "Zahn McClarnon": {
@@ -13902,9 +15631,17 @@
             "Bone Tomahawk (2015)"
         ]
     },
+    "Zazie Beetz": {
+        "movies": [
+            "Deadpool 2 (2018)",
+            "Joker (2019)"
+        ]
+    },
     "Zendaya": {
         "movies": [
-            "Spider-Man: Far From Home (2019)"
+            "Spider-Man: Homecoming (2017)",
+            "Spider-Man: Far From Home (2019)",
+            "Spider-Man: No Way Home (2021)"
         ]
     },
     "Zhang Ziyi": {
@@ -13919,7 +15656,10 @@
             "The Losers (2010)",
             "Star Trek Into Darkness (2013)",
             "Guardians of the Galaxy (2014)",
-            "Avengers: Infinity War (2018)"
+            "Star Trek Beyond (2016)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Avengers: Infinity War (2018)",
+            "Avengers: Endgame (2019)"
         ]
     },
     "Zooey Deschanel": {
@@ -13935,7 +15675,10 @@
     },
     "Zo\u00eb Kravitz": {
         "movies": [
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "The Lego Batman Movie (2017)",
+            "Fantastic Beasts: The Crimes of Grindelwald (2018)",
+            "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
     "will.i.am": {

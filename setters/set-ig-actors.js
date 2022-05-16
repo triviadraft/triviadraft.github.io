@@ -24,7 +24,11 @@ var igActorMap = {
                 "Kick-Ass 2 (2013)"
             ],
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -59,7 +63,8 @@ var igActorMap = {
     "Abby Ryder Fortson": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -77,6 +82,13 @@ var igActorMap = {
             ]
         }
     },
+    "Abraham Attah": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
+            ]
+        }
+    },
     "Adam Baldwin": {
         "movies": {
             "Predator": [
@@ -88,6 +100,19 @@ var igActorMap = {
         "movies": {
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ],
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ],
+            "X-Men": [
+                "The New Mutants (2020)"
+            ]
+        }
+    },
+    "Adam Brody": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -111,6 +136,29 @@ var igActorMap = {
         "movies": {
             "Mad Max": [
                 "Mad Max Beyond Thunderdome (1985)"
+            ]
+        }
+    },
+    "Adam David Thompson": {
+        "movies": {
+            "Unbreakable": [
+                "Glass (2019)"
+            ]
+        }
+    },
+    "Adam DeVine": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
+    "Adam Driver": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -146,6 +194,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Thor: The Dark World (2013)"
+            ],
+            "DCEU": [
+                "Suicide Squad (2016)"
             ]
         }
     },
@@ -233,6 +284,13 @@ var igActorMap = {
             ]
         }
     },
+    "Akira Akbar": {
+        "movies": {
+            "MCU": [
+                "Captain Marvel (2019)"
+            ]
+        }
+    },
     "Aksel Hennie": {
         "movies": {
             "Hercules (2014)": [
@@ -258,6 +316,13 @@ var igActorMap = {
         "movies": {
             "The Phantom (1996)": [
                 "The Phantom (1996)"
+            ]
+        }
+    },
+    "Alain Chanoine": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
             ]
         }
     },
@@ -343,6 +408,16 @@ var igActorMap = {
             ],
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
+    "Alden Ehrenreich": {
+        "movies": {
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -383,6 +458,13 @@ var igActorMap = {
             ]
         }
     },
+    "Alex Meraz": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ]
+        }
+    },
     "Alexa Vega": {
         "movies": {
             "Sin City": [
@@ -394,6 +476,29 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien: Covenant (2017)"
+            ]
+        }
+    },
+    "Alexandra Maria Lara": {
+        "movies": {
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
+    "Alexandra Rabe": {
+        "movies": {
+            "MCU": [
+                "Avengers: Endgame (2019)"
+            ]
+        }
+    },
+    "Alexandra Shipp": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)",
+                "Deadpool 2 (2018)",
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -423,6 +528,9 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek: First Contact (1996)"
+            ],
+            "MCU": [
+                "Captain America: Civil War (2016)"
             ]
         }
     },
@@ -449,6 +557,23 @@ var igActorMap = {
             ],
             "Strange Magic (2015)": [
                 "Strange Magic (2015)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
+            ]
+        }
+    },
+    "Algenis P\u00e9rez Soto": {
+        "movies": {
+            "MCU": [
+                "Captain Marvel (2019)"
+            ]
+        }
+    },
+    "Ali Wong": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -456,6 +581,12 @@ var igActorMap = {
         "movies": {
             "Predator": [
                 "Predators (2010)"
+            ],
+            "X-Men": [
+                "The New Mutants (2020)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -500,6 +631,14 @@ var igActorMap = {
             ]
         }
     },
+    "Alison Sudol": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+            ]
+        }
+    },
     "Alistair Petrie": {
         "movies": {
             "Star Wars": [
@@ -510,6 +649,13 @@ var igActorMap = {
             ]
         }
     },
+    "Allen Maldonado": {
+        "movies": {
+            "Project Power (2020)": [
+                "Project Power (2020)"
+            ]
+        }
+    },
     "Allison Pill": {
         "movies": {
             "Snowpiercer (2014)": [
@@ -517,10 +663,33 @@ var igActorMap = {
             ]
         }
     },
+    "Ally Sheedy": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
+            ]
+        }
+    },
     "Alon Abutbul": {
         "movies": {
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ]
+        }
+    },
+    "Amber Heard": {
+        "movies": {
+            "DCEU": [
+                "Justice League (2017)",
+                "Aquaman (2018)",
+                "Zack Snyder's Justice League (2021)"
+            ]
+        }
+    },
+    "Amr Waked": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
             ]
         }
     },
@@ -534,7 +703,10 @@ var igActorMap = {
     "Amy Adams": {
         "movies": {
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -544,6 +716,13 @@ var igActorMap = {
                 "Mighty Morphin Power Rangers: The Movie (1995)",
                 "Turbo: A Power Rangers Movie (1997)",
                 "Power Rangers (2017)"
+            ]
+        }
+    },
+    "Amy Landecker": {
+        "movies": {
+            "Project Power (2020)": [
+                "Project Power (2020)"
             ]
         }
     },
@@ -565,6 +744,20 @@ var igActorMap = {
         "movies": {
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ]
+        }
+    },
+    "Anamaria Marinca": {
+        "movies": {
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
+            ]
+        }
+    },
+    "Anderson Cooper": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -608,6 +801,19 @@ var igActorMap = {
             "Spider-Man": [
                 "The Amazing Spider-Man (2012)",
                 "The Amazing Spider-Man 2 (2014)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
+            ]
+        }
+    },
+    "Andrew Stehlin": {
+        "movies": {
+            "30 Days of Night (2007)": [
+                "30 Days of Night (2007)"
+            ],
+            "X-Men": [
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -630,6 +836,13 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "Jurassic World (2015)"
+            ]
+        }
+    },
+    "Andy Le": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -656,6 +869,15 @@ var igActorMap = {
             ],
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
+            ],
+            "MCU": [
+                "Avengers: Age of Ultron (2015)",
+                "Black Panther (2018)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -670,6 +892,10 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Green Lantern (2011)"
+            ],
+            "MCU": [
+                "Black Panther (2018)",
+                "Avengers: Endgame (2019)"
             ],
             "Transformers": [
                 "Bumblebee (2018)"
@@ -696,7 +922,9 @@ var igActorMap = {
     "Angourie Rice": {
         "movies": {
             "MCU": [
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Homecoming (2017)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -779,6 +1007,13 @@ var igActorMap = {
             ]
         }
     },
+    "Annabella Sciorra": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
     "Annabelle Wallis": {
         "movies": {
             "X-Men": [
@@ -797,6 +1032,13 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ]
+        }
+    },
+    "Annette Bening": {
+        "movies": {
+            "MCU": [
+                "Captain Marvel (2019)"
             ]
         }
     },
@@ -831,10 +1073,21 @@ var igActorMap = {
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
                 "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
                 "Star Wars: The Clone Wars (2008)",
-                "Rogue One: A Star Wars Story (2016)"
+                "Star Wars: The Force Awakens (2015)",
+                "Rogue One: A Star Wars Story (2016)",
+                "Star Wars: The Last Jedi (2017)",
+                "Solo: A Star Wars Story (2018)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Middle-earth": [
                 "The Lord of the Rings (1978)"
+            ]
+        }
+    },
+    "Anthony Grant": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -852,7 +1105,8 @@ var igActorMap = {
             ],
             "MCU": [
                 "Thor (2011)",
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Thor: Ragnarok (2017)"
             ],
             "Red": [
                 "Red 2 (2013)"
@@ -866,8 +1120,11 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)",
                 "Ant-Man (2015)",
-                "Avengers: Infinity War (2018)"
+                "Captain America: Civil War (2016)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -907,7 +1164,8 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
             ],
             "Terminator": [
                 "Terminator Salvation (2009)"
@@ -919,6 +1177,24 @@ var igActorMap = {
             "Zorro": [
                 "The Mask of Zorro (1998)",
                 "The Legend of Zorro (2005)"
+            ]
+        }
+    },
+    "Anya Taylor-Joy": {
+        "movies": {
+            "Unbreakable": [
+                "Split (2017)",
+                "Glass (2019)"
+            ],
+            "X-Men": [
+                "The New Mutants (2020)"
+            ]
+        }
+    },
+    "Arian Moayed": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -1010,10 +1286,18 @@ var igActorMap = {
             ]
         }
     },
+    "Asher Angel": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "Ashley Eckstein": {
         "movies": {
             "Star Wars": [
-                "Star Wars: The Clone Wars (2008)"
+                "Star Wars: The Clone Wars (2008)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -1021,6 +1305,20 @@ var igActorMap = {
         "movies": {
             "A History of Violence (2005)": [
                 "A History of Violence (2005)"
+            ]
+        }
+    },
+    "Atandwa Kani": {
+        "movies": {
+            "MCU": [
+                "Black Panther (2018)"
+            ]
+        }
+    },
+    "Ato Essandoh": {
+        "movies": {
+            "X-Men": [
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -1056,6 +1354,13 @@ var igActorMap = {
         "movies": {
             "Power Rangers": [
                 "Turbo: A Power Rangers Movie (1997)"
+            ]
+        }
+    },
+    "Awkwafina": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -1101,6 +1406,13 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek Generations (1994)"
+            ]
+        }
+    },
+    "Barry Bostwick": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -1157,6 +1469,12 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Daredevil (2003)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Suicide Squad (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -1188,10 +1506,18 @@ var igActorMap = {
             ]
         }
     },
+    "Ben Hardy": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
+            ]
+        }
+    },
     "Ben Kingsley": {
         "movies": {
             "MCU": [
-                "Iron Man 3 (2013)"
+                "Iron Man 3 (2013)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -1207,6 +1533,7 @@ var igActorMap = {
                 "Ready Player One (2018)"
             ],
             "MCU": [
+                "Captain Marvel (2019)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -1237,7 +1564,11 @@ var igActorMap = {
                 "Star Trek Into Darkness (2013)"
             ],
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Doctor Strange (2016)",
+                "Thor: Ragnarok (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -1250,7 +1581,11 @@ var igActorMap = {
                 "Kick-Ass 2 (2013)"
             ],
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Doctor Strange (2016)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -1263,6 +1598,9 @@ var igActorMap = {
                 "Thor: The Dark World (2013)",
                 "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -1270,6 +1608,9 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Catwoman (2004)"
+            ],
+            "MCU": [
+                "Doctor Strange (2016)"
             ]
         }
     },
@@ -1302,10 +1643,25 @@ var igActorMap = {
             ]
         }
     },
+    "Betty Buckley": {
+        "movies": {
+            "Unbreakable": [
+                "Split (2017)"
+            ]
+        }
+    },
     "Bibi Besch": {
         "movies": {
             "Star Trek": [
                 "Star Trek II: The Wrath of Khan (1982)"
+            ]
+        }
+    },
+    "Bill Camp": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)",
+                "Joker (2019)"
             ]
         }
     },
@@ -1390,6 +1746,12 @@ var igActorMap = {
     },
     "Bill Skarsg\u00e5rd": {
         "movies": {
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ],
             "MCU": [
                 "Eternals (2021)"
             ]
@@ -1406,6 +1768,15 @@ var igActorMap = {
         "movies": {
             "Narnia": [
                 "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+            ]
+        }
+    },
+    "Billie Lourd": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -1453,6 +1824,10 @@ var igActorMap = {
             ],
             "Alien": [
                 "Alien: Covenant (2017)"
+            ],
+            "DCEU": [
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -1460,10 +1835,12 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "The Empire Strikes Back (1980)",
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Batman": [
-                "Batman (1989)"
+                "Batman (1989)",
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -1513,6 +1890,13 @@ var igActorMap = {
             ]
         }
     },
+    "Blu Hunt": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
+            ]
+        }
+    },
     "Bob Balaban": {
         "movies": {
             "Ghost World (2001)": [
@@ -1524,6 +1908,13 @@ var igActorMap = {
         "movies": {
             "Mask": [
                 "Son of the Mask (2005)"
+            ]
+        }
+    },
+    "Bob Odenkirk": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -1547,7 +1938,15 @@ var igActorMap = {
     "Bobby Cannavale": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
+            ]
+        }
+    },
+    "Bokeem Woodbine": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -1596,6 +1995,9 @@ var igActorMap = {
     },
     "Boyd Holbrook": {
         "movies": {
+            "X-Men": [
+                "Logan (2017)"
+            ],
             "Predator": [
                 "The Predator (2018)"
             ]
@@ -1604,7 +2006,8 @@ var igActorMap = {
     "Brad Bird": {
         "movies": {
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -1628,10 +2031,24 @@ var igActorMap = {
             ]
         }
     },
+    "Brad Pitt": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Brad Renfro": {
         "movies": {
             "Ghost World (2001)": [
                 "Ghost World (2001)"
+            ]
+        }
+    },
+    "Brad William Henke": {
+        "movies": {
+            "Unbreakable": [
+                "Split (2017)"
             ]
         }
     },
@@ -1646,7 +2063,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -1735,6 +2154,9 @@ var igActorMap = {
             ],
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ],
+            "DC": [
+                "Joker (2019)"
             ]
         }
     },
@@ -1783,6 +2205,13 @@ var igActorMap = {
             ]
         }
     },
+    "Brian Huskey": {
+        "movies": {
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
+            ]
+        }
+    },
     "Brian Posehn": {
         "movies": {
             "Marvel": [
@@ -1811,8 +2240,32 @@ var igActorMap = {
     },
     "Brian Tyree Henry": {
         "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ],
+            "DC": [
+                "Joker (2019)"
+            ],
             "MCU": [
                 "Eternals (2021)"
+            ]
+        }
+    },
+    "Brian d'Arcy James": {
+        "movies": {
+            "X-Men": [
+                "Dark Phoenix (2019)"
+            ],
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
+    "Brianna Hildebrand": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -1820,6 +2273,11 @@ var igActorMap = {
         "movies": {
             "Scott Pilgrim vs. the World (2010)": [
                 "Scott Pilgrim vs. the World (2010)"
+            ],
+            "MCU": [
+                "Captain Marvel (2019)",
+                "Avengers: Endgame (2019)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -1849,6 +2307,13 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek IV: The Voyage Home (1986)",
                 "Star Trek VI: The Undiscovered Country (1991)"
+            ]
+        }
+    },
+    "Brontis Jodorowsky": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -1901,6 +2366,9 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek (2009)",
                 "Star Trek Into Darkness (2013)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -1941,7 +2409,9 @@ var igActorMap = {
     "Bruce Willis": {
         "movies": {
             "Unbreakable": [
-                "Unbreakable (2000)"
+                "Unbreakable (2000)",
+                "Split (2017)",
+                "Glass (2019)"
             ],
             "Sin City": [
                 "Sin City (2005)",
@@ -1979,7 +2449,8 @@ var igActorMap = {
                 "Star Trek: Nemesis (2002)"
             ],
             "X-Men": [
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)"
             ]
         }
     },
@@ -2067,6 +2538,13 @@ var igActorMap = {
             ]
         }
     },
+    "Cailey Fleming": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
+            ]
+        }
+    },
     "Caleb Landry Jones": {
         "movies": {
             "X-Men": [
@@ -2080,7 +2558,11 @@ var igActorMap = {
                 "300: Rise of an Empire (2014)"
             ],
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Avengers: Endgame (2019)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -2098,6 +2580,13 @@ var igActorMap = {
             ],
             "Marvel": [
                 "Blade: Trinity (2004)"
+            ]
+        }
+    },
+    "Callum Turner": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -2154,6 +2643,13 @@ var igActorMap = {
             ]
         }
     },
+    "Cara Delevingne": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ]
+        }
+    },
     "Carl Weathers": {
         "movies": {
             "Predator": [
@@ -2170,14 +2666,27 @@ var igActorMap = {
                 "Watchmen (2009)"
             ],
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
     "Carmen Ejogo": {
         "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+            ],
             "Alien": [
                 "Alien: Covenant (2017)"
+            ]
+        }
+    },
+    "Carolina Bartczak": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
             ]
         }
     },
@@ -2207,7 +2716,10 @@ var igActorMap = {
             "Star Wars": [
                 "Star Wars (1977)",
                 "The Empire Strikes Back (1980)",
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -2255,6 +2767,13 @@ var igActorMap = {
             ]
         }
     },
+    "Casey Neistat": {
+        "movies": {
+            "Project Power (2020)": [
+                "Project Power (2020)"
+            ]
+        }
+    },
     "Casey Siemaszko": {
         "movies": {
             "Back to the Future": [
@@ -2278,6 +2797,9 @@ var igActorMap = {
             ],
             "Indiana Jones": [
                 "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
+            ],
+            "MCU": [
+                "Thor: Ragnarok (2017)"
             ]
         }
     },
@@ -2285,6 +2807,13 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek IV: The Voyage Home (1986)"
+            ]
+        }
+    },
+    "Catherine Keener": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -2361,7 +2890,10 @@ var igActorMap = {
     "Chadwick Boseman": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Captain America: Civil War (2016)",
+                "Black Panther (2018)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -2372,10 +2904,21 @@ var igActorMap = {
             ]
         }
     },
+    "Channing Tatum": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
     "Charlayne Woodard": {
         "movies": {
             "Unbreakable": [
-                "Unbreakable (2000)"
+                "Unbreakable (2000)",
+                "Glass (2019)"
             ]
         }
     },
@@ -2383,6 +2926,9 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien 3 (1992)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -2426,10 +2972,31 @@ var igActorMap = {
             ]
         }
     },
+    "Charlie Cox": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
+            ]
+        }
+    },
+    "Charlie Heaton": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
+            ]
+        }
+    },
     "Charlie Korsmo": {
         "movies": {
             "Dick Tracy (1990)": [
                 "Dick Tracy (1990)"
+            ]
+        }
+    },
+    "Charlie Rose": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -2440,6 +3007,12 @@ var igActorMap = {
             ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
+            ],
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ],
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
             ]
         }
     },
@@ -2462,6 +3035,13 @@ var igActorMap = {
             ]
         }
     },
+    "Chet Hanks": {
+        "movies": {
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ]
+        }
+    },
     "Chin Han": {
         "movies": {
             "Batman": [
@@ -2476,6 +3056,16 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Howard the Duck (1986)"
+            ]
+        }
+    },
+    "Chiwetel Ejiofor": {
+        "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
+            ],
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
             ]
         }
     },
@@ -2524,8 +3114,13 @@ var igActorMap = {
                 "The Avengers (2012)",
                 "Thor: The Dark World (2013)",
                 "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)",
                 "Ant-Man (2015)",
-                "Avengers: Infinity War (2018)"
+                "Captain America: Civil War (2016)",
+                "Spider-Man: Homecoming (2017)",
+                "Avengers: Infinity War (2018)",
+                "Captain Marvel (2019)",
+                "Avengers: Endgame (2019)"
             ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
@@ -2541,10 +3136,17 @@ var igActorMap = {
                 "Thor (2011)",
                 "The Avengers (2012)",
                 "Thor: The Dark World (2013)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Doctor Strange (2016)",
+                "Thor: Ragnarok (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ],
             "Men in Black": [
                 "Men in Black: International (2019)"
+            ],
+            "Extraction (2020)": [
+                "Extraction (2020)"
             ]
         }
     },
@@ -2552,6 +3154,20 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "The Transformers: The Movie (1986)"
+            ]
+        }
+    },
+    "Chris McKay": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
+    "Chris Messina": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -2581,7 +3197,15 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)",
+                "Wonder Woman 1984 (2020)"
+            ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -2592,7 +3216,9 @@ var igActorMap = {
             ],
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ],
             "Jurassic Park": [
                 "Jurassic World (2015)",
@@ -2608,6 +3234,20 @@ var igActorMap = {
                 "Harry Potter and the Prisoner of Azkaban (2004)",
                 "Harry Potter and the Order of the Phoenix (2007)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            ]
+        }
+    },
+    "Chris Sullivan": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ]
+        }
+    },
+    "Chris Terrio": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -2795,6 +3435,10 @@ var igActorMap = {
             ],
             "John Carter (2012)": [
                 "John Carter (2012)"
+            ],
+            "DCEU": [
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -2828,6 +3472,9 @@ var igActorMap = {
             ],
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ],
+            "MCU": [
+                "Thor: Ragnarok (2017)"
             ]
         }
     },
@@ -2845,7 +3492,8 @@ var igActorMap = {
                 "Iron Man (2008)",
                 "Iron Man 2 (2010)",
                 "Thor (2011)",
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Captain Marvel (2019)"
             ]
         }
     },
@@ -2853,6 +3501,16 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Battle for the Planet of the Apes (1973)"
+            ]
+        }
+    },
+    "Claudia Kim": {
+        "movies": {
+            "MCU": [
+                "Avengers: Age of Ultron (2015)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -2896,6 +3554,9 @@ var igActorMap = {
             ],
             "Barb Wire (1996)": [
                 "Barb Wire (1996)"
+            ],
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -2934,7 +3595,9 @@ var igActorMap = {
             "MCU": [
                 "The Avengers (2012)",
                 "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)",
                 "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -2957,6 +3620,17 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Daredevil (2003)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ]
+        }
+    },
+    "Colin Firth": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -3002,6 +3676,13 @@ var igActorMap = {
             ]
         }
     },
+    "Colson Baker": {
+        "movies": {
+            "Project Power (2020)": [
+                "Project Power (2020)"
+            ]
+        }
+    },
     "Columbus Short": {
         "movies": {
             "DC": [
@@ -3016,6 +3697,29 @@ var igActorMap = {
             ],
             "Terminator": [
                 "Terminator Salvation (2009)"
+            ],
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ],
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
+    "Conan O'Brien": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
+    "Connie Nielsen": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman (2017)",
+                "Justice League (2017)",
+                "Wonder Woman 1984 (2020)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -3023,6 +3727,13 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman & Robin (1997)"
+            ]
+        }
+    },
+    "Cooper Andrews": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -3070,6 +3781,9 @@ var igActorMap = {
         "movies": {
             "Narnia": [
                 "The Chronicles of Narnia: Prince Caspian (2008)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -3077,6 +3791,9 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator Genisys (2015)"
+            ],
+            "Project Power (2020)": [
+                "Project Power (2020)"
             ]
         }
     },
@@ -3105,7 +3822,8 @@ var igActorMap = {
     "Craig T. Nelson": {
         "movies": {
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -3130,6 +3848,13 @@ var igActorMap = {
             ]
         }
     },
+    "D. J. Cotrona": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "D. R. Nanayakkara": {
         "movies": {
             "Indiana Jones": [
@@ -3151,6 +3876,22 @@ var igActorMap = {
             ]
         }
     },
+    "Dafne Keen": {
+        "movies": {
+            "X-Men": [
+                "Logan (2017)"
+            ]
+        }
+    },
+    "Daisy Ridley": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "Dakota Goyo": {
         "movies": {
             "MCU": [
@@ -3161,7 +3902,8 @@ var igActorMap = {
     "Damion Poitier": {
         "movies": {
             "MCU": [
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Captain America: Civil War (2016)"
             ]
         }
     },
@@ -3176,6 +3918,21 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Big Hero 6 (2014)"
+            ]
+        }
+    },
+    "Dan Castellaneta": {
+        "movies": {
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ]
+        }
+    },
+    "Dan Fogler": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -3221,10 +3978,19 @@ var igActorMap = {
             ]
         }
     },
+    "Dana Lee": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+            ]
+        }
+    },
     "Danai Gurira": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Black Panther (2018)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -3249,6 +4015,16 @@ var igActorMap = {
             ]
         }
     },
+    "Daniel Br\u00fchl": {
+        "movies": {
+            "MCU": [
+                "Captain America: Civil War (2016)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
     "Daniel Craig": {
         "movies": {
             "Road to Perdition (2002)": [
@@ -3259,6 +4035,9 @@ var igActorMap = {
             ],
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
             ]
         }
     },
@@ -3312,6 +4091,9 @@ var igActorMap = {
         "movies": {
             "Kick-Ass": [
                 "Kick-Ass 2 (2013)"
+            ],
+            "MCU": [
+                "Black Panther (2018)"
             ]
         }
     },
@@ -3353,6 +4135,13 @@ var igActorMap = {
             ]
         }
     },
+    "Daniela Melchior": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
     "Daniella Pineda": {
         "movies": {
             "Jurassic Park": [
@@ -3388,6 +4177,9 @@ var igActorMap = {
             ],
             "X-Men": [
                 "X-Men Origins: Wolverine (2009)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)"
             ]
         }
     },
@@ -3409,6 +4201,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Captain America: The Winter Soldier (2014)"
+            ],
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
             ]
         }
     },
@@ -3468,7 +4263,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -3502,6 +4299,13 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator 3: Rise of the Machines (2003)"
+            ]
+        }
+    },
+    "David Ayer": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
             ]
         }
     },
@@ -3557,7 +4361,11 @@ var igActorMap = {
                 "The Dark Knight (2008)"
             ],
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -3568,13 +4376,36 @@ var igActorMap = {
             ]
         }
     },
+    "David F. Sandberg": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "David Harbour": {
         "movies": {
             "The Green Hornet (2011)": [
                 "The Green Hornet (2011)"
             ],
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ],
             "Hellboy": [
                 "Hellboy (2019)"
+            ],
+            "Extraction (2020)": [
+                "Extraction (2020)"
+            ],
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
+    "David Hasselhoff": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -3617,6 +4448,20 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Daredevil (2003)"
+            ]
+        }
+    },
+    "David Kross": {
+        "movies": {
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
+    "David Leitch": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -3728,6 +4573,11 @@ var igActorMap = {
             ],
             "Red": [
                 "Red 2 (2013)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -3857,6 +4707,12 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars: The Clone Wars (2008)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ],
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -3877,7 +4733,8 @@ var igActorMap = {
             ],
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
             ]
         }
     },
@@ -3901,7 +4758,8 @@ var igActorMap = {
             "Star Wars": [
                 "Star Wars (1977)",
                 "The Empire Strikes Back (1980)",
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -3931,6 +4789,13 @@ var igActorMap = {
         "movies": {
             "2 Guns (2013)": [
                 "2 Guns (2013)"
+            ]
+        }
+    },
+    "Denzel Whitaker": {
+        "movies": {
+            "MCU": [
+                "Black Panther (2018)"
             ]
         }
     },
@@ -3993,13 +4858,23 @@ var igActorMap = {
             ]
         }
     },
+    "Diana Silvers": {
+        "movies": {
+            "Unbreakable": [
+                "Glass (2019)"
+            ]
+        }
+    },
     "Diane Lane": {
         "movies": {
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
             ],
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -4055,7 +4930,22 @@ var igActorMap = {
                 "Constantine (2005)"
             ],
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Captain Marvel (2019)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)",
+                "Shazam! (2019)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
+    "Dolph Lundgren": {
+        "movies": {
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -4067,6 +4957,14 @@ var igActorMap = {
             ],
             "Dredd (2012)": [
                 "Dredd (2012)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ],
+            "DC": [
+                "The Kitchen (2019)"
             ]
         }
     },
@@ -4093,6 +4991,9 @@ var igActorMap = {
             ],
             "X-Men": [
                 "X-Men Origins: Wolverine (2009)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -4119,6 +5020,13 @@ var igActorMap = {
             ]
         }
     },
+    "Dominique Fishback": {
+        "movies": {
+            "Project Power (2020)": [
+                "Project Power (2020)"
+            ]
+        }
+    },
     "Dominique Pinon": {
         "movies": {
             "Alien": [
@@ -4131,7 +5039,11 @@ var igActorMap = {
             "MCU": [
                 "Iron Man 2 (2010)",
                 "Iron Man 3 (2013)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Infinity War (2018)",
+                "Captain Marvel (2019)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -4195,6 +5107,16 @@ var igActorMap = {
             ]
         }
     },
+    "Donald Glover": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
+            ],
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
+            ]
+        }
+    },
     "Donna Murphy": {
         "movies": {
             "Star Trek": [
@@ -4212,6 +5134,13 @@ var igActorMap = {
             ],
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
+            ]
+        }
+    },
+    "Doug Benson": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -4242,6 +5171,13 @@ var igActorMap = {
             ],
             "Marvel": [
                 "Fantastic Four: Rise of the Silver Surfer (2007)"
+            ]
+        }
+    },
+    "Douglas Hodge": {
+        "movies": {
+            "DC": [
+                "Joker (2019)"
             ]
         }
     },
@@ -4298,6 +5234,13 @@ var igActorMap = {
             ]
         }
     },
+    "E.J. Bonilla": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
     "Earl Boen": {
         "movies": {
             "Terminator": [
@@ -4338,6 +5281,20 @@ var igActorMap = {
             ]
         }
     },
+    "Ed Sheeran": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
+    "Ed Skrein": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)"
+            ]
+        }
+    },
     "Eddie Izzard": {
         "movies": {
             "Mystery Men (1999)": [
@@ -4345,6 +5302,9 @@ var igActorMap = {
             ],
             "Narnia": [
                 "The Chronicles of Narnia: Prince Caspian (2008)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -4359,6 +5319,20 @@ var igActorMap = {
         "movies": {
             "V for Vendetta (2006)": [
                 "V for Vendetta (2006)"
+            ],
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
+    "Eddie Redmayne": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -4366,6 +5340,13 @@ var igActorMap = {
         "movies": {
             "2 Guns (2013)": [
                 "2 Guns (2013)"
+            ]
+        }
+    },
+    "Edgar Wright": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -4384,6 +5365,14 @@ var igActorMap = {
             ],
             "The Green Hornet (2011)": [
                 "The Green Hornet (2011)"
+            ]
+        }
+    },
+    "Edward Holcroft": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -4418,6 +5407,13 @@ var igActorMap = {
             ]
         }
     },
+    "Elena Anaya": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman (2017)"
+            ]
+        }
+    },
     "Elias Koteas": {
         "movies": {
             "TMNT": [
@@ -4449,11 +5445,25 @@ var igActorMap = {
             ]
         }
     },
+    "Elisabeth Moss": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
     "Elisabeth Shue": {
         "movies": {
             "Back to the Future": [
                 "Back to the Future Part II (1989)",
                 "Back to the Future Part III (1990)"
+            ]
+        }
+    },
+    "Elise Neal": {
+        "movies": {
+            "X-Men": [
+                "Logan (2017)"
             ]
         }
     },
@@ -4469,6 +5479,13 @@ var igActorMap = {
             ]
         }
     },
+    "Elizabeth Debicki": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ]
+        }
+    },
     "Elizabeth McGovern": {
         "movies": {
             "Kick-Ass": [
@@ -4480,7 +5497,10 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Captain America: The Winter Soldier (2014)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -4491,10 +5511,24 @@ var igActorMap = {
             ]
         }
     },
+    "Elizabeth Rodriguez": {
+        "movies": {
+            "X-Men": [
+                "Logan (2017)"
+            ]
+        }
+    },
     "Elizabeth Spriggs": {
         "movies": {
             "Wizarding World": [
                 "Harry Potter and the Sorcerer's Stone (2001)"
+            ]
+        }
+    },
+    "Ella Jay Basco": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -4519,6 +5553,13 @@ var igActorMap = {
             ]
         }
     },
+    "Ellie Kemper": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
     "Elliot Page": {
         "movies": {
             "X-Men": [
@@ -4539,6 +5580,13 @@ var igActorMap = {
             "Predator": [
                 "Predator (1987)",
                 "Predator 2 (1990)"
+            ]
+        }
+    },
+    "Elton John": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -4572,6 +5620,9 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator Genisys (2015)"
+            ],
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -4585,7 +5636,22 @@ var igActorMap = {
     "Emily VanCamp": {
         "movies": {
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Captain America: Civil War (2016)"
+            ]
+        }
+    },
+    "Emily Watson": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
+    "Emma Fuhrmann": {
+        "movies": {
+            "MCU": [
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -4697,6 +5763,20 @@ var igActorMap = {
             ]
         }
     },
+    "Erin Kellyman": {
+        "movies": {
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
+            ]
+        }
+    },
+    "Eriq La Salle": {
+        "movies": {
+            "X-Men": [
+                "Logan (2017)"
+            ]
+        }
+    },
     "Ernest Borgnine": {
         "movies": {
             "Red": [
@@ -4738,6 +5818,13 @@ var igActorMap = {
             ]
         }
     },
+    "Eugene Brave Rock": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman (2017)"
+            ]
+        }
+    },
     "Eugene Levy": {
         "movies": {
             "Heavy Metal": [
@@ -4772,6 +5859,13 @@ var igActorMap = {
             ]
         }
     },
+    "Evan Jones": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ]
+        }
+    },
     "Evan Jonigkeit": {
         "movies": {
             "X-Men": [
@@ -4785,7 +5879,10 @@ var igActorMap = {
                 "Kick-Ass (2010)"
             ],
             "X-Men": [
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)",
+                "Deadpool 2 (2018)",
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -4803,7 +5900,9 @@ var igActorMap = {
                 "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -4817,12 +5916,24 @@ var igActorMap = {
             ]
         }
     },
+    "Ever Anderson": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
     "Ewan McGregor": {
         "movies": {
             "Star Wars": [
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ],
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -4836,6 +5947,23 @@ var igActorMap = {
             ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)"
+            ]
+        }
+    },
+    "Ezra Miller": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Suicide Squad (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -4843,6 +5971,20 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek: Insurrection (1998)"
+            ]
+        }
+    },
+    "Faithe Herman": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
+    "Fala Chen": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -4880,6 +6022,13 @@ var igActorMap = {
             ]
         }
     },
+    "Fei Ren": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
+            ]
+        }
+    },
     "Felicity Jones": {
         "movies": {
             "Spider-Man": [
@@ -4904,6 +6053,13 @@ var igActorMap = {
             ]
         }
     },
+    "Fiona Glascott": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+            ]
+        }
+    },
     "Fiona Shaw": {
         "movies": {
             "Wizarding World": [
@@ -4925,7 +6081,33 @@ var igActorMap = {
     "Florence Kasumba": {
         "movies": {
             "MCU": [
+                "Captain America: Civil War (2016)",
+                "Black Panther (2018)",
                 "Avengers: Infinity War (2018)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)"
+            ]
+        }
+    },
+    "Florence Pugh": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
+    "Florian Munteanu": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
+    "Flula Borg": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -4933,13 +6115,17 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
+            ],
+            "MCU": [
+                "Black Panther (2018)"
             ]
         }
     },
     "Frances Conroy": {
         "movies": {
             "DC": [
-                "Catwoman (2004)"
+                "Catwoman (2004)",
+                "Joker (2019)"
             ]
         }
     },
@@ -4991,7 +6177,9 @@ var igActorMap = {
     "Frank Grillo": {
         "movies": {
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -5026,7 +6214,9 @@ var igActorMap = {
                 "Return of the Jedi (1983)",
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -5065,6 +6255,9 @@ var igActorMap = {
         "movies": {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            ],
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -5082,6 +6275,12 @@ var igActorMap = {
             ],
             "Power Rangers": [
                 "Power Rangers (2017)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ],
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -5089,6 +6288,13 @@ var igActorMap = {
         "movies": {
             "2 Guns (2013)": [
                 "2 Guns (2013)"
+            ]
+        }
+    },
+    "Freddie Prinze Jr.": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -5136,10 +6342,42 @@ var igActorMap = {
             ]
         }
     },
+    "Gabriella Wilde": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
+            ]
+        }
+    },
     "Gabrielle Fitzpatrick": {
         "movies": {
             "Power Rangers": [
                 "Mighty Morphin Power Rangers: The Movie (1995)"
+            ]
+        }
+    },
+    "Gal Gadot": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Wonder Woman (2017)",
+                "Justice League (2017)",
+                "Wonder Woman 1984 (2020)",
+                "Zack Snyder's Justice League (2021)"
+            ]
+        }
+    },
+    "Garcelle Beauvais": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
+            ]
+        }
+    },
+    "Gareth Edwards": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -5265,12 +6503,23 @@ var igActorMap = {
             ]
         }
     },
+    "Gemma Arterton": {
+        "movies": {
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
     "Gemma Chan": {
         "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ],
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
             ],
             "MCU": [
+                "Captain Marvel (2019)",
                 "Eternals (2021)"
             ]
         }
@@ -5281,6 +6530,13 @@ var igActorMap = {
                 "Harry Potter and the Chamber of Secrets (2002)",
                 "Harry Potter and the Half-Blood Prince (2009)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            ]
+        }
+    },
+    "Gene Farber": {
+        "movies": {
+            "MCU": [
+                "Captain America: Civil War (2016)"
             ]
         }
     },
@@ -5305,6 +6561,13 @@ var igActorMap = {
             "Star Wars": [
                 "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
                 "Rogue One: A Star Wars Story (2016)"
+            ]
+        }
+    },
+    "Geoff Bell": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
             ]
         }
     },
@@ -5442,6 +6705,13 @@ var igActorMap = {
             ]
         }
     },
+    "Giant Gustav Claude Ouimet": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
+            ]
+        }
+    },
     "Gil Birmingham": {
         "movies": {
             "Transformers": [
@@ -5455,6 +6725,13 @@ var igActorMap = {
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: At World's End (2007)",
                 "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+            ]
+        }
+    },
+    "Gina Carano": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)"
             ]
         }
     },
@@ -5477,6 +6754,13 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
+    "Glenn Fleshler": {
+        "movies": {
+            "DC": [
+                "Joker (2019)"
             ]
         }
     },
@@ -5543,6 +6827,9 @@ var igActorMap = {
         "movies": {
             "Pirates": [
                 "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+            ],
+            "Extraction (2020)": [
+                "Extraction (2020)"
             ]
         }
     },
@@ -5550,6 +6837,13 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Elektra (2005)"
+            ]
+        }
+    },
+    "Grace Fulton": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -5576,6 +6870,9 @@ var igActorMap = {
                 "The Hobbit: An Unexpected Journey (2012)",
                 "The Hobbit: The Desolation of Smaug (2013)",
                 "The Hobbit: The Battle of the Five Armies (2014)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -5600,6 +6897,20 @@ var igActorMap = {
             ]
         }
     },
+    "Greg Cipes": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
+    "Greg Davies": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
     "Greg Ellis": {
         "movies": {
             "Pirates": [
@@ -5615,7 +6926,12 @@ var igActorMap = {
     "Greg Grunberg": {
         "movies": {
             "Star Trek": [
-                "Star Trek (2009)"
+                "Star Trek (2009)",
+                "Star Trek Beyond (2016)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -5671,6 +6987,14 @@ var igActorMap = {
             ]
         }
     },
+    "Gwendoline Christie": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)"
+            ]
+        }
+    },
     "Gwyneth Paltrow": {
         "movies": {
             "MCU": [
@@ -5678,7 +7002,9 @@ var igActorMap = {
                 "Iron Man 2 (2010)",
                 "The Avengers (2012)",
                 "Iron Man 3 (2013)",
-                "Avengers: Infinity War (2018)"
+                "Spider-Man: Homecoming (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -5698,6 +7024,9 @@ var igActorMap = {
     },
     "Hailee Steinfeld": {
         "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ],
             "Transformers": [
                 "Bumblebee (2018)"
             ]
@@ -5717,6 +7046,13 @@ var igActorMap = {
             ]
         }
     },
+    "Haley Lu Richardson": {
+        "movies": {
+            "Unbreakable": [
+                "Split (2017)"
+            ]
+        }
+    },
     "Halle Berry": {
         "movies": {
             "X-Men": [
@@ -5727,6 +7063,23 @@ var igActorMap = {
             ],
             "DC": [
                 "Catwoman (2004)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
+    "Halsey": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
+    "Halston Sage": {
+        "movies": {
+            "X-Men": [
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -5744,10 +7097,32 @@ var igActorMap = {
             ]
         }
     },
+    "Hanna Alstr\u00f6m": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
     "Hannah John-Kamen": {
         "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ],
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
+            ]
+        }
+    },
+    "Hannibal Buress": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -5755,6 +7130,13 @@ var igActorMap = {
         "movies": {
             "300": [
                 "300: Rise of an Empire (2014)"
+            ]
+        }
+    },
+    "Happy Anderson": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
             ]
         }
     },
@@ -5787,12 +7169,21 @@ var igActorMap = {
             ]
         }
     },
+    "Harris Dickinson": {
+        "movies": {
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
     "Harrison Ford": {
         "movies": {
             "Star Wars": [
                 "Star Wars (1977)",
                 "The Empire Strikes Back (1980)",
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Indiana Jones": [
                 "Raiders of the Lost Ark (1981)",
@@ -5829,7 +7220,9 @@ var igActorMap = {
                 "The Matrix Revolutions (2003)"
             ],
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -5841,6 +7234,9 @@ var igActorMap = {
                 "Harry Potter and the Prisoner of Azkaban (2004)",
                 "Harry Potter and the Order of the Phoenix (2007)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            ],
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
             ]
         }
     },
@@ -5894,7 +7290,8 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -5903,7 +7300,9 @@ var igActorMap = {
             "MCU": [
                 "Captain America: The First Avenger (2011)",
                 "Captain America: The Winter Soldier (2014)",
-                "Ant-Man (2015)"
+                "Avengers: Age of Ultron (2015)",
+                "Ant-Man (2015)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -6000,17 +7399,28 @@ var igActorMap = {
             ]
         }
     },
+    "Hemky Madera": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
+            ]
+        }
+    },
     "Henry Cavill": {
         "movies": {
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
     "Henry Goodman": {
         "movies": {
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)"
             ]
         }
     },
@@ -6028,6 +7438,20 @@ var igActorMap = {
             ]
         }
     },
+    "Henry Zaga": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
+            ]
+        }
+    },
+    "Hermione Corfield": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
+            ]
+        }
+    },
     "Hero Fiennes Tiffin": {
         "movies": {
             "Wizarding World": [
@@ -6042,10 +7466,21 @@ var igActorMap = {
             ]
         }
     },
+    "Hiroyuki Sanada": {
+        "movies": {
+            "MCU": [
+                "Avengers: Endgame (2019)"
+            ]
+        }
+    },
     "Holly Hunter": {
         "movies": {
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -6056,6 +7491,23 @@ var igActorMap = {
             ],
             "DC": [
                 "The Losers (2010)"
+            ],
+            "DCEU": [
+                "Justice League (2017)"
+            ]
+        }
+    },
+    "Hope Davis": {
+        "movies": {
+            "MCU": [
+                "Captain America: Civil War (2016)"
+            ]
+        }
+    },
+    "Huckleberry Milner": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -6074,7 +7526,9 @@ var igActorMap = {
                 "X-Men: The Last Stand (2006)",
                 "X-Men Origins: Wolverine (2009)",
                 "X-Men: First Class (2011)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)",
+                "Logan (2017)"
             ]
         }
     },
@@ -6127,6 +7581,20 @@ var igActorMap = {
             ]
         }
     },
+    "Hynden Walch": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
+    "H\u00e9ctor Elizondo": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
     "Iain Glen": {
         "movies": {
             "Kick-Ass": [
@@ -6138,6 +7606,13 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars: The Clone Wars (2008)"
+            ]
+        }
+    },
+    "Ian Chen": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -6170,7 +7645,8 @@ var igActorMap = {
                 "Return of the Jedi (1983)",
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -6230,6 +7706,8 @@ var igActorMap = {
             "MCU": [
                 "Thor (2011)",
                 "Thor: The Dark World (2013)",
+                "Avengers: Age of Ultron (2015)",
+                "Thor: Ragnarok (2017)",
                 "Avengers: Infinity War (2018)"
             ],
             "Marvel": [
@@ -6237,6 +7715,12 @@ var igActorMap = {
             ],
             "Alien": [
                 "Prometheus (2012)"
+            ],
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -6254,6 +7738,20 @@ var igActorMap = {
         "movies": {
             "Indiana Jones": [
                 "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
+            ]
+        }
+    },
+    "Ike Barinholtz": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ]
+        }
+    },
+    "Iko Uwais": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
             ]
         }
     },
@@ -6332,6 +7830,13 @@ var igActorMap = {
             ]
         }
     },
+    "Isaach de Bankol\u00e9": {
+        "movies": {
+            "MCU": [
+                "Black Panther (2018)"
+            ]
+        }
+    },
     "Isabel Lucas": {
         "movies": {
             "Transformers": [
@@ -6346,6 +7851,13 @@ var igActorMap = {
             ]
         }
     },
+    "Isabella Rossellini": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
+            ]
+        }
+    },
     "Isabella Sermon": {
         "movies": {
             "Jurassic Park": [
@@ -6356,7 +7868,8 @@ var igActorMap = {
     "J. B. Smoove": {
         "movies": {
             "MCU": [
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -6367,18 +7880,32 @@ var igActorMap = {
             ]
         }
     },
+    "J. J. Abrams": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "J. K. Simmons": {
         "movies": {
             "Spider-Man": [
                 "Spider-Man (2002)",
                 "Spider-Man 2 (2004)",
-                "Spider-Man 3 (2007)"
+                "Spider-Man 3 (2007)",
+                "Venom: Let There Be Carnage (2021)"
             ],
             "Terminator": [
                 "Terminator Genisys (2015)"
             ],
+            "DCEU": [
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
+            ],
             "MCU": [
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -6409,6 +7936,16 @@ var igActorMap = {
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
                 "Pirates of the Caribbean: At World's End (2007)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
+            ]
+        }
+    },
+    "Jack Dylan Grazer": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -6416,6 +7953,13 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman Begins (2005)"
+            ]
+        }
+    },
+    "Jack Kesy": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -6492,11 +8036,21 @@ var igActorMap = {
             ]
         }
     },
+    "Jackson A. Dunn": {
+        "movies": {
+            "MCU": [
+                "Avengers: Endgame (2019)"
+            ]
+        }
+    },
     "Jacob Batalon": {
         "movies": {
             "MCU": [
+                "Spider-Man: Homecoming (2017)",
                 "Avengers: Infinity War (2018)",
-                "Spider-Man: Far From Home (2019)"
+                "Avengers: Endgame (2019)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -6516,6 +8070,14 @@ var igActorMap = {
             ]
         }
     },
+    "Jade Xu": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
     "Jai Courtney": {
         "movies": {
             "I, Frankenstein (2014)": [
@@ -6523,6 +8085,10 @@ var igActorMap = {
             ],
             "Terminator": [
                 "Terminator Genisys (2015)"
+            ],
+            "DCEU": [
+                "Suicide Squad (2016)",
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -6566,6 +8132,9 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "Jurassic World (2015)"
+            ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -6590,6 +8159,9 @@ var igActorMap = {
             ],
             "Star Wars": [
                 "Star Wars: The Clone Wars (2008)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -6607,6 +8179,9 @@ var igActorMap = {
             ],
             "The Lone Ranger (2013)": [
                 "The Lone Ranger (2013)"
+            ],
+            "DC": [
+                "The Kitchen (2019)"
             ]
         }
     },
@@ -6628,6 +8203,9 @@ var igActorMap = {
         "movies": {
             "Narnia": [
                 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)"
             ]
         }
     },
@@ -6647,6 +8225,13 @@ var igActorMap = {
             ],
             "Jurassic Park": [
                 "Jurassic World: Fallen Kingdom (2018)"
+            ]
+        }
+    },
+    "James D'Arcy": {
+        "movies": {
+            "MCU": [
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -6677,13 +8262,21 @@ var igActorMap = {
                 "The Empire Strikes Back (1980)",
                 "Return of the Jedi (1983)",
                 "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-                "Rogue One: A Star Wars Story (2016)"
+                "Rogue One: A Star Wars Story (2016)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Conan": [
                 "Conan the Barbarian (1982)"
             ],
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
+            ]
+        }
+    },
+    "James Faulkner": {
+        "movies": {
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
             ]
         }
     },
@@ -6776,7 +8369,17 @@ var igActorMap = {
             ],
             "X-Men": [
                 "X-Men: First Class (2011)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)",
+                "Deadpool 2 (2018)",
+                "Dark Phoenix (2019)"
+            ],
+            "Unbreakable": [
+                "Split (2017)",
+                "Glass (2019)"
+            ],
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
             ]
         }
     },
@@ -6843,6 +8446,13 @@ var igActorMap = {
             ]
         }
     },
+    "James Spader": {
+        "movies": {
+            "MCU": [
+                "Avengers: Age of Ultron (2015)"
+            ]
+        }
+    },
     "James Tolkan": {
         "movies": {
             "Back to the Future": [
@@ -6869,6 +8479,17 @@ var igActorMap = {
             ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ],
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ]
+        }
+    },
+    "Jamie Campbell Bower": {
+        "movies": {
+            "Wizarding World": [
+                "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -6886,6 +8507,12 @@ var igActorMap = {
         "movies": {
             "Spider-Man": [
                 "The Amazing Spider-Man 2 (2014)"
+            ],
+            "Project Power (2020)": [
+                "Project Power (2020)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -6943,6 +8570,14 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: First Class (2011)"
+            ]
+        }
+    },
+    "Jared Leto": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -7016,10 +8651,23 @@ var igActorMap = {
             ]
         }
     },
+    "Jason Mantzoukas": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
     "Jason Momoa": {
         "movies": {
             "Conan": [
                 "Conan the Barbarian (2011)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Aquaman (2018)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -7070,6 +8718,13 @@ var igActorMap = {
         "movies": {
             "The Green Hornet (2011)": [
                 "The Green Hornet (2011)"
+            ]
+        }
+    },
+    "Jay Hernandez": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
             ]
         }
     },
@@ -7124,6 +8779,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jed Rees": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)"
+            ]
+        }
+    },
     "Jeff Bridges": {
         "movies": {
             "MCU": [
@@ -7131,6 +8793,9 @@ var igActorMap = {
             ],
             "R.I.P.D. (2013)": [
                 "R.I.P.D. (2013)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -7138,6 +8803,9 @@ var igActorMap = {
         "movies": {
             "RoboCop": [
                 "RoboCop 3 (1993)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -7147,6 +8815,10 @@ var igActorMap = {
                 "Jurassic Park (1993)",
                 "The Lost World: Jurassic Park (1997)",
                 "Jurassic World: Fallen Kingdom (2018)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Thor: Ragnarok (2017)"
             ]
         }
     },
@@ -7156,6 +8828,9 @@ var igActorMap = {
                 "Watchmen (2009)",
                 "The Losers (2010)",
                 "Jonah Hex (2010)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -7194,6 +8869,9 @@ var igActorMap = {
         "movies": {
             "Men in Black": [
                 "Men in Black 3 (2012)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -7214,6 +8892,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jenn Murray": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ]
+        }
+    },
     "Jenna Coleman": {
         "movies": {
             "MCU": [
@@ -7231,6 +8916,9 @@ var igActorMap = {
             ],
             "Marvel": [
                 "Hulk (2003)"
+            ],
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -7249,6 +8937,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jennifer Holland": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
     "Jennifer Jason Leigh": {
         "movies": {
             "Road to Perdition (2002)": [
@@ -7260,7 +8955,9 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: First Class (2011)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)",
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -7276,6 +8973,23 @@ var igActorMap = {
             "MCU": [
                 "The Avengers (2012)",
                 "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
+    "Jenny Slate": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ],
+            "Spider-Man": [
+                "Venom (2018)"
+            ]
+        }
+    },
+    "Jeremy Bobb": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)"
             ]
         }
     },
@@ -7299,6 +9013,15 @@ var igActorMap = {
             ]
         }
     },
+    "Jeremy Irons": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
+            ]
+        }
+    },
     "Jeremy Piven": {
         "movies": {
             "Sin City": [
@@ -7310,7 +9033,11 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Thor (2011)",
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Endgame (2019)",
+                "Black Widow (2021)"
             ]
         }
     },
@@ -7342,6 +9069,15 @@ var igActorMap = {
                 "Transformers: Revenge of the Fallen (2009)",
                 "Transformers: Dark of the Moon (2011)",
                 "Transformers: The Last Knight (2017)"
+            ]
+        }
+    },
+    "Jesse Eisenberg": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -7378,10 +9114,34 @@ var igActorMap = {
             ]
         }
     },
+    "Jessica Chastain": {
+        "movies": {
+            "X-Men": [
+                "Dark Phoenix (2019)"
+            ]
+        }
+    },
     "Jessica Henwick": {
         "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
+            ],
             "Matrix": [
                 "The Matrix Resurrections (2021)"
+            ]
+        }
+    },
+    "Jessica Sula": {
+        "movies": {
+            "Unbreakable": [
+                "Split (2017)"
+            ]
+        }
+    },
+    "Jessica Williams": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -7478,6 +9238,9 @@ var igActorMap = {
         "movies": {
             "Sky High (2005)": [
                 "Sky High (2005)"
+            ],
+            "MCU": [
+                "Captain America: Civil War (2016)"
             ]
         }
     },
@@ -7485,6 +9248,13 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek (2009)"
+            ]
+        }
+    },
+    "Jimmy Kimmel": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -7539,10 +9309,41 @@ var igActorMap = {
             ]
         }
     },
+    "Joaquin Phoenix": {
+        "movies": {
+            "DC": [
+                "Joker (2019)"
+            ]
+        }
+    },
     "Joaqu\u00edn Cosio": {
         "movies": {
             "The Lone Ranger (2013)": [
                 "The Lone Ranger (2013)"
+            ]
+        }
+    },
+    "Joaqu\u00edn Cos\u00edo": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
+    "Jodie Comer": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
+    "Joe Cornish": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -7551,6 +9352,10 @@ var igActorMap = {
             "Spider-Man": [
                 "Spider-Man (2002)",
                 "Spider-Man 3 (2007)"
+            ],
+            "DCEU": [
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -7558,6 +9363,11 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator 2: Judgment Day (1991)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -7574,7 +9384,9 @@ var igActorMap = {
     "Joe Russo": {
         "movies": {
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -7582,6 +9394,20 @@ var igActorMap = {
         "movies": {
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
+            ]
+        }
+    },
+    "Joe Taslim": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
+            ]
+        }
+    },
+    "Joel Basman": {
+        "movies": {
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -7604,6 +9430,10 @@ var igActorMap = {
         "movies": {
             "RoboCop": [
                 "RoboCop (2014)"
+            ],
+            "DCEU": [
+                "Suicide Squad (2016)",
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -7649,6 +9479,15 @@ var igActorMap = {
             ]
         }
     },
+    "John Boyega": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "John C. Reilly": {
         "movies": {
             "MCU": [
@@ -7683,6 +9522,9 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Bumblebee (2018)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -7690,7 +9532,8 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
             ]
         }
     },
@@ -7711,6 +9554,9 @@ var igActorMap = {
                 "Transformers: Dark of the Moon (2011)",
                 "Transformers: Age of Extinction (2014)",
                 "Transformers: The Last Knight (2017)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -7735,6 +9581,9 @@ var igActorMap = {
             ],
             "Batman": [
                 "Batman & Robin (1997)"
+            ],
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -7743,6 +9592,9 @@ var igActorMap = {
             "Transformers": [
                 "Transformers: Age of Extinction (2014)",
                 "Transformers: The Last Knight (2017)"
+            ],
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
             ]
         }
     },
@@ -7781,6 +9633,14 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Battle for the Planet of the Apes (1973)"
+            ]
+        }
+    },
+    "John Kani": {
+        "movies": {
+            "MCU": [
+                "Captain America: Civil War (2016)",
+                "Black Panther (2018)"
             ]
         }
     },
@@ -7870,6 +9730,13 @@ var igActorMap = {
             ]
         }
     },
+    "John Mulaney": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
     "John Noble": {
         "movies": {
             "Middle-earth": [
@@ -7912,7 +9779,8 @@ var igActorMap = {
                 "The Empire Strikes Back (1980)"
             ],
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -7926,6 +9794,9 @@ var igActorMap = {
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Two Towers (2002)",
                 "The Lord of the Rings: The Return of the King (2003)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -7933,7 +9804,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Iron Man 2 (2010)",
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -7961,6 +9834,13 @@ var igActorMap = {
             ]
         }
     },
+    "John Williams": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "Johnny Depp": {
         "movies": {
             "From Hell (2001)": [
@@ -7975,6 +9855,10 @@ var igActorMap = {
             ],
             "The Lone Ranger (2013)": [
                 "The Lone Ranger (2013)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -7985,6 +9869,9 @@ var igActorMap = {
             ],
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)"
+            ],
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -8039,10 +9926,16 @@ var igActorMap = {
                 "Iron Man (2008)",
                 "Iron Man 2 (2010)",
                 "Iron Man 3 (2013)",
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Homecoming (2017)",
+                "Avengers: Endgame (2019)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ],
             "John Carter (2012)": [
                 "John Carter (2012)"
+            ],
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -8077,6 +9970,30 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers (2007)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ]
+        }
+    },
+    "Jon Wurster": {
+        "movies": {
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
+            ]
+        }
+    },
+    "Jonah Hill": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
+    "Jonathan Banks": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -8134,10 +10051,31 @@ var igActorMap = {
             ]
         }
     },
+    "Joonas Suotamo": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Solo: A Star Wars Story (2018)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "Jorge Lendeborg Jr.": {
         "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)",
+                "Spider-Man: Far From Home (2019)"
+            ],
             "Transformers": [
                 "Bumblebee (2018)"
+            ]
+        }
+    },
+    "Jorma Taccone": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -8155,6 +10093,12 @@ var igActorMap = {
             ],
             "Sin City": [
                 "Sin City: A Dame to Kill For (2014)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
+            ],
+            "Project Power (2020)": [
+                "Project Power (2020)"
             ]
         }
     },
@@ -8183,10 +10127,29 @@ var igActorMap = {
             ],
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ],
             "Sin City": [
                 "Sin City: A Dame to Kill For (2014)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
+    "Josh Cowdery": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ]
+        }
+    },
+    "Josh Cruddas": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -8220,7 +10183,8 @@ var igActorMap = {
     "Josh Helman": {
         "movies": {
             "X-Men": [
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)"
             ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
@@ -8238,6 +10202,9 @@ var igActorMap = {
         "movies": {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (1990)"
+            ],
+            "DC": [
+                "Joker (2019)"
             ]
         }
     },
@@ -8255,10 +10222,24 @@ var igActorMap = {
             ]
         }
     },
+    "Jovan Armand": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "Joy Bryant": {
         "movies": {
             "Spider-Man": [
                 "Spider-Man 2 (2004)"
+            ]
+        }
+    },
+    "Juan Diego Botto": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -8287,6 +10268,12 @@ var igActorMap = {
         "movies": {
             "Road to Perdition (2002)": [
                 "Road to Perdition (2002)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+            ],
+            "MCU": [
+                "Captain Marvel (2019)"
             ]
         }
     },
@@ -8314,7 +10301,8 @@ var igActorMap = {
                 "Jurassic World (2015)"
             ],
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -8339,10 +10327,24 @@ var igActorMap = {
             ]
         }
     },
+    "Julia Louis-Dreyfus": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
     "Julian Arahanga": {
         "movies": {
             "Matrix": [
                 "The Matrix (1999)"
+            ]
+        }
+    },
+    "Julian Dennison": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -8374,6 +10376,16 @@ var igActorMap = {
         "movies": {
             "Jurassic Park": [
                 "The Lost World: Jurassic Park (1997)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
+    "Julie Andrews": {
+        "movies": {
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -8388,6 +10400,13 @@ var igActorMap = {
         "movies": {
             "Wizarding World": [
                 "Harry Potter and the Prisoner of Azkaban (2004)"
+            ]
+        }
+    },
+    "Julie Delpy": {
+        "movies": {
+            "MCU": [
+                "Avengers: Age of Ultron (2015)"
             ]
         }
     },
@@ -8437,6 +10456,13 @@ var igActorMap = {
             ]
         }
     },
+    "Julio Ruiz": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
     "Juno Temple": {
         "movies": {
             "Batman": [
@@ -8444,6 +10470,13 @@ var igActorMap = {
             ],
             "Sin City": [
                 "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
+    "Jurnee Smollett-Bell": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -8463,8 +10496,14 @@ var igActorMap = {
     },
     "Justin Theroux": {
         "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
+            ],
             "Transformers": [
                 "Bumblebee (2018)"
+            ],
+            "DC": [
+                "Joker (2019)"
             ]
         }
     },
@@ -8506,6 +10545,14 @@ var igActorMap = {
             ]
         }
     },
+    "Karan Soni": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Karel Roden": {
         "movies": {
             "Marvel": [
@@ -8527,11 +10574,27 @@ var igActorMap = {
             ]
         }
     },
+    "Karen Bryson": {
+        "movies": {
+            "DCEU": [
+                "Zack Snyder's Justice League (2021)"
+            ]
+        }
+    },
+    "Karen Fukuhara": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ]
+        }
+    },
     "Karen Gillan": {
         "movies": {
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -8552,7 +10615,8 @@ var igActorMap = {
             ],
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
             ],
             "Red": [
                 "Red (2010)"
@@ -8562,6 +10626,12 @@ var igActorMap = {
             ],
             "Dredd (2012)": [
                 "Dredd (2012)"
+            ],
+            "MCU": [
+                "Thor: Ragnarok (2017)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -8598,6 +10668,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Iron Man 2 (2010)"
+            ],
+            "Marvel": [
+                "Fantastic Four (2015)"
             ]
         }
     },
@@ -8605,6 +10678,13 @@ var igActorMap = {
         "movies": {
             "The Shadow (1994)": [
                 "The Shadow (1994)"
+            ]
+        }
+    },
+    "Kate Micucci": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -8617,8 +10697,19 @@ var igActorMap = {
     },
     "Katherine Waterston": {
         "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+            ],
             "Alien": [
                 "Alien: Covenant (2017)"
+            ]
+        }
+    },
+    "Katheryn Winnick": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -8626,6 +10717,13 @@ var igActorMap = {
         "movies": {
             "Indiana Jones": [
                 "Indiana Jones and the Temple of Doom (1984)"
+            ]
+        }
+    },
+    "Kathryn Hahn": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -8771,6 +10869,14 @@ var igActorMap = {
             ]
         }
     },
+    "Kelly Marie Tran": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "Kelly Preston": {
         "movies": {
             "Sky High (2005)": [
@@ -8807,6 +10913,9 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers: Dark of the Moon (2011)"
+            ],
+            "MCU": [
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -8814,6 +10923,9 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: The Last Stand (2006)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
             ]
         }
     },
@@ -8853,7 +10965,8 @@ var igActorMap = {
     "Kenneth Choi": {
         "movies": {
             "MCU": [
-                "Captain America: The First Avenger (2011)"
+                "Captain America: The First Avenger (2011)",
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -8901,6 +11014,9 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Dawn of the Planet of the Apes (2014)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -8914,7 +11030,11 @@ var igActorMap = {
     "Kerry Condon": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
+                "Spider-Man: Homecoming (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -8960,7 +11080,8 @@ var igActorMap = {
                 "Waterworld (1995)"
             ],
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -8995,6 +11116,14 @@ var igActorMap = {
             ],
             "I, Frankenstein (2014)": [
                 "I, Frankenstein (2014)"
+            ]
+        }
+    },
+    "Kevin Guthrie": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)",
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -9065,6 +11194,10 @@ var igActorMap = {
             ],
             "TMNT": [
                 "TMNT (2007)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -9082,10 +11215,31 @@ var igActorMap = {
             ]
         }
     },
+    "Khary Payton": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
+    "KiKi Layne": {
+        "movies": {
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
+            ]
+        }
+    },
     "Kieran Culkin": {
         "movies": {
             "Scott Pilgrim vs. the World (2010)": [
                 "Scott Pilgrim vs. the World (2010)"
+            ]
+        }
+    },
+    "Kiersey Clemons": {
+        "movies": {
+            "DCEU": [
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -9116,6 +11270,13 @@ var igActorMap = {
                 "Planet of the Apes (1968)",
                 "Beneath the Planet of the Apes (1970)",
                 "Escape from the Planet of the Apes (1971)"
+            ]
+        }
+    },
+    "Kimiko Glenn": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -9167,6 +11328,11 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Dawn of the Planet of the Apes (2014)"
+            ],
+            "X-Men": [
+                "X-Men: Apocalypse (2016)",
+                "Deadpool 2 (2018)",
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -9174,6 +11340,13 @@ var igActorMap = {
         "movies": {
             "Wanted (2008)": [
                 "Wanted (2008)"
+            ]
+        }
+    },
+    "Kota Eberhardt": {
+        "movies": {
+            "X-Men": [
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -9196,6 +11369,13 @@ var igActorMap = {
             ]
         }
     },
+    "Kristen Bell": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
     "Kristen Hager": {
         "movies": {
             "Alien": [
@@ -9206,10 +11386,24 @@ var igActorMap = {
             ]
         }
     },
+    "Kristen Wiig": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
+            ]
+        }
+    },
     "Kristin Chenoweth": {
         "movies": {
             "Strange Magic (2015)": [
                 "Strange Magic (2015)"
+            ]
+        }
+    },
+    "Kristoffer Polaha": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
             ]
         }
     },
@@ -9230,10 +11424,20 @@ var igActorMap = {
             ]
         }
     },
+    "Kunal Dudheker": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
     "Kurt Russell": {
         "movies": {
             "Sky High (2005)": [
                 "Sky High (2005)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -9241,6 +11445,13 @@ var igActorMap = {
         "movies": {
             "RoboCop": [
                 "RoboCop (1987)"
+            ]
+        }
+    },
+    "Kyanna Simone Simpson": {
+        "movies": {
+            "Project Power (2020)": [
+                "Project Power (2020)"
             ]
         }
     },
@@ -9255,6 +11466,13 @@ var igActorMap = {
         "movies": {
             "Sin City": [
                 "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
+    "Lake Bell": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -9274,6 +11492,13 @@ var igActorMap = {
         "movies": {
             "Bloodshot (2020)": [
                 "Bloodshot (2020)"
+            ]
+        }
+    },
+    "Lana Condor": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
             ]
         }
     },
@@ -9317,6 +11542,13 @@ var igActorMap = {
             ]
         }
     },
+    "Lashana Lynch": {
+        "movies": {
+            "MCU": [
+                "Captain Marvel (2019)"
+            ]
+        }
+    },
     "Laura Brent": {
         "movies": {
             "Narnia": [
@@ -9329,6 +11561,9 @@ var igActorMap = {
             "Jurassic Park": [
                 "Jurassic Park (1993)",
                 "Jurassic Park III (2001)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -9336,10 +11571,18 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Captain America: The First Avenger (2011)",
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ],
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
+            ]
+        }
+    },
+    "Laura Harrier": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -9354,6 +11597,13 @@ var igActorMap = {
         "movies": {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Lauren Cohan": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -9385,10 +11635,14 @@ var igActorMap = {
                 "Predators (2010)"
             ],
             "DCEU": [
-                "Man of Steel (2013)"
+                "Man of Steel (2013)",
+                "Batman v Superman: Dawn of Justice (2016)"
             ],
             "TMNT": [
                 "TMNT (2007)"
+            ],
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -9494,7 +11748,8 @@ var igActorMap = {
                 "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Captain Marvel (2019)"
             ]
         }
     },
@@ -9505,10 +11760,20 @@ var igActorMap = {
             ]
         }
     },
+    "Leigh Gill": {
+        "movies": {
+            "DC": [
+                "Joker (2019)"
+            ]
+        }
+    },
     "Leigh Whannell": {
         "movies": {
             "Matrix": [
                 "The Matrix Reloaded (2003)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -9616,13 +11881,23 @@ var igActorMap = {
             ]
         }
     },
+    "Leslie Uggams": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Letitia Wright": {
         "movies": {
+            "MCU": [
+                "Black Panther (2018)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
-            ],
-            "MCU": [
-                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -9644,6 +11919,13 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+            ]
+        }
+    },
+    "Lewis Tan": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -9688,7 +11970,8 @@ var igActorMap = {
                 "Darkman (1990)"
             ],
             "Star Wars": [
-                "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+                "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Batman": [
                 "Batman Begins (2005)",
@@ -9704,10 +11987,27 @@ var igActorMap = {
             ]
         }
     },
+    "Liani Samuel": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
     "Liev Schreiber": {
         "movies": {
             "X-Men": [
                 "X-Men Origins: Wolverine (2009)"
+            ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
+    "Lil Yachty": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -9718,10 +12018,33 @@ var igActorMap = {
             ]
         }
     },
+    "Lily Tomlin": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
     "Lilyan Chauvin": {
         "movies": {
             "Predator": [
                 "Predator 2 (1990)"
+            ]
+        }
+    },
+    "Lin-Manuel Miranda": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
+    "Linda Cardellini": {
+        "movies": {
+            "MCU": [
+                "Avengers: Age of Ultron (2015)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -9748,6 +12071,20 @@ var igActorMap = {
                 "Planet of the Apes (1968)",
                 "Beneath the Planet of the Apes (1970)",
                 "Planet of the Apes (2001)"
+            ]
+        }
+    },
+    "Linda Hunt": {
+        "movies": {
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
+            ]
+        }
+    },
+    "Linda Louise Duan": {
+        "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
             ]
         }
     },
@@ -9779,6 +12116,13 @@ var igActorMap = {
             ]
         }
     },
+    "Little Simz": {
+        "movies": {
+            "Spider-Man": [
+                "Venom: Let There Be Carnage (2021)"
+            ]
+        }
+    },
     "Liv Tyler": {
         "movies": {
             "Middle-earth": [
@@ -9795,6 +12139,9 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Prometheus (2012)"
+            ],
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -9837,11 +12184,26 @@ var igActorMap = {
             ]
         }
     },
+    "Luca Marinelli": {
+        "movies": {
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
+            ]
+        }
+    },
     "Lucas Till": {
         "movies": {
             "X-Men": [
                 "X-Men: First Class (2011)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)"
+            ]
+        }
+    },
+    "Lucy Davis": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman (2017)"
             ]
         }
     },
@@ -9856,6 +12218,9 @@ var igActorMap = {
         "movies": {
             "Power Rangers": [
                 "Power Rangers (2017)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -9877,6 +12242,20 @@ var igActorMap = {
             ]
         }
     },
+    "Luke Hemsworth": {
+        "movies": {
+            "MCU": [
+                "Thor: Ragnarok (2017)"
+            ]
+        }
+    },
+    "Luke Kirby": {
+        "movies": {
+            "Unbreakable": [
+                "Glass (2019)"
+            ]
+        }
+    },
     "Luke Pasqualino": {
         "movies": {
             "Snowpiercer (2014)": [
@@ -9891,10 +12270,39 @@ var igActorMap = {
             ]
         }
     },
+    "Luna Lauren Velez": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
+    "Lupita Nyong'o": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ],
+            "MCU": [
+                "Black Panther (2018)"
+            ]
+        }
+    },
+    "Lydia Wilson": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
+            ]
+        }
+    },
     "Lynda Carter": {
         "movies": {
             "Sky High (2005)": [
                 "Sky High (2005)"
+            ],
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
             ]
         }
     },
@@ -9926,7 +12334,9 @@ var igActorMap = {
     "M. Night Shyamalan": {
         "movies": {
             "Unbreakable": [
-                "Unbreakable (2000)"
+                "Unbreakable (2000)",
+                "Split (2017)",
+                "Glass (2019)"
             ]
         }
     },
@@ -9979,8 +12389,14 @@ var igActorMap = {
     },
     "Mads Mikkelsen": {
         "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
+            ],
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
+            ],
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -10038,8 +12454,25 @@ var igActorMap = {
             "Predator": [
                 "Predators (2010)"
             ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ],
             "MCU": [
                 "Eternals (2021)"
+            ]
+        }
+    },
+    "Maisie Richardson-Sellers": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
+            ]
+        }
+    },
+    "Maisie Williams": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
             ]
         }
     },
@@ -10113,6 +12546,13 @@ var igActorMap = {
             ]
         }
     },
+    "Marc Maron": {
+        "movies": {
+            "DC": [
+                "Joker (2019)"
+            ]
+        }
+    },
     "Marc McClure": {
         "movies": {
             "Superman": [
@@ -10125,6 +12565,10 @@ var igActorMap = {
             "Back to the Future": [
                 "Back to the Future (1985)",
                 "Back to the Future Part III (1990)"
+            ],
+            "DCEU": [
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -10153,6 +12597,9 @@ var igActorMap = {
         "movies": {
             "The Rocketeer (1991)": [
                 "The Rocketeer (1991)"
+            ],
+            "DC": [
+                "The Kitchen (2019)"
             ]
         }
     },
@@ -10163,6 +12610,15 @@ var igActorMap = {
                 "Superman II (1981)",
                 "Superman III (1983)",
                 "Superman IV: The Quest for Peace (1987)"
+            ]
+        }
+    },
+    "Margot Robbie": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)",
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)",
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -10177,6 +12633,13 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Fantastic Four (2005)"
+            ]
+        }
+    },
+    "Mariah Carey": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -10198,6 +12661,13 @@ var igActorMap = {
         "movies": {
             "Superman": [
                 "Superman IV: The Quest for Peace (1987)"
+            ]
+        }
+    },
+    "Marilyn Manson": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
             ]
         }
     },
@@ -10228,7 +12698,18 @@ var igActorMap = {
     "Marisa Tomei": {
         "movies": {
             "MCU": [
-                "Spider-Man: Far From Home (2019)"
+                "Captain America: Civil War (2016)",
+                "Spider-Man: Homecoming (2017)",
+                "Avengers: Endgame (2019)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
+            ]
+        }
+    },
+    "Mark Anthony Brighton": {
+        "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
             ]
         }
     },
@@ -10280,10 +12761,16 @@ var igActorMap = {
             "Star Wars": [
                 "Star Wars (1977)",
                 "The Empire Strikes Back (1980)",
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Batman": [
                 "Batman: Mask of the Phantasm (1993)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
             ]
         }
     },
@@ -10300,6 +12787,13 @@ var igActorMap = {
                 "Star Trek: The Motion Picture (1979)",
                 "Star Trek III: The Search for Spock (1984)",
                 "Star Trek IV: The Voyage Home (1986)"
+            ]
+        }
+    },
+    "Mark Lewis Jones": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -10339,7 +12833,12 @@ var igActorMap = {
             "MCU": [
                 "The Avengers (2012)",
                 "Iron Man 3 (2013)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Thor: Ragnarok (2017)",
+                "Avengers: Infinity War (2018)",
+                "Captain Marvel (2019)",
+                "Avengers: Endgame (2019)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -10371,6 +12870,13 @@ var igActorMap = {
             ],
             "John Carter (2012)": [
                 "John Carter (2012)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
+            ],
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -10423,6 +12929,13 @@ var igActorMap = {
             ]
         }
     },
+    "Marta Milans": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "Martha Stewart": {
         "movies": {
             "Men in Black": [
@@ -10450,6 +12963,10 @@ var igActorMap = {
                 "The Hobbit: An Unexpected Journey (2012)",
                 "The Hobbit: The Desolation of Smaug (2013)",
                 "The Hobbit: The Battle of the Five Armies (2014)"
+            ],
+            "MCU": [
+                "Captain America: Civil War (2016)",
+                "Black Panther (2018)"
             ]
         }
     },
@@ -10486,7 +13003,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "The Incredible Hulk (2008)",
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Homecoming (2017)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -10504,6 +13023,20 @@ var igActorMap = {
             ]
         }
     },
+    "Marvin \"Krondon\" Jones III": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
+    "Marwan Kenzari": {
+        "movies": {
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
+            ]
+        }
+    },
     "Mary Alice": {
         "movies": {
             "Matrix": [
@@ -10518,6 +13051,9 @@ var igActorMap = {
             ],
             "Scott Pilgrim vs. the World (2010)": [
                 "Scott Pilgrim vs. the World (2010)"
+            ],
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
             ]
         }
     },
@@ -10567,6 +13103,16 @@ var igActorMap = {
             ]
         }
     },
+    "Matt Damon": {
+        "movies": {
+            "MCU": [
+                "Thor: Ragnarok (2017)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Matt Doran": {
         "movies": {
             "Matrix": [
@@ -10605,6 +13151,13 @@ var igActorMap = {
             ]
         }
     },
+    "Matt Lucas": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
+            ]
+        }
+    },
     "Matt Schulze": {
         "movies": {
             "Marvel": [
@@ -10623,6 +13176,9 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Watchmen (2009)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -10653,6 +13209,13 @@ var igActorMap = {
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
                 "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
                 "Star Wars: The Clone Wars (2008)"
+            ]
+        }
+    },
+    "Matthias Schoenaerts": {
+        "movies": {
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
             ]
         }
     },
@@ -10703,6 +13266,9 @@ var igActorMap = {
             ],
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
             ]
         }
     },
@@ -10711,7 +13277,8 @@ var igActorMap = {
             "MCU": [
                 "Thor (2011)",
                 "The Avengers (2012)",
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -10725,10 +13292,28 @@ var igActorMap = {
             ]
         }
     },
+    "Mayling Ng": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman (2017)",
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
     "Mckenna Grace": {
         "movies": {
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ],
+            "MCU": [
+                "Captain Marvel (2019)"
+            ]
+        }
+    },
+    "Meagan Good": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -10777,6 +13362,20 @@ var igActorMap = {
             ]
         }
     },
+    "Melissa McCarthy": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
+    "Melissa Roxburgh": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
+            ]
+        }
+    },
     "Melody Anderson": {
         "movies": {
             "Flash Gordon (1980)": [
@@ -10791,10 +13390,24 @@ var igActorMap = {
             ]
         }
     },
+    "Meng'er Zhang": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
     "Meredith Anne Bull": {
         "movies": {
             "Strange Magic (2015)": [
                 "Strange Magic (2015)"
+            ]
+        }
+    },
+    "Meredith Salenger": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -10834,6 +13447,23 @@ var igActorMap = {
             ]
         }
     },
+    "Michael B. Jordan": {
+        "movies": {
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ],
+            "MCU": [
+                "Black Panther (2018)"
+            ]
+        }
+    },
+    "Michael Beach": {
+        "movies": {
+            "DCEU": [
+                "Aquaman (2018)"
+            ]
+        }
+    },
     "Michael Biehn": {
         "movies": {
             "Terminator": [
@@ -10847,7 +13477,15 @@ var igActorMap = {
     "Michael Bird": {
         "movies": {
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
+            ]
+        }
+    },
+    "Michael Bolton": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -10864,6 +13502,16 @@ var igActorMap = {
                 "Batman Begins (2005)",
                 "The Dark Knight (2008)",
                 "The Dark Knight Rises (2012)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
+            ]
+        }
+    },
+    "Michael Cassidy": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -10871,6 +13519,16 @@ var igActorMap = {
         "movies": {
             "Scott Pilgrim vs. the World (2010)": [
                 "Scott Pilgrim vs. the World (2010)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
+    "Michael Cerveris": {
+        "movies": {
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -10878,6 +13536,9 @@ var igActorMap = {
         "movies": {
             "Men in Black": [
                 "Men in Black 3 (2012)"
+            ],
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -10926,7 +13587,9 @@ var igActorMap = {
     "Michael Douglas": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -10947,7 +13610,9 @@ var igActorMap = {
             ],
             "X-Men": [
                 "X-Men: First Class (2011)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)",
+                "Dark Phoenix (2019)"
             ],
             "Alien": [
                 "Prometheus (2012)",
@@ -10964,6 +13629,17 @@ var igActorMap = {
                 "Harry Potter and the Half-Blood Prince (2009)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
+    "Michael Giacchino": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -11040,7 +13716,8 @@ var igActorMap = {
     "Michael James Shaw": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -11072,6 +13749,9 @@ var igActorMap = {
             ],
             "RoboCop": [
                 "RoboCop (2014)"
+            ],
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -11102,6 +13782,13 @@ var igActorMap = {
             ]
         }
     },
+    "Michael Mando": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
+            ]
+        }
+    },
     "Michael Massee": {
         "movies": {
             "Crow": [
@@ -11113,6 +13800,14 @@ var igActorMap = {
             "Spider-Man": [
                 "The Amazing Spider-Man (2012)",
                 "The Amazing Spider-Man 2 (2014)"
+            ]
+        }
+    },
+    "Michael McElhatton": {
+        "movies": {
+            "DCEU": [
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -11148,7 +13843,8 @@ var igActorMap = {
     "Michael Pe\u00f1a": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -11162,7 +13858,18 @@ var igActorMap = {
     "Michael Rooker": {
         "movies": {
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
+    "Michael Rosenbaum": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -11187,6 +13894,9 @@ var igActorMap = {
         "movies": {
             "Men in Black": [
                 "Men in Black 3 (2012)"
+            ],
+            "MCU": [
+                "Doctor Strange (2016)"
             ]
         }
     },
@@ -11207,10 +13917,37 @@ var igActorMap = {
             ]
         }
     },
+    "Michelle Borth": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "Michelle Pfeiffer": {
         "movies": {
             "Batman": [
                 "Batman Returns (1992)"
+            ],
+            "MCU": [
+                "Ant-Man and the Wasp (2018)",
+                "Avengers: Endgame (2019)"
+            ]
+        }
+    },
+    "Michelle Williams": {
+        "movies": {
+            "Spider-Man": [
+                "Venom (2018)",
+                "Venom: Let There Be Carnage (2021)"
+            ]
+        }
+    },
+    "Michelle Yeoh": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -11287,7 +14024,10 @@ var igActorMap = {
     "Mike Quinn": {
         "movies": {
             "Star Wars": [
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -11295,6 +14035,20 @@ var igActorMap = {
         "movies": {
             "TMNT": [
                 "TMNT (2007)"
+            ]
+        }
+    },
+    "Miles Teller": {
+        "movies": {
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ]
+        }
+    },
+    "Miley Cyrus": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -11381,6 +14135,14 @@ var igActorMap = {
             ]
         }
     },
+    "Morena Baccarin": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Morgan Freeman": {
         "movies": {
             "Batman": [
@@ -11439,6 +14201,20 @@ var igActorMap = {
             ]
         }
     },
+    "Nancy Grace": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
+            ]
+        }
+    },
+    "Naomi Ackie": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
     "Naomi Scott": {
         "movies": {
             "Power Rangers": [
@@ -11458,6 +14234,9 @@ var igActorMap = {
             "Pirates": [
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
                 "Pirates of the Caribbean: At World's End (2007)"
+            ],
+            "Spider-Man": [
+                "Venom: Let There Be Carnage (2021)"
             ]
         }
     },
@@ -11472,6 +14251,14 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator: Dark Fate (2019)"
+            ]
+        }
+    },
+    "Natalia Safran": {
+        "movies": {
+            "DCEU": [
+                "Aquaman (2018)",
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -11504,7 +14291,8 @@ var igActorMap = {
             ],
             "MCU": [
                 "Thor (2011)",
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -11525,6 +14313,13 @@ var igActorMap = {
             ]
         }
     },
+    "Natasha Rothwell": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
+            ]
+        }
+    },
     "Natasha Wightman": {
         "movies": {
             "V for Vendetta (2006)": [
@@ -11536,6 +14331,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Guardians of the Galaxy (2014)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -11623,6 +14421,13 @@ var igActorMap = {
             ]
         }
     },
+    "Neil deGrasse Tyson": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
+            ]
+        }
+    },
     "Nelson Franklin": {
         "movies": {
             "Scott Pilgrim vs. the World (2010)": [
@@ -11671,7 +14476,10 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: First Class (2011)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "X-Men: Apocalypse (2016)",
+                "Deadpool 2 (2018)",
+                "Dark Phoenix (2019)"
             ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
@@ -11767,6 +14575,12 @@ var igActorMap = {
             ],
             "Kick-Ass": [
                 "Kick-Ass (2010)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -11774,6 +14588,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman Forever (1995)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -11883,6 +14700,13 @@ var igActorMap = {
             ]
         }
     },
+    "O-T Fagbenle": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
     "Octavia Spencer": {
         "movies": {
             "Spider-Man": [
@@ -11911,6 +14735,16 @@ var igActorMap = {
         "movies": {
             "Oblivion (2013)": [
                 "Oblivion (2013)"
+            ],
+            "MCU": [
+                "Black Widow (2021)"
+            ]
+        }
+    },
+    "Oliver Cotton": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
             ]
         }
     },
@@ -11956,6 +14790,9 @@ var igActorMap = {
             "MCU": [
                 "Iron Man 2 (2010)"
             ],
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
+            ],
             "Predator": [
                 "The Predator (2018)"
             ]
@@ -11986,6 +14823,19 @@ var igActorMap = {
         "movies": {
             "Conan": [
                 "Conan the Destroyer (1984)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
+            ]
+        }
+    },
+    "Olivier Richters": {
+        "movies": {
+            "MCU": [
+                "Black Widow (2021)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -12062,6 +14912,21 @@ var igActorMap = {
             ]
         }
     },
+    "Oscar Isaac": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)",
+                "Star Wars: The Rise of Skywalker (2019)"
+            ],
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
+            ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
     "Paige Turco": {
         "movies": {
             "TMNT": [
@@ -12095,6 +14960,13 @@ var igActorMap = {
         "movies": {
             "Superman": [
                 "Superman III (1983)"
+            ]
+        }
+    },
+    "Pankaj Tripathi": {
+        "movies": {
+            "Extraction (2020)": [
+                "Extraction (2020)"
             ]
         }
     },
@@ -12202,7 +15074,8 @@ var igActorMap = {
                 "X2 (2003)",
                 "X-Men: The Last Stand (2006)",
                 "X-Men Origins: Wolverine (2009)",
-                "X-Men: Days of Future Past (2014)"
+                "X-Men: Days of Future Past (2014)",
+                "Logan (2017)"
             ],
             "TMNT": [
                 "TMNT (2007)"
@@ -12226,6 +15099,10 @@ var igActorMap = {
             ],
             "Alien": [
                 "Prometheus (2012)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Aquaman (2018)"
             ]
         }
     },
@@ -12233,6 +15110,9 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Blade: Trinity (2004)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ],
             "MCU": [
                 "Eternals (2021)"
@@ -12246,10 +15126,15 @@ var igActorMap = {
                 "Iron Man 2 (2010)",
                 "The Avengers (2012)",
                 "Iron Man 3 (2013)",
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
                 "Avengers: Infinity War (2018)"
             ],
             "Priest (2011)": [
                 "Priest (2011)"
+            ],
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -12349,7 +15234,10 @@ var igActorMap = {
     "Paul Rudd": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Captain America: Civil War (2016)",
+                "Ant-Man and the Wasp (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -12385,6 +15273,13 @@ var igActorMap = {
             ]
         }
     },
+    "Paul Wernick": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Paul Winfield": {
         "movies": {
             "Star Trek": [
@@ -12392,6 +15287,13 @@ var igActorMap = {
             ],
             "Terminator": [
                 "The Terminator (1984)"
+            ]
+        }
+    },
+    "Paula Newsome": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -12414,6 +15316,24 @@ var igActorMap = {
             "Zorro": [
                 "The Mask of Zorro (1998)",
                 "The Legend of Zorro (2005)"
+            ]
+        }
+    },
+    "Pedro Pascal": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ],
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
+            ]
+        }
+    },
+    "Peggy Lu": {
+        "movies": {
+            "Spider-Man": [
+                "Venom (2018)",
+                "Venom: Let There Be Carnage (2021)"
             ]
         }
     },
@@ -12463,6 +15383,13 @@ var igActorMap = {
             ]
         }
     },
+    "Pete Davidson": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
     "Pete Ploszek": {
         "movies": {
             "TMNT": [
@@ -12493,6 +15420,13 @@ var igActorMap = {
         "movies": {
             "The Shadow (1994)": [
                 "The Shadow (1994)"
+            ]
+        }
+    },
+    "Peter Capaldi": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -12571,6 +15505,9 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien 3 (1992)"
+            ],
+            "DCEU": [
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -12613,7 +15550,8 @@ var igActorMap = {
                 "Star Wars (1977)",
                 "The Empire Strikes Back (1980)",
                 "Return of the Jedi (1983)",
-                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+                "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+                "Star Wars: The Force Awakens (2015)"
             ]
         }
     },
@@ -12725,6 +15663,9 @@ var igActorMap = {
         "movies": {
             "Spider-Man": [
                 "Spider-Man 2 (2004)"
+            ],
+            "Incredibles": [
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -12745,6 +15686,13 @@ var igActorMap = {
         "movies": {
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ]
+        }
+    },
+    "Phoebe Waller-Bridge": {
+        "movies": {
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -12772,7 +15720,26 @@ var igActorMap = {
     "Pom Klementieff": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
+            ]
+        }
+    },
+    "Poppy Delevingne": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
+    "Post Malone": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
@@ -12801,6 +15768,13 @@ var igActorMap = {
         "movies": {
             "Matrix": [
                 "The Matrix Resurrections (2021)"
+            ]
+        }
+    },
+    "Priyanshu Painyuli": {
+        "movies": {
+            "Extraction (2020)": [
+                "Extraction (2020)"
             ]
         }
     },
@@ -12853,6 +15827,20 @@ var igActorMap = {
             ]
         }
     },
+    "Rachel House": {
+        "movies": {
+            "MCU": [
+                "Thor: Ragnarok (2017)"
+            ]
+        }
+    },
+    "Rachel McAdams": {
+        "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
+            ]
+        }
+    },
     "Rachel Nichols": {
         "movies": {
             "Star Trek": [
@@ -12867,6 +15855,9 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Constantine (2005)"
+            ],
+            "MCU": [
+                "Black Widow (2021)"
             ]
         }
     },
@@ -12928,11 +15919,20 @@ var igActorMap = {
                 "Harry Potter and the Order of the Phoenix (2007)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
     "Ralph Ineson": {
         "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
             ]
@@ -12949,6 +15949,23 @@ var igActorMap = {
         "movies": {
             "Matrix": [
                 "The Matrix Reloaded (2003)"
+            ]
+        }
+    },
+    "Randall Park": {
+        "movies": {
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
+            ]
+        }
+    },
+    "Randeep Hooda": {
+        "movies": {
+            "Extraction (2020)": [
+                "Extraction (2020)"
             ]
         }
     },
@@ -12973,6 +15990,22 @@ var igActorMap = {
             ]
         }
     },
+    "Ravi Patel": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman 1984 (2020)"
+            ]
+        }
+    },
+    "Ray Fisher": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)",
+                "Justice League (2017)",
+                "Zack Snyder's Justice League (2021)"
+            ]
+        }
+    },
     "Ray J": {
         "movies": {
             "DC": [
@@ -12990,10 +16023,18 @@ var igActorMap = {
     "Ray Park": {
         "movies": {
             "Star Wars": [
-                "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+                "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+                "Solo: A Star Wars Story (2018)"
             ],
             "X-Men": [
                 "X-Men (2000)"
+            ]
+        }
+    },
+    "Ray Porter": {
+        "movies": {
+            "DCEU": [
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -13004,7 +16045,8 @@ var igActorMap = {
             ],
             "MCU": [
                 "Thor (2011)",
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Thor: Ragnarok (2017)"
             ]
         }
     },
@@ -13015,6 +16057,9 @@ var igActorMap = {
             ],
             "Indiana Jones": [
                 "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
+            ],
+            "MCU": [
+                "Black Widow (2021)"
             ]
         }
     },
@@ -13107,6 +16152,17 @@ var igActorMap = {
             ],
             "Tank Girl (1995)": [
                 "Tank Girl (1995)"
+            ],
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ]
+        }
+    },
+    "Reid Scott": {
+        "movies": {
+            "Spider-Man": [
+                "Venom (2018)",
+                "Venom: Let There Be Carnage (2021)"
             ]
         }
     },
@@ -13135,7 +16191,8 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Thor (2011)",
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -13150,6 +16207,13 @@ var igActorMap = {
             ]
         }
     },
+    "Rhett Reese": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Rhys Ifans": {
         "movies": {
             "Wizarding World": [
@@ -13157,6 +16221,12 @@ var igActorMap = {
             ],
             "Spider-Man": [
                 "The Amazing Spider-Man (2012)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -13218,6 +16288,9 @@ var igActorMap = {
             ],
             "MCU": [
                 "Thor: The Dark World (2013)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
             ]
         }
     },
@@ -13260,6 +16333,19 @@ var igActorMap = {
         "movies": {
             "Red": [
                 "Red (2010)"
+            ],
+            "Polar (2019)": [
+                "Polar (2019)"
+            ]
+        }
+    },
+    "Richard E. Grant": {
+        "movies": {
+            "X-Men": [
+                "Logan (2017)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -13389,6 +16475,13 @@ var igActorMap = {
             ]
         }
     },
+    "Riki Lindhome": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
     "Riley Keough": {
         "movies": {
             "Mad Max": [
@@ -13425,6 +16518,30 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
+            ],
+            "Spider-Man": [
+                "Venom (2018)"
+            ]
+        }
+    },
+    "Rob Delaney": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
+    "Rob Hayter": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)"
+            ]
+        }
+    },
+    "Rob Liefeld": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)"
             ]
         }
     },
@@ -13438,7 +16555,8 @@ var igActorMap = {
     "Rob Zombie": {
         "movies": {
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -13499,6 +16617,13 @@ var igActorMap = {
             ]
         }
     },
+    "Robert De Niro": {
+        "movies": {
+            "DC": [
+                "Joker (2019)"
+            ]
+        }
+    },
     "Robert Downey Jr.": {
         "movies": {
             "MCU": [
@@ -13507,7 +16632,11 @@ var igActorMap = {
                 "Iron Man 2 (2010)",
                 "The Avengers (2012)",
                 "Iron Man 3 (2013)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
+                "Spider-Man: Homecoming (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -13580,6 +16709,12 @@ var igActorMap = {
             ],
             "Hercules (2014)": [
                 "Hercules (2014)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ],
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -13600,7 +16735,8 @@ var igActorMap = {
     "Robert Redford": {
         "movies": {
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -13644,6 +16780,9 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers: Revenge of the Fallen (2009)"
+            ],
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
             ]
         }
     },
@@ -13659,6 +16798,11 @@ var igActorMap = {
         "movies": {
             "Unbreakable": [
                 "Unbreakable (2000)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)",
+                "Wonder Woman 1984 (2020)",
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -13691,6 +16835,9 @@ var igActorMap = {
             "300": [
                 "300 (2007)",
                 "300: Rise of an Empire (2014)"
+            ],
+            "Project Power (2020)": [
+                "Project Power (2020)"
             ]
         }
     },
@@ -13715,10 +16862,24 @@ var igActorMap = {
             ]
         }
     },
+    "Roland M\u00f8ller": {
+        "movies": {
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ]
+        }
+    },
     "Romano Orzari": {
         "movies": {
             "Marvel": [
                 "Punisher: War Zone (2008)"
+            ]
+        }
+    },
+    "Ron Cephas Jones": {
+        "movies": {
+            "Spider-Man": [
+                "Venom (2018)"
             ]
         }
     },
@@ -13760,6 +16921,9 @@ var igActorMap = {
             ],
             "Conan": [
                 "Conan the Barbarian (2011)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
             ]
         }
     },
@@ -13795,6 +16959,20 @@ var igActorMap = {
             ]
         }
     },
+    "Ronan Raftery": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ]
+        }
+    },
+    "Ronny Chieng": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
     "Ronny Cox": {
         "movies": {
             "RoboCop": [
@@ -13824,6 +17002,9 @@ var igActorMap = {
             "Sin City": [
                 "Sin City (2005)",
                 "Sin City: A Dame to Kill For (2014)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -13833,7 +17014,8 @@ var igActorMap = {
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
             ],
             "X-Men": [
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Apocalypse (2016)"
             ]
         }
     },
@@ -13870,10 +17052,25 @@ var igActorMap = {
             ]
         }
     },
+    "Rosie Perez": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+            ]
+        }
+    },
+    "Ross Butler": {
+        "movies": {
+            "DCEU": [
+                "Shazam! (2019)"
+            ]
+        }
+    },
     "Ross Marquand": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -13905,6 +17102,20 @@ var igActorMap = {
             ]
         }
     },
+    "Ruby O. Fee": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
+            ]
+        }
+    },
+    "Rudhraksh Jaiswal": {
+        "movies": {
+            "Extraction (2020)": [
+                "Extraction (2020)"
+            ]
+        }
+    },
     "Rufus Sewell": {
         "movies": {
             "Zorro": [
@@ -13912,6 +17123,13 @@ var igActorMap = {
             ],
             "Hercules (2014)": [
                 "Hercules (2014)"
+            ]
+        }
+    },
+    "Rune Temte": {
+        "movies": {
+            "MCU": [
+                "Captain Marvel (2019)"
             ]
         }
     },
@@ -13988,13 +17206,22 @@ var igActorMap = {
                 "Blade: Trinity (2004)"
             ],
             "X-Men": [
-                "X-Men Origins: Wolverine (2009)"
+                "X-Men Origins: Wolverine (2009)",
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
             ],
             "DC": [
                 "Green Lantern (2011)"
             ],
             "R.I.P.D. (2013)": [
                 "R.I.P.D. (2013)"
+            ]
+        }
+    },
+    "Ryan Zheng": {
+        "movies": {
+            "DCEU": [
+                "Zack Snyder's Justice League (2021)"
             ]
         }
     },
@@ -14033,6 +17260,9 @@ var igActorMap = {
         "movies": {
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)"
+            ],
+            "X-Men": [
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -14066,6 +17296,16 @@ var igActorMap = {
             ]
         }
     },
+    "Sam Hargrave": {
+        "movies": {
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ],
+            "Extraction (2020)": [
+                "Extraction (2020)"
+            ]
+        }
+    },
     "Sam Heughan": {
         "movies": {
             "Bloodshot (2020)": [
@@ -14092,6 +17332,9 @@ var igActorMap = {
             "Jurassic Park": [
                 "Jurassic Park (1993)",
                 "Jurassic Park III (2001)"
+            ],
+            "MCU": [
+                "Thor: Ragnarok (2017)"
             ]
         }
     },
@@ -14136,6 +17379,13 @@ var igActorMap = {
             ]
         }
     },
+    "Sam Witwer": {
+        "movies": {
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
+            ]
+        }
+    },
     "Sam Worthington": {
         "movies": {
             "Terminator": [
@@ -14161,6 +17411,17 @@ var igActorMap = {
         "movies": {
             "John Carter (2012)": [
                 "John Carter (2012)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts and Where to Find Them (2016)"
+            ]
+        }
+    },
+    "Samantha Womack": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -14173,13 +17434,16 @@ var igActorMap = {
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
                 "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-                "Star Wars: The Clone Wars (2008)"
+                "Star Wars: The Clone Wars (2008)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Unbreakable": [
-                "Unbreakable (2000)"
+                "Unbreakable (2000)",
+                "Glass (2019)"
             ],
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
             ],
             "MCU": [
                 "Iron Man (2008)",
@@ -14188,7 +17452,10 @@ var igActorMap = {
                 "Captain America: The First Avenger (2011)",
                 "The Avengers (2012)",
                 "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)",
                 "Avengers: Infinity War (2018)",
+                "Captain Marvel (2019)",
+                "Avengers: Endgame (2019)",
                 "Spider-Man: Far From Home (2019)"
             ],
             "The Spirit (2008)": [
@@ -14196,6 +17463,9 @@ var igActorMap = {
             ],
             "RoboCop": [
                 "RoboCop (2014)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
             ]
         }
     },
@@ -14265,13 +17535,17 @@ var igActorMap = {
         "movies": {
             "The Spirit (2008)": [
                 "The Spirit (2008)"
+            ],
+            "Unbreakable": [
+                "Glass (2019)"
             ]
         }
     },
     "Sarah Vowell": {
         "movies": {
             "Incredibles": [
-                "The Incredibles (2004)"
+                "The Incredibles (2004)",
+                "Incredibles 2 (2018)"
             ]
         }
     },
@@ -14293,6 +17567,9 @@ var igActorMap = {
         "movies": {
             "Conan": [
                 "Conan the Barbarian (2011)"
+            ],
+            "DCEU": [
+                "Wonder Woman (2017)"
             ]
         }
     },
@@ -14308,7 +17585,12 @@ var igActorMap = {
                 "Iron Man 2 (2010)",
                 "The Avengers (2012)",
                 "Captain America: The Winter Soldier (2014)",
-                "Avengers: Infinity War (2018)"
+                "Avengers: Age of Ultron (2015)",
+                "Captain America: Civil War (2016)",
+                "Avengers: Infinity War (2018)",
+                "Captain Marvel (2019)",
+                "Avengers: Endgame (2019)",
+                "Black Widow (2021)"
             ]
         }
     },
@@ -14316,6 +17598,20 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "The Transformers: The Movie (1986)"
+            ]
+        }
+    },
+    "Scoot McNairy": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
+            ]
+        }
+    },
+    "Scott Adkins": {
+        "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
             ]
         }
     },
@@ -14333,10 +17629,38 @@ var igActorMap = {
             ]
         }
     },
+    "Scott Eastwood": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)"
+            ]
+        }
+    },
+    "Scott Haze": {
+        "movies": {
+            "Spider-Man": [
+                "Venom (2018)"
+            ]
+        }
+    },
     "Scott Lawrence": {
         "movies": {
             "Timecop (1994)": [
                 "Timecop (1994)"
+            ]
+        }
+    },
+    "Scott Menville": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
+    "Scott Shepherd": {
+        "movies": {
+            "X-Men": [
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -14386,7 +17710,12 @@ var igActorMap = {
     "Sean Gunn": {
         "movies": {
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Endgame (2019)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -14404,6 +17733,13 @@ var igActorMap = {
             ]
         }
     },
+    "Sebastian Arcelus": {
+        "movies": {
+            "Unbreakable": [
+                "Split (2017)"
+            ]
+        }
+    },
     "Sebastian Shaw": {
         "movies": {
             "Star Wars": [
@@ -14417,7 +17753,17 @@ var igActorMap = {
                 "Captain America: The First Avenger (2011)",
                 "Captain America: The Winter Soldier (2014)",
                 "Ant-Man (2015)",
-                "Avengers: Infinity War (2018)"
+                "Captain America: Civil War (2016)",
+                "Black Panther (2018)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
+            ]
+        }
+    },
+    "Selenis Leyva": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
             ]
         }
     },
@@ -14446,7 +17792,11 @@ var igActorMap = {
     "Seth Green": {
         "movies": {
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
             ]
         }
     },
@@ -14493,6 +17843,13 @@ var igActorMap = {
             ]
         }
     },
+    "Shameik Moore": {
+        "movies": {
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
+            ]
+        }
+    },
     "Shane Black": {
         "movies": {
             "Predator": [
@@ -14524,6 +17881,7 @@ var igActorMap = {
     "Sharon Blynn": {
         "movies": {
             "MCU": [
+                "Captain Marvel (2019)",
                 "Spider-Man: Far From Home (2019)"
             ]
         }
@@ -14560,6 +17918,16 @@ var igActorMap = {
             ]
         }
     },
+    "Shea Whigham": {
+        "movies": {
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
+            ],
+            "DC": [
+                "Joker (2019)"
+            ]
+        }
+    },
     "Shefali Chowdhury": {
         "movies": {
             "Wizarding World": [
@@ -14589,11 +17957,21 @@ var igActorMap = {
             ]
         }
     },
+    "Shiori Kutsuna": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Shirley Henderson": {
         "movies": {
             "Wizarding World": [
                 "Harry Potter and the Chamber of Secrets (2002)",
                 "Harry Potter and the Goblet of Fire (2005)"
+            ],
+            "Star Wars": [
+                "Star Wars: The Rise of Skywalker (2019)"
             ]
         }
     },
@@ -14601,6 +17979,9 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: The Last Stand (2006)"
+            ],
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
             ]
         }
     },
@@ -14648,7 +18029,8 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
             ],
             "Narnia": [
                 "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
@@ -14656,8 +18038,18 @@ var igActorMap = {
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
             ],
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ]
+        }
+    },
+    "Simu Liu": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -14699,6 +18091,19 @@ var igActorMap = {
             ]
         }
     },
+    "Sofia Boutella": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
+            ],
+            "Star Trek": [
+                "Star Trek Beyond (2016)"
+            ],
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ]
+        }
+    },
     "Sofia Coppola": {
         "movies": {
             "Star Wars": [
@@ -14734,6 +18139,13 @@ var igActorMap = {
             ]
         }
     },
+    "Sophia Bush": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
+            ]
+        }
+    },
     "Sophia Myles": {
         "movies": {
             "From Hell (2001)": [
@@ -14744,10 +18156,26 @@ var igActorMap = {
             ]
         }
     },
+    "Sophie Cookson": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
+            ]
+        }
+    },
     "Sophie Okonedo": {
         "movies": {
             "Hellboy": [
                 "Hellboy (2019)"
+            ]
+        }
+    },
+    "Sophie Turner": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)",
+                "Dark Phoenix (2019)"
             ]
         }
     },
@@ -14769,7 +18197,8 @@ var igActorMap = {
     "Spencer Treat Clark": {
         "movies": {
             "Unbreakable": [
-                "Unbreakable (2000)"
+                "Unbreakable (2000)",
+                "Glass (2019)"
             ]
         }
     },
@@ -14836,6 +18265,17 @@ var igActorMap = {
             "Transformers": [
                 "Transformers: Age of Extinction (2014)",
                 "Transformers: The Last Knight (2017)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
+    "Stefan Kapi\u010di\u0107": {
+        "movies": {
+            "X-Men": [
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
             ]
         }
     },
@@ -14848,7 +18288,15 @@ var igActorMap = {
             "MCU": [
                 "Thor (2011)",
                 "The Avengers (2012)",
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Avengers: Age of Ultron (2015)"
+            ]
+        }
+    },
+    "Stephanie Hsu": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -14906,6 +18354,9 @@ var igActorMap = {
             ],
             "Hellboy": [
                 "Hellboy (2019)"
+            ],
+            "Spider-Man": [
+                "Venom: Let There Be Carnage (2021)"
             ]
         }
     },
@@ -14946,6 +18397,13 @@ var igActorMap = {
             ]
         }
     },
+    "Stephen Merchant": {
+        "movies": {
+            "X-Men": [
+                "Logan (2017)"
+            ]
+        }
+    },
     "Stephen Moyer": {
         "movies": {
             "Priest (2011)": [
@@ -14979,8 +18437,21 @@ var igActorMap = {
     },
     "Sterling K. Brown": {
         "movies": {
+            "MCU": [
+                "Black Panther (2018)"
+            ],
             "Predator": [
                 "The Predator (2018)"
+            ]
+        }
+    },
+    "Steve Agee": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -14995,6 +18466,9 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Bumblebee (2018)"
+            ],
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -15065,6 +18539,13 @@ var igActorMap = {
             ]
         }
     },
+    "Steven Williams": {
+        "movies": {
+            "DCEU": [
+                "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+            ]
+        }
+    },
     "Steven Wright": {
         "movies": {
             "Mask": [
@@ -15076,6 +18557,13 @@ var igActorMap = {
         "movies": {
             "Dick Tracy (1990)": [
                 "Dick Tracy (1990)"
+            ]
+        }
+    },
+    "Storm Reid": {
+        "movies": {
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -15152,6 +18640,12 @@ var igActorMap = {
         "movies": {
             "Judge Dredd (1995)": [
                 "Judge Dredd (1995)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -15170,6 +18664,10 @@ var igActorMap = {
             "Marvel": [
                 "Big Hero 6 (2014)"
             ],
+            "X-Men": [
+                "Deadpool (2016)",
+                "Deadpool 2 (2018)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
             ]
@@ -15179,7 +18677,8 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Thor (2011)",
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Thor: Ragnarok (2017)"
             ]
         }
     },
@@ -15194,6 +18693,13 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Green Lantern (2011)"
+            ],
+            "MCU": [
+                "Thor: Ragnarok (2017)",
+                "Avengers: Endgame (2019)"
+            ],
+            "DCEU": [
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -15214,10 +18720,32 @@ var igActorMap = {
             ]
         }
     },
+    "Tao Okamoto": {
+        "movies": {
+            "DCEU": [
+                "Batman v Superman: Dawn of Justice (2016)"
+            ]
+        }
+    },
+    "Tara Strong": {
+        "movies": {
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
+            ]
+        }
+    },
     "Taran Killam": {
         "movies": {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)"
+            ]
+        }
+    },
+    "Taron Egerton": {
+        "movies": {
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)",
+                "Kingsman: The Golden Circle (2017)"
             ]
         }
     },
@@ -15268,6 +18796,9 @@ var igActorMap = {
             ],
             "DC": [
                 "Green Lantern (2011)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)"
             ]
         }
     },
@@ -15302,6 +18833,13 @@ var igActorMap = {
             ]
         }
     },
+    "Terry Crews": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ]
+        }
+    },
     "Terry Norris": {
         "movies": {
             "Narnia": [
@@ -15321,7 +18859,8 @@ var igActorMap = {
                 "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -15341,8 +18880,19 @@ var igActorMap = {
     },
     "Tessa Thompson": {
         "movies": {
+            "MCU": [
+                "Thor: Ragnarok (2017)",
+                "Avengers: Endgame (2019)"
+            ],
             "Men in Black": [
                 "Men in Black: International (2019)"
+            ]
+        }
+    },
+    "Thandiwe Newton": {
+        "movies": {
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
             ]
         }
     },
@@ -15350,6 +18900,13 @@ var igActorMap = {
         "movies": {
             "Spawn (1997)": [
                 "Spawn (1997)"
+            ]
+        }
+    },
+    "Thomas Brodie-Sangster": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
             ]
         }
     },
@@ -15379,6 +18936,9 @@ var igActorMap = {
             ],
             "Hellboy": [
                 "Hellboy (2019)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -15398,6 +18958,13 @@ var igActorMap = {
             ]
         }
     },
+    "Thomas Kee": {
+        "movies": {
+            "X-Men": [
+                "The New Mutants (2020)"
+            ]
+        }
+    },
     "Thomas Kretschmann": {
         "movies": {
             "Marvel": [
@@ -15407,7 +18974,8 @@ var igActorMap = {
                 "Wanted (2008)"
             ],
             "MCU": [
-                "Captain America: The Winter Soldier (2014)"
+                "Captain America: The Winter Soldier (2014)",
+                "Avengers: Age of Ultron (2015)"
             ]
         }
     },
@@ -15439,6 +19007,20 @@ var igActorMap = {
             ]
         }
     },
+    "Tiffany Haddish": {
+        "movies": {
+            "DC": [
+                "The Kitchen (2019)"
+            ]
+        }
+    },
+    "Til Schweiger": {
+        "movies": {
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ]
+        }
+    },
     "Tilda Swinton": {
         "movies": {
             "DC": [
@@ -15451,6 +19033,10 @@ var igActorMap = {
             ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ],
+            "MCU": [
+                "Doctor Strange (2016)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -15458,6 +19044,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "The Incredible Hulk (2008)"
+            ],
+            "Marvel": [
+                "Fantastic Four (2015)"
             ]
         }
     },
@@ -15481,6 +19070,16 @@ var igActorMap = {
         "movies": {
             "The Shadow (1994)": [
                 "The Shadow (1994)"
+            ]
+        }
+    },
+    "Tim Heidecker": {
+        "movies": {
+            "Marvel": [
+                "Fantastic Four (2015)"
+            ],
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -15514,7 +19113,8 @@ var igActorMap = {
                 "Planet of the Apes (2001)"
             ],
             "MCU": [
-                "The Incredible Hulk (2008)"
+                "The Incredible Hulk (2008)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
             ]
         }
     },
@@ -15531,7 +19131,9 @@ var igActorMap = {
     "Timothy D. Rose": {
         "movies": {
             "Star Wars": [
-                "Return of the Jedi (1983)"
+                "Return of the Jedi (1983)",
+                "Star Wars: The Force Awakens (2015)",
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -15579,7 +19181,8 @@ var igActorMap = {
     "Tip \"T.I.\" Harris": {
         "movies": {
             "MCU": [
-                "Ant-Man (2015)"
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -15606,6 +19209,9 @@ var igActorMap = {
                 "Spider-Man (2002)",
                 "Spider-Man 2 (2004)",
                 "Spider-Man 3 (2007)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -15628,6 +19234,9 @@ var igActorMap = {
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
             ],
+            "Atomic Blonde (2017)": [
+                "Atomic Blonde (2017)"
+            ],
             "Jurassic Park": [
                 "Jurassic World: Fallen Kingdom (2018)"
             ]
@@ -15638,6 +19247,9 @@ var igActorMap = {
             "Planet of the Apes": [
                 "Dawn of the Planet of the Apes (2014)",
                 "War for the Planet of the Apes (2017)"
+            ],
+            "Marvel": [
+                "Fantastic Four (2015)"
             ],
             "Bloodshot (2020)": [
                 "Bloodshot (2020)"
@@ -15706,6 +19318,13 @@ var igActorMap = {
             ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
+            ],
+            "Spider-Man": [
+                "Venom (2018)",
+                "Venom: Let There Be Carnage (2021)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -15715,15 +19334,24 @@ var igActorMap = {
                 "Thor (2011)",
                 "The Avengers (2012)",
                 "Thor: The Dark World (2013)",
-                "Avengers: Infinity War (2018)"
+                "Thor: Ragnarok (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
     "Tom Holland": {
         "movies": {
             "MCU": [
+                "Captain America: Civil War (2016)",
+                "Spider-Man: Homecoming (2017)",
                 "Avengers: Infinity War (2018)",
-                "Spider-Man: Far From Home (2019)"
+                "Avengers: Endgame (2019)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
+            ],
+            "Spider-Man": [
+                "Venom: Let There Be Carnage (2021)"
             ]
         }
     },
@@ -15732,6 +19360,9 @@ var igActorMap = {
             "Pirates": [
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
                 "Pirates of the Caribbean: At World's End (2007)"
+            ],
+            "Kingsman": [
+                "The King's Man (2021)"
             ]
         }
     },
@@ -15745,7 +19376,8 @@ var igActorMap = {
     "Tom Kane": {
         "movies": {
             "Star Wars": [
-                "Star Wars: The Clone Wars (2008)"
+                "Star Wars: The Clone Wars (2008)",
+                "Star Wars: The Last Jedi (2017)"
             ]
         }
     },
@@ -15761,6 +19393,9 @@ var igActorMap = {
             ],
             "MCU": [
                 "Ant-Man (2015)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -15778,6 +19413,13 @@ var igActorMap = {
             ]
         }
     },
+    "Tom Scharpling": {
+        "movies": {
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
+            ]
+        }
+    },
     "Tom Skerritt": {
         "movies": {
             "Alien": [
@@ -15788,7 +19430,8 @@ var igActorMap = {
     "Tom Vaughan-Lawlor": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -15843,6 +19486,9 @@ var igActorMap = {
             ],
             "Sin City": [
                 "Sin City (2005)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -15912,10 +19558,19 @@ var igActorMap = {
             ]
         }
     },
+    "Tony Leung": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
     "Tony Revolori": {
         "movies": {
             "MCU": [
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Homecoming (2017)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -15948,6 +19603,13 @@ var igActorMap = {
             ],
             "Predator": [
                 "Predators (2010)"
+            ]
+        }
+    },
+    "Topo Wresniwiro": {
+        "movies": {
+            "MCU": [
+                "Doctor Strange (2016)"
             ]
         }
     },
@@ -16011,6 +19673,13 @@ var igActorMap = {
             ]
         }
     },
+    "Trevor Noah": {
+        "movies": {
+            "MCU": [
+                "Black Panther (2018)"
+            ]
+        }
+    },
     "Trevor Steedman": {
         "movies": {
             "Alien": [
@@ -16032,6 +19701,13 @@ var igActorMap = {
             ]
         }
     },
+    "Tsai Chin": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
     "Ty Burrell": {
         "movies": {
             "MCU": [
@@ -16042,7 +19718,8 @@ var igActorMap = {
     "Ty Simpkins": {
         "movies": {
             "MCU": [
-                "Iron Man 3 (2013)"
+                "Iron Man 3 (2013)",
+                "Avengers: Endgame (2019)"
             ],
             "Jurassic Park": [
                 "Jurassic World (2015)"
@@ -16051,6 +19728,11 @@ var igActorMap = {
     },
     "Tye Sheridan": {
         "movies": {
+            "X-Men": [
+                "X-Men: Apocalypse (2016)",
+                "Deadpool 2 (2018)",
+                "Dark Phoenix (2019)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
             ]
@@ -16094,6 +19776,13 @@ var igActorMap = {
             ]
         }
     },
+    "Tyne Daly": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)"
+            ]
+        }
+    },
     "Tyrese Gibson": {
         "movies": {
             "Transformers": [
@@ -16121,6 +19810,9 @@ var igActorMap = {
         "movies": {
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ],
+            "X-Men": [
+                "X-Men: Apocalypse (2016)"
             ]
         }
     },
@@ -16148,6 +19840,13 @@ var igActorMap = {
             ]
         }
     },
+    "Usher": {
+        "movies": {
+            "Incredibles": [
+                "Incredibles 2 (2018)"
+            ]
+        }
+    },
     "Val Kilmer": {
         "movies": {
             "Willow (1988)": [
@@ -16158,11 +19857,25 @@ var igActorMap = {
             ]
         }
     },
+    "Valerie Pachner": {
+        "movies": {
+            "Kingsman": [
+                "The King's Man (2021)"
+            ]
+        }
+    },
     "Valerie Perrine": {
         "movies": {
             "Superman": [
                 "Superman (1978)",
                 "Superman II (1981)"
+            ]
+        }
+    },
+    "Vanessa Hudgens": {
+        "movies": {
+            "Polar (2019)": [
+                "Polar (2019)"
             ]
         }
     },
@@ -16215,6 +19928,16 @@ var igActorMap = {
             ]
         }
     },
+    "Veronica Ng\u00f4": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Last Jedi (2017)"
+            ],
+            "The Old Guard (2020)": [
+                "The Old Guard (2020)"
+            ]
+        }
+    },
     "Victor Rivers": {
         "movies": {
             "Zorro": [
@@ -16252,7 +19975,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ],
             "Bloodshot (2020)": [
                 "Bloodshot (2020)"
@@ -16311,6 +20036,9 @@ var igActorMap = {
         "movies": {
             "Surrogates (2009)": [
                 "Surrogates (2009)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -16318,6 +20046,14 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: The Last Stand (2006)"
+            ]
+        }
+    },
+    "Viola Davis": {
+        "movies": {
+            "DCEU": [
+                "Suicide Squad (2016)",
+                "The Suicide Squad (2021)"
             ]
         }
     },
@@ -16376,6 +20112,9 @@ var igActorMap = {
             ],
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ],
+            "MCU": [
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -16391,7 +20130,11 @@ var igActorMap = {
             "Star Wars": [
                 "Return of the Jedi (1983)",
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
-                "Rogue One: A Star Wars Story (2016)"
+                "Star Wars: The Force Awakens (2015)",
+                "Rogue One: A Star Wars Story (2016)",
+                "Star Wars: The Last Jedi (2017)",
+                "Solo: A Star Wars Story (2018)",
+                "Star Wars: The Rise of Skywalker (2019)"
             ],
             "Willow (1988)": [
                 "Willow (1988)"
@@ -16478,6 +20221,9 @@ var igActorMap = {
             "Star Trek": [
                 "Star Trek: Nemesis (2002)",
                 "Star Trek (2009)"
+            ],
+            "Batman": [
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -16489,6 +20235,10 @@ var igActorMap = {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)",
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)",
+                "Teen Titans Go! To the Movies (2018)"
             ]
         }
     },
@@ -16519,6 +20269,9 @@ var igActorMap = {
                 "Men in Black (1997)",
                 "Men in Black II (2002)",
                 "Men in Black 3 (2012)"
+            ],
+            "DCEU": [
+                "Suicide Squad (2016)"
             ]
         }
     },
@@ -16538,6 +20291,13 @@ var igActorMap = {
             ],
             "John Carter (2012)": [
                 "John Carter (2012)"
+            ],
+            "DCEU": [
+                "Aquaman (2018)",
+                "Zack Snyder's Justice League (2021)"
+            ],
+            "MCU": [
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -16601,7 +20361,10 @@ var igActorMap = {
             ],
             "MCU": [
                 "The Incredible Hulk (2008)",
-                "Avengers: Infinity War (2018)"
+                "Captain America: Civil War (2016)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)",
+                "Black Widow (2021)"
             ]
         }
     },
@@ -16620,6 +20383,13 @@ var igActorMap = {
                 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
                 "The Chronicles of Narnia: Prince Caspian (2008)",
                 "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+            ]
+        }
+    },
+    "William Nadylam": {
+        "movies": {
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
             ]
         }
     },
@@ -16684,7 +20454,9 @@ var igActorMap = {
     "Winston Duke": {
         "movies": {
             "MCU": [
-                "Avengers: Infinity War (2018)"
+                "Black Panther (2018)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -16709,13 +20481,21 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "War for the Planet of the Apes (2017)"
+            ],
+            "Star Wars": [
+                "Solo: A Star Wars Story (2018)"
+            ],
+            "Spider-Man": [
+                "Venom (2018)",
+                "Venom: Let There Be Carnage (2021)"
             ]
         }
     },
     "Wyatt Oleff": {
         "movies": {
             "MCU": [
-                "Guardians of the Galaxy (2014)"
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -16741,6 +20521,9 @@ var igActorMap = {
     },
     "Yahya Abdul-Mateen II": {
         "movies": {
+            "DCEU": [
+                "Aquaman (2018)"
+            ],
             "Matrix": [
                 "The Matrix Resurrections (2021)"
             ]
@@ -16750,6 +20533,27 @@ var igActorMap = {
         "movies": {
             "Alien": [
                 "Alien (1979)"
+            ]
+        }
+    },
+    "Yayan Ruhian": {
+        "movies": {
+            "Star Wars": [
+                "Star Wars: The Force Awakens (2015)"
+            ]
+        }
+    },
+    "Yuen Wah": {
+        "movies": {
+            "MCU": [
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
+    "Yvette Nicole Brown": {
+        "movies": {
+            "MCU": [
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -16763,10 +20567,29 @@ var igActorMap = {
             ]
         }
     },
+    "Zach Cherry": {
+        "movies": {
+            "MCU": [
+                "Spider-Man: Homecoming (2017)",
+                "Shang-Chi and the Legend of the Ten Rings (2021)"
+            ]
+        }
+    },
+    "Zach Galifianakis": {
+        "movies": {
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
     "Zachary Levi": {
         "movies": {
             "MCU": [
-                "Thor: The Dark World (2013)"
+                "Thor: The Dark World (2013)",
+                "Thor: Ragnarok (2017)"
+            ],
+            "DCEU": [
+                "Shazam! (2019)"
             ]
         }
     },
@@ -16774,14 +20597,34 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
+            ]
+        }
+    },
+    "Zack Snyder": {
+        "movies": {
+            "DCEU": [
+                "Wonder Woman (2017)"
+            ]
+        }
+    },
+    "Zazie Beetz": {
+        "movies": {
+            "X-Men": [
+                "Deadpool 2 (2018)"
+            ],
+            "DC": [
+                "Joker (2019)"
             ]
         }
     },
     "Zendaya": {
         "movies": {
             "MCU": [
-                "Spider-Man: Far From Home (2019)"
+                "Spider-Man: Homecoming (2017)",
+                "Spider-Man: Far From Home (2019)",
+                "Spider-Man: No Way Home (2021)"
             ]
         }
     },
@@ -16799,14 +20642,17 @@ var igActorMap = {
             ],
             "Star Trek": [
                 "Star Trek (2009)",
-                "Star Trek Into Darkness (2013)"
+                "Star Trek Into Darkness (2013)",
+                "Star Trek Beyond (2016)"
             ],
             "DC": [
                 "The Losers (2010)"
             ],
             "MCU": [
                 "Guardians of the Galaxy (2014)",
-                "Avengers: Infinity War (2018)"
+                "Guardians of the Galaxy Vol. 2 (2017)",
+                "Avengers: Infinity War (2018)",
+                "Avengers: Endgame (2019)"
             ]
         }
     },
@@ -16824,6 +20670,15 @@ var igActorMap = {
             ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
+            ],
+            "Batman": [
+                "The Lego Batman Movie (2017)"
+            ],
+            "Wizarding World": [
+                "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+            ],
+            "Spider-Man": [
+                "Spider-Man: Into the Spider-Verse (2018)"
             ]
         }
     },
