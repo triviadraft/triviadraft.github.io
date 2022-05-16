@@ -307,6 +307,7 @@ var actorMap = {
     },
     "Alan Tudyk": {
         "movies": [
+            "A Knight's Tale (2001)",
             "Knocked Up (2007)",
             "Big Hero 6 (2014)",
             "Rogue One: A Star Wars Story (2016)",
@@ -361,6 +362,9 @@ var actorMap = {
                 "movie": "The Cooler",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "Elizabethtown (2005)"
         ]
     },
     "Alec Guinness": {
@@ -683,7 +687,8 @@ var actorMap = {
     },
     "Andy Samberg": {
         "movies": [
-            "Hot Rod (2007)"
+            "Hot Rod (2007)",
+            "What's Your Number? (2011)"
         ]
     },
     "Andy Serkis": {
@@ -801,7 +806,8 @@ var actorMap = {
     },
     "Anna Faris": {
         "movies": [
-            "Take Me Home Tonight (2011)"
+            "Take Me Home Tonight (2011)",
+            "What's Your Number? (2011)"
         ]
     },
     "Anna Kendrick": {
@@ -988,6 +994,7 @@ var actorMap = {
     },
     "Anthony Mackie": {
         "movies": [
+            "What's Your Number? (2011)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)",
             "Ant-Man (2015)",
@@ -1032,7 +1039,8 @@ var actorMap = {
         ],
         "movies": [
             "The Mask of Zorro (1998)",
-            "The Legend of Zorro (2005)"
+            "The Legend of Zorro (2005)",
+            "Dolittle (2020)"
         ]
     },
     "Anya Taylor-Joy": {
@@ -1046,6 +1054,11 @@ var actorMap = {
     "Archie Yates": {
         "movies": [
             "Jojo Rabbit (2019)"
+        ]
+    },
+    "Ari Graynor": {
+        "movies": [
+            "What's Your Number? (2011)"
         ]
     },
     "Ariana DeBose": {
@@ -1153,6 +1166,11 @@ var actorMap = {
     "Ayelet Zurer": {
         "movies": [
             "Man of Steel (2013)"
+        ]
+    },
+    "Aziz Ansari": {
+        "movies": [
+            "What's Your Number? (2011)"
         ]
     },
     "B. J. Novak": {
@@ -1596,6 +1614,11 @@ var actorMap = {
             "The New Mutants (2020)"
         ]
     },
+    "Blythe Danner": {
+        "movies": [
+            "What's Your Number? (2011)"
+        ]
+    },
     "Bo Burnham": {
         "movies": [
             "Promising Young Woman (2020)"
@@ -1796,6 +1819,11 @@ var actorMap = {
             }
         ]
     },
+    "Brendan Fraser": {
+        "movies": [
+            "Gods and Monsters (1998)"
+        ]
+    },
     "Brendan Gleeson": {
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
@@ -1962,7 +1990,8 @@ var actorMap = {
     },
     "Bruce McGill": {
         "movies": [
-            "Timecop (1994)"
+            "Timecop (1994)",
+            "Elizabethtown (2005)"
         ]
     },
     "Bruce Willis": {
@@ -2063,6 +2092,9 @@ var actorMap = {
                 "movie": "The Artist",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "A Knight's Tale (2001)"
         ]
     },
     "C. Thomas Howell": {
@@ -2491,12 +2523,14 @@ var actorMap = {
     },
     "Chris Evans": {
         "movies": [
+            "Cellular (2004)",
             "Fantastic Four (2005)",
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "The Losers (2010)",
             "Scott Pilgrim vs. the World (2010)",
             "Captain America: The First Avenger (2011)",
+            "What's Your Number? (2011)",
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
             "Captain America: The Winter Soldier (2014)",
@@ -2568,6 +2602,7 @@ var actorMap = {
     "Chris Pratt": {
         "movies": [
             "Take Me Home Tonight (2011)",
+            "What's Your Number? (2011)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
@@ -2628,7 +2663,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Green Hornet (2011)"
+            "The Green Hornet (2011)",
+            "The Three Musketeers (2011)"
         ]
     },
     "Christopher Eccleston": {
@@ -2970,7 +3006,8 @@ var actorMap = {
     },
     "Craig Robinson": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "Dolittle (2020)"
         ]
     },
     "Craig T. Nelson": {
@@ -3970,7 +4007,8 @@ var actorMap = {
     },
     "Ed Begley Jr.": {
         "movies": [
-            "Batman Forever (1995)"
+            "Batman Forever (1995)",
+            "What's Your Number? (2011)"
         ]
     },
     "Ed Harris": {
@@ -4406,7 +4444,8 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
-            "Men in Black: International (2019)"
+            "Men in Black: International (2019)",
+            "Dolittle (2020)"
         ]
     },
     "Emma Watson": {
@@ -4752,6 +4791,13 @@ var actorMap = {
             "Something's Gotta Give (2003)"
         ]
     },
+    "Frances de la Tour": {
+        "movies": [
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Mr. Holmes (2015)",
+            "Dolittle (2020)"
+        ]
+    },
     "Frank Gorshin": {
         "movies": [
             "Batman (1966)"
@@ -4844,6 +4890,12 @@ var actorMap = {
     "Gabriel Macht": {
         "movies": [
             "The Spirit (2008)"
+        ]
+    },
+    "Gabriella Wilde": {
+        "movies": [
+            "The Three Musketeers (2011)",
+            "Wonder Woman 1984 (2020)"
         ]
     },
     "Gal Gadot": {
@@ -5532,7 +5584,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "A Knight's Tale (2001)",
             "The Dark Knight (2008)"
+        ]
+    },
+    "Heather Burns": {
+        "movies": [
+            "What's Your Number? (2011)"
         ]
     },
     "Heather Graham": {
@@ -5674,6 +5732,7 @@ var actorMap = {
     },
     "Hiroyuki Sanada": {
         "movies": [
+            "Mr. Holmes (2015)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -5811,6 +5870,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Gods and Monsters (1998)",
             "X-Men (2000)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
@@ -5820,7 +5880,8 @@ var actorMap = {
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "X-Men: Days of Future Past (2014)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Mr. Holmes (2015)"
         ]
     },
     "Ian McShane": {
@@ -6294,6 +6355,11 @@ var actorMap = {
             }
         ]
     },
+    "James Corden": {
+        "movies": [
+            "The Three Musketeers (2011)"
+        ]
+    },
     "James Cromwell": {
         "suppNoms": [
             {
@@ -6643,7 +6709,8 @@ var actorMap = {
     },
     "Jason Mantzoukas": {
         "movies": [
-            "The Lego Batman Movie (2017)"
+            "The Lego Batman Movie (2017)",
+            "Dolittle (2020)"
         ]
     },
     "Jason Momoa": {
@@ -6668,6 +6735,11 @@ var actorMap = {
     "Jason Segel": {
         "movies": [
             "Knocked Up (2007)"
+        ]
+    },
+    "Jason Statham": {
+        "movies": [
+            "Cellular (2004)"
         ]
     },
     "Javier Bardem": {
@@ -7041,7 +7113,9 @@ var actorMap = {
     },
     "Jessica Biel": {
         "movies": [
+            "Cellular (2004)",
             "Blade: Trinity (2004)",
+            "Elizabethtown (2005)",
             "Valentine's Day (2010)"
         ]
     },
@@ -7124,6 +7198,9 @@ var actorMap = {
                 "movie": "The Lost Daughter",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Dolittle (2020)"
         ]
     },
     "Jiang Wen": {
@@ -7143,7 +7220,8 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Dolittle (2020)"
         ]
     },
     "Jim Carrey": {
@@ -7404,7 +7482,8 @@ var actorMap = {
     },
     "Joel McHale": {
         "movies": [
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "What's Your Number? (2011)"
         ]
     },
     "Joey King": {
@@ -7451,6 +7530,7 @@ var actorMap = {
     },
     "John Cena": {
         "movies": [
+            "Dolittle (2020)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -8023,6 +8103,7 @@ var actorMap = {
     },
     "Judy Greer": {
         "movies": [
+            "Elizabethtown (2005)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)"
         ]
@@ -8227,6 +8308,7 @@ var actorMap = {
     },
     "Juno Temple": {
         "movies": [
+            "The Three Musketeers (2011)",
             "The Dark Knight Rises (2012)",
             "Sin City: A Dame to Kill For (2014)"
         ]
@@ -8780,7 +8862,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Batman (1989)"
+            "Batman (1989)",
+            "Cellular (2004)"
         ]
     },
     "Kim Cattrall": {
@@ -8819,6 +8902,7 @@ var actorMap = {
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Elizabethtown (2005)",
             "Spider-Man 3 (2007)"
         ]
     },
@@ -8887,6 +8971,7 @@ var actorMap = {
     "Kumail Nanjiani": {
         "movies": [
             "Men in Black: International (2019)",
+            "Dolittle (2020)",
             "Eternals (2021)"
         ]
     },
@@ -9004,6 +9089,7 @@ var actorMap = {
     },
     "Laura Fraser": {
         "movies": [
+            "A Knight's Tale (2001)",
             "Vanilla Sky (2001)"
         ]
     },
@@ -9043,6 +9129,7 @@ var actorMap = {
         ],
         "movies": [
             "Love Actually (2003)",
+            "Mr. Holmes (2015)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
@@ -9390,6 +9477,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Logan Lerman": {
+        "movies": [
+            "The Three Musketeers (2011)"
+        ]
+    },
     "Logan Marshall-Green": {
         "movies": [
             "Spider-Man: Homecoming (2017)"
@@ -9468,6 +9560,7 @@ var actorMap = {
     },
     "Luke Evans": {
         "movies": [
+            "The Three Musketeers (2011)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
@@ -9532,6 +9625,9 @@ var actorMap = {
                 "movie": "Gods and Monsters",
                 "year": "1998"
             }
+        ],
+        "movies": [
+            "Gods and Monsters (1998)"
         ]
     },
     "M. Night Shyamalan": {
@@ -9558,6 +9654,7 @@ var actorMap = {
     },
     "Mads Mikkelsen": {
         "movies": [
+            "The Three Musketeers (2011)",
             "Doctor Strange (2016)",
             "Rogue One: A Star Wars Story (2016)",
             "Polar (2019)"
@@ -9832,7 +9929,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Dolittle (2020)"
         ]
     },
     "Marisa Tomei": {
@@ -9856,6 +9954,11 @@ var actorMap = {
             "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Mark Addy": {
+        "movies": [
+            "A Knight's Tale (2001)"
         ]
     },
     "Mark Boone Junior": {
@@ -10027,12 +10130,14 @@ var actorMap = {
     },
     "Martin Ferrero": {
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "Gods and Monsters (1998)"
         ]
     },
     "Martin Freeman": {
         "movies": [
             "Love Actually (2003)",
+            "What's Your Number? (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
@@ -10225,6 +10330,11 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Matthew Macfadyen": {
+        "movies": [
+            "The Three Musketeers (2011)"
         ]
     },
     "Matthew McConaughey": {
@@ -10813,6 +10923,11 @@ var actorMap = {
             "Man of Steel (2013)"
         ]
     },
+    "Michael Sheen": {
+        "movies": [
+            "Dolittle (2020)"
+        ]
+    },
     "Michael Stuhlbarg": {
         "movies": [
             "Men in Black 3 (2012)",
@@ -10946,6 +11061,7 @@ var actorMap = {
     "Milla Jovovich": {
         "movies": [
             "Dazed and Confused (1993)",
+            "The Three Musketeers (2011)",
             "Hellboy (2019)"
         ]
     },
@@ -11269,6 +11385,11 @@ var actorMap = {
             "Dark Phoenix (2019)"
         ]
     },
+    "Nicholas Rowe": {
+        "movies": [
+            "Mr. Holmes (2015)"
+        ]
+    },
     "Nick Cannon": {
         "movies": [
             "Men in Black II (2002)"
@@ -11382,6 +11503,11 @@ var actorMap = {
             "Oblivion (2013)"
         ]
     },
+    "Noah Emmerich": {
+        "movies": [
+            "Cellular (2004)"
+        ]
+    },
     "Noah Jupe": {
         "movies": [
             "A Quiet Place (2018)",
@@ -11460,13 +11586,19 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Spider-Man (2002)"
+            "Spider-Man (2002)",
+            "Dolittle (2020)"
         ]
     },
     "Olga Kurylenko": {
         "movies": [
             "Oblivion (2013)",
             "Black Widow (2021)"
+        ]
+    },
+    "Oliver Jackson-Cohen": {
+        "movies": [
+            "What's Your Number? (2011)"
         ]
     },
     "Oliver Phelps": {
@@ -11576,8 +11708,10 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "Elizabethtown (2005)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "The Three Musketeers (2011)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -11716,6 +11850,7 @@ var actorMap = {
     },
     "Paul Bettany": {
         "movies": [
+            "A Knight's Tale (2001)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
             "Priest (2011)",
@@ -11856,6 +11991,11 @@ var actorMap = {
     "Paul Winfield": {
         "movies": [
             "Star Trek II: The Wrath of Khan (1982)"
+        ]
+    },
+    "Paula Deen": {
+        "movies": [
+            "Elizabethtown (2005)"
         ]
     },
     "Paula Patton": {
@@ -12254,6 +12394,7 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Lego Batman Movie (2017)",
+            "Dolittle (2020)",
             "The King's Man (2021)"
         ]
     },
@@ -12261,7 +12402,8 @@ var actorMap = {
         "movies": [
             "Kingsman: The Secret Service (2015)",
             "The Witch (2016)",
-            "Ready Player One (2018)"
+            "Ready Player One (2018)",
+            "Dolittle (2020)"
         ]
     },
     "Rami Malek": {
@@ -12270,6 +12412,9 @@ var actorMap = {
                 "movie": "Bohemian Rhapsody",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Dolittle (2020)"
         ]
     },
     "Randall Duk Kim": {
@@ -12322,6 +12467,7 @@ var actorMap = {
         "movies": [
             "Punisher: War Zone (2008)",
             "Thor (2011)",
+            "The Three Musketeers (2011)",
             "Thor: The Dark World (2013)",
             "Thor: Ragnarok (2017)"
         ]
@@ -12739,7 +12885,8 @@ var actorMap = {
             "Captain America: Civil War (2016)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Dolittle (2020)"
         ]
     },
     "Robert Duvall": {
@@ -13048,6 +13195,7 @@ var actorMap = {
     },
     "Rufus Sewell": {
         "movies": [
+            "A Knight's Tale (2001)",
             "The Legend of Zorro (2005)",
             "The Holiday (2006)",
             "Hercules (2014)"
@@ -13502,7 +13650,8 @@ var actorMap = {
     },
     "Scott Menville": {
         "movies": [
-            "Teen Titans Go! To the Movies (2018)"
+            "Teen Titans Go! To the Movies (2018)",
+            "Dolittle (2020)"
         ]
     },
     "Sean Astin": {
@@ -13596,7 +13745,8 @@ var actorMap = {
     },
     "Selena Gomez": {
         "movies": [
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "Dolittle (2020)"
         ]
     },
     "Selma Blair": {
@@ -13649,6 +13799,11 @@ var actorMap = {
     "Shannon Elizabeth": {
         "movies": [
             "Love Actually (2003)"
+        ]
+    },
+    "Shannyn Sossamon": {
+        "movies": [
+            "A Knight's Tale (2001)"
         ]
     },
     "Shaquille O'Neal": {
@@ -14198,6 +14353,9 @@ var actorMap = {
                 "movie": "Dead Man Walking",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "Elizabethtown (2005)"
         ]
     },
     "Susannah York": {
@@ -14455,6 +14613,11 @@ var actorMap = {
             "Avengers: Age of Ultron (2015)"
         ]
     },
+    "Thomas Lennon": {
+        "movies": [
+            "What's Your Number? (2011)"
+        ]
+    },
     "Thomasin McKenzie": {
         "movies": [
             "Jojo Rabbit (2019)"
@@ -14469,6 +14632,11 @@ var actorMap = {
         "movies": [
             "Girls Trip (2017)",
             "The Kitchen (2019)"
+        ]
+    },
+    "Tika Sumpter": {
+        "movies": [
+            "What's Your Number? (2011)"
         ]
     },
     "Tilda Swinton": {
@@ -14706,6 +14874,7 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)",
+            "Dolittle (2020)",
             "Venom: Let There Be Carnage (2021)",
             "Spider-Man: No Way Home (2021)"
         ]
@@ -15329,7 +15498,8 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
             "The Lego Batman Movie (2017)",
-            "Teen Titans Go! To the Movies (2018)"
+            "Teen Titans Go! To the Movies (2018)",
+            "Dolittle (2020)"
         ]
     },
     "Will Patton": {
@@ -15417,7 +15587,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Mystery Men (1999)"
+            "Mystery Men (1999)",
+            "Cellular (2004)"
         ]
     },
     "William Hurt": {
@@ -15617,6 +15788,7 @@ var actorMap = {
     "Zachary Quinto": {
         "movies": [
             "Star Trek (2009)",
+            "What's Your Number? (2011)",
             "Star Trek Into Darkness (2013)",
             "Star Trek Beyond (2016)"
         ]

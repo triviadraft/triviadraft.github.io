@@ -49368,6 +49368,12 @@ var movieMap = {
         ],
         "categories": [
             "1990s"
+        ],
+        "cast": [
+            "Brendan Fraser",
+            "Ian McKellen",
+            "Lynn Redgrave",
+            "Martin Ferrero"
         ]
     },
     "Elizabeth (1998)": {
@@ -55467,6 +55473,16 @@ var movieMap = {
         "categories": [
             "2000s",
             "Action/Adventure"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "B\u00e9r\u00e9nice Bejo",
+            "Heath Ledger",
+            "Laura Fraser",
+            "Mark Addy",
+            "Paul Bettany",
+            "Rufus Sewell",
+            "Shannyn Sossamon"
         ]
     },
     "Shrek (2001)": {
@@ -64936,6 +64952,14 @@ var movieMap = {
             "Action/Adventure",
             "Crime",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Chris Evans",
+            "Jason Statham",
+            "Jessica Biel",
+            "Kim Basinger",
+            "Noah Emmerich",
+            "William H. Macy"
         ]
     },
     "Resident Evil: Apocalypse (2004)": {
@@ -68249,6 +68273,16 @@ var movieMap = {
             "Dramas",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Bruce McGill",
+            "Jessica Biel",
+            "Judy Greer",
+            "Kirsten Dunst",
+            "Orlando Bloom",
+            "Paula Deen",
+            "Susan Sarandon"
         ]
     },
     "The Fog (2005)": {
@@ -83701,6 +83735,7 @@ var movieMap = {
             "Emma Watson",
             "Evanna Lynch",
             "Fiona Shaw",
+            "Frances de la Tour",
             "Freddie Stroma",
             "Harry Melling",
             "Helen McCrory",
@@ -86315,6 +86350,24 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Andy Samberg",
+            "Anna Faris",
+            "Anthony Mackie",
+            "Ari Graynor",
+            "Aziz Ansari",
+            "Blythe Danner",
+            "Chris Evans",
+            "Chris Pratt",
+            "Ed Begley Jr.",
+            "Heather Burns",
+            "Joel McHale",
+            "Martin Freeman",
+            "Oliver Jackson-Cohen",
+            "Thomas Lennon",
+            "Tika Sumpter",
+            "Zachary Quinto"
         ]
     },
     "Real Steel (2011)": {
@@ -86566,6 +86619,19 @@ var movieMap = {
         "categories": [
             "2010s",
             "Andersons"
+        ],
+        "cast": [
+            "Christoph Waltz",
+            "Gabriella Wilde",
+            "James Corden",
+            "Juno Temple",
+            "Logan Lerman",
+            "Luke Evans",
+            "Mads Mikkelsen",
+            "Matthew Macfadyen",
+            "Milla Jovovich",
+            "Orlando Bloom",
+            "Ray Stevenson"
         ]
     },
     "Anonymous (2011)": {
@@ -97795,6 +97861,13 @@ var movieMap = {
         "categories": [
             "2010s",
             "Mystery"
+        ],
+        "cast": [
+            "Frances de la Tour",
+            "Hiroyuki Sanada",
+            "Ian McKellen",
+            "Laura Linney",
+            "Nicholas Rowe"
         ]
     },
     "Trainwreck (2015)": {
@@ -115250,6 +115323,28 @@ var movieMap = {
             "Octavia Spencer",
             "Robert Downey Jr.",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Antonio Banderas",
+            "Craig Robinson",
+            "Emma Thompson",
+            "Frances de la Tour",
+            "Jason Mantzoukas",
+            "Jessie Buckley",
+            "Jim Broadbent",
+            "John Cena",
+            "Kumail Nanjiani",
+            "Marion Cotillard",
+            "Michael Sheen",
+            "Octavia Spencer",
+            "Ralph Fiennes",
+            "Ralph Ineson",
+            "Rami Malek",
+            "Robert Downey Jr.",
+            "Scott Menville",
+            "Selena Gomez",
+            "Tom Holland",
+            "Will Arnett"
         ]
     },
     "Troop Zero (2020)": {
@@ -118378,6 +118473,7 @@ var movieMap = {
         "cast": [
             "Chris Pine",
             "Connie Nielsen",
+            "Gabriella Wilde",
             "Gal Gadot",
             "Kristen Wiig",
             "Lynda Carter",
