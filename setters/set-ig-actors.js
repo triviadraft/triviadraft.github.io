@@ -3,6 +3,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Dark Knight (2008)"
+            ],
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
             ]
         }
     },
@@ -17,7 +20,11 @@ var igActorMap = {
     "Aaron Taylor-Johnson": {
         "movies": {
             "Kick-Ass": [
-                "Kick-Ass (2010)"
+                "Kick-Ass (2010)",
+                "Kick-Ass 2 (2013)"
+            ],
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -87,7 +94,9 @@ var igActorMap = {
     "Adam Brown": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -116,6 +125,27 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman (1966)"
+            ]
+        }
+    },
+    "Adan Canto": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ]
+        }
+    },
+    "Aden Young": {
+        "movies": {
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
+            ]
+        }
+    },
+    "Adewale Akinnuoye-Agbaje": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -183,7 +213,16 @@ var igActorMap = {
     "Aidan Turner": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
+            ]
+        }
+    },
+    "Aidy Bryant": {
+        "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -252,6 +291,9 @@ var igActorMap = {
             ],
             "Priest (2011)": [
                 "Priest (2011)"
+            ],
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -296,6 +338,9 @@ var igActorMap = {
             "Transformers": [
                 "Transformers: Dark of the Moon (2011)"
             ],
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ],
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
             ]
@@ -338,6 +383,13 @@ var igActorMap = {
             ]
         }
     },
+    "Alexa Vega": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
     "Alexander England": {
         "movies": {
             "Alien": [
@@ -355,7 +407,8 @@ var igActorMap = {
     "Alexis Denisof": {
         "movies": {
             "MCU": [
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -420,6 +473,9 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek: First Contact (1996)"
+            ],
+            "MCU": [
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -550,14 +606,16 @@ var igActorMap = {
     "Andrew Garfield": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
     "Andrew Tiernan": {
         "movies": {
             "300": [
-                "300 (2007)"
+                "300 (2007)",
+                "300: Rise of an Empire (2014)"
             ]
         }
     },
@@ -691,7 +749,8 @@ var igActorMap = {
             "X-Men": [
                 "X-Men (2000)",
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -792,7 +851,11 @@ var igActorMap = {
                 "The Mask of Zorro (1998)"
             ],
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
+            ],
+            "Red": [
+                "Red 2 (2013)"
             ],
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
@@ -802,6 +865,7 @@ var igActorMap = {
     "Anthony Mackie": {
         "movies": {
             "MCU": [
+                "Captain America: The Winter Soldier (2014)",
                 "Ant-Man (2015)",
                 "Avengers: Infinity War (2018)"
             ]
@@ -981,6 +1045,13 @@ var igActorMap = {
             ]
         }
     },
+    "Augustus Prew": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
+            ]
+        }
+    },
     "Austin St. John": {
         "movies": {
             "Power Rangers": [
@@ -992,6 +1063,13 @@ var igActorMap = {
         "movies": {
             "DCEU": [
                 "Man of Steel (2013)"
+            ]
+        }
+    },
+    "B. J. Novak": {
+        "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -1151,7 +1229,9 @@ var igActorMap = {
     "Benedict Cumberbatch": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "Star Trek": [
                 "Star Trek Into Darkness (2013)"
@@ -1166,6 +1246,9 @@ var igActorMap = {
             "Alien": [
                 "Prometheus (2012)"
             ],
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
+            ],
             "MCU": [
                 "Avengers: Infinity War (2018)"
             ]
@@ -1177,6 +1260,8 @@ var igActorMap = {
                 "Sin City (2005)"
             ],
             "MCU": [
+                "Thor: The Dark World (2013)",
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -1262,6 +1347,9 @@ var igActorMap = {
             ],
             "Wizarding World": [
                 "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            ],
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
             ]
         }
     },
@@ -1337,10 +1425,24 @@ var igActorMap = {
             ]
         }
     },
+    "Billy Bush": {
+        "movies": {
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ]
+        }
+    },
     "Billy Campbell": {
         "movies": {
             "The Rocketeer (1991)": [
                 "The Rocketeer (1991)"
+            ]
+        }
+    },
+    "Billy Connolly": {
+        "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -1478,6 +1580,13 @@ var igActorMap = {
             ]
         }
     },
+    "Booboo Stewart": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ]
+        }
+    },
     "Boris Kodjoe": {
         "movies": {
             "Surrogates (2009)": [
@@ -1536,6 +1645,7 @@ var igActorMap = {
     "Bradley Cooper": {
         "movies": {
             "MCU": [
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -1644,7 +1754,8 @@ var igActorMap = {
                 "X2 (2003)"
             ],
             "Red": [
-                "Red (2010)"
+                "Red (2010)",
+                "Red 2 (2013)"
             ],
             "Planet of the Apes": [
                 "Rise of the Planet of the Apes (2011)"
@@ -1821,6 +1932,9 @@ var igActorMap = {
             ],
             "Narnia": [
                 "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+            ],
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
             ]
         }
     },
@@ -1830,13 +1944,15 @@ var igActorMap = {
                 "Unbreakable (2000)"
             ],
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ],
             "Surrogates (2009)": [
                 "Surrogates (2009)"
             ],
             "Red": [
-                "Red (2010)"
+                "Red (2010)",
+                "Red 2 (2013)"
             ]
         }
     },
@@ -1861,6 +1977,9 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek: Nemesis (2002)"
+            ],
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -1934,6 +2053,13 @@ var igActorMap = {
             ]
         }
     },
+    "Byung-hun Lee": {
+        "movies": {
+            "Red": [
+                "Red 2 (2013)"
+            ]
+        }
+    },
     "C. Thomas Howell": {
         "movies": {
             "Spider-Man": [
@@ -1945,6 +2071,16 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men: First Class (2011)"
+            ]
+        }
+    },
+    "Callan Mulvey": {
+        "movies": {
+            "300": [
+                "300: Rise of an Empire (2014)"
+            ],
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -2006,7 +2142,8 @@ var igActorMap = {
     "Campbell Scott": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -2135,7 +2272,9 @@ var igActorMap = {
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Two Towers (2002)",
                 "The Lord of the Rings: The Return of the King (2003)",
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "Indiana Jones": [
                 "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
@@ -2178,6 +2317,9 @@ var igActorMap = {
             "Zorro": [
                 "The Mask of Zorro (1998)",
                 "The Legend of Zorro (2005)"
+            ],
+            "Red": [
+                "Red 2 (2013)"
             ]
         }
     },
@@ -2324,6 +2466,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Dark Knight (2008)"
+            ],
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -2337,7 +2482,8 @@ var igActorMap = {
     "Chlo\u00eb Grace Moretz": {
         "movies": {
             "Kick-Ass": [
-                "Kick-Ass (2010)"
+                "Kick-Ass (2010)",
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -2348,6 +2494,13 @@ var igActorMap = {
             ],
             "Pirates": [
                 "Pirates of the Caribbean: At World's End (2007)"
+            ]
+        }
+    },
+    "Chris Cooper": {
+        "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -2369,6 +2522,8 @@ var igActorMap = {
             "MCU": [
                 "Captain America: The First Avenger (2011)",
                 "The Avengers (2012)",
+                "Thor: The Dark World (2013)",
+                "Captain America: The Winter Soldier (2014)",
                 "Ant-Man (2015)",
                 "Avengers: Infinity War (2018)"
             ],
@@ -2385,6 +2540,7 @@ var igActorMap = {
             "MCU": [
                 "Thor (2011)",
                 "The Avengers (2012)",
+                "Thor: The Dark World (2013)",
                 "Avengers: Infinity War (2018)"
             ],
             "Men in Black": [
@@ -2407,6 +2563,20 @@ var igActorMap = {
             ]
         }
     },
+    "Chris O'Dowd": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
+            ]
+        }
+    },
+    "Chris Pang": {
+        "movies": {
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
+            ]
+        }
+    },
     "Chris Pine": {
         "movies": {
             "Star Trek": [
@@ -2420,12 +2590,13 @@ var igActorMap = {
             "Wanted (2008)": [
                 "Wanted (2008)"
             ],
+            "MCU": [
+                "Guardians of the Galaxy (2014)",
+                "Avengers: Infinity War (2018)"
+            ],
             "Jurassic Park": [
                 "Jurassic World (2015)",
                 "Jurassic World: Fallen Kingdom (2018)"
-            ],
-            "MCU": [
-                "Avengers: Infinity War (2018)"
             ]
         }
     },
@@ -2487,6 +2658,13 @@ var igActorMap = {
             ]
         }
     },
+    "Christopher Eccleston": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
+            ]
+        }
+    },
     "Christopher Guard": {
         "movies": {
             "Middle-earth": [
@@ -2506,7 +2684,8 @@ var igActorMap = {
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Two Towers (2002)",
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "Star Wars": [
                 "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
@@ -2524,6 +2703,16 @@ var igActorMap = {
                 "Back to the Future (1985)",
                 "Back to the Future Part II (1989)",
                 "Back to the Future Part III (1990)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
+    "Christopher Markus": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -2531,13 +2720,17 @@ var igActorMap = {
         "movies": {
             "DCEU": [
                 "Man of Steel (2013)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
     "Christopher Mintz-Plasse": {
         "movies": {
             "Kick-Ass": [
-                "Kick-Ass (2010)"
+                "Kick-Ass (2010)",
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -2579,6 +2772,13 @@ var igActorMap = {
         "movies": {
             "Dick Tracy (1990)": [
                 "Dick Tracy (1990)"
+            ]
+        }
+    },
+    "Chuck Liddell": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -2634,7 +2834,8 @@ var igActorMap = {
     "Clark Duke": {
         "movies": {
             "Kick-Ass": [
-                "Kick-Ass (2010)"
+                "Kick-Ass (2010)",
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -2705,6 +2906,13 @@ var igActorMap = {
             ]
         }
     },
+    "Clive Russell": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
+            ]
+        }
+    },
     "Cloris Leachman": {
         "movies": {
             "Sky High (2005)": [
@@ -2725,6 +2933,7 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "The Avengers (2012)",
+                "Captain America: The Winter Soldier (2014)",
                 "Avengers: Infinity War (2018)",
                 "Spider-Man: Far From Home (2019)"
             ]
@@ -2787,6 +2996,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Thor (2011)"
+            ],
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -2925,6 +3137,13 @@ var igActorMap = {
             ]
         }
     },
+    "DC Pierson": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Dacre Montgomery": {
         "movies": {
             "Power Rangers": [
@@ -2950,6 +3169,13 @@ var igActorMap = {
         "movies": {
             "The Lone Ranger (2013)": [
                 "The Lone Ranger (2013)"
+            ]
+        }
+    },
+    "Damon Wayans Jr.": {
+        "movies": {
+            "Marvel": [
+                "Big Hero 6 (2014)"
             ]
         }
     },
@@ -3009,6 +3235,13 @@ var igActorMap = {
             ]
         }
     },
+    "Dane DeHaan": {
+        "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
+            ]
+        }
+    },
     "Dania Ramirez": {
         "movies": {
             "X-Men": [
@@ -3033,7 +3266,8 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -3068,6 +3302,16 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men Origins: Wolverine (2009)"
+            ],
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ]
+        }
+    },
+    "Daniel Kaluuya": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -3161,6 +3405,13 @@ var igActorMap = {
             ]
         }
     },
+    "Danny Pudi": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Danny Trejo": {
         "movies": {
             "Predator": [
@@ -3216,6 +3467,7 @@ var igActorMap = {
     "Dave Bautista": {
         "movies": {
             "MCU": [
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -3452,6 +3704,9 @@ var igActorMap = {
         "movies": {
             "Labyrinth (1986)": [
                 "Labyrinth (1986)"
+            ],
+            "Marvel": [
+                "Big Hero 6 (2014)"
             ]
         }
     },
@@ -3470,6 +3725,9 @@ var igActorMap = {
                 "Harry Potter and the Half-Blood Prince (2009)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
                 "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            ],
+            "Red": [
+                "Red 2 (2013)"
             ]
         }
     },
@@ -3508,7 +3766,8 @@ var igActorMap = {
                 "The Lord of the Rings: The Return of the King (2003)"
             ],
             "300": [
-                "300 (2007)"
+                "300 (2007)",
+                "300: Rise of an Empire (2014)"
             ],
             "Pirates": [
                 "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -3581,7 +3840,9 @@ var igActorMap = {
     "Dean O'Gorman": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -3647,7 +3908,15 @@ var igActorMap = {
     "Denis Leary": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
+            ]
+        }
+    },
+    "Dennis Haysbert": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -3784,6 +4053,9 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Constantine (2005)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -3906,6 +4178,13 @@ var igActorMap = {
             "Marvel": [
                 "Blade (1998)",
                 "Ghost Rider (2007)"
+            ]
+        }
+    },
+    "Donald Faison": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -4200,6 +4479,7 @@ var igActorMap = {
     "Elizabeth Olsen": {
         "movies": {
             "MCU": [
+                "Captain America: The Winter Soldier (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -4242,7 +4522,8 @@ var igActorMap = {
     "Elliot Page": {
         "movies": {
             "X-Men": [
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -4275,7 +4556,8 @@ var igActorMap = {
     "Embeth Davidtz": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -4300,10 +4582,18 @@ var igActorMap = {
             ]
         }
     },
+    "Emily VanCamp": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Emma Stone": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -4455,6 +4745,16 @@ var igActorMap = {
             ]
         }
     },
+    "Eva Green": {
+        "movies": {
+            "300": [
+                "300: Rise of an Empire (2014)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
     "Eva Marie Saint": {
         "movies": {
             "Superman": [
@@ -4472,10 +4772,20 @@ var igActorMap = {
             ]
         }
     },
+    "Evan Jonigkeit": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ]
+        }
+    },
     "Evan Peters": {
         "movies": {
             "Kick-Ass": [
                 "Kick-Ass (2010)"
+            ],
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -4488,6 +4798,10 @@ var igActorMap = {
     },
     "Evangeline Lilly": {
         "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
+            ],
             "MCU": [
                 "Ant-Man (2015)"
             ]
@@ -4537,7 +4851,15 @@ var igActorMap = {
             "X-Men": [
                 "X-Men (2000)",
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
+            ]
+        }
+    },
+    "Fan Bingbing": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -4560,6 +4882,9 @@ var igActorMap = {
     },
     "Felicity Jones": {
         "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
+            ],
             "Star Wars": [
                 "Rogue One: A Star Wars Story (2016)"
             ]
@@ -4663,6 +4988,13 @@ var igActorMap = {
             ]
         }
     },
+    "Frank Grillo": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Frank Langella": {
         "movies": {
             "Superman": [
@@ -4679,7 +5011,8 @@ var igActorMap = {
                 "Daredevil (2003)"
             ],
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ],
             "The Spirit (2008)": [
                 "The Spirit (2008)"
@@ -4824,13 +5157,17 @@ var igActorMap = {
             ],
             "Batman": [
                 "Batman (1989)"
+            ],
+            "Red": [
+                "Red 2 (2013)"
             ]
         }
     },
     "Garry Shandling": {
         "movies": {
             "MCU": [
-                "Iron Man 2 (2010)"
+                "Iron Man 2 (2010)",
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -4880,6 +5217,13 @@ var igActorMap = {
         "movies": {
             "Strange Magic (2015)": [
                 "Strange Magic (2015)"
+            ]
+        }
+    },
+    "Gary Sinise": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -4946,6 +5290,13 @@ var igActorMap = {
                 "Superman (1978)",
                 "Superman II (1981)",
                 "Superman IV: The Quest for Peace (1987)"
+            ]
+        }
+    },
+    "Genesis Rodriguez": {
+        "movies": {
+            "Marvel": [
+                "Big Hero 6 (2014)"
             ]
         }
     },
@@ -5036,6 +5387,13 @@ var igActorMap = {
             ]
         }
     },
+    "Georges St-Pierre": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Georgie Henley": {
         "movies": {
             "Narnia": [
@@ -5055,7 +5413,8 @@ var igActorMap = {
     "Gerard Butler": {
         "movies": {
             "300": [
-                "300 (2007)"
+                "300 (2007)",
+                "300: Rise of an Empire (2014)"
             ]
         }
     },
@@ -5111,6 +5470,13 @@ var igActorMap = {
             "Matrix": [
                 "The Matrix Reloaded (2003)",
                 "The Matrix Revolutions (2003)"
+            ]
+        }
+    },
+    "Glenn Close": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -5207,7 +5573,9 @@ var igActorMap = {
     "Graham McTavish": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -5262,6 +5630,10 @@ var igActorMap = {
         "movies": {
             "Star Trek": [
                 "Star Trek: Insurrection (1998)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy (2014)",
+                "Guardians of the Galaxy Vol. 2 (2017)"
             ]
         }
     },
@@ -5350,7 +5722,8 @@ var igActorMap = {
             "X-Men": [
                 "X-Men (2000)",
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "DC": [
                 "Catwoman (2004)"
@@ -5375,6 +5748,13 @@ var igActorMap = {
         "movies": {
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ]
+        }
+    },
+    "Hans Matheson": {
+        "movies": {
+            "300": [
+                "300: Rise of an Empire (2014)"
             ]
         }
     },
@@ -5522,6 +5902,7 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Captain America: The First Avenger (2011)",
+                "Captain America: The Winter Soldier (2014)",
                 "Ant-Man (2015)"
             ]
         }
@@ -5580,7 +5961,8 @@ var igActorMap = {
     "Helen Mirren": {
         "movies": {
             "Red": [
-                "Red (2010)"
+                "Red (2010)",
+                "Red 2 (2013)"
             ]
         }
     },
@@ -5622,6 +6004,13 @@ var igActorMap = {
         "movies": {
             "DCEU": [
                 "Man of Steel (2013)"
+            ]
+        }
+    },
+    "Henry Goodman": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -5684,7 +6073,8 @@ var igActorMap = {
                 "X2 (2003)",
                 "X-Men: The Last Stand (2006)",
                 "X-Men Origins: Wolverine (2009)",
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -5721,7 +6111,8 @@ var igActorMap = {
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Two Towers (2002)",
                 "The Lord of the Rings: The Return of the King (2003)",
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "V for Vendetta (2006)": [
                 "V for Vendetta (2006)"
@@ -5733,6 +6124,13 @@ var igActorMap = {
             ],
             "MCU": [
                 "Captain America: The First Avenger (2011)"
+            ]
+        }
+    },
+    "Iain Glen": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -5761,7 +6159,8 @@ var igActorMap = {
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Return of the King (2003)",
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -5783,13 +6182,16 @@ var igActorMap = {
             "X-Men": [
                 "X-Men (2000)",
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Two Towers (2002)",
                 "The Lord of the Rings: The Return of the King (2003)",
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -5827,6 +6229,7 @@ var igActorMap = {
             ],
             "MCU": [
                 "Thor (2011)",
+                "Thor: The Dark World (2013)",
                 "Avengers: Infinity War (2018)"
             ],
             "Marvel": [
@@ -6033,6 +6436,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jack O'Connell": {
+        "movies": {
+            "300": [
+                "300: Rise of an Empire (2014)"
+            ]
+        }
+    },
     "Jack O'Halloran": {
         "movies": {
             "Superman": [
@@ -6108,6 +6518,9 @@ var igActorMap = {
     },
     "Jai Courtney": {
         "movies": {
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
+            ],
             "Terminator": [
                 "Terminator Genisys (2015)"
             ]
@@ -6119,7 +6532,8 @@ var igActorMap = {
                 "Bulletproof Monk (2003)"
             ],
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ],
             "The Spirit (2008)": [
                 "The Spirit (2008)"
@@ -6129,7 +6543,8 @@ var igActorMap = {
     "Jaimie Alexander": {
         "movies": {
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -6227,6 +6642,9 @@ var igActorMap = {
             "Surrogates (2009)": [
                 "Surrogates (2009)"
             ],
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ],
             "Jurassic Park": [
                 "Jurassic World: Fallen Kingdom (2018)"
             ]
@@ -6298,6 +6716,13 @@ var igActorMap = {
             ]
         }
     },
+    "James Gunn": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "James Handy": {
         "movies": {
             "The Rocketeer (1991)": [
@@ -6330,7 +6755,8 @@ var igActorMap = {
             "X-Men": [
                 "X-Men (2000)",
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "Superman": [
                 "Superman Returns (2006)"
@@ -6349,7 +6775,8 @@ var igActorMap = {
                 "Wanted (2008)"
             ],
             "X-Men": [
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -6363,7 +6790,9 @@ var igActorMap = {
     "James Nesbitt": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -6440,6 +6869,23 @@ var igActorMap = {
             ],
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ]
+        }
+    },
+    "Jamie Chung": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
+            ],
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ]
+        }
+    },
+    "Jamie Foxx": {
+        "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -6672,7 +7118,9 @@ var igActorMap = {
     "Jed Brophy": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -6811,7 +7259,8 @@ var igActorMap = {
     "Jennifer Lawrence": {
         "movies": {
             "X-Men": [
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -6825,7 +7274,8 @@ var igActorMap = {
     "Jenny Agutter": {
         "movies": {
             "MCU": [
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -6846,6 +7296,13 @@ var igActorMap = {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)",
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Jeremy Piven": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -6905,7 +7362,8 @@ var igActorMap = {
     "Jessica Alba": {
         "movies": {
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ],
             "Marvel": [
                 "Fantastic Four (2005)",
@@ -6982,6 +7440,9 @@ var igActorMap = {
             ],
             "Batman": [
                 "Batman Forever (1995)"
+            ],
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -7110,6 +7571,13 @@ var igActorMap = {
             ]
         }
     },
+    "Joe Russo": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Joe Starr": {
         "movies": {
             "The Adventures of Tintin (2011)": [
@@ -7181,10 +7649,19 @@ var igActorMap = {
             ]
         }
     },
+    "John C. Reilly": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "John Callen": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -7338,6 +7815,9 @@ var igActorMap = {
         "movies": {
             "Spawn (1997)": [
                 "Spawn (1997)"
+            ],
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -7368,7 +7848,8 @@ var igActorMap = {
                 "Jonah Hex (2010)"
             ],
             "Red": [
-                "Red (2010)"
+                "Red (2010)",
+                "Red 2 (2013)"
             ],
             "Transformers": [
                 "Transformers: Dark of the Moon (2011)"
@@ -7623,6 +8104,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jonathan Howard": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
+            ]
+        }
+    },
     "Jonathan Ke Quan": {
         "movies": {
             "Indiana Jones": [
@@ -7664,6 +8152,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -7691,7 +8182,11 @@ var igActorMap = {
                 "Men in Black 3 (2012)"
             ],
             "MCU": [
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -7724,6 +8219,9 @@ var igActorMap = {
     },
     "Josh Helman": {
         "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
             ]
@@ -7780,7 +8278,8 @@ var igActorMap = {
                 "Star Trek: Nemesis (2002)"
             ],
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -7823,6 +8322,13 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X-Men Origins: Wolverine (2009)"
+            ]
+        }
+    },
+    "Julia Garner": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -7935,6 +8441,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Dark Knight Rises (2012)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -8021,6 +8530,7 @@ var igActorMap = {
     "Karen Gillan": {
         "movies": {
             "MCU": [
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -8058,7 +8568,8 @@ var igActorMap = {
     "Kat Dennings": {
         "movies": {
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -8284,7 +8795,8 @@ var igActorMap = {
     "Kelsey Grammer": {
         "movies": {
             "X-Men": [
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "Transformers": [
                 "Transformers: Age of Extinction (2014)"
@@ -8311,7 +8823,9 @@ var igActorMap = {
                 "The Chronicles of Narnia: Prince Caspian (2008)"
             ],
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -8471,6 +8985,16 @@ var igActorMap = {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles (2014)",
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Kevin Grevioux": {
+        "movies": {
+            "DC": [
+                "Steel (1997)"
+            ],
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
             ]
         }
     },
@@ -8727,6 +9251,13 @@ var igActorMap = {
             ]
         }
     },
+    "Lady Gaga": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
     "Lambert Wilson": {
         "movies": {
             "Matrix": [
@@ -8804,7 +9335,8 @@ var igActorMap = {
     "Laura Haddock": {
         "movies": {
             "MCU": [
-                "Captain America: The First Avenger (2011)"
+                "Captain America: The First Avenger (2011)",
+                "Guardians of the Galaxy (2014)"
             ],
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
@@ -8892,7 +9424,8 @@ var igActorMap = {
         "movies": {
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
-                "The Lord of the Rings: The Return of the King (2003)"
+                "The Lord of the Rings: The Return of the King (2003)",
+                "The Hobbit: The Desolation of Smaug (2013)"
             ]
         }
     },
@@ -8954,6 +9487,17 @@ var igActorMap = {
             ]
         }
     },
+    "Lee Pace": {
+        "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "Leeanna Walsman": {
         "movies": {
             "Star Wars": [
@@ -8981,7 +9525,8 @@ var igActorMap = {
     "Lena Headey": {
         "movies": {
             "300": [
-                "300 (2007)"
+                "300 (2007)",
+                "300: Rise of an Empire (2014)"
             ],
             "Dredd (2012)": [
                 "Dredd (2012)"
@@ -9206,6 +9751,13 @@ var igActorMap = {
             ]
         }
     },
+    "Lindy Booth": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
+            ]
+        }
+    },
     "Linus Roache": {
         "movies": {
             "Batman": [
@@ -9288,7 +9840,8 @@ var igActorMap = {
     "Lucas Till": {
         "movies": {
             "X-Men": [
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -9303,6 +9856,14 @@ var igActorMap = {
         "movies": {
             "Power Rangers": [
                 "Power Rangers (2017)"
+            ]
+        }
+    },
+    "Luke Evans": {
+        "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -9340,7 +9901,8 @@ var igActorMap = {
     "Lyndsy Fonseca": {
         "movies": {
             "Kick-Ass": [
-                "Kick-Ass (2010)"
+                "Kick-Ass (2010)",
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -9545,7 +10107,9 @@ var igActorMap = {
                 "30 Days of Night (2007)"
             ],
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -9682,6 +10246,9 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Punisher: War Zone (2008)"
+            ],
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -9702,7 +10269,9 @@ var igActorMap = {
     "Mark Hadlow": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -9878,7 +10447,9 @@ var igActorMap = {
     "Martin Freeman": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -9924,6 +10495,12 @@ var igActorMap = {
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Return of the King (2003)"
+            ],
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -9954,7 +10531,8 @@ var igActorMap = {
     "Mary-Louise Parker": {
         "movies": {
             "Red": [
-                "Red (2010)"
+                "Red (2010)",
+                "Red 2 (2013)"
             ],
             "R.I.P.D. (2013)": [
                 "R.I.P.D. (2013)"
@@ -10096,7 +10674,8 @@ var igActorMap = {
     "Max Charles": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -10131,12 +10710,16 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Thor (2011)",
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
     "Maya Rudolph": {
         "movies": {
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ],
             "Strange Magic (2015)": [
                 "Strange Magic (2015)"
             ]
@@ -10363,7 +10946,8 @@ var igActorMap = {
                 "Jonah Hex (2010)"
             ],
             "X-Men": [
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "Alien": [
                 "Prometheus (2012)",
@@ -10501,6 +11085,13 @@ var igActorMap = {
             ]
         }
     },
+    "Michael Lerner": {
+        "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ]
+        }
+    },
     "Michael Madsen": {
         "movies": {
             "Sin City": [
@@ -10520,7 +11111,8 @@ var igActorMap = {
                 "Catwoman (2004)"
             ],
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -10564,6 +11156,13 @@ var igActorMap = {
         "movies": {
             "X-Men": [
                 "X2 (2003)"
+            ]
+        }
+    },
+    "Michael Rooker": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -10618,7 +11217,8 @@ var igActorMap = {
     "Mickey Rourke": {
         "movies": {
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ],
             "MCU": [
                 "Iron Man 2 (2010)"
@@ -10645,6 +11245,21 @@ var igActorMap = {
             ],
             "Jurassic Park": [
                 "Jurassic Park (1993)"
+            ]
+        }
+    },
+    "Mikael Persbrandt": {
+        "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
+            ]
+        }
+    },
+    "Mikaela Hoover": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -10709,6 +11324,9 @@ var igActorMap = {
             "Middle-earth": [
                 "The Lord of the Rings: The Two Towers (2002)",
                 "The Lord of the Rings: The Return of the King (2003)"
+            ],
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
             ]
         }
     },
@@ -10781,6 +11399,13 @@ var igActorMap = {
             ],
             "Oblivion (2013)": [
                 "Oblivion (2013)"
+            ]
+        }
+    },
+    "Morris Chestnut": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -10878,7 +11503,8 @@ var igActorMap = {
                 "V for Vendetta (2006)"
             ],
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -10903,6 +11529,13 @@ var igActorMap = {
         "movies": {
             "V for Vendetta (2006)": [
                 "V for Vendetta (2006)"
+            ]
+        }
+    },
+    "Nathan Fillion": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -10948,6 +11581,9 @@ var igActorMap = {
             ],
             "MCU": [
                 "Captain America: The First Avenger (2011)"
+            ],
+            "Red": [
+                "Red 2 (2013)"
             ]
         }
     },
@@ -11034,7 +11670,8 @@ var igActorMap = {
     "Nicholas Hoult": {
         "movies": {
             "X-Men": [
-                "X-Men: First Class (2011)"
+                "X-Men: First Class (2011)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "Mad Max": [
                 "Mad Max: Fury Road (2015)"
@@ -11263,6 +11900,13 @@ var igActorMap = {
             ]
         }
     },
+    "Olga Kurkulina": {
+        "movies": {
+            "Kick-Ass": [
+                "Kick-Ass 2 (2013)"
+            ]
+        }
+    },
     "Olga Kurylenko": {
         "movies": {
             "Oblivion (2013)": [
@@ -11354,6 +11998,9 @@ var igActorMap = {
     },
     "Omar Sy": {
         "movies": {
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ],
             "Jurassic Park": [
                 "Jurassic World (2015)"
             ],
@@ -11369,6 +12016,14 @@ var igActorMap = {
             ]
         }
     },
+    "Ophelia Lovibond": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)",
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "Orestes Matacena": {
         "movies": {
             "Mask": [
@@ -11381,7 +12036,9 @@ var igActorMap = {
             "Middle-earth": [
                 "The Lord of the Rings: The Fellowship of the Ring (2001)",
                 "The Lord of the Rings: The Two Towers (2002)",
-                "The Lord of the Rings: The Return of the King (2003)"
+                "The Lord of the Rings: The Return of the King (2003)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "Pirates": [
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
@@ -11503,7 +12160,8 @@ var igActorMap = {
     "Patricia Vonne": {
         "movies": {
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -11543,7 +12201,8 @@ var igActorMap = {
                 "X-Men (2000)",
                 "X2 (2003)",
                 "X-Men: The Last Stand (2006)",
-                "X-Men Origins: Wolverine (2009)"
+                "X-Men Origins: Wolverine (2009)",
+                "X-Men: Days of Future Past (2014)"
             ],
             "TMNT": [
                 "TMNT (2007)"
@@ -11615,6 +12274,9 @@ var igActorMap = {
         "movies": {
             "Planet of the Apes": [
                 "Planet of the Apes (2001)"
+            ],
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -11876,6 +12538,9 @@ var igActorMap = {
             "Narnia": [
                 "The Chronicles of Narnia: Prince Caspian (2008)"
             ],
+            "X-Men": [
+                "X-Men: Days of Future Past (2014)"
+            ],
             "MCU": [
                 "Avengers: Infinity War (2018)"
             ]
@@ -11912,7 +12577,9 @@ var igActorMap = {
     "Peter Hambleton": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -11921,7 +12588,8 @@ var igActorMap = {
             "Middle-earth": [
                 "The Lord of the Rings: The Two Towers (2002)",
                 "The Lord of the Rings: The Return of the King (2003)",
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)"
             ]
         }
     },
@@ -11966,7 +12634,8 @@ var igActorMap = {
     "Peter Mensah": {
         "movies": {
             "300": [
-                "300 (2007)"
+                "300 (2007)",
+                "300: Rise of an Empire (2014)"
             ],
             "MCU": [
                 "The Incredible Hulk (2008)"
@@ -12008,6 +12677,9 @@ var igActorMap = {
         "movies": {
             "Star Wars": [
                 "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+            ],
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -12107,7 +12779,8 @@ var igActorMap = {
     "Powers Boothe": {
         "movies": {
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ],
             "MCU": [
                 "The Avengers (2012)"
@@ -12307,6 +12980,13 @@ var igActorMap = {
             ]
         }
     },
+    "Ray Liotta": {
+        "movies": {
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
+            ]
+        }
+    },
     "Ray Park": {
         "movies": {
             "Star Wars": [
@@ -12323,7 +13003,8 @@ var igActorMap = {
                 "Punisher: War Zone (2008)"
             ],
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -12453,7 +13134,8 @@ var igActorMap = {
     "Rene Russo": {
         "movies": {
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -12515,7 +13197,9 @@ var igActorMap = {
                 "Captain America: The First Avenger (2011)"
             ],
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -12531,6 +13215,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman Begins (2005)"
+            ],
+            "MCU": [
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -12748,6 +13435,13 @@ var igActorMap = {
             ]
         }
     },
+    "Rob Zombie": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "Robbie Coltrane": {
         "movies": {
             "Flash Gordon (1980)": [
@@ -12903,10 +13597,18 @@ var igActorMap = {
             ]
         }
     },
+    "Robert Redford": {
+        "movies": {
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
+            ]
+        }
+    },
     "Robert Rodriguez": {
         "movies": {
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -12987,7 +13689,8 @@ var igActorMap = {
     "Rodrigo Santoro": {
         "movies": {
             "300": [
-                "300 (2007)"
+                "300 (2007)",
+                "300: Rise of an Empire (2014)"
             ]
         }
     },
@@ -13119,7 +13822,8 @@ var igActorMap = {
                 "Men in Black II (2002)"
             ],
             "Sin City": [
-                "Sin City (2005)"
+                "Sin City (2005)",
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -13263,6 +13967,21 @@ var igActorMap = {
             ]
         }
     },
+    "Ryan Gage": {
+        "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
+            ]
+        }
+    },
+    "Ryan Potter": {
+        "movies": {
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ]
+        }
+    },
     "Ryan Reynolds": {
         "movies": {
             "Marvel": [
@@ -13320,7 +14039,8 @@ var igActorMap = {
     "Sally Field": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -13467,6 +14187,7 @@ var igActorMap = {
                 "Thor (2011)",
                 "Captain America: The First Avenger (2011)",
                 "The Avengers (2012)",
+                "Captain America: The Winter Soldier (2014)",
                 "Avengers: Infinity War (2018)",
                 "Spider-Man: Far From Home (2019)"
             ],
@@ -13586,6 +14307,7 @@ var igActorMap = {
             "MCU": [
                 "Iron Man 2 (2010)",
                 "The Avengers (2012)",
+                "Captain America: The Winter Soldier (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -13594,6 +14316,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "The Transformers: The Movie (1986)"
+            ]
+        }
+    },
+    "Scott Adsit": {
+        "movies": {
+            "Marvel": [
+                "Big Hero 6 (2014)"
             ]
         }
     },
@@ -13654,6 +14383,13 @@ var igActorMap = {
             ]
         }
     },
+    "Sean Gunn": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "Sean Harris": {
         "movies": {
             "Alien": [
@@ -13679,6 +14415,7 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Captain America: The First Avenger (2011)",
+                "Captain America: The Winter Soldier (2014)",
                 "Ant-Man (2015)",
                 "Avengers: Infinity War (2018)"
             ]
@@ -13703,6 +14440,13 @@ var igActorMap = {
         "movies": {
             "Narnia": [
                 "The Chronicles of Narnia: Prince Caspian (2008)"
+            ]
+        }
+    },
+    "Seth Green": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -13739,6 +14483,13 @@ var igActorMap = {
         "movies": {
             "Dick Tracy (1990)": [
                 "Dick Tracy (1990)"
+            ]
+        }
+    },
+    "Shailene Woodley": {
+        "movies": {
+            "Spider-Man": [
+                "The Amazing Spider-Man 2 (2014)"
             ]
         }
     },
@@ -13797,7 +14548,8 @@ var igActorMap = {
             "X-Men": [
                 "X-Men (2000)",
                 "X2 (2003)",
-                "X-Men: The Last Stand (2006)"
+                "X-Men: The Last Stand (2006)",
+                "X-Men: Days of Future Past (2014)"
             ]
         }
     },
@@ -13935,7 +14687,15 @@ var igActorMap = {
     "Skyler Gisondo": {
         "movies": {
             "Spider-Man": [
-                "The Amazing Spider-Man (2012)"
+                "The Amazing Spider-Man (2012)",
+                "The Amazing Spider-Man 2 (2014)"
+            ]
+        }
+    },
+    "Socratis Otto": {
+        "movies": {
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
             ]
         }
     },
@@ -13994,7 +14754,8 @@ var igActorMap = {
     "Sophie Wu": {
         "movies": {
             "Kick-Ass": [
-                "Kick-Ass (2010)"
+                "Kick-Ass (2010)",
+                "Kick-Ass 2 (2013)"
             ]
         }
     },
@@ -14037,6 +14798,9 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "Batman: Mask of the Phantasm (1993)"
+            ],
+            "Sin City": [
+                "Sin City: A Dame to Kill For (2014)"
             ]
         }
     },
@@ -14083,7 +14847,8 @@ var igActorMap = {
             ],
             "MCU": [
                 "Thor (2011)",
-                "The Avengers (2012)"
+                "The Avengers (2012)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -14091,6 +14856,13 @@ var igActorMap = {
         "movies": {
             "TMNT": [
                 "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            ]
+        }
+    },
+    "Stephen Colbert": {
+        "movies": {
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)"
             ]
         }
     },
@@ -14119,6 +14891,10 @@ var igActorMap = {
         "movies": {
             "V for Vendetta (2006)": [
                 "V for Vendetta (2006)"
+            ],
+            "Middle-earth": [
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -14136,7 +14912,9 @@ var igActorMap = {
     "Stephen Hunter": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -14150,6 +14928,7 @@ var igActorMap = {
     "Stephen McFeely": {
         "movies": {
             "MCU": [
+                "Captain America: The Winter Soldier (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -14251,6 +15030,13 @@ var igActorMap = {
             ]
         }
     },
+    "Steven Berkoff": {
+        "movies": {
+            "Red": [
+                "Red 2 (2013)"
+            ]
+        }
+    },
     "Steven O'Donnell": {
         "movies": {
             "Conan": [
@@ -14327,6 +15113,13 @@ var igActorMap = {
             ]
         }
     },
+    "Sullivan Stapleton": {
+        "movies": {
+            "300": [
+                "300: Rise of an Empire (2014)"
+            ]
+        }
+    },
     "Susan Lynch": {
         "movies": {
             "From Hell (2001)": [
@@ -14349,7 +15142,9 @@ var igActorMap = {
     "Sylvester McCoy": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -14372,6 +15167,9 @@ var igActorMap = {
             "Transformers": [
                 "Transformers: Age of Extinction (2014)"
             ],
+            "Marvel": [
+                "Big Hero 6 (2014)"
+            ],
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
             ]
@@ -14380,7 +15178,8 @@ var igActorMap = {
     "Tadanobu Asano": {
         "movies": {
             "MCU": [
-                "Thor (2011)"
+                "Thor (2011)",
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -14400,6 +15199,9 @@ var igActorMap = {
     },
     "Talulah Riley": {
         "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
+            ],
             "Bloodshot (2020)": [
                 "Bloodshot (2020)"
             ]
@@ -14515,7 +15317,8 @@ var igActorMap = {
                 "War for the Planet of the Apes (2017)"
             ],
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ],
             "MCU": [
                 "Avengers: Infinity War (2018)"
@@ -14602,6 +15405,9 @@ var igActorMap = {
             ],
             "Wanted (2008)": [
                 "Wanted (2008)"
+            ],
+            "MCU": [
+                "Captain America: The Winter Soldier (2014)"
             ]
         }
     },
@@ -14786,6 +15592,9 @@ var igActorMap = {
     },
     "Titus Welliver": {
         "movies": {
+            "Red": [
+                "Red 2 (2013)"
+            ],
             "Transformers": [
                 "Transformers: Age of Extinction (2014)"
             ]
@@ -14813,7 +15622,8 @@ var igActorMap = {
                 "Harry Potter and the Chamber of Secrets (2002)"
             ],
             "MCU": [
-                "Captain America: The First Avenger (2011)"
+                "Captain America: The First Avenger (2011)",
+                "Captain America: The Winter Soldier (2014)"
             ],
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
@@ -14904,6 +15714,7 @@ var igActorMap = {
             "MCU": [
                 "Thor (2011)",
                 "The Avengers (2012)",
+                "Thor: The Dark World (2013)",
                 "Avengers: Infinity War (2018)"
             ]
         }
@@ -15088,6 +15899,9 @@ var igActorMap = {
             ],
             "The Adventures of Tintin (2011)": [
                 "The Adventures of Tintin (2011)"
+            ],
+            "MCU": [
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -15239,6 +16053,13 @@ var igActorMap = {
         "movies": {
             "Ready Player One (2018)": [
                 "Ready Player One (2018)"
+            ]
+        }
+    },
+    "Tyler Bates": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
             ]
         }
     },
@@ -15430,6 +16251,7 @@ var igActorMap = {
     "Vin Diesel": {
         "movies": {
             "MCU": [
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
             ],
             "Bloodshot (2020)": [
@@ -15786,7 +16608,9 @@ var igActorMap = {
     "William Kircher": {
         "movies": {
             "Middle-earth": [
-                "The Hobbit: An Unexpected Journey (2012)"
+                "The Hobbit: An Unexpected Journey (2012)",
+                "The Hobbit: The Desolation of Smaug (2013)",
+                "The Hobbit: The Battle of the Five Armies (2014)"
             ]
         }
     },
@@ -15888,6 +16712,13 @@ var igActorMap = {
             ]
         }
     },
+    "Wyatt Oleff": {
+        "movies": {
+            "MCU": [
+                "Guardians of the Galaxy (2014)"
+            ]
+        }
+    },
     "Wyatt Russell": {
         "movies": {
             "Cowboys & Aliens (2011)": [
@@ -15924,8 +16755,18 @@ var igActorMap = {
     },
     "Yvonne Strahovski": {
         "movies": {
+            "I, Frankenstein (2014)": [
+                "I, Frankenstein (2014)"
+            ],
             "Predator": [
                 "The Predator (2018)"
+            ]
+        }
+    },
+    "Zachary Levi": {
+        "movies": {
+            "MCU": [
+                "Thor: The Dark World (2013)"
             ]
         }
     },
@@ -15964,6 +16805,7 @@ var igActorMap = {
                 "The Losers (2010)"
             ],
             "MCU": [
+                "Guardians of the Galaxy (2014)",
                 "Avengers: Infinity War (2018)"
             ]
         }
