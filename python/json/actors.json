@@ -288,6 +288,7 @@
         "movies": [
             "Die Hard (1988)",
             "Robin Hood: Prince of Thieves (1991)",
+            "Dogma (1999)",
             "Galaxy Quest (1999)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
@@ -319,8 +320,14 @@
             "A Knight's Tale (2001)",
             "Knocked Up (2007)",
             "Big Hero 6 (2014)",
+            "Zootopia (2016)",
             "Rogue One: A Star Wars Story (2016)",
             "Deadpool 2 (2018)"
+        ]
+    },
+    "Alanis Morissette": {
+        "movies": [
+            "Dogma (1999)"
         ]
     },
     "Albert Brooks": {
@@ -496,6 +503,8 @@
     },
     "Alison Brie": {
         "movies": [
+            "The Lego Movie (2014)",
+            "The Lego Movie 2: The Second Part (2019)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -703,6 +712,7 @@
     "Andy Samberg": {
         "movies": [
             "Hot Rod (2007)",
+            "I Love You, Man (2009)",
             "What's Your Number? (2011)"
         ]
     },
@@ -968,6 +978,7 @@
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Clone Wars (2008)",
+            "The Lego Movie (2014)",
             "Star Wars: The Force Awakens (2015)",
             "Rogue One: A Star Wars Story (2016)",
             "Star Wars: The Last Jedi (2017)",
@@ -1049,6 +1060,11 @@
             }
         ]
     },
+    "Anthony Quinn": {
+        "movies": [
+            "Last Action Hero (1993)"
+        ]
+    },
     "Anthony Rapp": {
         "movies": [
             "Dazed and Confused (1993)",
@@ -1121,7 +1137,13 @@
     },
     "Arnold Schwarzenegger": {
         "movies": [
+            "Last Action Hero (1993)",
             "Batman & Robin (1997)"
+        ]
+    },
+    "Art Carney": {
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Artie Lange": {
@@ -1203,6 +1225,11 @@
             "Ray (2004)"
         ]
     },
+    "Austin O'Brien": {
+        "movies": [
+            "Last Action Hero (1993)"
+        ]
+    },
     "Austin Stowell": {
         "movies": [
             "Whiplash (2014)"
@@ -1220,6 +1247,7 @@
     },
     "Aziz Ansari": {
         "movies": [
+            "I Love You, Man (2009)",
             "What's Your Number? (2011)"
         ]
     },
@@ -1301,6 +1329,7 @@
         "movies": [
             "Dazed and Confused (1993)",
             "Shakespeare in Love (1998)",
+            "Dogma (1999)",
             "Daredevil (2003)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Suicide Squad (2016)",
@@ -1361,6 +1390,11 @@
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Ben Schwartz": {
+        "movies": [
+            "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
     "Ben Stein": {
         "movies": [
             "The Mask (1994)",
@@ -1371,6 +1405,11 @@
         "movies": [
             "Mystery Men (1999)",
             "Tropic Thunder (2008)"
+        ]
+    },
+    "Ben Whishaw": {
+        "movies": [
+            "In the Heart of the Sea (2015)"
         ]
     },
     "Benedict Cumberbatch": {
@@ -1433,6 +1472,11 @@
         "movies": [
             "Catwoman (2004)",
             "Doctor Strange (2016)"
+        ]
+    },
+    "Benjamin Walker": {
+        "movies": [
+            "In the Heart of the Sea (2015)"
         ]
     },
     "Bernard Hill": {
@@ -1647,6 +1691,7 @@
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
             "Batman (1989)",
+            "The Lego Movie (2014)",
             "The Lego Batman Movie (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -1708,7 +1753,8 @@
     },
     "Bob Odenkirk": {
         "movies": [
-            "Incredibles 2 (2018)"
+            "Incredibles 2 (2018)",
+            "Little Women (2019)"
         ]
     },
     "Bob Peck": {
@@ -1732,6 +1778,11 @@
     "Bonnie Bedelia": {
         "movies": [
             "Die Hard (1988)"
+        ]
+    },
+    "Bonnie Hunt": {
+        "movies": [
+            "Zootopia (2016)"
         ]
     },
     "Bonnie Wright": {
@@ -1906,7 +1957,8 @@
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "In the Heart of the Sea (2015)"
         ]
     },
     "Brent Spiner": {
@@ -1997,6 +2049,7 @@
     },
     "Bridgette Wilson": {
         "movies": [
+            "Last Action Hero (1993)",
             "I Know What You Did Last Summer (1997)"
         ]
     },
@@ -2022,7 +2075,8 @@
     },
     "Brooklynn Prince": {
         "movies": [
-            "The Florida Project (2017)"
+            "The Florida Project (2017)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Bruce Campbell": {
@@ -2091,7 +2145,8 @@
             "Red 2 (2013)",
             "Sin City: A Dame to Kill For (2014)",
             "Split (2017)",
-            "Glass (2019)"
+            "Glass (2019)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Bryan Cranston": {
@@ -2117,6 +2172,11 @@
     "Bryce Dallas Howard": {
         "movies": [
             "Spider-Man 3 (2007)"
+        ]
+    },
+    "Bud Cort": {
+        "movies": [
+            "Dogma (1999)"
         ]
     },
     "Burgess Meredith": {
@@ -2162,6 +2222,11 @@
         ],
         "movies": [
             "Rocky (1976)"
+        ]
+    },
+    "Byron Howard": {
+        "movies": [
+            "Zootopia (2016)"
         ]
     },
     "Byron Mann": {
@@ -2457,14 +2522,17 @@
             "Captain America: Civil War (2016)",
             "Black Panther (2018)",
             "Avengers: Infinity War (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "21 Bridges (2019)"
         ]
     },
     "Channing Tatum": {
         "movies": [
+            "The Lego Movie (2014)",
             "The Hateful Eight (2015)",
             "The Lego Batman Movie (2017)",
-            "Kingsman: The Golden Circle (2017)"
+            "Kingsman: The Golden Circle (2017)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Charlayne Woodard": {
@@ -2480,6 +2548,7 @@
     },
     "Charles Dance": {
         "movies": [
+            "Last Action Hero (1993)",
             "The Imitation Game (2014)",
             "The King's Man (2021)"
         ]
@@ -2488,6 +2557,12 @@
         "movies": [
             "The Theory of Everything (2014)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Charlie Day": {
+        "movies": [
+            "The Lego Movie (2014)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Charlie Heaton": {
@@ -2561,7 +2636,8 @@
     "Chevy Chase": {
         "movies": [
             "Spies Like Us (1985)",
-            "Three Amigos (1986)"
+            "Three Amigos (1986)",
+            "Last Action Hero (1993)"
         ]
     },
     "Chi McBride": {
@@ -2618,7 +2694,8 @@
             }
         ],
         "movies": [
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "Little Women (2019)"
         ]
     },
     "Chris Evans": {
@@ -2648,8 +2725,10 @@
             "Star Trek (2009)",
             "Thor (2011)",
             "The Avengers (2012)",
+            "Rush (2013)",
             "Thor: The Dark World (2013)",
             "Avengers: Age of Ultron (2015)",
+            "In the Heart of the Sea (2015)",
             "Doctor Strange (2016)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
@@ -2660,7 +2739,8 @@
     },
     "Chris McKay": {
         "movies": [
-            "The Lego Batman Movie (2017)"
+            "The Lego Batman Movie (2017)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Chris Messina": {
@@ -2703,10 +2783,17 @@
         "movies": [
             "Take Me Home Tonight (2011)",
             "What's Your Number? (2011)",
+            "The Lego Movie (2014)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
+            "The Lego Movie 2: The Second Part (2019)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Chris Rock": {
+        "movies": [
+            "Dogma (1999)"
         ]
     },
     "Chris Sullivan": {
@@ -2807,6 +2894,7 @@
     "Christopher Lloyd": {
         "movies": [
             "Star Trek III: The Search for Spock (1984)",
+            "The Pagemaster (1994)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -2819,6 +2907,12 @@
         "movies": [
             "Man of Steel (2013)",
             "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
+    "Christopher Miller": {
+        "movies": [
+            "The Lego Movie (2014)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Christopher Mintz-Plasse": {
@@ -2901,6 +2995,7 @@
             "Batman Begins (2005)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
+            "In the Heart of the Sea (2015)",
             "A Quiet Place Part II (2021)"
         ]
     },
@@ -3010,9 +3105,11 @@
     "Cobie Smulders": {
         "movies": [
             "The Avengers (2012)",
+            "The Lego Movie (2014)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)",
             "Avengers: Infinity War (2018)",
+            "The Lego Movie 2: The Second Part (2019)",
             "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)"
         ]
@@ -3214,6 +3311,11 @@
             "Thor (2011)"
         ]
     },
+    "Damon Wayans": {
+        "movies": [
+            "Last Action Hero (1993)"
+        ]
+    },
     "Damon Wayans Jr.": {
         "movies": [
             "Big Hero 6 (2014)"
@@ -3275,6 +3377,7 @@
     },
     "Daniel Br\u00fchl": {
         "movies": [
+            "Rush (2013)",
             "Captain America: Civil War (2016)",
             "The King's Man (2021)"
         ]
@@ -3390,6 +3493,7 @@
         "movies": [
             "Terms of Endearment (1983)",
             "Batman Returns (1992)",
+            "Last Action Hero (1993)",
             "Space Jam (1996)"
         ]
     },
@@ -3544,7 +3648,8 @@
     },
     "David Krumholtz": {
         "movies": [
-            "Ray (2004)"
+            "Ray (2004)",
+            "I Love You, Man (2009)"
         ]
     },
     "David Leitch": {
@@ -4190,6 +4295,7 @@
     },
     "Ed Begley Jr.": {
         "movies": [
+            "The Pagemaster (1994)",
             "Batman Forever (1995)",
             "What's Your Number? (2011)"
         ]
@@ -4394,12 +4500,19 @@
             }
         ]
     },
+    "Eliza Scanlen": {
+        "movies": [
+            "Little Women (2019)"
+        ]
+    },
     "Elizabeth Banks": {
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
-            "Power Rangers (2017)"
+            "The Lego Movie (2014)",
+            "Power Rangers (2017)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Elizabeth Debicki": {
@@ -4607,7 +4720,8 @@
         ],
         "movies": [
             "The Amazing Spider-Man (2012)",
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "La La Land (2016)"
         ]
     },
     "Emma Thompson": {
@@ -4652,7 +4766,8 @@
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
-            "Beauty and the Beast (2017)"
+            "Beauty and the Beast (2017)",
+            "Little Women (2019)"
         ]
     },
     "Emmanuelle Riva": {
@@ -4818,6 +4933,7 @@
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "The Impossible (2012)",
             "Star Wars: The Force Awakens (2015)",
             "Beauty and the Beast (2017)",
             "Star Wars: The Rise of Skywalker (2019)",
@@ -4841,6 +4957,7 @@
     },
     "F. Murray Abraham": {
         "movies": [
+            "Last Action Hero (1993)",
             "Star Trek: Insurrection (1998)"
         ]
     },
@@ -4901,7 +5018,8 @@
         "movies": [
             "The Amazing Spider-Man 2 (2014)",
             "The Theory of Everything (2014)",
-            "Rogue One: A Star Wars Story (2016)"
+            "Rogue One: A Star Wars Story (2016)",
+            "A Monster Calls (2016)"
         ]
     },
     "Fernanda Montenegro": {
@@ -4910,6 +5028,11 @@
                 "movie": "Central Station",
                 "year": "1998"
             }
+        ]
+    },
+    "Finn Wittrock": {
+        "movies": [
+            "La La Land (2016)"
         ]
     },
     "Finn Wolfhard": {
@@ -4934,6 +5057,7 @@
             }
         ],
         "movies": [
+            "Little Women (2019)",
             "Black Widow (2021)"
         ]
     },
@@ -5057,6 +5181,7 @@
             "Star Trek III: The Search for Spock (1984)",
             "The Return of Swamp Thing (1989)",
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "The Pagemaster (1994)",
             "TMNT (2007)",
             "Alice in Wonderland (2010)",
             "The Grinch (2018)"
@@ -5209,6 +5334,11 @@
             "RoboCop (2014)"
         ]
     },
+    "Gary Payton": {
+        "movies": [
+            "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
     "Gary Sinise": {
         "suppNoms": [
             {
@@ -5347,6 +5477,11 @@
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
+    "George Carlin": {
+        "movies": [
+            "Dogma (1999)"
+        ]
+    },
     "George Clooney": {
         "leadNoms": [
             {
@@ -5427,7 +5562,9 @@
     },
     "Geraldine Chaplin": {
         "movies": [
-            "Chaplin (1992)"
+            "Chaplin (1992)",
+            "The Impossible (2012)",
+            "A Monster Calls (2016)"
         ]
     },
     "Gerard Butler": {
@@ -5439,6 +5576,11 @@
     "Gina Carano": {
         "movies": [
             "Deadpool (2016)"
+        ]
+    },
+    "Ginnifer Goodwin": {
+        "movies": [
+            "Zootopia (2016)"
         ]
     },
     "Giovanni Ribisi": {
@@ -5627,6 +5769,11 @@
                 "movie": "Cyrano de Bergerac",
                 "year": "1990"
             }
+        ]
+    },
+    "Hadley Robinson": {
+        "movies": [
+            "Little Women (2019)"
         ]
     },
     "Hailee Steinfeld": {
@@ -6118,6 +6265,7 @@
             }
         ],
         "movies": [
+            "Last Action Hero (1993)",
             "Gods and Monsters (1998)",
             "X-Men (2000)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
@@ -6160,6 +6308,7 @@
             "Ghost Rider: Spirit of Vengeance (2012)",
             "Thor: The Dark World (2013)",
             "Avengers: Age of Ultron (2015)",
+            "Zootopia (2016)",
             "Star Trek Beyond (2016)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
@@ -6173,7 +6322,8 @@
     },
     "Ike Barinholtz": {
         "movies": [
-            "Suicide Squad (2016)"
+            "Suicide Squad (2016)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Iko Uwais": {
@@ -6324,9 +6474,13 @@
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
             "Juno (2007)",
+            "I Love You, Man (2009)",
             "Whiplash (2014)",
+            "Zootopia (2016)",
+            "La La Land (2016)",
             "Justice League (2017)",
             "Spider-Man: Far From Home (2019)",
+            "21 Bridges (2019)",
             "Zack Snyder's Justice League (2021)",
             "Venom: Let There Be Carnage (2021)",
             "Ghostbusters: Afterlife (2021)",
@@ -6554,7 +6708,8 @@
     },
     "Jaime Pressly": {
         "movies": [
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "I Love You, Man (2009)"
         ]
     },
     "Jaimie Alexander": {
@@ -6730,6 +6885,11 @@
             "Dark Phoenix (2019)"
         ]
     },
+    "James Norton": {
+        "movies": [
+            "Little Women (2019)"
+        ]
+    },
     "James Parks": {
         "movies": [
             "The Hateful Eight (2015)"
@@ -6855,6 +7015,11 @@
             "Son of the Mask (2005)"
         ]
     },
+    "Jane Curtin": {
+        "movies": [
+            "I Love You, Man (2009)"
+        ]
+    },
     "Jane Fonda": {
         "leadNoms": [
             {
@@ -6899,7 +7064,8 @@
     },
     "Janeane Garofalo": {
         "movies": [
-            "Mystery Men (1999)"
+            "Mystery Men (1999)",
+            "Dogma (1999)"
         ]
     },
     "Janet Leigh": {
@@ -6930,6 +7096,11 @@
             "X-Men: First Class (2011)"
         ]
     },
+    "Jared Bush": {
+        "movies": [
+            "Zootopia (2016)"
+        ]
+    },
     "Jared Leto": {
         "suppNoms": [
             {
@@ -6946,7 +7117,8 @@
     "Jason Bateman": {
         "movies": [
             "Juno (2007)",
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "Zootopia (2016)"
         ]
     },
     "Jason Flemyng": {
@@ -6969,6 +7141,7 @@
     },
     "Jason Lee": {
         "movies": [
+            "Dogma (1999)",
             "Almost Famous (2000)",
             "Vanilla Sky (2001)",
             "The Incredibles (2004)"
@@ -6985,12 +7158,18 @@
             "Dolittle (2020)"
         ]
     },
+    "Jason Mewes": {
+        "movies": [
+            "Dogma (1999)"
+        ]
+    },
     "Jason Momoa": {
         "movies": [
             "Conan the Barbarian (2011)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Aquaman (2018)",
+            "The Lego Movie 2: The Second Part (2019)",
             "Zack Snyder's Justice League (2021)"
         ]
     },
@@ -7006,7 +7185,8 @@
     },
     "Jason Segel": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "I Love You, Man (2009)"
         ]
     },
     "Jason Statham": {
@@ -7047,6 +7227,11 @@
             "RoboCop (2014)"
         ]
     },
+    "Jay Chandrasekhar": {
+        "movies": [
+            "I Love You, Man (2009)"
+        ]
+    },
     "Jay Chou": {
         "movies": [
             "The Green Hornet (2011)"
@@ -7075,6 +7260,7 @@
     },
     "Jean-Claude Van Damme": {
         "movies": [
+            "Last Action Hero (1993)",
             "Timecop (1994)"
         ]
     },
@@ -7292,6 +7478,7 @@
     },
     "Jenny Slate": {
         "movies": [
+            "Zootopia (2016)",
             "The Lego Batman Movie (2017)",
             "Venom (2018)"
         ]
@@ -7457,6 +7644,11 @@
             }
         ]
     },
+    "Jessica Rothe": {
+        "movies": [
+            "La La Land (2016)"
+        ]
+    },
     "Jessica Tandy": {
         "leadNoms": [
             {
@@ -7490,6 +7682,11 @@
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Jim Belushi": {
+        "movies": [
+            "Last Action Hero (1993)"
+        ]
+    },
     "Jim Broadbent": {
         "suppNoms": [
             {
@@ -7520,6 +7717,11 @@
             "Alice in Wonderland (2010)"
         ]
     },
+    "Jim Cummings": {
+        "movies": [
+            "The Pagemaster (1994)"
+        ]
+    },
     "Jim Rash": {
         "movies": [
             "Sky High (2005)",
@@ -7544,6 +7746,11 @@
     "Jimmy Kimmel": {
         "movies": [
             "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Jimmy O. Yang": {
+        "movies": [
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Jimmy Smits": {
@@ -7605,6 +7812,9 @@
                 "movie": "Enchanted April",
                 "year": "1992"
             }
+        ],
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Joan Rivers": {
@@ -7920,6 +8130,11 @@
             "Star Trek III: The Search for Spock (1984)"
         ]
     },
+    "John Legend": {
+        "movies": [
+            "La La Land (2016)"
+        ]
+    },
     "John Leguizamo": {
         "movies": [
             "Kick-Ass 2 (2013)",
@@ -8118,6 +8333,7 @@
             "Wimbledon (2004)",
             "Iron Man (2008)",
             "Four Christmases (2008)",
+            "I Love You, Man (2009)",
             "Iron Man 2 (2010)",
             "John Carter (2012)",
             "Iron Man 3 (2013)",
@@ -8184,7 +8400,9 @@
         "movies": [
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
-            "The Lego Batman Movie (2017)"
+            "The Lego Movie (2014)",
+            "The Lego Batman Movie (2017)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Jonathan Banks": {
@@ -8236,7 +8454,8 @@
     "Jorma Taccone": {
         "movies": [
             "Hot Rod (2007)",
-            "Spider-Man: Into the Spider-Verse (2018)"
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Joseph Fiennes": {
@@ -8278,7 +8497,8 @@
     },
     "Josh Dallas": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "Zootopia (2016)"
         ]
     },
     "Josh Gad": {
@@ -8965,6 +9185,11 @@
             "Cowboys & Aliens (2011)"
         ]
     },
+    "Keith David": {
+        "movies": [
+            "21 Bridges (2019)"
+        ]
+    },
     "Keith Richards": {
         "movies": [
             "Pirates of the Caribbean: At World's End (2007)",
@@ -9155,6 +9380,7 @@
     },
     "Kevin Smith": {
         "movies": [
+            "Dogma (1999)",
             "Daredevil (2003)",
             "TMNT (2007)",
             "Star Wars: The Force Awakens (2015)",
@@ -9284,6 +9510,7 @@
     },
     "Kristen Bell": {
         "movies": [
+            "Zootopia (2016)",
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
@@ -9413,6 +9640,11 @@
             "Space Jam (1996)"
         ]
     },
+    "Larry Wilmore": {
+        "movies": [
+            "I Love You, Man (2009)"
+        ]
+    },
     "Lashana Lynch": {
         "movies": [
             "Captain Marvel (2019)"
@@ -9437,7 +9669,8 @@
         ],
         "movies": [
             "Jurassic Park (1993)",
-            "Star Wars: The Last Jedi (2017)"
+            "Star Wars: The Last Jedi (2017)",
+            "Little Women (2019)"
         ]
     },
     "Laura Fraser": {
@@ -9620,8 +9853,14 @@
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)",
+            "The Pagemaster (1994)",
             "Star Trek (2009)",
             "Star Trek Into Darkness (2013)"
+        ]
+    },
+    "Leonard Roberts": {
+        "movies": [
+            "Drumline (2002)"
         ]
     },
     "Leonardo DiCaprio": {
@@ -9692,6 +9931,11 @@
             "Avengers: Endgame (2019)"
         ]
     },
+    "Lewis MacDougall": {
+        "movies": [
+            "A Monster Calls (2016)"
+        ]
+    },
     "Lewis Tan": {
         "movies": [
             "Deadpool 2 (2018)"
@@ -9722,6 +9966,8 @@
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Dark Knight Rises (2012)",
+            "The Lego Movie (2014)",
+            "A Monster Calls (2016)",
             "Men in Black: International (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -9776,7 +10022,8 @@
     },
     "Linda Fiorentino": {
         "movies": [
-            "Men in Black (1997)"
+            "Men in Black (1997)",
+            "Dogma (1999)"
         ]
     },
     "Linda Hunt": {
@@ -9819,6 +10066,11 @@
             }
         ]
     },
+    "Little Richard": {
+        "movies": [
+            "Last Action Hero (1993)"
+        ]
+    },
     "Liv Tyler": {
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
@@ -9858,12 +10110,18 @@
     "Lou Ferrigno": {
         "movies": [
             "Hulk (2003)",
-            "The Incredible Hulk (2008)"
+            "The Incredible Hulk (2008)",
+            "I Love You, Man (2009)"
         ]
     },
     "Lou Romano": {
         "movies": [
             "The Incredibles (2004)"
+        ]
+    },
+    "Louis Ashbourne Serkis": {
+        "movies": [
+            "The Kid Who Would Be King (2019)"
         ]
     },
     "Louis Jourdan": {
@@ -9992,6 +10250,16 @@
             "Unbreakable (2000)",
             "Split (2017)",
             "Glass (2019)"
+        ]
+    },
+    "MC Hammer": {
+        "movies": [
+            "Last Action Hero (1993)"
+        ]
+    },
+    "Macaulay Culkin": {
+        "movies": [
+            "The Pagemaster (1994)"
         ]
     },
     "Macy Gray": {
@@ -10225,6 +10493,11 @@
         "movies": [
             "Fantastic Four (2005)",
             "Tropic Thunder (2008)"
+        ]
+    },
+    "Maria Shriver": {
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Mariah Carey": {
@@ -10652,6 +10925,7 @@
         ],
         "movies": [
             "Saving Private Ryan (1998)",
+            "Dogma (1999)",
             "Thor: Ragnarok (2017)",
             "Deadpool 2 (2018)"
         ]
@@ -10793,7 +11067,8 @@
     "Maya Rudolph": {
         "movies": [
             "Big Hero 6 (2014)",
-            "Strange Magic (2015)"
+            "Strange Magic (2015)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Mckenna Grace": {
@@ -10903,6 +11178,9 @@
                 "movie": "The Fisher King",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Meredith Anne Bull": {
@@ -11005,7 +11283,8 @@
             }
         ],
         "movies": [
-            "The Deer Hunter (1978)"
+            "The Deer Hunter (1978)",
+            "Little Women (2019)"
         ]
     },
     "Mia Farrow": {
@@ -11361,6 +11640,11 @@
             "Dazed and Confused (1993)"
         ]
     },
+    "Michelle Fairley": {
+        "movies": [
+            "In the Heart of the Sea (2015)"
+        ]
+    },
     "Michelle Pfeiffer": {
         "leadNoms": [
             {
@@ -11454,6 +11738,11 @@
     "Mike Judge": {
         "movies": [
             "R.I.P.D. (2013)"
+        ]
+    },
+    "Mike Mitchell": {
+        "movies": [
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Mikey Kelley": {
@@ -11609,7 +11898,8 @@
             "Red (2010)",
             "Conan the Barbarian (2011)",
             "The Dark Knight Rises (2012)",
-            "Oblivion (2013)"
+            "Oblivion (2013)",
+            "The Lego Movie (2014)"
         ]
     },
     "Morris Chestnut": {
@@ -11675,6 +11965,9 @@
                 "movie": "The Impossible",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "The Impossible (2012)"
         ]
     },
     "Naomie Harris": {
@@ -11702,7 +11995,8 @@
     },
     "Natalie Dormer": {
         "movies": [
-            "Captain America: The First Avenger (2011)"
+            "Captain America: The First Avenger (2011)",
+            "Rush (2013)"
         ]
     },
     "Natalie Portman": {
@@ -11740,6 +12034,11 @@
     "Natasha Rothwell": {
         "movies": [
             "Wonder Woman 1984 (2020)"
+        ]
+    },
+    "Nate Torrence": {
+        "movies": [
+            "Zootopia (2016)"
         ]
     },
     "Nathan Fillion": {
@@ -11825,12 +12124,18 @@
     },
     "Nick Cannon": {
         "movies": [
-            "Men in Black II (2002)"
+            "Men in Black II (2002)",
+            "Drumline (2002)"
         ]
     },
     "Nick Frost": {
         "movies": [
             "The Adventures of Tintin (2011)"
+        ]
+    },
+    "Nick Kroll": {
+        "movies": [
+            "I Love You, Man (2009)"
         ]
     },
     "Nick Nolte": {
@@ -11857,7 +12162,9 @@
     },
     "Nick Offerman": {
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "The Lego Movie (2014)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Nick Stahl": {
@@ -12024,6 +12331,7 @@
         ],
         "movies": [
             "Spider-Man (2002)",
+            "Zootopia (2016)",
             "Dolittle (2020)"
         ]
     },
@@ -12106,6 +12414,7 @@
     "Olivia Wilde": {
         "movies": [
             "Cowboys & Aliens (2011)",
+            "Rush (2013)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -12153,6 +12462,11 @@
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+        ]
+    },
+    "Orlando Jones": {
+        "movies": [
+            "Drumline (2002)"
         ]
     },
     "Orson Welles": {
@@ -12258,6 +12572,7 @@
     "Patrick Stewart": {
         "movies": [
             "Star Trek Generations (1994)",
+            "The Pagemaster (1994)",
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
             "The Prince of Egypt (1998)",
@@ -12269,7 +12584,8 @@
             "X-Men Origins: Wolverine (2009)",
             "Ted (2012)",
             "X-Men: Days of Future Past (2014)",
-            "Logan (2017)"
+            "Logan (2017)",
+            "The Kid Who Would Be King (2019)"
         ]
     },
     "Patrick Warburton": {
@@ -12410,6 +12726,7 @@
     "Paul Rudd": {
         "movies": [
             "Knocked Up (2007)",
+            "I Love You, Man (2009)",
             "How Do You Know (2010)",
             "Ant-Man (2015)",
             "Captain America: Civil War (2016)",
@@ -12696,7 +13013,8 @@
     },
     "Phil Hartman": {
         "movies": [
-            "Three Amigos (1986)"
+            "Three Amigos (1986)",
+            "The Pagemaster (1994)"
         ]
     },
     "Philip Baker Hall": {
@@ -12873,6 +13191,7 @@
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Lego Batman Movie (2017)",
+            "The Lego Movie 2: The Second Part (2019)",
             "Dolittle (2020)",
             "The King's Man (2021)"
         ]
@@ -12925,6 +13244,7 @@
     },
     "Rashida Jones": {
         "movies": [
+            "I Love You, Man (2009)",
             "The Grinch (2018)"
         ]
     },
@@ -12970,6 +13290,7 @@
     "Rebecca Ferguson": {
         "movies": [
             "Hercules (2014)",
+            "The Kid Who Would Be King (2019)",
             "Men in Black: International (2019)"
         ]
     },
@@ -13110,6 +13431,11 @@
             "Star Trek II: The Wrath of Khan (1982)"
         ]
     },
+    "Rich Moore": {
+        "movies": [
+            "Zootopia (2016)"
+        ]
+    },
     "Richard Armitage": {
         "movies": [
             "Captain America: The First Avenger (2011)",
@@ -13121,6 +13447,11 @@
     "Richard Attenborough": {
         "movies": [
             "Jurassic Park (1993)"
+        ]
+    },
+    "Richard Ayoade": {
+        "movies": [
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Richard Brooks": {
@@ -13449,6 +13780,7 @@
     },
     "Robert Patrick": {
         "movies": [
+            "Last Action Hero (1993)",
             "Firewall (2006)"
         ]
     },
@@ -13456,6 +13788,11 @@
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
             "The Lighthouse (2019)"
+        ]
+    },
+    "Robert Prosky": {
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Robert Redford": {
@@ -13642,6 +13979,11 @@
             "Conan the Barbarian (2011)"
         ]
     },
+    "Rosemarie DeWitt": {
+        "movies": [
+            "La La Land (2016)"
+        ]
+    },
     "Rosemary Harris": {
         "suppNoms": [
             {
@@ -13791,7 +14133,8 @@
             }
         ],
         "movies": [
-            "Remember the Titans (2000)"
+            "Remember the Titans (2000)",
+            "La La Land (2016)"
         ]
     },
     "Ryan Hurst": {
@@ -13895,6 +14238,7 @@
             }
         ],
         "movies": [
+            "Dogma (1999)",
             "Eternals (2021)"
         ]
     },
@@ -14104,7 +14448,8 @@
             }
         ],
         "movies": [
-            "Atonement (2007)"
+            "Atonement (2007)",
+            "Little Women (2019)"
         ]
     },
     "Sarah Michelle Gellar": {
@@ -14335,6 +14680,11 @@
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
+    "Shakira": {
+        "movies": [
+            "Zootopia (2016)"
+        ]
+    },
     "Shameik Moore": {
         "movies": [
             "Spider-Man: Into the Spider-Verse (2018)"
@@ -14357,7 +14707,8 @@
     },
     "Shaquille O'Neal": {
         "movies": [
-            "Steel (1997)"
+            "Steel (1997)",
+            "The Lego Movie (2014)"
         ]
     },
     "Sharon Stone": {
@@ -14368,6 +14719,7 @@
             }
         ],
         "movies": [
+            "Last Action Hero (1993)",
             "Catwoman (2004)"
         ]
     },
@@ -14485,6 +14837,11 @@
             "Love Actually (2003)"
         ]
     },
+    "Sienna Miller": {
+        "movies": [
+            "21 Bridges (2019)"
+        ]
+    },
     "Sigourney Weaver": {
         "leadNoms": [
             {
@@ -14506,6 +14863,7 @@
             "Annie Hall (1977)",
             "Galaxy Quest (1999)",
             "Avatar (2009)",
+            "A Monster Calls (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -14715,6 +15073,16 @@
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
             "Avengers: Age of Ultron (2015)"
+        ]
+    },
+    "Stephan James": {
+        "movies": [
+            "21 Bridges (2019)"
+        ]
+    },
+    "Stephanie Beatriz": {
+        "movies": [
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Stephanie Hsu": {
@@ -15051,7 +15419,8 @@
     "Taylor Kitsch": {
         "movies": [
             "X-Men Origins: Wolverine (2009)",
-            "John Carter (2012)"
+            "John Carter (2012)",
+            "21 Bridges (2019)"
         ]
     },
     "Taylor Lautner": {
@@ -15189,6 +15558,7 @@
     "Thomas Lennon": {
         "movies": [
             "The Hitchhiker's Guide to the Galaxy (2005)",
+            "I Love You, Man (2009)",
             "What's Your Number? (2011)"
         ]
     },
@@ -15205,6 +15575,7 @@
     "Tiffany Haddish": {
         "movies": [
             "Girls Trip (2017)",
+            "The Lego Movie 2: The Second Part (2019)",
             "The Kitchen (2019)"
         ]
     },
@@ -15313,6 +15684,14 @@
                 "movie": "Call Me By Your Name",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Little Women (2019)"
+        ]
+    },
+    "Tina Turner": {
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Tip \"T.I.\" Harris": {
@@ -15353,6 +15732,7 @@
         "movies": [
             "Alexander (2004)",
             "Fantastic Four (2015)",
+            "A Monster Calls (2016)",
             "Bloodshot (2020)"
         ]
     },
@@ -15382,6 +15762,11 @@
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",
             "Oblivion (2013)"
+        ]
+    },
+    "Tom Everett Scott": {
+        "movies": [
+            "La La Land (2016)"
         ]
     },
     "Tom Felton": {
@@ -15462,7 +15847,9 @@
     },
     "Tom Holland": {
         "movies": [
+            "The Impossible (2012)",
             "Locke (2014)",
+            "In the Heart of the Sea (2015)",
             "Captain America: Civil War (2016)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
@@ -15485,6 +15872,11 @@
             "Sky High (2005)",
             "Ant-Man (2015)",
             "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Tom Noonan": {
+        "movies": [
+            "Last Action Hero (1993)"
         ]
     },
     "Tom Sizemore": {
@@ -15519,6 +15911,11 @@
             "Shakespeare in Love (1998)",
             "Batman Begins (2005)",
             "The Green Hornet (2011)"
+        ]
+    },
+    "Tommy Chong": {
+        "movies": [
+            "Zootopia (2016)"
         ]
     },
     "Tommy Lee": {
@@ -15560,7 +15957,8 @@
         "movies": [
             "Armed and Dangerous (1986)",
             "Barb Wire (1996)",
-            "The Dark Knight (2008)"
+            "The Dark Knight (2008)",
+            "Zootopia (2016)"
         ]
     },
     "Toni Collette": {
@@ -16104,6 +16502,7 @@
         ],
         "movies": [
             "Star Trek Generations (1994)",
+            "The Pagemaster (1994)",
             "Star Trek: Nemesis (2002)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
@@ -16120,11 +16519,25 @@
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)",
             "Jonah Hex (2010)",
+            "The Lego Movie (2014)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
             "The Lego Batman Movie (2017)",
             "Teen Titans Go! To the Movies (2018)",
+            "The Lego Movie 2: The Second Part (2019)",
             "Dolittle (2020)"
+        ]
+    },
+    "Will Ferrell": {
+        "movies": [
+            "The Lego Movie (2014)",
+            "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
+    "Will Forte": {
+        "movies": [
+            "The Lego Movie (2014)",
+            "The Lego Movie 2: The Second Part (2019)"
         ]
     },
     "Will Patton": {
@@ -16412,6 +16825,11 @@
             "The Lego Batman Movie (2017)"
         ]
     },
+    "Zach King": {
+        "movies": [
+            "Zootopia (2016)"
+        ]
+    },
     "Zachary Levi": {
         "movies": [
             "Thor: The Dark World (2013)",
@@ -16457,6 +16875,7 @@
     },
     "Zoe Saldana": {
         "movies": [
+            "Drumline (2002)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "The Terminal (2004)",
             "Star Trek (2009)",
