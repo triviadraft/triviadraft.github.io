@@ -405,7 +405,8 @@ var actorMap = {
     },
     "Alex Borstein": {
         "movies": [
-            "Catwoman (2004)"
+            "Catwoman (2004)",
+            "Ted (2012)"
         ]
     },
     "Alexa Vega": {
@@ -733,6 +734,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Boyz n the Hood (1991)",
             "Green Lantern (2011)",
             "Black Panther (2018)",
             "Avengers: Endgame (2019)"
@@ -1151,6 +1153,11 @@ var actorMap = {
     "Aubrey Plaza": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
+        ]
+    },
+    "Audra McDonald": {
+        "movies": [
+            "Beauty and the Beast (2017)"
         ]
     },
     "Audrey Hepburn": {
@@ -1878,6 +1885,7 @@ var actorMap = {
     },
     "Brenda Chapman": {
         "movies": [
+            "The Prince of Egypt (1998)",
             "Strange Magic (2015)"
         ]
     },
@@ -2478,6 +2486,7 @@ var actorMap = {
     },
     "Charlie Cox": {
         "movies": [
+            "The Theory of Everything (2014)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -2799,6 +2808,11 @@ var actorMap = {
         "movies": [
             "Star Trek III: The Search for Spock (1984)",
             "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
+    "Christopher McDonald": {
+        "movies": [
+            "Rumor Has It (2005)"
         ]
     },
     "Christopher Meloni": {
@@ -3144,6 +3158,9 @@ var actorMap = {
                 "movie": "Jerry Maguire",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "Boyz n the Hood (1991)"
         ]
     },
     "Curtis Armstrong": {
@@ -3222,6 +3239,11 @@ var actorMap = {
             "Take Me Home Tonight (2011)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
+    "Dan Stevens": {
+        "movies": [
+            "Beauty and the Beast (2017)"
         ]
     },
     "Dana Delany": {
@@ -3373,7 +3395,8 @@ var actorMap = {
     },
     "Danny Glover": {
         "movies": [
-            "Places in the Heart (1984)"
+            "Places in the Heart (1984)",
+            "The Prince of Egypt (1998)"
         ]
     },
     "Danny Huston": {
@@ -3582,6 +3605,7 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Red 2 (2013)",
+            "The Theory of Everything (2014)",
             "Wonder Woman (2017)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -3763,6 +3787,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Remember the Titans (2000)",
             "2 Guns (2013)"
         ]
     },
@@ -4045,6 +4070,7 @@ var actorMap = {
     },
     "Donald Faison": {
         "movies": [
+            "Remember the Titans (2000)",
             "Kick-Ass 2 (2013)"
         ]
     },
@@ -4249,6 +4275,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Theory of Everything (2014)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
@@ -4552,6 +4579,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Theory of Everything (2014)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -4609,6 +4637,7 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
+            "Beauty and the Beast (2017)",
             "Men in Black: International (2019)",
             "Dolittle (2020)"
         ]
@@ -4622,7 +4651,8 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Beauty and the Beast (2017)"
         ]
     },
     "Emmanuelle Riva": {
@@ -4691,6 +4721,11 @@ var actorMap = {
                 "movie": "Boyhood",
                 "year": "2014"
             }
+        ]
+    },
+    "Ethan Suplee": {
+        "movies": [
+            "Remember the Titans (2000)"
         ]
     },
     "Ethel Barrymore": {
@@ -4784,6 +4819,7 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Force Awakens (2015)",
+            "Beauty and the Beast (2017)",
             "Star Wars: The Rise of Skywalker (2019)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
@@ -4864,6 +4900,7 @@ var actorMap = {
         ],
         "movies": [
             "The Amazing Spider-Man 2 (2014)",
+            "The Theory of Everything (2014)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -5336,6 +5373,11 @@ var actorMap = {
             "Gravity (2013)"
         ]
     },
+    "George Hamilton": {
+        "movies": [
+            "Rumor Has It (2005)"
+        ]
+    },
     "George Lopez": {
         "movies": [
             "Valentine's Day (2010)"
@@ -5402,7 +5444,8 @@ var actorMap = {
     "Giovanni Ribisi": {
         "movies": [
             "Saving Private Ryan (1998)",
-            "Avatar (2009)"
+            "Avatar (2009)",
+            "Ted (2012)"
         ]
     },
     "Gladys Cooper": {
@@ -5541,6 +5584,11 @@ var actorMap = {
         ],
         "movies": [
             "Mystery Men (1999)"
+        ]
+    },
+    "Gugu Mbatha-Raw": {
+        "movies": [
+            "Beauty and the Beast (2017)"
         ]
     },
     "Guy Pearce": {
@@ -5753,7 +5801,8 @@ var actorMap = {
     },
     "Hayden Panettiere": {
         "movies": [
-            "Message in a Bottle (1999)"
+            "Message in a Bottle (1999)",
+            "Remember the Titans (2000)"
         ]
     },
     "Hayley Atwell": {
@@ -5849,6 +5898,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Prince of Egypt (1998)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Red (2010)",
             "Red 2 (2013)"
@@ -6079,7 +6129,8 @@ var actorMap = {
             "The Hobbit: The Desolation of Smaug (2013)",
             "X-Men: Days of Future Past (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
-            "Mr. Holmes (2015)"
+            "Mr. Holmes (2015)",
+            "Beauty and the Beast (2017)"
         ]
     },
     "Ian McShane": {
@@ -6090,6 +6141,11 @@ var actorMap = {
             "Hercules (2014)",
             "John Wick (2014)",
             "Hellboy (2019)"
+        ]
+    },
+    "Ice Cube": {
+        "movies": [
+            "Boyz n the Hood (1991)"
         ]
     },
     "Idina Menzel": {
@@ -7080,6 +7136,7 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "Jurassic Park (1993)",
+            "The Prince of Egypt (1998)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Thor: Ragnarok (2017)"
         ]
@@ -7122,6 +7179,11 @@ var actorMap = {
     "Jenna Coleman": {
         "movies": [
             "Captain America: The First Avenger (2011)"
+        ]
+    },
+    "Jennifer Aniston": {
+        "movies": [
+            "Rumor Has It (2005)"
         ]
     },
     "Jennifer Connelly": {
@@ -7709,7 +7771,8 @@ var actorMap = {
     "Joel McHale": {
         "movies": [
             "Spider-Man 2 (2004)",
-            "What's Your Number? (2011)"
+            "What's Your Number? (2011)",
+            "Ted (2012)"
         ]
     },
     "Joey King": {
@@ -7931,6 +7994,11 @@ var actorMap = {
         "movies": [
             "The Deer Hunter (1978)",
             "Message in a Bottle (1999)"
+        ]
+    },
+    "John Singleton": {
+        "movies": [
+            "Boyz n the Hood (1991)"
         ]
     },
     "John Slattery": {
@@ -8215,6 +8283,7 @@ var actorMap = {
     },
     "Josh Gad": {
         "movies": [
+            "Beauty and the Beast (2017)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -8637,6 +8706,7 @@ var actorMap = {
     },
     "Kate Bosworth": {
         "movies": [
+            "Remember the Titans (2000)",
             "Superman Returns (2006)"
         ]
     },
@@ -8830,6 +8900,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Rumor Has It (2005)",
             "Valentine's Day (2010)"
         ]
     },
@@ -9028,6 +9099,7 @@ var actorMap = {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)",
             "Message in a Bottle (1999)",
+            "Rumor Has It (2005)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)"
         ]
@@ -9056,7 +9128,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Chaplin (1992)"
+            "Chaplin (1992)",
+            "Beauty and the Beast (2017)"
         ]
     },
     "Kevin McDonald": {
@@ -9439,6 +9512,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Boyz n the Hood (1991)",
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Man of Steel (2013)",
@@ -9843,7 +9917,8 @@ var actorMap = {
         "movies": [
             "The Three Musketeers (2011)",
             "The Hobbit: The Desolation of Smaug (2013)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Beauty and the Beast (2017)"
         ]
     },
     "Luke Goss": {
@@ -10285,6 +10360,7 @@ var actorMap = {
         ],
         "movies": [
             "13 Going on 30 (2004)",
+            "Rumor Has It (2005)",
             "Zodiac (2007)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
@@ -10327,6 +10403,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ted (2012)",
             "2 Guns (2013)"
         ]
     },
@@ -10462,7 +10539,8 @@ var actorMap = {
     },
     "Martin Short": {
         "movies": [
-            "Three Amigos (1986)"
+            "Three Amigos (1986)",
+            "The Prince of Egypt (1998)"
         ]
     },
     "Martin Starr": {
@@ -10605,6 +10683,11 @@ var actorMap = {
         "movies": [
             "Alice in Wonderland (2010)",
             "Polar (2019)"
+        ]
+    },
+    "Matt Walsh": {
+        "movies": [
+            "Ted (2012)"
         ]
     },
     "Matthew Broderick": {
@@ -10802,6 +10885,11 @@ var actorMap = {
         ],
         "movies": [
             "The Kitchen (2019)"
+        ]
+    },
+    "Mena Suvari": {
+        "movies": [
+            "Rumor Has It (2005)"
         ]
     },
     "Meng'er Zhang": {
@@ -11292,6 +11380,7 @@ var actorMap = {
         ],
         "movies": [
             "Batman Returns (1992)",
+            "The Prince of Egypt (1998)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -11370,6 +11459,11 @@ var actorMap = {
     "Mikey Kelley": {
         "movies": [
             "TMNT (2007)"
+        ]
+    },
+    "Mila Kunis": {
+        "movies": [
+            "Ted (2012)"
         ]
     },
     "Miles Teller": {
@@ -11520,6 +11614,7 @@ var actorMap = {
     },
     "Morris Chestnut": {
         "movies": [
+            "Boyz n the Hood (1991)",
             "The Best Man (1999)",
             "Kick-Ass 2 (2013)"
         ]
@@ -11695,6 +11790,7 @@ var actorMap = {
     },
     "Nia Long": {
         "movies": [
+            "Boyz n the Hood (1991)",
             "The Best Man (1999)"
         ]
     },
@@ -12164,12 +12260,14 @@ var actorMap = {
             "Star Trek Generations (1994)",
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
+            "The Prince of Egypt (1998)",
             "X-Men (2000)",
             "Star Trek: Nemesis (2002)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "TMNT (2007)",
             "X-Men Origins: Wolverine (2009)",
+            "Ted (2012)",
             "X-Men: Days of Future Past (2014)",
             "Logan (2017)"
         ]
@@ -12177,7 +12275,8 @@ var actorMap = {
     "Patrick Warburton": {
         "movies": [
             "Men in Black II (2002)",
-            "Sky High (2005)"
+            "Sky High (2005)",
+            "Ted (2012)"
         ]
     },
     "Patrick Wilson": {
@@ -12768,6 +12867,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Prince of Egypt (1998)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
@@ -12930,6 +13030,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Boyz n the Hood (1991)",
             "Ray (2004)"
         ]
     },
@@ -13120,6 +13221,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Rumor Has It (2005)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -13687,11 +13789,15 @@ var actorMap = {
                 "movie": "La La Land",
                 "year": "2016"
             }
+        ],
+        "movies": [
+            "Remember the Titans (2000)"
         ]
     },
     "Ryan Hurst": {
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "Remember the Titans (2000)"
         ]
     },
     "Ryan Phillippe": {
@@ -13710,6 +13816,7 @@ var actorMap = {
             "Blade: Trinity (2004)",
             "X-Men Origins: Wolverine (2009)",
             "Green Lantern (2011)",
+            "Ted (2012)",
             "R.I.P.D. (2013)",
             "Deadpool (2016)",
             "Deadpool 2 (2018)"
@@ -13827,6 +13934,11 @@ var actorMap = {
     "Sam Huntington": {
         "movies": [
             "Superman Returns (2006)"
+        ]
+    },
+    "Sam J. Jones": {
+        "movies": [
+            "Ted (2012)"
         ]
     },
     "Sam Neill": {
@@ -13960,6 +14072,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Prince of Egypt (1998)",
             "The Lake House (2006)",
             "Gravity (2013)"
         ]
@@ -14205,7 +14318,8 @@ var actorMap = {
     },
     "Seth MacFarlane": {
         "movies": [
-            "Hellboy II: The Golden Army (2008)"
+            "Hellboy II: The Golden Army (2008)",
+            "Ted (2012)"
         ]
     },
     "Seth Rogen": {
@@ -14329,6 +14443,7 @@ var actorMap = {
         ],
         "movies": [
             "Terms of Endearment (1983)",
+            "Rumor Has It (2005)",
             "Valentine's Day (2010)"
         ]
     },
@@ -14588,6 +14703,7 @@ var actorMap = {
             "Road to Perdition (2002)",
             "The Terminal (2004)",
             "Captain America: The First Avenger (2011)",
+            "Beauty and the Beast (2017)",
             "The King's Man (2021)"
         ]
     },
@@ -14721,7 +14837,8 @@ var actorMap = {
     },
     "Steve Martin": {
         "movies": [
-            "Three Amigos (1986)"
+            "Three Amigos (1986)",
+            "The Prince of Egypt (1998)"
         ]
     },
     "Steve McQueen": {
@@ -14902,6 +15019,7 @@ var actorMap = {
     },
     "Tara Strong": {
         "movies": [
+            "Ted (2012)",
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
@@ -14948,7 +15066,8 @@ var actorMap = {
     },
     "Ted Danson": {
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "Ted (2012)"
         ]
     },
     "Temuera Morrison": {
@@ -15373,6 +15492,11 @@ var actorMap = {
             "Saving Private Ryan (1998)"
         ]
     },
+    "Tom Skerritt": {
+        "movies": [
+            "Ted (2012)"
+        ]
+    },
     "Tom Waits": {
         "movies": [
             "Mystery Men (1999)"
@@ -15639,6 +15763,7 @@ var actorMap = {
     "Val Kilmer": {
         "movies": [
             "Batman Forever (1995)",
+            "The Prince of Egypt (1998)",
             "Alexander (2004)"
         ]
     },
@@ -16004,6 +16129,7 @@ var actorMap = {
     },
     "Will Patton": {
         "movies": [
+            "Remember the Titans (2000)",
             "The Punisher (2004)"
         ]
     },
@@ -16186,6 +16312,7 @@ var actorMap = {
     },
     "Wood Harris": {
         "movies": [
+            "Remember the Titans (2000)",
             "Dredd (2012)",
             "Ant-Man (2015)"
         ]

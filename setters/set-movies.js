@@ -32426,6 +32426,16 @@ var movieMap = {
             "Ice Cube",
             "John Singleton",
             "Reginas"
+        ],
+        "cast": [
+            "Angela Bassett",
+            "Cuba Gooding Jr.",
+            "Ice Cube",
+            "John Singleton",
+            "Laurence Fishburne",
+            "Morris Chestnut",
+            "Nia Long",
+            "Regina King"
         ]
     },
     "Point Break (1991)": {
@@ -49931,6 +49941,19 @@ var movieMap = {
             "DreamWorks Animation",
             "Michelle Pfeiffer",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Brenda Chapman",
+            "Danny Glover",
+            "Helen Mirren",
+            "Jeff Goldblum",
+            "Martin Short",
+            "Michelle Pfeiffer",
+            "Patrick Stewart",
+            "Ralph Fiennes",
+            "Sandra Bullock",
+            "Steve Martin",
+            "Val Kilmer"
         ]
     },
     "You've Got Mail (1998)": {
@@ -54159,6 +54182,17 @@ var movieMap = {
             "Denzel Washington",
             "Dramas",
             "Sports"
+        ],
+        "cast": [
+            "Denzel Washington",
+            "Donald Faison",
+            "Ethan Suplee",
+            "Hayden Panettiere",
+            "Kate Bosworth",
+            "Ryan Gosling",
+            "Ryan Hurst",
+            "Will Patton",
+            "Wood Harris"
         ]
     },
     "Bamboozled (2000)": {
@@ -69190,6 +69224,17 @@ var movieMap = {
             "Jennifer Aniston",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Christopher McDonald",
+            "George Hamilton",
+            "Jennifer Aniston",
+            "Kathy Bates",
+            "Kevin Costner",
+            "Mark Ruffalo",
+            "Mena Suvari",
+            "Richard Jenkins",
+            "Shirley MacLaine"
         ]
     },
     "Match Point (2005)": {
@@ -88884,6 +88929,22 @@ var movieMap = {
         "categories": [
             "2010s",
             "Comedies"
+        ],
+        "cast": [
+            "Alex Borstein",
+            "Giovanni Ribisi",
+            "Joel McHale",
+            "Mark Wahlberg",
+            "Matt Walsh",
+            "Mila Kunis",
+            "Patrick Stewart",
+            "Patrick Warburton",
+            "Ryan Reynolds",
+            "Sam J. Jones",
+            "Seth MacFarlane",
+            "Tara Strong",
+            "Ted Danson",
+            "Tom Skerritt"
         ]
     },
     "The Amazing Spider-Man (2012)": {
@@ -96118,6 +96179,13 @@ var movieMap = {
         "categories": [
             "2010s",
             "Biopics"
+        ],
+        "cast": [
+            "Charlie Cox",
+            "David Thewlis",
+            "Eddie Redmayne",
+            "Emily Watson",
+            "Felicity Jones"
         ]
     },
     "Dumb and Dumber To (2014)": {
@@ -104036,6 +104104,19 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Remakes & Reboots",
+            "Stanley Tucci"
+        ],
+        "cast": [
+            "Audra McDonald",
+            "Dan Stevens",
+            "Emma Thompson",
+            "Emma Watson",
+            "Ewan McGregor",
+            "Gugu Mbatha-Raw",
+            "Ian McKellen",
+            "Josh Gad",
+            "Kevin Kline",
+            "Luke Evans",
             "Stanley Tucci"
         ]
     },
