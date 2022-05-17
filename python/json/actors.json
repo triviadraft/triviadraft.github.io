@@ -515,6 +515,9 @@
                 "movie": "I, Tonya",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Juno (2007)"
         ]
     },
     "Ally Sheedy": {
@@ -1193,6 +1196,11 @@
             "Ray (2004)"
         ]
     },
+    "Austin Stowell": {
+        "movies": [
+            "Whiplash (2014)"
+        ]
+    },
     "Awkwafina": {
         "movies": [
             "Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -1423,7 +1431,8 @@
     "Bernard Hill": {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
-            "The Lord of the Rings: The Return of the King (2003)"
+            "The Lord of the Rings: The Return of the King (2003)",
+            "Wimbledon (2004)"
         ]
     },
     "Bette Davis": {
@@ -1759,6 +1768,7 @@
             }
         ],
         "movies": [
+            "Mississippi Burning (1988)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Priest (2011)"
         ]
@@ -4475,6 +4485,7 @@
         ],
         "movies": [
             "X-Men: The Last Stand (2006)",
+            "Juno (2007)",
             "X-Men: Days of Future Past (2014)"
         ]
     },
@@ -4947,6 +4958,7 @@
             }
         ],
         "movies": [
+            "Mississippi Burning (1988)",
             "Almost Famous (2000)",
             "Something's Gotta Give (2003)"
         ]
@@ -5011,6 +5023,11 @@
             "TMNT (2007)",
             "Alice in Wonderland (2010)",
             "The Grinch (2018)"
+        ]
+    },
+    "Frankie Faison": {
+        "movies": [
+            "Mississippi Burning (1988)"
         ]
     },
     "Fran\u00e7ois Chau": {
@@ -5244,7 +5261,8 @@
         "movies": [
             "Superman (1978)",
             "Superman II (1981)",
-            "Superman IV: The Quest for Peace (1987)"
+            "Superman IV: The Quest for Peace (1987)",
+            "Mississippi Burning (1988)"
         ]
     },
     "Gene Wilder": {
@@ -6249,6 +6267,8 @@
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "Juno (2007)",
+            "Whiplash (2014)",
             "Justice League (2017)",
             "Spider-Man: Far From Home (2019)",
             "Zack Snyder's Justice League (2021)",
@@ -6640,6 +6660,7 @@
     },
     "James McAvoy": {
         "movies": [
+            "Wimbledon (2004)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "Atonement (2007)",
             "Wanted (2008)",
@@ -6868,6 +6889,7 @@
     },
     "Jason Bateman": {
         "movies": [
+            "Juno (2007)",
             "Tropic Thunder (2008)"
         ]
     },
@@ -7129,6 +7151,7 @@
             "Daredevil (2003)",
             "13 Going on 30 (2004)",
             "Elektra (2005)",
+            "Juno (2007)",
             "Valentine's Day (2010)"
         ]
     },
@@ -8024,6 +8047,7 @@
             "Made (2001)",
             "Daredevil (2003)",
             "Something's Gotta Give (2003)",
+            "Wimbledon (2004)",
             "Iron Man (2008)",
             "Four Christmases (2008)",
             "Iron Man 2 (2010)",
@@ -9010,6 +9034,7 @@
     },
     "Kevin Dunn": {
         "movies": [
+            "Mississippi Burning (1988)",
             "Chaplin (1992)"
         ]
     },
@@ -9149,6 +9174,7 @@
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Wimbledon (2004)",
             "Elizabethtown (2005)",
             "Spider-Man 3 (2007)"
         ]
@@ -10729,6 +10755,11 @@
             }
         ]
     },
+    "Melissa Benoist": {
+        "movies": [
+            "Whiplash (2014)"
+        ]
+    },
     "Melissa De Sousa": {
         "movies": [
             "The Best Man (1999)"
@@ -10974,6 +11005,7 @@
     },
     "Michael Cera": {
         "movies": [
+            "Juno (2007)",
             "Scott Pilgrim vs. the World (2010)",
             "The Lego Batman Movie (2017)"
         ]
@@ -11176,6 +11208,7 @@
     },
     "Michael Rooker": {
         "movies": [
+            "Mississippi Burning (1988)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "The Suicide Squad (2021)"
@@ -11341,6 +11374,7 @@
     },
     "Miles Teller": {
         "movies": [
+            "Whiplash (2014)",
             "Fantastic Four (2015)"
         ]
     },
@@ -11804,6 +11838,7 @@
     },
     "Nikolaj Coster-Waldau": {
         "movies": [
+            "Wimbledon (2004)",
             "Firewall (2006)",
             "Oblivion (2013)"
         ]
@@ -11968,6 +12003,7 @@
     },
     "Olivia Thirlby": {
         "movies": [
+            "Juno (2007)",
             "Dredd (2012)"
         ]
     },
@@ -12162,6 +12198,7 @@
     "Paul Bettany": {
         "movies": [
             "A Knight's Tale (2001)",
+            "Wimbledon (2004)",
             "Firewall (2006)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
@@ -12258,6 +12295,11 @@
                 "movie": "Sound of Metal",
                 "year": "2020"
             }
+        ]
+    },
+    "Paul Reiser": {
+        "movies": [
+            "Whiplash (2014)"
         ]
     },
     "Paul Reubens": {
@@ -12640,6 +12682,7 @@
     },
     "R. Lee Ermey": {
         "movies": [
+            "Mississippi Burning (1988)",
             "X-Men: The Last Stand (2006)"
         ]
     },
@@ -12707,7 +12750,8 @@
     "Rainn Wilson": {
         "movies": [
             "Galaxy Quest (1999)",
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Juno (2007)"
         ]
     },
     "Ralph Fiennes": {
@@ -13788,6 +13832,7 @@
     "Sam Neill": {
         "movies": [
             "Jurassic Park (1993)",
+            "Wimbledon (2004)",
             "Thor: Ragnarok (2017)"
         ]
     },
@@ -14631,6 +14676,11 @@
             "V for Vendetta (2006)"
         ]
     },
+    "Stephen Tobolowsky": {
+        "movies": [
+            "Mississippi Burning (1988)"
+        ]
+    },
     "Sterling Hayden": {
         "movies": [
             "9 to 5 (1980)"
@@ -15164,6 +15214,11 @@
             "Spider-Man 3 (2007)",
             "Tropic Thunder (2008)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Tobin Bell": {
+        "movies": [
+            "Mississippi Burning (1988)"
         ]
     },
     "Toby Jones": {
@@ -16006,6 +16061,7 @@
             }
         ],
         "movies": [
+            "Mississippi Burning (1988)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
