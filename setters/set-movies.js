@@ -27269,6 +27269,13 @@ var movieMap = {
             "Action/Adventure",
             "Bruce Willis",
             "Holiday"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Bonnie Bedelia",
+            "Bruce Willis",
+            "Reginald VelJohnson",
+            "William Atherton"
         ]
     },
     "Midnight Run (1988)": {
@@ -35153,6 +35160,21 @@ var movieMap = {
             "1990s",
             "Biopics",
             "Dramas",
+            "Robert Downey Jr."
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Dan Aykroyd",
+            "David Duchovny",
+            "Diane Lane",
+            "Geraldine Chaplin",
+            "James Woods",
+            "Kevin Dunn",
+            "Kevin Kline",
+            "Marisa Tomei",
+            "Milla Jovovich",
+            "Nancy Travis",
+            "Penelope Ann Miller",
             "Robert Downey Jr."
         ]
     },
@@ -55893,6 +55915,16 @@ var movieMap = {
         "categories": [
             "2000s",
             "Frat Pack"
+        ],
+        "cast": [
+            "Faizon Love",
+            "Famke Janssen",
+            "Jon Favreau",
+            "P. Diddy",
+            "Peter Falk",
+            "Sam Rockwell",
+            "Vince Vaughn",
+            "Vincent Pastore"
         ]
     },
     "The Score (2001)": {
@@ -64373,6 +64405,16 @@ var movieMap = {
             "Stanley Tucci",
             "Steven Spielberg",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Barry Shabaka Henley",
+            "Catherine Zeta-Jones",
+            "Chi McBride",
+            "Diego Luna",
+            "Scott Adsit",
+            "Stanley Tucci",
+            "Tom Hanks",
+            "Zoe Saldana"
         ]
     },
     "White Chicks (2004)": {
@@ -65415,6 +65457,20 @@ var movieMap = {
             "Black Cinema",
             "Dramas",
             "Reginas"
+        ],
+        "cast": [
+            "Aunjanue Ellis",
+            "Bokeem Woodbine",
+            "Clifton Powell",
+            "Curtis Armstrong",
+            "David Krumholtz",
+            "Harry Lennix",
+            "Jamie Foxx",
+            "Kerry Washington",
+            "Larenz Tate",
+            "Regina King",
+            "Terrence Howard",
+            "Warwick Davis"
         ]
     },
     "Saw (2004)": {
@@ -68605,6 +68661,7 @@ var movieMap = {
             "David Bradley",
             "David Tennant",
             "Emma Watson",
+            "Frances de la Tour",
             "Gary Oldman",
             "James Phelps",
             "Jason Isaacs",
@@ -72621,6 +72678,20 @@ var movieMap = {
             "Gyllenhaals",
             "Horror/Thriller",
             "Robert Downey Jr."
+        ],
+        "cast": [
+            "Anthony Edwards",
+            "Brian Cox",
+            "Chlo\u00eb Sevigny",
+            "Dermot Mulroney",
+            "Donal Logue",
+            "Elias Koteas",
+            "Jake Gyllenhaal",
+            "Jimmi Simpson",
+            "John Carroll Lynch",
+            "Mark Ruffalo",
+            "Philip Baker Hall",
+            "Robert Downey Jr."
         ]
     },
     "300 (2007)": {
@@ -75295,6 +75366,15 @@ var movieMap = {
             "Horror/Thriller",
             "Musicals",
             "Tim Burton"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Ed Sanders",
+            "Helena Bonham Carter",
+            "Jamie Campbell Bower",
+            "Johnny Depp",
+            "Sacha Baron Cohen",
+            "Timothy Spall"
         ]
     },
     "Walk Hard: The Dewey Cox Story (2007)": {
@@ -77024,6 +77104,32 @@ var movieMap = {
             "Frat Pack",
             "Robert Downey Jr.",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alicia Silverstone",
+            "Ben Stiller",
+            "Bill Hader",
+            "Brandon T. Jackson",
+            "Christine Taylor",
+            "Danny McBride",
+            "Jack Black",
+            "Jason Bateman",
+            "Jay Baruchel",
+            "Jennifer Love Hewitt",
+            "Jon Voight ",
+            "Justin Theroux",
+            "Lance Bass",
+            "Maria Menounos",
+            "Martin Lawrence",
+            "Matthew McConaughey",
+            "Nick Nolte",
+            "Robert Downey Jr.",
+            "Sean Penn",
+            "Steve Coogan",
+            "Tobey Maguire",
+            "Tom Cruise",
+            "Tyra Banks",
+            "Yvette Nicole Brown"
         ]
     },
     "Star Wars: The Clone Wars (2008)": {
@@ -78018,6 +78124,23 @@ var movieMap = {
             "Reese Witherspoon",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Brian Baumgartner",
+            "Carol Kane",
+            "Colleen Camp",
+            "Dwight Yoakam",
+            "Jon Favreau",
+            "Jon Voight",
+            "Kristin Chenoweth",
+            "Mary Steenburgen",
+            "Peter Billingsley",
+            "Reese Witherspoon",
+            "Robert Duvall",
+            "Sissy Spacek",
+            "Skyler Gisondo",
+            "Tim McGraw",
+            "Vince Vaughn"
         ]
     },
     "Milk (2008)": {
@@ -81025,6 +81148,14 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Giovanni Ribisi",
+            "Michelle Rodriguez",
+            "Sam Worthington",
+            "Sigourney Weaver",
+            "Stephen Lang",
+            "Zoe Saldana"
         ]
     },
     "Did You Hear About the Morgans? (2009)": {
@@ -81549,6 +81680,25 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Tim Burton"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Anne Hathaway",
+            "Christopher Lee",
+            "Crispin Glover",
+            "Frances de la Tour",
+            "Frank Welker",
+            "Helena Bonham Carter",
+            "Imelda Staunton",
+            "Jim Carter",
+            "Johnny Depp",
+            "Lindsay Duncan",
+            "Matt Lucas",
+            "Mia Wasikowska",
+            "Michael Gough",
+            "Michael Sheen",
+            "Stephen Fry",
+            "Timothy Spall"
         ]
     },
     "Green Zone (2010)": {

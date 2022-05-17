@@ -283,13 +283,16 @@
     },
     "Alan Rickman": {
         "movies": [
+            "Die Hard (1988)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Love Actually (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
+            "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
@@ -466,7 +469,8 @@
     },
     "Alicia Silverstone": {
         "movies": [
-            "Batman & Robin (1997)"
+            "Batman & Robin (1997)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Alicia Vikander": {
@@ -886,6 +890,7 @@
         ],
         "movies": [
             "Valentine's Day (2010)",
+            "Alice in Wonderland (2010)",
             "The Dark Knight Rises (2012)"
         ]
     },
@@ -954,6 +959,11 @@
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Anthony Edwards": {
+        "movies": [
+            "Zodiac (2007)"
+        ]
+    },
     "Anthony Hopkins": {
         "leadNoms": [
             {
@@ -984,6 +994,7 @@
             }
         ],
         "movies": [
+            "Chaplin (1992)",
             "The Mask of Zorro (1998)",
             "Alexander (2004)",
             "Thor (2011)",
@@ -1156,6 +1167,9 @@
                 "movie": "King Richard",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Ray (2004)"
         ]
     },
     "Awkwafina": {
@@ -1230,6 +1244,11 @@
     "Barry Pepper": {
         "movies": [
             "Saving Private Ryan (1998)"
+        ]
+    },
+    "Barry Shabaka Henley": {
+        "movies": [
+            "The Terminal (2004)"
         ]
     },
     "Beah Richards": {
@@ -1314,7 +1333,8 @@
     },
     "Ben Stiller": {
         "movies": [
-            "Mystery Men (1999)"
+            "Mystery Men (1999)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Benedict Cumberbatch": {
@@ -1468,6 +1488,7 @@
         "movies": [
             "Knocked Up (2007)",
             "Hot Rod (2007)",
+            "Tropic Thunder (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
             "Power Rangers (2017)"
@@ -1662,8 +1683,14 @@
     },
     "Bokeem Woodbine": {
         "movies": [
+            "Ray (2004)",
             "Spider-Man: Homecoming (2017)",
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Bonnie Bedelia": {
+        "movies": [
+            "Die Hard (1988)"
         ]
     },
     "Bonnie Wright": {
@@ -1787,6 +1814,11 @@
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Brandon T. Jackson": {
+        "movies": [
+            "Tropic Thunder (2008)"
+        ]
+    },
     "Brandy Norwood": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)"
@@ -1856,6 +1888,11 @@
             "The Florida Project (2017)"
         ]
     },
+    "Brian Baumgartner": {
+        "movies": [
+            "Four Christmases (2008)"
+        ]
+    },
     "Brian Blessed": {
         "movies": [
             "Alexander (2004)"
@@ -1864,6 +1901,7 @@
     "Brian Cox": {
         "movies": [
             "X2 (2003)",
+            "Zodiac (2007)",
             "Red (2010)",
             "Red 2 (2013)"
         ]
@@ -1996,6 +2034,7 @@
     },
     "Bruce Willis": {
         "movies": [
+            "Die Hard (1988)",
             "Unbreakable (2000)",
             "Sin City (2005)",
             "Surrogates (2009)",
@@ -2184,7 +2223,8 @@
     },
     "Carol Kane": {
         "movies": [
-            "Annie Hall (1977)"
+            "Annie Hall (1977)",
+            "Four Christmases (2008)"
         ]
     },
     "Carrie Coon": {
@@ -2332,6 +2372,7 @@
         ],
         "movies": [
             "The Mask of Zorro (1998)",
+            "The Terminal (2004)",
             "The Legend of Zorro (2005)",
             "Red 2 (2013)"
         ]
@@ -2472,6 +2513,11 @@
             "Three Amigos (1986)"
         ]
     },
+    "Chi McBride": {
+        "movies": [
+            "The Terminal (2004)"
+        ]
+    },
     "Chip Zien": {
         "movies": [
             "Howard the Duck (1986)"
@@ -2502,6 +2548,9 @@
                 "movie": "Boys Don't Cry",
                 "year": "1999"
             }
+        ],
+        "movies": [
+            "Zodiac (2007)"
         ]
     },
     "Chow Yun-fat": {
@@ -2651,6 +2700,11 @@
             "Cruel Intentions (1999)"
         ]
     },
+    "Christine Taylor": {
+        "movies": [
+            "Tropic Thunder (2008)"
+        ]
+    },
     "Christoph Waltz": {
         "suppNoms": [
             {
@@ -2689,6 +2743,7 @@
             "The Lord of the Rings: The Two Towers (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Clone Wars (2008)",
+            "Alice in Wonderland (2010)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
@@ -2845,6 +2900,11 @@
             "Superman II (1981)"
         ]
     },
+    "Clifton Powell": {
+        "movies": [
+            "Ray (2004)"
+        ]
+    },
     "Clint Eastwood": {
         "leadNoms": [
             {
@@ -2924,6 +2984,11 @@
             "Love Actually (2003)",
             "Kingsman: The Secret Service (2015)",
             "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Colleen Camp": {
+        "movies": [
+            "Four Christmases (2008)"
         ]
     },
     "Colm Feore": {
@@ -3016,12 +3081,22 @@
             "Incredibles 2 (2018)"
         ]
     },
+    "Crispin Glover": {
+        "movies": [
+            "Alice in Wonderland (2010)"
+        ]
+    },
     "Cuba Gooding Jr.": {
         "suppNoms": [
             {
                 "movie": "Jerry Maguire",
                 "year": "1996"
             }
+        ]
+    },
+    "Curtis Armstrong": {
+        "movies": [
+            "Ray (2004)"
         ]
     },
     "Cynthia Erivo": {
@@ -3084,6 +3159,7 @@
         ],
         "movies": [
             "Spies Like Us (1985)",
+            "Chaplin (1992)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -3257,7 +3333,8 @@
     },
     "Danny McBride": {
         "movies": [
-            "Hot Rod (2007)"
+            "Hot Rod (2007)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Danny Pudi": {
@@ -3351,6 +3428,11 @@
             "Power Rangers (2017)"
         ]
     },
+    "David Duchovny": {
+        "movies": [
+            "Chaplin (1992)"
+        ]
+    },
     "David F. Sandberg": {
         "movies": [
             "Shazam! (2019)"
@@ -3378,6 +3460,11 @@
     "David Kross": {
         "movies": [
             "The King's Man (2021)"
+        ]
+    },
+    "David Krumholtz": {
+        "movies": [
+            "Ray (2004)"
         ]
     },
     "David Leitch": {
@@ -3632,6 +3719,11 @@
             "Captain America: The First Avenger (2011)"
         ]
     },
+    "Dermot Mulroney": {
+        "movies": [
+            "Zodiac (2007)"
+        ]
+    },
     "Dev Patel": {
         "suppNoms": [
             {
@@ -3717,6 +3809,7 @@
             }
         ],
         "movies": [
+            "Chaplin (1992)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
@@ -3761,6 +3854,7 @@
     },
     "Diego Luna": {
         "movies": [
+            "The Terminal (2004)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -3888,7 +3982,8 @@
     "Donal Logue": {
         "movies": [
             "Blade (1998)",
-            "Ghost Rider (2007)"
+            "Ghost Rider (2007)",
+            "Zodiac (2007)"
         ]
     },
     "Donald Faison": {
@@ -3988,6 +4083,11 @@
             "Hercules (2014)"
         ]
     },
+    "Dwight Yoakam": {
+        "movies": [
+            "Four Christmases (2008)"
+        ]
+    },
     "Dylan Baker": {
         "movies": [
             "Road to Perdition (2002)",
@@ -4036,6 +4136,11 @@
             "Places in the Heart (1984)",
             "A History of Violence (2005)",
             "Gravity (2013)"
+        ]
+    },
+    "Ed Sanders": {
+        "movies": [
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)"
         ]
     },
     "Ed Sheeran": {
@@ -4173,7 +4278,8 @@
     "Elias Koteas": {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
-            "Teenage Mutant Ninja Turtles III (1993)"
+            "Teenage Mutant Ninja Turtles III (1993)",
+            "Zodiac (2007)"
         ]
     },
     "Elijah Kelley": {
@@ -4653,6 +4759,11 @@
             "Shazam! (2019)"
         ]
     },
+    "Faizon Love": {
+        "movies": [
+            "Made (2001)"
+        ]
+    },
     "Fala Chen": {
         "movies": [
             "Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -4661,6 +4772,7 @@
     "Famke Janssen": {
         "movies": [
             "X-Men (2000)",
+            "Made (2001)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "X-Men: Days of Future Past (2014)"
@@ -4793,6 +4905,8 @@
     },
     "Frances de la Tour": {
         "movies": [
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Mr. Holmes (2015)",
             "Dolittle (2020)"
@@ -4846,7 +4960,8 @@
             "Star Trek III: The Search for Spock (1984)",
             "The Return of Swamp Thing (1989)",
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "Alice in Wonderland (2010)"
         ]
     },
     "Fran\u00e7ois Chau": {
@@ -5201,6 +5316,11 @@
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
         ]
     },
+    "Geraldine Chaplin": {
+        "movies": [
+            "Chaplin (1992)"
+        ]
+    },
     "Gerard Butler": {
         "movies": [
             "300 (2007)",
@@ -5214,7 +5334,8 @@
     },
     "Giovanni Ribisi": {
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "Avatar (2009)"
         ]
     },
     "Gladys Cooper": {
@@ -5518,6 +5639,7 @@
     },
     "Harry Lennix": {
         "movies": [
+            "Ray (2004)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Zack Snyder's Justice League (2021)"
@@ -5678,7 +5800,9 @@
         ],
         "movies": [
             "Harry Potter and the Order of the Phoenix (2007)",
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
+            "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
@@ -5937,6 +6061,7 @@
         "movies": [
             "Shakespeare in Love (1998)",
             "Harry Potter and the Order of the Phoenix (2007)",
+            "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
@@ -6080,7 +6205,8 @@
         "movies": [
             "I Still Know What You Did Last Summer (1998)",
             "The Holiday (2006)",
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Jack Davenport": {
@@ -6313,6 +6439,7 @@
             }
         ],
         "movies": [
+            "Zodiac (2007)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -6544,6 +6671,9 @@
                 "movie": "Ghosts of Mississippi",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "Chaplin (1992)"
         ]
     },
     "Jamie Bell": {
@@ -6554,6 +6684,7 @@
     },
     "Jamie Campbell Bower": {
         "movies": [
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
@@ -6578,6 +6709,7 @@
             }
         ],
         "movies": [
+            "Ray (2004)",
             "Valentine's Day (2010)",
             "The Amazing Spider-Man 2 (2014)",
             "Project Power (2020)",
@@ -6677,6 +6809,11 @@
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Jason Bateman": {
+        "movies": [
+            "Tropic Thunder (2008)"
+        ]
+    },
     "Jason Flemyng": {
         "movies": [
             "From Hell (2001)",
@@ -6771,6 +6908,7 @@
         "movies": [
             "Almost Famous (2000)",
             "Knocked Up (2007)",
+            "Tropic Thunder (2008)",
             "RoboCop (2014)"
         ]
     },
@@ -6992,7 +7130,8 @@
     "Jennifer Love Hewitt": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
-            "I Still Know What You Did Last Summer (1998)"
+            "I Still Know What You Did Last Summer (1998)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Jennifer Morrison": {
@@ -7234,13 +7373,19 @@
     },
     "Jim Carter": {
         "movies": [
-            "Shakespeare in Love (1998)"
+            "Shakespeare in Love (1998)",
+            "Alice in Wonderland (2010)"
         ]
     },
     "Jim Rash": {
         "movies": [
             "Sky High (2005)",
             "Captain America: Civil War (2016)"
+        ]
+    },
+    "Jimmi Simpson": {
+        "movies": [
+            "Zodiac (2007)"
         ]
     },
     "Jimmy Bennett": {
@@ -7523,6 +7668,11 @@
             "Spaceballs (1987)"
         ]
     },
+    "John Carroll Lynch": {
+        "movies": [
+            "Zodiac (2007)"
+        ]
+    },
     "John Cazale": {
         "movies": [
             "The Deer Hunter (1978)"
@@ -7771,6 +7921,8 @@
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+            "Alice in Wonderland (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
@@ -7809,9 +7961,11 @@
     "Jon Favreau": {
         "movies": [
             "Batman Forever (1995)",
+            "Made (2001)",
             "Daredevil (2003)",
             "Something's Gotta Give (2003)",
             "Iron Man (2008)",
+            "Four Christmases (2008)",
             "Iron Man 2 (2010)",
             "John Carter (2012)",
             "Iron Man 3 (2013)",
@@ -7855,7 +8009,13 @@
             }
         ],
         "movies": [
+            "Four Christmases (2008)",
             "Fantastic Beasts and Where to Find Them (2016)"
+        ]
+    },
+    "Jon Voight ": {
+        "movies": [
+            "Tropic Thunder (2008)"
         ]
     },
     "Jonah Hill": {
@@ -8328,6 +8488,7 @@
     },
     "Justin Theroux": {
         "movies": [
+            "Tropic Thunder (2008)",
             "Star Wars: The Last Jedi (2017)",
             "Joker (2019)"
         ]
@@ -8742,6 +8903,7 @@
     },
     "Kerry Washington": {
         "movies": [
+            "Ray (2004)",
             "Fantastic Four (2005)",
             "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
@@ -8769,6 +8931,11 @@
             "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
+    "Kevin Dunn": {
+        "movies": [
+            "Chaplin (1992)"
+        ]
+    },
     "Kevin Durand": {
         "movies": [
             "X-Men Origins: Wolverine (2009)"
@@ -8785,6 +8952,9 @@
                 "movie": "A Fish Called Wanda",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "Chaplin (1992)"
         ]
     },
     "Kevin McDonald": {
@@ -8957,6 +9127,7 @@
     },
     "Kristin Chenoweth": {
         "movies": [
+            "Four Christmases (2008)",
             "Strange Magic (2015)"
         ]
     },
@@ -9024,6 +9195,11 @@
             "X-Men: Apocalypse (2016)"
         ]
     },
+    "Lance Bass": {
+        "movies": [
+            "Tropic Thunder (2008)"
+        ]
+    },
     "Lance Reddick": {
         "movies": [
             "Jonah Hex (2010)",
@@ -9042,6 +9218,7 @@
     },
     "Larenz Tate": {
         "movies": [
+            "Ray (2004)",
             "Girls Trip (2017)"
         ]
     },
@@ -9443,7 +9620,8 @@
     },
     "Lindsay Duncan": {
         "movies": [
-            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Alice in Wonderland (2010)"
         ]
     },
     "Lindsay Lohan": {
@@ -9866,7 +10044,8 @@
     },
     "Maria Menounos": {
         "movies": [
-            "Fantastic Four (2005)"
+            "Fantastic Four (2005)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Mariah Carey": {
@@ -9949,6 +10128,7 @@
             }
         ],
         "movies": [
+            "Chaplin (1992)",
             "Captain America: Civil War (2016)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Endgame (2019)",
@@ -10000,6 +10180,7 @@
             }
         ],
         "movies": [
+            "Zodiac (2007)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
             "Avengers: Age of Ultron (2015)",
@@ -10161,6 +10342,11 @@
             }
         ]
     },
+    "Martin Lawrence": {
+        "movies": [
+            "Tropic Thunder (2008)"
+        ]
+    },
     "Martin Sheen": {
         "movies": [
             "The Amazing Spider-Man (2012)"
@@ -10233,6 +10419,11 @@
             }
         ]
     },
+    "Mary Steenburgen": {
+        "movies": [
+            "Four Christmases (2008)"
+        ]
+    },
     "Mary-Louise Parker": {
         "movies": [
             "Red (2010)",
@@ -10301,6 +10492,7 @@
     },
     "Matt Lucas": {
         "movies": [
+            "Alice in Wonderland (2010)",
             "Polar (2019)"
         ]
     },
@@ -10345,7 +10537,8 @@
             }
         ],
         "movies": [
-            "Dazed and Confused (1993)"
+            "Dazed and Confused (1993)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Matthew Modine": {
@@ -10625,6 +10818,11 @@
             "Timecop (1994)"
         ]
     },
+    "Mia Wasikowska": {
+        "movies": [
+            "Alice in Wonderland (2010)"
+        ]
+    },
     "Michael Angarano": {
         "movies": [
             "Almost Famous (2000)",
@@ -10795,7 +10993,8 @@
             "Batman (1989)",
             "Batman Returns (1992)",
             "Batman Forever (1995)",
-            "Batman & Robin (1997)"
+            "Batman & Robin (1997)",
+            "Alice in Wonderland (2010)"
         ]
     },
     "Michael Graham Cox": {
@@ -10925,6 +11124,7 @@
     },
     "Michael Sheen": {
         "movies": [
+            "Alice in Wonderland (2010)",
             "Dolittle (2020)"
         ]
     },
@@ -10975,6 +11175,11 @@
             "Batman Returns (1992)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Michelle Rodriguez": {
+        "movies": [
+            "Avatar (2009)"
         ]
     },
     "Michelle Trachtenberg": {
@@ -11060,6 +11265,7 @@
     },
     "Milla Jovovich": {
         "movies": [
+            "Chaplin (1992)",
             "Dazed and Confused (1993)",
             "The Three Musketeers (2011)",
             "Hellboy (2019)"
@@ -11221,6 +11427,11 @@
     "Nancy Allen": {
         "movies": [
             "Carrie (1976)"
+        ]
+    },
+    "Nancy Travis": {
+        "movies": [
+            "Chaplin (1992)"
         ]
     },
     "Naomi Ackie": {
@@ -11418,7 +11629,8 @@
             }
         ],
         "movies": [
-            "Hulk (2003)"
+            "Hulk (2003)",
+            "Tropic Thunder (2008)"
         ]
     },
     "Nick Offerman": {
@@ -11739,6 +11951,11 @@
             "How Do You Know (2010)"
         ]
     },
+    "P. Diddy": {
+        "movies": [
+            "Made (2001)"
+        ]
+    },
     "P. J. Soles": {
         "movies": [
             "Carrie (1976)",
@@ -12022,6 +12239,11 @@
             "Wonder Woman 1984 (2020)"
         ]
     },
+    "Penelope Ann Miller": {
+        "movies": [
+            "Chaplin (1992)"
+        ]
+    },
     "Pen\u00e9lope Cruz": {
         "leadNoms": [
             {
@@ -12080,6 +12302,7 @@
     "Peter Billingsley": {
         "movies": [
             "Iron Man (2008)",
+            "Four Christmases (2008)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -12098,6 +12321,11 @@
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "X-Men: Days of Future Past (2014)",
             "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Peter Falk": {
+        "movies": [
+            "Made (2001)"
         ]
     },
     "Peter Fonda": {
@@ -12227,6 +12455,11 @@
     "Phil Hartman": {
         "movies": [
             "Three Amigos (1986)"
+        ]
+    },
+    "Philip Baker Hall": {
+        "movies": [
+            "Zodiac (2007)"
         ]
     },
     "Philip Seymour Hoffman": {
@@ -12522,6 +12755,7 @@
         ],
         "movies": [
             "Cruel Intentions (1999)",
+            "Four Christmases (2008)",
             "How Do You Know (2010)"
         ]
     },
@@ -12543,6 +12777,14 @@
                 "movie": "If Beale Street Could Talk",
                 "year": "2018"
             }
+        ],
+        "movies": [
+            "Ray (2004)"
+        ]
+    },
+    "Reginald VelJohnson": {
+        "movies": [
+            "Die Hard (1988)"
         ]
     },
     "Reid Scott": {
@@ -12876,8 +13118,11 @@
             }
         ],
         "movies": [
+            "Chaplin (1992)",
+            "Zodiac (2007)",
             "Iron Man (2008)",
             "The Incredible Hulk (2008)",
+            "Tropic Thunder (2008)",
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
@@ -12921,6 +13166,9 @@
                 "movie": "The Judge",
                 "year": "2014"
             }
+        ],
+        "movies": [
+            "Four Christmases (2008)"
         ]
     },
     "Robert Forster": {
@@ -13311,6 +13559,9 @@
                 "movie": "The Trial of the Chicago 7",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)"
         ]
     },
     "Sally Field": {
@@ -13446,6 +13697,7 @@
         ],
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
+            "Made (2001)",
             "Moon (2009)",
             "Iron Man 2 (2010)",
             "Cowboys & Aliens (2011)",
@@ -13455,6 +13707,11 @@
     "Sam Witwer": {
         "movies": [
             "Solo: A Star Wars Story (2018)"
+        ]
+    },
+    "Sam Worthington": {
+        "movies": [
+            "Avatar (2009)"
         ]
     },
     "Samantha Morton": {
@@ -13640,6 +13897,7 @@
     },
     "Scott Adsit": {
         "movies": [
+            "The Terminal (2004)",
             "Big Hero 6 (2014)"
         ]
     },
@@ -13714,6 +13972,9 @@
                 "movie": "Milk",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "Tropic Thunder (2008)"
         ]
     },
     "Sean Young": {
@@ -13954,6 +14215,7 @@
         ],
         "movies": [
             "Annie Hall (1977)",
+            "Avatar (2009)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -14013,7 +14275,8 @@
         ],
         "movies": [
             "Carrie (1976)",
-            "Hot Rod (2007)"
+            "Hot Rod (2007)",
+            "Four Christmases (2008)"
         ]
     },
     "Skandar Keynes": {
@@ -14030,6 +14293,7 @@
     },
     "Skyler Gisondo": {
         "movies": [
+            "Four Christmases (2008)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)"
         ]
@@ -14147,6 +14411,7 @@
         ],
         "movies": [
             "Road to Perdition (2002)",
+            "The Terminal (2004)",
             "Captain America: The First Avenger (2011)",
             "The King's Man (2021)"
         ]
@@ -14194,6 +14459,7 @@
     "Stephen Fry": {
         "movies": [
             "V for Vendetta (2006)",
+            "Alice in Wonderland (2010)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
@@ -14208,6 +14474,7 @@
     },
     "Stephen Lang": {
         "movies": [
+            "Avatar (2009)",
             "Conan the Barbarian (2011)"
         ]
     },
@@ -14264,6 +14531,11 @@
         "movies": [
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)"
+        ]
+    },
+    "Steve Coogan": {
+        "movies": [
+            "Tropic Thunder (2008)"
         ]
     },
     "Steve Martin": {
@@ -14535,6 +14807,7 @@
         ],
         "movies": [
             "The Best Man (1999)",
+            "Ray (2004)",
             "Iron Man (2008)"
         ]
     },
@@ -14679,6 +14952,11 @@
             "Teenage Mutant Ninja Turtles III (1993)"
         ]
     },
+    "Tim McGraw": {
+        "movies": [
+            "Four Christmases (2008)"
+        ]
+    },
     "Tim Robbins": {
         "suppNoms": [
             {
@@ -14717,7 +14995,9 @@
             "Vanilla Sky (2001)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
+            "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
@@ -14745,6 +15025,7 @@
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "Tropic Thunder (2008)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -14788,6 +15069,7 @@
         ],
         "movies": [
             "Vanilla Sky (2001)",
+            "Tropic Thunder (2008)",
             "Oblivion (2013)"
         ]
     },
@@ -14837,7 +15119,8 @@
             "Forrest Gump (1994)",
             "Saving Private Ryan (1998)",
             "Cast Away (2000)",
-            "Road to Perdition (2002)"
+            "Road to Perdition (2002)",
+            "The Terminal (2004)"
         ]
     },
     "Tom Hardy": {
@@ -15128,6 +15411,11 @@
             "Spider-Man: Homecoming (2017)"
         ]
     },
+    "Tyra Banks": {
+        "movies": [
+            "Tropic Thunder (2008)"
+        ]
+    },
     "T\u00e9a Leoni": {
         "movies": [
             "A League of Their Own (1992)"
@@ -15281,6 +15569,12 @@
             "Bloodshot (2020)"
         ]
     },
+    "Vince Vaughn": {
+        "movies": [
+            "Made (2001)",
+            "Four Christmases (2008)"
+        ]
+    },
     "Vincent D'Onofrio": {
         "movies": [
             "Men in Black (1997)"
@@ -15296,6 +15590,11 @@
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ]
+    },
+    "Vincent Pastore": {
+        "movies": [
+            "Made (2001)"
         ]
     },
     "Vincent P\u00e9rez": {
@@ -15425,6 +15724,7 @@
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Ray (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
@@ -15571,6 +15871,11 @@
             "The Lighthouse (2019)",
             "Zack Snyder's Justice League (2021)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "William Atherton": {
+        "movies": [
+            "Die Hard (1988)"
         ]
     },
     "William Fichtner": {
@@ -15765,6 +16070,7 @@
     },
     "Yvette Nicole Brown": {
         "movies": [
+            "Tropic Thunder (2008)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -15824,7 +16130,9 @@
     "Zoe Saldana": {
         "movies": [
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "The Terminal (2004)",
             "Star Trek (2009)",
+            "Avatar (2009)",
             "The Losers (2010)",
             "Star Trek Into Darkness (2013)",
             "Guardians of the Galaxy (2014)",
