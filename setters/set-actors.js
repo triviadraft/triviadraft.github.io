@@ -16,7 +16,8 @@ var actorMap = {
     },
     "Aasif Mandvi": {
         "movies": [
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "Mother's Day (2016)"
         ]
     },
     "Abbie Cornish": {
@@ -47,6 +48,9 @@ var actorMap = {
                 "movie": "Little Miss Sunshine",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Abigail Spencer": {
@@ -562,6 +566,11 @@ var actorMap = {
             "X-Men: Apocalypse (2016)"
         ]
     },
+    "Alyssa Milano": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Amanda Peet": {
         "movies": [
             "Something's Gotta Give (2003)"
@@ -1071,7 +1080,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Howards End (1992)",
             "Chaplin (1992)",
+            "The Remains of the Day (1993)",
             "The Mask of Zorro (1998)",
             "Alexander (2004)",
             "Thor (2011)",
@@ -1226,7 +1237,8 @@ var actorMap = {
     },
     "Ashton Kutcher": {
         "movies": [
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "New Year's Eve (2011)"
         ]
     },
     "Aubrey Plaza": {
@@ -2169,6 +2181,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Britt Robertson": {
+        "movies": [
+            "Mother's Day (2016)"
+        ]
+    },
     "Brittany Murphy": {
         "movies": [
             "Sin City (2005)"
@@ -2435,6 +2452,7 @@ var actorMap = {
         "movies": [
             "Sin City (2005)",
             "Watchmen (2009)",
+            "New Year's Eve (2011)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Zack Snyder's Justice League (2021)"
@@ -2475,6 +2493,7 @@ var actorMap = {
     },
     "Cary Elwes": {
         "movies": [
+            "New Year's Eve (2011)",
             "The Adventures of Tintin (2011)"
         ]
     },
@@ -3087,7 +3106,8 @@ var actorMap = {
             "Superman (1978)",
             "Superman II (1981)",
             "Superman III (1983)",
-            "Superman IV: The Quest for Peace (1987)"
+            "Superman IV: The Quest for Peace (1987)",
+            "The Remains of the Day (1993)"
         ]
     },
     "Christopher Walken": {
@@ -3310,6 +3330,7 @@ var actorMap = {
     "Common": {
         "movies": [
             "Wanted (2008)",
+            "New Year's Eve (2011)",
             "Suicide Squad (2016)",
             "Ocean's 8 (2018)",
             "The Kitchen (2019)"
@@ -3824,6 +3845,11 @@ var actorMap = {
             "The Other Boleyn Girl (2008)"
         ]
     },
+    "David Moscow": {
+        "movies": [
+            "Big (1988)"
+        ]
+    },
     "David Patrick Kelly": {
         "movies": [
             "The Crow (1994)",
@@ -3949,6 +3975,11 @@ var actorMap = {
     "Dean-Charles Chapman": {
         "movies": [
             "1917 (2019)"
+        ]
+    },
+    "Debra Jo Rupp": {
+        "movies": [
+            "Big (1988)"
         ]
     },
     "Debra Winger": {
@@ -4461,6 +4492,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Stranger than Fiction (2006)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
             "The Tale of Despereaux (2008)"
@@ -4751,6 +4783,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Elizabeth Perkins": {
+        "movies": [
+            "Big (1988)"
+        ]
+    },
     "Elizabeth Taylor": {
         "leadNoms": [
             {
@@ -4986,8 +5023,11 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Howards End (1992)",
+            "The Remains of the Day (1993)",
             "Love Actually (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Stranger than Fiction (2006)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
@@ -5766,6 +5806,11 @@ var actorMap = {
             "Dogma (1999)"
         ]
     },
+    "George Chakiris": {
+        "movies": [
+            "West Side Story (1961)"
+        ]
+    },
     "George Clooney": {
         "leadNoms": [
             {
@@ -6128,6 +6173,7 @@ var actorMap = {
             "X2 (2003)",
             "Catwoman (2004)",
             "X-Men: The Last Stand (2006)",
+            "New Year's Eve (2011)",
             "X-Men: Days of Future Past (2014)",
             "Kingsman: The Golden Circle (2017)"
         ]
@@ -6381,6 +6427,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Howards End (1992)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
@@ -6435,6 +6482,9 @@ var actorMap = {
                 "movie": "Million Dollar Baby",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Himesh Patel": {
@@ -6487,6 +6537,7 @@ var actorMap = {
     },
     "Hugh Grant": {
         "movies": [
+            "The Remains of the Day (1993)",
             "Love Actually (2003)"
         ]
     },
@@ -6527,6 +6578,8 @@ var actorMap = {
     "H\u00e9ctor Elizondo": {
         "movies": [
             "Valentine's Day (2010)",
+            "New Year's Eve (2011)",
+            "Mother's Day (2016)",
             "The Lego Batman Movie (2017)"
         ]
     },
@@ -6967,6 +7020,11 @@ var actorMap = {
             "Batman (1989)"
         ]
     },
+    "Jack Whitehall": {
+        "movies": [
+            "Mother's Day (2016)"
+        ]
+    },
     "Jacki Weaver": {
         "suppNoms": [
             {
@@ -7073,6 +7131,11 @@ var actorMap = {
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
+    "Jake T. Austin": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "James Arnold Taylor": {
         "movies": [
             "TMNT (2007)",
@@ -7084,6 +7147,11 @@ var actorMap = {
         "movies": [
             "Iron Man 3 (2013)",
             "The Kitchen (2019)"
+        ]
+    },
+    "James Belushi": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "James Brolin": {
@@ -7169,6 +7237,11 @@ var actorMap = {
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "James Fox": {
+        "movies": [
+            "The Remains of the Day (1993)"
         ]
     },
     "James Franco": {
@@ -7548,6 +7621,11 @@ var actorMap = {
             "Cellular (2004)"
         ]
     },
+    "Jason Sudeikis": {
+        "movies": [
+            "Mother's Day (2016)"
+        ]
+    },
     "Javier Bardem": {
         "leadNoms": [
             {
@@ -7725,7 +7803,8 @@ var actorMap = {
     },
     "Jennifer Aniston": {
         "movies": [
-            "Rumor Has It (2005)"
+            "Rumor Has It (2005)",
+            "Mother's Day (2016)"
         ]
     },
     "Jennifer Connelly": {
@@ -7758,7 +7837,8 @@ var actorMap = {
             "13 Going on 30 (2004)",
             "Elektra (2005)",
             "Juno (2007)",
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "Mother's Day (2016)"
         ]
     },
     "Jennifer Holland": {
@@ -7954,7 +8034,8 @@ var actorMap = {
             "Cellular (2004)",
             "Blade: Trinity (2004)",
             "Elizabethtown (2005)",
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "New Year's Eve (2011)"
         ]
     },
     "Jessica Chastain": {
@@ -8378,6 +8459,11 @@ var actorMap = {
             "Dazed and Confused (1993)"
         ]
     },
+    "John Astin": {
+        "movies": [
+            "West Side Story (1961)"
+        ]
+    },
     "John Boyega": {
         "movies": [
             "Star Wars: The Force Awakens (2015)",
@@ -8464,6 +8550,11 @@ var actorMap = {
             "I Still Know What You Did Last Summer (1998)"
         ]
     },
+    "John Heard": {
+        "movies": [
+            "Big (1988)"
+        ]
+    },
     "John Hurt": {
         "leadNoms": [
             {
@@ -8536,7 +8627,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Terms of Endearment (1983)"
+            "Terms of Endearment (1983)",
+            "New Year's Eve (2011)"
         ]
     },
     "John Malkovich": {
@@ -8714,6 +8806,11 @@ var actorMap = {
             "Ghost Rider: Spirit of Vengeance (2012)"
         ]
     },
+    "Jon Bon Jovi": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Jon Cryer": {
         "movies": [
             "Superman IV: The Quest for Peace (1987)"
@@ -8747,8 +8844,10 @@ var actorMap = {
     "Jon Lovitz": {
         "movies": [
             "Three Amigos (1986)",
+            "Big (1988)",
             "A League of Their Own (1992)",
-            "North (1994)"
+            "North (1994)",
+            "Mother's Day (2016)"
         ]
     },
     "Jon Polito": {
@@ -8903,6 +9002,11 @@ var actorMap = {
         "movies": [
             "Thor (2011)",
             "Zootopia (2016)"
+        ]
+    },
+    "Josh Duhamel": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Josh Gad": {
@@ -9096,7 +9200,8 @@ var actorMap = {
         "movies": [
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "Mother's Day (2016)"
         ]
     },
     "Julian Dennison": {
@@ -9374,7 +9479,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Mother's Day (2016)"
         ]
     },
     "Kate Mara": {
@@ -9501,7 +9607,13 @@ var actorMap = {
     },
     "Katherine Heigl": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "New Year's Eve (2011)"
+        ]
+    },
+    "Katherine McNamara": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Katherine Waterston": {
@@ -10010,6 +10122,7 @@ var actorMap = {
     },
     "Kristin Chenoweth": {
         "movies": [
+            "Stranger than Fiction (2006)",
             "Four Christmases (2008)",
             "Strange Magic (2015)"
         ]
@@ -10277,6 +10390,11 @@ var actorMap = {
             "Star Trek: Nemesis (2002)"
         ]
     },
+    "Lea Michele": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Lea Thompson": {
         "movies": [
             "Howard the Duck (1986)"
@@ -10307,6 +10425,7 @@ var actorMap = {
     },
     "Lena Headey": {
         "movies": [
+            "The Remains of the Day (1993)",
             "300 (2007)",
             "Dredd (2012)",
             "300: Rise of an Empire (2014)"
@@ -10534,6 +10653,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Stranger than Fiction (2006)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -10677,6 +10797,11 @@ var actorMap = {
             "Take Me Home Tonight (2011)"
         ]
     },
+    "Ludacris": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Ludi Lin": {
         "movies": [
             "Power Rangers (2017)",
@@ -10817,6 +10942,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Stranger than Fiction (2006)",
             "The Dark Knight (2008)"
         ]
     },
@@ -10976,6 +11102,7 @@ var actorMap = {
     },
     "Margo Martindale": {
         "movies": [
+            "Mother's Day (2016)",
             "The Kitchen (2019)"
         ]
     },
@@ -11522,7 +11649,8 @@ var actorMap = {
     "Matthew Broderick": {
         "movies": [
             "WarGames (1983)",
-            "The Tale of Despereaux (2008)"
+            "The Tale of Despereaux (2008)",
+            "New Year's Eve (2011)"
         ]
     },
     "Matthew Fox": {
@@ -11742,6 +11870,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Big (1988)",
             "Last Action Hero (1993)"
         ]
     },
@@ -11890,6 +12019,11 @@ var actorMap = {
     "Michael Biehn": {
         "movies": [
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Michael Bloomberg": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Michael Bolton": {
@@ -12119,6 +12253,11 @@ var actorMap = {
             "X-Men: Days of Future Past (2014)"
         ]
     },
+    "Michael Lonsdale": {
+        "movies": [
+            "The Remains of the Day (1993)"
+        ]
+    },
     "Michael Madsen": {
         "movies": [
             "Sin City (2005)",
@@ -12241,6 +12380,7 @@ var actorMap = {
         "movies": [
             "Batman Returns (1992)",
             "The Prince of Egypt (1998)",
+            "New Year's Eve (2011)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -12578,6 +12718,11 @@ var actorMap = {
             "Ready or Not (2019)"
         ]
     },
+    "Nat Wolff": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Natalie Dormer": {
         "movies": [
             "Captain America: The First Avenger (2011)",
@@ -12610,6 +12755,11 @@ var actorMap = {
             "Thor (2011)",
             "Thor: The Dark World (2013)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Natalie Wood": {
+        "movies": [
+            "West Side Story (1961)"
         ]
     },
     "Natasha Lyonne": {
@@ -13096,6 +13246,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Owen Vaccaro": {
+        "movies": [
+            "Mother's Day (2016)"
+        ]
+    },
     "Owen Wilson": {
         "movies": [
             "How Do You Know (2010)"
@@ -13418,6 +13573,12 @@ var actorMap = {
             "Chaplin (1992)"
         ]
     },
+    "Penny Marshall": {
+        "movies": [
+            "New Year's Eve (2011)",
+            "Mother's Day (2016)"
+        ]
+    },
     "Pen\u00e9lope Cruz": {
         "leadNoms": [
             {
@@ -13542,6 +13703,7 @@ var actorMap = {
     },
     "Peter McRobbie": {
         "movies": [
+            "Big (1988)",
             "Spider-Man 2 (2004)"
         ]
     },
@@ -13615,6 +13777,11 @@ var actorMap = {
         "movies": [
             "Constantine (2005)",
             "Strange Magic (2015)"
+        ]
+    },
+    "Peter Vaughan": {
+        "movies": [
+            "The Remains of the Day (1993)"
         ]
     },
     "Peter Weller": {
@@ -13714,6 +13881,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Stranger than Fiction (2006)",
             "Valentine's Day (2010)",
             "Girls Trip (2017)"
         ]
@@ -14090,6 +14258,11 @@ var actorMap = {
             "The Lego Movie 2: The Second Part (2019)"
         ]
     },
+    "Richard Beymer": {
+        "movies": [
+            "West Side Story (1961)"
+        ]
+    },
     "Richard Brooks": {
         "movies": [
             "The Crow: City of Angels (1996)"
@@ -14246,6 +14419,11 @@ var actorMap = {
             "Men in Black II (2002)"
         ]
     },
+    "Rita Moreno": {
+        "movies": [
+            "West Side Story (1961)"
+        ]
+    },
     "River Phoenix": {
         "suppNoms": [
             {
@@ -14340,6 +14518,7 @@ var actorMap = {
         ],
         "movies": [
             "The Deer Hunter (1978)",
+            "New Year's Eve (2011)",
             "Joker (2019)"
         ]
     },
@@ -14433,7 +14612,8 @@ var actorMap = {
     },
     "Robert Loggia": {
         "movies": [
-            "Armed and Dangerous (1986)"
+            "Armed and Dangerous (1986)",
+            "Big (1988)"
         ]
     },
     "Robert Patrick": {
@@ -14754,6 +14934,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Russ Tamblyn": {
+        "movies": [
+            "West Side Story (1961)"
+        ]
+    },
     "Russell Crowe": {
         "leadNoms": [
             {
@@ -14772,6 +14957,11 @@ var actorMap = {
         "movies": [
             "Man of Steel (2013)",
             "Noah (2014)"
+        ]
+    },
+    "Russell Peters": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Rutger Hauer": {
@@ -14839,7 +15029,8 @@ var actorMap = {
     },
     "Ryan Seacrest": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "New Year's Eve (2011)"
         ]
     },
     "Sacha Baron Cohen": {
@@ -15135,6 +15326,11 @@ var actorMap = {
             "Little Women (2019)"
         ]
     },
+    "Sarah Jessica Parker": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Sarah Michelle Gellar": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
@@ -15145,6 +15341,7 @@ var actorMap = {
     "Sarah Paulson": {
         "movies": [
             "The Spirit (2008)",
+            "New Year's Eve (2011)",
             "Ocean's 8 (2018)",
             "Glass (2019)"
         ]
@@ -15377,6 +15574,11 @@ var actorMap = {
             "Ted (2012)"
         ]
     },
+    "Seth Meyers": {
+        "movies": [
+            "New Year's Eve (2011)"
+        ]
+    },
     "Seth Rogen": {
         "movies": [
             "Knocked Up (2007)",
@@ -15462,6 +15664,11 @@ var actorMap = {
     "Shawn Roberts": {
         "movies": [
             "X-Men (2000)"
+        ]
+    },
+    "Shay Mitchell": {
+        "movies": [
+            "Mother's Day (2016)"
         ]
     },
     "Shea Whigham": {
@@ -15676,6 +15883,11 @@ var actorMap = {
     "Sofia Coppola": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+        ]
+    },
+    "Sof\u00eda Vergara": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Sophia Bush": {
@@ -16330,6 +16542,12 @@ var actorMap = {
             "What's Your Number? (2011)"
         ]
     },
+    "Til Schweiger": {
+        "movies": [
+            "The Three Musketeers (2011)",
+            "New Year's Eve (2011)"
+        ]
+    },
     "Tilda Swinton": {
         "suppNoms": [
             {
@@ -16425,6 +16643,11 @@ var actorMap = {
                 "movie": "Ordinary People",
                 "year": "1980"
             }
+        ]
+    },
+    "Timothy Olyphant": {
+        "movies": [
+            "Mother's Day (2016)"
         ]
     },
     "Timothy Spall": {
@@ -16573,6 +16796,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Big (1988)",
             "A League of Their Own (1992)",
             "Forrest Gump (1994)",
             "Saving Private Ryan (1998)",
@@ -16630,6 +16854,11 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "The King's Man (2021)"
+        ]
+    },
+    "Tom Hulce": {
+        "movies": [
+            "Stranger than Fiction (2006)"
         ]
     },
     "Tom Kenny": {
@@ -16764,6 +16993,7 @@ var actorMap = {
     },
     "Tony Hale": {
         "movies": [
+            "Stranger than Fiction (2006)",
             "The Tale of Despereaux (2008)"
         ]
     },
@@ -17014,6 +17244,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Howards End (1992)",
             "Atonement (2007)"
         ]
     },
@@ -17331,6 +17562,7 @@ var actorMap = {
     },
     "Will Ferrell": {
         "movies": [
+            "Stranger than Fiction (2006)",
             "The Lego Movie (2014)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
@@ -17634,6 +17866,11 @@ var actorMap = {
     "Yvonne Strahovski": {
         "movies": [
             "I, Frankenstein (2014)"
+        ]
+    },
+    "Zac Efron": {
+        "movies": [
+            "New Year's Eve (2011)"
         ]
     },
     "Zach Galifianakis": {

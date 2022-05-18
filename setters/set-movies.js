@@ -7311,6 +7311,14 @@ var movieMap = {
             "Classics",
             "Dance",
             "Musicals"
+        ],
+        "cast": [
+            "George Chakiris",
+            "John Astin",
+            "Natalie Wood",
+            "Richard Beymer",
+            "Rita Moreno",
+            "Russ Tamblyn"
         ]
     },
     "Babes in Toyland (1961)": {
@@ -27022,6 +27030,17 @@ var movieMap = {
             "1980s",
             "Marshalls",
             "Tom Hanks"
+        ],
+        "cast": [
+            "David Moscow",
+            "Debra Jo Rupp",
+            "Elizabeth Perkins",
+            "John Heard",
+            "Jon Lovitz",
+            "Mercedes Ruehl",
+            "Peter McRobbie",
+            "Robert Loggia",
+            "Tom Hanks"
         ]
     },
     "Poltergeist III (1988)": {
@@ -33564,6 +33583,12 @@ var movieMap = {
         ],
         "categories": [
             "1990s"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Emma Thompson",
+            "Helena Bonham Carter",
+            "Vanessa Redgrave"
         ]
     },
     "My Cousin Vinny (1992)": {
@@ -37173,6 +37198,16 @@ var movieMap = {
         ],
         "categories": [
             "1990s"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Christopher Reeve",
+            "Emma Thompson",
+            "Hugh Grant",
+            "James Fox",
+            "Lena Headey",
+            "Michael Lonsdale",
+            "Peter Vaughan"
         ]
     },
     "Carlito's Way (1993)": {
@@ -71983,6 +72018,17 @@ var movieMap = {
             "Queen Latifah",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Dustin Hoffman",
+            "Emma Thompson",
+            "Kristin Chenoweth",
+            "Linda Hunt",
+            "Maggie Gyllenhaal",
+            "Queen Latifah",
+            "Tom Hulce",
+            "Tony Hale",
+            "Will Ferrell"
         ]
     },
     "Bobby (2006)": {
@@ -87226,7 +87272,8 @@ var movieMap = {
             "Matthew Macfadyen",
             "Milla Jovovich",
             "Orlando Bloom",
-            "Ray Stevenson"
+            "Ray Stevenson",
+            "Til Schweiger"
         ]
     },
     "Anonymous (2011)": {
@@ -87676,6 +87723,41 @@ var movieMap = {
             "Robert De Niro & Joe Pesci",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Abigail Breslin",
+            "Alyssa Milano",
+            "Ashton Kutcher",
+            "Carla Gugino",
+            "Cary Elwes",
+            "Common",
+            "Halle Berry",
+            "H\u00e9ctor Elizondo",
+            "Hilary Swank",
+            "Jake T. Austin",
+            "James Belushi",
+            "Jessica Biel",
+            "John Lithgow",
+            "Jon Bon Jovi",
+            "Josh Duhamel",
+            "Katherine Heigl",
+            "Katherine McNamara",
+            "Lea Michele",
+            "Ludacris",
+            "Matthew Broderick",
+            "Michael Bloomberg",
+            "Michelle Pfeiffer",
+            "Nat Wolff",
+            "Penny Marshall",
+            "Robert De Niro",
+            "Russell Peters",
+            "Ryan Seacrest",
+            "Sarah Jessica Parker",
+            "Sarah Paulson",
+            "Seth Meyers",
+            "Sof\u00eda Vergara",
+            "Til Schweiger",
+            "Zac Efron"
         ]
     },
     "The Sitter (2011)": {
@@ -101393,6 +101475,23 @@ var movieMap = {
             "Marshalls",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Aasif Mandvi",
+            "Britt Robertson",
+            "H\u00e9ctor Elizondo",
+            "Jack Whitehall",
+            "Jason Sudeikis",
+            "Jennifer Aniston",
+            "Jennifer Garner",
+            "Jon Lovitz",
+            "Julia Roberts",
+            "Kate Hudson",
+            "Margo Martindale",
+            "Owen Vaccaro",
+            "Penny Marshall",
+            "Shay Mitchell",
+            "Timothy Olyphant"
         ]
     },
     "Special Correspondents (2016)": {
