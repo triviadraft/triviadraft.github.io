@@ -3,6 +3,31 @@ import csv
 import json
 import random
 
+# set some variable equal to some JSON
+def set_json_variable(filepath, content, var_name):
+    with open(filepath, 'w', encoding='utf-8') as jsonf:
+        jsonf.write(content)
+    with open(filepath) as f:
+        lines = f.readlines()
+        lines[0] = 'var ' + var_name + " = " + lines[0]
+    with open(filepath, 'w') as f:
+        f.writelines(lines)
+
+# set MTS variable equal to some encrypted content string
+def set_mts_variable(filepath, content):
+    dataBytes = json.dumps(content).encode("utf-8")
+    encoded = base64.b64encode(dataBytes)
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(str(encoded)[1:])
+
+    with open(filepath) as f:
+        lines = f.readlines()
+        lines[0] = 'var encryptedMtsMap = ' + lines[0] + ';\n'
+        lines.append('var decodedMtsMap = atob(encryptedMtsMap);\n')
+        lines.append('var mtsQuestionMap = JSON.parse(decodedMtsMap);')
+    with open(filepath, 'w') as f:
+        f.writelines(lines)
+
 def generate_jsons():
     # movie data
     movie_dict = {}
@@ -78,8 +103,7 @@ def generate_jsons():
 
             movie_dict[movie]['cast'].append(row['actor'])
 
-    with open(r'python/json/movies.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(movie_dict, indent=4))
+    set_json_variable('setters/set-movies.js', json.dumps(movie_dict, indent=4), 'movieMap')
 
     # mts questions
     mts_question_dict = {}
@@ -95,10 +119,7 @@ def generate_jsons():
                 }
                 mts_question_dict['questions'].append(single_question_dict)
 
-    dataBytes = json.dumps(mts_question_dict).encode("utf-8")
-    encoded = base64.b64encode(dataBytes)
-    with open(r'python/json/mts-questions.txt', 'w', encoding='utf-8') as f:
-        f.write(str(encoded)[1:])
+    set_mts_variable('setters/set-mts.js', mts_question_dict)
 
     ig_mts_question_dict = {}
     ig_mts_question_dict['questions'] = []
@@ -113,10 +134,7 @@ def generate_jsons():
                 }
                 ig_mts_question_dict['questions'].append(single_question_dict)
 
-    dataBytes = json.dumps(ig_mts_question_dict).encode("utf-8")
-    encoded = base64.b64encode(dataBytes)
-    with open(r'python/json/ig-mts-questions.txt', 'w', encoding='utf-8') as f:
-        f.write(str(encoded)[1:])
+    set_mts_variable('setters/set-ig-mts.js', ig_mts_question_dict)
 
 
     # director data
@@ -141,8 +159,7 @@ def generate_jsons():
                     }
                     director_dict[name].append(single_movie_dict)
 
-    with open(r'python/json/directors.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(director_dict, indent=4))
+    set_json_variable('setters/set-directors.js', json.dumps(director_dict, indent=4), 'directorMap')
 
 
     # actor data
@@ -199,8 +216,7 @@ def generate_jsons():
 
             actor_dict[actor]['movies'].append(row['movie'])
 
-    with open(r'python/json/actors.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(dict(sorted(actor_dict.items())), indent=4))
+    set_json_variable('setters/set-actors.js', json.dumps(dict(sorted(actor_dict.items())), indent=4), 'actorMap')
 
 
     ################################################################################################
@@ -255,8 +271,7 @@ def generate_jsons():
 
             ig_movie_dict[movie][cast_level].append(single_actor_dict)
 
-    with open(r'python/json/ig-movies.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(ig_movie_dict, indent=4))
+    set_json_variable('setters/set-ig-movies.js', json.dumps(ig_movie_dict, indent=4), 'igMovieMap')
 
 
     # ig actor data
@@ -282,8 +297,7 @@ def generate_jsons():
                 else:
                     ig_actor_dict[actor]['movies'][movie] = [movie]
 
-    with open(r'python/json/ig-actors.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(dict(sorted(ig_actor_dict.items())), indent=4))
+    set_json_variable('setters/set-ig-actors.js', json.dumps(dict(sorted(ig_actor_dict.items())), indent=4), 'igActorMap')
 
 
     ################################################################################################
@@ -298,7 +312,7 @@ def generate_jsons():
             name = row['name']
             sw_character_dict[name] = row
 
-    with open(r'python/json/sw-characters.json', 'w', encoding='utf-8') as jsonf:
-        jsonf.write(json.dumps(sw_character_dict, indent=4))
+    set_json_variable('setters/set-sw-characters.js', json.dumps(sw_character_dict, indent=4), 'swCharacterMap')
+
 
 generate_jsons()

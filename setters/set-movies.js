@@ -57188,6 +57188,26 @@ var movieMap = {
             "Julia Roberts",
             "Matt & Ben",
             "Steven Soderbergh"
+        ],
+        "cast": [
+            "Andy Garc\u00eda",
+            "Bernie Mac",
+            "Brad Pitt",
+            "Carl Reiner",
+            "Casey Affleck",
+            "Don Cheadle",
+            "Eddie Jemison",
+            "Elliott Gould",
+            "George Clooney",
+            "Joshua Jackson",
+            "Julia Roberts",
+            "Matt Damon",
+            "Qin Shaobo",
+            "Scott Caan",
+            "Shane West",
+            "Steven Soderbergh",
+            "Topher Grace",
+            "Wayne Newton"
         ]
     },
     "Not Another Teen Movie (2001)": {
@@ -60319,6 +60339,17 @@ var movieMap = {
             "Leonardo DiCaprio",
             "Sheens",
             "Steven Spielberg",
+            "Tom Hanks"
+        ],
+        "cast": [
+            "Amy Adams",
+            "Christopher Walken",
+            "Elizabeth Banks",
+            "Ellen Pompeo",
+            "James Brolin",
+            "Jennifer Garner",
+            "Leonardo DiCaprio",
+            "Martin Sheen",
             "Tom Hanks"
         ]
     },
@@ -65990,6 +66021,29 @@ var movieMap = {
             "Julia Roberts",
             "Matt & Ben",
             "Steven Soderbergh"
+        ],
+        "cast": [
+            "Albert Finney",
+            "Andy Garc\u00eda",
+            "Bernie Mac",
+            "Brad Pitt as Robert \"Rusty\" Ryan",
+            "Bruce Willis",
+            "Carl Reiner",
+            "Casey Affleck",
+            "Catherine Zeta-Jones",
+            "Don Cheadle",
+            "Eddie Izzard",
+            "Eddie Jemison",
+            "Elliott Gould",
+            "George Clooney",
+            "Jared Harris",
+            "Julia Roberts",
+            "Matt Damon",
+            "Qin Shaobo",
+            "Robbie Coltrane",
+            "Scott Caan",
+            "Topher Grace",
+            "Vincent Cassel"
         ]
     },
     "The Life Aquatic with Steve Zissou (2004)": {
@@ -68844,7 +68898,6 @@ var movieMap = {
             "Shirley Henderson",
             "Timothy Spall",
             "Tom Felton",
-            "Warwick Davis",
             "Warwick Davis"
         ]
     },
@@ -72702,6 +72755,16 @@ var movieMap = {
             "2000s",
             "Black Cinema",
             "Tyler Perry"
+        ],
+        "cast": [
+            "Brian J. White",
+            "China Anne McClain",
+            "Craig Robinson",
+            "Gabrielle Union",
+            "Idris Elba",
+            "Louis Gossett Jr.",
+            "Tasha Smith",
+            "Tracee Ellis Ross"
         ]
     },
     "Music and Lyrics (2007)": {
@@ -73651,6 +73714,25 @@ var movieMap = {
             "Crime",
             "Matt & Ben",
             "Steven Soderbergh"
+        ],
+        "cast": [
+            "Al Pacino",
+            "Andy Garc\u00eda",
+            "Bernie Mac",
+            "Brad Pitt",
+            "Carl Reiner",
+            "Casey Affleck",
+            "David Paymer",
+            "Don Cheadle",
+            "Eddie Izzard",
+            "Eddie Jemison",
+            "Ellen Barkin",
+            "Elliott Gould",
+            "George Clooney",
+            "Matt Damon",
+            "Qin Shaobo",
+            "Scott Caan",
+            "Vincent Cassel"
         ]
     },
     "Surf's Up (2007)": {
@@ -78615,6 +78697,23 @@ var movieMap = {
             "Emmas",
             "Sigourney Weaver",
             "Stanley Tucci"
+        ],
+        "cast": [
+            "Christopher Lloyd",
+            "Ciar\u00e1n Hinds",
+            "Dustin Hoffman",
+            "Emma Watson",
+            "Frances Conroy",
+            "Frank Langella",
+            "Kevin Kline",
+            "Matthew Broderick",
+            "Richard Jenkins",
+            "Robbie Coltrane",
+            "Sigourney Weaver",
+            "Stanley Tucci",
+            "Tony Hale",
+            "Tracey Ullman",
+            "William H. Macy"
         ]
     },
     "Yes Man (2008)": {
@@ -78705,6 +78804,18 @@ var movieMap = {
             "David Fincher",
             "Dramas",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Brad Pitt",
+            "Cate Blanchett",
+            "Elias Koteas",
+            "Elle Fanning",
+            "Jared Harris",
+            "Jason Flemyng",
+            "Julia Ormond",
+            "Mahershala Ali",
+            "Taraji P. Henson",
+            "Tilda Swinton"
         ]
     },
     "The Spirit (2008)": {
@@ -88397,6 +88508,18 @@ var movieMap = {
             "Horror/Thriller",
             "Monster",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Amy Acker",
+            "Anna Hutchison",
+            "Bradley Whitford",
+            "Brian J. White",
+            "Chris Hemsworth",
+            "Fran Kranz",
+            "Jesse Williams",
+            "Kristen Connolly",
+            "Richard Jenkins",
+            "Sigourney Weaver"
         ]
     },
     "Think Like a Man (2012)": {
@@ -89686,6 +89809,21 @@ var movieMap = {
             "Emmas",
             "Frat Pack",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Dylan McDermott",
+            "Emma Watson",
+            "Ezra Miller",
+            "Joan Cusack",
+            "Johnny Simmons",
+            "Julia Garner",
+            "Kate Walsh",
+            "Logan Lerman",
+            "Mae Whitman",
+            "Melanie Lynskey",
+            "Nicholas Braun",
+            "Nina Dobrev",
+            "Paul Rudd"
         ]
     },
     "Trouble with the Curve (2012)": {
@@ -91734,6 +91872,18 @@ var movieMap = {
             "A24",
             "Coppolas",
             "Emmas"
+        ],
+        "cast": [
+            "Emma Watson",
+            "Halston Sage",
+            "Israel Broussard",
+            "Katie Chang",
+            "Kirsten Dunst",
+            "Leslie Mann",
+            "Logan Miller",
+            "Maika Monroe",
+            "Paris Hilton",
+            "Taissa Farmiga"
         ]
     },
     "Maniac (2013)": {
@@ -94180,6 +94330,21 @@ var movieMap = {
             "Emmas",
             "Fantasy/Sci-Fi",
             "Jennifer Connelly"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Dakota Goyo",
+            "Douglas Booth",
+            "Emma Watson",
+            "Finn Wittrock",
+            "Frank Langella",
+            "Jennifer Connelly",
+            "Kevin Durand",
+            "Logan Lerman",
+            "Mark Margolis",
+            "Nick Nolte",
+            "Ray Winstone",
+            "Russell Crowe"
         ]
     },
     "The Raid 2 (2014)": {
@@ -96475,7 +96640,6 @@ var movieMap = {
             "Charles Dance",
             "Keira Knightley",
             "Mark Strong",
-            "Mark Strong",
             "Matthew Goode",
             "Rory Kinnear"
         ]
@@ -96936,6 +97100,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "Viola Davis"
+        ],
+        "cast": [
+            "Chris Hemsworth",
+            "John Ortiz",
+            "Viola Davis",
+            "William Mapother"
         ]
     },
     "Paddington (2015)": {
@@ -98517,6 +98687,7 @@ var movieMap = {
             "Miles Teller",
             "Reg E. Cathey",
             "Tim Blake Nelson",
+            "Tim Heidecker",
             "Toby Kebbell"
         ]
     },
@@ -100891,6 +101062,13 @@ var movieMap = {
             "A24",
             "Horror/Thriller",
             "Thriller"
+        ],
+        "cast": [
+            "Alia Shawkat",
+            "Anton Yelchin",
+            "Callum Turner",
+            "Imogen Poots",
+            "Patrick Stewart"
         ]
     },
     "Sing Street (2016)": {
@@ -104749,6 +104927,17 @@ var movieMap = {
         "categories": [
             "2010s",
             "Emmas",
+            "Tom Hanks"
+        ],
+        "cast": [
+            "Bill Paxton",
+            "Ellar Coltrane",
+            "Ellen Wong",
+            "Emma Watson",
+            "John Boyega",
+            "Karen Gillan",
+            "Mamoudou Athie",
+            "Patton Oswalt",
             "Tom Hanks"
         ]
     },
@@ -109153,6 +109342,36 @@ var movieMap = {
             "Cate Blanchett",
             "Crime",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Anna Wintour",
+            "Anne Hathaway",
+            "Awkwafina",
+            "Cate Blanchett",
+            "Common",
+            "Dakota Fanning",
+            "Elliott Gould",
+            "Gigi Hadid",
+            "Griffin Dunne",
+            "Heidi Klum",
+            "Helena Bonham Carter",
+            "Jaime King",
+            "James Corden",
+            "Katie Holmes",
+            "Kelly Rohrbach",
+            "Kendall Jenner",
+            "Kim Kardashian",
+            "Kylie Jenner",
+            "Michael Gandolfini",
+            "Mindy Kaling",
+            "Olivia Munn",
+            "Qin Shaobo",
+            "Richard Armitage",
+            "Rihanna",
+            "Sandra Bullock",
+            "Sarah Paulson",
+            "Serena Williams",
+            "Zayn Malik"
         ]
     },
     "Won't You Be My Neighbor? (2018)": {
@@ -109398,6 +109617,7 @@ var movieMap = {
             "Michelle Pfeiffer",
             "Paul Rudd",
             "Randall Park",
+            "Tim Heidecker",
             "Tip \"T.I.\" Harris",
             "Walton Goggins"
         ]
@@ -112473,6 +112693,17 @@ var movieMap = {
             "Black Cinema",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Elisabeth Moss",
+            "Evan Alex",
+            "Jordan Peele",
+            "Kara Hayward",
+            "Lupita Nyong'o",
+            "Shahadi Wright Joseph",
+            "Tim Heidecker",
+            "Winston Duke",
+            "Yahya Abdul-Mateen II"
         ]
     },
     "Dumbo (2019)": {
@@ -121650,6 +121881,16 @@ var movieMap = {
         "categories": [
             "2020s",
             "Streaming"
+        ],
+        "cast": [
+            "Adam Beach",
+            "Alice Englert",
+            "Benedict Cumberbatch",
+            "Frances Conroy",
+            "Jesse Plemons",
+            "Kirsten Dunst",
+            "Kodi Smit-McPhee",
+            "Thomasin McKenzie"
         ]
     },
     "The Princess Switch 3: Romancing the Star (2021)": {
@@ -121935,6 +122176,26 @@ var movieMap = {
             "Musicians in Film",
             "Streaming",
             "Tyler Perry"
+        ],
+        "cast": [
+            "Ariana Grande",
+            "Cate Blanchett",
+            "Chris Evans",
+            "Himesh Patel",
+            "Jennifer Lawrence",
+            "Jonah Hill",
+            "Leonardo DiCaprio",
+            "Liev Schreiber",
+            "Mark Rylance",
+            "Melanie Lynskey",
+            "Meryl Streep",
+            "Michael Chiklis",
+            "Rob Morgan",
+            "Ron Perlman",
+            "Sarah Silverman",
+            "Scott Mescudi",
+            "Timoth\u00e9e Chalamet",
+            "Tyler Perry"
         ]
     },
     "West Side Story (2021)": {
@@ -122000,6 +122261,19 @@ var movieMap = {
             "2020s",
             "Cate Blanchett",
             "Guillermo del Toro"
+        ],
+        "cast": [
+            "Bradley Cooper",
+            "Cate Blanchett",
+            "Clifton Collins Jr.",
+            "David Strathairn",
+            "Mary Steenburgen",
+            "Richard Jenkins",
+            "Ron Perlman",
+            "Rooney Mara",
+            "Tim Blake Nelson",
+            "Toni Collette",
+            "Willem Dafoe"
         ]
     },
     "Spider-Man: No Way Home (2021)": {

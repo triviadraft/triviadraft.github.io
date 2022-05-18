@@ -62,7 +62,8 @@ var actorMap = {
         "movies": [
             "Cowboys & Aliens (2011)",
             "Suicide Squad (2016)",
-            "The New Mutants (2020)"
+            "The New Mutants (2020)",
+            "The Power of the Dog (2021)"
         ]
     },
     "Adam Brody": {
@@ -229,6 +230,9 @@ var actorMap = {
                 "movie": "The Irishman",
                 "year": "2019"
             }
+        ],
+        "movies": [
+            "Ocean's Thirteen (2007)"
         ]
     },
     "Alan Alda": {
@@ -365,6 +369,9 @@ var actorMap = {
                 "movie": "Erin Brockovich",
                 "year": "2000"
             }
+        ],
+        "movies": [
+            "Ocean's Twelve (2004)"
         ]
     },
     "Alden Ehrenreich": {
@@ -464,10 +471,20 @@ var actorMap = {
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
+    "Alia Shawkat": {
+        "movies": [
+            "Green Room (2016)"
+        ]
+    },
     "Alice Braga": {
         "movies": [
             "The New Mutants (2020)",
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Alice Englert": {
+        "movies": [
+            "The Power of the Dog (2021)"
         ]
     },
     "Alice Eve": {
@@ -557,6 +574,11 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Amy Acker": {
+        "movies": [
+            "The Cabin in the Woods (2012)"
+        ]
+    },
     "Amy Adams": {
         "leadNoms": [
             {
@@ -587,6 +609,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Catch Me If You Can (2002)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
@@ -707,6 +730,11 @@ var actorMap = {
                 "movie": "The Godfather Part III",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
         ]
     },
     "Andy Samberg": {
@@ -840,6 +868,11 @@ var actorMap = {
             "What's Your Number? (2011)"
         ]
     },
+    "Anna Hutchison": {
+        "movies": [
+            "The Cabin in the Woods (2012)"
+        ]
+    },
     "Anna Kendrick": {
         "suppNoms": [
             {
@@ -876,6 +909,11 @@ var actorMap = {
     "Anna Walton": {
         "movies": [
             "Hellboy II: The Golden Army (2008)"
+        ]
+    },
+    "Anna Wintour": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Annabella Sciorra": {
@@ -917,7 +955,8 @@ var actorMap = {
         "movies": [
             "Valentine's Day (2010)",
             "Alice in Wonderland (2010)",
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Anne Heche": {
@@ -1027,6 +1066,7 @@ var actorMap = {
             "Thor (2011)",
             "Red 2 (2013)",
             "Thor: The Dark World (2013)",
+            "Noah (2014)",
             "Thor: Ragnarok (2017)"
         ]
     },
@@ -1075,6 +1115,7 @@ var actorMap = {
         "movies": [
             "Star Trek (2009)",
             "Star Trek Into Darkness (2013)",
+            "Green Room (2016)",
             "Star Trek Beyond (2016)"
         ]
     },
@@ -1115,6 +1156,11 @@ var actorMap = {
                 "movie": "West Side Story",
                 "year": "2021"
             }
+        ]
+    },
+    "Ariana Grande": {
+        "movies": [
+            "Don't Look Up (2021)"
         ]
     },
     "Ariana Greenblatt": {
@@ -1237,6 +1283,7 @@ var actorMap = {
     },
     "Awkwafina": {
         "movies": [
+            "Ocean's 8 (2018)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
@@ -1435,6 +1482,7 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "The Grinch (2018)",
             "Avengers: Endgame (2019)",
+            "The Power of the Dog (2021)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -1484,6 +1532,13 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "Wimbledon (2004)"
+        ]
+    },
+    "Bernie Mac": {
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
         ]
     },
     "Bette Davis": {
@@ -1621,7 +1676,8 @@ var actorMap = {
     "Bill Paxton": {
         "movies": [
             "Stripes (1981)",
-            "2 Guns (2013)"
+            "2 Guns (2013)",
+            "The Circle (2017)"
         ]
     },
     "Bill Pullman": {
@@ -1858,7 +1914,15 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Thirteen (2007)",
+            "The Curious Case of Benjamin Button (2008)",
             "Deadpool 2 (2018)"
+        ]
+    },
+    "Brad Pitt as Robert \"Rusty\" Ryan": {
+        "movies": [
+            "Ocean's Twelve (2004)"
         ]
     },
     "Brad Renfro": {
@@ -1893,7 +1957,13 @@ var actorMap = {
             "10 Cloverfield Lane (2016)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Nightmare Alley (2021)"
+        ]
+    },
+    "Bradley Whitford": {
+        "movies": [
+            "The Cabin in the Woods (2012)"
         ]
     },
     "Brandon Lee": {
@@ -2004,6 +2074,12 @@ var actorMap = {
             "Zodiac (2007)",
             "Red (2010)",
             "Red 2 (2013)"
+        ]
+    },
+    "Brian J. White": {
+        "movies": [
+            "Daddy's Little Girls (2007)",
+            "The Cabin in the Woods (2012)"
         ]
     },
     "Brian Posehn": {
@@ -2139,6 +2215,7 @@ var actorMap = {
         "movies": [
             "Die Hard (1988)",
             "Unbreakable (2000)",
+            "Ocean's Twelve (2004)",
             "Sin City (2005)",
             "Surrogates (2009)",
             "Red (2010)",
@@ -2263,6 +2340,7 @@ var actorMap = {
     },
     "Callum Turner": {
         "movies": [
+            "Green Room (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
@@ -2308,6 +2386,13 @@ var actorMap = {
         ],
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Carl Reiner": {
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
         ]
     },
     "Carl Weathers": {
@@ -2391,6 +2476,11 @@ var actorMap = {
                 "movie": "The Assassination of Jesse James by the Coward Robert Ford",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
         ]
     },
     "Casey Neistat": {
@@ -2443,10 +2533,14 @@ var actorMap = {
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "The Curious Case of Benjamin Button (2008)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
-            "Thor: Ragnarok (2017)"
+            "Thor: Ragnarok (2017)",
+            "Ocean's 8 (2018)",
+            "Don't Look Up (2021)",
+            "Nightmare Alley (2021)"
         ]
     },
     "Catherine Deneuve": {
@@ -2487,6 +2581,7 @@ var actorMap = {
         "movies": [
             "The Mask of Zorro (1998)",
             "The Terminal (2004)",
+            "Ocean's Twelve (2004)",
             "The Legend of Zorro (2005)",
             "Red 2 (2013)"
         ]
@@ -2645,6 +2740,11 @@ var actorMap = {
             "The Terminal (2004)"
         ]
     },
+    "China Anne McClain": {
+        "movies": [
+            "Daddy's Little Girls (2007)"
+        ]
+    },
     "Chip Zien": {
         "movies": [
             "Howard the Duck (1986)"
@@ -2717,16 +2817,19 @@ var actorMap = {
             "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
             "Captain Marvel (2019)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Don't Look Up (2021)"
         ]
     },
     "Chris Hemsworth": {
         "movies": [
             "Star Trek (2009)",
             "Thor (2011)",
+            "The Cabin in the Woods (2012)",
             "The Avengers (2012)",
             "Rush (2013)",
             "Thor: The Dark World (2013)",
+            "Blackhat (2015)",
             "Avengers: Age of Ultron (2015)",
             "In the Heart of the Sea (2015)",
             "Doctor Strange (2016)",
@@ -2895,6 +2998,7 @@ var actorMap = {
         "movies": [
             "Star Trek III: The Search for Spock (1984)",
             "The Pagemaster (1994)",
+            "The Tale of Despereaux (2008)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -2966,7 +3070,8 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "The Deer Hunter (1978)",
-            "Batman Returns (1992)"
+            "Batman Returns (1992)",
+            "Catch Me If You Can (2002)"
         ]
     },
     "Christopher Young": {
@@ -2983,6 +3088,7 @@ var actorMap = {
         ],
         "movies": [
             "Road to Perdition (2002)",
+            "The Tale of Despereaux (2008)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
             "John Carter (2012)",
@@ -3048,7 +3154,8 @@ var actorMap = {
     "Clifton Collins Jr.": {
         "movies": [
             "Star Trek (2009)",
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Nightmare Alley (2021)"
         ]
     },
     "Clifton James": {
@@ -3169,6 +3276,7 @@ var actorMap = {
         "movies": [
             "Wanted (2008)",
             "Suicide Squad (2016)",
+            "Ocean's 8 (2018)",
             "The Kitchen (2019)"
         ]
     },
@@ -3234,6 +3342,7 @@ var actorMap = {
     },
     "Craig Robinson": {
         "movies": [
+            "Daddy's Little Girls (2007)",
             "Knocked Up (2007)",
             "Dolittle (2020)"
         ]
@@ -3306,9 +3415,15 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Dakota Fanning": {
+        "movies": [
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Dakota Goyo": {
         "movies": [
-            "Thor (2011)"
+            "Thor (2011)",
+            "Noah (2014)"
         ]
     },
     "Damon Wayans": {
@@ -3671,7 +3786,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Howard the Duck (1986)"
+            "Howard the Duck (1986)",
+            "Ocean's Thirteen (2007)"
         ]
     },
     "David Prowse": {
@@ -3694,7 +3810,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "A League of Their Own (1992)"
+            "A League of Their Own (1992)",
+            "Nightmare Alley (2021)"
         ]
     },
     "David Tennant": {
@@ -4152,6 +4269,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)",
             "Iron Man 2 (2010)",
             "Iron Man 3 (2013)",
             "Avengers: Age of Ultron (2015)",
@@ -4225,6 +4345,11 @@ var actorMap = {
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Douglas Booth": {
+        "movies": [
+            "Noah (2014)"
+        ]
+    },
     "Drew Barrymore": {
         "movies": [
             "Batman Forever (1995)"
@@ -4263,7 +4388,8 @@ var actorMap = {
         ],
         "movies": [
             "The Holiday (2006)",
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "The Tale of Despereaux (2008)"
         ]
     },
     "Dwayne Johnson": {
@@ -4281,6 +4407,11 @@ var actorMap = {
             "Road to Perdition (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)"
+        ]
+    },
+    "Dylan McDermott": {
+        "movies": [
+            "The Perks of Being a Wallflower (2012)"
         ]
     },
     "E. G. Marshall": {
@@ -4345,13 +4476,18 @@ var actorMap = {
     "Eddie Izzard": {
         "movies": [
             "Mystery Men (1999)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Lego Batman Movie (2017)"
         ]
     },
     "Eddie Jemison": {
         "movies": [
-            "The Punisher (2004)"
+            "Ocean's Eleven (2001)",
+            "The Punisher (2004)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
         ]
     },
     "Eddie Marsan": {
@@ -4470,7 +4606,8 @@ var actorMap = {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
             "Teenage Mutant Ninja Turtles III (1993)",
-            "Zodiac (2007)"
+            "Zodiac (2007)",
+            "The Curious Case of Benjamin Button (2008)"
         ]
     },
     "Elijah Kelley": {
@@ -4489,6 +4626,7 @@ var actorMap = {
     },
     "Elisabeth Moss": {
         "movies": [
+            "Us (2019)",
             "The Kitchen (2019)"
         ]
     },
@@ -4508,6 +4646,7 @@ var actorMap = {
     "Elizabeth Banks": {
         "movies": [
             "Spider-Man (2002)",
+            "Catch Me If You Can (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
             "The Lego Movie (2014)",
@@ -4571,6 +4710,21 @@ var actorMap = {
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
+    "Ellar Coltrane": {
+        "movies": [
+            "The Circle (2017)"
+        ]
+    },
+    "Elle Fanning": {
+        "movies": [
+            "The Curious Case of Benjamin Button (2008)"
+        ]
+    },
+    "Ellen Barkin": {
+        "movies": [
+            "Ocean's Thirteen (2007)"
+        ]
+    },
     "Ellen Burstyn": {
         "leadNoms": [
             {
@@ -4603,12 +4757,14 @@ var actorMap = {
     },
     "Ellen Pompeo": {
         "movies": [
+            "Catch Me If You Can (2002)",
             "Daredevil (2003)"
         ]
     },
     "Ellen Wong": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "The Circle (2017)"
         ]
     },
     "Ellie Kemper": {
@@ -4635,6 +4791,12 @@ var actorMap = {
                 "movie": "Bob & Carol & Ted & Alice",
                 "year": "1969"
             }
+        ],
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Elon Musk": {
@@ -4763,10 +4925,15 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
+            "The Tale of Despereaux (2008)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "The Perks of Being a Wallflower (2012)",
+            "The Bling Ring (2013)",
+            "Noah (2014)",
             "Beauty and the Beast (2017)",
+            "The Circle (2017)",
             "Little Women (2019)"
         ]
     },
@@ -4887,6 +5054,11 @@ var actorMap = {
             "The Spirit (2008)"
         ]
     },
+    "Evan Alex": {
+        "movies": [
+            "Us (2019)"
+        ]
+    },
     "Evan Jonigkeit": {
         "movies": [
             "X-Men: Days of Future Past (2014)"
@@ -4947,6 +5119,7 @@ var actorMap = {
     },
     "Ezra Miller": {
         "movies": [
+            "The Perks of Being a Wallflower (2012)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Suicide Squad (2016)",
             "Fantastic Beasts and Where to Find Them (2016)",
@@ -5032,6 +5205,7 @@ var actorMap = {
     },
     "Finn Wittrock": {
         "movies": [
+            "Noah (2014)",
             "La La Land (2016)"
         ]
     },
@@ -5083,10 +5257,17 @@ var actorMap = {
             "Black Panther (2018)"
         ]
     },
+    "Fran Kranz": {
+        "movies": [
+            "The Cabin in the Woods (2012)"
+        ]
+    },
     "Frances Conroy": {
         "movies": [
             "Catwoman (2004)",
-            "Joker (2019)"
+            "The Tale of Despereaux (2008)",
+            "Joker (2019)",
+            "The Power of the Dog (2021)"
         ]
     },
     "Frances McDormand": {
@@ -5153,7 +5334,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Superman Returns (2006)"
+            "Superman Returns (2006)",
+            "The Tale of Despereaux (2008)",
+            "Noah (2014)"
         ]
     },
     "Frank Miller": {
@@ -5239,6 +5422,11 @@ var actorMap = {
         "movies": [
             "The Three Musketeers (2011)",
             "Wonder Woman 1984 (2020)"
+        ]
+    },
+    "Gabrielle Union": {
+        "movies": [
+            "Daddy's Little Girls (2007)"
         ]
     },
     "Gal Gadot": {
@@ -5505,6 +5693,9 @@ var actorMap = {
         ],
         "movies": [
             "Batman & Robin (1997)",
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)",
             "Gravity (2013)"
         ]
     },
@@ -5571,6 +5762,11 @@ var actorMap = {
         "movies": [
             "300 (2007)",
             "300: Rise of an Empire (2014)"
+        ]
+    },
+    "Gigi Hadid": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Gina Carano": {
@@ -5728,6 +5924,11 @@ var actorMap = {
             "Mystery Men (1999)"
         ]
     },
+    "Griffin Dunne": {
+        "movies": [
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Gugu Mbatha-Raw": {
         "movies": [
             "Beauty and the Beast (2017)"
@@ -5834,6 +6035,7 @@ var actorMap = {
     },
     "Halston Sage": {
         "movies": [
+            "The Bling Ring (2013)",
             "Dark Phoenix (2019)"
         ]
     },
@@ -5999,6 +6201,11 @@ var actorMap = {
             "The Return of Swamp Thing (1989)"
         ]
     },
+    "Heidi Klum": {
+        "movies": [
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Helen Hunt": {
         "leadNoms": [
             {
@@ -6075,7 +6282,8 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Henry Cavill": {
@@ -6123,6 +6331,11 @@ var actorMap = {
                 "movie": "Million Dollar Baby",
                 "year": "2004"
             }
+        ]
+    },
+    "Himesh Patel": {
+        "movies": [
+            "Don't Look Up (2021)"
         ]
     },
     "Hiroyuki Sanada": {
@@ -6303,6 +6516,7 @@ var actorMap = {
     },
     "Idris Elba": {
         "movies": [
+            "Daddy's Little Girls (2007)",
             "The Losers (2010)",
             "Thor (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
@@ -6347,7 +6561,8 @@ var actorMap = {
     },
     "Imogen Poots": {
         "movies": [
-            "V for Vendetta (2006)"
+            "V for Vendetta (2006)",
+            "Green Room (2016)"
         ]
     },
     "Ingrid Bergman": {
@@ -6439,6 +6654,11 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)"
+        ]
+    },
+    "Israel Broussard": {
+        "movies": [
+            "The Bling Ring (2013)"
         ]
     },
     "Ivan Reitman": {
@@ -6703,7 +6923,8 @@ var actorMap = {
             "Bulletproof Monk (2003)",
             "Sin City (2005)",
             "The Spirit (2008)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Jaime Pressly": {
@@ -6753,6 +6974,11 @@ var actorMap = {
             "The Kitchen (2019)"
         ]
     },
+    "James Brolin": {
+        "movies": [
+            "Catch Me If You Can (2002)"
+        ]
+    },
     "James Caan": {
         "suppNoms": [
             {
@@ -6771,7 +6997,8 @@ var actorMap = {
     },
     "James Corden": {
         "movies": [
-            "The Three Musketeers (2011)"
+            "The Three Musketeers (2011)",
+            "Ocean's 8 (2018)"
         ]
     },
     "James Cromwell": {
@@ -7101,6 +7328,12 @@ var actorMap = {
             "Zootopia (2016)"
         ]
     },
+    "Jared Harris": {
+        "movies": [
+            "Ocean's Twelve (2004)",
+            "The Curious Case of Benjamin Button (2008)"
+        ]
+    },
     "Jared Leto": {
         "suppNoms": [
             {
@@ -7125,6 +7358,7 @@ var actorMap = {
         "movies": [
             "From Hell (2001)",
             "The League of Extraordinary Gentlemen (2003)",
+            "The Curious Case of Benjamin Button (2008)",
             "Kick-Ass (2010)",
             "X-Men: First Class (2011)"
         ]
@@ -7381,6 +7615,7 @@ var actorMap = {
         ],
         "movies": [
             "Hulk (2003)",
+            "Noah (2014)",
             "Spider-Man: Homecoming (2017)"
         ]
     },
@@ -7396,6 +7631,7 @@ var actorMap = {
     },
     "Jennifer Garner": {
         "movies": [
+            "Catch Me If You Can (2002)",
             "Daredevil (2003)",
             "13 Going on 30 (2004)",
             "Elektra (2005)",
@@ -7453,7 +7689,8 @@ var actorMap = {
             "X-Men: First Class (2011)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
-            "Dark Phoenix (2019)"
+            "Dark Phoenix (2019)",
+            "Don't Look Up (2021)"
         ]
     },
     "Jennifer Love Hewitt": {
@@ -7568,6 +7805,14 @@ var actorMap = {
                 "movie": "The Power of the Dog",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "The Power of the Dog (2021)"
+        ]
+    },
+    "Jesse Williams": {
+        "movies": [
+            "The Cabin in the Woods (2012)"
         ]
     },
     "Jessica Alba": {
@@ -7804,6 +8049,9 @@ var actorMap = {
                 "movie": "In & Out",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "The Perks of Being a Wallflower (2012)"
         ]
     },
     "Joan Plowright": {
@@ -7999,6 +8247,7 @@ var actorMap = {
     "John Boyega": {
         "movies": [
             "Star Wars: The Force Awakens (2015)",
+            "The Circle (2017)",
             "Star Wars: The Last Jedi (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -8190,6 +8439,11 @@ var actorMap = {
             "The Lord of the Rings: The Return of the King (2003)"
         ]
     },
+    "John Ortiz": {
+        "movies": [
+            "Blackhat (2015)"
+        ]
+    },
     "John Ratzenberger": {
         "movies": [
             "The Empire Strikes Back (1980)",
@@ -8311,7 +8565,8 @@ var actorMap = {
     "Johnny Simmons": {
         "movies": [
             "The Spirit (2008)",
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "The Perks of Being a Wallflower (2012)"
         ]
     },
     "Johnny Whitworth": {
@@ -8402,7 +8657,8 @@ var actorMap = {
             "Horton Hears a Who! (2008)",
             "The Lego Movie (2014)",
             "The Lego Batman Movie (2017)",
-            "The Lego Movie 2: The Second Part (2019)"
+            "The Lego Movie 2: The Second Part (2019)",
+            "Don't Look Up (2021)"
         ]
     },
     "Jonathan Banks": {
@@ -8443,6 +8699,11 @@ var actorMap = {
             "Star Wars: The Last Jedi (2017)",
             "Solo: A Star Wars Story (2018)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Jordan Peele": {
+        "movies": [
+            "Us (2019)"
         ]
     },
     "Jorge Lendeborg Jr.": {
@@ -8525,7 +8786,8 @@ var actorMap = {
     },
     "Joshua Jackson": {
         "movies": [
-            "Cruel Intentions (1999)"
+            "Cruel Intentions (1999)",
+            "Ocean's Eleven (2001)"
         ]
     },
     "Jovan Armand": {
@@ -8644,6 +8906,7 @@ var actorMap = {
     },
     "Julia Garner": {
         "movies": [
+            "The Perks of Being a Wallflower (2012)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -8655,6 +8918,11 @@ var actorMap = {
     "Julia Louis-Dreyfus": {
         "movies": [
             "Black Widow (2021)"
+        ]
+    },
+    "Julia Ormond": {
+        "movies": [
+            "The Curious Case of Benjamin Button (2008)"
         ]
     },
     "Julia Roberts": {
@@ -8679,6 +8947,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
             "Valentine's Day (2010)"
         ]
     },
@@ -8879,6 +9149,11 @@ var actorMap = {
             "Superman Returns (2006)"
         ]
     },
+    "Kara Hayward": {
+        "movies": [
+            "Us (2019)"
+        ]
+    },
     "Karan Soni": {
         "movies": [
             "Deadpool (2016)",
@@ -8899,6 +9174,7 @@ var actorMap = {
     "Karen Gillan": {
         "movies": [
             "Guardians of the Galaxy (2014)",
+            "The Circle (2017)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
@@ -8967,6 +9243,7 @@ var actorMap = {
     },
     "Kate Walsh": {
         "movies": [
+            "The Perks of Being a Wallflower (2012)",
             "Girls Trip (2017)"
         ]
     },
@@ -9124,9 +9401,15 @@ var actorMap = {
             "Valentine's Day (2010)"
         ]
     },
+    "Katie Chang": {
+        "movies": [
+            "The Bling Ring (2013)"
+        ]
+    },
     "Katie Holmes": {
         "movies": [
-            "Batman Begins (2005)"
+            "Batman Begins (2005)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Kaya Scodelario": {
@@ -9218,6 +9501,11 @@ var actorMap = {
             "Sky High (2005)"
         ]
     },
+    "Kelly Rohrbach": {
+        "movies": [
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Kelsey Grammer": {
         "movies": [
             "X-Men: The Last Stand (2006)",
@@ -9251,6 +9539,11 @@ var actorMap = {
     "Kenan Thompson": {
         "movies": [
             "The Grinch (2018)"
+        ]
+    },
+    "Kendall Jenner": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Kenneth Branagh": {
@@ -9337,7 +9630,8 @@ var actorMap = {
     },
     "Kevin Durand": {
         "movies": [
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "Noah (2014)"
         ]
     },
     "Kevin Heffernan": {
@@ -9354,6 +9648,7 @@ var actorMap = {
         ],
         "movies": [
             "Chaplin (1992)",
+            "The Tale of Despereaux (2008)",
             "Beauty and the Beast (2017)"
         ]
     },
@@ -9442,6 +9737,11 @@ var actorMap = {
             "Star Trek VI: The Undiscovered Country (1991)"
         ]
     },
+    "Kim Kardashian": {
+        "movies": [
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Kimiko Glenn": {
         "movies": [
             "Spider-Man: Into the Spider-Verse (2018)"
@@ -9475,7 +9775,9 @@ var actorMap = {
             "Spider-Man 2 (2004)",
             "Wimbledon (2004)",
             "Elizabethtown (2005)",
-            "Spider-Man 3 (2007)"
+            "Spider-Man 3 (2007)",
+            "The Bling Ring (2013)",
+            "The Power of the Dog (2021)"
         ]
     },
     "Kirstie Alley": {
@@ -9498,7 +9800,8 @@ var actorMap = {
         "movies": [
             "X-Men: Apocalypse (2016)",
             "Deadpool 2 (2018)",
-            "Dark Phoenix (2019)"
+            "Dark Phoenix (2019)",
+            "The Power of the Dog (2021)"
         ]
     },
     "Kris Kristofferson": {
@@ -9512,6 +9815,11 @@ var actorMap = {
         "movies": [
             "Zootopia (2016)",
             "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Kristen Connolly": {
+        "movies": [
+            "The Cabin in the Woods (2012)"
         ]
     },
     "Kristen Stewart": {
@@ -9557,6 +9865,11 @@ var actorMap = {
             "Bone Tomahawk (2015)",
             "The Hateful Eight (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)"
+        ]
+    },
+    "Kylie Jenner": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "L. Scott Caldwell": {
@@ -9891,6 +10204,10 @@ var actorMap = {
                 "movie": "What's Eating Gilbert Grape",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "Catch Me If You Can (2002)",
+            "Don't Look Up (2021)"
         ]
     },
     "Lesley Manville": {
@@ -9909,7 +10226,8 @@ var actorMap = {
     },
     "Leslie Mann": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "The Bling Ring (2013)"
         ]
     },
     "Leslie Uggams": {
@@ -9975,7 +10293,8 @@ var actorMap = {
     "Liev Schreiber": {
         "movies": [
             "X-Men Origins: Wolverine (2009)",
-            "Spider-Man: Into the Spider-Verse (2018)"
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "Don't Look Up (2021)"
         ]
     },
     "Lil Yachty": {
@@ -10086,12 +10405,19 @@ var actorMap = {
     },
     "Logan Lerman": {
         "movies": [
-            "The Three Musketeers (2011)"
+            "The Three Musketeers (2011)",
+            "The Perks of Being a Wallflower (2012)",
+            "Noah (2014)"
         ]
     },
     "Logan Marshall-Green": {
         "movies": [
             "Spider-Man: Homecoming (2017)"
+        ]
+    },
+    "Logan Miller": {
+        "movies": [
+            "The Bling Ring (2013)"
         ]
     },
     "Lori Petty": {
@@ -10122,6 +10448,11 @@ var actorMap = {
     "Louis Ashbourne Serkis": {
         "movies": [
             "The Kid Who Would Be King (2019)"
+        ]
+    },
+    "Louis Gossett Jr.": {
+        "movies": [
+            "Daddy's Little Girls (2007)"
         ]
     },
     "Louis Jourdan": {
@@ -10206,6 +10537,7 @@ var actorMap = {
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
             "Black Panther (2018)",
+            "Us (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -10287,7 +10619,8 @@ var actorMap = {
     },
     "Mae Whitman": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "The Perks of Being a Wallflower (2012)"
         ]
     },
     "Magda Szubanski": {
@@ -10362,8 +10695,14 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Curious Case of Benjamin Button (2008)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Eternals (2021)"
+        ]
+    },
+    "Maika Monroe": {
+        "movies": [
+            "The Bling Ring (2013)"
         ]
     },
     "Maisie Richardson-Sellers": {
@@ -10400,6 +10739,11 @@ var actorMap = {
     "Malin \u00c5kerman": {
         "movies": [
             "Watchmen (2009)"
+        ]
+    },
+    "Mamoudou Athie": {
+        "movies": [
+            "The Circle (2017)"
         ]
     },
     "Marc Maron": {
@@ -10611,6 +10955,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Mark Margolis": {
+        "movies": [
+            "Noah (2014)"
+        ]
+    },
     "Mark O'Brien": {
         "movies": [
             "Ready or Not (2019)"
@@ -10653,7 +11002,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Ready Player One (2018)"
+            "Ready Player One (2018)",
+            "Don't Look Up (2021)"
         ]
     },
     "Mark Strong": {
@@ -10661,7 +11011,6 @@ var actorMap = {
             "Kick-Ass (2010)",
             "Green Lantern (2011)",
             "John Carter (2012)",
-            "The Imitation Game (2014)",
             "The Imitation Game (2014)",
             "Kingsman: The Secret Service (2015)",
             "Kingsman: The Golden Circle (2017)",
@@ -10807,6 +11156,7 @@ var actorMap = {
     },
     "Martin Sheen": {
         "movies": [
+            "Catch Me If You Can (2002)",
             "The Amazing Spider-Man (2012)"
         ]
     },
@@ -10883,7 +11233,8 @@ var actorMap = {
     },
     "Mary Steenburgen": {
         "movies": [
-            "Four Christmases (2008)"
+            "Four Christmases (2008)",
+            "Nightmare Alley (2021)"
         ]
     },
     "Mary-Louise Parker": {
@@ -10926,6 +11277,9 @@ var actorMap = {
         "movies": [
             "Saving Private Ryan (1998)",
             "Dogma (1999)",
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)",
             "Thor: Ragnarok (2017)",
             "Deadpool 2 (2018)"
         ]
@@ -10966,7 +11320,8 @@ var actorMap = {
     },
     "Matthew Broderick": {
         "movies": [
-            "WarGames (1983)"
+            "WarGames (1983)",
+            "The Tale of Despereaux (2008)"
         ]
     },
     "Matthew Fox": {
@@ -11111,6 +11466,12 @@ var actorMap = {
                 "movie": "Working Girl",
                 "year": "1988"
             }
+        ]
+    },
+    "Melanie Lynskey": {
+        "movies": [
+            "The Perks of Being a Wallflower (2012)",
+            "Don't Look Up (2021)"
         ]
     },
     "Melissa Benoist": {
@@ -11284,7 +11645,8 @@ var actorMap = {
         ],
         "movies": [
             "The Deer Hunter (1978)",
-            "Little Women (2019)"
+            "Little Women (2019)",
+            "Don't Look Up (2021)"
         ]
     },
     "Mia Farrow": {
@@ -11385,7 +11747,8 @@ var actorMap = {
     "Michael Chiklis": {
         "movies": [
             "Fantastic Four (2005)",
-            "Fantastic Four: Rise of the Silver Surfer (2007)"
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Don't Look Up (2021)"
         ]
     },
     "Michael Clarke Duncan": {
@@ -11465,6 +11828,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Michael Gandolfini": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Michael Giacchino": {
@@ -11778,6 +12146,11 @@ var actorMap = {
         "movies": [
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Mindy Kaling": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Ming-Na Wen": {
@@ -12105,7 +12478,8 @@ var actorMap = {
     },
     "Nicholas Braun": {
         "movies": [
-            "Sky High (2005)"
+            "Sky High (2005)",
+            "The Perks of Being a Wallflower (2012)"
         ]
     },
     "Nicholas Hoult": {
@@ -12157,7 +12531,8 @@ var actorMap = {
         ],
         "movies": [
             "Hulk (2003)",
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "Noah (2014)"
         ]
     },
     "Nick Offerman": {
@@ -12244,6 +12619,11 @@ var actorMap = {
             "Wimbledon (2004)",
             "Firewall (2006)",
             "Oblivion (2013)"
+        ]
+    },
+    "Nina Dobrev": {
+        "movies": [
+            "The Perks of Being a Wallflower (2012)"
         ]
     },
     "Noah Emmerich": {
@@ -12397,7 +12777,8 @@ var actorMap = {
     "Olivia Munn": {
         "movies": [
             "Iron Man 2 (2010)",
-            "X-Men: Apocalypse (2016)"
+            "X-Men: Apocalypse (2016)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Olivia Olson": {
@@ -12518,6 +12899,11 @@ var actorMap = {
             "Barb Wire (1996)"
         ]
     },
+    "Paris Hilton": {
+        "movies": [
+            "The Bling Ring (2013)"
+        ]
+    },
     "Parker Posey": {
         "movies": [
             "Dazed and Confused (1993)",
@@ -12584,6 +12970,7 @@ var actorMap = {
             "X-Men Origins: Wolverine (2009)",
             "Ted (2012)",
             "X-Men: Days of Future Past (2014)",
+            "Green Room (2016)",
             "Logan (2017)",
             "The Kid Who Would Be King (2019)"
         ]
@@ -12606,6 +12993,7 @@ var actorMap = {
     "Patton Oswalt": {
         "movies": [
             "Blade: Trinity (2004)",
+            "The Circle (2017)",
             "Teen Titans Go! To the Movies (2018)",
             "Eternals (2021)"
         ]
@@ -12728,6 +13116,7 @@ var actorMap = {
             "Knocked Up (2007)",
             "I Love You, Man (2009)",
             "How Do You Know (2010)",
+            "The Perks of Being a Wallflower (2012)",
             "Ant-Man (2015)",
             "Captain America: Civil War (2016)",
             "Ant-Man and the Wasp (2018)",
@@ -13077,6 +13466,14 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Qin Shaobo": {
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)",
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Queen Latifah": {
         "suppNoms": [
             {
@@ -13279,6 +13676,7 @@ var actorMap = {
     "Ray Winstone": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Noah (2014)",
             "Black Widow (2021)"
         ]
     },
@@ -13441,7 +13839,8 @@ var actorMap = {
             "Captain America: The First Avenger (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Richard Attenborough": {
@@ -13553,7 +13952,10 @@ var actorMap = {
         ],
         "movies": [
             "Rumor Has It (2005)",
-            "Bone Tomahawk (2015)"
+            "The Tale of Despereaux (2008)",
+            "The Cabin in the Woods (2012)",
+            "Bone Tomahawk (2015)",
+            "Nightmare Alley (2021)"
         ]
     },
     "Richard Madden": {
@@ -13579,6 +13981,11 @@ var actorMap = {
     "Rick Moranis": {
         "movies": [
             "Spaceballs (1987)"
+        ]
+    },
+    "Rihanna": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Riki Lindhome": {
@@ -13625,6 +14032,11 @@ var actorMap = {
             "Deadpool 2 (2018)"
         ]
     },
+    "Rob Morgan": {
+        "movies": [
+            "Don't Look Up (2021)"
+        ]
+    },
     "Rob Zombie": {
         "movies": [
             "Guardians of the Galaxy (2014)",
@@ -13638,8 +14050,10 @@ var actorMap = {
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
+            "Ocean's Twelve (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
+            "The Tale of Despereaux (2008)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
@@ -13899,7 +14313,9 @@ var actorMap = {
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)",
             "Conan the Barbarian (2011)",
-            "Fantastic Beasts and Where to Find Them (2016)"
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Don't Look Up (2021)",
+            "Nightmare Alley (2021)"
         ]
     },
     "Ron Silver": {
@@ -13924,6 +14340,9 @@ var actorMap = {
                 "movie": "Carol",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "Nightmare Alley (2021)"
         ]
     },
     "Rory Cochrane": {
@@ -14099,7 +14518,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Noah (2014)"
         ]
     },
     "Rutger Hauer": {
@@ -14418,7 +14838,8 @@ var actorMap = {
         "movies": [
             "The Prince of Egypt (1998)",
             "The Lake House (2006)",
-            "Gravity (2013)"
+            "Gravity (2013)",
+            "Ocean's 8 (2018)"
         ]
     },
     "Sandy Dennis": {
@@ -14462,12 +14883,14 @@ var actorMap = {
     "Sarah Paulson": {
         "movies": [
             "The Spirit (2008)",
+            "Ocean's 8 (2018)",
             "Glass (2019)"
         ]
     },
     "Sarah Silverman": {
         "movies": [
-            "Rent (2005)"
+            "Rent (2005)",
+            "Don't Look Up (2021)"
         ]
     },
     "Sarah Vowell": {
@@ -14532,6 +14955,13 @@ var actorMap = {
             "Big Hero 6 (2014)"
         ]
     },
+    "Scott Caan": {
+        "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
+        ]
+    },
     "Scott Eastwood": {
         "movies": [
             "Suicide Squad (2016)"
@@ -14541,6 +14971,11 @@ var actorMap = {
         "movies": [
             "Teen Titans Go! To the Movies (2018)",
             "Dolittle (2020)"
+        ]
+    },
+    "Scott Mescudi": {
+        "movies": [
+            "Don't Look Up (2021)"
         ]
     },
     "Sean Astin": {
@@ -14649,6 +15084,11 @@ var actorMap = {
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Serena Williams": {
+        "movies": [
+            "Ocean's 8 (2018)"
+        ]
+    },
     "Sergio Castellitto": {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)"
@@ -14675,6 +15115,11 @@ var actorMap = {
             "The Green Hornet (2011)"
         ]
     },
+    "Shahadi Wright Joseph": {
+        "movies": [
+            "Us (2019)"
+        ]
+    },
     "Shailene Woodley": {
         "movies": [
             "The Amazing Spider-Man 2 (2014)"
@@ -14692,6 +15137,7 @@ var actorMap = {
     },
     "Shane West": {
         "movies": [
+            "Ocean's Eleven (2001)",
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
@@ -14862,7 +15308,9 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "Galaxy Quest (1999)",
+            "The Tale of Despereaux (2008)",
             "Avatar (2009)",
+            "The Cabin in the Woods (2012)",
             "A Monster Calls (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -15060,6 +15508,7 @@ var actorMap = {
         "movies": [
             "Road to Perdition (2002)",
             "The Terminal (2004)",
+            "The Tale of Despereaux (2008)",
             "Captain America: The First Avenger (2011)",
             "Beauty and the Beast (2017)",
             "The King's Man (2021)"
@@ -15217,6 +15666,11 @@ var actorMap = {
             }
         ]
     },
+    "Steven Soderbergh": {
+        "movies": [
+            "Ocean's Eleven (2001)"
+        ]
+    },
     "Steven Spielberg": {
         "movies": [
             "Vanilla Sky (2001)"
@@ -15363,6 +15817,11 @@ var actorMap = {
             "The Suicide Squad (2021)"
         ]
     },
+    "Taissa Farmiga": {
+        "movies": [
+            "The Bling Ring (2013)"
+        ]
+    },
     "Talia Shire": {
         "leadNoms": [
             {
@@ -15397,6 +15856,9 @@ var actorMap = {
                 "movie": "The Curious Case of Benjamin Button",
                 "year": "2008"
             }
+        ],
+        "movies": [
+            "The Curious Case of Benjamin Button (2008)"
         ]
     },
     "Taran Killam": {
@@ -15408,6 +15870,11 @@ var actorMap = {
         "movies": [
             "Kingsman: The Secret Service (2015)",
             "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Tasha Smith": {
+        "movies": [
+            "Daddy's Little Girls (2007)"
         ]
     },
     "Taye Diggs": {
@@ -15564,7 +16031,8 @@ var actorMap = {
     },
     "Thomasin McKenzie": {
         "movies": [
-            "Jojo Rabbit (2019)"
+            "Jojo Rabbit (2019)",
+            "The Power of the Dog (2021)"
         ]
     },
     "Thora Birch": {
@@ -15596,6 +16064,7 @@ var actorMap = {
             "Constantine (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
+            "The Curious Case of Benjamin Button (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "Doctor Strange (2016)",
             "Avengers: Endgame (2019)"
@@ -15614,7 +16083,8 @@ var actorMap = {
     "Tim Blake Nelson": {
         "movies": [
             "The Incredible Hulk (2008)",
-            "Fantastic Four (2015)"
+            "Fantastic Four (2015)",
+            "Nightmare Alley (2021)"
         ]
     },
     "Tim Blaney": {
@@ -15622,6 +16092,13 @@ var actorMap = {
             "Men in Black (1997)",
             "Men in Black II (2002)",
             "Men in Black: International (2019)"
+        ]
+    },
+    "Tim Heidecker": {
+        "movies": [
+            "Fantastic Four (2015)",
+            "Ant-Man and the Wasp (2018)",
+            "Us (2019)"
         ]
     },
     "Tim Kelleher": {
@@ -15686,7 +16163,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Little Women (2019)"
+            "Little Women (2019)",
+            "Don't Look Up (2021)"
         ]
     },
     "Tina Turner": {
@@ -15816,7 +16294,9 @@ var actorMap = {
             "Saving Private Ryan (1998)",
             "Cast Away (2000)",
             "Road to Perdition (2002)",
-            "The Terminal (2004)"
+            "Catch Me If You Can (2002)",
+            "The Terminal (2004)",
+            "The Circle (2017)"
         ]
     },
     "Tom Hardy": {
@@ -15967,6 +16447,9 @@ var actorMap = {
                 "movie": "The Sixth Sense",
                 "year": "1999"
             }
+        ],
+        "movies": [
+            "Nightmare Alley (2021)"
         ]
     },
     "Tony Amendola": {
@@ -15991,6 +16474,11 @@ var actorMap = {
         "movies": [
             "Blade II (2002)",
             "The League of Extraordinary Gentlemen (2003)"
+        ]
+    },
+    "Tony Hale": {
+        "movies": [
+            "The Tale of Despereaux (2008)"
         ]
     },
     "Tony Leung": {
@@ -16027,9 +16515,21 @@ var actorMap = {
     },
     "Topher Grace": {
         "movies": [
+            "Ocean's Eleven (2001)",
+            "Ocean's Twelve (2004)",
             "Spider-Man 3 (2007)",
             "Valentine's Day (2010)",
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Tracee Ellis Ross": {
+        "movies": [
+            "Daddy's Little Girls (2007)"
+        ]
+    },
+    "Tracey Ullman": {
+        "movies": [
+            "The Tale of Despereaux (2008)"
         ]
     },
     "Tracie Thoms": {
@@ -16118,7 +16618,8 @@ var actorMap = {
     "Tyler Perry": {
         "movies": [
             "Star Trek (2009)",
-            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
+            "Don't Look Up (2021)"
         ]
     },
     "Tyne Daly": {
@@ -16294,6 +16795,12 @@ var actorMap = {
             "Four Christmases (2008)"
         ]
     },
+    "Vincent Cassel": {
+        "movies": [
+            "Ocean's Twelve (2004)",
+            "Ocean's Thirteen (2007)"
+        ]
+    },
     "Vincent D'Onofrio": {
         "movies": [
             "Men in Black (1997)"
@@ -16359,6 +16866,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Blackhat (2015)",
             "Suicide Squad (2016)",
             "The Suicide Squad (2021)"
         ]
@@ -16449,7 +16957,6 @@ var actorMap = {
             "Ray (2004)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
-            "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "Harry Potter and the Half-Blood Prince (2009)",
@@ -16467,6 +16974,11 @@ var actorMap = {
             "Jurassic Park (1993)",
             "Space Jam (1996)",
             "Punisher: War Zone (2008)"
+        ]
+    },
+    "Wayne Newton": {
+        "movies": [
+            "Ocean's Eleven (2001)"
         ]
     },
     "Wes Bentley": {
@@ -16610,6 +17122,7 @@ var actorMap = {
             "Aquaman (2018)",
             "The Lighthouse (2019)",
             "Zack Snyder's Justice League (2021)",
+            "Nightmare Alley (2021)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -16633,7 +17146,8 @@ var actorMap = {
         ],
         "movies": [
             "Mystery Men (1999)",
-            "Cellular (2004)"
+            "Cellular (2004)",
+            "The Tale of Despereaux (2008)"
         ]
     },
     "William Hurt": {
@@ -16664,6 +17178,11 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
             "Black Widow (2021)"
+        ]
+    },
+    "William Mapother": {
+        "movies": [
+            "Blackhat (2015)"
         ]
     },
     "William Moseley": {
@@ -16720,6 +17239,7 @@ var actorMap = {
         "movies": [
             "Black Panther (2018)",
             "Avengers: Infinity War (2018)",
+            "Us (2019)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -16777,7 +17297,8 @@ var actorMap = {
     },
     "Yahya Abdul-Mateen II": {
         "movies": [
-            "Aquaman (2018)"
+            "Aquaman (2018)",
+            "Us (2019)"
         ]
     },
     "Yalitza Aparicio": {
@@ -16853,6 +17374,11 @@ var actorMap = {
     "Zahn McClarnon": {
         "movies": [
             "Bone Tomahawk (2015)"
+        ]
+    },
+    "Zayn Malik": {
+        "movies": [
+            "Ocean's 8 (2018)"
         ]
     },
     "Zazie Beetz": {
