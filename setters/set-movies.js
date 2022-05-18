@@ -28331,6 +28331,13 @@ var movieMap = {
             "Black Cinema",
             "Modern Classics",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Beverly Todd",
+            "Michael Imperioli",
+            "Morgan Freeman",
+            "Robert Guillaume",
+            "Tony Todd"
         ]
     },
     "Skin Deep (1989)": {
@@ -38651,6 +38658,26 @@ var movieMap = {
         "categories": [
             "1990s",
             "Bruce Willis",
+            "Scarlett Johansson"
+        ],
+        "cast": [
+            "Abe Vigoda",
+            "Alan Arkin",
+            "Ben Stein",
+            "Bruce Willis",
+            "Dan Aykroyd",
+            "Elijah Wood",
+            "Graham Greene",
+            "Jason Alexander",
+            "John Ritter",
+            "Jon Lovitz",
+            "Julia Louis-Dreyfus",
+            "Jussie Smollett",
+            "Kathy Bates",
+            "Kelly McGillis",
+            "Marc Shaiman",
+            "Reba McEntire",
+            "Rosalind Chao",
             "Scarlett Johansson"
         ]
     },
@@ -57333,6 +57360,7 @@ var movieMap = {
             "Ian McKellen",
             "John Rhys-Davies",
             "Liv Tyler",
+            "Marton Csokas",
             "Orlando Bloom",
             "Sean Astin",
             "Sean Bean",
@@ -57551,6 +57579,24 @@ var movieMap = {
             "2000s",
             "Dramas",
             "Scotts"
+        ],
+        "cast": [
+            "Eric Bana",
+            "Ewan McGregor",
+            "Ewen Bremner",
+            "Hugh Dancy",
+            "Ioan Gruffudd",
+            "Jason Isaacs",
+            "Jeremy Piven",
+            "Josh Hartnett",
+            "Nikolaj Coster-Waldau",
+            "Orlando Bloom",
+            "Ron Eldard",
+            "Sam Shepard",
+            "Tom Hardy",
+            "Tom Sizemore",
+            "Ty Burrell",
+            "William Fichtner"
         ]
     },
     "I Am Sam (2001)": {
@@ -63209,6 +63255,7 @@ var movieMap = {
             "John Rhys-Davies",
             "Karl Urban",
             "Liv Tyler",
+            "Marton Csokas",
             "Miranda Otto",
             "Orlando Bloom",
             "Peter Jackson",
@@ -64282,6 +64329,24 @@ var movieMap = {
             "Action/Adventure",
             "Brad Pitt & George Clooney",
             "Historical Epics & Dramas"
+        ],
+        "cast": [
+            "Brad Pitt",
+            "Brendan Gleeson",
+            "Brian Cox",
+            "Diane Kruger",
+            "Eric Bana",
+            "Garrett Hedlund",
+            "Julian Glover",
+            "Julie Christie",
+            "Nathan Jones",
+            "Nigel Terry",
+            "Orlando Bloom",
+            "Peter O'Toole",
+            "Rose Byrne",
+            "Saffron Burrows",
+            "Sean Bean",
+            "Tyler Mane"
         ]
     },
     "Shrek 2 (2004)": {
@@ -67165,6 +67230,20 @@ var movieMap = {
             "Action/Adventure",
             "Historical Epics & Dramas",
             "Scotts"
+        ],
+        "cast": [
+            "Brendan Gleeson",
+            "David Thewlis",
+            "Edward Norton",
+            "Eva Green",
+            "Iain Glen",
+            "Jeremy Irons",
+            "Kevin McKidd",
+            "Liam Neeson",
+            "Marton Csokas",
+            "Michael Sheen",
+            "Nikolaj Coster-Waldau",
+            "Orlando Bloom"
         ]
     },
     "Kicking & Screaming (2005)": {
@@ -75733,6 +75812,13 @@ var movieMap = {
             "Dramas",
             "Jack Nicholson",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Alex Trebek",
+            "Beverly Todd",
+            "Jack Nicholson",
+            "Morgan Freeman",
+            "Sean Hayes"
         ]
     },
     "The Great Debaters (2007)": {
@@ -76262,6 +76348,20 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Natalie Portman",
+            "Scarlett Johansson"
+        ],
+        "cast": [
+            "Alfie Allen",
+            "Andrew Garfield",
+            "Benedict Cumberbatch",
+            "David Morrissey",
+            "Eddie Redmayne",
+            "Eric Bana",
+            "Jim Sturgess",
+            "Juno Temple",
+            "Kristin Scott Thomas",
+            "Mark Rylance",
             "Natalie Portman",
             "Scarlett Johansson"
         ]
@@ -77406,7 +77506,7 @@ var movieMap = {
             "Jason Bateman",
             "Jay Baruchel",
             "Jennifer Love Hewitt",
-            "Jon Voight ",
+            "Jon Voight",
             "Justin Theroux",
             "Lance Bass",
             "Maria Menounos",
@@ -82029,6 +82129,7 @@ var movieMap = {
             "Jim Carter",
             "Johnny Depp",
             "Lindsay Duncan",
+            "Marton Csokas",
             "Matt Lucas",
             "Mia Wasikowska",
             "Michael Gough",
@@ -84469,6 +84570,14 @@ var movieMap = {
         "categories": [
             "2010s",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Johnny Depp",
+            "Paul Bettany",
+            "Rufus Sewell",
+            "Steven Berkoff",
+            "Timothy Dalton"
         ]
     },
     "How Do You Know (2010)": {
@@ -87464,6 +87573,18 @@ var movieMap = {
             "Biopics",
             "Dramas",
             "Emmas"
+        ],
+        "cast": [
+            "Derek Jacobi",
+            "Dominic Cooper",
+            "Dougray Scott",
+            "Eddie Redmayne",
+            "Emma Watson",
+            "Judi Dench",
+            "Julia Ormond",
+            "Kenneth Branagh",
+            "Michelle Williams",
+            "Toby Jones"
         ]
     },
     "The Muppets (2011)": {
@@ -91812,6 +91933,27 @@ var movieMap = {
             "Frat Pack",
             "Kevin Hart",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Aziz Ansari",
+            "Channing Tatum",
+            "Christopher Mintz-Plasse",
+            "Craig Robinson",
+            "Danny McBride",
+            "David Krumholtz",
+            "Emma Watson",
+            "Evan Goldberg",
+            "James Franco",
+            "Jason Segel",
+            "Jay Baruchel",
+            "Jonah Hill",
+            "Kevin Hart",
+            "Martin Starr",
+            "Michael Cera",
+            "Mindy Kaling",
+            "Paul Rudd",
+            "Rihanna",
+            "Seth Rogen"
         ]
     },
     "Man of Steel (2013)": {
@@ -92265,6 +92407,7 @@ var movieMap = {
             "John Malkovich",
             "Mary-Louise Parker",
             "Neal McDonough",
+            "Steven Berkoff",
             "Titus Welliver"
         ]
     },
@@ -94342,6 +94485,7 @@ var movieMap = {
             "Kevin Durand",
             "Logan Lerman",
             "Mark Margolis",
+            "Marton Csokas",
             "Nick Nolte",
             "Ray Winstone",
             "Russell Crowe"
@@ -94668,6 +94812,7 @@ var movieMap = {
             "Emma Stone",
             "Felicity Jones",
             "Jamie Foxx",
+            "Marton Csokas",
             "Max Charles",
             "Paul Giamatti",
             "Sally Field",
@@ -95685,6 +95830,7 @@ var movieMap = {
             "Julia Garner",
             "Juno Temple",
             "Lady Gaga",
+            "Marton Csokas",
             "Mickey Rourke",
             "Powers Boothe",
             "Ray Liotta",
@@ -110743,6 +110889,20 @@ var movieMap = {
             "2010s",
             "Crime",
             "Mystery"
+        ],
+        "cast": [
+            "Cailee Spaeny",
+            "Chris Hemsworth",
+            "Cynthia Erivo",
+            "Dakota Johnson",
+            "Jeff Bridges",
+            "Jim O'Heir",
+            "Jon Hamm",
+            "Lewis Pullman",
+            "Mark O'Brien",
+            "Nick Offerman",
+            "Shea Whigham",
+            "Xavier Dolan"
         ]
     },
     "Beautiful Boy (2018)": {
@@ -115894,6 +116054,15 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Andrew Scott",
+            "Benedict Cumberbatch",
+            "Colin Firth",
+            "Dean-Charles Chapman",
+            "George MacKay",
+            "Mark Strong",
+            "Richard Madden"
         ]
     },
     "Just Mercy (2019)": {
