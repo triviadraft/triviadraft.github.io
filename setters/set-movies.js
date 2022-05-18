@@ -59509,6 +59509,19 @@ var movieMap = {
             "Reese Witherspoon",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Candice Bergen",
+            "Dakota Fanning",
+            "Ethan Embry",
+            "Fred Ward",
+            "Jean Smart",
+            "Josh Lucas",
+            "Mary Kay Place",
+            "Melanie Lynskey",
+            "Patrick Dempsey",
+            "Reese Witherspoon",
+            "Rhona Mitra"
         ]
     },
     "The Tuxedo (2002)": {
@@ -68279,6 +68292,14 @@ var movieMap = {
             "Reese Witherspoon",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Donal Logue",
+            "Jon Heder",
+            "Kerris Dorsey",
+            "Mark Ruffalo",
+            "Reese Witherspoon",
+            "Rosalind Chao"
         ]
     },
     "Lord of War (2005)": {
@@ -69034,6 +69055,13 @@ var movieMap = {
             "2000s",
             "Biopics",
             "Reese Witherspoon"
+        ],
+        "cast": [
+            "Ginnifer Goodwin",
+            "Joaquin Phoenix",
+            "Lucas Till",
+            "Reese Witherspoon",
+            "Robert Patrick"
         ]
     },
     "Just Friends (2005)": {
@@ -88375,6 +88403,17 @@ var movieMap = {
             "Reese Witherspoon",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Abigail Spencer",
+            "Angela Bassett",
+            "Chelsea Handler",
+            "Chris Pine",
+            "Jenny Slate",
+            "Reese Witherspoon",
+            "Rosemary Harris",
+            "Til Schweiger",
+            "Tom Hardy"
         ]
     },
     "Act of Valor (2012)": {
@@ -96889,6 +96928,12 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Reese Witherspoon"
+        ],
+        "cast": [
+            "Gaby Hoffmann",
+            "Laura Dern",
+            "Michiel Huisman",
             "Reese Witherspoon"
         ]
     },
@@ -108454,6 +108499,20 @@ var movieMap = {
             "Disney",
             "Fantasy/Sci-Fi",
             "Reese Witherspoon"
+        ],
+        "cast": [
+            "Andre Holland",
+            "Chris Pine",
+            "David Oyelowo",
+            "Gugu Mbatha-Raw",
+            "Levi Miller",
+            "Michael Pe\u00f1a",
+            "Mindy Kaling",
+            "Oprah Winfrey",
+            "Reese Witherspoon",
+            "Rowan Blanchard",
+            "Storm Reid",
+            "Zach Galifianakis"
         ]
     },
     "Gringo (2018)": {
@@ -115400,6 +115459,18 @@ var movieMap = {
             "2010s",
             "Scarlett Johansson",
             "Streaming"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Alan Alda",
+            "Jasmine Cephas Jones",
+            "Julie Hagerty",
+            "Laura Dern",
+            "Mark O'Brien",
+            "Mickey Sumner",
+            "Ray Liotta",
+            "Scarlett Johansson",
+            "Wallace Shawn"
         ]
     },
     "Doctor Sleep (2019)": {

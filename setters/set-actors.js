@@ -55,7 +55,8 @@ var actorMap = {
     },
     "Abigail Spencer": {
         "movies": [
-            "Cowboys & Aliens (2011)"
+            "Cowboys & Aliens (2011)",
+            "This Means War (2012)"
         ]
     },
     "Abraham Attah": {
@@ -104,6 +105,7 @@ var actorMap = {
         "movies": [
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
+            "Marriage Story (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -246,6 +248,9 @@ var actorMap = {
                 "movie": "The Aviator",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Marriage Story (2019)"
         ]
     },
     "Alan Arkin": {
@@ -694,6 +699,11 @@ var actorMap = {
             "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
+    "Andre Holland": {
+        "movies": [
+            "A Wrinkle in Time (2018)"
+        ]
+    },
     "Andrea Riseborough": {
         "movies": [
             "Oblivion (2013)"
@@ -793,6 +803,7 @@ var actorMap = {
         "movies": [
             "Boyz n the Hood (1991)",
             "Green Lantern (2011)",
+            "This Means War (2012)",
             "Black Panther (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -2416,6 +2427,11 @@ var actorMap = {
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
+    "Candice Bergen": {
+        "movies": [
+            "Sweet Home Alabama (2002)"
+        ]
+    },
     "Cara Delevingne": {
         "movies": [
             "Suicide Squad (2016)"
@@ -2765,6 +2781,11 @@ var actorMap = {
             }
         ]
     },
+    "Chelsea Handler": {
+        "movies": [
+            "This Means War (2012)"
+        ]
+    },
     "Cher": {
         "leadNoms": [
             {
@@ -2927,9 +2948,11 @@ var actorMap = {
     "Chris Pine": {
         "movies": [
             "Star Trek (2009)",
+            "This Means War (2012)",
             "Star Trek Into Darkness (2013)",
             "Star Trek Beyond (2016)",
             "Wonder Woman (2017)",
+            "A Wrinkle in Time (2018)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Wonder Woman 1984 (2020)"
         ]
@@ -3477,6 +3500,7 @@ var actorMap = {
     },
     "Dakota Fanning": {
         "movies": [
+            "Sweet Home Alabama (2002)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -3848,6 +3872,11 @@ var actorMap = {
     "David Moscow": {
         "movies": [
             "Big (1988)"
+        ]
+    },
+    "David Oyelowo": {
+        "movies": [
+            "A Wrinkle in Time (2018)"
         ]
     },
     "David Patrick Kelly": {
@@ -4389,6 +4418,7 @@ var actorMap = {
     "Donal Logue": {
         "movies": [
             "Blade (1998)",
+            "Just like Heaven (2005)",
             "Ghost Rider (2007)",
             "Zodiac (2007)"
         ]
@@ -5116,6 +5146,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
+    "Ethan Embry": {
+        "movies": [
+            "Sweet Home Alabama (2002)"
+        ]
+    },
     "Ethan Hawke": {
         "suppNoms": [
             {
@@ -5517,6 +5552,11 @@ var actorMap = {
             "Bone Tomahawk (2015)"
         ]
     },
+    "Fred Ward": {
+        "movies": [
+            "Sweet Home Alabama (2002)"
+        ]
+    },
     "Freddie Prinze Jr.": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
@@ -5558,6 +5598,11 @@ var actorMap = {
     "Gabrielle Union": {
         "movies": [
             "Daddy's Little Girls (2007)"
+        ]
+    },
+    "Gaby Hoffmann": {
+        "movies": [
+            "Wild (2014)"
         ]
     },
     "Gal Gadot": {
@@ -5922,6 +5967,7 @@ var actorMap = {
     },
     "Ginnifer Goodwin": {
         "movies": [
+            "Walk the Line (2005)",
             "Zootopia (2016)"
         ]
     },
@@ -6080,7 +6126,8 @@ var actorMap = {
     },
     "Gugu Mbatha-Raw": {
         "movies": [
-            "Beauty and the Beast (2017)"
+            "Beauty and the Beast (2017)",
+            "A Wrinkle in Time (2018)"
         ]
     },
     "Guy Pearce": {
@@ -7533,6 +7580,11 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Jasmine Cephas Jones": {
+        "movies": [
+            "Marriage Story (2019)"
+        ]
+    },
     "Jason Alexander": {
         "movies": [
             "North (1994)"
@@ -7689,6 +7741,11 @@ var actorMap = {
                 "movie": "The Artist",
                 "year": "2011"
             }
+        ]
+    },
+    "Jean Smart": {
+        "movies": [
+            "Sweet Home Alabama (2002)"
         ]
     },
     "Jean-Claude Van Damme": {
@@ -7917,6 +7974,7 @@ var actorMap = {
     },
     "Jenny Slate": {
         "movies": [
+            "This Means War (2012)",
             "Zootopia (2016)",
             "The Lego Batman Movie (2017)",
             "Venom (2018)"
@@ -8334,6 +8392,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Walk the Line (2005)",
             "Joker (2019)"
         ]
     },
@@ -8841,6 +8900,11 @@ var actorMap = {
             "Bad Times at the El Royale (2018)"
         ]
     },
+    "Jon Heder": {
+        "movies": [
+            "Just like Heaven (2005)"
+        ]
+    },
     "Jon Lovitz": {
         "movies": [
             "Three Amigos (1986)",
@@ -9024,6 +9088,7 @@ var actorMap = {
     },
     "Josh Lucas": {
         "movies": [
+            "Sweet Home Alabama (2002)",
             "Hulk (2003)"
         ]
     },
@@ -9304,6 +9369,11 @@ var actorMap = {
     "Julie Delpy": {
         "movies": [
             "Avengers: Age of Ultron (2015)"
+        ]
+    },
+    "Julie Hagerty": {
+        "movies": [
+            "Marriage Story (2019)"
         ]
     },
     "Julie Strain": {
@@ -9858,6 +9928,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Kerris Dorsey": {
+        "movies": [
+            "Just like Heaven (2005)"
+        ]
+    },
     "Kerry Condon": {
         "movies": [
             "Avengers: Infinity War (2018)"
@@ -10270,7 +10345,9 @@ var actorMap = {
         ],
         "movies": [
             "Jurassic Park (1993)",
+            "Wild (2014)",
             "Star Wars: The Last Jedi (2017)",
+            "Marriage Story (2019)",
             "Little Women (2019)"
         ]
     },
@@ -10543,6 +10620,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Levi Miller": {
+        "movies": [
+            "A Wrinkle in Time (2018)"
+        ]
+    },
     "Lewis MacDougall": {
         "movies": [
             "A Monster Calls (2016)"
@@ -10777,6 +10859,7 @@ var actorMap = {
     },
     "Lucas Till": {
         "movies": [
+            "Walk the Line (2005)",
             "X-Men: First Class (2011)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)"
@@ -11276,7 +11359,8 @@ var actorMap = {
     "Mark O'Brien": {
         "movies": [
             "Bad Times at the El Royale (2018)",
-            "Ready or Not (2019)"
+            "Ready or Not (2019)",
+            "Marriage Story (2019)"
         ]
     },
     "Mark Ruffalo": {
@@ -11296,6 +11380,7 @@ var actorMap = {
         ],
         "movies": [
             "13 Going on 30 (2004)",
+            "Just like Heaven (2005)",
             "Rumor Has It (2005)",
             "Zodiac (2007)",
             "The Avengers (2012)",
@@ -11542,7 +11627,8 @@ var actorMap = {
     },
     "Mary Kay Place": {
         "movies": [
-            "Terms of Endearment (1983)"
+            "Terms of Endearment (1983)",
+            "Sweet Home Alabama (2002)"
         ]
     },
     "Mary McDonnell": {
@@ -11799,6 +11885,7 @@ var actorMap = {
     },
     "Melanie Lynskey": {
         "movies": [
+            "Sweet Home Alabama (2002)",
             "The Perks of Being a Wallflower (2012)",
             "Don't Look Up (2021)"
         ]
@@ -12284,6 +12371,7 @@ var actorMap = {
     "Michael Pe\u00f1a": {
         "movies": [
             "Ant-Man (2015)",
+            "A Wrinkle in Time (2018)",
             "Ant-Man and the Wasp (2018)"
         ]
     },
@@ -12428,6 +12516,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Michiel Huisman": {
+        "movies": [
+            "Wild (2014)"
+        ]
+    },
     "Mickey Rourke": {
         "leadNoms": [
             {
@@ -12439,6 +12532,11 @@ var actorMap = {
             "Sin City (2005)",
             "Iron Man 2 (2010)",
             "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
+    "Mickey Sumner": {
+        "movies": [
+            "Marriage Story (2019)"
         ]
     },
     "Mike Colter": {
@@ -12500,6 +12598,7 @@ var actorMap = {
     "Mindy Kaling": {
         "movies": [
             "This Is the End (2013)",
+            "A Wrinkle in Time (2018)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -13204,6 +13303,9 @@ var actorMap = {
                 "movie": "The Color Purple",
                 "year": "1985"
             }
+        ],
+        "movies": [
+            "A Wrinkle in Time (2018)"
         ]
     },
     "Orlando Bloom": {
@@ -13321,6 +13423,7 @@ var actorMap = {
     },
     "Patrick Dempsey": {
         "movies": [
+            "Sweet Home Alabama (2002)",
             "Valentine's Day (2010)"
         ]
     },
@@ -14054,7 +14157,8 @@ var actorMap = {
     },
     "Ray Liotta": {
         "movies": [
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "Marriage Story (2019)"
         ]
     },
     "Ray Park": {
@@ -14130,8 +14234,14 @@ var actorMap = {
         ],
         "movies": [
             "Cruel Intentions (1999)",
+            "Sweet Home Alabama (2002)",
+            "Just like Heaven (2005)",
+            "Walk the Line (2005)",
             "Four Christmases (2008)",
-            "How Do You Know (2010)"
+            "How Do You Know (2010)",
+            "This Means War (2012)",
+            "Wild (2014)",
+            "A Wrinkle in Time (2018)"
         ]
     },
     "Reg E. Cathey": {
@@ -14214,6 +14324,11 @@ var actorMap = {
     "Rhett Reese": {
         "movies": [
             "Deadpool 2 (2018)"
+        ]
+    },
+    "Rhona Mitra": {
+        "movies": [
+            "Sweet Home Alabama (2002)"
         ]
     },
     "Rhys Ifans": {
@@ -14619,6 +14734,7 @@ var actorMap = {
     "Robert Patrick": {
         "movies": [
             "Last Action Hero (1993)",
+            "Walk the Line (2005)",
             "Firewall (2006)"
         ]
     },
@@ -14792,7 +14908,8 @@ var actorMap = {
     "Rosalind Chao": {
         "movies": [
             "The Joy Luck Club (1993)",
-            "North (1994)"
+            "North (1994)",
+            "Just like Heaven (2005)"
         ]
     },
     "Rosamund Pike": {
@@ -14844,7 +14961,8 @@ var actorMap = {
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
-            "Spider-Man 3 (2007)"
+            "Spider-Man 3 (2007)",
+            "This Means War (2012)"
         ]
     },
     "Rosie O'Donnell": {
@@ -14877,6 +14995,11 @@ var actorMap = {
     "Rowan Atkinson": {
         "movies": [
             "Love Actually (2003)"
+        ]
+    },
+    "Rowan Blanchard": {
+        "movies": [
+            "A Wrinkle in Time (2018)"
         ]
     },
     "Roy Scheider": {
@@ -15396,6 +15519,7 @@ var actorMap = {
             "Captain Marvel (2019)",
             "Avengers: Endgame (2019)",
             "Jojo Rabbit (2019)",
+            "Marriage Story (2019)",
             "Black Widow (2021)"
         ]
     },
@@ -16184,6 +16308,7 @@ var actorMap = {
     },
     "Storm Reid": {
         "movies": [
+            "A Wrinkle in Time (2018)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -16545,7 +16670,8 @@ var actorMap = {
     "Til Schweiger": {
         "movies": [
             "The Three Musketeers (2011)",
-            "New Year's Eve (2011)"
+            "New Year's Eve (2011)",
+            "This Means War (2012)"
         ]
     },
     "Tilda Swinton": {
@@ -16817,6 +16943,7 @@ var actorMap = {
         "movies": [
             "Black Hawk Down (2001)",
             "Star Trek: Nemesis (2002)",
+            "This Means War (2012)",
             "The Dark Knight Rises (2012)",
             "Locke (2014)",
             "Venom (2018)",
@@ -17421,7 +17548,8 @@ var actorMap = {
     },
     "Wallace Shawn": {
         "movies": [
-            "The Incredibles (2004)"
+            "The Incredibles (2004)",
+            "Marriage Story (2019)"
         ]
     },
     "Walter Koenig": {
@@ -17875,7 +18003,8 @@ var actorMap = {
     },
     "Zach Galifianakis": {
         "movies": [
-            "The Lego Batman Movie (2017)"
+            "The Lego Batman Movie (2017)",
+            "A Wrinkle in Time (2018)"
         ]
     },
     "Zach King": {
