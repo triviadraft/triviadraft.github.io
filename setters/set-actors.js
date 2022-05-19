@@ -141,6 +141,12 @@ var actorMap = {
             "Suicide Squad (2016)"
         ]
     },
+    "Adrian Martinez": {
+        "movies": [
+            "Kick-Ass (2010)",
+            "I Feel Pretty (2018)"
+        ]
+    },
     "Adriana Barraza": {
         "suppNoms": [
             {
@@ -189,7 +195,8 @@ var actorMap = {
     },
     "Aidy Bryant": {
         "movies": [
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "I Feel Pretty (2018)"
         ]
     },
     "Akiva Schaffer": {
@@ -670,6 +677,12 @@ var actorMap = {
                 "movie": "Gone Baby Gone",
                 "year": "2007"
             }
+        ]
+    },
+    "Amy Schumer": {
+        "movies": [
+            "Trainwreck (2015)",
+            "I Feel Pretty (2018)"
         ]
     },
     "Amy Yasbeck": {
@@ -1652,6 +1665,9 @@ var actorMap = {
                 "movie": "For the Boys",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Hocus Pocus (1993)"
         ]
     },
     "Betty Buckley": {
@@ -1693,6 +1709,7 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
+            "Trainwreck (2015)",
             "Power Rangers (2017)"
         ]
     },
@@ -2027,6 +2044,7 @@ var actorMap = {
     },
     "Bradley Whitford": {
         "movies": [
+            "Kate & Leopold (2001)",
             "The Cabin in the Woods (2012)"
         ]
     },
@@ -2049,6 +2067,11 @@ var actorMap = {
     "Brandy Norwood": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)"
+        ]
+    },
+    "Breckin Meyer": {
+        "movies": [
+            "Kate & Leopold (2001)"
         ]
     },
     "Brenda Blethyn": {
@@ -2206,6 +2229,7 @@ var actorMap = {
         "movies": [
             "13 Going on 30 (2004)",
             "Scott Pilgrim vs. the World (2010)",
+            "Trainwreck (2015)",
             "Captain Marvel (2019)",
             "Avengers: Endgame (2019)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -2374,6 +2398,11 @@ var actorMap = {
         ],
         "movies": [
             "Rocky (1976)"
+        ]
+    },
+    "Busy Philipps": {
+        "movies": [
+            "I Feel Pretty (2018)"
         ]
     },
     "Byron Howard": {
@@ -3357,6 +3386,11 @@ var actorMap = {
             "1917 (2019)"
         ]
     },
+    "Colin Quinn": {
+        "movies": [
+            "Trainwreck (2015)"
+        ]
+    },
     "Colleen Camp": {
         "movies": [
             "Four Christmases (2008)"
@@ -3702,7 +3736,8 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Trainwreck (2015)"
         ]
     },
     "Daniel Roebuck": {
@@ -3778,6 +3813,12 @@ var actorMap = {
             "John Carter (2012)"
         ]
     },
+    "Dave Attell": {
+        "movies": [
+            "Trainwreck (2015)",
+            "I Feel Pretty (2018)"
+        ]
+    },
     "Dave Bautista": {
         "movies": [
             "Guardians of the Galaxy (2014)",
@@ -3845,6 +3886,7 @@ var actorMap = {
     "David Dastmalchian": {
         "movies": [
             "The Dark Knight (2008)",
+            "Prisoners (2013)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)",
             "The Suicide Squad (2021)"
@@ -4100,9 +4142,19 @@ var actorMap = {
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
+    "Denis O'Hare": {
+        "movies": [
+            "Michael Clayton (2007)"
+        ]
+    },
     "Denise Richards": {
         "movies": [
             "Love Actually (2003)"
+        ]
+    },
+    "Dennis Christopher": {
+        "movies": [
+            "Prisoners (2013)"
         ]
     },
     "Dennis Farina": {
@@ -4512,6 +4564,7 @@ var actorMap = {
     "Doug Jones": {
         "movies": [
             "Batman Returns (1992)",
+            "Hocus Pocus (1993)",
             "Mystery Men (1999)",
             "Men in Black II (2002)",
             "Hellboy (2004)",
@@ -4594,6 +4647,11 @@ var actorMap = {
     "Dylan McDermott": {
         "movies": [
             "The Perks of Being a Wallflower (2012)"
+        ]
+    },
+    "Dylan Minnette": {
+        "movies": [
+            "Prisoners (2013)"
         ]
     },
     "E. G. Marshall": {
@@ -5027,6 +5085,11 @@ var actorMap = {
             "A Quiet Place Part II (2021)"
         ]
     },
+    "Emily Ratajkowski": {
+        "movies": [
+            "I Feel Pretty (2018)"
+        ]
+    },
     "Emily VanCamp": {
         "movies": [
             "Captain America: The Winter Soldier (2014)",
@@ -5332,7 +5395,9 @@ var actorMap = {
     },
     "Ezra Miller": {
         "movies": [
+            "We Need to Talk About Kevin (2011)",
             "The Perks of Being a Wallflower (2012)",
+            "Trainwreck (2015)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Suicide Squad (2016)",
             "Fantastic Beasts and Where to Find Them (2016)",
@@ -5679,7 +5744,8 @@ var actorMap = {
     },
     "Garry Marshall": {
         "movies": [
-            "A League of Their Own (1992)"
+            "A League of Their Own (1992)",
+            "Hocus Pocus (1993)"
         ]
     },
     "Garry Shandling": {
@@ -5931,6 +5997,7 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
+            "Michael Clayton (2007)",
             "Gravity (2013)"
         ]
     },
@@ -6646,10 +6713,12 @@ var actorMap = {
         ],
         "movies": [
             "X-Men (2000)",
+            "Kate & Leopold (2001)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
+            "Prisoners (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
             "Logan (2017)"
@@ -7224,6 +7293,7 @@ var actorMap = {
         ],
         "movies": [
             "Zodiac (2007)",
+            "Prisoners (2013)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -7700,6 +7770,11 @@ var actorMap = {
         "movies": [
             "The Lego Batman Movie (2017)",
             "Dolittle (2020)"
+        ]
+    },
+    "Jason Marsden": {
+        "movies": [
+            "Hocus Pocus (1993)"
         ]
     },
     "Jason Mewes": {
@@ -8608,6 +8683,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "We Need to Talk About Kevin (2011)",
             "Guardians of the Galaxy (2014)"
         ]
     },
@@ -8631,6 +8707,7 @@ var actorMap = {
     },
     "John Cena": {
         "movies": [
+            "Trainwreck (2015)",
             "Dolittle (2020)",
             "The Suicide Squad (2021)"
         ]
@@ -9474,6 +9551,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Julie White": {
+        "movies": [
+            "Michael Clayton (2007)"
+        ]
+    },
     "Juliette Binoche": {
         "leadNoms": [
             {
@@ -9764,6 +9846,7 @@ var actorMap = {
     },
     "Katherine Waterston": {
         "movies": [
+            "Michael Clayton (2007)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
@@ -9813,6 +9896,11 @@ var actorMap = {
             "North (1994)",
             "Rumor Has It (2005)",
             "Valentine's Day (2010)"
+        ]
+    },
+    "Kathy Najimy": {
+        "movies": [
+            "Hocus Pocus (1993)"
         ]
     },
     "Katie Chang": {
@@ -9929,6 +10017,11 @@ var actorMap = {
         "movies": [
             "X-Men: The Last Stand (2006)",
             "X-Men: Days of Future Past (2014)"
+        ]
+    },
+    "Ken Howard": {
+        "movies": [
+            "Michael Clayton (2007)"
         ]
     },
     "Ken Jeong": {
@@ -10257,6 +10350,11 @@ var actorMap = {
             "The Cabin in the Woods (2012)"
         ]
     },
+    "Kristen Schaal": {
+        "movies": [
+            "Kate & Leopold (2001)"
+        ]
+    },
     "Kristen Stewart": {
         "leadNoms": [
             {
@@ -10538,6 +10636,11 @@ var actorMap = {
             "Promising Young Woman (2020)"
         ]
     },
+    "LeBron James": {
+        "movies": [
+            "Trainwreck (2015)"
+        ]
+    },
     "LeVar Burton": {
         "movies": [
             "Star Trek Generations (1994)",
@@ -10674,6 +10777,11 @@ var actorMap = {
             "Iron Man 2 (2010)"
         ]
     },
+    "Leslie Jones": {
+        "movies": [
+            "Trainwreck (2015)"
+        ]
+    },
     "Leslie Mann": {
         "movies": [
             "Knocked Up (2007)",
@@ -10753,6 +10861,7 @@ var actorMap = {
     },
     "Liev Schreiber": {
         "movies": [
+            "Kate & Leopold (2001)",
             "X-Men Origins: Wolverine (2009)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Don't Look Up (2021)"
@@ -11312,7 +11421,8 @@ var actorMap = {
     },
     "Maria Bello": {
         "movies": [
-            "A History of Violence (2005)"
+            "A History of Violence (2005)",
+            "Prisoners (2013)"
         ]
     },
     "Maria Menounos": {
@@ -11407,6 +11517,7 @@ var actorMap = {
         ],
         "movies": [
             "Chaplin (1992)",
+            "Trainwreck (2015)",
             "Captain America: Civil War (2016)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Endgame (2019)",
@@ -11823,7 +11934,8 @@ var actorMap = {
         "movies": [
             "WarGames (1983)",
             "The Tale of Despereaux (2008)",
-            "New Year's Eve (2011)"
+            "New Year's Eve (2011)",
+            "Trainwreck (2015)"
         ]
     },
     "Matthew Fox": {
@@ -11942,7 +12054,8 @@ var actorMap = {
     },
     "Meg Ryan": {
         "movies": [
-            "Armed and Dangerous (1986)"
+            "Armed and Dangerous (1986)",
+            "Kate & Leopold (2001)"
         ]
     },
     "Megan Fox": {
@@ -12006,7 +12119,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Oblivion (2013)"
+            "Oblivion (2013)",
+            "Prisoners (2013)"
         ]
     },
     "Melissa McCarthy": {
@@ -12056,6 +12170,12 @@ var actorMap = {
     "Meredith Salenger": {
         "movies": [
             "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Merritt Wever": {
+        "movies": [
+            "Michael Clayton (2007)",
+            "Marriage Story (2019)"
         ]
     },
     "Meryl Streep": {
@@ -12151,6 +12271,11 @@ var actorMap = {
             "The Deer Hunter (1978)",
             "Little Women (2019)",
             "Don't Look Up (2021)"
+        ]
+    },
+    "Method Man": {
+        "movies": [
+            "Trainwreck (2015)"
         ]
     },
     "Mia Farrow": {
@@ -12455,6 +12580,11 @@ var actorMap = {
             "John Wick (2014)"
         ]
     },
+    "Michael O'Keefe": {
+        "movies": [
+            "Michael Clayton (2007)"
+        ]
+    },
     "Michael Pe\u00f1a": {
         "movies": [
             "Ant-Man (2015)",
@@ -12594,6 +12724,7 @@ var actorMap = {
         ],
         "movies": [
             "My Week with Marilyn (2011)",
+            "I Feel Pretty (2018)",
             "Venom (2018)",
             "Venom: Let There Be Carnage (2021)"
         ]
@@ -12626,6 +12757,11 @@ var actorMap = {
     "Mickey Sumner": {
         "movies": [
             "Marriage Story (2019)"
+        ]
+    },
+    "Mike Birbiglia": {
+        "movies": [
+            "Trainwreck (2015)"
         ]
     },
     "Mike Colter": {
@@ -12958,6 +13094,7 @@ var actorMap = {
     },
     "Natasha Lyonne": {
         "movies": [
+            "Kate & Leopold (2001)",
             "Blade: Trinity (2004)"
         ]
     },
@@ -13236,6 +13373,11 @@ var actorMap = {
             "Conan the Barbarian (2011)"
         ]
     },
+    "Norbert Weisser as Mr. Binx, father of Thackery and Emily in 1693": {
+        "movies": [
+            "Hocus Pocus (1993)"
+        ]
+    },
     "Norma Aleandro": {
         "suppNoms": [
             {
@@ -13391,6 +13533,11 @@ var actorMap = {
     "Omari Hardwick": {
         "movies": [
             "Kick-Ass (2010)"
+        ]
+    },
+    "Omri Katz": {
+        "movies": [
+            "Hocus Pocus (1993)"
         ]
     },
     "Oprah Winfrey": {
@@ -13600,7 +13747,8 @@ var actorMap = {
     },
     "Paul Dano": {
         "movies": [
-            "Cowboys & Aliens (2011)"
+            "Cowboys & Aliens (2011)",
+            "Prisoners (2013)"
         ]
     },
     "Paul Giamatti": {
@@ -13774,6 +13922,7 @@ var actorMap = {
     },
     "Penny Marshall": {
         "movies": [
+            "Hocus Pocus (1993)",
             "New Year's Eve (2011)",
             "Mother's Day (2016)"
         ]
@@ -13816,6 +13965,7 @@ var actorMap = {
     },
     "Pete Davidson": {
         "movies": [
+            "Trainwreck (2015)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -14220,6 +14370,7 @@ var actorMap = {
     },
     "Randall Park": {
         "movies": [
+            "Trainwreck (2015)",
             "Ant-Man and the Wasp (2018)",
             "Aquaman (2018)"
         ]
@@ -15003,6 +15154,11 @@ var actorMap = {
             "Alexander (2004)"
         ]
     },
+    "Rory Scovel": {
+        "movies": [
+            "I Feel Pretty (2018)"
+        ]
+    },
     "Rosalind Chao": {
         "movies": [
             "The Joy Luck Club (1993)",
@@ -15549,6 +15705,7 @@ var actorMap = {
     },
     "Sarah Jessica Parker": {
         "movies": [
+            "Hocus Pocus (1993)",
             "New Year's Eve (2011)"
         ]
     },
@@ -15582,6 +15739,11 @@ var actorMap = {
     "Sasha Lane": {
         "movies": [
             "Hellboy (2019)"
+        ]
+    },
+    "Sasheer Zamata": {
+        "movies": [
+            "I Feel Pretty (2018)"
         ]
     },
     "Sa\u00efd Taghmaoui": {
@@ -16042,7 +16204,8 @@ var actorMap = {
     "Siobhan Fallon Hogan": {
         "movies": [
             "Forrest Gump (1994)",
-            "Men in Black (1997)"
+            "Men in Black (1997)",
+            "We Need to Talk About Kevin (2011)"
         ]
     },
     "Sissy Spacek": {
@@ -16478,6 +16641,11 @@ var actorMap = {
             "Cruel Intentions (1999)"
         ]
     },
+    "Sydney Pollack": {
+        "movies": [
+            "Michael Clayton (2007)"
+        ]
+    },
     "Sylvester McCoy": {
         "movies": [
             "The Hobbit: An Unexpected Journey (2012)",
@@ -16660,7 +16828,8 @@ var actorMap = {
         "movies": [
             "The Best Man (1999)",
             "Ray (2004)",
-            "Iron Man (2008)"
+            "Iron Man (2008)",
+            "Prisoners (2013)"
         ]
     },
     "Terry Crews": {
@@ -16753,6 +16922,7 @@ var actorMap = {
     },
     "Thora Birch": {
         "movies": [
+            "Hocus Pocus (1993)",
             "Ghost World (2001)"
         ]
     },
@@ -16786,9 +16956,12 @@ var actorMap = {
             "Vanilla Sky (2001)",
             "Constantine (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Michael Clayton (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Curious Case of Benjamin Button (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+            "We Need to Talk About Kevin (2011)",
+            "Trainwreck (2015)",
             "Doctor Strange (2016)",
             "Avengers: Endgame (2019)"
         ]
@@ -16832,6 +17005,11 @@ var actorMap = {
     "Tim McGraw": {
         "movies": [
             "Four Christmases (2008)"
+        ]
+    },
+    "Tim Meadows": {
+        "movies": [
+            "Trainwreck (2015)"
         ]
     },
     "Tim Robbins": {
@@ -17084,6 +17262,11 @@ var actorMap = {
             "The King's Man (2021)"
         ]
     },
+    "Tom Hopper": {
+        "movies": [
+            "I Feel Pretty (2018)"
+        ]
+    },
     "Tom Hulce": {
         "movies": [
             "Stranger than Fiction (2006)"
@@ -17133,6 +17316,7 @@ var actorMap = {
         "movies": [
             "Shakespeare in Love (1998)",
             "Batman Begins (2005)",
+            "Michael Clayton (2007)",
             "The Green Hornet (2011)"
         ]
     },
@@ -17430,6 +17614,11 @@ var actorMap = {
             "Spies Like Us (1985)"
         ]
     },
+    "Vanessa Bayer": {
+        "movies": [
+            "Trainwreck (2015)"
+        ]
+    },
     "Vanessa Hudgens": {
         "movies": [
             "Polar (2019)"
@@ -17587,6 +17776,11 @@ var actorMap = {
             "Batman Returns (1992)"
         ]
     },
+    "Vinessa Shaw": {
+        "movies": [
+            "Hocus Pocus (1993)"
+        ]
+    },
     "Ving Rhames": {
         "movies": [
             "Surrogates (2009)",
@@ -17620,7 +17814,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Kate & Leopold (2001)",
             "The Help (2011)",
+            "Prisoners (2013)",
             "Blackhat (2015)",
             "Suicide Squad (2016)",
             "The Suicide Squad (2021)"

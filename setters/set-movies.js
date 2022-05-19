@@ -36374,6 +36374,19 @@ var movieMap = {
             "Comedies",
             "Family",
             "Marshalls"
+        ],
+        "cast": [
+            "Bette Midler",
+            "Doug Jones",
+            "Garry Marshall",
+            "Jason Marsden",
+            "Kathy Najimy",
+            "Norbert Weisser as Mr. Binx, father of Thackery and Emily in 1693",
+            "Omri Katz",
+            "Penny Marshall",
+            "Sarah Jessica Parker",
+            "Thora Birch",
+            "Vinessa Shaw"
         ]
     },
     "Coneheads (1993)": {
@@ -57552,6 +57565,16 @@ var movieMap = {
             "Meg Ryan",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Bradley Whitford",
+            "Breckin Meyer",
+            "Hugh Jackman",
+            "Kristen Schaal",
+            "Liev Schreiber",
+            "Meg Ryan",
+            "Natasha Lyonne",
+            "Viola Davis"
         ]
     },
     "Gosford Park (2001)": {
@@ -74934,6 +74957,18 @@ var movieMap = {
             "2000s",
             "Brad Pitt & George Clooney",
             "Courtroom Dramas & Legal Thrillers"
+        ],
+        "cast": [
+            "Denis O'Hare",
+            "George Clooney",
+            "Julie White",
+            "Katherine Waterston",
+            "Ken Howard",
+            "Merritt Wever",
+            "Michael O'Keefe",
+            "Sydney Pollack",
+            "Tilda Swinton",
+            "Tom Wilkinson"
         ]
     },
     "The Heartbreak Kid (2007)": {
@@ -82558,6 +82593,7 @@ var movieMap = {
         ],
         "cast": [
             "Aaron Taylor-Johnson",
+            "Adrian Martinez",
             "Chlo\u00eb Grace Moretz",
             "Christopher Mintz-Plasse",
             "Clark Duke",
@@ -87879,6 +87915,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ],
+        "cast": [
+            "Ezra Miller",
+            "John C. Reilly",
+            "Siobhan Fallon Hogan",
+            "Tilda Swinton"
         ]
     },
     "Young Adult (2011)": {
@@ -93037,6 +93079,18 @@ var movieMap = {
             "Horror/Thriller",
             "Mystery",
             "Thriller",
+            "Viola Davis"
+        ],
+        "cast": [
+            "David Dastmalchian",
+            "Dennis Christopher",
+            "Dylan Minnette",
+            "Hugh Jackman",
+            "Jake Gyllenhaal",
+            "Maria Bello",
+            "Melissa Leo",
+            "Paul Dano",
+            "Terrence Howard",
             "Viola Davis"
         ]
     },
@@ -98811,6 +98865,27 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Amy Schumer",
+            "Bill Hader",
+            "Brie Larson",
+            "Colin Quinn",
+            "Daniel Radcliffe",
+            "Dave Attell",
+            "Ezra Miller",
+            "John Cena",
+            "LeBron James",
+            "Leslie Jones",
+            "Marisa Tomei",
+            "Matthew Broderick",
+            "Method Man",
+            "Mike Birbiglia",
+            "Pete Davidson",
+            "Randall Park",
+            "Tilda Swinton",
+            "Tim Meadows",
+            "Vanessa Bayer"
         ]
     },
     "Paper Towns (2015)": {
@@ -109115,6 +109190,18 @@ var movieMap = {
         "categories": [
             "2010s",
             "Comedies"
+        ],
+        "cast": [
+            "Adrian Martinez",
+            "Aidy Bryant",
+            "Amy Schumer",
+            "Busy Philipps",
+            "Dave Attell",
+            "Emily Ratajkowski",
+            "Michelle Williams",
+            "Rory Scovel",
+            "Sasheer Zamata",
+            "Tom Hopper"
         ]
     },
     "Kodachrome (2018)": {
@@ -115517,6 +115604,7 @@ var movieMap = {
             "Julie Hagerty",
             "Laura Dern",
             "Mark O'Brien",
+            "Merritt Wever",
             "Mickey Sumner",
             "Ray Liotta",
             "Scarlett Johansson",
