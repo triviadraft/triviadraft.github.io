@@ -242,6 +242,11 @@ var actorMap = {
             "Ocean's Thirteen (2007)"
         ]
     },
+    "Al Roker": {
+        "movies": [
+            "Kung Fu Panda 3 (2016)"
+        ]
+    },
     "Alan Alda": {
         "suppNoms": [
             {
@@ -561,7 +566,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Juno (2007)"
+            "Juno (2007)",
+            "The Help (2011)"
         ]
     },
     "Ally Sheedy": {
@@ -669,6 +675,11 @@ var actorMap = {
     "Amy Yasbeck": {
         "movies": [
             "The Mask (1994)"
+        ]
+    },
+    "Ana de Armas": {
+        "movies": [
+            "Knives Out (2019)"
         ]
     },
     "Ana de la Reguera": {
@@ -845,6 +856,8 @@ var actorMap = {
             "Kung Fu Panda (2008)",
             "Wanted (2008)",
             "The Tourist (2010)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)",
             "Eternals (2021)"
         ]
     },
@@ -891,6 +904,11 @@ var actorMap = {
                 "movie": "The Whales of August",
                 "year": "1987"
             }
+        ]
+    },
+    "Anna Camp": {
+        "movies": [
+            "The Help (2011)"
         ]
     },
     "Anna Faris": {
@@ -1302,7 +1320,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Ray (2004)"
+            "Ray (2004)",
+            "The Help (2011)"
         ]
     },
     "Austin O'Brien": {
@@ -2290,6 +2309,7 @@ var actorMap = {
         "movies": [
             "Saving Private Ryan (1998)",
             "John Carter (2012)",
+            "Kung Fu Panda 3 (2016)",
             "Power Rangers (2017)"
         ]
     },
@@ -2302,7 +2322,8 @@ var actorMap = {
     },
     "Bryce Dallas Howard": {
         "movies": [
-            "Spider-Man 3 (2007)"
+            "Spider-Man 3 (2007)",
+            "The Help (2011)"
         ]
     },
     "Bud Cort": {
@@ -2890,6 +2911,7 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Captain Marvel (2019)",
             "Avengers: Endgame (2019)",
+            "Knives Out (2019)",
             "Don't Look Up (2021)"
         ]
     },
@@ -3121,7 +3143,8 @@ var actorMap = {
             "Star Trek VI: The Undiscovered Country (1991)",
             "Alexander (2004)",
             "The Lake House (2006)",
-            "Priest (2011)"
+            "Priest (2011)",
+            "Knives Out (2019)"
         ]
     },
     "Christopher Reeve": {
@@ -3171,6 +3194,11 @@ var actorMap = {
             "John Carter (2012)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Cicely Tyson": {
+        "movies": [
+            "The Help (2011)"
         ]
     },
     "Cillian Murphy": {
@@ -3376,6 +3404,11 @@ var actorMap = {
             "Justice League (2017)",
             "Wonder Woman 1984 (2020)",
             "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Conrad Vernon": {
+        "movies": [
+            "Kung Fu Panda 2 (2011)"
         ]
     },
     "Cooper Andrews": {
@@ -3592,7 +3625,8 @@ var actorMap = {
             "Road to Perdition (2002)",
             "Cowboys & Aliens (2011)",
             "The Adventures of Tintin (2011)",
-            "Star Wars: The Force Awakens (2015)"
+            "Star Wars: The Force Awakens (2015)",
+            "Knives Out (2019)"
         ]
     },
     "Daniel Dae Kim": {
@@ -3719,6 +3753,7 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Tropic Thunder (2008)",
+            "Kung Fu Panda 2 (2011)",
             "This Is the End (2013)"
         ]
     },
@@ -3802,7 +3837,9 @@ var actorMap = {
             "Men in Black (1997)",
             "Ghost World (2001)",
             "Men in Black II (2002)",
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "David Dastmalchian": {
@@ -3876,6 +3913,7 @@ var actorMap = {
     },
     "David Oyelowo": {
         "movies": [
+            "The Help (2011)",
             "A Wrinkle in Time (2018)"
         ]
     },
@@ -4074,6 +4112,7 @@ var actorMap = {
     },
     "Dennis Haysbert": {
         "movies": [
+            "Kung Fu Panda 2 (2011)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -4410,6 +4449,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Don Johnson": {
+        "movies": [
+            "Knives Out (2019)"
+        ]
+    },
     "Don Lee": {
         "movies": [
             "Eternals (2021)"
@@ -4525,7 +4569,9 @@ var actorMap = {
             "Stranger than Fiction (2006)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
-            "The Tale of Despereaux (2008)"
+            "The Tale of Despereaux (2008)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Dwayne Johnson": {
@@ -5026,6 +5072,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Help (2011)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)",
             "La La Land (2016)"
@@ -5522,6 +5569,7 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Last Jedi (2017)",
+            "Knives Out (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -5698,6 +5746,7 @@ var actorMap = {
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "The Dark Knight (2008)",
+            "Kung Fu Panda 2 (2011)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Dark Knight Rises (2012)",
             "RoboCop (2014)"
@@ -6907,6 +6956,7 @@ var actorMap = {
             "Juno (2007)",
             "I Love You, Man (2009)",
             "Whiplash (2014)",
+            "Kung Fu Panda 3 (2016)",
             "Zootopia (2016)",
             "La La Land (2016)",
             "Justice League (2017)",
@@ -6923,7 +6973,9 @@ var actorMap = {
             "I Still Know What You Did Last Summer (1998)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Jack Davenport": {
@@ -7086,7 +7138,9 @@ var actorMap = {
     },
     "Jackie Chan": {
         "movies": [
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Jackie Cooper": {
@@ -7126,6 +7180,11 @@ var actorMap = {
     "Jada Pinkett Smith": {
         "movies": [
             "Girls Trip (2017)"
+        ]
+    },
+    "Jaeden Martell": {
+        "movies": [
+            "Knives Out (2019)"
         ]
     },
     "Jai Courtney": {
@@ -7316,7 +7375,9 @@ var actorMap = {
     "James Hong": {
         "movies": [
             "Kung Fu Panda (2008)",
-            "R.I.P.D. (2013)"
+            "Kung Fu Panda 2 (2011)",
+            "R.I.P.D. (2013)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "James Marsden": {
@@ -7473,6 +7534,11 @@ var actorMap = {
     "Jamie Kennedy": {
         "movies": [
             "Son of the Mask (2005)"
+        ]
+    },
+    "Jamie Lee Curtis": {
+        "movies": [
+            "Knives Out (2019)"
         ]
     },
     "Jane Curtin": {
@@ -7751,7 +7817,9 @@ var actorMap = {
     "Jean-Claude Van Damme": {
         "movies": [
             "Last Action Hero (1993)",
-            "Timecop (1994)"
+            "Timecop (1994)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Jeff Bridges": {
@@ -8114,6 +8182,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Help (2011)",
             "Dark Phoenix (2019)"
         ]
     },
@@ -9036,6 +9105,7 @@ var actorMap = {
             "The Dark Knight Rises (2012)",
             "Sin City: A Dame to Kill For (2014)",
             "Star Wars: The Last Jedi (2017)",
+            "Knives Out (2019)",
             "Project Power (2020)"
         ]
     },
@@ -9550,6 +9620,7 @@ var actorMap = {
         ],
         "movies": [
             "Almost Famous (2000)",
+            "Kung Fu Panda 3 (2016)",
             "Mother's Day (2016)"
         ]
     },
@@ -9679,6 +9750,11 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "New Year's Eve (2011)"
+        ]
+    },
+    "Katherine Langford": {
+        "movies": [
+            "Knives Out (2019)"
         ]
     },
     "Katherine McNamara": {
@@ -10262,6 +10338,9 @@ var actorMap = {
                 "movie": "Judas and the Black Messiah",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Knives Out (2019)"
         ]
     },
     "Lamorne Morris": {
@@ -10872,7 +10951,9 @@ var actorMap = {
     },
     "Lucy Liu": {
         "movies": [
-            "Kung Fu Panda (2008)"
+            "Kung Fu Panda (2008)",
+            "Kung Fu Panda 2 (2011)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Lucy Punch": {
@@ -10964,6 +11045,11 @@ var actorMap = {
         ],
         "movies": [
             "Gods and Monsters (1998)"
+        ]
+    },
+    "M. Emmet Walsh": {
+        "movies": [
+            "Knives Out (2019)"
         ]
     },
     "M. Night Shyamalan": {
@@ -11648,6 +11734,7 @@ var actorMap = {
     "Mary Steenburgen": {
         "movies": [
             "Four Christmases (2008)",
+            "The Help (2011)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -12407,7 +12494,8 @@ var actorMap = {
         "movies": [
             "Vanilla Sky (2001)",
             "Jonah Hex (2010)",
-            "Man of Steel (2013)"
+            "Man of Steel (2013)",
+            "Knives Out (2019)"
         ]
     },
     "Michael Sheen": {
@@ -12512,6 +12600,7 @@ var actorMap = {
     },
     "Michelle Yeoh": {
         "movies": [
+            "Kung Fu Panda 2 (2011)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
@@ -12557,7 +12646,13 @@ var actorMap = {
     },
     "Mike Mitchell": {
         "movies": [
+            "Kung Fu Panda 3 (2016)",
             "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
+    "Mike Vogel": {
+        "movies": [
+            "The Help (2011)"
         ]
     },
     "Mikey Kelley": {
@@ -13186,6 +13281,7 @@ var actorMap = {
         ],
         "movies": [
             "Spider-Man (2002)",
+            "The Help (2011)",
             "Zootopia (2016)",
             "Dolittle (2020)"
         ]
@@ -14118,7 +14214,8 @@ var actorMap = {
     "Randall Duk Kim": {
         "movies": [
             "Kung Fu Panda (2008)",
-            "John Wick (2014)"
+            "John Wick (2014)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Randall Park": {
@@ -14517,7 +14614,8 @@ var actorMap = {
     },
     "Riki Lindhome": {
         "movies": [
-            "The Lego Batman Movie (2017)"
+            "The Lego Batman Movie (2017)",
+            "Knives Out (2019)"
         ]
     },
     "Rinko Kikuchi": {
@@ -15709,7 +15807,9 @@ var actorMap = {
             "Horton Hears a Who! (2008)",
             "Kung Fu Panda (2008)",
             "The Green Hornet (2011)",
-            "This Is the End (2013)"
+            "Kung Fu Panda 2 (2011)",
+            "This Is the End (2013)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Shahadi Wright Joseph": {
@@ -15975,7 +16075,8 @@ var actorMap = {
         "movies": [
             "Carrie (1976)",
             "Hot Rod (2007)",
-            "Four Christmases (2008)"
+            "Four Christmases (2008)",
+            "The Help (2011)"
         ]
     },
     "Skandar Keynes": {
@@ -17091,6 +17192,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Knives Out (2019)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -17399,6 +17501,11 @@ var actorMap = {
             "The Old Guard (2020)"
         ]
     },
+    "Victor Garber": {
+        "movies": [
+            "Kung Fu Panda 2 (2011)"
+        ]
+    },
     "Victoria Rowell": {
         "movies": [
             "Barb Wire (1996)"
@@ -17513,6 +17620,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Help (2011)",
             "Blackhat (2015)",
             "Suicide Squad (2016)",
             "The Suicide Squad (2021)"
@@ -17621,7 +17729,8 @@ var actorMap = {
         "movies": [
             "Jurassic Park (1993)",
             "Space Jam (1996)",
-            "Punisher: War Zone (2008)"
+            "Punisher: War Zone (2008)",
+            "Kung Fu Panda 3 (2016)"
         ]
     },
     "Wayne Newton": {

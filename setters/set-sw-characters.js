@@ -2195,6 +2195,12 @@ var swCharacterMap = {
         "species": "Lutrillian",
         "actor": ""
     },
+    "Pablo-Jill": {
+        "name": "Pablo-Jill",
+        "homeworld": "",
+        "species": "Ongree",
+        "actor": ""
+    },
     "Padm\u00e9 Amidala": {
         "name": "Padm\u00e9 Amidala",
         "homeworld": "Naboo",

@@ -85951,6 +85951,23 @@ var movieMap = {
             "Frat Pack",
             "Jackie Chan",
             "Martial Arts"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Conrad Vernon",
+            "Danny McBride",
+            "David Cross",
+            "Dennis Haysbert",
+            "Dustin Hoffman",
+            "Gary Oldman",
+            "Jack Black",
+            "Jackie Chan",
+            "James Hong",
+            "Jean-Claude Van Damme",
+            "Lucy Liu",
+            "Michelle Yeoh",
+            "Seth Rogen",
+            "Victor Garber"
         ]
     },
     "The Hangover Part II (2011)": {
@@ -86617,6 +86634,21 @@ var movieMap = {
             "2010s",
             "Emmas",
             "Octavia Spencer",
+            "Viola Davis"
+        ],
+        "cast": [
+            "Allison Janney",
+            "Anna Camp",
+            "Aunjanue Ellis",
+            "Bryce Dallas Howard",
+            "Cicely Tyson",
+            "David Oyelowo",
+            "Emma Stone",
+            "Jessica Chastain",
+            "Mary Steenburgen",
+            "Mike Vogel",
+            "Octavia Spencer",
+            "Sissy Spacek",
             "Viola Davis"
         ]
     },
@@ -100665,6 +100697,24 @@ var movieMap = {
             "Frat Pack",
             "Jackie Chan",
             "Martial Arts"
+        ],
+        "cast": [
+            "Al Roker",
+            "Angelina Jolie",
+            "Bryan Cranston",
+            "David Cross",
+            "Dustin Hoffman",
+            "J. K. Simmons",
+            "Jack Black",
+            "Jackie Chan",
+            "James Hong",
+            "Jean-Claude Van Damme",
+            "Kate Hudson",
+            "Lucy Liu",
+            "Mike Mitchell",
+            "Randall Duk Kim",
+            "Seth Rogen",
+            "Wayne Knight"
         ]
     },
     "The Finest Hours (2016)": {
@@ -115869,6 +115919,23 @@ var movieMap = {
             "Crime",
             "Jamie Lee Curtis",
             "Mystery"
+        ],
+        "cast": [
+            "Ana de Armas",
+            "Chris Evans",
+            "Christopher Plummer",
+            "Daniel Craig",
+            "Don Johnson",
+            "Frank Oz",
+            "Jaeden Martell",
+            "Jamie Lee Curtis",
+            "Joseph Gordon-Levitt",
+            "Katherine Langford",
+            "Lakeith Stanfield",
+            "M. Emmet Walsh",
+            "Michael Shannon",
+            "Riki Lindhome",
+            "Toni Collette"
         ]
     },
     "The Two Popes (2019)": {
