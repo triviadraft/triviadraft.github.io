@@ -84,6 +84,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
+    "Adam Carolla": {
+        "movies": [
+            "Wreck-It Ralph (2012)"
+        ]
+    },
     "Adam DeVine": {
         "movies": [
             "The Lego Batman Movie (2017)"
@@ -346,10 +351,12 @@ var actorMap = {
         "movies": [
             "A Knight's Tale (2001)",
             "Knocked Up (2007)",
+            "Wreck-It Ralph (2012)",
             "Big Hero 6 (2014)",
             "Zootopia (2016)",
             "Rogue One: A Star Wars Story (2016)",
-            "Deadpool 2 (2018)"
+            "Deadpool 2 (2018)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Alanis Morissette": {
@@ -394,6 +401,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Traffic (2000)",
             "Ocean's Twelve (2004)"
         ]
     },
@@ -486,6 +494,7 @@ var actorMap = {
         "movies": [
             "Spider-Man 2 (2004)",
             "Strange Magic (2015)",
+            "Ralph Breaks the Internet (2018)",
             "Promising Young Woman (2020)",
             "Spider-Man: No Way Home (2021)"
         ]
@@ -497,6 +506,7 @@ var actorMap = {
     },
     "Ali Wong": {
         "movies": [
+            "Ralph Breaks the Internet (2018)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)",
             "Onward (2020)"
         ]
@@ -655,7 +665,8 @@ var actorMap = {
     },
     "Amy Irving": {
         "movies": [
-            "Carrie (1976)"
+            "Carrie (1976)",
+            "Traffic (2000)"
         ]
     },
     "Amy Landecker": {
@@ -891,6 +902,11 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Anika Noni Rose": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Anjelica Huston": {
         "leadNoms": [
             {
@@ -1088,6 +1104,7 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)",
             "Star Wars: The Last Jedi (2017)",
             "Solo: A Star Wars Story (2018)",
+            "Ralph Breaks the Internet (2018)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -1329,6 +1346,11 @@ var actorMap = {
             "Heavy Metal (1981)"
         ]
     },
+    "Auli'i Cravalho": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Aunjanue Ellis": {
         "suppNoms": [
             {
@@ -1383,6 +1405,11 @@ var actorMap = {
     "BD Wong": {
         "movies": [
             "Jurassic Park (1993)"
+        ]
+    },
+    "Bahar Soomekh": {
+        "movies": [
+            "Crash (2005)"
         ]
     },
     "Barbara Hershey": {
@@ -1583,6 +1610,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Traffic (2000)",
             "Sin City (2005)",
             "Thor: The Dark World (2013)",
             "Guardians of the Galaxy (2014)",
@@ -1592,6 +1620,7 @@ var actorMap = {
     },
     "Benjamin Bratt": {
         "movies": [
+            "Traffic (2000)",
             "Catwoman (2004)",
             "Doctor Strange (2016)"
         ]
@@ -1671,7 +1700,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Hocus Pocus (1993)"
+            "Hocus Pocus (1993)",
+            "The First Wives Club (1996)"
         ]
     },
     "Betty Buckley": {
@@ -1687,6 +1717,7 @@ var actorMap = {
     "Beverly Todd": {
         "movies": [
             "Lean on Me (1989)",
+            "Crash (2005)",
             "The Bucket List (2007)"
         ]
     },
@@ -1714,7 +1745,8 @@ var actorMap = {
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
             "Trainwreck (2015)",
-            "Power Rangers (2017)"
+            "Power Rangers (2017)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Bill Maher": {
@@ -1978,7 +2010,8 @@ var actorMap = {
     },
     "Brad Garrett": {
         "movies": [
-            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Brad Pitt": {
@@ -2116,7 +2149,8 @@ var actorMap = {
     },
     "Brendan Fraser": {
         "movies": [
-            "Gods and Monsters (1998)"
+            "Gods and Monsters (1998)",
+            "Crash (2005)"
         ]
     },
     "Brendan Gleeson": {
@@ -2708,6 +2742,7 @@ var actorMap = {
         ],
         "movies": [
             "The Mask of Zorro (1998)",
+            "Traffic (2000)",
             "The Terminal (2004)",
             "Ocean's Twelve (2004)",
             "The Legend of Zorro (2005)",
@@ -3303,6 +3338,7 @@ var actorMap = {
     },
     "Clifton Collins Jr.": {
         "movies": [
+            "Traffic (2000)",
             "Star Trek (2009)",
             "Scott Pilgrim vs. the World (2010)",
             "Nightmare Alley (2021)"
@@ -3633,6 +3669,11 @@ var actorMap = {
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
+    "Dan Hedaya": {
+        "movies": [
+            "The First Wives Club (1996)"
+        ]
+    },
     "Dan Stevens": {
         "movies": [
             "Beauty and the Beast (2017)"
@@ -3685,6 +3726,7 @@ var actorMap = {
         "movies": [
             "Hulk (2003)",
             "Spider-Man 2 (2004)",
+            "Crash (2005)",
             "Hellboy (2019)"
         ]
     },
@@ -4194,6 +4236,7 @@ var actorMap = {
     "Dennis Haysbert": {
         "movies": [
             "Kung Fu Panda 2 (2011)",
+            "Wreck-It Ralph (2012)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -4203,6 +4246,11 @@ var actorMap = {
                 "movie": "Hoosiers",
                 "year": "1986"
             }
+        ]
+    },
+    "Dennis Quaid": {
+        "movies": [
+            "Traffic (2000)"
         ]
     },
     "Denzel Washington": {
@@ -4330,6 +4378,7 @@ var actorMap = {
         ],
         "movies": [
             "Annie Hall (1977)",
+            "The First Wives Club (1996)",
             "Something's Gotta Give (2003)"
         ]
     },
@@ -4367,6 +4416,11 @@ var actorMap = {
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Dianna Agron": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Dianne Wiest": {
@@ -4519,8 +4573,10 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Traffic (2000)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
+            "Crash (2005)",
             "Ocean's Thirteen (2007)",
             "Iron Man 2 (2010)",
             "Iron Man 3 (2013)",
@@ -4728,6 +4784,12 @@ var actorMap = {
             "Gravity (2013)"
         ]
     },
+    "Ed O'Neill": {
+        "movies": [
+            "Wreck-It Ralph (2012)",
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Ed Sanders": {
         "movies": [
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)"
@@ -4807,7 +4869,8 @@ var actorMap = {
     },
     "Edie McClurg": {
         "movies": [
-            "Carrie (1976)"
+            "Carrie (1976)",
+            "Wreck-It Ralph (2012)"
         ]
     },
     "Edward Burns": {
@@ -4858,6 +4921,11 @@ var actorMap = {
     "Edwin Hodge": {
         "movies": [
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Eileen Heckart": {
+        "movies": [
+            "The First Wives Club (1996)"
         ]
     },
     "Eiza Gonz\u00e1lez": {
@@ -5552,6 +5620,7 @@ var actorMap = {
     },
     "Flula Borg": {
         "movies": [
+            "Ralph Breaks the Internet (2018)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -5758,6 +5827,7 @@ var actorMap = {
             "Batman v Superman: Dawn of Justice (2016)",
             "Wonder Woman (2017)",
             "Justice League (2017)",
+            "Ralph Breaks the Internet (2018)",
             "Wonder Woman 1984 (2020)",
             "Zack Snyder's Justice League (2021)"
         ]
@@ -6225,6 +6295,9 @@ var actorMap = {
                 "movie": "Cactus Flower",
                 "year": "1969"
             }
+        ],
+        "movies": [
+            "The First Wives Club (1996)"
         ]
     },
     "Grace Fulton": {
@@ -6551,7 +6624,8 @@ var actorMap = {
     },
     "Heather Locklear": {
         "movies": [
-            "The Return of Swamp Thing (1989)"
+            "The Return of Swamp Thing (1989)",
+            "The First Wives Club (1996)"
         ]
     },
     "Heidi Klum": {
@@ -6733,6 +6807,11 @@ var actorMap = {
             "Captain America: Civil War (2016)"
         ]
     },
+    "Horatio Sanz": {
+        "movies": [
+            "Wreck-It Ralph (2012)"
+        ]
+    },
     "Hugh Dancy": {
         "movies": [
             "Black Hawk Down (2001)"
@@ -6881,7 +6960,8 @@ var actorMap = {
     },
     "Idina Menzel": {
         "movies": [
-            "Rent (2005)"
+            "Rent (2005)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Idris Elba": {
@@ -6976,6 +7056,11 @@ var actorMap = {
             "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
+    "Irene Bedard": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Irina Shayk": {
         "movies": [
             "Hercules (2014)"
@@ -7061,6 +7146,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The First Wives Club (1996)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
@@ -7143,6 +7229,12 @@ var actorMap = {
                 "movie": "Mister Roberts",
                 "year": "1955"
             }
+        ]
+    },
+    "Jack McBrayer": {
+        "movies": [
+            "Wreck-It Ralph (2012)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Jack Nicholson": {
@@ -7377,6 +7469,7 @@ var actorMap = {
     },
     "James Brolin": {
         "movies": [
+            "Traffic (2000)",
             "Catch Me If You Can (2002)"
         ]
     },
@@ -7701,7 +7794,9 @@ var actorMap = {
     },
     "Jane Lynch": {
         "movies": [
-            "The Fugitive (1993)"
+            "The Fugitive (1993)",
+            "Wreck-It Ralph (2012)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Janeane Garofalo": {
@@ -8075,6 +8170,11 @@ var actorMap = {
     "Jennifer Ehle": {
         "movies": [
             "RoboCop (2014)"
+        ]
+    },
+    "Jennifer Esposito": {
+        "movies": [
+            "Crash (2005)"
         ]
     },
     "Jennifer Garner": {
@@ -8587,6 +8687,11 @@ var actorMap = {
             "Joker (2019)"
         ]
     },
+    "Jodi Benson": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Jodie Comer": {
         "movies": [
             "Star Wars: The Rise of Skywalker (2019)"
@@ -8731,7 +8836,9 @@ var actorMap = {
         ],
         "movies": [
             "We Need to Talk About Kevin (2011)",
-            "Guardians of the Galaxy (2014)"
+            "Wreck-It Ralph (2012)",
+            "Guardians of the Galaxy (2014)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "John Candy": {
@@ -8956,6 +9063,7 @@ var actorMap = {
     },
     "John Slattery": {
         "movies": [
+            "Traffic (2000)",
             "Iron Man 2 (2010)",
             "Ant-Man (2015)",
             "Captain America: Civil War (2016)",
@@ -9916,6 +10024,11 @@ var actorMap = {
             "Polar (2019)"
         ]
     },
+    "Kathie Lee Gifford": {
+        "movies": [
+            "The First Wives Club (1996)"
+        ]
+    },
     "Kathleen Quinlan": {
         "suppNoms": [
             {
@@ -10037,6 +10150,7 @@ var actorMap = {
     },
     "Keith David": {
         "movies": [
+            "Crash (2005)",
             "21 Bridges (2019)"
         ]
     },
@@ -10054,7 +10168,8 @@ var actorMap = {
     "Kelly Macdonald": {
         "movies": [
             "The Hitchhiker's Guide to the Galaxy (2005)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Kelly Marie Tran": {
@@ -10407,7 +10522,8 @@ var actorMap = {
     "Kristen Bell": {
         "movies": [
             "Zootopia (2016)",
-            "Teen Titans Go! To the Movies (2018)"
+            "Teen Titans Go! To the Movies (2018)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Kristen Connolly": {
@@ -10540,6 +10656,7 @@ var actorMap = {
     "Larenz Tate": {
         "movies": [
             "Ray (2004)",
+            "Crash (2005)",
             "Girls Trip (2017)"
         ]
     },
@@ -10999,6 +11116,11 @@ var actorMap = {
             "Solo: A Star Wars Story (2018)"
         ]
     },
+    "Linda Larkin": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Lindsay Crouse": {
         "movies": [
             "Places in the Heart (1984)"
@@ -11061,6 +11183,11 @@ var actorMap = {
     "Logan Miller": {
         "movies": [
             "The Bling Ring (2013)"
+        ]
+    },
+    "Loretta Devine": {
+        "movies": [
+            "Crash (2005)"
         ]
     },
     "Lori Petty": {
@@ -11145,6 +11272,7 @@ var actorMap = {
     },
     "Ludacris": {
         "movies": [
+            "Crash (2005)",
             "New Year's Eve (2011)"
         ]
     },
@@ -11152,6 +11280,11 @@ var actorMap = {
         "movies": [
             "Power Rangers (2017)",
             "Aquaman (2018)"
+        ]
+    },
+    "Luis Guzm\u00e1n": {
+        "movies": [
+            "Traffic (2000)"
         ]
     },
     "Lukas Haas": {
@@ -11347,6 +11480,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The First Wives Club (1996)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
@@ -11419,6 +11553,11 @@ var actorMap = {
             "The Circle (2017)"
         ]
     },
+    "Mandy Moore": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Manuel Garcia-Rulfo": {
         "movies": [
             "Widows (2018)"
@@ -11461,6 +11600,9 @@ var actorMap = {
                 "movie": "Mystic River",
                 "year": "2003"
             }
+        ],
+        "movies": [
+            "The First Wives Club (1996)"
         ]
     },
     "Mare Winningham": {
@@ -11566,7 +11708,8 @@ var actorMap = {
             "Star Trek Generations (1994)",
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
-            "Star Trek: Nemesis (2002)"
+            "Star Trek: Nemesis (2002)",
+            "Crash (2005)"
         ]
     },
     "Marina de Tavira": {
@@ -12000,6 +12143,9 @@ var actorMap = {
                 "movie": "Crash",
                 "year": "2005"
             }
+        ],
+        "movies": [
+            "Crash (2005)"
         ]
     },
     "Matt Frewer": {
@@ -12242,6 +12388,11 @@ var actorMap = {
         ],
         "movies": [
             "The Kitchen (2019)"
+        ]
+    },
+    "Melissa Villase\u00f1or": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Mena Suvari": {
@@ -12529,6 +12680,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Traffic (2000)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
@@ -12694,6 +12846,7 @@ var actorMap = {
     },
     "Michael Pe\u00f1a": {
         "movies": [
+            "Crash (2005)",
             "Ant-Man (2015)",
             "A Wrinkle in Time (2018)",
             "Ant-Man and the Wasp (2018)"
@@ -12868,6 +13021,12 @@ var actorMap = {
             "Marriage Story (2019)"
         ]
     },
+    "Miguel Ferrer": {
+        "movies": [
+            "Traffic (2000)",
+            "Iron Man 3 (2013)"
+        ]
+    },
     "Mike Birbiglia": {
         "movies": [
             "Trainwreck (2015)"
@@ -12937,6 +13096,7 @@ var actorMap = {
     },
     "Mindy Kaling": {
         "movies": [
+            "Wreck-It Ralph (2012)",
             "This Is the End (2013)",
             "A Wrinkle in Time (2018)",
             "Ocean's 8 (2018)"
@@ -12944,7 +13104,8 @@ var actorMap = {
     },
     "Ming-Na Wen": {
         "movies": [
-            "The Joy Luck Club (1993)"
+            "The Joy Luck Club (1993)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Minnie Driver": {
@@ -13413,7 +13574,8 @@ var actorMap = {
     },
     "Nicole Scherzinger": {
         "movies": [
-            "Men in Black 3 (2012)"
+            "Men in Black 3 (2012)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Niecy Nash": {
@@ -13726,6 +13888,11 @@ var actorMap = {
         "movies": [
             "Carrie (1976)",
             "Stripes (1981)"
+        ]
+    },
+    "Paige O'Hara": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Paige Turco": {
@@ -14220,7 +14387,8 @@ var actorMap = {
     },
     "Peter Riegert": {
         "movies": [
-            "The Mask (1994)"
+            "The Mask (1994)",
+            "Traffic (2000)"
         ]
     },
     "Peter Sarsgaard": {
@@ -14376,6 +14544,11 @@ var actorMap = {
     "RJ Cyler": {
         "movies": [
             "Power Rangers (2017)"
+        ]
+    },
+    "Rachael Harris": {
+        "movies": [
+            "Wreck-It Ralph (2012)"
         ]
     },
     "Rachel Griffiths": {
@@ -14725,7 +14898,9 @@ var actorMap = {
     },
     "Rich Moore": {
         "movies": [
-            "Zootopia (2016)"
+            "Wreck-It Ralph (2012)",
+            "Zootopia (2016)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Richard Armitage": {
@@ -14942,6 +15117,11 @@ var actorMap = {
     "Rob Morgan": {
         "movies": [
             "Don't Look Up (2021)"
+        ]
+    },
+    "Rob Reiner": {
+        "movies": [
+            "The First Wives Club (1996)"
         ]
     },
     "Rob Zombie": {
@@ -15517,7 +15697,8 @@ var actorMap = {
     "Ryan Phillippe": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
-            "Cruel Intentions (1999)"
+            "Cruel Intentions (1999)",
+            "Crash (2005)"
         ]
     },
     "Ryan Potter": {
@@ -15616,6 +15797,7 @@ var actorMap = {
         ],
         "movies": [
             "Dogma (1999)",
+            "Traffic (2000)",
             "Eternals (2021)"
         ]
     },
@@ -15799,6 +15981,7 @@ var actorMap = {
         ],
         "movies": [
             "The Prince of Egypt (1998)",
+            "Crash (2005)",
             "The Lake House (2006)",
             "Gravity (2013)",
             "Ocean's 8 (2018)"
@@ -15843,6 +16026,7 @@ var actorMap = {
     "Sarah Jessica Parker": {
         "movies": [
             "Hocus Pocus (1993)",
+            "The First Wives Club (1996)",
             "New Year's Eve (2011)"
         ]
     },
@@ -15864,6 +16048,8 @@ var actorMap = {
     "Sarah Silverman": {
         "movies": [
             "Rent (2005)",
+            "Wreck-It Ralph (2012)",
+            "Ralph Breaks the Internet (2018)",
             "Don't Look Up (2021)"
         ]
     },
@@ -15985,6 +16171,11 @@ var actorMap = {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)",
             "The League of Extraordinary Gentlemen (2003)"
+        ]
+    },
+    "Sean Giambrone as the eboy": {
+        "movies": [
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Sean Gunn": {
@@ -16168,6 +16359,7 @@ var actorMap = {
     },
     "Shaun Toub": {
         "movies": [
+            "Crash (2005)",
             "Iron Man (2008)",
             "Iron Man 3 (2013)"
         ]
@@ -16392,6 +16584,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles (1990)"
         ]
     },
+    "Skylar Astin": {
+        "movies": [
+            "Wreck-It Ralph (2012)"
+        ]
+    },
     "Skyler Gisondo": {
         "movies": [
             "Four Christmases (2008)",
@@ -16524,6 +16721,11 @@ var actorMap = {
             "The King's Man (2021)"
         ]
     },
+    "Stefanie Scott": {
+        "movies": [
+            "Wreck-It Ralph (2012)"
+        ]
+    },
     "Stellan Skarsg\u00e5rd": {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
@@ -16561,7 +16763,8 @@ var actorMap = {
     },
     "Stephen Collins": {
         "movies": [
-            "Star Trek: The Motion Picture (1979)"
+            "Star Trek: The Motion Picture (1979)",
+            "The First Wives Club (1996)"
         ]
     },
     "Stephen Dorff": {
@@ -16681,6 +16884,11 @@ var actorMap = {
             }
         ]
     },
+    "Steven Bauer": {
+        "movies": [
+            "Traffic (2000)"
+        ]
+    },
     "Steven Berkoff": {
         "movies": [
             "The Tourist (2010)",
@@ -16711,6 +16919,9 @@ var actorMap = {
                 "movie": "Six Degrees of Separation",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "The First Wives Club (1996)"
         ]
     },
     "Storm Reid": {
@@ -16890,7 +17101,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Curious Case of Benjamin Button (2008)"
+            "The Curious Case of Benjamin Button (2008)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Taran Killam": {
@@ -16976,6 +17188,7 @@ var actorMap = {
         "movies": [
             "The Best Man (1999)",
             "Ray (2004)",
+            "Crash (2005)",
             "Iron Man (2008)",
             "Prisoners (2013)"
         ]
@@ -17012,6 +17225,7 @@ var actorMap = {
     },
     "Thandiwe Newton": {
         "movies": [
+            "Crash (2005)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -17116,7 +17330,8 @@ var actorMap = {
     },
     "Tim Allen": {
         "movies": [
-            "Galaxy Quest (1999)"
+            "Galaxy Quest (1999)",
+            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Tim Bagley": {
@@ -17200,6 +17415,7 @@ var actorMap = {
     },
     "Timothy Olyphant": {
         "movies": [
+            "The First Wives Club (1996)",
             "Mother's Day (2016)"
         ]
     },
@@ -17554,6 +17770,11 @@ var actorMap = {
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
+    "Tony Danza": {
+        "movies": [
+            "Crash (2005)"
+        ]
+    },
     "Tony Hale": {
         "movies": [
             "Stranger than Fiction (2006)",
@@ -17595,6 +17816,7 @@ var actorMap = {
     },
     "Topher Grace": {
         "movies": [
+            "Traffic (2000)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Spider-Man 3 (2007)",
@@ -17844,6 +18066,7 @@ var actorMap = {
     },
     "Victor Garber": {
         "movies": [
+            "The First Wives Club (1996)",
             "Kung Fu Panda 2 (2011)"
         ]
     },
@@ -17880,6 +18103,7 @@ var actorMap = {
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
+            "Ralph Breaks the Internet (2018)",
             "Avengers: Endgame (2019)",
             "Bloodshot (2020)"
         ]
@@ -17966,6 +18190,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Traffic (2000)",
             "Kate & Leopold (2001)",
             "Doubt (2008)",
             "Knight and Day (2010)",
@@ -18245,6 +18470,7 @@ var actorMap = {
     "William Fichtner": {
         "movies": [
             "Black Hawk Down (2001)",
+            "Crash (2005)",
             "The Dark Knight (2008)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]

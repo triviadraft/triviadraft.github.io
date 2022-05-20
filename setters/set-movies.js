@@ -44223,6 +44223,24 @@ var movieMap = {
         "categories": [
             "1990s",
             "Comedies"
+        ],
+        "cast": [
+            "Bette Midler",
+            "Dan Hedaya",
+            "Diane Keaton",
+            "Eileen Heckart",
+            "Goldie Hawn",
+            "Heather Locklear",
+            "J. K. Simmons",
+            "Kathie Lee Gifford",
+            "Maggie Smith",
+            "Marcia Gay Harden",
+            "Rob Reiner",
+            "Sarah Jessica Parker",
+            "Stephen Collins",
+            "Stockard Channing",
+            "Timothy Olyphant",
+            "Victor Garber"
         ]
     },
     "Glory Daze (1996)": {
@@ -55177,6 +55195,26 @@ var movieMap = {
             "Douglases",
             "Dramas",
             "Steven Soderbergh",
+            "Viola Davis"
+        ],
+        "cast": [
+            "Albert Finney",
+            "Amy Irving",
+            "Benicio del Toro",
+            "Benjamin Bratt",
+            "Catherine Zeta-Jones",
+            "Clifton Collins Jr.",
+            "Dennis Quaid",
+            "Don Cheadle",
+            "James Brolin",
+            "John Slattery",
+            "Luis Guzm\u00e1n",
+            "Michael Douglas",
+            "Miguel Ferrer",
+            "Peter Riegert",
+            "Salma Hayek",
+            "Steven Bauer",
+            "Topher Grace",
             "Viola Davis"
         ]
     },
@@ -67263,6 +67301,28 @@ var movieMap = {
         "categories": [
             "2000s",
             "Dramas"
+        ],
+        "cast": [
+            "Bahar Soomekh",
+            "Beverly Todd",
+            "Brendan Fraser",
+            "Daniel Dae Kim",
+            "Don Cheadle",
+            "Jennifer Esposito",
+            "Keith David",
+            "Larenz Tate",
+            "Loretta Devine",
+            "Ludacris",
+            "Marina Sirtis",
+            "Matt Dillon",
+            "Michael Pe\u00f1a",
+            "Ryan Phillippe",
+            "Sandra Bullock",
+            "Shaun Toub",
+            "Terrence Howard",
+            "Thandiwe Newton",
+            "Tony Danza",
+            "William Fichtner"
         ]
     },
     "House of Wax (2005)": {
@@ -90589,6 +90649,23 @@ var movieMap = {
             "2010s",
             "Animated",
             "Disney"
+        ],
+        "cast": [
+            "Adam Carolla",
+            "Alan Tudyk",
+            "Dennis Haysbert",
+            "Ed O'Neill",
+            "Edie McClurg",
+            "Horatio Sanz",
+            "Jack McBrayer",
+            "Jane Lynch",
+            "John C. Reilly",
+            "Mindy Kaling",
+            "Rachael Harris",
+            "Rich Moore",
+            "Sarah Silverman",
+            "Skylar Astin",
+            "Stefanie Scott"
         ]
     },
     "Lincoln (2012)": {
@@ -91879,6 +91956,7 @@ var movieMap = {
             "Joan Rivers",
             "Jon Favreau",
             "Mark Ruffalo",
+            "Miguel Ferrer",
             "Paul Bettany",
             "Rebecca Hall",
             "Robert Downey Jr.",
@@ -111923,6 +112001,40 @@ var movieMap = {
             "2010s",
             "Animated",
             "Disney"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Alfred Molina",
+            "Ali Wong",
+            "Anika Noni Rose",
+            "Anthony Daniels",
+            "Auli'i Cravalho",
+            "Bill Hader",
+            "Brad Garrett",
+            "Dianna Agron",
+            "Ed O'Neill",
+            "Flula Borg",
+            "Gal Gadot",
+            "Idina Menzel",
+            "Irene Bedard",
+            "Jack McBrayer",
+            "Jane Lynch",
+            "Jodi Benson",
+            "John C. Reilly",
+            "Kelly Macdonald",
+            "Kristen Bell",
+            "Linda Larkin",
+            "Mandy Moore",
+            "Melissa Villase\u00f1or",
+            "Ming-Na Wen",
+            "Nicole Scherzinger",
+            "Paige O'Hara",
+            "Rich Moore",
+            "Sarah Silverman",
+            "Sean Giambrone as the eboy",
+            "Taraji P. Henson",
+            "Tim Allen",
+            "Vin Diesel"
         ]
     },
     "Robin Hood (2018)": {
