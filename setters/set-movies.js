@@ -78773,6 +78773,12 @@ var movieMap = {
             "Dramas",
             "Meryl Streep",
             "Viola Davis"
+        ],
+        "cast": [
+            "Amy Adams",
+            "Meryl Streep",
+            "Philip Seymour Hoffman",
+            "Viola Davis"
         ]
     },
     "Gran Torino (2008)": {
@@ -83128,6 +83134,15 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Tom Cruise",
+            "Viola Davis"
+        ],
+        "cast": [
+            "Cameron Diaz",
+            "Gal Gadot",
+            "Maggie Grace",
+            "Paul Dano",
+            "Peter Sarsgaard",
             "Tom Cruise",
             "Viola Davis"
         ]
@@ -97308,6 +97323,23 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Meryl Streep",
             "Musicals"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Billy Magnussen",
+            "Chris Pine",
+            "Christine Baranski",
+            "Daniel Huttlestone",
+            "Emily Blunt",
+            "Frances de la Tour",
+            "James Corden",
+            "Johnny Depp",
+            "Lilla Crawford",
+            "Lucy Punch",
+            "MacKenzie Mauzy",
+            "Meryl Streep",
+            "Tammy Blanchard",
+            "Tracey Ullman"
         ]
     },
     "Selma (2014)": {
@@ -104218,6 +104250,15 @@ var movieMap = {
             "Black Cinema",
             "Denzel Washington",
             "Dramas",
+            "Viola Davis"
+        ],
+        "cast": [
+            "Denzel Washington",
+            "Jovan Adepo",
+            "Mykelti Williamson",
+            "Russell Hornsby",
+            "Saniyya Sidney",
+            "Stephen McKinley Henderson",
             "Viola Davis"
         ]
     },
@@ -111792,6 +111833,24 @@ var movieMap = {
         "categories": [
             "2010s",
             "Crime",
+            "Viola Davis"
+        ],
+        "cast": [
+            "Brian Tyree Henry",
+            "Carrie Coon",
+            "Colin Farrell",
+            "Cynthia Erivo",
+            "Daniel Kaluuya",
+            "Elizabeth Debicki",
+            "Garret Dillahunt",
+            "Jacki Weaver",
+            "Jon Bernthal",
+            "Liam Neeson",
+            "Lukas Haas",
+            "Manuel Garcia-Rulfo",
+            "Matt Walsh",
+            "Michelle Rodriguez",
+            "Robert Duvall",
             "Viola Davis"
         ]
     },

@@ -645,6 +645,7 @@ var actorMap = {
         ],
         "movies": [
             "Catch Me If You Can (2002)",
+            "Doubt (2008)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
@@ -943,7 +944,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Into the Woods (2014)"
         ]
     },
     "Anna Paquin": {
@@ -1837,6 +1839,11 @@ var actorMap = {
             "Heavy Metal 2000 (2000)"
         ]
     },
+    "Billy Magnussen": {
+        "movies": [
+            "Into the Woods (2014)"
+        ]
+    },
     "Biz Markie": {
         "movies": [
             "Men in Black II (2002)"
@@ -2191,6 +2198,7 @@ var actorMap = {
     },
     "Brian Tyree Henry": {
         "movies": [
+            "Widows (2018)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Joker (2019)",
             "Eternals (2021)"
@@ -2468,6 +2476,7 @@ var actorMap = {
             "The Mask (1994)",
             "Vanilla Sky (2001)",
             "The Holiday (2006)",
+            "Knight and Day (2010)",
             "The Green Hornet (2011)"
         ]
     },
@@ -2544,6 +2553,7 @@ var actorMap = {
     "Carrie Coon": {
         "movies": [
             "Avengers: Infinity War (2018)",
+            "Widows (2018)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -3001,6 +3011,7 @@ var actorMap = {
             "Star Trek (2009)",
             "This Means War (2012)",
             "Star Trek Into Darkness (2013)",
+            "Into the Woods (2014)",
             "Star Trek Beyond (2016)",
             "Wonder Woman (2017)",
             "A Wrinkle in Time (2018)",
@@ -3069,7 +3080,8 @@ var actorMap = {
     },
     "Christine Baranski": {
         "movies": [
-            "Cruel Intentions (1999)"
+            "Cruel Intentions (1999)",
+            "Into the Woods (2014)"
         ]
     },
     "Christine Taylor": {
@@ -3364,7 +3376,8 @@ var actorMap = {
         "movies": [
             "Daredevil (2003)",
             "Alexander (2004)",
-            "Fantastic Beasts and Where to Find Them (2016)"
+            "Fantastic Beasts and Where to Find Them (2016)",
+            "Widows (2018)"
         ]
     },
     "Colin Firth": {
@@ -3529,7 +3542,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Bad Times at the El Royale (2018)"
+            "Bad Times at the El Royale (2018)",
+            "Widows (2018)"
         ]
     },
     "D'Urville Martin": {
@@ -3704,6 +3718,11 @@ var actorMap = {
             "Big Hero 6 (2014)"
         ]
     },
+    "Daniel Huttlestone": {
+        "movies": [
+            "Into the Woods (2014)"
+        ]
+    },
     "Daniel Kaluuya": {
         "leadNoms": [
             {
@@ -3719,7 +3738,8 @@ var actorMap = {
         ],
         "movies": [
             "Kick-Ass 2 (2013)",
-            "Black Panther (2018)"
+            "Black Panther (2018)",
+            "Widows (2018)"
         ]
     },
     "Daniel Logan": {
@@ -4219,7 +4239,8 @@ var actorMap = {
         ],
         "movies": [
             "Remember the Titans (2000)",
-            "2 Guns (2013)"
+            "2 Guns (2013)",
+            "Fences (2016)"
         ]
     },
     "Denzel Whitaker": {
@@ -4900,7 +4921,8 @@ var actorMap = {
     },
     "Elizabeth Debicki": {
         "movies": [
-            "Guardians of the Galaxy Vol. 2 (2017)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Widows (2018)"
         ]
     },
     "Elizabeth McGovern": {
@@ -5081,6 +5103,7 @@ var actorMap = {
     },
     "Emily Blunt": {
         "movies": [
+            "Into the Woods (2014)",
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
         ]
@@ -5588,6 +5611,7 @@ var actorMap = {
             "Harry Potter and the Goblet of Fire (2005)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Into the Woods (2014)",
             "Mr. Holmes (2015)",
             "Dolittle (2020)"
         ]
@@ -5720,6 +5744,7 @@ var actorMap = {
     },
     "Gal Gadot": {
         "movies": [
+            "Knight and Day (2010)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Wonder Woman (2017)",
             "Justice League (2017)",
@@ -5730,6 +5755,11 @@ var actorMap = {
     "Gareth Edwards": {
         "movies": [
             "Star Wars: The Last Jedi (2017)"
+        ]
+    },
+    "Garret Dillahunt": {
+        "movies": [
+            "Widows (2018)"
         ]
     },
     "Garrett Hedlund": {
@@ -7203,6 +7233,9 @@ var actorMap = {
                 "movie": "Silver Linings Playbook",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "Widows (2018)"
         ]
     },
     "Jackie Chan": {
@@ -7354,6 +7387,7 @@ var actorMap = {
     "James Corden": {
         "movies": [
             "The Three Musketeers (2011)",
+            "Into the Woods (2014)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -8981,6 +9015,7 @@ var actorMap = {
             "Alice in Wonderland (2010)",
             "The Tourist (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Into the Woods (2014)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
@@ -9009,6 +9044,11 @@ var actorMap = {
     "Johnny Whitworth": {
         "movies": [
             "Ghost Rider: Spirit of Vengeance (2012)"
+        ]
+    },
+    "Jon Bernthal": {
+        "movies": [
+            "Widows (2018)"
         ]
     },
     "Jon Bon Jovi": {
@@ -9248,6 +9288,11 @@ var actorMap = {
         "movies": [
             "Cruel Intentions (1999)",
             "Ocean's Eleven (2001)"
+        ]
+    },
+    "Jovan Adepo": {
+        "movies": [
+            "Fences (2016)"
         ]
     },
     "Jovan Armand": {
@@ -10855,6 +10900,7 @@ var actorMap = {
             "The Dark Knight Rises (2012)",
             "The Lego Movie (2014)",
             "A Monster Calls (2016)",
+            "Widows (2018)",
             "Men in Black: International (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -10870,6 +10916,11 @@ var actorMap = {
     "Lil Yachty": {
         "movies": [
             "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Lilla Crawford": {
+        "movies": [
+            "Into the Woods (2014)"
         ]
     },
     "Lily Collins": {
@@ -11067,7 +11118,8 @@ var actorMap = {
     },
     "Lucy Punch": {
         "movies": [
-            "Take Me Home Tonight (2011)"
+            "Take Me Home Tonight (2011)",
+            "Into the Woods (2014)"
         ]
     },
     "Ludacris": {
@@ -11079,6 +11131,11 @@ var actorMap = {
         "movies": [
             "Power Rangers (2017)",
             "Aquaman (2018)"
+        ]
+    },
+    "Lukas Haas": {
+        "movies": [
+            "Widows (2018)"
         ]
     },
     "Luke Evans": {
@@ -11173,6 +11230,11 @@ var actorMap = {
             "Last Action Hero (1993)"
         ]
     },
+    "MacKenzie Mauzy": {
+        "movies": [
+            "Into the Woods (2014)"
+        ]
+    },
     "Macaulay Culkin": {
         "movies": [
             "The Pagemaster (1994)"
@@ -11210,6 +11272,11 @@ var actorMap = {
     "Magda Szubanski": {
         "movies": [
             "Son of the Mask (2005)"
+        ]
+    },
+    "Maggie Grace": {
+        "movies": [
+            "Knight and Day (2010)"
         ]
     },
     "Maggie Gyllenhaal": {
@@ -11329,6 +11396,11 @@ var actorMap = {
     "Mamoudou Athie": {
         "movies": [
             "The Circle (2017)"
+        ]
+    },
+    "Manuel Garcia-Rulfo": {
+        "movies": [
+            "Widows (2018)"
         ]
     },
     "Marc Maron": {
@@ -11927,7 +11999,8 @@ var actorMap = {
     },
     "Matt Walsh": {
         "movies": [
-            "Ted (2012)"
+            "Ted (2012)",
+            "Widows (2018)"
         ]
     },
     "Matthew Broderick": {
@@ -12269,6 +12342,8 @@ var actorMap = {
         ],
         "movies": [
             "The Deer Hunter (1978)",
+            "Doubt (2008)",
+            "Into the Woods (2014)",
             "Little Women (2019)",
             "Don't Look Up (2021)"
         ]
@@ -12693,7 +12768,8 @@ var actorMap = {
     },
     "Michelle Rodriguez": {
         "movies": [
-            "Avatar (2009)"
+            "Avatar (2009)",
+            "Widows (2018)"
         ]
     },
     "Michelle Trachtenberg": {
@@ -12982,7 +13058,8 @@ var actorMap = {
     },
     "Mykelti Williamson": {
         "movies": [
-            "Forrest Gump (1994)"
+            "Forrest Gump (1994)",
+            "Fences (2016)"
         ]
     },
     "N'Bushe Wright": {
@@ -13747,6 +13824,7 @@ var actorMap = {
     },
     "Paul Dano": {
         "movies": [
+            "Knight and Day (2010)",
             "Cowboys & Aliens (2011)",
             "Prisoners (2013)"
         ]
@@ -14108,6 +14186,7 @@ var actorMap = {
     },
     "Peter Sarsgaard": {
         "movies": [
+            "Knight and Day (2010)",
             "Green Lantern (2011)"
         ]
     },
@@ -14181,7 +14260,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Doubt (2008)"
         ]
     },
     "Phoebe Waller-Bridge": {
@@ -14950,7 +15030,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Four Christmases (2008)"
+            "Four Christmases (2008)",
+            "Widows (2018)"
         ]
     },
     "Robert Forster": {
@@ -15336,6 +15417,11 @@ var actorMap = {
             "Noah (2014)"
         ]
     },
+    "Russell Hornsby": {
+        "movies": [
+            "Fences (2016)"
+        ]
+    },
     "Russell Peters": {
         "movies": [
             "New Year's Eve (2011)"
@@ -15675,6 +15761,11 @@ var actorMap = {
     "Sandy Dennis": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
+        ]
+    },
+    "Saniyya Sidney": {
+        "movies": [
+            "Fences (2016)"
         ]
     },
     "Saoirse Ronan": {
@@ -16464,6 +16555,11 @@ var actorMap = {
             "Avengers: Infinity War (2018)"
         ]
     },
+    "Stephen McKinley Henderson": {
+        "movies": [
+            "Fences (2016)"
+        ]
+    },
     "Stephen Merchant": {
         "movies": [
             "Logan (2017)",
@@ -16721,6 +16817,11 @@ var actorMap = {
         ],
         "movies": [
             "Rocky (1976)"
+        ]
+    },
+    "Tammy Blanchard": {
+        "movies": [
+            "Into the Woods (2014)"
         ]
     },
     "Tara Reid": {
@@ -17151,6 +17252,7 @@ var actorMap = {
         "movies": [
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",
+            "Knight and Day (2010)",
             "Oblivion (2013)"
         ]
     },
@@ -17459,7 +17561,8 @@ var actorMap = {
     },
     "Tracey Ullman": {
         "movies": [
-            "The Tale of Despereaux (2008)"
+            "The Tale of Despereaux (2008)",
+            "Into the Woods (2014)"
         ]
     },
     "Tracie Thoms": {
@@ -17815,10 +17918,14 @@ var actorMap = {
         ],
         "movies": [
             "Kate & Leopold (2001)",
+            "Doubt (2008)",
+            "Knight and Day (2010)",
             "The Help (2011)",
             "Prisoners (2013)",
             "Blackhat (2015)",
             "Suicide Squad (2016)",
+            "Fences (2016)",
+            "Widows (2018)",
             "The Suicide Squad (2021)"
         ]
     },
