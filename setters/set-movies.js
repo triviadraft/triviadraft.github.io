@@ -61390,6 +61390,22 @@ var movieMap = {
             "Comedies",
             "Musicians in Film",
             "Reginas"
+        ],
+        "cast": [
+            "Anthony Anderson",
+            "Blair Underwood",
+            "Bo Derek",
+            "Greg Grunberg",
+            "Jamie Kennedy",
+            "Jeffrey Tambor",
+            "Kal Penn",
+            "Mike Epps",
+            "Nick Swardson",
+            "Regina Hall",
+            "Ryan O'Neal",
+            "Snoop Dogg",
+            "Taye Diggs",
+            "Terry Crews"
         ]
     },
     "Identity (2003)": {
@@ -89008,6 +89024,25 @@ var movieMap = {
             "Comedies",
             "Kevin Hart",
             "Reginas"
+        ],
+        "cast": [
+            "Chris Brown",
+            "Gabrielle Union",
+            "Jenifer Lewis",
+            "Jerry Ferrara",
+            "Kelly Rowland",
+            "Kevin Hart",
+            "Meagan Good",
+            "Michael Ealy",
+            "Morris Chestnut",
+            "Regina Hall",
+            "Romany Malco",
+            "Sherri Shepherd",
+            "Steve Harvey",
+            "Taraji P. Henson",
+            "Terrence J",
+            "Tika Sumpter",
+            "Wendy Williams"
         ]
     },
     "Bernie (2012)": {
@@ -93835,6 +93870,18 @@ var movieMap = {
             "Black Cinema",
             "Comedies",
             "Reginas"
+        ],
+        "cast": [
+            "Harold Perrineau",
+            "John Michael Higgins",
+            "Melissa De Sousa",
+            "Monica Calhoun",
+            "Morris Chestnut",
+            "Nia Long",
+            "Regina Hall",
+            "Sanaa Lathan",
+            "Taye Diggs",
+            "Terrence Howard"
         ]
     },
     "Delivery Man (2013)": {
@@ -95645,6 +95692,28 @@ var movieMap = {
             "Comedies",
             "Kevin Hart",
             "Reginas"
+        ],
+        "cast": [
+            "Adam Brody",
+            "Carl Weathers",
+            "Cheryl Hines",
+            "Dennis Haysbert",
+            "Drake",
+            "Floyd Mayweather Jr.",
+            "Gabrielle Union",
+            "Janina Gavankar",
+            "Jenifer Lewis",
+            "Jerry Ferrara",
+            "Kelsey Grammer",
+            "Kevin Hart",
+            "Meagan Good",
+            "Michael Ealy",
+            "Regina Hall",
+            "Romany Malco",
+            "Taraji P. Henson",
+            "Terrence J",
+            "Wendi McLendon-Covey",
+            "Wendy Williams"
         ]
     },
     "Snowpiercer (2014)": {
@@ -104506,6 +104575,18 @@ var movieMap = {
             "Dramas",
             "Musicians in Film",
             "Octavia Spencer"
+        ],
+        "cast": [
+            "Aldis Hodge",
+            "Glen Powell",
+            "Janelle Mon\u00e1e",
+            "Jim Parsons",
+            "Kevin Costner",
+            "Kirsten Dunst",
+            "Mahershala Ali",
+            "Octavia Spencer",
+            "Saniyya Sidney",
+            "Taraji P. Henson"
         ]
     },
     "Live by Night (2016)": {

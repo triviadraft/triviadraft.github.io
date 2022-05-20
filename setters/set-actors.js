@@ -77,6 +77,7 @@ var actorMap = {
     },
     "Adam Brody": {
         "movies": [
+            "Think Like a Man Too (2014)",
             "Shazam! (2019)",
             "Ready or Not (2019)",
             "Promising Young Woman (2020)"
@@ -412,6 +413,11 @@ var actorMap = {
     "Alden Ehrenreich": {
         "movies": [
             "Solo: A Star Wars Story (2018)"
+        ]
+    },
+    "Aldis Hodge": {
+        "movies": [
+            "Hidden Figures (2016)"
         ]
     },
     "Alec Baldwin": {
@@ -1103,6 +1109,11 @@ var actorMap = {
     "Annie Potts": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
+        ]
+    },
+    "Anthony Anderson": {
+        "movies": [
+            "Malibu's Most Wanted (2003)"
         ]
     },
     "Anthony Daniels": {
@@ -1914,6 +1925,11 @@ var actorMap = {
             "Men in Black II (2002)"
         ]
     },
+    "Blair Underwood": {
+        "movies": [
+            "Malibu's Most Wanted (2003)"
+        ]
+    },
     "Blake Clark": {
         "movies": [
             "The Mask (1994)"
@@ -1937,6 +1953,11 @@ var actorMap = {
     "Bo Burnham": {
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Bo Derek": {
+        "movies": [
+            "Malibu's Most Wanted (2003)"
         ]
     },
     "Bob Balaban": {
@@ -2586,7 +2607,8 @@ var actorMap = {
     },
     "Carl Weathers": {
         "movies": [
-            "Rocky (1976)"
+            "Rocky (1976)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Carla Gugino": {
@@ -2928,6 +2950,11 @@ var actorMap = {
             }
         ]
     },
+    "Cheryl Hines": {
+        "movies": [
+            "Think Like a Man Too (2014)"
+        ]
+    },
     "Chevy Chase": {
         "movies": [
             "Spies Like Us (1985)",
@@ -2985,6 +3012,11 @@ var actorMap = {
         "movies": [
             "Bulletproof Monk (2003)",
             "Pirates of the Caribbean: At World's End (2007)"
+        ]
+    },
+    "Chris Brown": {
+        "movies": [
+            "Think Like a Man (2012)"
         ]
     },
     "Chris Cooper": {
@@ -4280,6 +4312,7 @@ var actorMap = {
         "movies": [
             "Kung Fu Panda 2 (2011)",
             "Wreck-It Ralph (2012)",
+            "Think Like a Man Too (2014)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -4711,6 +4744,11 @@ var actorMap = {
     "Dougray Scott": {
         "movies": [
             "My Week with Marilyn (2011)"
+        ]
+    },
+    "Drake": {
+        "movies": [
+            "Think Like a Man Too (2014)"
         ]
     },
     "Drew Barrymore": {
@@ -5675,6 +5713,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Floyd Mayweather Jr.": {
+        "movies": [
+            "Think Like a Man Too (2014)"
+        ]
+    },
     "Flula Borg": {
         "movies": [
             "Ralph Breaks the Internet (2018)",
@@ -5872,7 +5915,9 @@ var actorMap = {
     },
     "Gabrielle Union": {
         "movies": [
-            "Daddy's Little Girls (2007)"
+            "Daddy's Little Girls (2007)",
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Gaby Hoffmann": {
@@ -6270,6 +6315,11 @@ var actorMap = {
             "My Fair Lady (1964)"
         ]
     },
+    "Glen Powell": {
+        "movies": [
+            "Hidden Figures (2016)"
+        ]
+    },
     "Glenda Jackson": {
         "leadNoms": [
             {
@@ -6392,6 +6442,7 @@ var actorMap = {
     },
     "Greg Grunberg": {
         "movies": [
+            "Malibu's Most Wanted (2003)",
             "Star Trek (2009)",
             "Star Wars: The Force Awakens (2015)",
             "Star Trek Beyond (2016)",
@@ -6550,7 +6601,8 @@ var actorMap = {
     "Harold Perrineau": {
         "movies": [
             "The Best Man (1999)",
-            "Zero Dark Thirty (2012)"
+            "Zero Dark Thirty (2012)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Harold Ramis": {
@@ -7830,6 +7882,7 @@ var actorMap = {
     },
     "Jamie Kennedy": {
         "movies": [
+            "Malibu's Most Wanted (2003)",
             "Son of the Mask (2005)"
         ]
     },
@@ -7894,6 +7947,11 @@ var actorMap = {
             "Dogma (1999)"
         ]
     },
+    "Janelle Mon\u00e1e": {
+        "movies": [
+            "Hidden Figures (2016)"
+        ]
+    },
     "Janet Leigh": {
         "suppNoms": [
             {
@@ -7914,6 +7972,11 @@ var actorMap = {
                 "movie": "Albert Nobbs",
                 "year": "2011"
             }
+        ]
+    },
+    "Janina Gavankar": {
+        "movies": [
+            "Think Like a Man Too (2014)"
         ]
     },
     "January Jones": {
@@ -8222,6 +8285,7 @@ var actorMap = {
     },
     "Jeffrey Tambor": {
         "movies": [
+            "Malibu's Most Wanted (2003)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)"
         ]
@@ -8234,7 +8298,9 @@ var actorMap = {
     },
     "Jenifer Lewis": {
         "movies": [
-            "Mystery Men (1999)"
+            "Mystery Men (1999)",
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Jenna Coleman": {
@@ -8429,6 +8495,12 @@ var actorMap = {
     "Jeremy Theobald": {
         "movies": [
             "Batman Begins (2005)"
+        ]
+    },
+    "Jerry Ferrara": {
+        "movies": [
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Jesse Eisenberg": {
@@ -8630,6 +8702,11 @@ var actorMap = {
     "Jim O'Heir": {
         "movies": [
             "Bad Times at the El Royale (2018)"
+        ]
+    },
+    "Jim Parsons": {
+        "movies": [
+            "Hidden Figures (2016)"
         ]
     },
     "Jim Rash": {
@@ -9120,7 +9197,8 @@ var actorMap = {
     },
     "John Michael Higgins": {
         "movies": [
-            "Blade: Trinity (2004)"
+            "Blade: Trinity (2004)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "John Mulaney": {
@@ -9924,6 +10002,7 @@ var actorMap = {
     },
     "Kal Penn": {
         "movies": [
+            "Malibu's Most Wanted (2003)",
             "Son of the Mask (2005)",
             "Superman Returns (2006)"
         ]
@@ -10329,10 +10408,16 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Kelly Rowland": {
+        "movies": [
+            "Think Like a Man (2012)"
+        ]
+    },
     "Kelsey Grammer": {
         "movies": [
             "X-Men: The Last Stand (2006)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Ken Howard": {
@@ -10458,7 +10543,8 @@ var actorMap = {
             "Message in a Bottle (1999)",
             "Rumor Has It (2005)",
             "Man of Steel (2013)",
-            "Batman v Superman: Dawn of Justice (2016)"
+            "Batman v Superman: Dawn of Justice (2016)",
+            "Hidden Figures (2016)"
         ]
     },
     "Kevin Dunn": {
@@ -10475,8 +10561,10 @@ var actorMap = {
     },
     "Kevin Hart": {
         "movies": [
+            "Think Like a Man (2012)",
             "This Is the End (2013)",
-            "About Last Night (2014)"
+            "About Last Night (2014)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Kevin Heffernan": {
@@ -10628,6 +10716,7 @@ var actorMap = {
             "Elizabethtown (2005)",
             "Spider-Man 3 (2007)",
             "The Bling Ring (2013)",
+            "Hidden Figures (2016)",
             "The Power of the Dog (2021)"
         ]
     },
@@ -11667,6 +11756,7 @@ var actorMap = {
         ],
         "movies": [
             "The Curious Case of Benjamin Button (2008)",
+            "Hidden Figures (2016)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Eternals (2021)"
         ]
@@ -12470,6 +12560,8 @@ var actorMap = {
     },
     "Meagan Good": {
         "movies": [
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)",
             "Shazam! (2019)"
         ]
     },
@@ -12528,7 +12620,8 @@ var actorMap = {
     },
     "Melissa De Sousa": {
         "movies": [
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Melissa George": {
@@ -12869,7 +12962,9 @@ var actorMap = {
     },
     "Michael Ealy": {
         "movies": [
-            "About Last Night (2014)"
+            "Think Like a Man (2012)",
+            "About Last Night (2014)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Michael Emerson": {
@@ -13227,6 +13322,7 @@ var actorMap = {
     },
     "Mike Epps": {
         "movies": [
+            "Malibu's Most Wanted (2003)",
             "Girls Trip (2017)"
         ]
     },
@@ -13371,7 +13467,8 @@ var actorMap = {
     },
     "Monica Calhoun": {
         "movies": [
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Morena Baccarin": {
@@ -13423,7 +13520,9 @@ var actorMap = {
         "movies": [
             "Boyz n the Hood (1991)",
             "The Best Man (1999)",
-            "Kick-Ass 2 (2013)"
+            "Think Like a Man (2012)",
+            "Kick-Ass 2 (2013)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Mos Def": {
@@ -13632,7 +13731,8 @@ var actorMap = {
     "Nia Long": {
         "movies": [
             "Boyz n the Hood (1991)",
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Nichelle Nichols": {
@@ -13715,6 +13815,11 @@ var actorMap = {
     "Nick Stahl": {
         "movies": [
             "Sin City (2005)"
+        ]
+    },
+    "Nick Swardson": {
+        "movies": [
+            "Malibu's Most Wanted (2003)"
         ]
     },
     "Nicolas Cage": {
@@ -13896,6 +14001,7 @@ var actorMap = {
             "Spider-Man (2002)",
             "The Help (2011)",
             "Zootopia (2016)",
+            "Hidden Figures (2016)",
             "Dolittle (2020)",
             "Onward (2020)"
         ]
@@ -15011,7 +15117,11 @@ var actorMap = {
     "Regina Hall": {
         "movies": [
             "The Best Man (1999)",
+            "Malibu's Most Wanted (2003)",
+            "Think Like a Man (2012)",
+            "The Best Man Holiday (2013)",
             "About Last Night (2014)",
+            "Think Like a Man Too (2014)",
             "Girls Trip (2017)",
             "The Hate U Give (2018)",
             "Little (2019)"
@@ -15622,6 +15732,12 @@ var actorMap = {
             "Jojo Rabbit (2019)"
         ]
     },
+    "Romany Malco": {
+        "movies": [
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)"
+        ]
+    },
     "Ron Cephas Jones": {
         "movies": [
             "Venom (2018)"
@@ -15921,6 +16037,11 @@ var actorMap = {
             "Remember the Titans (2000)"
         ]
     },
+    "Ryan O'Neal": {
+        "movies": [
+            "Malibu's Most Wanted (2003)"
+        ]
+    },
     "Ryan Phillippe": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
@@ -16197,7 +16318,8 @@ var actorMap = {
     "Sanaa Lathan": {
         "movies": [
             "Blade (1998)",
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Sandra Bullock": {
@@ -16226,7 +16348,8 @@ var actorMap = {
     },
     "Saniyya Sidney": {
         "movies": [
-            "Fences (2016)"
+            "Fences (2016)",
+            "Hidden Figures (2016)"
         ]
     },
     "Saoirse Ronan": {
@@ -16635,6 +16758,11 @@ var actorMap = {
             "Annie Hall (1977)"
         ]
     },
+    "Sherri Shepherd": {
+        "movies": [
+            "Think Like a Man (2012)"
+        ]
+    },
     "Shia LaBeouf": {
         "movies": [
             "Constantine (2005)"
@@ -16832,6 +16960,11 @@ var actorMap = {
             "Four Christmases (2008)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)"
+        ]
+    },
+    "Snoop Dogg": {
+        "movies": [
+            "Malibu's Most Wanted (2003)"
         ]
     },
     "Sofia Boutella": {
@@ -17114,6 +17247,11 @@ var actorMap = {
             "Tropic Thunder (2008)"
         ]
     },
+    "Steve Harvey": {
+        "movies": [
+            "Think Like a Man (2012)"
+        ]
+    },
     "Steve Martin": {
         "movies": [
             "Three Amigos (1986)",
@@ -17346,6 +17484,9 @@ var actorMap = {
         ],
         "movies": [
             "The Curious Case of Benjamin Button (2008)",
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)",
+            "Hidden Figures (2016)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -17368,7 +17509,9 @@ var actorMap = {
     "Taye Diggs": {
         "movies": [
             "The Best Man (1999)",
-            "Rent (2005)"
+            "Malibu's Most Wanted (2003)",
+            "Rent (2005)",
+            "The Best Man Holiday (2013)"
         ]
     },
     "Taylor Kinney": {
@@ -17440,11 +17583,19 @@ var actorMap = {
             "Crash (2005)",
             "Iron Man (2008)",
             "Movie 43 (2013)",
-            "Prisoners (2013)"
+            "Prisoners (2013)",
+            "The Best Man Holiday (2013)"
+        ]
+    },
+    "Terrence J": {
+        "movies": [
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Terry Crews": {
         "movies": [
+            "Malibu's Most Wanted (2003)",
             "Deadpool 2 (2018)"
         ]
     },
@@ -17552,7 +17703,8 @@ var actorMap = {
     },
     "Tika Sumpter": {
         "movies": [
-            "What's Your Number? (2011)"
+            "What's Your Number? (2011)",
+            "Think Like a Man (2012)"
         ]
     },
     "Til Schweiger": {
@@ -18583,6 +18735,17 @@ var actorMap = {
     "Wayne Newton": {
         "movies": [
             "Ocean's Eleven (2001)"
+        ]
+    },
+    "Wendi McLendon-Covey": {
+        "movies": [
+            "Think Like a Man Too (2014)"
+        ]
+    },
+    "Wendy Williams": {
+        "movies": [
+            "Think Like a Man (2012)",
+            "Think Like a Man Too (2014)"
         ]
     },
     "Wes Bentley": {
