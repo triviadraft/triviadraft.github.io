@@ -5719,7 +5719,8 @@ var actorMap = {
     },
     "Fredric Lehne": {
         "movies": [
-            "Men in Black (1997)"
+            "Men in Black (1997)",
+            "The Greatest Showman (2017)"
         ]
     },
     "Gabourey Sidibe": {
@@ -6761,7 +6762,8 @@ var actorMap = {
             "Prisoners (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
-            "Logan (2017)"
+            "Logan (2017)",
+            "The Greatest Showman (2017)"
         ]
     },
     "Hugo Weaving": {
@@ -9983,6 +9985,11 @@ var actorMap = {
             "Men in Black: International (2019)"
         ]
     },
+    "Keala Settle": {
+        "movies": [
+            "The Greatest Showman (2017)"
+        ]
+    },
     "Keanu Reeves": {
         "movies": [
             "Something's Gotta Give (2003)",
@@ -12825,6 +12832,7 @@ var actorMap = {
         ],
         "movies": [
             "My Week with Marilyn (2011)",
+            "The Greatest Showman (2017)",
             "I Feel Pretty (2018)",
             "Venom (2018)",
             "Venom: Let There Be Carnage (2021)"
@@ -13192,6 +13200,11 @@ var actorMap = {
     "Natalie Wood": {
         "movies": [
             "West Side Story (1961)"
+        ]
+    },
+    "Natasha Liu Bordizzo": {
+        "movies": [
+            "The Greatest Showman (2017)"
         ]
     },
     "Natasha Lyonne": {
@@ -14556,6 +14569,7 @@ var actorMap = {
     "Rebecca Ferguson": {
         "movies": [
             "Hercules (2014)",
+            "The Greatest Showman (2017)",
             "The Kid Who Would Be King (2019)",
             "Men in Black: International (2019)"
         ]
@@ -18405,6 +18419,7 @@ var actorMap = {
     },
     "Yahya Abdul-Mateen II": {
         "movies": [
+            "The Greatest Showman (2017)",
             "Aquaman (2018)",
             "Us (2019)"
         ]
@@ -18451,7 +18466,8 @@ var actorMap = {
     },
     "Zac Efron": {
         "movies": [
-            "New Year's Eve (2011)"
+            "New Year's Eve (2011)",
+            "The Greatest Showman (2017)"
         ]
     },
     "Zach Galifianakis": {
@@ -18504,6 +18520,7 @@ var actorMap = {
     "Zendaya": {
         "movies": [
             "Spider-Man: Homecoming (2017)",
+            "The Greatest Showman (2017)",
             "Spider-Man: Far From Home (2019)",
             "Spider-Man: No Way Home (2021)"
         ]

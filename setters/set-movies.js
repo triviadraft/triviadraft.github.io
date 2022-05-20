@@ -108029,6 +108029,17 @@ var movieMap = {
             "Dramas",
             "Family",
             "Musicals"
+        ],
+        "cast": [
+            "Fredric Lehne",
+            "Hugh Jackman",
+            "Keala Settle",
+            "Michelle Williams",
+            "Natasha Liu Bordizzo",
+            "Rebecca Ferguson",
+            "Yahya Abdul-Mateen II",
+            "Zac Efron",
+            "Zendaya"
         ]
     },
     "Bright (2017)": {
