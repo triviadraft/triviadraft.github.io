@@ -50,7 +50,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "New Year's Eve (2011)"
+            "Zombieland (2009)",
+            "New Year's Eve (2011)",
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Abigail Spencer": {
@@ -256,7 +258,8 @@ var actorMap = {
     },
     "Al Roker": {
         "movies": [
-            "Kung Fu Panda 3 (2016)"
+            "Kung Fu Panda 3 (2016)",
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Alan Alda": {
@@ -615,6 +618,7 @@ var actorMap = {
     },
     "Amber Heard": {
         "movies": [
+            "Zombieland (2009)",
             "Justice League (2017)",
             "Aquaman (2018)",
             "Zack Snyder's Justice League (2021)"
@@ -1373,6 +1377,11 @@ var actorMap = {
             "Whiplash (2014)"
         ]
     },
+    "Avan Jogia": {
+        "movies": [
+            "Zombieland: Double Tap (2019)"
+        ]
+    },
     "Awkwafina": {
         "movies": [
             "Ocean's 8 (2018)",
@@ -1764,6 +1773,8 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "Space Jam (1996)",
+            "Zombieland (2009)",
+            "Zombieland: Double Tap (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -5235,10 +5246,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Zombieland (2009)",
             "The Help (2011)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)",
-            "La La Land (2016)"
+            "La La Land (2016)",
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Emma Thompson": {
@@ -6520,6 +6533,7 @@ var actorMap = {
     },
     "Harry Dean Stanton": {
         "movies": [
+            "Alien (1979)",
             "The Avengers (2012)"
         ]
     },
@@ -6897,6 +6911,7 @@ var actorMap = {
     },
     "Ian Holm": {
         "movies": [
+            "Alien (1979)",
             "From Hell (2001)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Return of the King (2003)",
@@ -8336,8 +8351,10 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Zombieland (2009)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
+            "Zombieland: Double Tap (2019)",
             "Zack Snyder's Justice League (2021)"
         ]
     },
@@ -8929,6 +8946,7 @@ var actorMap = {
         ],
         "movies": [
             "The Lord of the Rings (1978)",
+            "Alien (1979)",
             "Spaceballs (1987)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Hellboy (2004)",
@@ -9393,6 +9411,11 @@ var actorMap = {
             "Black Hawk Down (2001)",
             "Sin City (2005)",
             "30 Days of Night (2007)"
+        ]
+    },
+    "Josh Horowitz": {
+        "movies": [
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Josh Lucas": {
@@ -11309,6 +11332,11 @@ var actorMap = {
     "Luke Hemsworth": {
         "movies": [
             "Thor: Ragnarok (2017)"
+        ]
+    },
+    "Luke Wilson": {
+        "movies": [
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Lulu Wilson": {
@@ -15491,7 +15519,8 @@ var actorMap = {
             "Sin City (2005)",
             "Rent (2005)",
             "Sin City: A Dame to Kill For (2014)",
-            "The Lego Batman Movie (2017)"
+            "The Lego Batman Movie (2017)",
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Rose Byrne": {
@@ -16502,6 +16531,7 @@ var actorMap = {
         ],
         "movies": [
             "Annie Hall (1977)",
+            "Alien (1979)",
             "Galaxy Quest (1999)",
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
@@ -17276,6 +17306,11 @@ var actorMap = {
             "What's Your Number? (2011)"
         ]
     },
+    "Thomas Middleditch": {
+        "movies": [
+            "Zombieland: Double Tap (2019)"
+        ]
+    },
     "Thomasin McKenzie": {
         "movies": [
             "Jojo Rabbit (2019)",
@@ -17658,6 +17693,7 @@ var actorMap = {
     },
     "Tom Skerritt": {
         "movies": [
+            "Alien (1979)",
             "Ted (2012)"
         ]
     },
@@ -18056,6 +18092,11 @@ var actorMap = {
     "Verne Troyer": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)"
+        ]
+    },
+    "Veronica Cartwright": {
+        "movies": [
+            "Alien (1979)"
         ]
     },
     "Veronica Ng\u00f4": {
@@ -18622,8 +18663,10 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Zombieland (2009)",
             "Solo: A Star Wars Story (2018)",
             "Venom (2018)",
+            "Zombieland: Double Tap (2019)",
             "Venom: Let There Be Carnage (2021)"
         ]
     },
@@ -18656,6 +18699,11 @@ var actorMap = {
                 "movie": "Roma",
                 "year": "2018"
             }
+        ]
+    },
+    "Yaphet Kotto": {
+        "movies": [
+            "Alien (1979)"
         ]
     },
     "Yayan Ruhian": {
@@ -18770,6 +18818,11 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Zoey Deutch": {
+        "movies": [
+            "Zombieland: Double Tap (2019)"
         ]
     },
     "Zooey Deschanel": {

@@ -15949,6 +15949,15 @@ var movieMap = {
             "Horror/Thriller",
             "Scotts",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Harry Dean Stanton",
+            "Ian Holm",
+            "John Hurt",
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "Veronica Cartwright",
+            "Yaphet Kotto"
         ]
     },
     "Game of Death (1979)": {
@@ -81144,6 +81153,14 @@ var movieMap = {
             "Emmas",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Abigail Breslin",
+            "Amber Heard",
+            "Bill Murray",
+            "Emma Stone",
+            "Jesse Eisenberg",
+            "Woody Harrelson"
         ]
     },
     "Couples Retreat (2009)": {
@@ -115618,6 +115635,20 @@ var movieMap = {
             "Frat Pack",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Abigail Breslin",
+            "Al Roker",
+            "Avan Jogia",
+            "Bill Murray",
+            "Emma Stone",
+            "Jesse Eisenberg",
+            "Josh Horowitz",
+            "Luke Wilson",
+            "Rosario Dawson",
+            "Thomas Middleditch",
+            "Woody Harrelson",
+            "Zoey Deutch"
         ]
     },
     "Countdown (2019)": {
