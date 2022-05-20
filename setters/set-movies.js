@@ -79425,6 +79425,20 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Bradley Cooper",
+            "Busy Philipps",
+            "Drew Barrymore",
+            "Ginnifer Goodwin",
+            "Jennifer Aniston",
+            "Jennifer Connelly",
+            "Justin Long",
+            "Kevin Connolly",
+            "Kris Kristofferson",
+            "Leonardo Nam",
+            "Scarlett Johansson"
         ]
     },
     "Push (2009)": {

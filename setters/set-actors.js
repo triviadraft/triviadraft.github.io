@@ -1485,6 +1485,7 @@ var actorMap = {
             "Shakespeare in Love (1998)",
             "Dogma (1999)",
             "Daredevil (2003)",
+            "He's Just Not That into You (2009)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Suicide Squad (2016)",
             "Justice League (2017)",
@@ -2086,6 +2087,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "He's Just Not That into You (2009)",
             "Valentine's Day (2010)",
             "Guardians of the Galaxy (2014)",
             "10 Cloverfield Lane (2016)",
@@ -2457,6 +2459,7 @@ var actorMap = {
     },
     "Busy Philipps": {
         "movies": [
+            "He's Just Not That into You (2009)",
             "I Feel Pretty (2018)"
         ]
     },
@@ -4681,7 +4684,8 @@ var actorMap = {
     },
     "Drew Barrymore": {
         "movies": [
-            "Batman Forever (1995)"
+            "Batman Forever (1995)",
+            "He's Just Not That into You (2009)"
         ]
     },
     "Dustin Hoffman": {
@@ -6207,6 +6211,7 @@ var actorMap = {
     "Ginnifer Goodwin": {
         "movies": [
             "Walk the Line (2005)",
+            "He's Just Not That into You (2009)",
             "Zootopia (2016)"
         ]
     },
@@ -8161,6 +8166,7 @@ var actorMap = {
         "movies": [
             "Leprechaun (1993)",
             "Rumor Has It (2005)",
+            "He's Just Not That into You (2009)",
             "Mother's Day (2016)"
         ]
     },
@@ -8173,6 +8179,7 @@ var actorMap = {
         ],
         "movies": [
             "Hulk (2003)",
+            "He's Just Not That into You (2009)",
             "Noah (2014)",
             "Spider-Man: Homecoming (2017)"
         ]
@@ -9806,7 +9813,8 @@ var actorMap = {
     },
     "Justin Long": {
         "movies": [
-            "Galaxy Quest (1999)"
+            "Galaxy Quest (1999)",
+            "He's Just Not That into You (2009)"
         ]
     },
     "Justin Theroux": {
@@ -10323,6 +10331,11 @@ var actorMap = {
             "R.I.P.D. (2013)"
         ]
     },
+    "Kevin Connolly": {
+        "movies": [
+            "He's Just Not That into You (2009)"
+        ]
+    },
     "Kevin Conroy": {
         "movies": [
             "Batman: Mask of the Phantasm (1993)"
@@ -10539,7 +10552,8 @@ var actorMap = {
         "movies": [
             "Blade (1998)",
             "Blade II (2002)",
-            "Blade: Trinity (2004)"
+            "Blade: Trinity (2004)",
+            "He's Just Not That into You (2009)"
         ]
     },
     "Kristen Bell": {
@@ -10967,6 +10981,11 @@ var actorMap = {
         "movies": [
             "Catch Me If You Can (2002)",
             "Don't Look Up (2021)"
+        ]
+    },
+    "Leonardo Nam": {
+        "movies": [
+            "He's Just Not That into You (2009)"
         ]
     },
     "Lesley Manville": {
@@ -16123,6 +16142,7 @@ var actorMap = {
             "The Prestige (2006)",
             "The Other Boleyn Girl (2008)",
             "The Spirit (2008)",
+            "He's Just Not That into You (2009)",
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
             "Captain America: The Winter Soldier (2014)",
