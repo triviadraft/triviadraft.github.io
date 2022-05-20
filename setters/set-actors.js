@@ -497,7 +497,8 @@ var actorMap = {
     },
     "Ali Wong": {
         "movies": [
-            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+            "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)",
+            "Onward (2020)"
         ]
     },
     "Alia Shawkat": {
@@ -804,6 +805,7 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "13 Going on 30 (2004)",
+            "The Prestige (2006)",
             "The Adventures of Tintin (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
             "Avengers: Age of Ultron (2015)",
@@ -3028,7 +3030,8 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
             "The Lego Movie 2: The Second Part (2019)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Onward (2020)"
         ]
     },
     "Chris Rock": {
@@ -3069,6 +3072,7 @@ var actorMap = {
         ],
         "movies": [
             "Batman Begins (2005)",
+            "The Prestige (2006)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)"
         ]
@@ -3875,6 +3879,11 @@ var actorMap = {
     "David Ayer": {
         "movies": [
             "Suicide Squad (2016)"
+        ]
+    },
+    "David Bowie": {
+        "movies": [
+            "The Prestige (2006)"
         ]
     },
     "David Bradley": {
@@ -6746,6 +6755,7 @@ var actorMap = {
             "Kate & Leopold (2001)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
+            "The Prestige (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
             "Prisoners (2013)",
@@ -8037,6 +8047,7 @@ var actorMap = {
     },
     "Jennifer Aniston": {
         "movies": [
+            "Leprechaun (1993)",
             "Rumor Has It (2005)",
             "Mother's Day (2016)"
         ]
@@ -8913,7 +8924,8 @@ var actorMap = {
         "movies": [
             "The Empire Strikes Back (1980)",
             "The Incredibles (2004)",
-            "Incredibles 2 (2018)"
+            "Incredibles 2 (2018)",
+            "Onward (2020)"
         ]
     },
     "John Rhys-Davies": {
@@ -9424,6 +9436,7 @@ var actorMap = {
     "Julia Louis-Dreyfus": {
         "movies": [
             "North (1994)",
+            "Onward (2020)",
             "Black Widow (2021)"
         ]
     },
@@ -10748,7 +10761,8 @@ var actorMap = {
     },
     "Lena Waithe": {
         "movies": [
-            "Ready Player One (2018)"
+            "Ready Player One (2018)",
+            "Onward (2020)"
         ]
     },
     "Leo Howard": {
@@ -11620,6 +11634,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Mark Holton": {
+        "movies": [
+            "Leprechaun (1993)"
+        ]
+    },
     "Mark Margolis": {
         "movies": [
             "Noah (2014)"
@@ -12148,6 +12167,11 @@ var actorMap = {
             "Spaceballs (1987)"
         ]
     },
+    "Mel Rodriguez": {
+        "movies": [
+            "Onward (2020)"
+        ]
+    },
     "Melanie Griffith": {
         "leadNoms": [
             {
@@ -12436,6 +12460,7 @@ var actorMap = {
         ],
         "movies": [
             "Batman Begins (2005)",
+            "The Prestige (2006)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
             "Kingsman: The Secret Service (2015)"
@@ -13502,7 +13527,8 @@ var actorMap = {
             "Spider-Man (2002)",
             "The Help (2011)",
             "Zootopia (2016)",
-            "Dolittle (2020)"
+            "Dolittle (2020)",
+            "Onward (2020)"
         ]
     },
     "Olga Kurylenko": {
@@ -14274,6 +14300,11 @@ var actorMap = {
             "Carrie (1976)"
         ]
     },
+    "Piper Perabo": {
+        "movies": [
+            "The Prestige (2006)"
+        ]
+    },
     "Pom Klementieff": {
         "movies": [
             "Guardians of the Galaxy Vol. 2 (2017)",
@@ -14531,6 +14562,7 @@ var actorMap = {
     },
     "Rebecca Hall": {
         "movies": [
+            "The Prestige (2006)",
             "Iron Man 3 (2013)"
         ]
     },
@@ -15859,6 +15891,7 @@ var actorMap = {
         "movies": [
             "North (1994)",
             "Ghost World (2001)",
+            "The Prestige (2006)",
             "The Other Boleyn Girl (2008)",
             "The Spirit (2008)",
             "Iron Man 2 (2010)",
@@ -17353,6 +17386,7 @@ var actorMap = {
             "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)",
             "Dolittle (2020)",
+            "Onward (2020)",
             "Venom: Let There Be Carnage (2021)",
             "Spider-Man: No Way Home (2021)"
         ]
@@ -17562,7 +17596,8 @@ var actorMap = {
     "Tracey Ullman": {
         "movies": [
             "The Tale of Despereaux (2008)",
-            "Into the Woods (2014)"
+            "Into the Woods (2014)",
+            "Onward (2020)"
         ]
     },
     "Tracie Thoms": {
@@ -18009,6 +18044,7 @@ var actorMap = {
     "Warwick Davis": {
         "movies": [
             "Return of the Jedi (1983)",
+            "Leprechaun (1993)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
@@ -18273,6 +18309,11 @@ var actorMap = {
     "William Squire": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Wilmer Valderrama": {
+        "movies": [
+            "Onward (2020)"
         ]
     },
     "Wilson Jermaine Heredia": {

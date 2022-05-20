@@ -35324,6 +35324,11 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Jennifer Aniston"
+        ],
+        "cast": [
+            "Jennifer Aniston",
+            "Mark Holton",
+            "Warwick Davis"
         ]
     },
     "Alive (1993)": {
@@ -71913,6 +71918,16 @@ var movieMap = {
             "Dramas",
             "Fantasy/Sci-Fi",
             "Musicians in Film",
+            "Scarlett Johansson"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Christian Bale",
+            "David Bowie",
+            "Hugh Jackman",
+            "Michael Caine",
+            "Piper Perabo",
+            "Rebecca Hall",
             "Scarlett Johansson"
         ]
     },
@@ -117183,6 +117198,18 @@ var movieMap = {
             "Animated",
             "Octavia Spencer",
             "Pixar"
+        ],
+        "cast": [
+            "Ali Wong",
+            "Chris Pratt",
+            "John Ratzenberger",
+            "Julia Louis-Dreyfus",
+            "Lena Waithe",
+            "Mel Rodriguez",
+            "Octavia Spencer",
+            "Tom Holland",
+            "Tracey Ullman",
+            "Wilmer Valderrama"
         ]
     },
     "Spenser Confidential (2020)": {
