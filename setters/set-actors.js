@@ -2050,14 +2050,10 @@ var actorMap = {
         "movies": [
             "Ocean's Eleven (2001)",
             "Troy (2004)",
+            "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
             "The Curious Case of Benjamin Button (2008)",
             "Deadpool 2 (2018)"
-        ]
-    },
-    "Brad Pitt as Robert \"Rusty\" Ryan": {
-        "movies": [
-            "Ocean's Twelve (2004)"
         ]
     },
     "Brad Renfro": {
@@ -3074,6 +3070,7 @@ var actorMap = {
         "movies": [
             "Take Me Home Tonight (2011)",
             "What's Your Number? (2011)",
+            "Zero Dark Thirty (2012)",
             "The Lego Movie (2014)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
@@ -5718,6 +5715,7 @@ var actorMap = {
     },
     "Frank Grillo": {
         "movies": [
+            "Zero Dark Thirty (2012)",
             "Captain America: The Winter Soldier (2014)",
             "Captain America: Civil War (2016)",
             "Avengers: Endgame (2019)"
@@ -5806,6 +5804,7 @@ var actorMap = {
     "Fredric Lehne": {
         "movies": [
             "Men in Black (1997)",
+            "Zero Dark Thirty (2012)",
             "The Greatest Showman (2017)"
         ]
     },
@@ -6503,7 +6502,8 @@ var actorMap = {
     },
     "Harold Perrineau": {
         "movies": [
-            "The Best Man (1999)"
+            "The Best Man (1999)",
+            "Zero Dark Thirty (2012)"
         ]
     },
     "Harold Ramis": {
@@ -7137,6 +7137,11 @@ var actorMap = {
             "The Bling Ring (2013)"
         ]
     },
+    "Issa Rae": {
+        "movies": [
+            "Little (2019)"
+        ]
+    },
     "Ivan Reitman": {
         "movies": [
             "Ghostbusters: Afterlife (2021)"
@@ -7183,6 +7188,11 @@ var actorMap = {
             "Venom: Let There Be Carnage (2021)",
             "Ghostbusters: Afterlife (2021)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "JD McCrary": {
+        "movies": [
+            "Little (2019)"
         ]
     },
     "Jack Black": {
@@ -7596,6 +7606,11 @@ var actorMap = {
             "This Is the End (2013)"
         ]
     },
+    "James Gandolfini": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
+        ]
+    },
     "James Gunn": {
         "movies": [
             "Guardians of the Galaxy (2014)"
@@ -7892,6 +7907,11 @@ var actorMap = {
             "Juno (2007)",
             "Tropic Thunder (2008)",
             "Zootopia (2016)"
+        ]
+    },
+    "Jason Clarke": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
         ]
     },
     "Jason Flemyng": {
@@ -8191,6 +8211,7 @@ var actorMap = {
     },
     "Jennifer Ehle": {
         "movies": [
+            "Zero Dark Thirty (2012)",
             "RoboCop (2014)"
         ]
     },
@@ -8429,6 +8450,7 @@ var actorMap = {
         ],
         "movies": [
             "The Help (2011)",
+            "Zero Dark Thirty (2012)",
             "Dark Phoenix (2019)"
         ]
     },
@@ -8810,7 +8832,8 @@ var actorMap = {
     "Joel Edgerton": {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
-            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
+            "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Zero Dark Thirty (2012)"
         ]
     },
     "Joel Kinnaman": {
@@ -9803,6 +9826,11 @@ var actorMap = {
             "North (1994)"
         ]
     },
+    "Justin Hartley": {
+        "movies": [
+            "Little (2019)"
+        ]
+    },
     "Justin Henry": {
         "suppNoms": [
             {
@@ -10620,6 +10648,11 @@ var actorMap = {
             "Bone Tomahawk (2015)",
             "The Hateful Eight (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)"
+        ]
+    },
+    "Kyle Chandler": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
         ]
     },
     "Kylie Jenner": {
@@ -11819,6 +11852,11 @@ var actorMap = {
             "30 Days of Night (2007)"
         ]
     },
+    "Mark Duplass": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
+        ]
+    },
     "Mark Hamill": {
         "movies": [
             "Star Wars (1977)",
@@ -11896,6 +11934,7 @@ var actorMap = {
             "Kick-Ass (2010)",
             "Green Lantern (2011)",
             "John Carter (2012)",
+            "Zero Dark Thirty (2012)",
             "The Imitation Game (2014)",
             "Kingsman: The Secret Service (2015)",
             "Kingsman: The Golden Circle (2017)",
@@ -11979,6 +12018,11 @@ var actorMap = {
         "movies": [
             "Superman (1978)",
             "Superman Returns (2006)"
+        ]
+    },
+    "Marsai Martin": {
+        "movies": [
+            "Little (2019)"
         ]
     },
     "Marta Milans": {
@@ -13082,6 +13126,7 @@ var actorMap = {
     "Mike Colter": {
         "movies": [
             "Men in Black 3 (2012)",
+            "Zero Dark Thirty (2012)",
             "Girls Trip (2017)"
         ]
     },
@@ -13104,6 +13149,11 @@ var actorMap = {
     "Mike Vogel": {
         "movies": [
             "The Help (2011)"
+        ]
+    },
+    "Mikey Day": {
+        "movies": [
+            "Little (2019)"
         ]
     },
     "Mikey Kelley": {
@@ -13697,7 +13747,7 @@ var actorMap = {
             "Conan the Barbarian (2011)"
         ]
     },
-    "Norbert Weisser as Mr. Binx, father of Thackery and Emily in 1693": {
+    "Norbert Weisser": {
         "movies": [
             "Hocus Pocus (1993)"
         ]
@@ -14598,6 +14648,11 @@ var actorMap = {
             "Wreck-It Ralph (2012)"
         ]
     },
+    "Rachel Dratch": {
+        "movies": [
+            "Little (2019)"
+        ]
+    },
     "Rachel Griffiths": {
         "suppNoms": [
             {
@@ -14847,7 +14902,8 @@ var actorMap = {
     "Regina Hall": {
         "movies": [
             "The Best Man (1999)",
-            "Girls Trip (2017)"
+            "Girls Trip (2017)",
+            "Little (2019)"
         ]
     },
     "Regina King": {
@@ -16164,6 +16220,7 @@ var actorMap = {
     },
     "Scott Adkins": {
         "movies": [
+            "Zero Dark Thirty (2012)",
             "Doctor Strange (2016)"
         ]
     },
@@ -16220,11 +16277,6 @@ var actorMap = {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)",
             "The League of Extraordinary Gentlemen (2003)"
-        ]
-    },
-    "Sean Giambrone as the eboy": {
-        "movies": [
-            "Ralph Breaks the Internet (2018)"
         ]
     },
     "Sean Gunn": {
@@ -16817,6 +16869,11 @@ var actorMap = {
             "The First Wives Club (1996)"
         ]
     },
+    "Stephen Dillane": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
+        ]
+    },
     "Stephen Dorff": {
         "movies": [
             "Blade (1998)"
@@ -17175,6 +17232,11 @@ var actorMap = {
         "movies": [
             "The Best Man (1999)",
             "Rent (2005)"
+        ]
+    },
+    "Taylor Kinney": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
         ]
     },
     "Taylor Kitsch": {
@@ -17790,6 +17852,11 @@ var actorMap = {
             "Zootopia (2016)"
         ]
     },
+    "Tone Bell": {
+        "movies": [
+            "Little (2019)"
+        ]
+    },
     "Toni Collette": {
         "suppNoms": [
             {
@@ -17882,7 +17949,8 @@ var actorMap = {
     },
     "Tracee Ellis Ross": {
         "movies": [
-            "Daddy's Little Girls (2007)"
+            "Daddy's Little Girls (2007)",
+            "Little (2019)"
         ]
     },
     "Tracey Ullman": {
@@ -18868,6 +18936,11 @@ var actorMap = {
     "will.i.am": {
         "movies": [
             "X-Men Origins: Wolverine (2009)"
+        ]
+    },
+    "\u00c9dgar Ram\u00edrez": {
+        "movies": [
+            "Zero Dark Thirty (2012)"
         ]
     }
 }

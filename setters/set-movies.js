@@ -36395,7 +36395,7 @@ var movieMap = {
             "Garry Marshall",
             "Jason Marsden",
             "Kathy Najimy",
-            "Norbert Weisser as Mr. Binx, father of Thackery and Emily in 1693",
+            "Norbert Weisser",
             "Omri Katz",
             "Penny Marshall",
             "Sarah Jessica Parker",
@@ -66214,7 +66214,7 @@ var movieMap = {
             "Albert Finney",
             "Andy Garc\u00eda",
             "Bernie Mac",
-            "Brad Pitt as Robert \"Rusty\" Ryan",
+            "Brad Pitt",
             "Bruce Willis",
             "Carl Reiner",
             "Casey Affleck",
@@ -91037,6 +91037,25 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Chris Pratt",
+            "\u00c9dgar Ram\u00edrez",
+            "Frank Grillo",
+            "Fredric Lehne",
+            "Harold Perrineau",
+            "James Gandolfini",
+            "Jason Clarke",
+            "Jennifer Ehle",
+            "Jessica Chastain",
+            "Joel Edgerton",
+            "Kyle Chandler",
+            "Mark Duplass",
+            "Mark Strong",
+            "Mike Colter",
+            "Scott Adkins",
+            "Stephen Dillane",
+            "Taylor Kinney"
         ]
     },
     "Jack Reacher (2012)": {
@@ -112062,7 +112081,6 @@ var movieMap = {
             "Paige O'Hara",
             "Rich Moore",
             "Sarah Silverman",
-            "Sean Giambrone as the eboy",
             "Taraji P. Henson",
             "Tim Allen",
             "Vin Diesel"
@@ -113568,6 +113586,17 @@ var movieMap = {
             "2010s",
             "Black Cinema",
             "Reginas"
+        ],
+        "cast": [
+            "Issa Rae",
+            "JD McCrary",
+            "Justin Hartley",
+            "Marsai Martin",
+            "Mikey Day",
+            "Rachel Dratch",
+            "Regina Hall",
+            "Tone Bell",
+            "Tracee Ellis Ross"
         ]
     },
     "Mary Magdalene (2019)": {
