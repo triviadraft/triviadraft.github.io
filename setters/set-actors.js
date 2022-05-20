@@ -17,6 +17,7 @@ var actorMap = {
     "Aasif Mandvi": {
         "movies": [
             "Spider-Man 2 (2004)",
+            "Movie 43 (2013)",
             "Mother's Day (2016)"
         ]
     },
@@ -502,6 +503,11 @@ var actorMap = {
             "Spider-Man: No Way Home (2021)"
         ]
     },
+    "Algee Smith": {
+        "movies": [
+            "The Hate U Give (2018)"
+        ]
+    },
     "Algenis P\u00e9rez Soto": {
         "movies": [
             "Captain Marvel (2019)"
@@ -614,6 +620,11 @@ var actorMap = {
                 "movie": "Mank",
                 "year": "2020"
             }
+        ]
+    },
+    "Amandla Stenberg": {
+        "movies": [
+            "The Hate U Give (2018)"
         ]
     },
     "Amber Heard": {
@@ -950,7 +961,8 @@ var actorMap = {
     "Anna Faris": {
         "movies": [
             "Take Me Home Tonight (2011)",
-            "What's Your Number? (2011)"
+            "What's Your Number? (2011)",
+            "Movie 43 (2013)"
         ]
     },
     "Anna Hutchison": {
@@ -1167,6 +1179,7 @@ var actorMap = {
             "Ant-Man (2015)",
             "Captain America: Civil War (2016)",
             "Avengers: Infinity War (2018)",
+            "The Hate U Give (2018)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -1719,6 +1732,11 @@ var actorMap = {
             "Split (2017)"
         ]
     },
+    "Betty White": {
+        "movies": [
+            "You Again (2010)"
+        ]
+    },
     "Beverly D'Angelo": {
         "movies": [
             "Annie Hall (1977)"
@@ -1842,6 +1860,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Monster's Ball (2001)",
             "Love Actually (2003)"
         ]
     },
@@ -1953,6 +1972,7 @@ var actorMap = {
     },
     "Bobby Cannavale": {
         "movies": [
+            "Movie 43 (2013)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)"
         ]
@@ -2740,6 +2760,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "About Last Night (1986)",
             "Incredibles 2 (2018)"
         ]
     },
@@ -2945,6 +2966,7 @@ var actorMap = {
     "Chlo\u00eb Grace Moretz": {
         "movies": [
             "Kick-Ass (2010)",
+            "Movie 43 (2013)",
             "Kick-Ass 2 (2013)"
         ]
     },
@@ -3071,6 +3093,7 @@ var actorMap = {
             "Take Me Home Tonight (2011)",
             "What's Your Number? (2011)",
             "Zero Dark Thirty (2012)",
+            "Movie 43 (2013)",
             "The Lego Movie (2014)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
@@ -3210,6 +3233,7 @@ var actorMap = {
     "Christopher Mintz-Plasse": {
         "movies": [
             "Kick-Ass (2010)",
+            "Movie 43 (2013)",
             "This Is the End (2013)",
             "Kick-Ass 2 (2013)",
             "Promising Young Woman (2020)"
@@ -3396,7 +3420,8 @@ var actorMap = {
     },
     "Cloris Leachman": {
         "movies": [
-            "Sky High (2005)"
+            "Sky High (2005)",
+            "You Again (2010)"
         ]
     },
     "Cl\u00e9mence Po\u00e9sy": {
@@ -3480,8 +3505,10 @@ var actorMap = {
         "movies": [
             "Wanted (2008)",
             "New Year's Eve (2011)",
+            "Movie 43 (2013)",
             "Suicide Squad (2016)",
             "Ocean's 8 (2018)",
+            "The Hate U Give (2018)",
             "The Kitchen (2019)"
         ]
     },
@@ -4199,6 +4226,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Demi Moore": {
+        "movies": [
+            "About Last Night (1986)"
+        ]
+    },
     "Demi\u00e1n Bichir": {
         "leadNoms": [
             {
@@ -4261,7 +4293,8 @@ var actorMap = {
     },
     "Dennis Quaid": {
         "movies": [
-            "Traffic (2000)"
+            "Traffic (2000)",
+            "Movie 43 (2013)"
         ]
     },
     "Denzel Washington": {
@@ -4568,6 +4601,7 @@ var actorMap = {
     },
     "Dominique Fishback": {
         "movies": [
+            "The Hate U Give (2018)",
             "Project Power (2020)"
         ]
     },
@@ -4727,6 +4761,7 @@ var actorMap = {
     },
     "Dwayne Johnson": {
         "movies": [
+            "You Again (2010)",
             "Hercules (2014)"
         ]
     },
@@ -5003,6 +5038,7 @@ var actorMap = {
             "Catch Me If You Can (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "Movie 43 (2013)",
             "The Lego Movie (2014)",
             "Power Rangers (2017)",
             "The Lego Movie 2: The Second Part (2019)"
@@ -5030,6 +5066,7 @@ var actorMap = {
     },
     "Elizabeth Perkins": {
         "movies": [
+            "About Last Night (1986)",
             "Big (1988)"
         ]
     },
@@ -5190,6 +5227,11 @@ var actorMap = {
             "The Breakfast Club (1985)"
         ]
     },
+    "Emily Alyn Lind": {
+        "movies": [
+            "Movie 43 (2013)"
+        ]
+    },
     "Emily Blunt": {
         "movies": [
             "Into the Woods (2014)",
@@ -5250,6 +5292,7 @@ var actorMap = {
             "Zombieland (2009)",
             "The Help (2011)",
             "The Amazing Spider-Man (2012)",
+            "Movie 43 (2013)",
             "The Amazing Spider-Man 2 (2014)",
             "La La Land (2016)",
             "Zombieland: Double Tap (2019)"
@@ -6194,6 +6237,7 @@ var actorMap = {
     "Gerard Butler": {
         "movies": [
             "300 (2007)",
+            "Movie 43 (2013)",
             "300: Rise of an Empire (2014)"
         ]
     },
@@ -6362,7 +6406,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Mystery Men (1999)"
+            "Mystery Men (1999)",
+            "Movie 43 (2013)"
         ]
     },
     "Griffin Dunne": {
@@ -6463,10 +6508,12 @@ var actorMap = {
         ],
         "movies": [
             "X-Men (2000)",
+            "Monster's Ball (2001)",
             "X2 (2003)",
             "Catwoman (2004)",
             "X-Men: The Last Stand (2006)",
             "New Year's Eve (2011)",
+            "Movie 43 (2013)",
             "X-Men: Days of Future Past (2014)",
             "Kingsman: The Golden Circle (2017)"
         ]
@@ -6623,6 +6670,7 @@ var actorMap = {
         ],
         "movies": [
             "A Knight's Tale (2001)",
+            "Monster's Ball (2001)",
             "The Dark Knight (2008)"
         ]
     },
@@ -6857,6 +6905,7 @@ var actorMap = {
             "The Prestige (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
+            "Movie 43 (2013)",
             "Prisoners (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
@@ -7139,6 +7188,7 @@ var actorMap = {
     },
     "Issa Rae": {
         "movies": [
+            "The Hate U Give (2018)",
             "Little (2019)"
         ]
     },
@@ -7149,6 +7199,7 @@ var actorMap = {
     },
     "J. B. Smoove": {
         "movies": [
+            "Movie 43 (2013)",
             "Spider-Man: Far From Home (2019)",
             "Spider-Man: No Way Home (2021)"
         ]
@@ -7264,6 +7315,7 @@ var actorMap = {
     "Jack McBrayer": {
         "movies": [
             "Wreck-It Ralph (2012)",
+            "Movie 43 (2013)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -7494,6 +7546,7 @@ var actorMap = {
     },
     "James Belushi": {
         "movies": [
+            "About Last Night (1986)",
             "New Year's Eve (2011)"
         ]
     },
@@ -7782,6 +7835,7 @@ var actorMap = {
     },
     "Jamie Lee Curtis": {
         "movies": [
+            "You Again (2010)",
             "Knives Out (2019)"
         ]
     },
@@ -7997,6 +8051,7 @@ var actorMap = {
     },
     "Jason Sudeikis": {
         "movies": [
+            "Movie 43 (2013)",
             "Mother's Day (2016)"
         ]
     },
@@ -8042,6 +8097,11 @@ var actorMap = {
     "Jay Chou": {
         "movies": [
             "The Green Hornet (2011)"
+        ]
+    },
+    "Jay Ellis": {
+        "movies": [
+            "Movie 43 (2013)"
         ]
     },
     "Jay Hernandez": {
@@ -8590,7 +8650,8 @@ var actorMap = {
     },
     "Jimmy Bennett": {
         "movies": [
-            "Star Trek (2009)"
+            "Star Trek (2009)",
+            "Movie 43 (2013)"
         ]
     },
     "Jimmy Fallon": {
@@ -9200,6 +9261,7 @@ var actorMap = {
     "Johnny Knoxville": {
         "movies": [
             "Men in Black II (2002)",
+            "Movie 43 (2013)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Polar (2019)"
         ]
@@ -9427,7 +9489,8 @@ var actorMap = {
     },
     "Josh Duhamel": {
         "movies": [
-            "New Year's Eve (2011)"
+            "New Year's Eve (2011)",
+            "Movie 43 (2013)"
         ]
     },
     "Josh Gad": {
@@ -9477,7 +9540,8 @@ var actorMap = {
     },
     "Joy Bryant": {
         "movies": [
-            "Spider-Man 2 (2004)"
+            "Spider-Man 2 (2004)",
+            "About Last Night (2014)"
         ]
     },
     "Judd Nelson": {
@@ -9842,7 +9906,8 @@ var actorMap = {
     "Justin Long": {
         "movies": [
             "Galaxy Quest (1999)",
-            "He's Just Not That into You (2009)"
+            "He's Just Not That into You (2009)",
+            "Movie 43 (2013)"
         ]
     },
     "Justin Theroux": {
@@ -9850,6 +9915,11 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Star Wars: The Last Jedi (2017)",
             "Joker (2019)"
+        ]
+    },
+    "KJ Apa": {
+        "movies": [
+            "The Hate U Give (2018)"
         ]
     },
     "Kal Penn": {
@@ -9912,7 +9982,8 @@ var actorMap = {
     "Kate Bosworth": {
         "movies": [
             "Remember the Titans (2000)",
-            "Superman Returns (2006)"
+            "Superman Returns (2006)",
+            "Movie 43 (2013)"
         ]
     },
     "Kate Dickie": {
@@ -9992,7 +10063,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Holiday (2006)"
+            "The Holiday (2006)",
+            "Movie 43 (2013)"
         ]
     },
     "Katharine Hepburn": {
@@ -10144,6 +10216,11 @@ var actorMap = {
         "movies": [
             "Batman Begins (2005)",
             "Ocean's 8 (2018)"
+        ]
+    },
+    "Katrina Bowden": {
+        "movies": [
+            "Movie 43 (2013)"
         ]
     },
     "Kaya Scodelario": {
@@ -10398,7 +10475,8 @@ var actorMap = {
     },
     "Kevin Hart": {
         "movies": [
-            "This Is the End (2013)"
+            "This Is the End (2013)",
+            "About Last Night (2014)"
         ]
     },
     "Kevin Heffernan": {
@@ -10484,7 +10562,8 @@ var actorMap = {
     },
     "Kieran Culkin": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Movie 43 (2013)"
         ]
     },
     "Kiersey Clemons": {
@@ -10586,6 +10665,8 @@ var actorMap = {
     },
     "Kristen Bell": {
         "movies": [
+            "You Again (2010)",
+            "Movie 43 (2013)",
             "Zootopia (2016)",
             "Teen Titans Go! To the Movies (2018)",
             "Ralph Breaks the Internet (2018)"
@@ -10619,6 +10700,7 @@ var actorMap = {
         "movies": [
             "Stranger than Fiction (2006)",
             "Four Christmases (2008)",
+            "You Again (2010)",
             "Strange Magic (2015)"
         ]
     },
@@ -11032,7 +11114,8 @@ var actorMap = {
     "Leslie Bibb": {
         "movies": [
             "Iron Man (2008)",
-            "Iron Man 2 (2010)"
+            "Iron Man 2 (2010)",
+            "Movie 43 (2013)"
         ]
     },
     "Leslie Jones": {
@@ -11122,6 +11205,7 @@ var actorMap = {
         "movies": [
             "Kate & Leopold (2001)",
             "X-Men Origins: Wolverine (2009)",
+            "Movie 43 (2013)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Don't Look Up (2021)"
         ]
@@ -12263,6 +12347,7 @@ var actorMap = {
     "Matt Walsh": {
         "movies": [
             "Ted (2012)",
+            "Movie 43 (2013)",
             "Widows (2018)"
         ]
     },
@@ -12399,6 +12484,11 @@ var actorMap = {
             "Jonah Hex (2010)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+        ]
+    },
+    "Megan Mullally": {
+        "movies": [
+            "About Last Night (1986)"
         ]
     },
     "Mekhi Phifer": {
@@ -12775,6 +12865,11 @@ var actorMap = {
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Michael Ealy": {
+        "movies": [
+            "About Last Night (2014)"
         ]
     },
     "Michael Emerson": {
@@ -13333,6 +13428,7 @@ var actorMap = {
     },
     "Mos Def": {
         "movies": [
+            "Monster's Ball (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)"
         ]
     },
@@ -13390,7 +13486,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Impossible (2012)"
+            "The Impossible (2012)",
+            "Movie 43 (2013)"
         ]
     },
     "Naomie Harris": {
@@ -13803,6 +13900,11 @@ var actorMap = {
             "Onward (2020)"
         ]
     },
+    "Odette Yustman": {
+        "movies": [
+            "You Again (2010)"
+        ]
+    },
     "Olga Kurylenko": {
         "movies": [
             "Oblivion (2013)",
@@ -14089,7 +14191,8 @@ var actorMap = {
         "movies": [
             "Men in Black II (2002)",
             "Sky High (2005)",
-            "Ted (2012)"
+            "Ted (2012)",
+            "Movie 43 (2013)"
         ]
     },
     "Patrick Wilson": {
@@ -14274,7 +14377,8 @@ var actorMap = {
     },
     "Paula Patton": {
         "movies": [
-            "2 Guns (2013)"
+            "2 Guns (2013)",
+            "About Last Night (2014)"
         ]
     },
     "Pauline Collins": {
@@ -14369,6 +14473,11 @@ var actorMap = {
             "Iron Man (2008)",
             "Four Christmases (2008)",
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "Peter Boyle": {
+        "movies": [
+            "Monster's Ball (2001)"
         ]
     },
     "Peter Capaldi": {
@@ -14902,7 +15011,9 @@ var actorMap = {
     "Regina Hall": {
         "movies": [
             "The Best Man (1999)",
+            "About Last Night (2014)",
             "Girls Trip (2017)",
+            "The Hate U Give (2018)",
             "Little (2019)"
         ]
     },
@@ -14920,7 +15031,8 @@ var actorMap = {
     },
     "Reginald VelJohnson": {
         "movies": [
-            "Die Hard (1988)"
+            "Die Hard (1988)",
+            "You Again (2010)"
         ]
     },
     "Reid Scott": {
@@ -15087,6 +15199,11 @@ var actorMap = {
             }
         ]
     },
+    "Richard Gere": {
+        "movies": [
+            "Movie 43 (2013)"
+        ]
+    },
     "Richard Griffiths": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -15215,6 +15332,11 @@ var actorMap = {
     "Rob Delaney": {
         "movies": [
             "Deadpool 2 (2018)"
+        ]
+    },
+    "Rob Lowe": {
+        "movies": [
+            "About Last Night (1986)"
         ]
     },
     "Rob Morgan": {
@@ -15749,7 +15871,8 @@ var actorMap = {
     },
     "Russell Hornsby": {
         "movies": [
-            "Fences (2016)"
+            "Fences (2016)",
+            "The Hate U Give (2018)"
         ]
     },
     "Russell Peters": {
@@ -15825,6 +15948,11 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "New Year's Eve (2011)"
+        ]
+    },
+    "Sabrina Carpenter": {
+        "movies": [
+            "The Hate U Give (2018)"
         ]
     },
     "Sacha Baron Cohen": {
@@ -16267,6 +16395,11 @@ var actorMap = {
             "Troy (2004)"
         ]
     },
+    "Sean Combs": {
+        "movies": [
+            "Monster's Ball (2001)"
+        ]
+    },
     "Sean Connery": {
         "suppNoms": [
             {
@@ -16333,7 +16466,8 @@ var actorMap = {
     },
     "Seann William Scott": {
         "movies": [
-            "Bulletproof Monk (2003)"
+            "Bulletproof Monk (2003)",
+            "Movie 43 (2013)"
         ]
     },
     "Sebastian Stan": {
@@ -16385,7 +16519,8 @@ var actorMap = {
     "Seth MacFarlane": {
         "movies": [
             "Hellboy II: The Golden Army (2008)",
-            "Ted (2012)"
+            "Ted (2012)",
+            "Movie 43 (2013)"
         ]
     },
     "Seth Meyers": {
@@ -16607,6 +16742,7 @@ var actorMap = {
             "Galaxy Quest (1999)",
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
+            "You Again (2010)",
             "The Cabin in the Woods (2012)",
             "A Monster Calls (2016)",
             "Ghostbusters: Afterlife (2021)"
@@ -16919,6 +17055,7 @@ var actorMap = {
     },
     "Stephen Merchant": {
         "movies": [
+            "Movie 43 (2013)",
             "Logan (2017)",
             "Jojo Rabbit (2019)"
         ]
@@ -17302,6 +17439,7 @@ var actorMap = {
             "Ray (2004)",
             "Crash (2005)",
             "Iron Man (2008)",
+            "Movie 43 (2013)",
             "Prisoners (2013)"
         ]
     },
@@ -18081,7 +18219,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Batman & Robin (1997)"
+            "Batman & Robin (1997)",
+            "Movie 43 (2013)"
         ]
     },
     "Usher": {
@@ -18196,6 +18335,7 @@ var actorMap = {
     "Victor Garber": {
         "movies": [
             "The First Wives Club (1996)",
+            "You Again (2010)",
             "Kung Fu Panda 2 (2011)"
         ]
     },
@@ -18526,6 +18666,11 @@ var actorMap = {
     "Will Poulter": {
         "movies": [
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "Will Sasso": {
+        "movies": [
+            "Movie 43 (2013)"
         ]
     },
     "Will Smith": {

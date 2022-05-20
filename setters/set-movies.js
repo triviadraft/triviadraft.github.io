@@ -24000,6 +24000,14 @@ var movieMap = {
         "categories": [
             "1980s",
             "Brat Pack"
+        ],
+        "cast": [
+            "Catherine Keener",
+            "Demi Moore",
+            "Elizabeth Perkins",
+            "James Belushi",
+            "Megan Mullally",
+            "Rob Lowe"
         ]
     },
     "Big Trouble in Little China (1986)": {
@@ -57668,6 +57676,14 @@ var movieMap = {
             "2000s",
             "Halle Berry",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Billy Bob Thornton",
+            "Halle Berry",
+            "Heath Ledger",
+            "Mos Def",
+            "Peter Boyle",
+            "Sean Combs"
         ]
     },
     "Black Hawk Down (2001)": {
@@ -84111,6 +84127,18 @@ var movieMap = {
             "Dwayne Johnson",
             "Jamie Lee Curtis",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Betty White",
+            "Cloris Leachman",
+            "Dwayne Johnson",
+            "Jamie Lee Curtis",
+            "Kristen Bell",
+            "Kristin Chenoweth",
+            "Odette Yustman",
+            "Reginald VelJohnson",
+            "Sigourney Weaver",
+            "Victor Garber"
         ]
     },
     "Fair Game (2010)": {
@@ -91350,6 +91378,48 @@ var movieMap = {
             "2010s",
             "Emmas",
             "Halle Berry"
+        ],
+        "cast": [
+            "Aasif Mandvi",
+            "Anna Faris",
+            "Bobby Cannavale",
+            "Chlo\u00eb Grace Moretz",
+            "Chris Pratt",
+            "Christopher Mintz-Plasse",
+            "Common",
+            "Dennis Quaid",
+            "Elizabeth Banks",
+            "Emily Alyn Lind",
+            "Emma Stone",
+            "Gerard Butler",
+            "Greg Kinnear",
+            "Halle Berry",
+            "Hugh Jackman",
+            "J. B. Smoove",
+            "Jack McBrayer",
+            "Jason Sudeikis",
+            "Jay Ellis",
+            "Jimmy Bennett",
+            "Johnny Knoxville",
+            "Josh Duhamel",
+            "Justin Long",
+            "Kate Bosworth",
+            "Kate Winslet",
+            "Katrina Bowden",
+            "Kieran Culkin",
+            "Kristen Bell",
+            "Leslie Bibb",
+            "Liev Schreiber",
+            "Matt Walsh",
+            "Naomi Watts",
+            "Patrick Warburton",
+            "Richard Gere",
+            "Seann William Scott",
+            "Seth MacFarlane",
+            "Stephen Merchant",
+            "Terrence Howard",
+            "Uma Thurman",
+            "Will Sasso"
         ]
     },
     "Parker (2013)": {
@@ -94506,6 +94576,13 @@ var movieMap = {
             "Comedies",
             "Kevin Hart",
             "Reginas"
+        ],
+        "cast": [
+            "Joy Bryant",
+            "Kevin Hart",
+            "Michael Ealy",
+            "Paula Patton",
+            "Regina Hall"
         ]
     },
     "Endless Love (2014)": {
@@ -111286,6 +111363,18 @@ var movieMap = {
             "Black Cinema",
             "Dramas",
             "Reginas"
+        ],
+        "cast": [
+            "Algee Smith",
+            "Amandla Stenberg",
+            "Anthony Mackie",
+            "Common",
+            "Dominique Fishback",
+            "Issa Rae",
+            "KJ Apa",
+            "Regina Hall",
+            "Russell Hornsby",
+            "Sabrina Carpenter"
         ]
     },
     "Venom (2018)": {
