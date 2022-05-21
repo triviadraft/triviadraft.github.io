@@ -606,6 +606,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Six Days, Seven Nights (1998)",
             "Juno (2007)",
             "The Help (2011)"
         ]
@@ -728,6 +729,7 @@ var actorMap = {
     },
     "Amy Sedaris": {
         "movies": [
+            "Six Days, Seven Nights (1998)",
             "Chef (2014)"
         ]
     },
@@ -1078,7 +1080,8 @@ var actorMap = {
     },
     "Anne Heche": {
         "movies": [
-            "I Know What You Did Last Summer (1997)"
+            "I Know What You Did Last Summer (1997)",
+            "Six Days, Seven Nights (1998)"
         ]
     },
     "Anne Ramsey": {
@@ -1544,6 +1547,11 @@ var actorMap = {
         "movies": [
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "Ben Chaplin": {
+        "movies": [
+            "Cinderella (2015)"
         ]
     },
     "Ben Foster": {
@@ -2799,6 +2807,7 @@ var actorMap = {
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
+            "Cinderella (2015)",
             "Thor: Ragnarok (2017)",
             "Ocean's 8 (2018)",
             "Don't Look Up (2021)",
@@ -3459,6 +3468,7 @@ var actorMap = {
     },
     "Cliff Curtis": {
         "movies": [
+            "Six Days, Seven Nights (1998)",
             "Blow (2001)"
         ]
     },
@@ -3761,6 +3771,7 @@ var actorMap = {
     "Daisy Ridley": {
         "movies": [
             "Star Wars: The Force Awakens (2015)",
+            "Murder on the Orient Express (2017)",
             "Star Wars: The Last Jedi (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -4018,6 +4029,11 @@ var actorMap = {
             "Star Trek Beyond (2016)"
         ]
     },
+    "Danny Trejo": {
+        "movies": [
+            "Six Days, Seven Nights (1998)"
+        ]
+    },
     "Daphne Zuniga": {
         "movies": [
             "Spaceballs (1987)"
@@ -4216,6 +4232,7 @@ var actorMap = {
     },
     "David Schwimmer": {
         "movies": [
+            "Six Days, Seven Nights (1998)",
             "John Carter (2012)"
         ]
     },
@@ -4480,7 +4497,9 @@ var actorMap = {
     },
     "Derek Jacobi": {
         "movies": [
-            "My Week with Marilyn (2011)"
+            "My Week with Marilyn (2011)",
+            "Cinderella (2015)",
+            "Murder on the Orient Express (2017)"
         ]
     },
     "Derek Luke": {
@@ -6779,6 +6798,7 @@ var actorMap = {
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
             "The Fugitive (1993)",
+            "Six Days, Seven Nights (1998)",
             "Firewall (2006)",
             "Cowboys & Aliens (2011)",
             "Star Wars: The Force Awakens (2015)",
@@ -6852,6 +6872,7 @@ var actorMap = {
         "movies": [
             "Captain America: The First Avenger (2011)",
             "Captain America: The Winter Soldier (2014)",
+            "Cinderella (2015)",
             "Avengers: Age of Ultron (2015)",
             "Ant-Man (2015)",
             "Avengers: Endgame (2019)"
@@ -6980,6 +7001,7 @@ var actorMap = {
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Cinderella (2015)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -7047,6 +7069,11 @@ var actorMap = {
         "movies": [
             "Mr. Holmes (2015)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Holliday Grainger": {
+        "movies": [
+            "Cinderella (2015)"
         ]
     },
     "Holly Hunter": {
@@ -7679,6 +7706,11 @@ var actorMap = {
             "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Jacqueline Obradors": {
+        "movies": [
+            "Six Days, Seven Nights (1998)"
         ]
     },
     "Jada Pinkett Smith": {
@@ -9501,6 +9533,7 @@ var actorMap = {
             "Into the Woods (2014)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
+            "Murder on the Orient Express (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
@@ -9762,6 +9795,7 @@ var actorMap = {
     "Josh Gad": {
         "movies": [
             "Beauty and the Beast (2017)",
+            "Murder on the Orient Express (2017)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -9881,7 +9915,8 @@ var actorMap = {
         "movies": [
             "Shakespeare in Love (1998)",
             "Nine (2009)",
-            "My Week with Marilyn (2011)"
+            "My Week with Marilyn (2011)",
+            "Murder on the Orient Express (2017)"
         ]
     },
     "Judith Anderson": {
@@ -10680,6 +10715,7 @@ var actorMap = {
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
             "My Week with Marilyn (2011)",
+            "Murder on the Orient Express (2017)",
             "Avengers: Infinity War (2018)"
         ]
     },
@@ -11436,6 +11472,11 @@ var actorMap = {
             "The Bling Ring (2013)"
         ]
     },
+    "Leslie Odom Jr.": {
+        "movies": [
+            "Murder on the Orient Express (2017)"
+        ]
+    },
     "Leslie Uggams": {
         "movies": [
             "Deadpool (2016)",
@@ -11530,6 +11571,11 @@ var actorMap = {
     "Lily Collins": {
         "movies": [
             "Priest (2011)"
+        ]
+    },
+    "Lily James": {
+        "movies": [
+            "Cinderella (2015)"
         ]
     },
     "Lily Tomlin": {
@@ -11716,6 +11762,11 @@ var actorMap = {
             "X-Men: First Class (2011)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)"
+        ]
+    },
+    "Lucy Boynton": {
+        "movies": [
+            "Murder on the Orient Express (2017)"
         ]
     },
     "Lucy Lawless": {
@@ -12039,6 +12090,7 @@ var actorMap = {
     },
     "Manuel Garcia-Rulfo": {
         "movies": [
+            "Murder on the Orient Express (2017)",
             "Widows (2018)"
         ]
     },
@@ -12531,6 +12583,7 @@ var actorMap = {
     },
     "Marwan Kenzari": {
         "movies": [
+            "Murder on the Orient Express (2017)",
             "The Old Guard (2020)"
         ]
     },
@@ -13474,6 +13527,7 @@ var actorMap = {
             "Batman Returns (1992)",
             "The Prince of Egypt (1998)",
             "New Year's Eve (2011)",
+            "Murder on the Orient Express (2017)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -14204,7 +14258,8 @@ var actorMap = {
     "Nonso Anozie": {
         "movies": [
             "Atonement (2007)",
-            "Conan the Barbarian (2011)"
+            "Conan the Barbarian (2011)",
+            "Cinderella (2015)"
         ]
     },
     "Norbert Weisser": {
@@ -14321,7 +14376,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Locke (2014)"
+            "Locke (2014)",
+            "Murder on the Orient Express (2017)"
         ]
     },
     "Olivia Cooke": {
@@ -14818,7 +14874,8 @@ var actorMap = {
             "Nine (2009)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "The Counselor (2013)",
-            "The Brothers Grimsby (2016)"
+            "The Brothers Grimsby (2016)",
+            "Murder on the Orient Express (2017)"
         ]
     },
     "Persis Khambatta": {
@@ -15656,6 +15713,7 @@ var actorMap = {
     },
     "Richard Madden": {
         "movies": [
+            "Cinderella (2015)",
             "1917 (2019)",
             "Eternals (2021)"
         ]
@@ -17310,6 +17368,11 @@ var actorMap = {
             "From Hell (2001)"
         ]
     },
+    "Sophie McShera": {
+        "movies": [
+            "Cinderella (2015)"
+        ]
+    },
     "Sophie Okonedo": {
         "suppNoms": [
             {
@@ -17420,6 +17483,7 @@ var actorMap = {
             "Thor (2011)",
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
+            "Cinderella (2015)",
             "Avengers: Age of Ultron (2015)"
         ]
     },
@@ -17878,6 +17942,7 @@ var actorMap = {
     "Temuera Morrison": {
         "movies": [
             "Barb Wire (1996)",
+            "Six Days, Seven Nights (1998)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Green Lantern (2011)",
@@ -18235,6 +18300,11 @@ var actorMap = {
     "Toby Leonard Moore": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Tom Bateman": {
+        "movies": [
+            "Murder on the Orient Express (2017)"
         ]
     },
     "Tom Cruise": {
@@ -19253,6 +19323,11 @@ var actorMap = {
     "William Atherton": {
         "movies": [
             "Die Hard (1988)"
+        ]
+    },
+    "William Dafoe": {
+        "movies": [
+            "Murder on the Orient Express (2017)"
         ]
     },
     "William Fichtner": {

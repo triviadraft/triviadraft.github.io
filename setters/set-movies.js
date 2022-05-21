@@ -48535,6 +48535,17 @@ var movieMap = {
             "Comedies",
             "Harrison Ford",
             "Ramis & Reitmans"
+        ],
+        "cast": [
+            "Allison Janney",
+            "Amy Sedaris",
+            "Anne Heche",
+            "Cliff Curtis",
+            "Danny Trejo",
+            "David Schwimmer",
+            "Harrison Ford",
+            "Jacqueline Obradors",
+            "Temuera Morrison"
         ]
     },
     "Mulan (1998)": {
@@ -98414,6 +98425,19 @@ var movieMap = {
             "Disney",
             "Family",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Ben Chaplin",
+            "Cate Blanchett",
+            "Derek Jacobi",
+            "Hayley Atwell",
+            "Helena Bonham Carter",
+            "Holliday Grainger",
+            "Lily James",
+            "Nonso Anozie",
+            "Richard Madden",
+            "Sophie McShera",
+            "Stellan Skarsg\u00e5rd"
         ]
     },
     "It Follows (2015)": {
@@ -108011,6 +108035,23 @@ var movieMap = {
             "2010s",
             "Michelle Pfeiffer",
             "Mystery"
+        ],
+        "cast": [
+            "Daisy Ridley",
+            "Derek Jacobi",
+            "Johnny Depp",
+            "Josh Gad",
+            "Judi Dench",
+            "Kenneth Branagh",
+            "Leslie Odom Jr.",
+            "Lucy Boynton",
+            "Manuel Garcia-Rulfo",
+            "Marwan Kenzari",
+            "Michelle Pfeiffer",
+            "Olivia Colman",
+            "Pen\u00e9lope Cruz",
+            "Tom Bateman",
+            "William Dafoe"
         ]
     },
     "Three Billboards Outside Ebbing, Missouri (2017)": {
