@@ -145,6 +145,11 @@ var actorMap = {
             "Knocked Up (2007)"
         ]
     },
+    "Adam Shankman": {
+        "movies": [
+            "Hairspray (2007)"
+        ]
+    },
     "Adam West": {
         "movies": [
             "Batman (1966)"
@@ -615,6 +620,7 @@ var actorMap = {
         ],
         "movies": [
             "Six Days, Seven Nights (1998)",
+            "Hairspray (2007)",
             "Juno (2007)",
             "The Help (2011)"
         ]
@@ -633,7 +639,8 @@ var actorMap = {
     },
     "Amanda Bynes": {
         "movies": [
-            "Robots (2005)"
+            "Robots (2005)",
+            "Hairspray (2007)"
         ]
     },
     "Amanda Peet": {
@@ -1062,6 +1069,7 @@ var actorMap = {
     },
     "Annabella Sciorra": {
         "movies": [
+            "Jungle Fever (1991)",
             "The Kitchen (2019)"
         ]
     },
@@ -1260,6 +1268,7 @@ var actorMap = {
     },
     "Anthony Quinn": {
         "movies": [
+            "Jungle Fever (1991)",
             "Last Action Hero (1993)"
         ]
     },
@@ -2141,6 +2150,7 @@ var actorMap = {
         ],
         "movies": [
             "Mississippi Burning (1988)",
+            "Jungle Fever (1991)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Priest (2011)"
         ]
@@ -2434,6 +2444,11 @@ var actorMap = {
             "Sin City (2005)"
         ]
     },
+    "Brittany Snow": {
+        "movies": [
+            "Hairspray (2007)"
+        ]
+    },
     "Brooklynn Prince": {
         "movies": [
             "The Florida Project (2017)",
@@ -2646,6 +2661,11 @@ var actorMap = {
     "Cam Gigandet": {
         "movies": [
             "Priest (2011)"
+        ]
+    },
+    "Cameos": {
+        "movies": [
+            "Hairspray (2007)"
         ]
     },
     "Cameron Bright": {
@@ -2894,6 +2914,7 @@ var actorMap = {
         "movies": [
             "The Mask of Zorro (1998)",
             "Traffic (2000)",
+            "Chicago (2002)",
             "The Terminal (2004)",
             "Ocean's Twelve (2004)",
             "The Legend of Zorro (2005)",
@@ -3308,6 +3329,7 @@ var actorMap = {
     "Christine Baranski": {
         "movies": [
             "Cruel Intentions (1999)",
+            "Chicago (2002)",
             "Into the Woods (2014)"
         ]
     },
@@ -3443,6 +3465,7 @@ var actorMap = {
             "The Deer Hunter (1978)",
             "Batman Returns (1992)",
             "Catch Me If You Can (2002)",
+            "Hairspray (2007)",
             "The Jungle Book (2016)"
         ]
     },
@@ -3650,6 +3673,7 @@ var actorMap = {
     },
     "Colm Feore": {
         "movies": [
+            "Chicago (2002)",
             "Thor (2011)",
             "The Amazing Spider-Man 2 (2014)"
         ]
@@ -4809,6 +4833,7 @@ var actorMap = {
     "Dominic West": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Chicago (2002)",
             "300 (2007)",
             "Punisher: War Zone (2008)",
             "John Carter (2012)"
@@ -5234,6 +5259,7 @@ var actorMap = {
     },
     "Elijah Kelley": {
         "movies": [
+            "Hairspray (2007)",
             "Strange Magic (2015)"
         ]
     },
@@ -6074,6 +6100,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Frank Vincent": {
+        "movies": [
+            "Jungle Fever (1991)"
+        ]
+    },
     "Frank Welker": {
         "movies": [
             "Star Trek III: The Search for Spock (1984)",
@@ -6816,6 +6847,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Jungle Fever (1991)",
             "X-Men (2000)",
             "Monster's Ball (2001)",
             "X2 (2003)",
@@ -8075,6 +8107,7 @@ var actorMap = {
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "Superman Returns (2006)",
+            "Hairspray (2007)",
             "2 Guns (2013)",
             "X-Men: Days of Future Past (2014)"
         ]
@@ -8868,6 +8901,11 @@ var actorMap = {
             "Think Like a Man Too (2014)"
         ]
     },
+    "Jerry Stiller": {
+        "movies": [
+            "Hairspray (2007)"
+        ]
+    },
     "Jesse Eisenberg": {
         "leadNoms": [
             {
@@ -9397,6 +9435,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Chicago (2002)",
             "We Need to Talk About Kevin (2011)",
             "Wreck-It Ralph (2012)",
             "Guardians of the Galaxy (2014)",
@@ -9650,7 +9689,13 @@ var actorMap = {
         ],
         "movies": [
             "Carrie (1976)",
-            "The Punisher (2004)"
+            "The Punisher (2004)",
+            "Hairspray (2007)"
+        ]
+    },
+    "John Turturro": {
+        "movies": [
+            "Jungle Fever (1991)"
         ]
     },
     "John Vernon": {
@@ -11882,6 +11927,11 @@ var actorMap = {
             "The Bling Ring (2013)"
         ]
     },
+    "Lonette McKee": {
+        "movies": [
+            "Jungle Fever (1991)"
+        ]
+    },
     "Loretta Devine": {
         "movies": [
             "Crash (2005)"
@@ -11961,6 +12011,7 @@ var actorMap = {
     },
     "Lucy Liu": {
         "movies": [
+            "Chicago (2002)",
             "Kung Fu Panda (2008)",
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)"
@@ -12292,7 +12343,8 @@ var actorMap = {
     },
     "Marc Shaiman": {
         "movies": [
-            "North (1994)"
+            "North (1994)",
+            "Hairspray (2007)"
         ]
     },
     "Marcello Mastroianni": {
@@ -13526,7 +13578,8 @@ var actorMap = {
     },
     "Michael Imperioli": {
         "movies": [
-            "Lean on Me (1989)"
+            "Lean on Me (1989)",
+            "Jungle Fever (1991)"
         ]
     },
     "Michael Ironside": {
@@ -13727,6 +13780,7 @@ var actorMap = {
         "movies": [
             "Batman Returns (1992)",
             "The Prince of Egypt (1998)",
+            "Hairspray (2007)",
             "New Year's Eve (2011)",
             "Dark Shadows (2012)",
             "Murder on the Orient Express (2017)",
@@ -14411,6 +14465,11 @@ var actorMap = {
             "Troy (2004)"
         ]
     },
+    "Nikki Blonsky": {
+        "movies": [
+            "Hairspray (2007)"
+        ]
+    },
     "Nikolaj Coster-Waldau": {
         "movies": [
             "Black Hawk Down (2001)",
@@ -14694,6 +14753,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Ossie Davis": {
+        "movies": [
+            "Jungle Fever (1991)"
+        ]
+    },
     "Owen Vaccaro": {
         "movies": [
             "Mother's Day (2016)"
@@ -14868,6 +14932,11 @@ var actorMap = {
             "Knight and Day (2010)",
             "Cowboys & Aliens (2011)",
             "Prisoners (2013)"
+        ]
+    },
+    "Paul Dooley": {
+        "movies": [
+            "Hairspray (2007)"
         ]
     },
     "Paul Giamatti": {
@@ -15393,7 +15462,10 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Jungle Fever (1991)",
+            "Chicago (2002)",
             "Stranger than Fiction (2006)",
+            "Hairspray (2007)",
             "Valentine's Day (2010)",
             "Girls Trip (2017)"
         ]
@@ -15756,7 +15828,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Dazed and Confused (1993)"
+            "Dazed and Confused (1993)",
+            "Chicago (2002)"
         ]
     },
     "Rex Harrison": {
@@ -15888,6 +15961,7 @@ var actorMap = {
     },
     "Richard Gere": {
         "movies": [
+            "Chicago (2002)",
             "Movie 43 (2013)"
         ]
     },
@@ -15965,6 +16039,11 @@ var actorMap = {
     "Rick Moranis": {
         "movies": [
             "Spaceballs (1987)"
+        ]
+    },
+    "Ricki Lake": {
+        "movies": [
+            "Hairspray (2007)"
         ]
     },
     "Rihanna": {
@@ -16503,6 +16582,9 @@ var actorMap = {
                 "movie": "American Gangster",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "Jungle Fever (1991)"
         ]
     },
     "Ruby O. Fee": {
@@ -16888,6 +16970,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Jungle Fever (1991)",
             "Jurassic Park (1993)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Unbreakable (2000)",
@@ -17688,6 +17771,11 @@ var actorMap = {
             "Glass (2019)"
         ]
     },
+    "Spike Lee": {
+        "movies": [
+            "Jungle Fever (1991)"
+        ]
+    },
     "Stacy Keach": {
         "movies": [
             "Batman: Mask of the Phantasm (1993)",
@@ -18158,6 +18246,7 @@ var actorMap = {
     "Taye Diggs": {
         "movies": [
             "The Best Man (1999)",
+            "Chicago (2002)",
             "Malibu's Most Wanted (2003)",
             "Rent (2005)",
             "The Best Man Holiday (2013)"
@@ -18283,6 +18372,7 @@ var actorMap = {
     },
     "Theresa Randle": {
         "movies": [
+            "Jungle Fever (1991)",
             "Space Jam (1996)"
         ]
     },
@@ -18442,6 +18532,7 @@ var actorMap = {
         ],
         "movies": [
             "Howard the Duck (1986)",
+            "Jungle Fever (1991)",
             "Green Lantern (2011)"
         ]
     },
@@ -19019,6 +19110,12 @@ var actorMap = {
             "Tropic Thunder (2008)"
         ]
     },
+    "Tyra Ferrell": {
+        "movies": [
+            "Jungle Fever (1991)",
+            "Boyz n the Hood (1991)"
+        ]
+    },
     "T\u00e9a Leoni": {
         "movies": [
             "A League of Their Own (1992)"
@@ -19434,6 +19531,7 @@ var actorMap = {
     },
     "Wesley Snipes": {
         "movies": [
+            "Jungle Fever (1991)",
             "Blade (1998)",
             "Blade II (2002)",
             "Blade: Trinity (2004)"
@@ -19826,6 +19924,7 @@ var actorMap = {
     },
     "Zac Efron": {
         "movies": [
+            "Hairspray (2007)",
             "New Year's Eve (2011)",
             "The Greatest Showman (2017)"
         ]

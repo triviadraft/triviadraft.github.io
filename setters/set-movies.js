@@ -32303,6 +32303,25 @@ var movieMap = {
             "Queen Latifah",
             "Samuel L. Jackson",
             "Spike Lee"
+        ],
+        "cast": [
+            "Annabella Sciorra",
+            "Anthony Quinn",
+            "Brad Dourif",
+            "Frank Vincent",
+            "Halle Berry",
+            "John Turturro",
+            "Lonette McKee",
+            "Michael Imperioli",
+            "Ossie Davis",
+            "Queen Latifah",
+            "Ruby Dee",
+            "Samuel L. Jackson",
+            "Spike Lee",
+            "Theresa Randle",
+            "Tim Robbins",
+            "Tyra Ferrell",
+            "Wesley Snipes"
         ]
     },
     "Robin Hood: Prince of Thieves (1991)": {
@@ -32497,7 +32516,8 @@ var movieMap = {
             "Laurence Fishburne",
             "Morris Chestnut",
             "Nia Long",
-            "Regina King"
+            "Regina King",
+            "Tyra Ferrell"
         ]
     },
     "Point Break (1991)": {
@@ -60659,6 +60679,18 @@ var movieMap = {
             "2000s",
             "Musicals",
             "Queen Latifah"
+        ],
+        "cast": [
+            "Catherine Zeta-Jones",
+            "Christine Baranski",
+            "Colm Feore",
+            "Dominic West",
+            "John C. Reilly",
+            "Lucy Liu",
+            "Queen Latifah",
+            "Ren\u00e9e Zellweger",
+            "Richard Gere",
+            "Taye Diggs"
         ]
     },
     "Sonny (2002)": {
@@ -74500,6 +74532,25 @@ var movieMap = {
             "Musicals",
             "Queen Latifah",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Adam Shankman",
+            "Allison Janney",
+            "Amanda Bynes",
+            "Brittany Snow",
+            "Cameos",
+            "Christopher Walken",
+            "Elijah Kelley",
+            "James Marsden",
+            "Jerry Stiller",
+            "John Travolta",
+            "Marc Shaiman",
+            "Michelle Pfeiffer",
+            "Nikki Blonsky",
+            "Paul Dooley",
+            "Queen Latifah",
+            "Ricki Lake",
+            "Zac Efron"
         ]
     },
     "I Now Pronounce You Chuck & Larry (2007)": {
