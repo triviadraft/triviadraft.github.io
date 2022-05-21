@@ -218,6 +218,16 @@ def generate_jsons():
 
     set_json_variable('setters/set-actors.js', json.dumps(dict(sorted(actor_dict.items())), indent=4), 'actorMap')
 
+    release_date_dict = {}
+    # release date data
+    for movie in movie_dict:
+        year = movie_dict[movie]['year']
+        if movie_dict[movie][year] not in release_date_dict:
+            release_date_dict[year] = []
+        release_date_dict[year].append(movie_dict[movie]['title'])
+
+    set_json_variable('setters/set-release-dates.js', json.dumps(dict(sorted(release_date_dict.items())), indent=4), 'releaseDateMap')
+
 
     ################################################################################################
     ##### IG Data ##################################################################################
