@@ -302,6 +302,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Wait Until Dark (1967)",
             "North (1994)",
             "Firewall (2006)"
         ]
@@ -1038,7 +1039,8 @@ var actorMap = {
     },
     "Annabelle Wallis": {
         "movies": [
-            "X-Men: First Class (2011)"
+            "X-Men: First Class (2011)",
+            "The Brothers Grimsby (2016)"
         ]
     },
     "Annabeth Gish": {
@@ -1379,7 +1381,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "My Fair Lady (1964)"
+            "My Fair Lady (1964)",
+            "Wait Until Dark (1967)"
         ]
     },
     "August Schellenberg": {
@@ -1484,6 +1487,9 @@ var actorMap = {
                 "movie": "Captain Phillips",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "The Brothers Grimsby (2016)"
         ]
     },
     "Barry Bostwick": {
@@ -1686,6 +1692,7 @@ var actorMap = {
     "Bernard Hill": {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
+            "Gothika (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
             "Wimbledon (2004)"
         ]
@@ -2122,6 +2129,7 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
             "The Curious Case of Benjamin Button (2008)",
+            "The Counselor (2013)",
             "Deadpool 2 (2018)"
         ]
     },
@@ -2602,7 +2610,8 @@ var actorMap = {
             "Vanilla Sky (2001)",
             "The Holiday (2006)",
             "Knight and Day (2010)",
-            "The Green Hornet (2011)"
+            "The Green Hornet (2011)",
+            "The Counselor (2013)"
         ]
     },
     "Campbell Scott": {
@@ -2907,6 +2916,11 @@ var actorMap = {
             "Last Action Hero (1993)",
             "The Imitation Game (2014)",
             "The King's Man (2021)"
+        ]
+    },
+    "Charles S. Dutton": {
+        "movies": [
+            "Gothika (2003)"
         ]
     },
     "Charlie Cox": {
@@ -4286,7 +4300,8 @@ var actorMap = {
     },
     "Dean Norris": {
         "movies": [
-            "How Do You Know (2010)"
+            "How Do You Know (2010)",
+            "The Counselor (2013)"
         ]
     },
     "Dean Stockwell": {
@@ -5089,6 +5104,12 @@ var actorMap = {
     "Edwin Hodge": {
         "movies": [
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Efrem Zimbalist Jr.": {
+        "movies": [
+            "Wait Until Dark (1967)",
+            "Batman: Mask of the Phantasm (1993)"
         ]
     },
     "Eileen Heckart": {
@@ -6014,6 +6035,9 @@ var actorMap = {
                 "movie": "Precious: Based on the Novel 'Push' by Sapphire",
                 "year": "2009"
             }
+        ],
+        "movies": [
+            "The Brothers Grimsby (2016)"
         ]
     },
     "Gabriel Macht": {
@@ -6686,6 +6710,7 @@ var actorMap = {
             "X-Men (2000)",
             "Monster's Ball (2001)",
             "X2 (2003)",
+            "Gothika (2003)",
             "Catwoman (2004)",
             "X-Men: The Last Stand (2006)",
             "New Year's Eve (2011)",
@@ -7201,6 +7226,7 @@ var actorMap = {
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Hercules (2014)",
             "John Wick (2014)",
+            "The Brothers Grimsby (2016)",
             "Hellboy (2019)"
         ]
     },
@@ -7366,7 +7392,8 @@ var actorMap = {
     "Isla Fisher": {
         "movies": [
             "Hot Rod (2007)",
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "The Brothers Grimsby (2016)"
         ]
     },
     "Israel Broussard": {
@@ -8278,6 +8305,7 @@ var actorMap = {
         ],
         "movies": [
             "Vicky Cristina Barcelona (2008)",
+            "The Counselor (2013)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
@@ -9177,6 +9205,7 @@ var actorMap = {
     },
     "John Carroll Lynch": {
         "movies": [
+            "Gothika (2003)",
             "Zodiac (2007)"
         ]
     },
@@ -9298,6 +9327,7 @@ var actorMap = {
     "John Leguizamo": {
         "movies": [
             "Kick-Ass 2 (2013)",
+            "The Counselor (2013)",
             "Chef (2014)",
             "John Wick (2014)"
         ]
@@ -12312,6 +12342,7 @@ var actorMap = {
             "Zero Dark Thirty (2012)",
             "The Imitation Game (2014)",
             "Kingsman: The Secret Service (2015)",
+            "The Brothers Grimsby (2016)",
             "Kingsman: The Golden Circle (2017)",
             "Shazam! (2019)",
             "1917 (2019)"
@@ -12797,6 +12828,11 @@ var actorMap = {
             "Spaceballs (1987)"
         ]
     },
+    "Mel Ferrer": {
+        "movies": [
+            "Wait Until Dark (1967)"
+        ]
+    },
     "Mel Rodriguez": {
         "movies": [
             "Onward (2020)"
@@ -13193,6 +13229,7 @@ var actorMap = {
             "300 (2007)",
             "Jonah Hex (2010)",
             "X-Men: First Class (2011)",
+            "The Counselor (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
             "Dark Phoenix (2019)"
@@ -13831,7 +13868,8 @@ var actorMap = {
     "Natalie Dormer": {
         "movies": [
             "Captain America: The First Avenger (2011)",
-            "Rush (2013)"
+            "Rush (2013)",
+            "The Counselor (2013)"
         ]
     },
     "Natalie Portman": {
@@ -14773,11 +14811,14 @@ var actorMap = {
         "movies": [
             "Blow (2001)",
             "Vanilla Sky (2001)",
+            "Gothika (2003)",
             "Sahara (2005)",
             "Vicky Cristina Barcelona (2008)",
             "G-Force (2009)",
             "Nine (2009)",
-            "Pirates of the Caribbean: On Stranger Tides (2011)"
+            "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "The Counselor (2013)",
+            "The Brothers Grimsby (2016)"
         ]
     },
     "Persis Khambatta": {
@@ -15327,6 +15368,7 @@ var actorMap = {
     "Rebel Wilson": {
         "movies": [
             "Ghost Rider (2007)",
+            "The Brothers Grimsby (2016)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -15505,6 +15547,11 @@ var actorMap = {
     "Richard Burton": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
+        ]
+    },
+    "Richard Crenna": {
+        "movies": [
+            "Wait Until Dark (1967)"
         ]
     },
     "Richard Donner": {
@@ -15789,6 +15836,7 @@ var actorMap = {
         ],
         "movies": [
             "Chaplin (1992)",
+            "Gothika (2003)",
             "Zodiac (2007)",
             "Iron Man (2008)",
             "The Incredible Hulk (2008)",
@@ -16132,6 +16180,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Counselor (2013)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
@@ -16337,7 +16386,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Sweeney Todd: The Demon Barber of Fleet Street (2007)"
+            "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+            "The Brothers Grimsby (2016)"
         ]
     },
     "Saffron Burrows": {
@@ -16730,6 +16780,7 @@ var actorMap = {
     "Scott Adkins": {
         "movies": [
             "Zero Dark Thirty (2012)",
+            "The Brothers Grimsby (2016)",
             "Doctor Strange (2016)"
         ]
     },
@@ -18175,6 +18226,7 @@ var actorMap = {
     "Toby Kebbell": {
         "movies": [
             "Alexander (2004)",
+            "The Counselor (2013)",
             "Fantastic Four (2015)",
             "A Monster Calls (2016)",
             "Bloodshot (2020)"
@@ -19554,7 +19606,8 @@ var actorMap = {
     },
     "\u00c9dgar Ram\u00edrez": {
         "movies": [
-            "Zero Dark Thirty (2012)"
+            "Zero Dark Thirty (2012)",
+            "The Counselor (2013)"
         ]
     }
 }

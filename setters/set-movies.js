@@ -9422,6 +9422,13 @@ var movieMap = {
             "1960s",
             "Classics",
             "Hepburns"
+        ],
+        "cast": [
+            "Alan Arkin",
+            "Audrey Hepburn",
+            "Efrem Zimbalist Jr.",
+            "Mel Ferrer",
+            "Richard Crenna"
         ]
     },
     "Cool Hand Luke (1967)": {
@@ -37634,6 +37641,7 @@ var movieMap = {
             "Abe Vigoda",
             "Dana Delany",
             "Dick Miller",
+            "Efrem Zimbalist Jr.",
             "Kevin Conroy",
             "Mark Hamill",
             "Stacy Keach"
@@ -63114,6 +63122,14 @@ var movieMap = {
         "categories": [
             "2000s",
             "Halle Berry",
+            "Robert Downey Jr."
+        ],
+        "cast": [
+            "Bernard Hill",
+            "Charles S. Dutton",
+            "Halle Berry",
+            "John Carroll Lynch",
+            "Pen\u00e9lope Cruz",
             "Robert Downey Jr."
         ]
     },
@@ -93747,6 +93763,19 @@ var movieMap = {
             "2010s",
             "Brad Pitt & George Clooney",
             "Scotts"
+        ],
+        "cast": [
+            "Brad Pitt",
+            "Cameron Diaz",
+            "Dean Norris",
+            "\u00c9dgar Ram\u00edrez",
+            "Javier Bardem",
+            "John Leguizamo",
+            "Michael Fassbender",
+            "Natalie Dormer",
+            "Pen\u00e9lope Cruz",
+            "Rosie Perez",
+            "Toby Kebbell"
         ]
     },
     "About Time (2013)": {
@@ -101641,6 +101670,18 @@ var movieMap = {
         "categories": [
             "2010s",
             "Spy"
+        ],
+        "cast": [
+            "Annabelle Wallis",
+            "Barkhad Abdi",
+            "Gabourey Sidibe",
+            "Ian McShane",
+            "Isla Fisher",
+            "Mark Strong",
+            "Pen\u00e9lope Cruz",
+            "Rebel Wilson",
+            "Sacha Baron Cohen",
+            "Scott Adkins"
         ]
     },
     "Miracles from Heaven (2016)": {
