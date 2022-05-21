@@ -24005,7 +24005,7 @@ var movieMap = {
             "Catherine Keener",
             "Demi Moore",
             "Elizabeth Perkins",
-            "James Belushi",
+            "Jim Belushi",
             "Megan Mullally",
             "Rob Lowe"
         ]
@@ -24582,6 +24582,18 @@ var movieMap = {
             "1980s",
             "Black Cinema",
             "Marshalls",
+            "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Annie Potts",
+            "Carol Kane",
+            "Jim Belushi",
+            "John Wood",
+            "Jon Lovitz",
+            "Michael McKean",
+            "Phil Hartman",
+            "Stephen Collins",
+            "Tracey Ullman",
             "Whoopi Goldberg"
         ]
     },
@@ -42317,6 +42329,17 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Robin Williams"
+        ],
+        "cast": [
+            "Adam Hann-Byrd",
+            "Bebe Neuwirth",
+            "Bonnie Hunt",
+            "Bradley Pierce",
+            "David Alan Grier",
+            "Jonathan Hyde",
+            "Kirsten Dunst",
+            "Patricia Clarkson",
+            "Robin Williams"
         ]
     },
     "Sabrina (1995)": {
@@ -55629,6 +55652,20 @@ var movieMap = {
         "categories": [
             "2000s",
             "Dramas"
+        ],
+        "cast": [
+            "Bobcat Goldthwait",
+            "Cliff Curtis",
+            "Emma Roberts",
+            "Ethan Suplee",
+            "Franka Potente",
+            "Jaime King",
+            "Johnny Depp",
+            "Paul Reubens",
+            "Pen\u00e9lope Cruz",
+            "Rachel Griffiths",
+            "Ray Liotta",
+            "Tony Amendola"
         ]
     },
     "Joe Dirt (2001)": {
@@ -61401,6 +61438,7 @@ var movieMap = {
             "Kal Penn",
             "Mike Epps",
             "Nick Swardson",
+            "Niecy Nash",
             "Regina Hall",
             "Ryan O'Neal",
             "Snoop Dogg",
@@ -65101,6 +65139,7 @@ var movieMap = {
             "Byron Mann",
             "Frances Conroy",
             "Halle Berry",
+            "Lambert Wilson",
             "Sharon Stone"
         ]
     },
@@ -67198,6 +67237,17 @@ var movieMap = {
         "categories": [
             "2000s",
             "Action/Adventure"
+        ],
+        "cast": [
+            "Delroy Lindo",
+            "Glynn Turman",
+            "Lambert Wilson",
+            "Lennie James",
+            "Matthew McConaughey",
+            "Pen\u00e9lope Cruz",
+            "Rainn Wilson",
+            "Steve Zahn",
+            "William H. Macy"
         ]
     },
     "The Amityville Horror (2005)": {
@@ -68044,6 +68094,16 @@ var movieMap = {
             "2000s",
             "Black Cinema",
             "Dramas"
+        ],
+        "cast": [
+            "Anthony Anderson",
+            "DJ Qualls",
+            "Elise Neal",
+            "Isaac Hayes",
+            "Ludacris",
+            "Taraji P. Henson",
+            "Taryn Manning",
+            "Terrence Howard"
         ]
     },
     "The Devil's Rejects (2005)": {
@@ -74343,6 +74403,15 @@ var movieMap = {
             "2000s",
             "Black Cinema",
             "Sheens"
+        ],
+        "cast": [
+            "Cedric the Entertainer",
+            "Chiwetel Ejiofor",
+            "Don Cheadle",
+            "Martin Sheen",
+            "Mike Epps",
+            "Taraji P. Henson",
+            "Vondie Curtis Hall"
         ]
     },
     "Hairspray (2007)": {
@@ -77801,6 +77870,16 @@ var movieMap = {
         "categories": [
             "2000s",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Chris Messina",
+            "Javier Bardem",
+            "Kevin Dunn",
+            "Pablo Schreiber",
+            "Patricia Clarkson",
+            "Pen\u00e9lope Cruz",
+            "Rebecca Hall",
+            "Scarlett Johansson"
         ]
     },
     "Death Race (2008)": {
@@ -80671,6 +80750,20 @@ var movieMap = {
             "2000s",
             "Family",
             "Nicolas Cage"
+        ],
+        "cast": [
+            "Bill Nighy",
+            "Dee Bradley Baker",
+            "Jon Favreau",
+            "Kelli Garner",
+            "Nicolas Cage",
+            "Niecy Nash",
+            "Pen\u00e9lope Cruz",
+            "Sam Rockwell",
+            "Steve Buscemi",
+            "Tracy Morgan",
+            "Will Arnett",
+            "Zach Galifianakis"
         ]
     },
     "Orphan (2009)": {
@@ -81889,6 +81982,16 @@ var movieMap = {
             "2000s",
             "Musicals",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Daniel Day-Lewis",
+            "Fergie",
+            "Judi Dench",
+            "Kate Hudson",
+            "Marion Cotillard",
+            "Nicole Kidman",
+            "Pen\u00e9lope Cruz",
+            "Sophia Loren"
         ]
     },
     "The Young Victoria (2009)": {
@@ -83149,6 +83252,12 @@ var movieMap = {
             "Jackie Chan",
             "Martial Arts",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Jackie Chan",
+            "Jaden Smith",
+            "Taraji P. Henson",
+            "Yu Rongguang"
         ]
     },
     "Winter's Bone (2010)": {
@@ -87996,8 +88105,8 @@ var movieMap = {
             "H\u00e9ctor Elizondo",
             "Hilary Swank",
             "Jake T. Austin",
-            "James Belushi",
             "Jessica Biel",
+            "Jim Belushi",
             "John Lithgow",
             "Jon Bon Jovi",
             "Josh Duhamel",
@@ -95330,6 +95439,19 @@ var movieMap = {
             "Dramas",
             "Robert Downey Jr.",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Amy Sedaris",
+            "Bobby Cannavale",
+            "Dustin Hoffman",
+            "Emjay Anthony",
+            "John Leguizamo",
+            "Jon Favreau",
+            "Oliver Platt",
+            "Robert Downey Jr.",
+            "Russell Peters",
+            "Scarlett Johansson",
+            "Sof\u00eda Vergara"
         ]
     },
     "Neighbors (2014)": {
@@ -101835,6 +101957,21 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Remakes & Reboots",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Ben Kingsley",
+            "Bill Murray",
+            "Christopher Walken",
+            "Emjay Anthony",
+            "Garry Shandling",
+            "Giancarlo Esposito",
+            "Idris Elba",
+            "Jon Favreau",
+            "Lupita Nyong'o",
+            "Neel Sethi",
+            "Russell Peters",
+            "Sam Raimi",
+            "Scarlett Johansson"
         ]
     },
     "A Hologram for the King (2016)": {
@@ -105119,6 +105256,7 @@ var movieMap = {
         "cast": [
             "Boyd Holbrook",
             "Dafne Keen",
+            "Elise Neal",
             "Hugh Jackman",
             "Patrick Stewart",
             "Richard E. Grant",
@@ -109327,6 +109465,13 @@ var movieMap = {
             "2010s",
             "Black Cinema",
             "Tyler Perry"
+        ],
+        "cast": [
+            "Bresha Webb",
+            "Crystle Stewart",
+            "Danielle Nicolet",
+            "Lyriq Bent",
+            "Taraji P. Henson"
         ]
     },
     "A Quiet Place (2018)": {
@@ -113185,6 +113330,21 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Aldis Hodge",
+            "Erykah Badu",
+            "Josh Brener",
+            "Karl-Anthony Towns",
+            "Kellan Lutz",
+            "Mark Cuban",
+            "Max Greenfield",
+            "Pete Davidson",
+            "Richard Roundtree",
+            "Shaquille O'Neal",
+            "Taraji P. Henson",
+            "Tracy Morgan",
+            "Wendi McLendon-Covey"
         ]
     },
     "Happy Death Day 2U (2019)": {
@@ -116138,6 +116298,14 @@ var movieMap = {
             "Holiday",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Emilia Clarke",
+            "Emma Thompson",
+            "Henry Golding",
+            "Michelle Yeoh",
+            "Peter Serafinowicz",
+            "Rob Delaney"
         ]
     },
     "Let It Snow (2019)": {
