@@ -222,9 +222,10 @@ def generate_jsons():
     # release date data
     for movie in movie_dict:
         year = movie_dict[movie]['year']
-        if movie_dict[movie][year] not in release_date_dict:
-            release_date_dict[year] = []
-        release_date_dict[year].append(movie_dict[movie]['title'])
+        if int(year) >= 1927: 
+            if year not in release_date_dict:
+                release_date_dict[year] = []
+            release_date_dict[year].append(movie_dict[movie]['title'])
 
     set_json_variable('setters/set-release-dates.js', json.dumps(dict(sorted(release_date_dict.items())), indent=4), 'releaseDateMap')
 

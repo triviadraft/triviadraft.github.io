@@ -44,6 +44,8 @@ navigation:
     url: /casts/
   - title: Actors
     url: /actors/
+  - title: Release Dates
+    url: /release-dates/
   - title: IG MTS
     url: /ig-mts/
   - title: IG Casts
