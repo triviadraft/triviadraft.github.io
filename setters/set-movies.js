@@ -67002,6 +67002,30 @@ var movieMap = {
             "Mel Brooks",
             "Robin Williams",
             "Stanley Tucci"
+        ],
+        "cast": [
+            "Al Roker",
+            "Amanda Bynes",
+            "Chris Wedge",
+            "Dan Hedaya",
+            "Dianne Wiest",
+            "Drew Carey",
+            "Ewan McGregor",
+            "Greg Kinnear",
+            "Halle Berry",
+            "Harland Williams",
+            "James Earl Jones",
+            "Jay Leno",
+            "Jennifer Coolidge",
+            "Jim Broadbent",
+            "Mel Brooks",
+            "Natasha Lyonne",
+            "Paul Giamatti",
+            "Paula Abdul",
+            "Randy Jackson",
+            "Robin Williams",
+            "Stanley Tucci",
+            "Stephen Tobolowsky"
         ]
     },
     "The Upside of Anger (2005)": {

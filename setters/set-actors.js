@@ -265,6 +265,7 @@ var actorMap = {
     },
     "Al Roker": {
         "movies": [
+            "Robots (2005)",
             "Kung Fu Panda 3 (2016)",
             "Zombieland: Double Tap (2019)"
         ]
@@ -621,6 +622,11 @@ var actorMap = {
     "Alyssa Milano": {
         "movies": [
             "New Year's Eve (2011)"
+        ]
+    },
+    "Amanda Bynes": {
+        "movies": [
+            "Robots (2005)"
         ]
     },
     "Amanda Peet": {
@@ -3219,6 +3225,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Chris Wedge": {
+        "movies": [
+            "Robots (2005)"
+        ]
+    },
     "Christian Bale": {
         "leadNoms": [
             {
@@ -3828,7 +3839,8 @@ var actorMap = {
     },
     "Dan Hedaya": {
         "movies": [
-            "The First Wives Club (1996)"
+            "The First Wives Club (1996)",
+            "Robots (2005)"
         ]
     },
     "Dan Stevens": {
@@ -4629,6 +4641,9 @@ var actorMap = {
                 "movie": "Bullets over Broadway",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Robots (2005)"
         ]
     },
     "Dick Cavett": {
@@ -4871,6 +4886,11 @@ var actorMap = {
         "movies": [
             "Batman Forever (1995)",
             "He's Just Not That into You (2009)"
+        ]
+    },
+    "Drew Carey": {
+        "movies": [
+            "Robots (2005)"
         ]
     },
     "Dustin Hoffman": {
@@ -5718,6 +5738,7 @@ var actorMap = {
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Black Hawk Down (2001)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Robots (2005)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "The Impossible (2012)",
             "Star Wars: The Force Awakens (2015)",
@@ -6626,6 +6647,7 @@ var actorMap = {
         ],
         "movies": [
             "Mystery Men (1999)",
+            "Robots (2005)",
             "Movie 43 (2013)"
         ]
     },
@@ -6731,6 +6753,7 @@ var actorMap = {
             "X2 (2003)",
             "Gothika (2003)",
             "Catwoman (2004)",
+            "Robots (2005)",
             "X-Men: The Last Stand (2006)",
             "New Year's Eve (2011)",
             "Movie 43 (2013)",
@@ -6765,6 +6788,11 @@ var actorMap = {
         "movies": [
             "Spider-Man: Homecoming (2017)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Harland Williams": {
+        "movies": [
+            "Robots (2005)"
         ]
     },
     "Harold Perrineau": {
@@ -7880,6 +7908,7 @@ var actorMap = {
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "Robots (2005)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -8370,6 +8399,11 @@ var actorMap = {
             "Suicide Squad (2016)"
         ]
     },
+    "Jay Leno": {
+        "movies": [
+            "Robots (2005)"
+        ]
+    },
     "Jaye Davidson": {
         "suppNoms": [
             {
@@ -8530,6 +8564,7 @@ var actorMap = {
     },
     "Jennifer Coolidge": {
         "movies": [
+            "Robots (2005)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -8874,6 +8909,7 @@ var actorMap = {
         ],
         "movies": [
             "Superman IV: The Quest for Peace (1987)",
+            "Robots (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
@@ -12878,7 +12914,8 @@ var actorMap = {
     },
     "Mel Brooks": {
         "movies": [
-            "Spaceballs (1987)"
+            "Spaceballs (1987)",
+            "Robots (2005)"
         ]
     },
     "Mel Ferrer": {
@@ -13967,7 +14004,8 @@ var actorMap = {
     "Natasha Lyonne": {
         "movies": [
             "Kate & Leopold (2001)",
-            "Blade: Trinity (2004)"
+            "Blade: Trinity (2004)",
+            "Robots (2005)"
         ]
     },
     "Natasha Rothwell": {
@@ -14674,6 +14712,7 @@ var actorMap = {
         ],
         "movies": [
             "Saving Private Ryan (1998)",
+            "Robots (2005)",
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
@@ -14799,6 +14838,11 @@ var actorMap = {
     "Paul Winfield": {
         "movies": [
             "Star Trek II: The Wrath of Khan (1982)"
+        ]
+    },
+    "Paula Abdul": {
+        "movies": [
+            "Robots (2005)"
         ]
     },
     "Paula Deen": {
@@ -15328,6 +15372,11 @@ var actorMap = {
             "Trainwreck (2015)",
             "Ant-Man and the Wasp (2018)",
             "Aquaman (2018)"
+        ]
+    },
+    "Randy Jackson": {
+        "movies": [
+            "Robots (2005)"
         ]
     },
     "Randy Newman": {
@@ -16058,7 +16107,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Jumanji (1995)"
+            "Jumanji (1995)",
+            "Robots (2005)"
         ]
     },
     "Robin Wright": {
@@ -17465,6 +17515,7 @@ var actorMap = {
         "movies": [
             "Road to Perdition (2002)",
             "The Terminal (2004)",
+            "Robots (2005)",
             "The Tale of Despereaux (2008)",
             "Captain America: The First Avenger (2011)",
             "Beauty and the Beast (2017)",
@@ -17587,7 +17638,8 @@ var actorMap = {
     },
     "Stephen Tobolowsky": {
         "movies": [
-            "Mississippi Burning (1988)"
+            "Mississippi Burning (1988)",
+            "Robots (2005)"
         ]
     },
     "Sterling Hayden": {
