@@ -113,6 +113,7 @@ var actorMap = {
         ],
         "movies": [
             "Star Wars: The Force Awakens (2015)",
+            "Midnight Special (2016)",
             "Star Wars: The Last Jedi (2017)",
             "Marriage Story (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -414,7 +415,8 @@ var actorMap = {
         ],
         "movies": [
             "Traffic (2000)",
-            "Ocean's Twelve (2004)"
+            "Ocean's Twelve (2004)",
+            "Corpse Bride (2005)"
         ]
     },
     "Alden Ehrenreich": {
@@ -545,6 +547,11 @@ var actorMap = {
             "The Suicide Squad (2021)"
         ]
     },
+    "Alice Cooper": {
+        "movies": [
+            "Dark Shadows (2012)"
+        ]
+    },
     "Alice Englert": {
         "movies": [
             "The Power of the Dog (2021)"
@@ -640,6 +647,9 @@ var actorMap = {
                 "movie": "Mank",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Les Mis\u00e9rables (2012)"
         ]
     },
     "Amandla Stenberg": {
@@ -826,6 +836,11 @@ var actorMap = {
             "1917 (2019)"
         ]
     },
+    "Andy Bean": {
+        "movies": [
+            "It Chapter Two (2019)"
+        ]
+    },
     "Andy Dick": {
         "movies": [
             "Knocked Up (2007)"
@@ -842,6 +857,11 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)"
+        ]
+    },
+    "Andy Muschietti": {
+        "movies": [
+            "It Chapter Two (2019)"
         ]
     },
     "Andy Samberg": {
@@ -1081,6 +1101,7 @@ var actorMap = {
             "Valentine's Day (2010)",
             "Alice in Wonderland (2010)",
             "The Dark Knight Rises (2012)",
+            "Les Mis\u00e9rables (2012)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -1536,6 +1557,11 @@ var actorMap = {
             "Power Rangers (2017)"
         ]
     },
+    "Bella Heathcote": {
+        "movies": [
+            "Dark Shadows (2012)"
+        ]
+    },
     "Ben Affleck": {
         "movies": [
             "Dazed and Confused (1993)",
@@ -1802,6 +1828,7 @@ var actorMap = {
     },
     "Bill Camp": {
         "movies": [
+            "Midnight Special (2016)",
             "The Kitchen (2019)",
             "Joker (2019)"
         ]
@@ -1825,7 +1852,8 @@ var actorMap = {
             "Men in Black 3 (2012)",
             "Trainwreck (2015)",
             "Power Rangers (2017)",
-            "Ralph Breaks the Internet (2018)"
+            "Ralph Breaks the Internet (2018)",
+            "It Chapter Two (2019)"
         ]
     },
     "Bill Maher": {
@@ -1888,7 +1916,9 @@ var actorMap = {
     "Bill Skarsg\u00e5rd": {
         "movies": [
             "Atomic Blonde (2017)",
+            "It (2017)",
             "Deadpool 2 (2018)",
+            "It Chapter Two (2019)",
             "Eternals (2021)"
         ]
     },
@@ -2039,6 +2069,11 @@ var actorMap = {
             "Chef (2014)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)"
+        ]
+    },
+    "Bobby Moynihan": {
+        "movies": [
+            "The Book of Henry (2017)"
         ]
     },
     "Bobcat Goldthwait": {
@@ -3067,6 +3102,7 @@ var actorMap = {
     "Chlo\u00eb Grace Moretz": {
         "movies": [
             "Kick-Ass (2010)",
+            "Dark Shadows (2012)",
             "Movie 43 (2013)",
             "Kick-Ass 2 (2013)"
         ]
@@ -3080,6 +3116,12 @@ var actorMap = {
         ],
         "movies": [
             "Zodiac (2007)"
+        ]
+    },
+    "Chosen Jacobs": {
+        "movies": [
+            "It (2017)",
+            "It Chapter Two (2019)"
         ]
     },
     "Chow Yun-fat": {
@@ -3311,8 +3353,10 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Corpse Bride (2005)",
             "Star Wars: The Clone Wars (2008)",
             "Alice in Wonderland (2010)",
+            "Dark Shadows (2012)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
@@ -3938,6 +3982,7 @@ var actorMap = {
     },
     "Daniel Huttlestone": {
         "movies": [
+            "Les Mis\u00e9rables (2012)",
             "Into the Woods (2014)"
         ]
     },
@@ -4012,6 +4057,11 @@ var actorMap = {
             "Batman Returns (1992)",
             "Last Action Hero (1993)",
             "Space Jam (1996)"
+        ]
+    },
+    "Danny Elfman": {
+        "movies": [
+            "Corpse Bride (2005)"
         ]
     },
     "Danny Glover": {
@@ -4282,7 +4332,8 @@ var actorMap = {
     },
     "David Walliams": {
         "movies": [
-            "The Chronicles of Narnia: Prince Caspian (2008)"
+            "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Missing Link (2019)"
         ]
     },
     "David Warner": {
@@ -4330,7 +4381,8 @@ var actorMap = {
     "Dean Norris": {
         "movies": [
             "How Do You Know (2010)",
-            "The Counselor (2013)"
+            "The Counselor (2013)",
+            "The Book of Henry (2017)"
         ]
     },
     "Dean Stockwell": {
@@ -5073,6 +5125,7 @@ var actorMap = {
         "movies": [
             "The Other Boleyn Girl (2008)",
             "My Week with Marilyn (2011)",
+            "Les Mis\u00e9rables (2012)",
             "The Theory of Everything (2014)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
@@ -5450,6 +5503,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Corpse Bride (2005)",
             "The Theory of Everything (2014)",
             "Kingsman: The Golden Circle (2017)"
         ]
@@ -5524,6 +5578,7 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
             "Beauty and the Beast (2017)",
+            "Missing Link (2019)",
             "Men in Black: International (2019)",
             "Last Christmas (2019)",
             "Dolittle (2020)"
@@ -5666,6 +5721,7 @@ var actorMap = {
     "Eva Green": {
         "movies": [
             "Kingdom of Heaven (2005)",
+            "Dark Shadows (2012)",
             "300: Rise of an Empire (2014)",
             "Sin City: A Dame to Kill For (2014)"
         ]
@@ -5854,6 +5910,8 @@ var actorMap = {
     },
     "Finn Wolfhard": {
         "movies": [
+            "It (2017)",
+            "It Chapter Two (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -5904,6 +5962,11 @@ var actorMap = {
         "movies": [
             "Rogue One: A Star Wars Story (2016)",
             "Black Panther (2018)"
+        ]
+    },
+    "Fra Fee": {
+        "movies": [
+            "Les Mis\u00e9rables (2012)"
         ]
     },
     "Fran Kranz": {
@@ -6662,6 +6725,11 @@ var actorMap = {
             "A Wrinkle in Time (2018)"
         ]
     },
+    "Gulliver McGrath": {
+        "movies": [
+            "Dark Shadows (2012)"
+        ]
+    },
     "Guy Pearce": {
         "movies": [
             "Iron Man 3 (2013)",
@@ -6782,6 +6850,16 @@ var actorMap = {
             "Star Wars: The Force Awakens (2015)",
             "Ready Player One (2018)",
             "Ant-Man and the Wasp (2018)"
+        ]
+    },
+    "Hannah Murray": {
+        "movies": [
+            "Dark Shadows (2012)"
+        ]
+    },
+    "Hannah Waddingham": {
+        "movies": [
+            "Les Mis\u00e9rables (2012)"
         ]
     },
     "Hannibal Buress": {
@@ -7023,12 +7101,15 @@ var actorMap = {
         ],
         "movies": [
             "Howards End (1992)",
+            "Corpse Bride (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Dark Shadows (2012)",
+            "Les Mis\u00e9rables (2012)",
             "Cinderella (2015)",
             "Ocean's 8 (2018)"
         ]
@@ -7167,12 +7248,14 @@ var actorMap = {
             "The Prestige (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
+            "Les Mis\u00e9rables (2012)",
             "Movie 43 (2013)",
             "Prisoners (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
             "Logan (2017)",
-            "The Greatest Showman (2017)"
+            "The Greatest Showman (2017)",
+            "Missing Link (2019)"
         ]
     },
     "Hugo Weaving": {
@@ -7436,12 +7519,27 @@ var actorMap = {
             }
         ]
     },
+    "Isabelle Allen": {
+        "movies": [
+            "Les Mis\u00e9rables (2012)"
+        ]
+    },
     "Isabelle Huppert": {
         "leadNoms": [
             {
                 "movie": "Elle",
                 "year": "2016"
             }
+        ]
+    },
+    "Isabelle N\u00e9lisse": {
+        "movies": [
+            "Mama (2013)"
+        ]
+    },
+    "Isaiah Mustafa": {
+        "movies": [
+            "It Chapter Two (2019)"
         ]
     },
     "Isla Fisher": {
@@ -7536,7 +7634,9 @@ var actorMap = {
     },
     "Jack Dylan Grazer": {
         "movies": [
-            "Shazam! (2019)"
+            "It (2017)",
+            "Shazam! (2019)",
+            "It Chapter Two (2019)"
         ]
     },
     "Jack Gleeson": {
@@ -7719,12 +7819,18 @@ var actorMap = {
         ],
         "movies": [
             "Watchmen (2009)",
+            "Dark Shadows (2012)",
             "RoboCop (2014)"
         ]
     },
     "Jackson A. Dunn": {
         "movies": [
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Jackson Nicoll": {
+        "movies": [
+            "The Book of Henry (2017)"
         ]
     },
     "Jacob Batalon": {
@@ -7734,6 +7840,11 @@ var actorMap = {
             "Avengers: Endgame (2019)",
             "Spider-Man: Far From Home (2019)",
             "Spider-Man: No Way Home (2021)"
+        ]
+    },
+    "Jacob Tremblay": {
+        "movies": [
+            "The Book of Henry (2017)"
         ]
     },
     "Jacqueline Obradors": {
@@ -7753,6 +7864,10 @@ var actorMap = {
     },
     "Jaeden Martell": {
         "movies": [
+            "Midnight Special (2016)",
+            "The Book of Henry (2017)",
+            "It (2017)",
+            "It Chapter Two (2019)",
             "Knives Out (2019)"
         ]
     },
@@ -7977,7 +8092,8 @@ var actorMap = {
             "Atomic Blonde (2017)",
             "Deadpool 2 (2018)",
             "Glass (2019)",
-            "Dark Phoenix (2019)"
+            "Dark Phoenix (2019)",
+            "It Chapter Two (2019)"
         ]
     },
     "James Norton": {
@@ -8000,6 +8116,11 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "James Ransone": {
+        "movies": [
+            "It Chapter Two (2019)"
         ]
     },
     "James Remar": {
@@ -8404,6 +8525,11 @@ var actorMap = {
             "Robots (2005)"
         ]
     },
+    "Jay Ryan": {
+        "movies": [
+            "It Chapter Two (2019)"
+        ]
+    },
     "Jaye Davidson": {
         "suppNoms": [
             {
@@ -8703,6 +8829,12 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Jeremy Ray Taylor": {
+        "movies": [
+            "It (2017)",
+            "It Chapter Two (2019)"
+        ]
+    },
     "Jeremy Renner": {
         "leadNoms": [
             {
@@ -8816,7 +8948,9 @@ var actorMap = {
         "movies": [
             "The Help (2011)",
             "Zero Dark Thirty (2012)",
-            "Dark Phoenix (2019)"
+            "Mama (2013)",
+            "Dark Phoenix (2019)",
+            "It Chapter Two (2019)"
         ]
     },
     "Jessica Henwick": {
@@ -9056,6 +9190,11 @@ var actorMap = {
             "Iron Man 3 (2013)"
         ]
     },
+    "Joanna Lumley": {
+        "movies": [
+            "Corpse Bride (2005)"
+        ]
+    },
     "Joanna Page": {
         "movies": [
             "From Hell (2001)",
@@ -9208,7 +9347,8 @@ var actorMap = {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
-            "Zero Dark Thirty (2012)"
+            "Zero Dark Thirty (2012)",
+            "Midnight Special (2016)"
         ]
     },
     "Joel Kinnaman": {
@@ -9560,12 +9700,14 @@ var actorMap = {
             "Blow (2001)",
             "From Hell (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "Corpse Bride (2005)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Alice in Wonderland (2010)",
             "The Tourist (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Dark Shadows (2012)",
             "Into the Woods (2014)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
@@ -9745,6 +9887,11 @@ var actorMap = {
     "Jonathan Rhys Meyers": {
         "movies": [
             "Alexander (2004)"
+        ]
+    },
+    "Jonny Lee Miller": {
+        "movies": [
+            "Dark Shadows (2012)"
         ]
     },
     "Joonas Suotamo": {
@@ -10995,6 +11142,7 @@ var actorMap = {
             "Elizabethtown (2005)",
             "Spider-Man 3 (2007)",
             "The Bling Ring (2013)",
+            "Midnight Special (2016)",
             "Hidden Figures (2016)",
             "The Power of the Dog (2021)"
         ]
@@ -11377,6 +11525,7 @@ var actorMap = {
             "The Hobbit: The Desolation of Smaug (2013)",
             "Guardians of the Galaxy (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
+            "The Book of Henry (2017)",
             "Captain Marvel (2019)"
         ]
     },
@@ -11962,6 +12111,11 @@ var actorMap = {
     "Macy Gray": {
         "movies": [
             "Spider-Man (2002)"
+        ]
+    },
+    "Maddie Ziegler": {
+        "movies": [
+            "The Book of Henry (2017)"
         ]
     },
     "Madge Sinclair": {
@@ -12753,7 +12907,8 @@ var actorMap = {
     "Matt Lucas": {
         "movies": [
             "Alice in Wonderland (2010)",
-            "Polar (2019)"
+            "Polar (2019)",
+            "Missing Link (2019)"
         ]
     },
     "Matt Walsh": {
@@ -12893,6 +13048,13 @@ var actorMap = {
         "movies": [
             "Armed and Dangerous (1986)",
             "Kate & Leopold (2001)"
+        ]
+    },
+    "Megan Charpentier": {
+        "movies": [
+            "Mama (2013)",
+            "It (2017)",
+            "It Chapter Two (2019)"
         ]
     },
     "Megan Fox": {
@@ -13353,6 +13515,7 @@ var actorMap = {
             "Batman Returns (1992)",
             "Batman Forever (1995)",
             "Batman & Robin (1997)",
+            "Corpse Bride (2005)",
             "Alice in Wonderland (2010)"
         ]
     },
@@ -13502,6 +13665,7 @@ var actorMap = {
             "Vanilla Sky (2001)",
             "Jonah Hex (2010)",
             "Man of Steel (2013)",
+            "Midnight Special (2016)",
             "Knives Out (2019)"
         ]
     },
@@ -13564,6 +13728,7 @@ var actorMap = {
             "Batman Returns (1992)",
             "The Prince of Egypt (1998)",
             "New Year's Eve (2011)",
+            "Dark Shadows (2012)",
             "Murder on the Orient Express (2017)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
@@ -13925,7 +14090,8 @@ var actorMap = {
         ],
         "movies": [
             "The Impossible (2012)",
-            "Movie 43 (2013)"
+            "Movie 43 (2013)",
+            "The Book of Henry (2017)"
         ]
     },
     "Naomie Harris": {
@@ -14251,6 +14417,7 @@ var actorMap = {
             "Wimbledon (2004)",
             "Kingdom of Heaven (2005)",
             "Firewall (2006)",
+            "Mama (2013)",
             "Oblivion (2013)"
         ]
     },
@@ -14835,6 +15002,12 @@ var actorMap = {
             "Deadpool 2 (2018)"
         ]
     },
+    "Paul Whitehouse": {
+        "movies": [
+            "Corpse Bride (2005)",
+            "Alice in Wonderland (2010)"
+        ]
+    },
     "Paul Winfield": {
         "movies": [
             "Star Trek II: The Wrath of Khan (1982)"
@@ -14958,6 +15131,11 @@ var actorMap = {
             "Iron Man (2008)",
             "Four Christmases (2008)",
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "Peter Bogdanovich": {
+        "movies": [
+            "It Chapter Two (2019)"
         ]
     },
     "Peter Boyle": {
@@ -15689,6 +15867,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Corpse Bride (2005)",
             "Logan (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -16389,6 +16568,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Les Mis\u00e9rables (2012)",
             "Man of Steel (2013)",
             "Noah (2014)"
         ]
@@ -16495,6 +16675,7 @@ var actorMap = {
         ],
         "movies": [
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+            "Les Mis\u00e9rables (2012)",
             "The Brothers Grimsby (2016)"
         ]
     },
@@ -16657,7 +16838,8 @@ var actorMap = {
     },
     "Sam Shepard": {
         "movies": [
-            "Black Hawk Down (2001)"
+            "Black Hawk Down (2001)",
+            "Midnight Special (2016)"
         ]
     },
     "Sam Witwer": {
@@ -16668,6 +16850,11 @@ var actorMap = {
     "Sam Worthington": {
         "movies": [
             "Avatar (2009)"
+        ]
+    },
+    "Samantha Barks": {
+        "movies": [
+            "Les Mis\u00e9rables (2012)"
         ]
     },
     "Samantha Morton": {
@@ -16817,6 +17004,7 @@ var actorMap = {
         "movies": [
             "Rent (2005)",
             "Wreck-It Ralph (2012)",
+            "The Book of Henry (2017)",
             "Ralph Breaks the Internet (2018)",
             "Don't Look Up (2021)"
         ]
@@ -17408,6 +17596,12 @@ var actorMap = {
             "Incredibles 2 (2018)"
         ]
     },
+    "Sophia Lillis": {
+        "movies": [
+            "It (2017)",
+            "It Chapter Two (2019)"
+        ]
+    },
     "Sophia Loren": {
         "movies": [
             "Nine (2009)"
@@ -17591,7 +17785,8 @@ var actorMap = {
             "V for Vendetta (2006)",
             "Alice in Wonderland (2010)",
             "The Hobbit: The Desolation of Smaug (2013)",
-            "The Hobbit: The Battle of the Five Armies (2014)"
+            "The Hobbit: The Battle of the Five Armies (2014)",
+            "Missing Link (2019)"
         ]
     },
     "Stephen Graham": {
@@ -17600,6 +17795,11 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
             "Hellboy (2019)",
             "Venom: Let There Be Carnage (2021)"
+        ]
+    },
+    "Stephen King": {
+        "movies": [
+            "It Chapter Two (2019)"
         ]
     },
     "Stephen Lang": {
@@ -18274,7 +18474,8 @@ var actorMap = {
     "Timothy Olyphant": {
         "movies": [
             "The First Wives Club (1996)",
-            "Mother's Day (2016)"
+            "Mother's Day (2016)",
+            "Missing Link (2019)"
         ]
     },
     "Timothy Spall": {
@@ -18704,6 +18905,7 @@ var actorMap = {
     "Tracey Ullman": {
         "movies": [
             "Jumpin' Jack Flash (1986)",
+            "Corpse Bride (2005)",
             "The Tale of Despereaux (2008)",
             "Into the Woods (2014)",
             "Onward (2020)"
@@ -19548,7 +19750,9 @@ var actorMap = {
     "Wyatt Oleff": {
         "movies": [
             "Guardians of the Galaxy (2014)",
-            "Guardians of the Galaxy Vol. 2 (2017)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "It (2017)",
+            "It Chapter Two (2019)"
         ]
     },
     "Wyatt Russell": {
@@ -19558,7 +19762,9 @@ var actorMap = {
     },
     "Xavier Dolan": {
         "movies": [
-            "Bad Times at the El Royale (2018)"
+            "Bad Times at the El Royale (2018)",
+            "Bad Times at the El Royale (2018)",
+            "It Chapter Two (2019)"
         ]
     },
     "Yahya Abdul-Mateen II": {
@@ -19628,7 +19834,8 @@ var actorMap = {
         "movies": [
             "G-Force (2009)",
             "The Lego Batman Movie (2017)",
-            "A Wrinkle in Time (2018)"
+            "A Wrinkle in Time (2018)",
+            "Missing Link (2019)"
         ]
     },
     "Zach King": {
@@ -19698,6 +19905,7 @@ var actorMap = {
             "Star Trek Beyond (2016)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
+            "Missing Link (2019)",
             "Avengers: Endgame (2019)"
         ]
     },

@@ -68613,6 +68613,19 @@ var movieMap = {
             "2000s",
             "Animated",
             "Tim Burton"
+        ],
+        "cast": [
+            "Albert Finney",
+            "Christopher Lee",
+            "Danny Elfman",
+            "Emily Watson",
+            "Helena Bonham Carter",
+            "Joanna Lumley",
+            "Johnny Depp",
+            "Michael Gough",
+            "Paul Whitehouse",
+            "Richard E. Grant",
+            "Tracey Ullman"
         ]
     },
     "Flightplan (2005)": {
@@ -82541,6 +82554,7 @@ var movieMap = {
             "Mia Wasikowska",
             "Michael Gough",
             "Michael Sheen",
+            "Paul Whitehouse",
             "Stephen Fry",
             "Timothy Spall"
         ]
@@ -89371,6 +89385,20 @@ var movieMap = {
             "2010s",
             "Michelle Pfeiffer",
             "Tim Burton"
+        ],
+        "cast": [
+            "Alice Cooper",
+            "Bella Heathcote",
+            "Chlo\u00eb Grace Moretz",
+            "Christopher Lee",
+            "Eva Green",
+            "Gulliver McGrath",
+            "Hannah Murray",
+            "Helena Bonham Carter",
+            "Jackie Earle Haley",
+            "Johnny Depp",
+            "Jonny Lee Miller",
+            "Michelle Pfeiffer"
         ]
     },
     "The Dictator (2012)": {
@@ -91391,6 +91419,20 @@ var movieMap = {
             "2010s",
             "Anne Hathaway",
             "Musicals"
+        ],
+        "cast": [
+            "Amanda Seyfried",
+            "Anne Hathaway",
+            "Daniel Huttlestone",
+            "Eddie Redmayne",
+            "Fra Fee",
+            "Hannah Waddingham",
+            "Helena Bonham Carter",
+            "Hugh Jackman",
+            "Isabelle Allen",
+            "Russell Crowe",
+            "Sacha Baron Cohen",
+            "Samantha Barks"
         ]
     },
     "Parental Guidance (2012)": {
@@ -91496,6 +91538,12 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Isabelle N\u00e9lisse",
+            "Jessica Chastain",
+            "Megan Charpentier",
+            "Nikolaj Coster-Waldau"
         ]
     },
     "The Last Stand (2013)": {
@@ -101770,6 +101818,15 @@ var movieMap = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Bill Camp",
+            "Jaeden Martell",
+            "Joel Edgerton",
+            "Kirsten Dunst",
+            "Michael Shannon",
+            "Sam Shepard"
         ]
     },
     "Pee-wee's Big Holiday (2016)": {
@@ -106385,6 +106442,17 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ],
+        "cast": [
+            "Bobby Moynihan",
+            "Dean Norris",
+            "Jackson Nicoll",
+            "Jacob Tremblay",
+            "Jaeden Martell",
+            "Lee Pace",
+            "Maddie Ziegler",
+            "Naomi Watts",
+            "Sarah Silverman"
         ]
     },
     "Transformers: The Last Knight (2017)": {
@@ -107162,6 +107230,17 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Bill Skarsg\u00e5rd",
+            "Chosen Jacobs",
+            "Finn Wolfhard",
+            "Jack Dylan Grazer",
+            "Jaeden Martell",
+            "Jeremy Ray Taylor",
+            "Megan Charpentier",
+            "Sophia Lillis",
+            "Wyatt Oleff"
         ]
     },
     "First They Killed My Father (2017)": {
@@ -111813,6 +111892,7 @@ var movieMap = {
             "Mark O'Brien",
             "Nick Offerman",
             "Shea Whigham",
+            "Xavier Dolan",
             "Xavier Dolan"
         ]
     },
@@ -114073,6 +114153,16 @@ var movieMap = {
         "categories": [
             "2010s",
             "Animated"
+        ],
+        "cast": [
+            "David Walliams",
+            "Emma Thompson",
+            "Hugh Jackman",
+            "Matt Lucas",
+            "Stephen Fry",
+            "Timothy Olyphant",
+            "Zach Galifianakis",
+            "Zoe Saldana"
         ]
     },
     "Guava Island (2019)": {
@@ -115526,6 +115616,28 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Andy Bean",
+            "Andy Muschietti",
+            "Bill Hader",
+            "Bill Skarsg\u00e5rd",
+            "Chosen Jacobs",
+            "Finn Wolfhard",
+            "Isaiah Mustafa",
+            "Jack Dylan Grazer",
+            "Jaeden Martell",
+            "James McAvoy",
+            "James Ransone",
+            "Jay Ryan",
+            "Jeremy Ray Taylor",
+            "Jessica Chastain",
+            "Megan Charpentier",
+            "Peter Bogdanovich",
+            "Sophia Lillis",
+            "Stephen King",
+            "Wyatt Oleff",
+            "Xavier Dolan"
         ]
     },
     "Hustlers (2019)": {
