@@ -55732,6 +55732,20 @@ var movieMap = {
             "2000s",
             "Jamie Lee Curtis",
             "Spy"
+        ],
+        "cast": [
+            "Brendan Gleeson",
+            "Catherine McCormack",
+            "Daniel Radcliffe",
+            "Dylan Baker",
+            "Geoffrey Rush",
+            "Jamie Lee Curtis",
+            "Jon Polito",
+            "Jonathan Hyde",
+            "Leonor Varela",
+            "Mark Margolis",
+            "Martin Ferrero",
+            "Pierce Brosnan"
         ]
     },
     "Along Came a Spider (2001)": {
@@ -58388,6 +58402,7 @@ var movieMap = {
         "cast": [
             "Donnie Yen",
             "Kris Kristofferson",
+            "Leonor Varela",
             "Luke Goss",
             "Norman Reedus",
             "Ron Perlman",
@@ -85128,6 +85143,17 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ],
+        "cast": [
+            "Claire Bloom",
+            "Colin Firth",
+            "Derek Jacobi",
+            "Geoffrey Rush",
+            "Guy Pearce",
+            "Helena Bonham Carter",
+            "Jennifer Ehle",
+            "Michael Gambon",
+            "Timothy Spall"
         ]
     },
     "Black Swan (2010)": {
@@ -88885,6 +88911,12 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Ciar\u00e1n Hinds",
+            "Daniel Radcliffe",
+            "Janet McTeer",
+            "Liz White"
         ]
     },
     "Journey 2: The Mysterious Island (2012)": {
@@ -92720,6 +92752,21 @@ var movieMap = {
             "2010s",
             "Crime",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Caitr\u00edona Balfe",
+            "Common",
+            "Conan O'Brien",
+            "Dave Franco",
+            "Elias Koteas",
+            "Isla Fisher",
+            "Jesse Eisenberg",
+            "Mark Ruffalo",
+            "M\u00e9lanie Laurent",
+            "Michael Caine",
+            "Michael Kelly",
+            "Morgan Freeman",
+            "Woody Harrelson"
         ]
     },
     "Much Ado About Nothing (2013)": {
@@ -93953,6 +94000,17 @@ var movieMap = {
             "2010s",
             "Biopics",
             "LGBTQ Cinema"
+        ],
+        "cast": [
+            "Ben Foster",
+            "Dane DeHaan",
+            "Daniel Radcliffe",
+            "David Cross",
+            "Elizabeth Olsen",
+            "Jack Huston",
+            "Jennifer Jason Leigh",
+            "Kyra Sedgwick",
+            "Michael C. Hall"
         ]
     },
     "All Is Lost (2013)": {
@@ -96441,6 +96499,7 @@ var movieMap = {
             "Dwayne Johnson",
             "Ian McShane",
             "Irina Shayk",
+            "Joe Anderson",
             "John Hurt",
             "Joseph Fiennes",
             "Rebecca Ferguson",
@@ -97443,6 +97502,18 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Daniel Radcliffe",
+            "David Morse",
+            "Heather Graham",
+            "James Remar",
+            "Joe Anderson",
+            "Juno Temple",
+            "Kathleen Quinlan",
+            "Kelli Garner",
+            "Max Minghella",
+            "Sabrina Carpenter"
         ]
     },
     "Nightcrawler (2014)": {
@@ -102932,6 +103003,20 @@ var movieMap = {
             "2010s",
             "Crime",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Ben Lamb",
+            "Daniel Radcliffe",
+            "Dave Franco",
+            "Jay Chou",
+            "Jesse Eisenberg",
+            "Lizzy Caplan",
+            "Mark Ruffalo",
+            "Michael Caine",
+            "Morgan Freeman",
+            "Sanaa Lathan",
+            "Tsai Chin",
+            "Woody Harrelson"
         ]
     },
     "The Conjuring 2 (2016)": {
@@ -103105,6 +103190,11 @@ var movieMap = {
         "categories": [
             "2010s",
             "A24"
+        ],
+        "cast": [
+            "Daniel Radcliffe",
+            "Mary Elizabeth Winstead",
+            "Paul Dano"
         ]
     },
     "The Fundamentals of Caring (2016)": {

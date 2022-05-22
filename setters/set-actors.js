@@ -1621,7 +1621,8 @@ var actorMap = {
         "movies": [
             "The Punisher (2004)",
             "X-Men: The Last Stand (2006)",
-            "30 Days of Night (2007)"
+            "30 Days of Night (2007)",
+            "Kill Your Darlings (2013)"
         ]
     },
     "Ben Hardy": {
@@ -1654,6 +1655,11 @@ var actorMap = {
             "Iron Man 3 (2013)",
             "The Jungle Book (2016)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
+        ]
+    },
+    "Ben Lamb": {
+        "movies": [
+            "Now You See Me 2 (2016)"
         ]
     },
     "Ben Mendelsohn": {
@@ -2329,6 +2335,7 @@ var actorMap = {
     },
     "Brendan Gleeson": {
         "movies": [
+            "The Tailor of Panama (2001)",
             "Troy (2004)",
             "Kingdom of Heaven (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
@@ -2684,6 +2691,11 @@ var actorMap = {
             "Bad Times at the El Royale (2018)"
         ]
     },
+    "Caitr\u00edona Balfe": {
+        "movies": [
+            "Now You See Me (2013)"
+        ]
+    },
     "Caleb Landry Jones": {
         "movies": [
             "X-Men: First Class (2011)",
@@ -2947,6 +2959,11 @@ var actorMap = {
         "movies": [
             "About Last Night (1986)",
             "Incredibles 2 (2018)"
+        ]
+    },
+    "Catherine McCormack": {
+        "movies": [
+            "The Tailor of Panama (2001)"
         ]
     },
     "Catherine Zeta-Jones": {
@@ -3547,6 +3564,7 @@ var actorMap = {
             "Road to Perdition (2002)",
             "The Tale of Despereaux (2008)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "The Woman in Black (2012)",
             "Ghost Rider: Spirit of Vengeance (2012)",
             "John Carter (2012)",
             "Justice League (2017)",
@@ -3565,6 +3583,11 @@ var actorMap = {
             "The Dark Knight Rises (2012)",
             "In the Heart of the Sea (2015)",
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Claire Bloom": {
+        "movies": [
+            "The King's Speech (2010)"
         ]
     },
     "Claire Forlani": {
@@ -3718,6 +3741,7 @@ var actorMap = {
         "movies": [
             "Shakespeare in Love (1998)",
             "Love Actually (2003)",
+            "The King's Speech (2010)",
             "Kingsman: The Secret Service (2015)",
             "Kingsman: The Golden Circle (2017)",
             "1917 (2019)"
@@ -3755,6 +3779,7 @@ var actorMap = {
             "Wanted (2008)",
             "New Year's Eve (2011)",
             "Movie 43 (2013)",
+            "Now You See Me (2013)",
             "Suicide Squad (2016)",
             "Ocean's 8 (2018)",
             "The Hate U Give (2018)",
@@ -3764,6 +3789,7 @@ var actorMap = {
     "Conan O'Brien": {
         "movies": [
             "Vanilla Sky (2001)",
+            "Now You See Me (2013)",
             "The Lego Batman Movie (2017)"
         ]
     },
@@ -3999,6 +4025,7 @@ var actorMap = {
     },
     "Dane DeHaan": {
         "movies": [
+            "Kill Your Darlings (2013)",
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
@@ -4100,6 +4127,7 @@ var actorMap = {
     },
     "Daniel Radcliffe": {
         "movies": [
+            "The Tailor of Panama (2001)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
@@ -4108,7 +4136,12 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
-            "Trainwreck (2015)"
+            "The Woman in Black (2012)",
+            "Kill Your Darlings (2013)",
+            "Horns (2014)",
+            "Trainwreck (2015)",
+            "Now You See Me 2 (2016)",
+            "Swiss Army Man (2016)"
         ]
     },
     "Daniel Roebuck": {
@@ -4230,6 +4263,12 @@ var actorMap = {
             "Sky High (2005)"
         ]
     },
+    "Dave Franco": {
+        "movies": [
+            "Now You See Me (2013)",
+            "Now You See Me 2 (2016)"
+        ]
+    },
     "Dave Thomas": {
         "movies": [
             "Stripes (1981)"
@@ -4278,6 +4317,7 @@ var actorMap = {
             "Men in Black II (2002)",
             "Kung Fu Panda (2008)",
             "Kung Fu Panda 2 (2011)",
+            "Kill Your Darlings (2013)",
             "Kung Fu Panda 3 (2016)"
         ]
     },
@@ -4344,6 +4384,11 @@ var actorMap = {
     "David Morrissey": {
         "movies": [
             "The Other Boleyn Girl (2008)"
+        ]
+    },
+    "David Morse": {
+        "movies": [
+            "Horns (2014)"
         ]
     },
     "David Moscow": {
@@ -4652,6 +4697,7 @@ var actorMap = {
     },
     "Derek Jacobi": {
         "movies": [
+            "The King's Speech (2010)",
             "My Week with Marilyn (2011)",
             "Cinderella (2015)",
             "Murder on the Orient Express (2017)"
@@ -5101,6 +5147,7 @@ var actorMap = {
     },
     "Dylan Baker": {
         "movies": [
+            "The Tailor of Panama (2001)",
             "Road to Perdition (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)"
@@ -5332,7 +5379,8 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles (1990)",
             "Teenage Mutant Ninja Turtles III (1993)",
             "Zodiac (2007)",
-            "The Curious Case of Benjamin Button (2008)"
+            "The Curious Case of Benjamin Button (2008)",
+            "Now You See Me (2013)"
         ]
     },
     "Elijah Kelley": {
@@ -5401,6 +5449,7 @@ var actorMap = {
     },
     "Elizabeth Olsen": {
         "movies": [
+            "Kill Your Darlings (2013)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)",
             "Captain America: Civil War (2016)",
@@ -6526,9 +6575,11 @@ var actorMap = {
         "movies": [
             "Shakespeare in Love (1998)",
             "Mystery Men (1999)",
+            "The Tailor of Panama (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "The King's Speech (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Green Lantern (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -6850,6 +6901,7 @@ var actorMap = {
     },
     "Guy Pearce": {
         "movies": [
+            "The King's Speech (2010)",
             "Iron Man 3 (2013)",
             "Bloodshot (2020)"
         ]
@@ -7138,7 +7190,8 @@ var actorMap = {
     },
     "Heather Graham": {
         "movies": [
-            "From Hell (2001)"
+            "From Hell (2001)",
+            "Horns (2014)"
         ]
     },
     "Heather Langenkamp": {
@@ -7235,6 +7288,7 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The King's Speech (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Dark Shadows (2012)",
             "Les Mis\u00e9rables (2012)",
@@ -7676,6 +7730,7 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)",
+            "Now You See Me (2013)",
             "The Brothers Grimsby (2016)"
         ]
     },
@@ -7772,6 +7827,11 @@ var actorMap = {
     "Jack Gleeson": {
         "movies": [
             "Batman Begins (2005)"
+        ]
+    },
+    "Jack Huston": {
+        "movies": [
+            "Kill Your Darlings (2013)"
         ]
     },
     "Jack Lemmon": {
@@ -8258,7 +8318,8 @@ var actorMap = {
     "James Remar": {
         "movies": [
             "Blade: Trinity (2004)",
-            "Red (2010)"
+            "Red (2010)",
+            "Horns (2014)"
         ]
     },
     "James Spader": {
@@ -8368,6 +8429,7 @@ var actorMap = {
     },
     "Jamie Lee Curtis": {
         "movies": [
+            "The Tailor of Panama (2001)",
             "You Again (2010)",
             "Knives Out (2019)"
         ]
@@ -8452,6 +8514,9 @@ var actorMap = {
                 "movie": "Albert Nobbs",
                 "year": "2011"
             }
+        ],
+        "movies": [
+            "The Woman in Black (2012)"
         ]
     },
     "Janina Gavankar": {
@@ -8641,7 +8706,8 @@ var actorMap = {
     },
     "Jay Chou": {
         "movies": [
-            "The Green Hornet (2011)"
+            "The Green Hornet (2011)",
+            "Now You See Me 2 (2016)"
         ]
     },
     "Jay Ellis": {
@@ -8831,6 +8897,7 @@ var actorMap = {
     },
     "Jennifer Ehle": {
         "movies": [
+            "The King's Speech (2010)",
             "Zero Dark Thirty (2012)",
             "RoboCop (2014)"
         ]
@@ -8876,6 +8943,7 @@ var actorMap = {
         ],
         "movies": [
             "Road to Perdition (2002)",
+            "Kill Your Darlings (2013)",
             "The Hateful Eight (2015)"
         ]
     },
@@ -9025,7 +9093,9 @@ var actorMap = {
         ],
         "movies": [
             "Zombieland (2009)",
+            "Now You See Me (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
+            "Now You See Me 2 (2016)",
             "Justice League (2017)",
             "Zombieland: Double Tap (2019)",
             "Zack Snyder's Justice League (2021)"
@@ -9425,6 +9495,12 @@ var actorMap = {
                 "movie": "Taxi Driver",
                 "year": "1976"
             }
+        ]
+    },
+    "Joe Anderson": {
+        "movies": [
+            "Hercules (2014)",
+            "Horns (2014)"
         ]
     },
     "Joe Cornish": {
@@ -9975,6 +10051,7 @@ var actorMap = {
     "Jon Polito": {
         "movies": [
             "The Crow (1994)",
+            "The Tailor of Panama (2001)",
             "View from the Top (2003)"
         ]
     },
@@ -10047,7 +10124,8 @@ var actorMap = {
     },
     "Jonathan Hyde": {
         "movies": [
-            "Jumanji (1995)"
+            "Jumanji (1995)",
+            "The Tailor of Panama (2001)"
         ]
     },
     "Jonathan Pryce": {
@@ -10547,7 +10625,8 @@ var actorMap = {
             "The Other Boleyn Girl (2008)",
             "The Three Musketeers (2011)",
             "The Dark Knight Rises (2012)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "Horns (2014)"
         ]
     },
     "Jurnee Smollett-Bell": {
@@ -10848,6 +10927,9 @@ var actorMap = {
                 "movie": "Apollo 13",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "Horns (2014)"
         ]
     },
     "Kathryn Hahn": {
@@ -10997,7 +11079,8 @@ var actorMap = {
     "Kelli Garner": {
         "movies": [
             "The Aviator (2004)",
-            "G-Force (2009)"
+            "G-Force (2009)",
+            "Horns (2014)"
         ]
     },
     "Kelly Macdonald": {
@@ -11461,6 +11544,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Kyra Sedgwick": {
+        "movies": [
+            "Kill Your Darlings (2013)"
+        ]
+    },
     "L. Scott Caldwell": {
         "movies": [
             "The Fugitive (1993)"
@@ -11846,6 +11934,12 @@ var actorMap = {
             "He's Just Not That into You (2009)"
         ]
     },
+    "Leonor Varela": {
+        "movies": [
+            "The Tailor of Panama (2001)",
+            "Blade II (2002)"
+        ]
+    },
     "Lesley Manville": {
         "suppNoms": [
             {
@@ -12074,6 +12168,16 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "The Incredible Hulk (2008)"
+        ]
+    },
+    "Liz White": {
+        "movies": [
+            "The Woman in Black (2012)"
+        ]
+    },
+    "Lizzy Caplan": {
+        "movies": [
+            "Now You See Me 2 (2016)"
         ]
     },
     "Logan Kim": {
@@ -12757,6 +12861,7 @@ var actorMap = {
     },
     "Mark Margolis": {
         "movies": [
+            "The Tailor of Panama (2001)",
             "Noah (2014)"
         ]
     },
@@ -12790,7 +12895,9 @@ var actorMap = {
             "Zodiac (2007)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
+            "Now You See Me (2013)",
             "Avengers: Age of Ultron (2015)",
+            "Now You See Me 2 (2016)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
             "Captain Marvel (2019)",
@@ -12931,7 +13038,8 @@ var actorMap = {
     "Martin Ferrero": {
         "movies": [
             "Jurassic Park (1993)",
-            "Gods and Monsters (1998)"
+            "Gods and Monsters (1998)",
+            "The Tailor of Panama (2001)"
         ]
     },
     "Martin Freeman": {
@@ -13028,6 +13136,7 @@ var actorMap = {
             "Sky High (2005)",
             "Scott Pilgrim vs. the World (2010)",
             "10 Cloverfield Lane (2016)",
+            "Swiss Army Man (2016)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
@@ -13247,6 +13356,11 @@ var actorMap = {
         "movies": [
             "What Men Want (2019)",
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Max Minghella": {
+        "movies": [
+            "Horns (2014)"
         ]
     },
     "Max von Sydow": {
@@ -13601,6 +13715,11 @@ var actorMap = {
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
+    "Michael C. Hall": {
+        "movies": [
+            "Kill Your Darlings (2013)"
+        ]
+    },
     "Michael Caine": {
         "leadNoms": [
             {
@@ -13635,7 +13754,9 @@ var actorMap = {
             "The Prestige (2006)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
-            "Kingsman: The Secret Service (2015)"
+            "Now You See Me (2013)",
+            "Kingsman: The Secret Service (2015)",
+            "Now You See Me 2 (2016)"
         ]
     },
     "Michael Cera": {
@@ -13742,6 +13863,7 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The King's Speech (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Kingsman: The Golden Circle (2017)"
         ]
@@ -13821,6 +13943,7 @@ var actorMap = {
     "Michael Kelly": {
         "movies": [
             "Unbreakable (2000)",
+            "Now You See Me (2013)",
             "Man of Steel (2013)"
         ]
     },
@@ -14280,7 +14403,9 @@ var actorMap = {
             "Conan the Barbarian (2011)",
             "The Dark Knight Rises (2012)",
             "Oblivion (2013)",
-            "The Lego Movie (2014)"
+            "Now You See Me (2013)",
+            "The Lego Movie (2014)",
+            "Now You See Me 2 (2016)"
         ]
     },
     "Morris Chestnut": {
@@ -14313,6 +14438,11 @@ var actorMap = {
         "movies": [
             "Forrest Gump (1994)",
             "Fences (2016)"
+        ]
+    },
+    "M\u00e9lanie Laurent": {
+        "movies": [
+            "Now You See Me (2013)"
         ]
     },
     "N'Bushe Wright": {
@@ -15149,7 +15279,8 @@ var actorMap = {
         "movies": [
             "Knight and Day (2010)",
             "Cowboys & Aliens (2011)",
-            "Prisoners (2013)"
+            "Prisoners (2013)",
+            "Swiss Army Man (2016)"
         ]
     },
     "Paul Dooley": {
@@ -15642,6 +15773,11 @@ var actorMap = {
     "Phoebe Waller-Bridge": {
         "movies": [
             "Solo: A Star Wars Story (2018)"
+        ]
+    },
+    "Pierce Brosnan": {
+        "movies": [
+            "The Tailor of Panama (2001)"
         ]
     },
     "Piper Laurie": {
@@ -16998,6 +17134,7 @@ var actorMap = {
     },
     "Sabrina Carpenter": {
         "movies": [
+            "Horns (2014)",
             "The Hate U Give (2018)"
         ]
     },
@@ -17255,7 +17392,8 @@ var actorMap = {
         "movies": [
             "Blade (1998)",
             "The Best Man (1999)",
-            "The Best Man Holiday (2013)"
+            "The Best Man Holiday (2013)",
+            "Now You See Me 2 (2016)"
         ]
     },
     "Sandra Bullock": {
@@ -18859,7 +18997,8 @@ var actorMap = {
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Alice in Wonderland (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The King's Speech (2010)"
         ]
     },
     "Timoth\u00e9e Chalamet": {
@@ -19342,6 +19481,7 @@ var actorMap = {
     "Tsai Chin": {
         "movies": [
             "The Joy Luck Club (1993)",
+            "Now You See Me 2 (2016)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
@@ -20138,6 +20278,8 @@ var actorMap = {
         ],
         "movies": [
             "Zombieland (2009)",
+            "Now You See Me (2013)",
+            "Now You See Me 2 (2016)",
             "Solo: A Star Wars Story (2018)",
             "Venom (2018)",
             "Zombieland: Double Tap (2019)",
