@@ -574,6 +574,11 @@ var actorMap = {
             "Thor: The Dark World (2013)"
         ]
     },
+    "Alicia Keys": {
+        "movies": [
+            "The Secret Life of Bees (2008)"
+        ]
+    },
     "Alicia Silverstone": {
         "movies": [
             "Batman & Robin (1997)",
@@ -590,7 +595,8 @@ var actorMap = {
     },
     "Alicia Witt": {
         "movies": [
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "Last Holiday (2006)"
         ]
     },
     "Alison Brie": {
@@ -2008,6 +2014,7 @@ var actorMap = {
     },
     "Blair Underwood": {
         "movies": [
+            "Set It Off (1996)",
             "Malibu's Most Wanted (2003)"
         ]
     },
@@ -3393,7 +3400,8 @@ var actorMap = {
     },
     "Christopher McDonald": {
         "movies": [
-            "Rumor Has It (2005)"
+            "Rumor Has It (2005)",
+            "Mad Money (2008)"
         ]
     },
     "Christopher Meloni": {
@@ -3858,6 +3866,7 @@ var actorMap = {
     "Dakota Fanning": {
         "movies": [
             "Sweet Home Alabama (2002)",
+            "The Secret Life of Bees (2008)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -4659,7 +4668,8 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "The First Wives Club (1996)",
-            "Something's Gotta Give (2003)"
+            "Something's Gotta Give (2003)",
+            "Mad Money (2008)"
         ]
     },
     "Diane Kruger": {
@@ -4952,6 +4962,11 @@ var actorMap = {
     "Dougray Scott": {
         "movies": [
             "My Week with Marilyn (2011)"
+        ]
+    },
+    "Dr. Dre": {
+        "movies": [
+            "Set It Off (1996)"
         ]
     },
     "Drake": {
@@ -5481,6 +5496,11 @@ var actorMap = {
     "Emerald Fennell": {
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Emeril Lagasse": {
+        "movies": [
+            "Last Holiday (2006)"
         ]
     },
     "Emilia Clarke": {
@@ -6561,6 +6581,7 @@ var actorMap = {
     },
     "Giancarlo Esposito": {
         "movies": [
+            "Last Holiday (2006)",
             "The Jungle Book (2016)"
         ]
     },
@@ -6797,6 +6818,9 @@ var actorMap = {
                 "movie": "Cyrano de Bergerac",
                 "year": "1990"
             }
+        ],
+        "movies": [
+            "Last Holiday (2006)"
         ]
     },
     "Hadley Robinson": {
@@ -7886,6 +7910,7 @@ var actorMap = {
     },
     "Jada Pinkett Smith": {
         "movies": [
+            "Set It Off (1996)",
             "Girls Trip (2017)"
         ]
     },
@@ -8760,6 +8785,9 @@ var actorMap = {
                 "movie": "Dreamgirls",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "The Secret Life of Bees (2008)"
         ]
     },
     "Jennifer Jason Leigh": {
@@ -9425,6 +9453,11 @@ var actorMap = {
             "The Circle (2017)",
             "Star Wars: The Last Jedi (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "John C. McGinley": {
+        "movies": [
+            "Set It Off (1996)"
         ]
     },
     "John C. Reilly": {
@@ -10752,6 +10785,7 @@ var actorMap = {
     "Katie Holmes": {
         "movies": [
             "Batman Begins (2005)",
+            "Mad Money (2008)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -11151,6 +11185,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Kimberly Elise": {
+        "movies": [
+            "Set It Off (1996)"
+        ]
+    },
     "Kimiko Glenn": {
         "movies": [
             "Spider-Man: Into the Spider-Verse (2018)"
@@ -11306,6 +11345,11 @@ var actorMap = {
     "L. Scott Caldwell": {
         "movies": [
             "The Fugitive (1993)"
+        ]
+    },
+    "LL Cool J": {
+        "movies": [
+            "Last Holiday (2006)"
         ]
     },
     "Lady Gaga": {
@@ -12963,6 +13007,11 @@ var actorMap = {
             "Missing Link (2019)"
         ]
     },
+    "Matt Ross": {
+        "movies": [
+            "Last Holiday (2006)"
+        ]
+    },
     "Matt Walsh": {
         "movies": [
             "Ted (2012)",
@@ -14233,6 +14282,11 @@ var actorMap = {
             "Wonder Woman 1984 (2020)"
         ]
     },
+    "Nate Parker": {
+        "movies": [
+            "The Secret Life of Bees (2008)"
+        ]
+    },
     "Nate Torrence": {
         "movies": [
             "Zootopia (2016)"
@@ -14916,6 +14970,7 @@ var actorMap = {
             "Wimbledon (2004)",
             "Firewall (2006)",
             "Iron Man (2008)",
+            "The Secret Life of Bees (2008)",
             "Iron Man 2 (2010)",
             "The Tourist (2010)",
             "Priest (2011)",
@@ -15463,9 +15518,13 @@ var actorMap = {
         ],
         "movies": [
             "Jungle Fever (1991)",
+            "Set It Off (1996)",
             "Chicago (2002)",
+            "Last Holiday (2006)",
             "Stranger than Fiction (2006)",
             "Hairspray (2007)",
+            "Mad Money (2008)",
+            "The Secret Life of Bees (2008)",
             "Valentine's Day (2010)",
             "Girls Trip (2017)"
         ]
@@ -16390,6 +16449,11 @@ var actorMap = {
             "300 (2007)",
             "300: Rise of an Empire (2014)",
             "Project Power (2020)"
+        ]
+    },
+    "Roger Cross": {
+        "movies": [
+            "Mad Money (2008)"
         ]
     },
     "Roman Griffin Davis": {
@@ -17506,6 +17570,11 @@ var actorMap = {
             "Star Trek Beyond (2016)"
         ]
     },
+    "Shondrella Avery": {
+        "movies": [
+            "The Secret Life of Bees (2008)"
+        ]
+    },
     "Sid Haig": {
         "movies": [
             "Bone Tomahawk (2015)"
@@ -17651,6 +17720,11 @@ var actorMap = {
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
+    "Smokey Robinson": {
+        "movies": [
+            "Last Holiday (2006)"
+        ]
+    },
     "Snoop Dogg": {
         "movies": [
             "Malibu's Most Wanted (2003)"
@@ -17708,6 +17782,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Secret Life of Bees (2008)",
             "Hellboy (2019)"
         ]
     },
@@ -17922,6 +17997,11 @@ var actorMap = {
         ],
         "movies": [
             "V for Vendetta (2006)"
+        ]
+    },
+    "Stephen Root": {
+        "movies": [
+            "Mad Money (2008)"
         ]
     },
     "Stephen Tobolowsky": {
@@ -18277,6 +18357,7 @@ var actorMap = {
     "Ted Danson": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "Mad Money (2008)",
             "Ted (2012)"
         ]
     },
@@ -18560,6 +18641,9 @@ var actorMap = {
                 "movie": "Ordinary People",
                 "year": "1980"
             }
+        ],
+        "movies": [
+            "Last Holiday (2006)"
         ]
     },
     "Timothy Olyphant": {
@@ -19401,6 +19485,7 @@ var actorMap = {
     },
     "Vivica A. Fox": {
         "movies": [
+            "Set It Off (1996)",
             "Batman & Robin (1997)"
         ]
     },

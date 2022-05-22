@@ -44677,6 +44677,15 @@ var movieMap = {
             "Crime",
             "Dramas",
             "Queen Latifah"
+        ],
+        "cast": [
+            "Blair Underwood",
+            "Dr. Dre",
+            "Jada Pinkett Smith",
+            "John C. McGinley",
+            "Kimberly Elise",
+            "Queen Latifah",
+            "Vivica A. Fox"
         ]
     },
     "Ransom (1996)": {
@@ -69894,6 +69903,17 @@ var movieMap = {
         "categories": [
             "2000s",
             "Queen Latifah"
+        ],
+        "cast": [
+            "Alicia Witt",
+            "Emeril Lagasse",
+            "G\u00e9rard Depardieu",
+            "Giancarlo Esposito",
+            "LL Cool J",
+            "Matt Ross",
+            "Queen Latifah",
+            "Smokey Robinson",
+            "Timothy Hutton"
         ]
     },
     "Underworld: Evolution (2006)": {
@@ -76377,6 +76397,15 @@ var movieMap = {
         "categories": [
             "2000s",
             "Queen Latifah"
+        ],
+        "cast": [
+            "Christopher McDonald",
+            "Diane Keaton",
+            "Katie Holmes",
+            "Queen Latifah",
+            "Roger Cross",
+            "Stephen Root",
+            "Ted Danson"
         ]
     },
     "Meet the Spartans (2008)": {
@@ -78608,6 +78637,16 @@ var movieMap = {
             "Black Cinema",
             "Musicians in Film",
             "Queen Latifah"
+        ],
+        "cast": [
+            "Alicia Keys",
+            "Dakota Fanning",
+            "Jennifer Hudson",
+            "Nate Parker",
+            "Paul Bettany",
+            "Queen Latifah",
+            "Shondrella Avery",
+            "Sophie Okonedo"
         ]
     },
     "W. (2008)": {
