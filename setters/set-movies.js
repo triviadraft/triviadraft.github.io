@@ -4990,6 +4990,11 @@ var movieMap = {
         "categories": [
             "1950s",
             "Classics"
+        ],
+        "cast": [
+            "Edmund Gwenn",
+            "James Whitmore",
+            "Leonard Nimoy"
         ]
     },
     "The Caine Mutiny (1954)": {
@@ -15741,6 +15746,17 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Brooke Adams",
+            "Don Siegel",
+            "Donald Sutherland",
+            "Jeff Goldblum",
+            "Kevin McCarthy",
+            "Leonard Nimoy",
+            "Philip Kaufman",
+            "Robert Duvall",
+            "Veronica Cartwright"
         ]
     },
     "Murder by Decree (1979)": {
@@ -24364,6 +24380,18 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro",
             "IG Animated"
+        ],
+        "cast": [
+            "Corey Burton",
+            "Eric Idle",
+            "Frank Welker",
+            "Judd Nelson",
+            "Leonard Nimoy",
+            "Norman Alden",
+            "Orson Welles",
+            "Peter Cullen",
+            "Robert Stack",
+            "Scatman Crothers"
         ]
     },
     "Armed and Dangerous (1986)": {
@@ -56093,6 +56121,20 @@ var movieMap = {
             "2000s",
             "Animated",
             "Disney"
+        ],
+        "cast": [
+            "Claudia Christian",
+            "Corey Burton",
+            "Cree Summer",
+            "David Ogden Stiers",
+            "Don Novello",
+            "Florence Stanley",
+            "Jacqueline Obradors",
+            "Jim Varney",
+            "John Mahoney",
+            "Leonard Nimoy",
+            "Michael J. Fox",
+            "Phil Morris"
         ]
     },
     "Lara Croft: Tomb Raider (2001)": {
@@ -66459,6 +66501,7 @@ var movieMap = {
             "Carl Reiner",
             "Casey Affleck",
             "Catherine Zeta-Jones",
+            "Cherry Jones",
             "Don Cheadle",
             "Eddie Izzard",
             "Eddie Jemison",
@@ -78107,6 +78150,7 @@ var movieMap = {
             "Anthony Daniels",
             "Ashley Eckstein",
             "Christopher Lee",
+            "Corey Burton",
             "Dee Bradley Baker",
             "Ian Abercrombie",
             "James Arnold Taylor",
@@ -80645,6 +80689,18 @@ var movieMap = {
         "categories": [
             "2000s",
             "Frat Pack"
+        ],
+        "cast": [
+            "Anna Friel",
+            "Bobb'e J. Thompson",
+            "Danny McBride",
+            "Jorma Taccone",
+            "Kiernan Shipka",
+            "Leonard Nimoy",
+            "Matt Lauer",
+            "Raymond Ochoa",
+            "Sierra McCormick",
+            "Will Ferrell"
         ]
     },
     "The Hangover (2009)": {
@@ -81594,6 +81650,22 @@ var movieMap = {
             "2000s",
             "Comedies",
             "Frat Pack"
+        ],
+        "cast": [
+            "Faizon Love",
+            "Jason Bateman",
+            "Jean Reno",
+            "John Michael Higgins",
+            "Jon Favreau",
+            "Kali Hawk",
+            "Ken Jeong",
+            "Kristen Bell",
+            "Kristin Davis",
+            "Malin \u00c5kerman",
+            "Peter Serafinowicz",
+            "Tasha Smith",
+            "Temuera Morrison",
+            "Vince Vaughn"
         ]
     },
     "An Education (2009)": {
@@ -86448,6 +86520,26 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Annie Mumolo",
+            "Ben Falcone",
+            "Chris O'Dowd",
+            "Ellie Kemper",
+            "Jill Clayburgh",
+            "Jillian Bell",
+            "Jon Hamm",
+            "Kristen Wiig",
+            "Matt Lucas",
+            "Maya Rudolph",
+            "Melissa McCarthy",
+            "Pat Carroll",
+            "Paul Feig",
+            "Rebel Wilson",
+            "Rose Byrne",
+            "Terry Crews",
+            "Tim Heidecker",
+            "Wendi McLendon-Covey"
         ]
     },
     "Priest (2011)": {
@@ -88399,6 +88491,7 @@ var movieMap = {
             "Ashton Kutcher",
             "Carla Gugino",
             "Cary Elwes",
+            "Cherry Jones",
             "Common",
             "Halle Berry",
             "H\u00e9ctor Elizondo",
@@ -112861,6 +112954,7 @@ var movieMap = {
             "Auli'i Cravalho",
             "Bill Hader",
             "Brad Garrett",
+            "Corey Burton",
             "Dianna Agron",
             "Ed O'Neill",
             "Flula Borg",
@@ -114723,6 +114817,18 @@ var movieMap = {
         "categories": [
             "2010s",
             "Streaming"
+        ],
+        "cast": [
+            "Amy Poehler",
+            "Ana Gasteyer",
+            "Cherry Jones",
+            "Emily Spivey",
+            "Jason Schwartzman",
+            "Maya Erskine",
+            "Maya Rudolph",
+            "Paula Pell",
+            "Rachel Dratch",
+            "Tina Fey"
         ]
     },
     "Pok\u00e9mon Detective Pikachu (2019)": {

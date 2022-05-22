@@ -745,7 +745,8 @@ var actorMap = {
     },
     "Amy Poehler": {
         "movies": [
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "Wine Country (2019)"
         ]
     },
     "Amy Ryan": {
@@ -771,6 +772,11 @@ var actorMap = {
     "Amy Yasbeck": {
         "movies": [
             "The Mask (1994)"
+        ]
+    },
+    "Ana Gasteyer": {
+        "movies": [
+            "Wine Country (2019)"
         ]
     },
     "Ana de Armas": {
@@ -1031,6 +1037,11 @@ var actorMap = {
             "Movie 43 (2013)"
         ]
     },
+    "Anna Friel": {
+        "movies": [
+            "Land of the Lost (2009)"
+        ]
+    },
     "Anna Hutchison": {
         "movies": [
             "The Cabin in the Woods (2012)"
@@ -1169,6 +1180,11 @@ var actorMap = {
     "Annie Burkin": {
         "movies": [
             "Men in Black: International (2019)"
+        ]
+    },
+    "Annie Mumolo": {
+        "movies": [
+            "Bridesmaids (2011)"
         ]
     },
     "Annie Potts": {
@@ -1615,6 +1631,11 @@ var actorMap = {
     "Ben Chaplin": {
         "movies": [
             "Cinderella (2015)"
+        ]
+    },
+    "Ben Falcone": {
+        "movies": [
+            "Bridesmaids (2011)"
         ]
     },
     "Ben Foster": {
@@ -2102,6 +2123,11 @@ var actorMap = {
             "Jurassic Park (1993)"
         ]
     },
+    "Bobb'e J. Thompson": {
+        "movies": [
+            "Land of the Lost (2009)"
+        ]
+    },
     "Bobby Cannavale": {
         "movies": [
             "Movie 43 (2013)",
@@ -2491,6 +2517,11 @@ var actorMap = {
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek VI: The Undiscovered Country (1991)",
             "Ghosts of Mississippi (1996)"
+        ]
+    },
+    "Brooke Adams": {
+        "movies": [
+            "Invasion of the Body Snatchers (1978)"
         ]
     },
     "Brooklynn Prince": {
@@ -3146,6 +3177,13 @@ var actorMap = {
             }
         ]
     },
+    "Cherry Jones": {
+        "movies": [
+            "Ocean's Twelve (2004)",
+            "New Year's Eve (2011)",
+            "Wine Country (2019)"
+        ]
+    },
     "Cheryl Hines": {
         "movies": [
             "Think Like a Man Too (2014)"
@@ -3305,6 +3343,7 @@ var actorMap = {
     },
     "Chris O'Dowd": {
         "movies": [
+            "Bridesmaids (2011)",
             "Thor: The Dark World (2013)"
         ]
     },
@@ -3623,6 +3662,11 @@ var actorMap = {
             "John Wick (2014)"
         ]
     },
+    "Claudia Christian": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
+        ]
+    },
     "Claudia Kim": {
         "movies": [
             "Avengers: Age of Ultron (2015)",
@@ -3821,6 +3865,14 @@ var actorMap = {
             "Galaxy Quest (1999)"
         ]
     },
+    "Corey Burton": {
+        "movies": [
+            "The Transformers: The Movie (1986)",
+            "Atlantis: The Lost Empire (2001)",
+            "Star Wars: The Clone Wars (2008)",
+            "Ralph Breaks the Internet (2018)"
+        ]
+    },
     "Corey Feldman": {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
@@ -3865,6 +3917,11 @@ var actorMap = {
             "Ghosts of Mississippi (1996)",
             "The Incredibles (2004)",
             "Incredibles 2 (2018)"
+        ]
+    },
+    "Cree Summer": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "Crispin Glover": {
@@ -4203,6 +4260,7 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Tropic Thunder (2008)",
+            "Land of the Lost (2009)",
             "Due Date (2010)",
             "Kung Fu Panda 2 (2011)",
             "This Is the End (2013)"
@@ -4394,6 +4452,11 @@ var actorMap = {
     "David Moscow": {
         "movies": [
             "Big (1988)"
+        ]
+    },
+    "David Ogden Stiers": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "David Oyelowo": {
@@ -5001,6 +5064,16 @@ var actorMap = {
             "Eternals (2021)"
         ]
     },
+    "Don Novello": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
+        ]
+    },
+    "Don Siegel": {
+        "movies": [
+            "Invasion of the Body Snatchers (1978)"
+        ]
+    },
     "Donal Logue": {
         "movies": [
             "Blade (1998)",
@@ -5019,6 +5092,11 @@ var actorMap = {
         "movies": [
             "Spider-Man: Homecoming (2017)",
             "Solo: A Star Wars Story (2018)"
+        ]
+    },
+    "Donald Sutherland": {
+        "movies": [
+            "Invasion of the Body Snatchers (1978)"
         ]
     },
     "Donna Dixon": {
@@ -5297,6 +5375,11 @@ var actorMap = {
             "Wreck-It Ralph (2012)"
         ]
     },
+    "Edmund Gwenn": {
+        "movies": [
+            "Them! (1954)"
+        ]
+    },
     "Edward Burns": {
         "movies": [
             "Saving Private Ryan (1998)",
@@ -5559,6 +5642,7 @@ var actorMap = {
     },
     "Ellie Kemper": {
         "movies": [
+            "Bridesmaids (2011)",
             "The Lego Batman Movie (2017)"
         ]
     },
@@ -5641,6 +5725,11 @@ var actorMap = {
     "Emily Ratajkowski": {
         "movies": [
             "I Feel Pretty (2018)"
+        ]
+    },
+    "Emily Spivey": {
+        "movies": [
+            "Wine Country (2019)"
         ]
     },
     "Emily VanCamp": {
@@ -5784,6 +5873,11 @@ var actorMap = {
         "movies": [
             "X-Men: The Last Stand (2006)",
             "Valentine's Day (2010)"
+        ]
+    },
+    "Eric Idle": {
+        "movies": [
+            "The Transformers: The Movie (1986)"
         ]
     },
     "Eric Roberts": {
@@ -5998,7 +6092,8 @@ var actorMap = {
     },
     "Faizon Love": {
         "movies": [
-            "Made (2001)"
+            "Made (2001)",
+            "Couples Retreat (2009)"
         ]
     },
     "Fala Chen": {
@@ -6092,6 +6187,11 @@ var actorMap = {
         "movies": [
             "Little Women (2019)",
             "Black Widow (2021)"
+        ]
+    },
+    "Florence Stanley": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "Florian Munteanu": {
@@ -6242,6 +6342,7 @@ var actorMap = {
     "Frank Welker": {
         "movies": [
             "Star Trek III: The Search for Spock (1984)",
+            "The Transformers: The Movie (1986)",
             "The Return of Swamp Thing (1989)",
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "The Pagemaster (1994)",
@@ -8039,7 +8140,8 @@ var actorMap = {
     },
     "Jacqueline Obradors": {
         "movies": [
-            "Six Days, Seven Nights (1998)"
+            "Six Days, Seven Nights (1998)",
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "Jada Pinkett Smith": {
@@ -8362,6 +8464,11 @@ var actorMap = {
             "Ready or Not (2019)"
         ]
     },
+    "James Whitmore": {
+        "movies": [
+            "Them! (1954)"
+        ]
+    },
     "James Woods": {
         "leadNoms": [
             {
@@ -8568,6 +8675,7 @@ var actorMap = {
         "movies": [
             "Juno (2007)",
             "Tropic Thunder (2008)",
+            "Couples Retreat (2009)",
             "Zootopia (2016)"
         ]
     },
@@ -8642,7 +8750,8 @@ var actorMap = {
     },
     "Jason Schwartzman": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Wine Country (2019)"
         ]
     },
     "Jason Segel": {
@@ -8746,6 +8855,11 @@ var actorMap = {
             }
         ]
     },
+    "Jean Reno": {
+        "movies": [
+            "Couples Retreat (2009)"
+        ]
+    },
     "Jean Smart": {
         "movies": [
             "Sweet Home Alabama (2002)"
@@ -8817,6 +8931,7 @@ var actorMap = {
     "Jeff Goldblum": {
         "movies": [
             "Annie Hall (1977)",
+            "Invasion of the Body Snatchers (1978)",
             "Jurassic Park (1993)",
             "The Lost World: Jurassic Park (1997)",
             "The Prince of Egypt (1998)",
@@ -9244,6 +9359,16 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Jill Clayburgh": {
+        "movies": [
+            "Bridesmaids (2011)"
+        ]
+    },
+    "Jillian Bell": {
+        "movies": [
+            "Bridesmaids (2011)"
+        ]
+    },
     "Jim Belushi": {
         "movies": [
             "About Last Night (1986)",
@@ -9307,6 +9432,11 @@ var actorMap = {
     "Jim Sturgess": {
         "movies": [
             "The Other Boleyn Girl (2008)"
+        ]
+    },
+    "Jim Varney": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "Jimmi Simpson": {
@@ -9794,7 +9924,8 @@ var actorMap = {
     },
     "John Mahoney": {
         "movies": [
-            "Primal Fear (1996)"
+            "Primal Fear (1996)",
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "John Malkovich": {
@@ -9819,6 +9950,7 @@ var actorMap = {
     "John Michael Higgins": {
         "movies": [
             "Blade: Trinity (2004)",
+            "Couples Retreat (2009)",
             "The Best Man Holiday (2013)"
         ]
     },
@@ -10016,6 +10148,7 @@ var actorMap = {
             "Four Christmases (2008)",
             "I Love You, Man (2009)",
             "G-Force (2009)",
+            "Couples Retreat (2009)",
             "Iron Man 2 (2010)",
             "John Carter (2012)",
             "Iron Man 3 (2013)",
@@ -10030,6 +10163,7 @@ var actorMap = {
     },
     "Jon Hamm": {
         "movies": [
+            "Bridesmaids (2011)",
             "Bad Times at the El Royale (2018)"
         ]
     },
@@ -10173,6 +10307,7 @@ var actorMap = {
     "Jorma Taccone": {
         "movies": [
             "Hot Rod (2007)",
+            "Land of the Lost (2009)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
@@ -10288,6 +10423,7 @@ var actorMap = {
     "Judd Nelson": {
         "movies": [
             "The Breakfast Club (1985)",
+            "The Transformers: The Movie (1986)",
             "Steel (1997)"
         ]
     },
@@ -10676,6 +10812,11 @@ var actorMap = {
             "Malibu's Most Wanted (2003)",
             "Son of the Mask (2005)",
             "Superman Returns (2006)"
+        ]
+    },
+    "Kali Hawk": {
+        "movies": [
+            "Couples Retreat (2009)"
         ]
     },
     "Kara Hayward": {
@@ -11132,6 +11273,7 @@ var actorMap = {
     "Ken Jeong": {
         "movies": [
             "Knocked Up (2007)",
+            "Couples Retreat (2009)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -11291,6 +11433,11 @@ var actorMap = {
             "Beauty and the Beast (2017)"
         ]
     },
+    "Kevin McCarthy": {
+        "movies": [
+            "Invasion of the Body Snatchers (1978)"
+        ]
+    },
     "Kevin McDonald": {
         "movies": [
             "Sky High (2005)"
@@ -11358,6 +11505,11 @@ var actorMap = {
         "movies": [
             "Scott Pilgrim vs. the World (2010)",
             "Movie 43 (2013)"
+        ]
+    },
+    "Kiernan Shipka": {
+        "movies": [
+            "Land of the Lost (2009)"
         ]
     },
     "Kiersey Clemons": {
@@ -11467,6 +11619,7 @@ var actorMap = {
     },
     "Kristen Bell": {
         "movies": [
+            "Couples Retreat (2009)",
             "You Again (2010)",
             "Movie 43 (2013)",
             "Zootopia (2016)",
@@ -11495,6 +11648,7 @@ var actorMap = {
     "Kristen Wiig": {
         "movies": [
             "Knocked Up (2007)",
+            "Bridesmaids (2011)",
             "Wonder Woman 1984 (2020)"
         ]
     },
@@ -11504,6 +11658,11 @@ var actorMap = {
             "Four Christmases (2008)",
             "You Again (2010)",
             "Strange Magic (2015)"
+        ]
+    },
+    "Kristin Davis": {
+        "movies": [
+            "Couples Retreat (2009)"
         ]
     },
     "Kristin Scott Thomas": {
@@ -11878,14 +12037,19 @@ var actorMap = {
     },
     "Leonard Nimoy": {
         "movies": [
+            "Them! (1954)",
+            "Invasion of the Body Snatchers (1978)",
             "Star Trek: The Motion Picture (1979)",
             "Star Trek II: The Wrath of Khan (1982)",
             "Star Trek III: The Search for Spock (1984)",
+            "The Transformers: The Movie (1986)",
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)",
             "The Pagemaster (1994)",
+            "Atlantis: The Lost Empire (2001)",
             "Star Trek (2009)",
+            "Land of the Lost (2009)",
             "Star Trek Into Darkness (2013)"
         ]
     },
@@ -12601,7 +12765,8 @@ var actorMap = {
     },
     "Malin \u00c5kerman": {
         "movies": [
-            "Watchmen (2009)"
+            "Watchmen (2009)",
+            "Couples Retreat (2009)"
         ]
     },
     "Mamoudou Athie": {
@@ -13243,6 +13408,11 @@ var actorMap = {
             "Star Wars: The Clone Wars (2008)"
         ]
     },
+    "Matt Lauer": {
+        "movies": [
+            "Land of the Lost (2009)"
+        ]
+    },
     "Matt Long": {
         "movies": [
             "Ghost Rider (2007)"
@@ -13251,6 +13421,7 @@ var actorMap = {
     "Matt Lucas": {
         "movies": [
             "Alice in Wonderland (2010)",
+            "Bridesmaids (2011)",
             "Polar (2019)",
             "Missing Link (2019)"
         ]
@@ -13385,11 +13556,18 @@ var actorMap = {
             "Thor (2011)"
         ]
     },
+    "Maya Erskine": {
+        "movies": [
+            "Wine Country (2019)"
+        ]
+    },
     "Maya Rudolph": {
         "movies": [
+            "Bridesmaids (2011)",
             "Big Hero 6 (2014)",
             "Strange Magic (2015)",
-            "The Lego Movie 2: The Second Part (2019)"
+            "The Lego Movie 2: The Second Part (2019)",
+            "Wine Country (2019)"
         ]
     },
     "Mckenna Grace": {
@@ -13515,6 +13693,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bridesmaids (2011)",
             "The Kitchen (2019)"
         ]
     },
@@ -13903,6 +14082,11 @@ var actorMap = {
     "Michael Ironside": {
         "movies": [
             "Heavy Metal 2000 (2000)"
+        ]
+    },
+    "Michael J. Fox": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
         ]
     },
     "Michael Jackson": {
@@ -14886,6 +15070,11 @@ var actorMap = {
             }
         ]
     },
+    "Norman Alden": {
+        "movies": [
+            "The Transformers: The Movie (1986)"
+        ]
+    },
     "Norman Bird": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -15089,6 +15278,9 @@ var actorMap = {
                 "movie": "Citizen Kane",
                 "year": "1941"
             }
+        ],
+        "movies": [
+            "The Transformers: The Movie (1986)"
         ]
     },
     "Oscar Isaac": {
@@ -15162,6 +15354,11 @@ var actorMap = {
             "Dazed and Confused (1993)",
             "Blade: Trinity (2004)",
             "Superman Returns (2006)"
+        ]
+    },
+    "Pat Carroll": {
+        "movies": [
+            "Bridesmaids (2011)"
         ]
     },
     "Pat Hingle": {
@@ -15286,6 +15483,11 @@ var actorMap = {
     "Paul Dooley": {
         "movies": [
             "Hairspray (2007)"
+        ]
+    },
+    "Paul Feig": {
+        "movies": [
+            "Bridesmaids (2011)"
         ]
     },
     "Paul Giamatti": {
@@ -15447,6 +15649,11 @@ var actorMap = {
             "About Last Night (2014)"
         ]
     },
+    "Paula Pell": {
+        "movies": [
+            "Wine Country (2019)"
+        ]
+    },
     "Pauline Collins": {
         "leadNoms": [
             {
@@ -15568,6 +15775,11 @@ var actorMap = {
     "Peter Capaldi": {
         "movies": [
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Peter Cullen": {
+        "movies": [
+            "The Transformers: The Movie (1986)"
         ]
     },
     "Peter Cushing": {
@@ -15696,6 +15908,7 @@ var actorMap = {
     "Peter Serafinowicz": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Couples Retreat (2009)",
             "Guardians of the Galaxy (2014)",
             "Last Christmas (2019)"
         ]
@@ -15739,9 +15952,19 @@ var actorMap = {
             "The Pagemaster (1994)"
         ]
     },
+    "Phil Morris": {
+        "movies": [
+            "Atlantis: The Lost Empire (2001)"
+        ]
+    },
     "Philip Baker Hall": {
         "movies": [
             "Zodiac (2007)"
+        ]
+    },
+    "Philip Kaufman": {
+        "movies": [
+            "Invasion of the Body Snatchers (1978)"
         ]
     },
     "Philip Seymour Hoffman": {
@@ -15869,7 +16092,8 @@ var actorMap = {
     },
     "Rachel Dratch": {
         "movies": [
-            "Little (2019)"
+            "Little (2019)",
+            "Wine Country (2019)"
         ]
     },
     "Rachel Griffiths": {
@@ -16065,6 +16289,11 @@ var actorMap = {
             "Swamp Thing (1982)"
         ]
     },
+    "Raymond Ochoa": {
+        "movies": [
+            "Land of the Lost (2009)"
+        ]
+    },
     "Reba McEntire": {
         "movies": [
             "North (1994)"
@@ -16097,6 +16326,7 @@ var actorMap = {
     "Rebel Wilson": {
         "movies": [
             "Ghost Rider (2007)",
+            "Bridesmaids (2011)",
             "The Brothers Grimsby (2016)",
             "Jojo Rabbit (2019)"
         ]
@@ -16636,6 +16866,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Invasion of the Body Snatchers (1978)",
             "Four Christmases (2008)",
             "Widows (2018)"
         ]
@@ -16701,6 +16932,11 @@ var actorMap = {
         "movies": [
             "Sin City (2005)",
             "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
+    "Robert Stack": {
+        "movies": [
+            "The Transformers: The Movie (1986)"
         ]
     },
     "Robert Vaughn": {
@@ -16894,6 +17130,7 @@ var actorMap = {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Troy (2004)",
+            "Bridesmaids (2011)",
             "X-Men: First Class (2011)",
             "X-Men: Apocalypse (2016)"
         ]
@@ -17541,6 +17778,11 @@ var actorMap = {
             "Black Widow (2021)"
         ]
     },
+    "Scatman Crothers": {
+        "movies": [
+            "The Transformers: The Movie (1986)"
+        ]
+    },
     "Scoot McNairy": {
         "movies": [
             "Batman v Superman: Dawn of Justice (2016)",
@@ -17930,6 +18172,11 @@ var actorMap = {
     "Sienna Miller": {
         "movies": [
             "21 Bridges (2019)"
+        ]
+    },
+    "Sierra McCormick": {
+        "movies": [
+            "Land of the Lost (2009)"
         ]
     },
     "Sigourney Weaver": {
@@ -18654,7 +18901,8 @@ var actorMap = {
     },
     "Tasha Smith": {
         "movies": [
-            "Daddy's Little Girls (2007)"
+            "Daddy's Little Girls (2007)",
+            "Couples Retreat (2009)"
         ]
     },
     "Taye Diggs": {
@@ -18701,6 +18949,7 @@ var actorMap = {
             "Six Days, Seven Nights (1998)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Couples Retreat (2009)",
             "Green Lantern (2011)",
             "Aquaman (2018)"
         ]
@@ -18751,6 +19000,7 @@ var actorMap = {
     "Terry Crews": {
         "movies": [
             "Malibu's Most Wanted (2003)",
+            "Bridesmaids (2011)",
             "Deadpool 2 (2018)"
         ]
     },
@@ -18920,6 +19170,7 @@ var actorMap = {
     },
     "Tim Heidecker": {
         "movies": [
+            "Bridesmaids (2011)",
             "Fantastic Four (2015)",
             "Ant-Man and the Wasp (2018)",
             "Us (2019)"
@@ -19011,6 +19262,11 @@ var actorMap = {
         "movies": [
             "Little Women (2019)",
             "Don't Look Up (2021)"
+        ]
+    },
+    "Tina Fey": {
+        "movies": [
+            "Wine Country (2019)"
         ]
     },
     "Tina Turner": {
@@ -19672,6 +19928,7 @@ var actorMap = {
     },
     "Veronica Cartwright": {
         "movies": [
+            "Invasion of the Body Snatchers (1978)",
             "Alien (1979)"
         ]
     },
@@ -19730,7 +19987,8 @@ var actorMap = {
         "movies": [
             "The Lost World: Jurassic Park (1997)",
             "Made (2001)",
-            "Four Christmases (2008)"
+            "Four Christmases (2008)",
+            "Couples Retreat (2009)"
         ]
     },
     "Vincent Cassel": {
@@ -19944,6 +20202,7 @@ var actorMap = {
     },
     "Wendi McLendon-Covey": {
         "movies": [
+            "Bridesmaids (2011)",
             "Think Like a Man Too (2014)",
             "What Men Want (2019)"
         ]
@@ -20020,6 +20279,7 @@ var actorMap = {
     "Will Ferrell": {
         "movies": [
             "Stranger than Fiction (2006)",
+            "Land of the Lost (2009)",
             "The Lego Movie (2014)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
