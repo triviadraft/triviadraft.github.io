@@ -69824,6 +69824,19 @@ var movieMap = {
             "Action/Adventure",
             "Frat Pack",
             "Monster"
+        ],
+        "cast": [
+            "Adrien Brody",
+            "Andy Serkis",
+            "Colin Hanks",
+            "Frank Darabont",
+            "Howard Shore",
+            "Jack Black",
+            "Jamie Bell",
+            "Kyle Chandler",
+            "Naomi Watts",
+            "Peter Jackson",
+            "Thomas Kretschmann"
         ]
     },
     "Hoodwinked! (2005)": {
@@ -79790,6 +79803,18 @@ var movieMap = {
             "2000s",
             "Fantasy/Sci-Fi",
             "Jennifer Connelly"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Brendan Fraser",
+            "Eliza Bennett",
+            "Helen Mirren",
+            "Jennifer Connelly",
+            "Jim Broadbent",
+            "Paul Bettany",
+            "Rafi Gavron",
+            "Sienna Guillory",
+            "Stephen Graham"
         ]
     },
     "Underworld: Rise of the Lycans (2009)": {
@@ -93511,6 +93536,19 @@ var movieMap = {
         "categories": [
             "2010s",
             "Cate Blanchett"
+        ],
+        "cast": [
+            "Alden Ehrenreich",
+            "Alec Baldwin",
+            "Andrew Dice Clay",
+            "Bobby Cannavale",
+            "Cate Blanchett",
+            "Charlie Tahan",
+            "Louis C.K.",
+            "Michael Stuhlbarg",
+            "Peter Sarsgaard",
+            "Sally Hawkins",
+            "Tammy Blanchard"
         ]
     },
     "The Wolverine (2013)": {
@@ -101039,6 +101077,13 @@ var movieMap = {
             "Dramas",
             "LGBTQ Cinema",
             "Romance"
+        ],
+        "cast": [
+            "Cate Blanchett",
+            "Jake Lacy",
+            "Kyle Chandler",
+            "Rooney Mara",
+            "Sarah Paulson"
         ]
     },
     "Legend (2015)": {
@@ -113155,6 +113200,20 @@ var movieMap = {
             "2010s",
             "Cate Blanchett",
             "Streaming"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Benedict Cumberbatch",
+            "Cate Blanchett",
+            "Christian Bale",
+            "Eddie Marsan",
+            "Freida Pinto",
+            "Jack Reynor",
+            "Louis Ashbourne Serkis",
+            "Matthew Rhys",
+            "Naomie Harris",
+            "Rohan Chand",
+            "Tom Hollander"
         ]
     },
     "A Christmas Prince: The Royal Wedding (2018)": {

@@ -190,6 +190,9 @@ var actorMap = {
                 "movie": "The Pianist",
                 "year": "2002"
             }
+        ],
+        "movies": [
+            "King Kong (2005)"
         ]
     },
     "Adrienne Barbeau": {
@@ -429,6 +432,7 @@ var actorMap = {
     },
     "Alden Ehrenreich": {
         "movies": [
+            "Blue Jasmine (2013)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -448,7 +452,8 @@ var actorMap = {
         "movies": [
             "Ghosts of Mississippi (1996)",
             "The Aviator (2004)",
-            "Elizabethtown (2005)"
+            "Elizabethtown (2005)",
+            "Blue Jasmine (2013)"
         ]
     },
     "Alec Guinness": {
@@ -829,6 +834,11 @@ var actorMap = {
             "Batman Returns (1992)"
         ]
     },
+    "Andrew Dice Clay": {
+        "movies": [
+            "Blue Jasmine (2013)"
+        ]
+    },
     "Andrew Garfield": {
         "leadNoms": [
             {
@@ -905,13 +915,16 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "13 Going on 30 (2004)",
+            "King Kong (2005)",
             "The Prestige (2006)",
+            "Inkheart (2009)",
             "The Adventures of Tintin (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
             "Avengers: Age of Ultron (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
             "Black Panther (2018)",
+            "Mowgli: Legend of the Jungle (2018)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -1744,6 +1757,7 @@ var actorMap = {
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
             "The Grinch (2018)",
+            "Mowgli: Legend of the Jungle (2018)",
             "Avengers: Endgame (2019)",
             "1917 (2019)",
             "The Power of the Dog (2021)",
@@ -2145,6 +2159,7 @@ var actorMap = {
     "Bobby Cannavale": {
         "movies": [
             "Movie 43 (2013)",
+            "Blue Jasmine (2013)",
             "Chef (2014)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)"
@@ -2370,7 +2385,8 @@ var actorMap = {
     "Brendan Fraser": {
         "movies": [
             "Gods and Monsters (1998)",
-            "Crash (2005)"
+            "Crash (2005)",
+            "Inkheart (2009)"
         ]
     },
     "Brendan Gleeson": {
@@ -2979,11 +2995,14 @@ var actorMap = {
             "The Aviator (2004)",
             "The Curious Case of Benjamin Button (2008)",
             "The Hobbit: An Unexpected Journey (2012)",
+            "Blue Jasmine (2013)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
             "Cinderella (2015)",
+            "Carol (2015)",
             "Thor: Ragnarok (2017)",
             "Ocean's 8 (2018)",
+            "Mowgli: Legend of the Jungle (2018)",
             "Don't Look Up (2021)",
             "Nightmare Alley (2021)"
         ]
@@ -3138,6 +3157,11 @@ var actorMap = {
     "Charlie Sheen": {
         "movies": [
             "Due Date (2010)"
+        ]
+    },
+    "Charlie Tahan": {
+        "movies": [
+            "Blue Jasmine (2013)"
         ]
     },
     "Charlize Theron": {
@@ -3475,7 +3499,8 @@ var actorMap = {
             "Batman Begins (2005)",
             "The Prestige (2006)",
             "The Dark Knight (2008)",
-            "The Dark Knight Rises (2012)"
+            "The Dark Knight Rises (2012)",
+            "Mowgli: Legend of the Jungle (2018)"
         ]
     },
     "Christian Slater": {
@@ -3834,6 +3859,11 @@ var actorMap = {
             "Kingsman: The Secret Service (2015)",
             "Kingsman: The Golden Circle (2017)",
             "1917 (2019)"
+        ]
+    },
+    "Colin Hanks": {
+        "movies": [
+            "King Kong (2005)"
         ]
     },
     "Colin Quinn": {
@@ -5376,7 +5406,8 @@ var actorMap = {
         "movies": [
             "V for Vendetta (2006)",
             "Atomic Blonde (2017)",
-            "Deadpool 2 (2018)"
+            "Deadpool 2 (2018)",
+            "Mowgli: Legend of the Jungle (2018)"
         ]
     },
     "Eddie Murphy": {
@@ -5549,6 +5580,11 @@ var actorMap = {
         "movies": [
             "Hustle & Flow (2005)",
             "Logan (2017)"
+        ]
+    },
+    "Eliza Bennett": {
+        "movies": [
+            "Inkheart (2009)"
         ]
     },
     "Eliza Scanlen": {
@@ -6339,6 +6375,11 @@ var actorMap = {
             "Dolittle (2020)"
         ]
     },
+    "Frank Darabont": {
+        "movies": [
+            "King Kong (2005)"
+        ]
+    },
     "Frank Gorshin": {
         "movies": [
             "Batman (1966)"
@@ -6448,6 +6489,11 @@ var actorMap = {
             "Men in Black (1997)",
             "Zero Dark Thirty (2012)",
             "The Greatest Showman (2017)"
+        ]
+    },
+    "Freida Pinto": {
+        "movies": [
+            "Mowgli: Legend of the Jungle (2018)"
         ]
     },
     "Gabourey Sidibe": {
@@ -7413,6 +7459,7 @@ var actorMap = {
         "movies": [
             "The Prince of Egypt (1998)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
+            "Inkheart (2009)",
             "Red (2010)",
             "Red 2 (2013)"
         ]
@@ -7557,6 +7604,11 @@ var actorMap = {
     "Horatio Sanz": {
         "movies": [
             "Wreck-It Ralph (2012)"
+        ]
+    },
+    "Howard Shore": {
+        "movies": [
+            "King Kong (2005)"
         ]
     },
     "Hugh Dancy": {
@@ -7960,6 +8012,7 @@ var actorMap = {
     "Jack Black": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)",
+            "King Kong (2005)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
             "Tropic Thunder (2008)",
@@ -8123,6 +8176,11 @@ var actorMap = {
             "Batman (1989)"
         ]
     },
+    "Jack Reynor": {
+        "movies": [
+            "Mowgli: Legend of the Jungle (2018)"
+        ]
+    },
     "Jack Whitehall": {
         "movies": [
             "Mother's Day (2016)"
@@ -8267,6 +8325,11 @@ var actorMap = {
     "Jake Johnson": {
         "movies": [
             "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
+    "Jake Lacy": {
+        "movies": [
+            "Carol (2015)"
         ]
     },
     "Jake Lloyd": {
@@ -8547,6 +8610,7 @@ var actorMap = {
     },
     "Jamie Bell": {
         "movies": [
+            "King Kong (2005)",
             "The Adventures of Tintin (2011)",
             "Fantastic Four (2015)"
         ]
@@ -9062,6 +9126,7 @@ var actorMap = {
         ],
         "movies": [
             "Hulk (2003)",
+            "Inkheart (2009)",
             "He's Just Not That into You (2009)",
             "Noah (2014)",
             "Spider-Man: Homecoming (2017)"
@@ -9451,6 +9516,7 @@ var actorMap = {
             "Superman IV: The Quest for Peace (1987)",
             "Robots (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Inkheart (2009)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
@@ -11772,7 +11838,9 @@ var actorMap = {
     },
     "Kyle Chandler": {
         "movies": [
-            "Zero Dark Thirty (2012)"
+            "King Kong (2005)",
+            "Zero Dark Thirty (2012)",
+            "Carol (2015)"
         ]
     },
     "Kylie Jenner": {
@@ -12486,7 +12554,13 @@ var actorMap = {
     },
     "Louis Ashbourne Serkis": {
         "movies": [
+            "Mowgli: Legend of the Jungle (2018)",
             "The Kid Who Would Be King (2019)"
+        ]
+    },
+    "Louis C.K.": {
+        "movies": [
+            "Blue Jasmine (2013)"
         ]
     },
     "Louis Gossett Jr.": {
@@ -13585,6 +13659,11 @@ var actorMap = {
             "The Dark Knight Rises (2012)"
         ]
     },
+    "Matthew Rhys": {
+        "movies": [
+            "Mowgli: Legend of the Jungle (2018)"
+        ]
+    },
     "Matthew Wood": {
         "movies": [
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
@@ -14328,6 +14407,7 @@ var actorMap = {
     "Michael Stuhlbarg": {
         "movies": [
             "Men in Black 3 (2012)",
+            "Blue Jasmine (2013)",
             "Doctor Strange (2016)"
         ]
     },
@@ -14764,6 +14844,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "King Kong (2005)",
             "The Impossible (2012)",
             "Movie 43 (2013)",
             "The Book of Henry (2017)"
@@ -14779,6 +14860,7 @@ var actorMap = {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "Mowgli: Legend of the Jungle (2018)",
             "Venom: Let There Be Carnage (2021)"
         ]
     },
@@ -15569,6 +15651,7 @@ var actorMap = {
             "Firewall (2006)",
             "Iron Man (2008)",
             "The Secret Life of Bees (2008)",
+            "Inkheart (2009)",
             "Iron Man 2 (2010)",
             "The Tourist (2010)",
             "Priest (2011)",
@@ -15937,6 +16020,7 @@ var actorMap = {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "King Kong (2005)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)"
         ]
@@ -16015,7 +16099,8 @@ var actorMap = {
     "Peter Sarsgaard": {
         "movies": [
             "Knight and Day (2010)",
-            "Green Lantern (2011)"
+            "Green Lantern (2011)",
+            "Blue Jasmine (2013)"
         ]
     },
     "Peter Serafinowicz": {
@@ -16267,6 +16352,11 @@ var actorMap = {
     "Rafe Spall": {
         "movies": [
             "Men in Black: International (2019)"
+        ]
+    },
+    "Rafi Gavron": {
+        "movies": [
+            "Inkheart (2009)"
         ]
     },
     "Rainn Wilson": {
@@ -17135,6 +17225,11 @@ var actorMap = {
             "Mad Money (2008)"
         ]
     },
+    "Rohan Chand": {
+        "movies": [
+            "Mowgli: Legend of the Jungle (2018)"
+        ]
+    },
     "Roman Griffin Davis": {
         "movies": [
             "Jojo Rabbit (2019)"
@@ -17192,6 +17287,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Carol (2015)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -17549,7 +17645,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
+            "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Blue Jasmine (2013)"
         ]
     },
     "Sally Kirkland": {
@@ -17826,6 +17923,7 @@ var actorMap = {
         "movies": [
             "The Spirit (2008)",
             "New Year's Eve (2011)",
+            "Carol (2015)",
             "Ocean's 8 (2018)",
             "Glass (2019)"
         ]
@@ -18285,7 +18383,8 @@ var actorMap = {
     },
     "Sienna Guillory": {
         "movies": [
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "Inkheart (2009)"
         ]
     },
     "Sienna Miller": {
@@ -18656,6 +18755,7 @@ var actorMap = {
     },
     "Stephen Graham": {
         "movies": [
+            "Inkheart (2009)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
             "Hellboy (2019)",
@@ -18977,6 +19077,7 @@ var actorMap = {
     },
     "Tammy Blanchard": {
         "movies": [
+            "Blue Jasmine (2013)",
             "Into the Woods (2014)"
         ]
     },
@@ -19201,6 +19302,7 @@ var actorMap = {
     "Thomas Kretschmann": {
         "movies": [
             "Blade II (2002)",
+            "King Kong (2005)",
             "Wanted (2008)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)"
@@ -19591,6 +19693,7 @@ var actorMap = {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "Mowgli: Legend of the Jungle (2018)",
             "The King's Man (2021)"
         ]
     },
