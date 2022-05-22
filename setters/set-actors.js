@@ -274,6 +274,7 @@ var actorMap = {
         "movies": [
             "Robots (2005)",
             "Kung Fu Panda 3 (2016)",
+            "Ghostbusters (2016)",
             "Zombieland: Double Tap (2019)"
         ]
     },
@@ -882,7 +883,8 @@ var actorMap = {
         "movies": [
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
-            "Ocean's Thirteen (2007)"
+            "Ocean's Thirteen (2007)",
+            "Ghostbusters (2016)"
         ]
     },
     "Andy Muschietti": {
@@ -1189,7 +1191,10 @@ var actorMap = {
     },
     "Annie Potts": {
         "movies": [
+            "Ghostbusters (1984)",
             "Jumpin' Jack Flash (1986)",
+            "Ghostbusters II (1989)",
+            "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -1699,6 +1704,7 @@ var actorMap = {
     },
     "Ben Stein": {
         "movies": [
+            "Ghostbusters II (1989)",
             "North (1994)",
             "The Mask (1994)",
             "Son of the Mask (2005)"
@@ -1929,9 +1935,12 @@ var actorMap = {
         ],
         "movies": [
             "Stripes (1981)",
+            "Ghostbusters (1984)",
+            "Ghostbusters II (1989)",
             "Space Jam (1996)",
             "Zombieland (2009)",
             "The Jungle Book (2016)",
+            "Ghostbusters (2016)",
             "Zombieland: Double Tap (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -2126,6 +2135,11 @@ var actorMap = {
     "Bobb'e J. Thompson": {
         "movies": [
             "Land of the Lost (2009)"
+        ]
+    },
+    "Bobby Brown": {
+        "movies": [
+            "Ghostbusters II (1989)"
         ]
     },
     "Bobby Cannavale": {
@@ -2420,6 +2434,11 @@ var actorMap = {
             "Zodiac (2007)",
             "Red (2010)",
             "Red 2 (2013)"
+        ]
+    },
+    "Brian Doyle-Murray": {
+        "movies": [
+            "Ghostbusters II (1989)"
         ]
     },
     "Brian J. White": {
@@ -2786,6 +2805,12 @@ var actorMap = {
             "Suicide Squad (2016)"
         ]
     },
+    "Carel Struycken": {
+        "movies": [
+            "The Witches of Eastwick (1987)",
+            "Men in Black (1997)"
+        ]
+    },
     "Carey Mulligan": {
         "leadNoms": [
             {
@@ -3024,6 +3049,11 @@ var actorMap = {
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
+    "Cecily Strong": {
+        "movies": [
+            "Ghostbusters (2016)"
+        ]
+    },
     "Cedric the Entertainer": {
         "movies": [
             "Talk to Me (2007)"
@@ -3079,6 +3109,7 @@ var actorMap = {
         "movies": [
             "Last Action Hero (1993)",
             "The Imitation Game (2014)",
+            "Ghostbusters (2016)",
             "The King's Man (2021)"
         ]
     },
@@ -3158,6 +3189,11 @@ var actorMap = {
             }
         ]
     },
+    "Cheech Marin": {
+        "movies": [
+            "Ghostbusters II (1989)"
+        ]
+    },
     "Chelsea Handler": {
         "movies": [
             "This Means War (2012)"
@@ -3175,6 +3211,9 @@ var actorMap = {
                 "movie": "Silkwood",
                 "year": "1983"
             }
+        ],
+        "movies": [
+            "The Witches of Eastwick (1987)"
         ]
     },
     "Cherry Jones": {
@@ -3224,6 +3263,11 @@ var actorMap = {
             "Talk to Me (2007)",
             "Doctor Strange (2016)",
             "The Old Guard (2020)"
+        ]
+    },
+    "Chloe Webb": {
+        "movies": [
+            "Ghostbusters II (1989)"
         ]
     },
     "Chlo\u00eb Grace Moretz": {
@@ -3309,6 +3353,7 @@ var actorMap = {
             "Blackhat (2015)",
             "Avengers: Age of Ultron (2015)",
             "In the Heart of the Sea (2015)",
+            "Ghostbusters (2016)",
             "Doctor Strange (2016)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
@@ -4037,9 +4082,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghostbusters (1984)",
             "Spies Like Us (1985)",
+            "Ghostbusters II (1989)",
             "Chaplin (1992)",
             "North (1994)",
+            "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -5255,7 +5303,8 @@ var actorMap = {
         "movies": [
             "The Pagemaster (1994)",
             "Batman Forever (1995)",
-            "What's Your Number? (2011)"
+            "What's Your Number? (2011)",
+            "Ghostbusters (2016)"
         ]
     },
     "Ed Harris": {
@@ -5907,7 +5956,10 @@ var actorMap = {
     },
     "Ernie Hudson": {
         "movies": [
+            "Ghostbusters (1984)",
+            "Ghostbusters II (1989)",
             "The Crow (1994)",
+            "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -7165,6 +7217,8 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "Heavy Metal (1981)",
+            "Ghostbusters (1984)",
+            "Ghostbusters II (1989)",
             "Knocked Up (2007)"
         ]
     },
@@ -7848,6 +7902,9 @@ var actorMap = {
     },
     "Ivan Reitman": {
         "movies": [
+            "Ghostbusters (1984)",
+            "Ghostbusters II (1989)",
+            "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -8035,6 +8092,7 @@ var actorMap = {
         ],
         "movies": [
             "Terms of Endearment (1983)",
+            "The Witches of Eastwick (1987)",
             "Batman (1989)",
             "Something's Gotta Give (2003)",
             "The Bucket List (2007)",
@@ -8746,6 +8804,11 @@ var actorMap = {
     "Jason Patric": {
         "movies": [
             "The Losers (2010)"
+        ]
+    },
+    "Jason Reitman": {
+        "movies": [
+            "Ghostbusters II (1989)"
         ]
     },
     "Jason Schwartzman": {
@@ -10827,6 +10890,7 @@ var actorMap = {
     "Karan Soni": {
         "movies": [
             "Deadpool (2016)",
+            "Ghostbusters (2016)",
             "Deadpool 2 (2018)"
         ]
     },
@@ -10910,6 +10974,11 @@ var actorMap = {
         "movies": [
             "Iron Man 2 (2010)",
             "Fantastic Four (2015)"
+        ]
+    },
+    "Kate McKinnon": {
+        "movies": [
+            "Ghostbusters (2016)"
         ]
     },
     "Kate Micucci": {
@@ -11397,6 +11466,7 @@ var actorMap = {
     "Kevin Dunn": {
         "movies": [
             "Mississippi Burning (1988)",
+            "Ghostbusters II (1989)",
             "Chaplin (1992)",
             "Vicky Cristina Barcelona (2008)"
         ]
@@ -11649,6 +11719,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Bridesmaids (2011)",
+            "Ghostbusters (2016)",
             "Wonder Woman 1984 (2020)"
         ]
     },
@@ -11681,6 +11752,12 @@ var actorMap = {
             "Men in Black: International (2019)",
             "Dolittle (2020)",
             "Eternals (2021)"
+        ]
+    },
+    "Kurt Fuller": {
+        "movies": [
+            "Ghostbusters II (1989)",
+            "Ray (2004)"
         ]
     },
     "Kurt Russell": {
@@ -11802,6 +11879,11 @@ var actorMap = {
     "Larry Johnson": {
         "movies": [
             "Space Jam (1996)"
+        ]
+    },
+    "Larry King": {
+        "movies": [
+            "Ghostbusters (1984)"
         ]
     },
     "Larry Wilmore": {
@@ -12121,7 +12203,8 @@ var actorMap = {
     },
     "Leslie Jones": {
         "movies": [
-            "Trainwreck (2015)"
+            "Trainwreck (2015)",
+            "Ghostbusters (2016)"
         ]
     },
     "Leslie Mann": {
@@ -13305,6 +13388,11 @@ var actorMap = {
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
+    "Mary Ellen Trainor": {
+        "movies": [
+            "Ghostbusters II (1989)"
+        ]
+    },
     "Mary J. Blige": {
         "suppNoms": [
             {
@@ -13437,6 +13525,7 @@ var actorMap = {
             "Due Date (2010)",
             "Ted (2012)",
             "Movie 43 (2013)",
+            "Ghostbusters (2016)",
             "Widows (2018)"
         ]
     },
@@ -13548,6 +13637,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghostbusters II (1989)",
             "Star Wars: The Force Awakens (2015)"
         ]
     },
@@ -13694,6 +13784,7 @@ var actorMap = {
         ],
         "movies": [
             "Bridesmaids (2011)",
+            "Ghostbusters (2016)",
             "The Kitchen (2019)"
         ]
     },
@@ -14108,7 +14199,8 @@ var actorMap = {
     "Michael K. Williams": {
         "movies": [
             "The Incredible Hulk (2008)",
-            "RoboCop (2014)"
+            "RoboCop (2014)",
+            "Ghostbusters (2016)"
         ]
     },
     "Michael Keaton": {
@@ -14287,6 +14379,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Witches of Eastwick (1987)",
             "Batman Returns (1992)",
             "The Prince of Egypt (1998)",
             "Hairspray (2007)",
@@ -14427,6 +14520,11 @@ var actorMap = {
     "Mila Kunis": {
         "movies": [
             "Ted (2012)"
+        ]
+    },
+    "Milana Vayntrub": {
+        "movies": [
+            "Ghostbusters (2016)"
         ]
     },
     "Miles Teller": {
@@ -14804,6 +14902,11 @@ var actorMap = {
     "Neel Sethi": {
         "movies": [
             "The Jungle Book (2016)"
+        ]
+    },
+    "Neil Casey": {
+        "movies": [
+            "Ghostbusters (2016)"
         ]
     },
     "Neil Hamilton": {
@@ -15305,6 +15408,11 @@ var actorMap = {
     "Owen Wilson": {
         "movies": [
             "How Do You Know (2010)"
+        ]
+    },
+    "Ozzy Osbourne": {
+        "movies": [
+            "Ghostbusters (2016)"
         ]
     },
     "P. Diddy": {
@@ -15833,6 +15941,11 @@ var actorMap = {
             "The Hobbit: The Desolation of Smaug (2013)"
         ]
     },
+    "Peter MacNicol": {
+        "movies": [
+            "Ghostbusters II (1989)"
+        ]
+    },
     "Peter Mayhew": {
         "movies": [
             "Star Wars (1977)",
@@ -15959,6 +16072,7 @@ var actorMap = {
     },
     "Philip Baker Hall": {
         "movies": [
+            "Ghostbusters II (1989)",
             "Zodiac (2007)"
         ]
     },
@@ -16387,6 +16501,7 @@ var actorMap = {
     },
     "Reginald VelJohnson": {
         "movies": [
+            "Ghostbusters (1984)",
             "Die Hard (1988)",
             "You Again (2010)"
         ]
@@ -16611,6 +16726,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Witches of Eastwick (1987)",
             "Rumor Has It (2005)",
             "The Tale of Despereaux (2008)",
             "The Cabin in the Woods (2012)",
@@ -16650,7 +16766,9 @@ var actorMap = {
     },
     "Rick Moranis": {
         "movies": [
-            "Spaceballs (1987)"
+            "Ghostbusters (1984)",
+            "Spaceballs (1987)",
+            "Ghostbusters II (1989)"
         ]
     },
     "Ricki Lake": {
@@ -17519,6 +17637,7 @@ var actorMap = {
     },
     "Sam Richardson": {
         "movies": [
+            "Ghostbusters (2016)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -18199,11 +18318,14 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "Alien (1979)",
+            "Ghostbusters (1984)",
+            "Ghostbusters II (1989)",
             "Galaxy Quest (1999)",
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
             "You Again (2010)",
             "The Cabin in the Woods (2012)",
+            "Ghostbusters (2016)",
             "A Monster Calls (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -18634,6 +18756,11 @@ var actorMap = {
             "Think Like a Man (2012)"
         ]
     },
+    "Steve Higgins": {
+        "movies": [
+            "Ghostbusters (2016)"
+        ]
+    },
     "Steve Martin": {
         "movies": [
             "Three Amigos (1986)",
@@ -18750,6 +18877,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Witches of Eastwick (1987)",
             "Elizabethtown (2005)"
         ]
     },
@@ -19929,7 +20057,8 @@ var actorMap = {
     "Veronica Cartwright": {
         "movies": [
             "Invasion of the Body Snatchers (1978)",
-            "Alien (1979)"
+            "Alien (1979)",
+            "The Witches of Eastwick (1987)"
         ]
     },
     "Veronica Ng\u00f4": {
@@ -20372,6 +20501,7 @@ var actorMap = {
     },
     "William Atherton": {
         "movies": [
+            "Ghostbusters (1984)",
             "Die Hard (1988)"
         ]
     },
@@ -20642,6 +20772,11 @@ var actorMap = {
     "Zach King": {
         "movies": [
             "Zootopia (2016)"
+        ]
+    },
+    "Zach Woods": {
+        "movies": [
+            "Ghostbusters (2016)"
         ]
     },
     "Zachary Levi": {

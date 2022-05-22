@@ -21084,6 +21084,19 @@ var movieMap = {
             "Ramis & Reitmans",
             "SCTV Alumni",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Annie Potts",
+            "Bill Murray",
+            "Dan Aykroyd",
+            "Ernie Hudson",
+            "Harold Ramis",
+            "Ivan Reitman",
+            "Larry King",
+            "Reginald VelJohnson",
+            "Rick Moranis",
+            "Sigourney Weaver",
+            "William Atherton"
         ]
     },
     "Gremlins (1984)": {
@@ -25512,6 +25525,15 @@ var movieMap = {
             "Jack Nicholson",
             "Michelle Pfeiffer",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Carel Struycken",
+            "Cher",
+            "Jack Nicholson",
+            "Michelle Pfeiffer",
+            "Richard Jenkins",
+            "Susan Sarandon",
+            "Veronica Cartwright"
         ]
     },
     "Roxanne (1987)": {
@@ -29014,6 +29036,28 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Ramis & Reitmans",
             "SCTV Alumni",
+            "Sigourney Weaver"
+        ],
+        "cast": [
+            "Annie Potts",
+            "Ben Stein",
+            "Bill Murray",
+            "Bobby Brown",
+            "Brian Doyle-Murray",
+            "Cheech Marin",
+            "Chloe Webb",
+            "Dan Aykroyd",
+            "Ernie Hudson",
+            "Harold Ramis",
+            "Ivan Reitman",
+            "Jason Reitman",
+            "Kevin Dunn",
+            "Kurt Fuller",
+            "Mary Ellen Trainor",
+            "Max von Sydow",
+            "Peter MacNicol",
+            "Philip Baker Hall",
+            "Rick Moranis",
             "Sigourney Weaver"
         ]
     },
@@ -46427,6 +46471,7 @@ var movieMap = {
             "Will Smith"
         ],
         "cast": [
+            "Carel Struycken",
             "David Cross",
             "Fredric Lehne",
             "Linda Fiorentino",
@@ -66117,6 +66162,7 @@ var movieMap = {
             "Harry Lennix",
             "Jamie Foxx",
             "Kerry Washington",
+            "Kurt Fuller",
             "Larenz Tate",
             "Regina King",
             "Richard Schiff",
@@ -103522,6 +103568,33 @@ var movieMap = {
             "Comedies",
             "Fantasy/Sci-Fi",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Al Roker",
+            "Andy Garc\u00eda",
+            "Annie Potts",
+            "Bill Murray",
+            "Cecily Strong",
+            "Charles Dance",
+            "Chris Hemsworth",
+            "Dan Aykroyd",
+            "Ed Begley Jr.",
+            "Ernie Hudson",
+            "Ivan Reitman",
+            "Karan Soni",
+            "Kate McKinnon",
+            "Kristen Wiig",
+            "Leslie Jones",
+            "Matt Walsh",
+            "Melissa McCarthy",
+            "Michael K. Williams",
+            "Milana Vayntrub",
+            "Neil Casey",
+            "Ozzy Osbourne",
+            "Sam Richardson",
+            "Sigourney Weaver",
+            "Steve Higgins",
+            "Zach Woods"
         ]
     },
     "Ice Age: Collision Course (2016)": {

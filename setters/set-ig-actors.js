@@ -2650,6 +2650,13 @@ var igActorMap = {
             ]
         }
     },
+    "Carel Struycken": {
+        "movies": {
+            "Men in Black": [
+                "Men in Black (1997)"
+            ]
+        }
+    },
     "Carl Weathers": {
         "movies": {
             "Predator": [

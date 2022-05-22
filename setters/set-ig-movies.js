@@ -2345,6 +2345,11 @@ var igMovieMap = {
                 "description": "van driver and American smuggler who unknowingly carries a literal alien among his posse"
             },
             {
+                "actor": "Carel Struycken",
+                "name": "Arquillian",
+                "description": ""
+            },
+            {
                 "actor": "Richard Hamilton",
                 "name": "Agent D",
                 "description": "K's former partner who retires after deciding he is too old for the job"
@@ -2384,11 +2389,6 @@ var igMovieMap = {
             {
                 "actor": "Becky Ann Baker",
                 "name": "Mrs. Redgick",
-                "description": ""
-            },
-            {
-                "actor": "Carel Struycken",
-                "name": "Arquillian",
                 "description": ""
             },
             {
