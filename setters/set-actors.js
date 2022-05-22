@@ -142,6 +142,7 @@ var actorMap = {
     },
     "Adam Scott": {
         "movies": [
+            "The Aviator (2004)",
             "Knocked Up (2007)"
         ]
     },
@@ -284,6 +285,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Aviator (2004)",
             "Marriage Story (2019)"
         ]
     },
@@ -443,6 +445,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghosts of Mississippi (1996)",
+            "The Aviator (2004)",
             "Elizabethtown (2005)"
         ]
     },
@@ -484,8 +488,9 @@ var actorMap = {
             "The Bucket List (2007)"
         ]
     },
-    "Alexa Vega": {
+    "Alexa PenaVega": {
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -511,6 +516,7 @@ var actorMap = {
     },
     "Alfre Woodard": {
         "movies": [
+            "Primal Fear (1996)",
             "Star Trek: First Contact (1996)",
             "Captain America: Civil War (2016)"
         ]
@@ -797,6 +803,7 @@ var actorMap = {
     },
     "Andre Braugher": {
         "movies": [
+            "Primal Fear (1996)",
             "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
@@ -1049,6 +1056,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Amistad (1997)",
             "X-Men (2000)",
             "Almost Famous (2000)",
             "X2 (2003)",
@@ -1232,6 +1240,7 @@ var actorMap = {
             "Howards End (1992)",
             "Chaplin (1992)",
             "The Remains of the Day (1993)",
+            "Amistad (1997)",
             "The Mask of Zorro (1998)",
             "Alexander (2004)",
             "Thor (2011)",
@@ -1343,7 +1352,14 @@ var actorMap = {
     },
     "Ariana Richards": {
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "The Lost World: Jurassic Park (1997)"
+        ]
+    },
+    "Arliss Howard": {
+        "movies": [
+            "The Lost World: Jurassic Park (1997)",
+            "Amistad (1997)"
         ]
     },
     "Armin Mueller-Stahl": {
@@ -1850,6 +1866,7 @@ var actorMap = {
     },
     "Bill Cobbs": {
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "I Still Know What You Did Last Summer (1998)"
         ]
     },
@@ -2325,7 +2342,8 @@ var actorMap = {
             "Star Trek Generations (1994)",
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
-            "Star Trek: Nemesis (2002)"
+            "Star Trek: Nemesis (2002)",
+            "The Aviator (2004)"
         ]
     },
     "Brenton Thwaites": {
@@ -2441,6 +2459,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Brion James": {
+        "movies": [
+            "The Fifth Element (1997)"
+        ]
+    },
     "Britt Robertson": {
         "movies": [
             "Mother's Day (2016)"
@@ -2454,6 +2477,13 @@ var actorMap = {
     "Brittany Snow": {
         "movies": [
             "Hairspray (2007)"
+        ]
+    },
+    "Brock Peters": {
+        "movies": [
+            "Star Trek IV: The Voyage Home (1986)",
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Ghosts of Mississippi (1996)"
         ]
     },
     "Brooklynn Prince": {
@@ -2522,6 +2552,7 @@ var actorMap = {
         "movies": [
             "Die Hard (1988)",
             "North (1994)",
+            "The Fifth Element (1997)",
             "Unbreakable (2000)",
             "Ocean's Twelve (2004)",
             "Sin City (2005)",
@@ -2690,6 +2721,11 @@ var actorMap = {
             "The Counselor (2013)"
         ]
     },
+    "Camilla Belle": {
+        "movies": [
+            "The Lost World: Jurassic Park (1997)"
+        ]
+    },
     "Campbell Scott": {
         "movies": [
             "The Amazing Spider-Man (2012)",
@@ -2698,7 +2734,8 @@ var actorMap = {
     },
     "Candice Bergen": {
         "movies": [
-            "Sweet Home Alabama (2002)"
+            "Sweet Home Alabama (2002)",
+            "View from the Top (2003)"
         ]
     },
     "Cara Delevingne": {
@@ -2871,6 +2908,7 @@ var actorMap = {
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "The Aviator (2004)",
             "The Curious Case of Benjamin Button (2008)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
@@ -3018,6 +3056,11 @@ var actorMap = {
             "The New Mutants (2020)"
         ]
     },
+    "Charlie Sheen": {
+        "movies": [
+            "Due Date (2010)"
+        ]
+    },
     "Charlize Theron": {
         "leadNoms": [
             {
@@ -3121,6 +3164,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Amistad (1997)",
             "Love Actually (2003)",
             "Talk to Me (2007)",
             "Doctor Strange (2016)",
@@ -3295,6 +3339,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Chris Tucker": {
+        "movies": [
+            "The Fifth Element (1997)"
+        ]
+    },
     "Chris Wedge": {
         "movies": [
             "Robots (2005)"
@@ -3331,6 +3380,11 @@ var actorMap = {
     "Christian Slater": {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)"
+        ]
+    },
+    "Christina Applegate": {
+        "movies": [
+            "View from the Top (2003)"
         ]
     },
     "Christine Baranski": {
@@ -3782,6 +3836,7 @@ var actorMap = {
     },
     "Craig T. Nelson": {
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "The Incredibles (2004)",
             "Incredibles 2 (2018)"
         ]
@@ -4105,6 +4160,7 @@ var actorMap = {
     },
     "Danny Huston": {
         "movies": [
+            "The Aviator (2004)",
             "30 Days of Night (2007)",
             "X-Men Origins: Wolverine (2009)",
             "Wonder Woman (2017)"
@@ -4114,6 +4170,7 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Tropic Thunder (2008)",
+            "Due Date (2010)",
             "Kung Fu Panda 2 (2011)",
             "This Is the End (2013)"
         ]
@@ -4315,6 +4372,7 @@ var actorMap = {
         ],
         "movies": [
             "Howard the Duck (1986)",
+            "Amistad (1997)",
             "Ocean's Thirteen (2007)"
         ]
     },
@@ -4691,6 +4749,9 @@ var actorMap = {
                 "movie": "Rambling Rose",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Ghosts of Mississippi (1996)"
         ]
     },
     "Diane Lane": {
@@ -4775,6 +4836,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Amistad (1997)",
             "Constantine (2005)",
             "Guardians of the Galaxy (2014)",
             "Aquaman (2018)",
@@ -5229,6 +5291,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Primal Fear (1996)",
             "Kingdom of Heaven (2005)",
             "The Incredible Hulk (2008)"
         ]
@@ -6023,6 +6086,7 @@ var actorMap = {
     "Frances Conroy": {
         "movies": [
             "Catwoman (2004)",
+            "The Aviator (2004)",
             "The Tale of Despereaux (2008)",
             "Joker (2019)",
             "The Power of the Dog (2021)"
@@ -6059,6 +6123,7 @@ var actorMap = {
         ],
         "movies": [
             "Mississippi Burning (1988)",
+            "Primal Fear (1996)",
             "Almost Famous (2000)",
             "Something's Gotta Give (2003)"
         ]
@@ -6314,6 +6379,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Fifth Element (1997)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Batman Begins (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
@@ -6788,6 +6854,11 @@ var actorMap = {
             "Bloodshot (2020)"
         ]
     },
+    "Gwen Stefani": {
+        "movies": [
+            "The Aviator (2004)"
+        ]
+    },
     "Gwendoline Christie": {
         "movies": [
             "Star Wars: The Force Awakens (2015)",
@@ -6803,6 +6874,7 @@ var actorMap = {
         ],
         "movies": [
             "Shakespeare in Love (1998)",
+            "View from the Top (2003)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
@@ -7367,9 +7439,11 @@ var actorMap = {
     "Ian Holm": {
         "movies": [
             "Alien (1979)",
+            "The Fifth Element (1997)",
             "From Hell (2001)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "The Aviator (2004)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
@@ -8241,7 +8315,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Chaplin (1992)"
+            "Chaplin (1992)",
+            "Ghosts of Mississippi (1996)"
         ]
     },
     "Jamie Bell": {
@@ -8279,6 +8354,7 @@ var actorMap = {
         "movies": [
             "Ray (2004)",
             "Valentine's Day (2010)",
+            "Due Date (2010)",
             "The Amazing Spider-Man 2 (2014)",
             "Project Power (2020)",
             "Spider-Man: No Way Home (2021)"
@@ -8676,6 +8752,7 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "Jurassic Park (1993)",
+            "The Lost World: Jurassic Park (1997)",
             "The Prince of Egypt (1998)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Thor: Ragnarok (2017)"
@@ -8882,6 +8959,11 @@ var actorMap = {
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
+        ]
+    },
+    "Jeremy Northam": {
+        "movies": [
+            "Amistad (1997)"
         ]
     },
     "Jeremy Piven": {
@@ -9469,6 +9551,7 @@ var actorMap = {
         ],
         "movies": [
             "Chicago (2002)",
+            "The Aviator (2004)",
             "We Need to Talk About Kevin (2011)",
             "Wreck-It Ralph (2012)",
             "Guardians of the Galaxy (2014)",
@@ -9512,6 +9595,11 @@ var actorMap = {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)"
+        ]
+    },
+    "John Francis Daley": {
+        "movies": [
+            "View from the Top (2003)"
         ]
     },
     "John Gallagher Jr.": {
@@ -9628,6 +9716,11 @@ var actorMap = {
             "New Year's Eve (2011)"
         ]
     },
+    "John Mahoney": {
+        "movies": [
+            "Primal Fear (1996)"
+        ]
+    },
     "John Malkovich": {
         "suppNoms": [
             {
@@ -9665,6 +9758,7 @@ var actorMap = {
     },
     "John Ortiz": {
         "movies": [
+            "Amistad (1997)",
             "Blackhat (2015)"
         ]
     },
@@ -9831,7 +9925,8 @@ var actorMap = {
     },
     "Jon Cryer": {
         "movies": [
-            "Superman IV: The Quest for Peace (1987)"
+            "Superman IV: The Quest for Peace (1987)",
+            "Due Date (2010)"
         ]
     },
     "Jon Favreau": {
@@ -9879,7 +9974,13 @@ var actorMap = {
     },
     "Jon Polito": {
         "movies": [
-            "The Crow (1994)"
+            "The Crow (1994)",
+            "View from the Top (2003)"
+        ]
+    },
+    "Jon Seda": {
+        "movies": [
+            "Primal Fear (1996)"
         ]
     },
     "Jon Voight": {
@@ -10015,7 +10116,8 @@ var actorMap = {
     },
     "Joseph Mazzello": {
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "The Lost World: Jurassic Park (1997)"
         ]
     },
     "Josh Brener": {
@@ -10126,6 +10228,7 @@ var actorMap = {
         ],
         "movies": [
             "Road to Perdition (2002)",
+            "The Aviator (2004)",
             "The Holiday (2006)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)",
             "Captain Marvel (2019)"
@@ -10310,6 +10413,7 @@ var actorMap = {
         ],
         "movies": [
             "The Fugitive (1993)",
+            "The Lost World: Jurassic Park (1997)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -10424,6 +10528,9 @@ var actorMap = {
                 "movie": "Cape Fear",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Due Date (2010)"
         ]
     },
     "June Squibb": {
@@ -10546,6 +10653,11 @@ var actorMap = {
         "movies": [
             "Thor (2011)",
             "Thor: The Dark World (2013)"
+        ]
+    },
+    "Kate Beckinsale": {
+        "movies": [
+            "The Aviator (2004)"
         ]
     },
     "Kate Bosworth": {
@@ -10818,6 +10930,11 @@ var actorMap = {
             "John Wick (2014)"
         ]
     },
+    "Keegan-Michael Key": {
+        "movies": [
+            "Due Date (2010)"
+        ]
+    },
     "Keira Knightley": {
         "leadNoms": [
             {
@@ -10879,6 +10996,7 @@ var actorMap = {
     },
     "Kelli Garner": {
         "movies": [
+            "The Aviator (2004)",
             "G-Force (2009)"
         ]
     },
@@ -10902,6 +11020,7 @@ var actorMap = {
     },
     "Kelly Preston": {
         "movies": [
+            "View from the Top (2003)",
             "Sky High (2005)"
         ]
     },
@@ -11514,6 +11633,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Primal Fear (1996)",
             "Love Actually (2003)",
             "Mr. Holmes (2015)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
@@ -11602,6 +11722,11 @@ var actorMap = {
     "Lea Thompson": {
         "movies": [
             "Howard the Duck (1986)"
+        ]
+    },
+    "Lee Evans": {
+        "movies": [
+            "The Fifth Element (1997)"
         ]
     },
     "Lee Meriwether": {
@@ -11712,6 +11837,7 @@ var actorMap = {
         ],
         "movies": [
             "Catch Me If You Can (2002)",
+            "The Aviator (2004)",
             "Don't Look Up (2021)"
         ]
     },
@@ -11759,7 +11885,8 @@ var actorMap = {
     },
     "Lester Holt": {
         "movies": [
-            "The Fugitive (1993)"
+            "The Fugitive (1993)",
+            "Primal Fear (1996)"
         ]
     },
     "Letitia Wright": {
@@ -12027,6 +12154,11 @@ var actorMap = {
             "Cruel Intentions (1999)"
         ]
     },
+    "Lucas Black": {
+        "movies": [
+            "Ghosts of Mississippi (1996)"
+        ]
+    },
     "Lucas Hedges": {
         "suppNoms": [
             {
@@ -12107,6 +12239,11 @@ var actorMap = {
     "Luke Hemsworth": {
         "movies": [
             "Thor: Ragnarok (2017)"
+        ]
+    },
+    "Luke Perry": {
+        "movies": [
+            "The Fifth Element (1997)"
         ]
     },
     "Luke Wilson": {
@@ -12432,6 +12569,7 @@ var actorMap = {
     },
     "Margo Martindale": {
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "Mother's Day (2016)",
             "The Kitchen (2019)"
         ]
@@ -12645,6 +12783,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "View from the Top (2003)",
             "13 Going on 30 (2004)",
             "Just like Heaven (2005)",
             "Rumor Has It (2005)",
@@ -13009,11 +13148,13 @@ var actorMap = {
     },
     "Matt Ross": {
         "movies": [
+            "The Aviator (2004)",
             "Last Holiday (2006)"
         ]
     },
     "Matt Walsh": {
         "movies": [
+            "Due Date (2010)",
             "Ted (2012)",
             "Movie 43 (2013)",
             "Widows (2018)"
@@ -13065,6 +13206,7 @@ var actorMap = {
         ],
         "movies": [
             "Dazed and Confused (1993)",
+            "Amistad (1997)",
             "Sahara (2005)",
             "Tropic Thunder (2008)"
         ]
@@ -13088,6 +13230,11 @@ var actorMap = {
     "Maude Apatow": {
         "movies": [
             "Knocked Up (2007)"
+        ]
+    },
+    "Maura Tierney": {
+        "movies": [
+            "Primal Fear (1996)"
         ]
     },
     "Max Charles": {
@@ -13723,6 +13870,7 @@ var actorMap = {
     },
     "Michael O'Keefe": {
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "Michael Clayton (2007)"
         ]
     },
@@ -13807,6 +13955,11 @@ var actorMap = {
     "Michelle Fairley": {
         "movies": [
             "In the Heart of the Sea (2015)"
+        ]
+    },
+    "Michelle Monaghan": {
+        "movies": [
+            "Due Date (2010)"
         ]
     },
     "Michelle Pfeiffer": {
@@ -13944,6 +14097,11 @@ var actorMap = {
             "The Lego Movie 2: The Second Part (2019)"
         ]
     },
+    "Mike Myers": {
+        "movies": [
+            "View from the Top (2003)"
+        ]
+    },
     "Mike Vogel": {
         "movies": [
             "The Help (2011)"
@@ -13979,6 +14137,7 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "Dazed and Confused (1993)",
+            "The Fifth Element (1997)",
             "The Three Musketeers (2011)",
             "Hellboy (2019)"
         ]
@@ -14112,6 +14271,7 @@ var actorMap = {
         "movies": [
             "Lean on Me (1989)",
             "Robin Hood: Prince of Thieves (1991)",
+            "Amistad (1997)",
             "Batman Begins (2005)",
             "The Bucket List (2007)",
             "Wanted (2008)",
@@ -14512,6 +14672,9 @@ var actorMap = {
                 "movie": "The Madness of King George",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Amistad (1997)"
         ]
     },
     "Nigel Terry": {
@@ -15248,6 +15411,10 @@ var actorMap = {
                 "movie": "In the Name of the Father",
                 "year": "1993"
             }
+        ],
+        "movies": [
+            "The Lost World: Jurassic Park (1997)",
+            "Amistad (1997)"
         ]
     },
     "Peter Billingsley": {
@@ -15287,6 +15454,11 @@ var actorMap = {
     "Peter Falk": {
         "movies": [
             "Made (2001)"
+        ]
+    },
+    "Peter Firth": {
+        "movies": [
+            "Amistad (1997)"
         ]
     },
     "Peter Fonda": {
@@ -15404,6 +15576,7 @@ var actorMap = {
     },
     "Peter Stormare": {
         "movies": [
+            "The Lost World: Jurassic Park (1997)",
             "Constantine (2005)",
             "Strange Magic (2015)"
         ]
@@ -15546,6 +15719,11 @@ var actorMap = {
     "RJ Cyler": {
         "movies": [
             "Power Rangers (2017)"
+        ]
+    },
+    "RZA": {
+        "movies": [
+            "Due Date (2010)"
         ]
     },
     "Rachael Harris": {
@@ -15942,7 +16120,8 @@ var actorMap = {
     },
     "Richard Attenborough": {
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "The Lost World: Jurassic Park (1997)"
         ]
     },
     "Richard Ayoade": {
@@ -16020,6 +16199,7 @@ var actorMap = {
     },
     "Richard Gere": {
         "movies": [
+            "Primal Fear (1996)",
             "Chicago (2002)",
             "Movie 43 (2013)"
         ]
@@ -16095,6 +16275,13 @@ var actorMap = {
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
+    "Richard Schiff": {
+        "movies": [
+            "The Lost World: Jurassic Park (1997)",
+            "Ray (2004)",
+            "Man of Steel (2013)"
+        ]
+    },
     "Rick Moranis": {
         "movies": [
             "Spaceballs (1987)"
@@ -16164,7 +16351,8 @@ var actorMap = {
     },
     "Rob Lowe": {
         "movies": [
-            "About Last Night (1986)"
+            "About Last Night (1986)",
+            "View from the Top (2003)"
         ]
     },
     "Rob Morgan": {
@@ -16266,6 +16454,7 @@ var actorMap = {
             "The Incredible Hulk (2008)",
             "Tropic Thunder (2008)",
             "Iron Man 2 (2010)",
+            "Due Date (2010)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
             "Chef (2014)",
@@ -17851,6 +18040,11 @@ var actorMap = {
             "Jungle Fever (1991)"
         ]
     },
+    "Stacey Dash": {
+        "movies": [
+            "View from the Top (2003)"
+        ]
+    },
     "Stacy Keach": {
         "movies": [
             "Batman: Mask of the Phantasm (1993)",
@@ -17886,6 +18080,7 @@ var actorMap = {
     },
     "Stellan Skarsg\u00e5rd": {
         "movies": [
+            "Amistad (1997)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Thor (2011)",
@@ -18075,6 +18270,7 @@ var actorMap = {
     },
     "Steven Bauer": {
         "movies": [
+            "Primal Fear (1996)",
             "Traffic (2000)"
         ]
     },
@@ -18435,7 +18631,9 @@ var actorMap = {
     },
     "Terry O'Quinn": {
         "movies": [
-            "Places in the Heart (1984)"
+            "Places in the Heart (1984)",
+            "Primal Fear (1996)",
+            "Ghosts of Mississippi (1996)"
         ]
     },
     "Tessa Thompson": {
@@ -18730,6 +18928,11 @@ var actorMap = {
             "John Wick (2014)"
         ]
     },
+    "Todd Phillips": {
+        "movies": [
+            "Due Date (2010)"
+        ]
+    },
     "Tom Bateman": {
         "movies": [
             "Murder on the Orient Express (2017)"
@@ -18971,6 +19174,7 @@ var actorMap = {
         "movies": [
             "Armed and Dangerous (1986)",
             "Barb Wire (1996)",
+            "The Fifth Element (1997)",
             "The Dark Knight (2008)",
             "Zootopia (2016)"
         ]
@@ -19269,6 +19473,11 @@ var actorMap = {
             }
         ]
     },
+    "Vanessa Lee Chester": {
+        "movies": [
+            "The Lost World: Jurassic Park (1997)"
+        ]
+    },
     "Vanessa Redgrave": {
         "leadNoms": [
             {
@@ -19379,6 +19588,7 @@ var actorMap = {
     },
     "Vince Vaughn": {
         "movies": [
+            "The Lost World: Jurassic Park (1997)",
             "Made (2001)",
             "Four Christmases (2008)"
         ]
@@ -19480,6 +19690,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "Firewall (2006)"
         ]
     },
@@ -19639,6 +19850,7 @@ var actorMap = {
             "Jumpin' Jack Flash (1986)",
             "Star Trek Generations (1994)",
             "The Pagemaster (1994)",
+            "Ghosts of Mississippi (1996)",
             "Star Trek: Nemesis (2002)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
@@ -19746,6 +19958,7 @@ var actorMap = {
             "Mississippi Burning (1988)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "The Aviator (2004)",
             "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "John Wick (2014)",
@@ -19783,6 +19996,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghosts of Mississippi (1996)",
             "Mystery Men (1999)",
             "Cellular (2004)",
             "Sahara (2005)",
@@ -20017,6 +20231,7 @@ var actorMap = {
     "Zach Galifianakis": {
         "movies": [
             "G-Force (2009)",
+            "Due Date (2010)",
             "The Lego Batman Movie (2017)",
             "A Wrinkle in Time (2018)",
             "Missing Link (2019)"

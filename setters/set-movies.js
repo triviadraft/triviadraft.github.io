@@ -24797,6 +24797,7 @@ var movieMap = {
             "Star Trek"
         ],
         "cast": [
+            "Brock Peters",
             "Catherine Hicks",
             "DeForest Kelley",
             "George Takei",
@@ -33220,6 +33221,7 @@ var movieMap = {
             "Star Trek"
         ],
         "cast": [
+            "Brock Peters",
             "Christopher Plummer",
             "David Warner",
             "DeForest Kelley",
@@ -43232,6 +43234,20 @@ var movieMap = {
             "Courtroom Dramas & Legal Thrillers",
             "Dramas",
             "Frances McDormand"
+        ],
+        "cast": [
+            "Alfre Woodard",
+            "Andre Braugher",
+            "Edward Norton",
+            "Frances McDormand",
+            "John Mahoney",
+            "Jon Seda",
+            "Laura Linney",
+            "Lester Holt",
+            "Maura Tierney",
+            "Richard Gere",
+            "Steven Bauer",
+            "Terry O'Quinn"
         ]
     },
     "James and the Giant Peach (1996)": {
@@ -45142,6 +45158,22 @@ var movieMap = {
             "1990s",
             "Courtroom Dramas & Legal Thrillers",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Alexa PenaVega",
+            "Bill Cobbs",
+            "Brock Peters",
+            "Craig T. Nelson",
+            "Diane Ladd",
+            "James Woods",
+            "Lucas Black",
+            "Margo Martindale",
+            "Michael O'Keefe",
+            "Terry O'Quinn",
+            "Virginia Madsen",
+            "Whoopi Goldberg",
+            "William H. Macy"
         ]
     },
     "One Fine Day (1996)": {
@@ -46080,6 +46112,17 @@ var movieMap = {
             "1990s",
             "Bruce Willis",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Brion James",
+            "Bruce Willis",
+            "Chris Tucker",
+            "Gary Oldman",
+            "Ian Holm",
+            "Lee Evans",
+            "Luke Perry",
+            "Milla Jovovich",
+            "Tommy Lister Jr."
         ]
     },
     "Addicted to Love (1997)": {
@@ -46128,6 +46171,20 @@ var movieMap = {
             "Frat Pack",
             "Jurassic Park",
             "Steven Spielberg"
+        ],
+        "cast": [
+            "Ariana Richards",
+            "Arliss Howard",
+            "Camilla Belle",
+            "Jeff Goldblum",
+            "Joseph Mazzello",
+            "Julianne Moore",
+            "Pete Postlethwaite",
+            "Peter Stormare",
+            "Richard Attenborough",
+            "Richard Schiff",
+            "Vanessa Lee Chester",
+            "Vince Vaughn"
         ]
     },
     "Gone Fishin' (1997)": {
@@ -47397,6 +47454,22 @@ var movieMap = {
             "1990s",
             "Morgan Freeman",
             "Steven Spielberg"
+        ],
+        "cast": [
+            "Anna Paquin",
+            "Anthony Hopkins",
+            "Arliss Howard",
+            "Chiwetel Ejiofor",
+            "David Paymer",
+            "Djimon Hounsou",
+            "Jeremy Northam",
+            "John Ortiz",
+            "Matthew McConaughey",
+            "Morgan Freeman",
+            "Nigel Hawthorne",
+            "Pete Postlethwaite",
+            "Peter Firth",
+            "Stellan Skarsg\u00e5rd"
         ]
     },
     "Deconstructing Harry (1997)": {
@@ -61204,6 +61277,18 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Candice Bergen",
+            "Christina Applegate",
+            "Gwyneth Paltrow",
+            "John Francis Daley",
+            "Jon Polito",
+            "Kelly Preston",
+            "Mark Ruffalo",
+            "Mike Myers",
+            "Rob Lowe",
+            "Stacey Dash"
         ]
     },
     "Basic (2003)": {
@@ -65977,6 +66062,7 @@ var movieMap = {
             "Kerry Washington",
             "Larenz Tate",
             "Regina King",
+            "Richard Schiff",
             "Terrence Howard",
             "Warwick Davis"
         ]
@@ -66506,6 +66592,24 @@ var movieMap = {
             "Leonardo DiCaprio",
             "Martin Scorsese",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Adam Scott",
+            "Alan Alda",
+            "Alec Baldwin",
+            "Brent Spiner",
+            "Cate Blanchett",
+            "Danny Huston",
+            "Frances Conroy",
+            "Gwen Stefani",
+            "Ian Holm",
+            "John C. Reilly",
+            "Jude Law",
+            "Kate Beckinsale",
+            "Kelli Garner",
+            "Leonardo DiCaprio",
+            "Matt Ross",
+            "Willem Dafoe"
         ]
     },
     "Hotel Rwanda (2004)": {
@@ -84712,6 +84816,20 @@ var movieMap = {
             "Comedies",
             "Robert Downey Jr.",
             "Sheens"
+        ],
+        "cast": [
+            "Charlie Sheen",
+            "Danny McBride",
+            "Jamie Foxx",
+            "Jon Cryer",
+            "Juliette Lewis",
+            "Keegan-Michael Key",
+            "Matt Walsh",
+            "Michelle Monaghan",
+            "Robert Downey Jr.",
+            "RZA",
+            "Todd Phillips",
+            "Zach Galifianakis"
         ]
     },
     "For Colored Girls (2010)": {
@@ -92746,6 +92864,7 @@ var movieMap = {
             "Laurence Fishburne",
             "Michael Kelly",
             "Michael Shannon",
+            "Richard Schiff",
             "Russell Crowe"
         ]
     },
@@ -96649,7 +96768,7 @@ var movieMap = {
             "Quentin Tarantino & Robert Rodriguez"
         ],
         "cast": [
-            "Alexa Vega",
+            "Alexa PenaVega",
             "Bruce Willis",
             "Christopher Lloyd",
             "Christopher Meloni",
