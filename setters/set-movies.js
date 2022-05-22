@@ -35366,6 +35366,7 @@ var movieMap = {
             "Kevin Kline",
             "Marisa Tomei",
             "Milla Jovovich",
+            "Moira Kelly",
             "Nancy Travis",
             "Penelope Ann Miller",
             "Robert Downey Jr."
@@ -38587,6 +38588,21 @@ var movieMap = {
             "Animated",
             "Disney",
             "Family",
+            "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Cheech Marin",
+            "Ernie Sabella",
+            "James Earl Jones",
+            "Jeremy Irons",
+            "Jim Cummings",
+            "Jonathan Taylor Thomas",
+            "Madge Sinclair",
+            "Matthew Broderick",
+            "Moira Kelly",
+            "Nathan Lane",
+            "Robert Guillaume",
+            "Rowan Atkinson",
             "Whoopi Goldberg"
         ]
     },
@@ -42341,6 +42357,20 @@ var movieMap = {
             "Family",
             "Pixar",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Annie Potts",
+            "Don Rickles",
+            "Erik von Detten",
+            "Jim Varney",
+            "John Morris",
+            "John Ratzenberger",
+            "Laurie Metcalf",
+            "Penn Jillette",
+            "R. Lee Ermey",
+            "Tim Allen",
+            "Tom Hanks",
+            "Wallace Shawn"
         ]
     },
     "Father of the Bride Part II (1995)": {
@@ -47105,6 +47135,13 @@ var movieMap = {
         "categories": [
             "1990s",
             "Brad Pitt & George Clooney"
+        ],
+        "cast": [
+            "BD Wong",
+            "Brad Pitt",
+            "David Thewlis",
+            "Mako",
+            "Victor Wong"
         ]
     },
     "Boogie Nights (1997)": {
@@ -52853,6 +52890,20 @@ var movieMap = {
             "1990s",
             "Dramas",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Angelina Jolie",
+            "Brittany Murphy",
+            "Clea DuVall",
+            "Elisabeth Moss",
+            "Jared Leto",
+            "Jeffrey Tambor",
+            "KaDee Strickland",
+            "Kurtwood Smith",
+            "Mary Kay Place",
+            "Vanessa Redgrave",
+            "Whoopi Goldberg",
+            "Winona Ryder"
         ]
     },
     "Any Given Sunday (1999)": {
@@ -55440,6 +55491,7 @@ var movieMap = {
             "Clifton Collins Jr.",
             "Dennis Quaid",
             "Don Cheadle",
+            "Erika Christensen",
             "James Brolin",
             "John Slattery",
             "Luis Guzm\u00e1n",
@@ -58890,6 +58942,14 @@ var movieMap = {
             "Dramas",
             "Jennifer Lopez",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Bill Cobbs",
+            "Billy Campbell",
+            "Dan Futterman",
+            "Fred Ward",
+            "Jennifer Lopez",
+            "Juliette Lewis"
         ]
     },
     "Insomnia (2002)": {
@@ -63494,6 +63554,19 @@ var movieMap = {
             "2000s",
             "Fantasy/Sci-Fi",
             "Richard Donner"
+        ],
+        "cast": [
+            "Anna Friel",
+            "Billy Connolly",
+            "David Thewlis",
+            "Ethan Embry",
+            "Frances O'Connor",
+            "Gerard Butler",
+            "Lambert Wilson",
+            "Marton Csokas",
+            "Michael Sheen",
+            "Neal McDonough",
+            "Paul Walker"
         ]
     },
     "Honey (2003)": {
@@ -63636,6 +63709,7 @@ var movieMap = {
             "Frances McDormand",
             "Jack Nicholson",
             "Jon Favreau",
+            "KaDee Strickland",
             "Keanu Reeves",
             "Paul Michael Glaser",
             "Peter Spears"
@@ -63967,6 +64041,17 @@ var movieMap = {
         "categories": [
             "2000s",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Bryan Greenberg",
+            "Chris Evans",
+            "Darius Miles",
+            "Erika Christensen",
+            "Leonardo Nam",
+            "Matthew Lillard",
+            "Scarlett Johansson",
+            "Tyra Ferrell",
+            "Vanessa Angel"
         ]
     },
     "You Got Served (2004)": {
@@ -68058,6 +68143,19 @@ var movieMap = {
             "Brad Pitt & George Clooney",
             "Comedies",
             "Frat Pack"
+        ],
+        "cast": [
+            "Adam Brody",
+            "Angela Bassett",
+            "Angelina Jolie",
+            "Brad Pitt",
+            "Chris Weitz",
+            "Jennifer Morrison",
+            "Keith David",
+            "Kerry Washington",
+            "Michelle Monaghan",
+            "Vince Vaughn",
+            "William Fichtner"
         ]
     },
     "The Adventures of Sharkboy and Lavagirl in 3-D (2005)": {
@@ -69904,6 +70002,20 @@ var movieMap = {
             "Mel Brooks",
             "Musicals",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Andrea Martin",
+            "Eileen Essell",
+            "Gary Beach",
+            "Jon Lovitz",
+            "Matthew Broderick",
+            "Mel Brooks",
+            "Michael McKean",
+            "Nathan Lane",
+            "Richard Kind",
+            "Roger Bart",
+            "Uma Thurman",
+            "Will Ferrell"
         ]
     },
     "Cheaper by the Dozen 2 (2005)": {
@@ -73627,6 +73739,7 @@ var movieMap = {
             "Jake Gyllenhaal",
             "Jimmi Simpson",
             "John Carroll Lynch",
+            "June Diane Raphael",
             "Mark Ruffalo",
             "Philip Baker Hall",
             "Robert Downey Jr."
@@ -78910,6 +79023,16 @@ var movieMap = {
             "2000s",
             "Clint Eastwood",
             "Eastwoods"
+        ],
+        "cast": [
+            "Amy Ryan",
+            "Angelina Jolie",
+            "Colm Feore",
+            "Denis O'Hare",
+            "Gattlin Griffith",
+            "Jeffrey Donovan",
+            "John Malkovich",
+            "Michael Kelly"
         ]
     },
     "High School Musical 3: Senior Year (2008)": {
@@ -79718,6 +79841,16 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anne Hathaway",
+            "Bryan Greenberg",
+            "Candice Bergen",
+            "Chris Pratt",
+            "June Diane Raphael",
+            "Kate Hudson",
+            "Paul Scheer",
+            "Steve Howey"
         ]
     },
     "My Bloody Valentine 3D (2009)": {
@@ -85011,6 +85144,20 @@ var movieMap = {
             "Musicians in Film",
             "Tyler Perry",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Anika Noni Rose",
+            "Janet Jackson",
+            "Kerry Washington",
+            "Kimberly Elise",
+            "Loretta Devine",
+            "Macy Gray",
+            "Michael Ealy",
+            "Omari Hardwick",
+            "Phylicia Rashad",
+            "Tessa Thompson",
+            "Thandiwe Newton",
+            "Whoopi Goldberg"
         ]
     },
     "Let Me In (2010)": {
@@ -88840,6 +88987,19 @@ var movieMap = {
             "Dramas",
             "Matt & Ben",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Angus Macfadyen",
+            "Colin Ford",
+            "Elle Fanning",
+            "J. B. Smoove",
+            "John Michael Higgins",
+            "Matt Damon",
+            "Patrick Fugit",
+            "Peter Riegert",
+            "Scarlett Johansson",
+            "St\u00e9phanie Szostak",
+            "Thomas Haden Church"
         ]
     },
     "Extremely Loud & Incredibly Close (2011)": {
@@ -92728,6 +92888,7 @@ var movieMap = {
             "Rebecca Hall",
             "Robert Downey Jr.",
             "Shaun Toub",
+            "St\u00e9phanie Szostak",
             "Ty Simpkins",
             "William Sadler"
         ]
@@ -95003,6 +95164,20 @@ var movieMap = {
             "Dramas",
             "Julia Roberts",
             "Meryl Streep"
+        ],
+        "cast": [
+            "Abigail Breslin",
+            "Benedict Cumberbatch",
+            "Chris Cooper",
+            "Dermot Mulroney",
+            "Ewan McGregor",
+            "Julia Roberts",
+            "Julianne Nicholson",
+            "Juliette Lewis",
+            "Margo Martindale",
+            "Meryl Streep",
+            "Misty Upham",
+            "Sam Shepard"
         ]
     },
     "Labor Day (2013)": {
@@ -97248,6 +97423,20 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Abigail Spencer",
+            "Adam Driver",
+            "Ben Schwartz",
+            "Connie Britton",
+            "Corey Stoll",
+            "Dax Shepard",
+            "Jane Fonda",
+            "Jason Bateman",
+            "Kathryn Hahn",
+            "Rose Byrne",
+            "Timothy Olyphant",
+            "Tina Fey"
         ]
     },
     "Tusk (2014)": {
@@ -110672,6 +110861,20 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Alicia Silverstone",
+            "Andy Garc\u00eda",
+            "Candice Bergen",
+            "Craig T. Nelson",
+            "Diane Keaton",
+            "Don Johnson",
+            "E. L. James",
+            "Ed Begley Jr.",
+            "Jane Fonda",
+            "Mary Steenburgen",
+            "Richard Dreyfuss",
+            "Wallace Shawn"
         ]
     },
     "Cargo (2018)": {
@@ -112663,6 +112866,16 @@ var movieMap = {
             "2010s",
             "Black Cinema",
             "Tyler Perry",
+            "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Amber Riley",
+            "Chris Rock",
+            "Mehcad Brooks",
+            "Missi Pyle",
+            "Omari Hardwick",
+            "Tiffany Haddish",
+            "Tika Sumpter",
             "Whoopi Goldberg"
         ]
     },

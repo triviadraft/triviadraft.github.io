@@ -53,13 +53,15 @@ var actorMap = {
         "movies": [
             "Zombieland (2009)",
             "New Year's Eve (2011)",
+            "August: Osage County (2013)",
             "Zombieland: Double Tap (2019)"
         ]
     },
     "Abigail Spencer": {
         "movies": [
             "Cowboys & Aliens (2011)",
-            "This Means War (2012)"
+            "This Means War (2012)",
+            "This Is Where I Leave You (2014)"
         ]
     },
     "Abraham Attah": {
@@ -77,6 +79,7 @@ var actorMap = {
     },
     "Adam Brody": {
         "movies": [
+            "Mr. & Mrs. Smith (2005)",
             "Think Like a Man Too (2014)",
             "Shazam! (2019)",
             "Ready or Not (2019)",
@@ -112,6 +115,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "This Is Where I Leave You (2014)",
             "Star Wars: The Force Awakens (2015)",
             "Midnight Special (2016)",
             "Star Wars: The Last Jedi (2017)",
@@ -594,7 +598,8 @@ var actorMap = {
     "Alicia Silverstone": {
         "movies": [
             "Batman & Robin (1997)",
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "Book Club (2018)"
         ]
     },
     "Alicia Vikander": {
@@ -690,6 +695,11 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Amber Riley": {
+        "movies": [
+            "Nobody's Fool (2018)"
+        ]
+    },
     "Amy Acker": {
         "movies": [
             "The Cabin in the Woods (2012)"
@@ -761,6 +771,9 @@ var actorMap = {
                 "movie": "Gone Baby Gone",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "Changeling (2008)"
         ]
     },
     "Amy Schumer": {
@@ -822,6 +835,11 @@ var actorMap = {
     "Andre Holland": {
         "movies": [
             "A Wrinkle in Time (2018)"
+        ]
+    },
+    "Andrea Martin": {
+        "movies": [
+            "The Producers (2005)"
         ]
     },
     "Andrea Riseborough": {
@@ -894,7 +912,8 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
-            "Ghostbusters (2016)"
+            "Ghostbusters (2016)",
+            "Book Club (2018)"
         ]
     },
     "Andy Muschietti": {
@@ -942,6 +961,7 @@ var actorMap = {
         ],
         "movies": [
             "Boyz n the Hood (1991)",
+            "Mr. & Mrs. Smith (2005)",
             "Green Lantern (2011)",
             "This Means War (2012)",
             "Black Panther (2018)",
@@ -981,9 +1001,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Girl, Interrupted (1999)",
             "Alexander (2004)",
+            "Mr. & Mrs. Smith (2005)",
             "Kung Fu Panda (2008)",
             "Wanted (2008)",
+            "Changeling (2008)",
             "The Tourist (2010)",
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)",
@@ -1004,8 +1027,14 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Angus Macfadyen": {
+        "movies": [
+            "We Bought a Zoo (2011)"
+        ]
+    },
     "Anika Noni Rose": {
         "movies": [
+            "For Colored Girls (2010)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -1054,6 +1083,7 @@ var actorMap = {
     },
     "Anna Friel": {
         "movies": [
+            "Timeline (2003)",
             "Land of the Lost (2009)"
         ]
     },
@@ -1146,6 +1176,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bride Wars (2009)",
             "Valentine's Day (2010)",
             "Alice in Wonderland (2010)",
             "The Dark Knight Rises (2012)",
@@ -1207,6 +1238,7 @@ var actorMap = {
             "Ghostbusters (1984)",
             "Jumpin' Jack Flash (1986)",
             "Ghostbusters II (1989)",
+            "Toy Story (1995)",
             "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -1548,7 +1580,8 @@ var actorMap = {
     },
     "BD Wong": {
         "movies": [
-            "Jurassic Park (1993)"
+            "Jurassic Park (1993)",
+            "Seven Years in Tibet (1997)"
         ]
     },
     "Bahar Soomekh": {
@@ -1712,6 +1745,7 @@ var actorMap = {
     },
     "Ben Schwartz": {
         "movies": [
+            "This Is Where I Leave You (2014)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
     },
@@ -1751,6 +1785,7 @@ var actorMap = {
             "The Hobbit: An Unexpected Journey (2012)",
             "Star Trek Into Darkness (2013)",
             "The Hobbit: The Desolation of Smaug (2013)",
+            "August: Osage County (2013)",
             "The Imitation Game (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
             "Doctor Strange (2016)",
@@ -1914,7 +1949,8 @@ var actorMap = {
     "Bill Cobbs": {
         "movies": [
             "Ghosts of Mississippi (1996)",
-            "I Still Know What You Did Last Summer (1998)"
+            "I Still Know What You Did Last Summer (1998)",
+            "Enough (2002)"
         ]
     },
     "Bill Duke": {
@@ -2041,8 +2077,14 @@ var actorMap = {
             "Big Hero 6 (2014)"
         ]
     },
+    "Billy Campbell": {
+        "movies": [
+            "Enough (2002)"
+        ]
+    },
     "Billy Connolly": {
         "movies": [
+            "Timeline (2003)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
@@ -2268,9 +2310,11 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Seven Years in Tibet (1997)",
             "Ocean's Eleven (2001)",
             "Troy (2004)",
             "Ocean's Twelve (2004)",
+            "Mr. & Mrs. Smith (2005)",
             "Ocean's Thirteen (2007)",
             "The Curious Case of Benjamin Button (2008)",
             "The Counselor (2013)",
@@ -2539,6 +2583,7 @@ var actorMap = {
     },
     "Brittany Murphy": {
         "movies": [
+            "Girl, Interrupted (1999)",
             "Sin City (2005)"
         ]
     },
@@ -2650,6 +2695,12 @@ var actorMap = {
             "John Carter (2012)",
             "Kung Fu Panda 3 (2016)",
             "Power Rangers (2017)"
+        ]
+    },
+    "Bryan Greenberg": {
+        "movies": [
+            "The Perfect Score (2004)",
+            "Bride Wars (2009)"
         ]
     },
     "Bryan Singer": {
@@ -2813,7 +2864,9 @@ var actorMap = {
     "Candice Bergen": {
         "movies": [
             "Sweet Home Alabama (2002)",
-            "View from the Top (2003)"
+            "View from the Top (2003)",
+            "Bride Wars (2009)",
+            "Book Club (2018)"
         ]
     },
     "Cara Delevingne": {
@@ -3215,7 +3268,8 @@ var actorMap = {
     },
     "Cheech Marin": {
         "movies": [
-            "Ghostbusters II (1989)"
+            "Ghostbusters II (1989)",
+            "The Lion King (1994)"
         ]
     },
     "Chelsea Handler": {
@@ -3338,12 +3392,14 @@ var actorMap = {
             }
         ],
         "movies": [
+            "August: Osage County (2013)",
             "The Amazing Spider-Man 2 (2014)",
             "Little Women (2019)"
         ]
     },
     "Chris Evans": {
         "movies": [
+            "The Perfect Score (2004)",
             "Cellular (2004)",
             "Fantastic Four (2005)",
             "TMNT (2007)",
@@ -3436,6 +3492,7 @@ var actorMap = {
     },
     "Chris Pratt": {
         "movies": [
+            "Bride Wars (2009)",
             "Take Me Home Tonight (2011)",
             "What's Your Number? (2011)",
             "Zero Dark Thirty (2012)",
@@ -3451,7 +3508,8 @@ var actorMap = {
     },
     "Chris Rock": {
         "movies": [
-            "Dogma (1999)"
+            "Dogma (1999)",
+            "Nobody's Fool (2018)"
         ]
     },
     "Chris Sullivan": {
@@ -3472,6 +3530,11 @@ var actorMap = {
     "Chris Wedge": {
         "movies": [
             "Robots (2005)"
+        ]
+    },
+    "Chris Weitz": {
+        "movies": [
+            "Mr. & Mrs. Smith (2005)"
         ]
     },
     "Christian Bale": {
@@ -3743,6 +3806,11 @@ var actorMap = {
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
+    "Clea DuVall": {
+        "movies": [
+            "Girl, Interrupted (1999)"
+        ]
+    },
     "Cliff Curtis": {
         "movies": [
             "Six Days, Seven Nights (1998)",
@@ -3861,6 +3929,11 @@ var actorMap = {
             "1917 (2019)"
         ]
     },
+    "Colin Ford": {
+        "movies": [
+            "We Bought a Zoo (2011)"
+        ]
+    },
     "Colin Hanks": {
         "movies": [
             "King Kong (2005)"
@@ -3879,6 +3952,7 @@ var actorMap = {
     "Colm Feore": {
         "movies": [
             "Chicago (2002)",
+            "Changeling (2008)",
             "Thor (2011)",
             "The Amazing Spider-Man 2 (2014)"
         ]
@@ -3914,6 +3988,7 @@ var actorMap = {
     },
     "Connie Britton": {
         "movies": [
+            "This Is Where I Leave You (2014)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -3961,6 +4036,7 @@ var actorMap = {
     },
     "Corey Stoll": {
         "movies": [
+            "This Is Where I Leave You (2014)",
             "Ant-Man (2015)"
         ]
     },
@@ -3991,6 +4067,7 @@ var actorMap = {
         "movies": [
             "Ghosts of Mississippi (1996)",
             "The Incredibles (2004)",
+            "Book Club (2018)",
             "Incredibles 2 (2018)"
         ]
     },
@@ -4128,6 +4205,11 @@ var actorMap = {
             "Take Me Home Tonight (2011)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
+    "Dan Futterman": {
+        "movies": [
+            "Enough (2002)"
         ]
     },
     "Dan Hedaya": {
@@ -4358,6 +4440,11 @@ var actorMap = {
     "Daphne Zuniga": {
         "movies": [
             "Spaceballs (1987)"
+        ]
+    },
+    "Darius Miles": {
+        "movies": [
+            "The Perfect Score (2004)"
         ]
     },
     "Daryl Mitchell": {
@@ -4594,6 +4681,8 @@ var actorMap = {
     },
     "David Thewlis": {
         "movies": [
+            "Seven Years in Tibet (1997)",
+            "Timeline (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Kingdom of Heaven (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
@@ -4637,7 +4726,8 @@ var actorMap = {
     },
     "Dax Shepard": {
         "movies": [
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "This Is Where I Leave You (2014)"
         ]
     },
     "DeForest Kelley": {
@@ -4744,7 +4834,8 @@ var actorMap = {
     },
     "Denis O'Hare": {
         "movies": [
-            "Michael Clayton (2007)"
+            "Michael Clayton (2007)",
+            "Changeling (2008)"
         ]
     },
     "Denise Richards": {
@@ -4851,7 +4942,8 @@ var actorMap = {
     },
     "Dermot Mulroney": {
         "movies": [
-            "Zodiac (2007)"
+            "Zodiac (2007)",
+            "August: Osage County (2013)"
         ]
     },
     "Dev Patel": {
@@ -4914,7 +5006,8 @@ var actorMap = {
             "Annie Hall (1977)",
             "The First Wives Club (1996)",
             "Something's Gotta Give (2003)",
-            "Mad Money (2008)"
+            "Mad Money (2008)",
+            "Book Club (2018)"
         ]
     },
     "Diane Kruger": {
@@ -5134,6 +5227,7 @@ var actorMap = {
     },
     "Don Johnson": {
         "movies": [
+            "Book Club (2018)",
             "Knives Out (2019)"
         ]
     },
@@ -5145,6 +5239,11 @@ var actorMap = {
     "Don Novello": {
         "movies": [
             "Atlantis: The Lost Empire (2001)"
+        ]
+    },
+    "Don Rickles": {
+        "movies": [
+            "Toy Story (1995)"
         ]
     },
     "Don Siegel": {
@@ -5324,6 +5423,11 @@ var actorMap = {
             "Superman II (1981)"
         ]
     },
+    "E. L. James": {
+        "movies": [
+            "Book Club (2018)"
+        ]
+    },
     "Ebon Moss-Bachrach": {
         "movies": [
             "The Lake House (2006)"
@@ -5334,7 +5438,8 @@ var actorMap = {
             "The Pagemaster (1994)",
             "Batman Forever (1995)",
             "What's Your Number? (2011)",
-            "Ghostbusters (2016)"
+            "Ghostbusters (2016)",
+            "Book Club (2018)"
         ]
     },
     "Ed Harris": {
@@ -5517,6 +5622,11 @@ var actorMap = {
             "Batman: Mask of the Phantasm (1993)"
         ]
     },
+    "Eileen Essell": {
+        "movies": [
+            "The Producers (2005)"
+        ]
+    },
     "Eileen Heckart": {
         "movies": [
             "The First Wives Club (1996)"
@@ -5564,6 +5674,7 @@ var actorMap = {
     },
     "Elisabeth Moss": {
         "movies": [
+            "Girl, Interrupted (1999)",
             "Us (2019)",
             "The Kitchen (2019)"
         ]
@@ -5675,7 +5786,8 @@ var actorMap = {
     },
     "Elle Fanning": {
         "movies": [
-            "The Curious Case of Benjamin Button (2008)"
+            "The Curious Case of Benjamin Button (2008)",
+            "We Bought a Zoo (2011)"
         ]
     },
     "Ellen Barkin": {
@@ -5980,6 +6092,17 @@ var actorMap = {
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
+    "Erik von Detten": {
+        "movies": [
+            "Toy Story (1995)"
+        ]
+    },
+    "Erika Christensen": {
+        "movies": [
+            "Traffic (2000)",
+            "The Perfect Score (2004)"
+        ]
+    },
     "Erin Kellyman": {
         "movies": [
             "Solo: A Star Wars Story (2018)"
@@ -6004,6 +6127,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
         ]
     },
+    "Ernie Sabella": {
+        "movies": [
+            "The Lion King (1994)"
+        ]
+    },
     "Erykah Badu": {
         "movies": [
             "What Men Want (2019)"
@@ -6011,7 +6139,8 @@ var actorMap = {
     },
     "Ethan Embry": {
         "movies": [
-            "Sweet Home Alabama (2002)"
+            "Sweet Home Alabama (2002)",
+            "Timeline (2003)"
         ]
     },
     "Ethan Hawke": {
@@ -6137,6 +6266,7 @@ var actorMap = {
             "Robots (2005)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "The Impossible (2012)",
+            "August: Osage County (2013)",
             "Star Wars: The Force Awakens (2015)",
             "Beauty and the Beast (2017)",
             "Star Wars: The Rise of Skywalker (2019)",
@@ -6365,6 +6495,11 @@ var actorMap = {
             "Something's Gotta Give (2003)"
         ]
     },
+    "Frances O'Connor": {
+        "movies": [
+            "Timeline (2003)"
+        ]
+    },
     "Frances de la Tour": {
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
@@ -6467,6 +6602,7 @@ var actorMap = {
     },
     "Fred Ward": {
         "movies": [
+            "Enough (2002)",
             "Sweet Home Alabama (2002)"
         ]
     },
@@ -6579,6 +6715,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
+    "Gary Beach": {
+        "movies": [
+            "The Producers (2005)"
+        ]
+    },
     "Gary Busey": {
         "leadNoms": [
             {
@@ -6666,6 +6807,7 @@ var actorMap = {
     },
     "Gattlin Griffith": {
         "movies": [
+            "Changeling (2008)",
             "Green Lantern (2011)"
         ]
     },
@@ -6890,6 +7032,7 @@ var actorMap = {
     },
     "Gerard Butler": {
         "movies": [
+            "Timeline (2003)",
             "300 (2007)",
             "Movie 43 (2013)",
             "300: Rise of an Empire (2014)"
@@ -7962,6 +8105,7 @@ var actorMap = {
     },
     "J. B. Smoove": {
         "movies": [
+            "We Bought a Zoo (2011)",
             "Movie 43 (2013)",
             "Spider-Man: Far From Home (2019)",
             "Spider-Man: No Way Home (2021)"
@@ -8437,6 +8581,7 @@ var actorMap = {
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "The Lion King (1994)",
             "Robots (2005)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)",
@@ -8702,7 +8847,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "9 to 5 (1980)"
+            "9 to 5 (1980)",
+            "This Is Where I Leave You (2014)",
+            "Book Club (2018)"
         ]
     },
     "Jane Lynch": {
@@ -8721,6 +8868,11 @@ var actorMap = {
     "Janelle Mon\u00e1e": {
         "movies": [
             "Hidden Figures (2016)"
+        ]
+    },
+    "Janet Jackson": {
+        "movies": [
+            "For Colored Girls (2010)"
         ]
     },
     "Janet Leigh": {
@@ -8778,6 +8930,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Girl, Interrupted (1999)",
             "Alexander (2004)",
             "Suicide Squad (2016)",
             "Zack Snyder's Justice League (2021)"
@@ -8798,6 +8951,7 @@ var actorMap = {
             "Juno (2007)",
             "Tropic Thunder (2008)",
             "Couples Retreat (2009)",
+            "This Is Where I Leave You (2014)",
             "Zootopia (2016)"
         ]
     },
@@ -9079,6 +9233,11 @@ var actorMap = {
             "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
+    "Jeffrey Donovan": {
+        "movies": [
+            "Changeling (2008)"
+        ]
+    },
     "Jeffrey Jones": {
         "movies": [
             "Howard the Duck (1986)"
@@ -9086,6 +9245,7 @@ var actorMap = {
     },
     "Jeffrey Tambor": {
         "movies": [
+            "Girl, Interrupted (1999)",
             "Malibu's Most Wanted (2003)",
             "Hellboy (2004)",
             "Hellboy II: The Golden Army (2008)"
@@ -9219,6 +9379,11 @@ var actorMap = {
             "Don't Look Up (2021)"
         ]
     },
+    "Jennifer Lopez": {
+        "movies": [
+            "Enough (2002)"
+        ]
+    },
     "Jennifer Love Hewitt": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
@@ -9228,6 +9393,7 @@ var actorMap = {
     },
     "Jennifer Morrison": {
         "movies": [
+            "Mr. & Mrs. Smith (2005)",
             "Star Trek (2009)"
         ]
     },
@@ -9266,6 +9432,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Lion King (1994)",
             "Kingdom of Heaven (2005)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
@@ -9539,6 +9706,7 @@ var actorMap = {
     },
     "Jim Cummings": {
         "movies": [
+            "The Lion King (1994)",
             "The Pagemaster (1994)"
         ]
     },
@@ -9565,6 +9733,7 @@ var actorMap = {
     },
     "Jim Varney": {
         "movies": [
+            "Toy Story (1995)",
             "Atlantis: The Lost Empire (2001)"
         ]
     },
@@ -10071,6 +10240,7 @@ var actorMap = {
         "movies": [
             "Places in the Heart (1984)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
+            "Changeling (2008)",
             "Jonah Hex (2010)",
             "Red (2010)",
             "Red 2 (2013)"
@@ -10080,7 +10250,13 @@ var actorMap = {
         "movies": [
             "Blade: Trinity (2004)",
             "Couples Retreat (2009)",
+            "We Bought a Zoo (2011)",
             "The Best Man Holiday (2013)"
+        ]
+    },
+    "John Morris": {
+        "movies": [
+            "Toy Story (1995)"
         ]
     },
     "John Mulaney": {
@@ -10102,6 +10278,7 @@ var actorMap = {
     "John Ratzenberger": {
         "movies": [
             "The Empire Strikes Back (1980)",
+            "Toy Story (1995)",
             "The Incredibles (2004)",
             "Incredibles 2 (2018)",
             "Onward (2020)"
@@ -10308,6 +10485,7 @@ var actorMap = {
             "Big (1988)",
             "A League of Their Own (1992)",
             "North (1994)",
+            "The Producers (2005)",
             "Mother's Day (2016)"
         ]
     },
@@ -10407,6 +10585,11 @@ var actorMap = {
     "Jonathan Rhys Meyers": {
         "movies": [
             "Alexander (2004)"
+        ]
+    },
+    "Jonathan Taylor Thomas": {
+        "movies": [
+            "The Lion King (1994)"
         ]
     },
     "Jonny Lee Miller": {
@@ -10707,6 +10890,7 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Valentine's Day (2010)",
+            "August: Osage County (2013)",
             "Mother's Day (2016)"
         ]
     },
@@ -10758,6 +10942,11 @@ var actorMap = {
             "The Fugitive (1993)",
             "The Lost World: Jurassic Park (1997)",
             "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Julianne Nicholson": {
+        "movies": [
+            "August: Osage County (2013)"
         ]
     },
     "Julie Andrews": {
@@ -10873,7 +11062,15 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Due Date (2010)"
+            "Enough (2002)",
+            "Due Date (2010)",
+            "August: Osage County (2013)"
+        ]
+    },
+    "June Diane Raphael": {
+        "movies": [
+            "Zodiac (2007)",
+            "Bride Wars (2009)"
         ]
     },
     "June Squibb": {
@@ -10934,6 +11131,12 @@ var actorMap = {
     "KJ Apa": {
         "movies": [
             "The Hate U Give (2018)"
+        ]
+    },
+    "KaDee Strickland": {
+        "movies": [
+            "Girl, Interrupted (1999)",
+            "Something's Gotta Give (2003)"
         ]
     },
     "Kal Penn": {
@@ -11031,6 +11234,7 @@ var actorMap = {
         ],
         "movies": [
             "Almost Famous (2000)",
+            "Bride Wars (2009)",
             "Nine (2009)",
             "Kung Fu Panda 3 (2016)",
             "Mother's Day (2016)"
@@ -11212,6 +11416,7 @@ var actorMap = {
         "movies": [
             "The Holiday (2006)",
             "How Do You Know (2010)",
+            "This Is Where I Leave You (2014)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
@@ -11333,6 +11538,7 @@ var actorMap = {
     "Keith David": {
         "movies": [
             "Crash (2005)",
+            "Mr. & Mrs. Smith (2005)",
             "21 Bridges (2019)"
         ]
     },
@@ -11493,8 +11699,10 @@ var actorMap = {
     "Kerry Washington": {
         "movies": [
             "Ray (2004)",
+            "Mr. & Mrs. Smith (2005)",
             "Fantastic Four (2005)",
-            "Fantastic Four: Rise of the Silver Surfer (2007)"
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "For Colored Girls (2010)"
         ]
     },
     "Kevin Bacon": {
@@ -11677,7 +11885,8 @@ var actorMap = {
     },
     "Kimberly Elise": {
         "movies": [
-            "Set It Off (1996)"
+            "Set It Off (1996)",
+            "For Colored Girls (2010)"
         ]
     },
     "Kimiko Glenn": {
@@ -11836,6 +12045,11 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
+    "Kurtwood Smith": {
+        "movies": [
+            "Girl, Interrupted (1999)"
+        ]
+    },
     "Kyle Chandler": {
         "movies": [
             "King Kong (2005)",
@@ -11892,6 +12106,7 @@ var actorMap = {
     },
     "Lambert Wilson": {
         "movies": [
+            "Timeline (2003)",
             "Catwoman (2004)",
             "Sahara (2005)"
         ]
@@ -12091,6 +12306,9 @@ var actorMap = {
                 "movie": "Lady Bird",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Toy Story (1995)"
         ]
     },
     "Laverne Cox": {
@@ -12245,6 +12463,7 @@ var actorMap = {
     },
     "Leonardo Nam": {
         "movies": [
+            "The Perfect Score (2004)",
             "He's Just Not That into You (2009)"
         ]
     },
@@ -12524,7 +12743,8 @@ var actorMap = {
     },
     "Loretta Devine": {
         "movies": [
-            "Crash (2005)"
+            "Crash (2005)",
+            "For Colored Girls (2010)"
         ]
     },
     "Lori Petty": {
@@ -12767,7 +12987,8 @@ var actorMap = {
     },
     "Macy Gray": {
         "movies": [
-            "Spider-Man (2002)"
+            "Spider-Man (2002)",
+            "For Colored Girls (2010)"
         ]
     },
     "Maddie Ziegler": {
@@ -12777,7 +12998,8 @@ var actorMap = {
     },
     "Madge Sinclair": {
         "movies": [
-            "Star Trek IV: The Voyage Home (1986)"
+            "Star Trek IV: The Voyage Home (1986)",
+            "The Lion King (1994)"
         ]
     },
     "Madonna": {
@@ -12911,6 +13133,7 @@ var actorMap = {
     },
     "Mako": {
         "movies": [
+            "Seven Years in Tibet (1997)",
             "Bulletproof Monk (2003)",
             "TMNT (2007)"
         ]
@@ -12996,6 +13219,7 @@ var actorMap = {
     "Margo Martindale": {
         "movies": [
             "Ghosts of Mississippi (1996)",
+            "August: Osage County (2013)",
             "Mother's Day (2016)",
             "The Kitchen (2019)"
         ]
@@ -13428,6 +13652,7 @@ var actorMap = {
     "Marton Csokas": {
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
+            "Timeline (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
             "Kingdom of Heaven (2005)",
             "Alice in Wonderland (2010)",
@@ -13478,6 +13703,7 @@ var actorMap = {
     "Mary Kay Place": {
         "movies": [
             "Terms of Endearment (1983)",
+            "Girl, Interrupted (1999)",
             "Sweet Home Alabama (2002)"
         ]
     },
@@ -13499,6 +13725,7 @@ var actorMap = {
         "movies": [
             "Four Christmases (2008)",
             "The Help (2011)",
+            "Book Club (2018)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -13545,6 +13772,7 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
+            "We Bought a Zoo (2011)",
             "Thor: Ragnarok (2017)",
             "Deadpool 2 (2018)"
         ]
@@ -13606,6 +13834,8 @@ var actorMap = {
     "Matthew Broderick": {
         "movies": [
             "WarGames (1983)",
+            "The Lion King (1994)",
+            "The Producers (2005)",
             "The Tale of Despereaux (2008)",
             "New Year's Eve (2011)",
             "Trainwreck (2015)"
@@ -13633,6 +13863,11 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+        ]
+    },
+    "Matthew Lillard": {
+        "movies": [
+            "The Perfect Score (2004)"
         ]
     },
     "Matthew Macfadyen": {
@@ -13778,6 +14013,11 @@ var actorMap = {
             "About Last Night (1986)"
         ]
     },
+    "Mehcad Brooks": {
+        "movies": [
+            "Nobody's Fool (2018)"
+        ]
+    },
     "Mekhi Phifer": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)"
@@ -13786,7 +14026,8 @@ var actorMap = {
     "Mel Brooks": {
         "movies": [
             "Spaceballs (1987)",
-            "Robots (2005)"
+            "Robots (2005)",
+            "The Producers (2005)"
         ]
     },
     "Mel Ferrer": {
@@ -14002,6 +14243,7 @@ var actorMap = {
         "movies": [
             "The Deer Hunter (1978)",
             "Doubt (2008)",
+            "August: Osage County (2013)",
             "Into the Woods (2014)",
             "Little Women (2019)",
             "Don't Look Up (2021)"
@@ -14172,6 +14414,7 @@ var actorMap = {
     },
     "Michael Ealy": {
         "movies": [
+            "For Colored Girls (2010)",
             "Think Like a Man (2012)",
             "About Last Night (2014)",
             "Think Like a Man Too (2014)"
@@ -14298,6 +14541,7 @@ var actorMap = {
     "Michael Kelly": {
         "movies": [
             "Unbreakable (2000)",
+            "Changeling (2008)",
             "Now You See Me (2013)",
             "Man of Steel (2013)"
         ]
@@ -14332,7 +14576,8 @@ var actorMap = {
     },
     "Michael McKean": {
         "movies": [
-            "Jumpin' Jack Flash (1986)"
+            "Jumpin' Jack Flash (1986)",
+            "The Producers (2005)"
         ]
     },
     "Michael Murphy": {
@@ -14399,6 +14644,7 @@ var actorMap = {
     },
     "Michael Sheen": {
         "movies": [
+            "Timeline (2003)",
             "Kingdom of Heaven (2005)",
             "Alice in Wonderland (2010)",
             "Dolittle (2020)"
@@ -14438,6 +14684,7 @@ var actorMap = {
     },
     "Michelle Monaghan": {
         "movies": [
+            "Mr. & Mrs. Smith (2005)",
             "Due Date (2010)"
         ]
     },
@@ -14693,6 +14940,16 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Missi Pyle": {
+        "movies": [
+            "Nobody's Fool (2018)"
+        ]
+    },
+    "Misty Upham": {
+        "movies": [
+            "August: Osage County (2013)"
+        ]
+    },
     "Mitchell Whitfield": {
         "movies": [
             "TMNT (2007)"
@@ -14704,6 +14961,12 @@ var actorMap = {
                 "movie": "Precious: Based on the Novel 'Push' by Sapphire",
                 "year": "2009"
             }
+        ]
+    },
+    "Moira Kelly": {
+        "movies": [
+            "Chaplin (1992)",
+            "The Lion King (1994)"
         ]
     },
     "Molly Ringwald": {
@@ -14958,6 +15221,12 @@ var actorMap = {
             "Troy (2004)"
         ]
     },
+    "Nathan Lane": {
+        "movies": [
+            "The Lion King (1994)",
+            "The Producers (2005)"
+        ]
+    },
     "Nathaniel Parker": {
         "movies": [
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
@@ -14971,6 +15240,7 @@ var actorMap = {
     "Neal McDonough": {
         "movies": [
             "Star Trek: First Contact (1996)",
+            "Timeline (2003)",
             "Captain America: The First Avenger (2011)",
             "Red 2 (2013)"
         ]
@@ -15415,7 +15685,9 @@ var actorMap = {
     },
     "Omari Hardwick": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "For Colored Girls (2010)",
+            "Nobody's Fool (2018)"
         ]
     },
     "Omri Katz": {
@@ -15597,7 +15869,8 @@ var actorMap = {
     },
     "Patrick Fugit": {
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "We Bought a Zoo (2011)"
         ]
     },
     "Patrick Stewart": {
@@ -15789,6 +16062,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Paul Scheer": {
+        "movies": [
+            "Bride Wars (2009)"
+        ]
+    },
     "Paul Scofield": {
         "leadNoms": [
             {
@@ -15806,6 +16084,11 @@ var actorMap = {
     "Paul Simon": {
         "movies": [
             "Annie Hall (1977)"
+        ]
+    },
+    "Paul Walker": {
+        "movies": [
+            "Timeline (2003)"
         ]
     },
     "Paul Wernick": {
@@ -15867,6 +16150,11 @@ var actorMap = {
     "Penelope Ann Miller": {
         "movies": [
             "Chaplin (1992)"
+        ]
+    },
+    "Penn Jillette": {
+        "movies": [
+            "Toy Story (1995)"
         ]
     },
     "Penny Marshall": {
@@ -16093,7 +16381,8 @@ var actorMap = {
     "Peter Riegert": {
         "movies": [
             "The Mask (1994)",
-            "Traffic (2000)"
+            "Traffic (2000)",
+            "We Bought a Zoo (2011)"
         ]
     },
     "Peter Sarsgaard": {
@@ -16197,6 +16486,11 @@ var actorMap = {
             "Solo: A Star Wars Story (2018)"
         ]
     },
+    "Phylicia Rashad": {
+        "movies": [
+            "For Colored Girls (2010)"
+        ]
+    },
     "Pierce Brosnan": {
         "movies": [
             "The Tailor of Panama (2001)"
@@ -16271,6 +16565,7 @@ var actorMap = {
     "R. Lee Ermey": {
         "movies": [
             "Mississippi Burning (1988)",
+            "Toy Story (1995)",
             "X-Men: The Last Stand (2006)"
         ]
     },
@@ -16738,6 +17033,7 @@ var actorMap = {
         ],
         "movies": [
             "Red (2010)",
+            "Book Club (2018)",
             "Polar (2019)"
         ]
     },
@@ -16822,6 +17118,11 @@ var actorMap = {
             "The Cabin in the Woods (2012)",
             "Bone Tomahawk (2015)",
             "Nightmare Alley (2021)"
+        ]
+    },
+    "Richard Kind": {
+        "movies": [
+            "The Producers (2005)"
         ]
     },
     "Richard Madden": {
@@ -17092,7 +17393,8 @@ var actorMap = {
     },
     "Robert Guillaume": {
         "movies": [
-            "Lean on Me (1989)"
+            "Lean on Me (1989)",
+            "The Lion King (1994)"
         ]
     },
     "Robert John Burke": {
@@ -17218,6 +17520,11 @@ var actorMap = {
             "300 (2007)",
             "300: Rise of an Empire (2014)",
             "Project Power (2020)"
+        ]
+    },
+    "Roger Bart": {
+        "movies": [
+            "The Producers (2005)"
         ]
     },
     "Roger Cross": {
@@ -17346,6 +17653,7 @@ var actorMap = {
             "Troy (2004)",
             "Bridesmaids (2011)",
             "X-Men: First Class (2011)",
+            "This Is Where I Leave You (2014)",
             "X-Men: Apocalypse (2016)"
         ]
     },
@@ -17403,6 +17711,7 @@ var actorMap = {
     },
     "Rowan Atkinson": {
         "movies": [
+            "The Lion King (1994)",
             "Love Actually (2003)"
         ]
     },
@@ -17764,6 +18073,7 @@ var actorMap = {
     "Sam Shepard": {
         "movies": [
             "Black Hawk Down (2001)",
+            "August: Osage County (2013)",
             "Midnight Special (2016)"
         ]
     },
@@ -17975,12 +18285,14 @@ var actorMap = {
         "movies": [
             "North (1994)",
             "Ghost World (2001)",
+            "The Perfect Score (2004)",
             "The Prestige (2006)",
             "The Other Boleyn Girl (2008)",
             "Vicky Cristina Barcelona (2008)",
             "The Spirit (2008)",
             "He's Just Not That into You (2009)",
             "Iron Man 2 (2010)",
+            "We Bought a Zoo (2011)",
             "The Avengers (2012)",
             "Captain America: The Winter Soldier (2014)",
             "Chef (2014)",
@@ -18861,6 +19173,11 @@ var actorMap = {
             "Ghostbusters (2016)"
         ]
     },
+    "Steve Howey": {
+        "movies": [
+            "Bride Wars (2009)"
+        ]
+    },
     "Steve Martin": {
         "movies": [
             "Three Amigos (1986)",
@@ -18945,6 +19262,8 @@ var actorMap = {
     },
     "St\u00e9phanie Szostak": {
         "movies": [
+            "We Bought a Zoo (2011)",
+            "Iron Man 3 (2013)",
             "R.I.P.D. (2013)"
         ]
     },
@@ -19255,6 +19574,7 @@ var actorMap = {
     },
     "Tessa Thompson": {
         "movies": [
+            "For Colored Girls (2010)",
             "Thor: Ragnarok (2017)",
             "Avengers: Endgame (2019)",
             "Men in Black: International (2019)"
@@ -19263,6 +19583,7 @@ var actorMap = {
     "Thandiwe Newton": {
         "movies": [
             "Crash (2005)",
+            "For Colored Girls (2010)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -19287,6 +19608,7 @@ var actorMap = {
         ],
         "movies": [
             "Spider-Man 3 (2007)",
+            "We Bought a Zoo (2011)",
             "John Carter (2012)",
             "Hellboy (2019)",
             "Spider-Man: No Way Home (2021)"
@@ -19335,6 +19657,7 @@ var actorMap = {
     "Tiffany Haddish": {
         "movies": [
             "Girls Trip (2017)",
+            "Nobody's Fool (2018)",
             "The Lego Movie 2: The Second Part (2019)",
             "The Kitchen (2019)"
         ]
@@ -19342,7 +19665,8 @@ var actorMap = {
     "Tika Sumpter": {
         "movies": [
             "What's Your Number? (2011)",
-            "Think Like a Man (2012)"
+            "Think Like a Man (2012)",
+            "Nobody's Fool (2018)"
         ]
     },
     "Til Schweiger": {
@@ -19375,6 +19699,7 @@ var actorMap = {
     },
     "Tim Allen": {
         "movies": [
+            "Toy Story (1995)",
             "Galaxy Quest (1999)",
             "Ralph Breaks the Internet (2018)"
         ]
@@ -19466,6 +19791,7 @@ var actorMap = {
     "Timothy Olyphant": {
         "movies": [
             "The First Wives Club (1996)",
+            "This Is Where I Leave You (2014)",
             "Mother's Day (2016)",
             "Missing Link (2019)"
         ]
@@ -19496,6 +19822,7 @@ var actorMap = {
     },
     "Tina Fey": {
         "movies": [
+            "This Is Where I Leave You (2014)",
             "Wine Country (2019)"
         ]
     },
@@ -19637,6 +19964,7 @@ var actorMap = {
             "Big (1988)",
             "A League of Their Own (1992)",
             "Forrest Gump (1994)",
+            "Toy Story (1995)",
             "Saving Private Ryan (1998)",
             "Cast Away (2000)",
             "Road to Perdition (2002)",
@@ -20028,7 +20356,8 @@ var actorMap = {
     "Tyra Ferrell": {
         "movies": [
             "Jungle Fever (1991)",
-            "Boyz n the Hood (1991)"
+            "Boyz n the Hood (1991)",
+            "The Perfect Score (2004)"
         ]
     },
     "T\u00e9a Leoni": {
@@ -20051,6 +20380,7 @@ var actorMap = {
         ],
         "movies": [
             "Batman & Robin (1997)",
+            "The Producers (2005)",
             "Movie 43 (2013)"
         ]
     },
@@ -20079,7 +20409,8 @@ var actorMap = {
     },
     "Vanessa Angel": {
         "movies": [
-            "Spies Like Us (1985)"
+            "Spies Like Us (1985)",
+            "The Perfect Score (2004)"
         ]
     },
     "Vanessa Bayer": {
@@ -20136,6 +20467,7 @@ var actorMap = {
         ],
         "movies": [
             "Howards End (1992)",
+            "Girl, Interrupted (1999)",
             "Atonement (2007)"
         ]
     },
@@ -20175,6 +20507,11 @@ var actorMap = {
             "The First Wives Club (1996)",
             "You Again (2010)",
             "Kung Fu Panda 2 (2011)"
+        ]
+    },
+    "Victor Wong": {
+        "movies": [
+            "Seven Years in Tibet (1997)"
         ]
     },
     "Victoria Rowell": {
@@ -20219,6 +20556,7 @@ var actorMap = {
         "movies": [
             "The Lost World: Jurassic Park (1997)",
             "Made (2001)",
+            "Mr. & Mrs. Smith (2005)",
             "Four Christmases (2008)",
             "Couples Retreat (2009)"
         ]
@@ -20349,7 +20687,9 @@ var actorMap = {
     },
     "Wallace Shawn": {
         "movies": [
+            "Toy Story (1995)",
             "The Incredibles (2004)",
+            "Book Club (2018)",
             "Marriage Story (2019)"
         ]
     },
@@ -20479,11 +20819,15 @@ var actorMap = {
         ],
         "movies": [
             "Jumpin' Jack Flash (1986)",
+            "The Lion King (1994)",
             "Star Trek Generations (1994)",
             "The Pagemaster (1994)",
             "Ghosts of Mississippi (1996)",
+            "Girl, Interrupted (1999)",
             "Star Trek: Nemesis (2002)",
-            "Teenage Mutant Ninja Turtles (2014)"
+            "For Colored Girls (2010)",
+            "Teenage Mutant Ninja Turtles (2014)",
+            "Nobody's Fool (2018)"
         ]
     },
     "Wil Wheaton": {
@@ -20510,6 +20854,7 @@ var actorMap = {
     },
     "Will Ferrell": {
         "movies": [
+            "The Producers (2005)",
             "Stranger than Fiction (2006)",
             "Land of the Lost (2009)",
             "The Lego Movie (2014)",
@@ -20617,6 +20962,7 @@ var actorMap = {
         "movies": [
             "Black Hawk Down (2001)",
             "Crash (2005)",
+            "Mr. & Mrs. Smith (2005)",
             "The Dark Knight (2008)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
@@ -20723,6 +21069,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Girl, Interrupted (1999)",
             "Star Trek (2009)"
         ]
     },
