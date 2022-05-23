@@ -379,6 +379,7 @@ var actorMap = {
         "movies": [
             "A Knight's Tale (2001)",
             "Knocked Up (2007)",
+            "Transformers: Dark of the Moon (2011)",
             "Wreck-It Ralph (2012)",
             "Big Hero 6 (2014)",
             "Zootopia (2016)",
@@ -663,7 +664,8 @@ var actorMap = {
     "Amanda Bynes": {
         "movies": [
             "Robots (2005)",
-            "Hairspray (2007)"
+            "Hairspray (2007)",
+            "Sydney White (2007)"
         ]
     },
     "Amanda Peet": {
@@ -762,6 +764,7 @@ var actorMap = {
     "Amy Poehler": {
         "movies": [
             "Horton Hears a Who! (2008)",
+            "Monsters vs. Aliens (2009)",
             "Wine Country (2019)"
         ]
     },
@@ -965,6 +968,7 @@ var actorMap = {
             "Green Lantern (2011)",
             "This Means War (2012)",
             "Black Panther (2018)",
+            "Bumblebee (2018)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -1029,7 +1033,8 @@ var actorMap = {
     },
     "Angus Macfadyen": {
         "movies": [
-            "We Bought a Zoo (2011)"
+            "We Bought a Zoo (2011)",
+            "The Lost City of Z (2017)"
         ]
     },
     "Anika Noni Rose": {
@@ -1246,7 +1251,8 @@ var actorMap = {
     "Anthony Anderson": {
         "movies": [
             "Malibu's Most Wanted (2003)",
-            "Hustle & Flow (2005)"
+            "Hustle & Flow (2005)",
+            "Transformers (2007)"
         ]
     },
     "Anthony Daniels": {
@@ -1313,6 +1319,7 @@ var actorMap = {
             "Red 2 (2013)",
             "Thor: The Dark World (2013)",
             "Noah (2014)",
+            "Transformers: The Last Knight (2017)",
             "Thor: Ragnarok (2017)"
         ]
     },
@@ -1331,7 +1338,8 @@ var actorMap = {
     "Anthony Michael Hall": {
         "movies": [
             "The Breakfast Club (1985)",
-            "The Dark Knight (2008)"
+            "The Dark Knight (2008)",
+            "Foxcatcher (2014)"
         ]
     },
     "Anthony Minghella": {
@@ -1377,7 +1385,8 @@ var actorMap = {
         "movies": [
             "The Mask of Zorro (1998)",
             "The Legend of Zorro (2005)",
-            "Dolittle (2020)"
+            "Dolittle (2020)",
+            "Uncharted (2022)"
         ]
     },
     "Anya Taylor-Joy": {
@@ -1640,6 +1649,11 @@ var actorMap = {
             "The Terminal (2004)"
         ]
     },
+    "Barry Sonnenfeld": {
+        "movies": [
+            "RV (2006)"
+        ]
+    },
     "Beah Richards": {
         "movies": [
             "Guess Who's Coming to Dinner (1967)"
@@ -1854,7 +1868,8 @@ var actorMap = {
         "movies": [
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
-            "Ocean's Thirteen (2007)"
+            "Ocean's Thirteen (2007)",
+            "Transformers (2007)"
         ]
     },
     "Bette Davis": {
@@ -2015,7 +2030,8 @@ var actorMap = {
     },
     "Bill O'Reilly": {
         "movies": [
-            "Iron Man 2 (2010)"
+            "Iron Man 2 (2010)",
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Bill Paxton": {
@@ -2592,6 +2608,11 @@ var actorMap = {
             "Hairspray (2007)"
         ]
     },
+    "Brock Lesnar": {
+        "movies": [
+            "Foxcatcher (2014)"
+        ]
+    },
     "Brock Peters": {
         "movies": [
             "Star Trek IV: The Voyage Home (1986)",
@@ -2770,6 +2791,11 @@ var actorMap = {
         "movies": [
             "He's Just Not That into You (2009)",
             "I Feel Pretty (2018)"
+        ]
+    },
+    "Buzz Aldrin": {
+        "movies": [
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Byron Howard": {
@@ -3160,6 +3186,7 @@ var actorMap = {
         "movies": [
             "This Is the End (2013)",
             "The Lego Movie (2014)",
+            "Foxcatcher (2014)",
             "The Hateful Eight (2015)",
             "The Lego Batman Movie (2017)",
             "Kingsman: The Golden Circle (2017)",
@@ -3205,6 +3232,11 @@ var actorMap = {
     "Charlie Heaton": {
         "movies": [
             "The New Mutants (2020)"
+        ]
+    },
+    "Charlie Hunnam": {
+        "movies": [
+            "The Lost City of Z (2017)"
         ]
     },
     "Charlie Sheen": {
@@ -3303,6 +3335,7 @@ var actorMap = {
     },
     "Cheryl Hines": {
         "movies": [
+            "RV (2006)",
             "Think Like a Man Too (2014)"
         ]
     },
@@ -4002,6 +4035,7 @@ var actorMap = {
     },
     "Conrad Vernon": {
         "movies": [
+            "Monsters vs. Aliens (2009)",
             "Kung Fu Panda 2 (2011)"
         ]
     },
@@ -4315,7 +4349,8 @@ var actorMap = {
     "Daniel Huttlestone": {
         "movies": [
             "Les Mis\u00e9rables (2012)",
-            "Into the Woods (2014)"
+            "Into the Woods (2014)",
+            "The Lost City of Z (2017)"
         ]
     },
     "Daniel Kaluuya": {
@@ -4432,6 +4467,11 @@ var actorMap = {
             "Star Trek Beyond (2016)"
         ]
     },
+    "Danny Strong": {
+        "movies": [
+            "Sydney White (2007)"
+        ]
+    },
     "Danny Trejo": {
         "movies": [
             "Six Days, Seven Nights (1998)"
@@ -4538,6 +4578,7 @@ var actorMap = {
             "Men in Black (1997)",
             "Ghost World (2001)",
             "Men in Black II (2002)",
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "Kung Fu Panda (2008)",
             "Kung Fu Panda 2 (2011)",
             "Kill Your Darlings (2013)",
@@ -5418,6 +5459,11 @@ var actorMap = {
             "Prisoners (2013)"
         ]
     },
+    "Dylan O'Brien": {
+        "movies": [
+            "Bumblebee (2018)"
+        ]
+    },
     "E. G. Marshall": {
         "movies": [
             "Superman II (1981)"
@@ -5467,6 +5513,11 @@ var actorMap = {
             "Places in the Heart (1984)",
             "A History of Violence (2005)",
             "Gravity (2013)"
+        ]
+    },
+    "Ed Helms": {
+        "movies": [
+            "Monsters vs. Aliens (2009)"
         ]
     },
     "Ed O'Neill": {
@@ -5668,6 +5719,7 @@ var actorMap = {
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "Sin City (2005)",
             "The Hobbit: An Unexpected Journey (2012)"
         ]
@@ -6492,7 +6544,8 @@ var actorMap = {
             "Mississippi Burning (1988)",
             "Primal Fear (1996)",
             "Almost Famous (2000)",
-            "Something's Gotta Give (2003)"
+            "Something's Gotta Give (2003)",
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Frances O'Connor": {
@@ -6508,6 +6561,11 @@ var actorMap = {
             "Into the Woods (2014)",
             "Mr. Holmes (2015)",
             "Dolittle (2020)"
+        ]
+    },
+    "Franco Nero": {
+        "movies": [
+            "The Lost City of Z (2017)"
         ]
     },
     "Frank Darabont": {
@@ -6575,7 +6633,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "The Pagemaster (1994)",
             "TMNT (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
             "Alice in Wonderland (2010)",
+            "Transformers: Dark of the Moon (2011)",
+            "Transformers: Age of Extinction (2014)",
+            "Transformers: The Last Knight (2017)",
             "The Grinch (2018)"
         ]
     },
@@ -6836,6 +6898,7 @@ var actorMap = {
     "Gemma Chan": {
         "movies": [
             "Fantastic Beasts and Where to Find Them (2016)",
+            "Transformers: The Last Knight (2017)",
             "Captain Marvel (2019)",
             "Eternals (2021)"
         ]
@@ -7049,6 +7112,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Gil Birmingham": {
+        "movies": [
+            "Transformers: The Last Knight (2017)"
+        ]
+    },
     "Gina Carano": {
         "movies": [
             "Deadpool (2016)"
@@ -7154,7 +7222,8 @@ var actorMap = {
     },
     "Glynn Turman": {
         "movies": [
-            "Sahara (2005)"
+            "Sahara (2005)",
+            "Bumblebee (2018)"
         ]
     },
     "Goldie Hawn": {
@@ -7302,7 +7371,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Spider-Man: Into the Spider-Verse (2018)"
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "Bumblebee (2018)"
         ]
     },
     "Hal Holbrook": {
@@ -7461,6 +7531,7 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The Lost City of Z (2017)",
             "The Old Guard (2020)"
         ]
     },
@@ -7790,12 +7861,20 @@ var actorMap = {
             "Missing Link (2019)"
         ]
     },
+    "Hugh Laurie": {
+        "movies": [
+            "Monsters vs. Aliens (2009)"
+        ]
+    },
     "Hugo Weaving": {
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "V for Vendetta (2006)",
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)",
             "Captain America: The First Avenger (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)"
@@ -7858,6 +7937,7 @@ var actorMap = {
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "The Lost City of Z (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -8034,6 +8114,11 @@ var actorMap = {
     "Isaac Hayes": {
         "movies": [
             "Hustle & Flow (2005)"
+        ]
+    },
+    "Isabela Merced": {
+        "movies": [
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Isabella Rossellini": {
@@ -8322,6 +8407,7 @@ var actorMap = {
     },
     "Jack Reynor": {
         "movies": [
+            "Transformers: Age of Extinction (2014)",
             "Mowgli: Legend of the Jungle (2018)"
         ]
     },
@@ -8687,6 +8773,7 @@ var actorMap = {
         "movies": [
             "Blade: Trinity (2004)",
             "Red (2010)",
+            "Transformers: Dark of the Moon (2011)",
             "Horns (2014)"
         ]
     },
@@ -8960,6 +9047,11 @@ var actorMap = {
             "Zero Dark Thirty (2012)"
         ]
     },
+    "Jason Drucker": {
+        "movies": [
+            "Bumblebee (2018)"
+        ]
+    },
     "Jason Flemyng": {
         "movies": [
             "From Hell (2001)",
@@ -9196,7 +9288,8 @@ var actorMap = {
     },
     "Jeff Daniels": {
         "movies": [
-            "Terms of Endearment (1983)"
+            "Terms of Endearment (1983)",
+            "RV (2006)"
         ]
     },
     "Jeff East": {
@@ -9248,7 +9341,8 @@ var actorMap = {
             "Girl, Interrupted (1999)",
             "Malibu's Most Wanted (2003)",
             "Hellboy (2004)",
-            "Hellboy II: The Golden Army (2008)"
+            "Hellboy II: The Golden Army (2008)",
+            "Monsters vs. Aliens (2009)"
         ]
     },
     "Jemaine Clement": {
@@ -9420,6 +9514,8 @@ var actorMap = {
     },
     "Jeremy Howard": {
         "movies": [
+            "Galaxy Quest (1999)",
+            "Sydney White (2007)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
@@ -9481,6 +9577,11 @@ var actorMap = {
     "Jeremy Theobald": {
         "movies": [
             "Batman Begins (2005)"
+        ]
+    },
+    "Jerrod Carmichael": {
+        "movies": [
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Jerry Ferrara": {
@@ -9694,6 +9795,7 @@ var actorMap = {
         "movies": [
             "The Mask (1994)",
             "Batman Forever (1995)",
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "Horton Hears a Who! (2008)",
             "Kick-Ass 2 (2013)"
         ]
@@ -9701,7 +9803,8 @@ var actorMap = {
     "Jim Carter": {
         "movies": [
             "Shakespeare in Love (1998)",
-            "Alice in Wonderland (2010)"
+            "Alice in Wonderland (2010)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Jim Cummings": {
@@ -9768,6 +9871,11 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "JoJo": {
+        "movies": [
+            "RV (2006)"
         ]
     },
     "Joan Allen": {
@@ -10084,6 +10192,7 @@ var actorMap = {
     "John Cena": {
         "movies": [
             "Trainwreck (2015)",
+            "Bumblebee (2018)",
             "Dolittle (2020)",
             "The Suicide Squad (2021)"
         ]
@@ -10121,7 +10230,9 @@ var actorMap = {
     },
     "John Goodman": {
         "movies": [
+            "Transformers: Age of Extinction (2014)",
             "10 Cloverfield Lane (2016)",
+            "Transformers: The Last Knight (2017)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -10176,6 +10287,7 @@ var actorMap = {
     "John Krasinski": {
         "movies": [
             "The Holiday (2006)",
+            "Monsters vs. Aliens (2009)",
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
         ]
@@ -10243,6 +10355,7 @@ var actorMap = {
             "Changeling (2008)",
             "Jonah Hex (2010)",
             "Red (2010)",
+            "Transformers: Dark of the Moon (2011)",
             "Red 2 (2013)"
         ]
     },
@@ -10272,7 +10385,8 @@ var actorMap = {
     "John Ortiz": {
         "movies": [
             "Amistad (1997)",
-            "Blackhat (2015)"
+            "Blackhat (2015)",
+            "Bumblebee (2018)"
         ]
     },
     "John Ratzenberger": {
@@ -10301,6 +10415,11 @@ var actorMap = {
         "movies": [
             "The Deer Hunter (1978)",
             "Message in a Bottle (1999)"
+        ]
+    },
+    "John Schneider": {
+        "movies": [
+            "Sydney White (2007)"
         ]
     },
     "John Singleton": {
@@ -10336,7 +10455,11 @@ var actorMap = {
     },
     "John Turturro": {
         "movies": [
-            "Jungle Fever (1991)"
+            "Jungle Fever (1991)",
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "John Vernon": {
@@ -10523,6 +10646,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Transformers (2007)",
             "Tropic Thunder (2008)",
             "Four Christmases (2008)",
             "Fantastic Beasts and Where to Find Them (2016)"
@@ -10613,6 +10737,7 @@ var actorMap = {
     "Jorge Lendeborg Jr.": {
         "movies": [
             "Spider-Man: Homecoming (2017)",
+            "Bumblebee (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -10676,8 +10801,12 @@ var actorMap = {
     },
     "Josh Duhamel": {
         "movies": [
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)",
             "New Year's Eve (2011)",
-            "Movie 43 (2013)"
+            "Movie 43 (2013)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Josh Gad": {
@@ -10697,6 +10826,11 @@ var actorMap = {
     "Josh Horowitz": {
         "movies": [
             "Zombieland: Double Tap (2019)"
+        ]
+    },
+    "Josh Hutcherson": {
+        "movies": [
+            "RV (2006)"
         ]
     },
     "Josh Lucas": {
@@ -11037,7 +11171,11 @@ var actorMap = {
     },
     "Julie White": {
         "movies": [
-            "Michael Clayton (2007)"
+            "Transformers (2007)",
+            "Michael Clayton (2007)",
+            "Monsters vs. Aliens (2009)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Juliette Binoche": {
@@ -11125,6 +11263,7 @@ var actorMap = {
         "movies": [
             "Tropic Thunder (2008)",
             "Star Wars: The Last Jedi (2017)",
+            "Bumblebee (2018)",
             "Joker (2019)"
         ]
     },
@@ -11304,6 +11443,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "The Holiday (2006)",
             "Movie 43 (2013)"
         ]
@@ -11603,7 +11743,8 @@ var actorMap = {
         "movies": [
             "X-Men: The Last Stand (2006)",
             "X-Men: Days of Future Past (2014)",
-            "Think Like a Man Too (2014)"
+            "Think Like a Man Too (2014)",
+            "Transformers: Age of Extinction (2014)"
         ]
     },
     "Ken Howard": {
@@ -11615,6 +11756,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Couples Retreat (2009)",
+            "Transformers: Dark of the Moon (2011)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -11633,7 +11775,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Batman Begins (2005)"
+            "Batman Begins (2005)",
+            "Transformers: Age of Extinction (2014)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Kenan Thompson": {
@@ -11742,7 +11886,10 @@ var actorMap = {
             "Mississippi Burning (1988)",
             "Ghostbusters II (1989)",
             "Chaplin (1992)",
-            "Vicky Cristina Barcelona (2008)"
+            "Transformers (2007)",
+            "Vicky Cristina Barcelona (2008)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Kevin Durand": {
@@ -11845,6 +11992,11 @@ var actorMap = {
             "The Old Guard (2020)"
         ]
     },
+    "Kiefer Sutherland": {
+        "movies": [
+            "Monsters vs. Aliens (2009)"
+        ]
+    },
     "Kieran Culkin": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)",
@@ -11920,6 +12072,7 @@ var actorMap = {
         "movies": [
             "Jumanji (1995)",
             "Spider-Man (2002)",
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "Spider-Man 2 (2004)",
             "Wimbledon (2004)",
             "Elizabethtown (2005)",
@@ -12000,6 +12153,7 @@ var actorMap = {
     },
     "Kristin Chenoweth": {
         "movies": [
+            "RV (2006)",
             "Stranger than Fiction (2006)",
             "Four Christmases (2008)",
             "You Again (2010)",
@@ -12214,7 +12368,8 @@ var actorMap = {
         "movies": [
             "Captain America: The First Avenger (2011)",
             "Guardians of the Galaxy (2014)",
-            "Guardians of the Galaxy Vol. 2 (2017)"
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Laura Harrier": {
@@ -12418,6 +12573,7 @@ var actorMap = {
             "Atlantis: The Lost Empire (2001)",
             "Star Trek (2009)",
             "Land of the Lost (2009)",
+            "Transformers: Dark of the Moon (2011)",
             "Star Trek Into Darkness (2013)"
         ]
     },
@@ -12543,6 +12699,11 @@ var actorMap = {
     "Lewis Tan": {
         "movies": [
             "Deadpool 2 (2018)"
+        ]
+    },
+    "Li Bingbing": {
+        "movies": [
+            "Transformers: Age of Extinction (2014)"
         ]
     },
     "Lia McHugh": {
@@ -13435,6 +13596,7 @@ var actorMap = {
         ],
         "movies": [
             "View from the Top (2003)",
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "13 Going on 30 (2004)",
             "Just like Heaven (2005)",
             "Rumor Has It (2005)",
@@ -13442,6 +13604,7 @@ var actorMap = {
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
             "Now You See Me (2013)",
+            "Foxcatcher (2014)",
             "Avengers: Age of Ultron (2015)",
             "Now You See Me 2 (2016)",
             "Thor: Ragnarok (2017)",
@@ -13487,7 +13650,10 @@ var actorMap = {
         ],
         "movies": [
             "Ted (2012)",
-            "2 Guns (2013)"
+            "2 Guns (2013)",
+            "Transformers: Age of Extinction (2014)",
+            "Transformers: The Last Knight (2017)",
+            "Uncharted (2022)"
         ]
     },
     "Mark Williams": {
@@ -13805,7 +13971,8 @@ var actorMap = {
     },
     "Matt Long": {
         "movies": [
-            "Ghost Rider (2007)"
+            "Ghost Rider (2007)",
+            "Sydney White (2007)"
         ]
     },
     "Matt Lucas": {
@@ -13851,6 +14018,11 @@ var actorMap = {
             "Watchmen (2009)",
             "The Imitation Game (2014)",
             "The King's Man (2021)"
+        ]
+    },
+    "Matthew Gray Gubler": {
+        "movies": [
+            "RV (2006)"
         ]
     },
     "Matthew Lewis": {
@@ -14003,6 +14175,8 @@ var actorMap = {
     },
     "Megan Fox": {
         "movies": [
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
             "Jonah Hex (2010)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
@@ -14888,6 +15062,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Mindy Sterling": {
+        "movies": [
+            "Transformers: Dark of the Moon (2011)"
+        ]
+    },
     "Ming-Na Wen": {
         "movies": [
             "The Joy Luck Club (1993)",
@@ -14948,6 +15127,11 @@ var actorMap = {
     "Misty Upham": {
         "movies": [
             "August: Osage County (2013)"
+        ]
+    },
+    "Mitch Pileggi": {
+        "movies": [
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Mitchell Whitfield": {
@@ -15371,6 +15555,12 @@ var actorMap = {
             "Malibu's Most Wanted (2003)"
         ]
     },
+    "Nicola Peltz": {
+        "movies": [
+            "Transformers: Age of Extinction (2014)",
+            "Transformers: The Last Knight (2017)"
+        ]
+    },
     "Nicolas Cage": {
         "leadNoms": [
             {
@@ -15502,7 +15692,8 @@ var actorMap = {
     "Nolan North": {
         "movies": [
             "TMNT (2007)",
-            "Star Trek Into Darkness (2013)"
+            "Star Trek Into Darkness (2013)",
+            "Uncharted (2022)"
         ]
     },
     "Nonso Anozie": {
@@ -15680,7 +15871,8 @@ var actorMap = {
     },
     "Omar Sy": {
         "movies": [
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Omari Hardwick": {
@@ -15801,6 +15993,11 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)"
         ]
     },
+    "Pamela Adlon": {
+        "movies": [
+            "Bumblebee (2018)"
+        ]
+    },
     "Pamela Anderson": {
         "movies": [
             "Barb Wire (1996)"
@@ -15854,7 +16051,8 @@ var actorMap = {
     "Patrick Dempsey": {
         "movies": [
             "Sweet Home Alabama (2002)",
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Patrick Ewing": {
@@ -16052,6 +16250,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "I Love You, Man (2009)",
+            "Monsters vs. Aliens (2009)",
             "How Do You Know (2010)",
             "The Perks of Being a Wallflower (2012)",
             "This Is the End (2013)",
@@ -16258,7 +16457,13 @@ var actorMap = {
     },
     "Peter Cullen": {
         "movies": [
-            "The Transformers: The Movie (1986)"
+            "The Transformers: The Movie (1986)",
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)",
+            "Transformers: Age of Extinction (2014)",
+            "Transformers: The Last Knight (2017)",
+            "Bumblebee (2018)"
         ]
     },
     "Peter Cushing": {
@@ -16496,6 +16701,11 @@ var actorMap = {
             "The Tailor of Panama (2001)"
         ]
     },
+    "Pilou Asb\u00e6k": {
+        "movies": [
+            "Uncharted (2022)"
+        ]
+    },
     "Piper Laurie": {
         "movies": [
             "Carrie (1976)"
@@ -16584,6 +16794,11 @@ var actorMap = {
             "Wreck-It Ralph (2012)"
         ]
     },
+    "Rachael Taylor": {
+        "movies": [
+            "Transformers (2007)"
+        ]
+    },
     "Rachel Dratch": {
         "movies": [
             "Little (2019)",
@@ -16659,7 +16874,9 @@ var actorMap = {
             "Galaxy Quest (1999)",
             "Almost Famous (2000)",
             "Sahara (2005)",
-            "Juno (2007)"
+            "Juno (2007)",
+            "Monsters vs. Aliens (2009)",
+            "Transformers: Revenge of the Fallen (2009)"
         ]
     },
     "Ralph Fiennes": {
@@ -16847,6 +17064,7 @@ var actorMap = {
             "Just like Heaven (2005)",
             "Walk the Line (2005)",
             "Four Christmases (2008)",
+            "Monsters vs. Aliens (2009)",
             "How Do You Know (2010)",
             "This Means War (2012)",
             "Wild (2014)",
@@ -16932,7 +17150,8 @@ var actorMap = {
         ],
         "movies": [
             "Dazed and Confused (1993)",
-            "Chicago (2002)"
+            "Chicago (2002)",
+            "Monsters vs. Aliens (2009)"
         ]
     },
     "Rex Harrison": {
@@ -17418,6 +17637,7 @@ var actorMap = {
     "Robert Pattinson": {
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
+            "The Lost City of Z (2017)",
             "The Lighthouse (2019)"
         ]
     },
@@ -17496,7 +17716,8 @@ var actorMap = {
         ],
         "movies": [
             "Jumanji (1995)",
-            "Robots (2005)"
+            "Robots (2005)",
+            "RV (2006)"
         ]
     },
     "Robin Wright": {
@@ -17679,6 +17900,11 @@ var actorMap = {
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
             "This Means War (2012)"
+        ]
+    },
+    "Rosie Huntington-Whiteley": {
+        "movies": [
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Rosie O'Donnell": {
@@ -18115,6 +18341,11 @@ var actorMap = {
             "Ready or Not (2019)"
         ]
     },
+    "Samm Levine": {
+        "movies": [
+            "Sydney White (2007)"
+        ]
+    },
     "Samuel L. Jackson": {
         "suppNoms": [
             {
@@ -18213,6 +18444,11 @@ var actorMap = {
         "movies": [
             "Atonement (2007)",
             "Little Women (2019)"
+        ]
+    },
+    "Sara Paxton": {
+        "movies": [
+            "Sydney White (2007)"
         ]
     },
     "Sarah Jessica Parker": {
@@ -18506,6 +18742,7 @@ var actorMap = {
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
             "Kung Fu Panda (2008)",
+            "Monsters vs. Aliens (2009)",
             "The Green Hornet (2011)",
             "Kung Fu Panda 2 (2011)",
             "This Is the End (2013)",
@@ -18616,7 +18853,10 @@ var actorMap = {
     },
     "Shia LaBeouf": {
         "movies": [
-            "Constantine (2005)"
+            "Constantine (2005)",
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)"
         ]
     },
     "Shirley Henderson": {
@@ -18701,6 +18941,8 @@ var actorMap = {
     },
     "Sienna Miller": {
         "movies": [
+            "Foxcatcher (2014)",
+            "The Lost City of Z (2017)",
             "21 Bridges (2019)"
         ]
     },
@@ -18855,6 +19097,11 @@ var actorMap = {
             "Chef (2014)"
         ]
     },
+    "Sophia Ali": {
+        "movies": [
+            "Uncharted (2022)"
+        ]
+    },
     "Sophia Bush": {
         "movies": [
             "Incredibles 2 (2018)"
@@ -18873,7 +19120,8 @@ var actorMap = {
     },
     "Sophia Myles": {
         "movies": [
-            "From Hell (2001)"
+            "From Hell (2001)",
+            "Transformers: Age of Extinction (2014)"
         ]
     },
     "Sophie McShera": {
@@ -18987,7 +19235,9 @@ var actorMap = {
             "Robots (2005)",
             "The Tale of Despereaux (2008)",
             "Captain America: The First Avenger (2011)",
+            "Transformers: Age of Extinction (2014)",
             "Beauty and the Beast (2017)",
+            "Transformers: The Last Knight (2017)",
             "The King's Man (2021)"
         ]
     },
@@ -19030,6 +19280,7 @@ var actorMap = {
     },
     "Stephen Colbert": {
         "movies": [
+            "Monsters vs. Aliens (2009)",
             "The Hobbit: The Desolation of Smaug (2013)"
         ]
     },
@@ -19143,7 +19394,8 @@ var actorMap = {
     "Steve Buscemi": {
         "movies": [
             "Ghost World (2001)",
-            "G-Force (2009)"
+            "G-Force (2009)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Steve Carell": {
@@ -19155,7 +19407,8 @@ var actorMap = {
         ],
         "movies": [
             "Knocked Up (2007)",
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "Foxcatcher (2014)"
         ]
     },
     "Steve Coogan": {
@@ -19350,6 +19603,7 @@ var actorMap = {
     },
     "T.J. Miller": {
         "movies": [
+            "Transformers: Age of Extinction (2014)",
             "Big Hero 6 (2014)",
             "Deadpool (2016)",
             "Ready Player One (2018)",
@@ -19451,6 +19705,11 @@ var actorMap = {
         "movies": [
             "Daddy's Little Girls (2007)",
             "Couples Retreat (2009)"
+        ]
+    },
+    "Tati Gabrielle": {
+        "movies": [
+            "Uncharted (2022)"
         ]
     },
     "Taye Diggs": {
@@ -19839,7 +20098,8 @@ var actorMap = {
     },
     "Titus Welliver": {
         "movies": [
-            "Red 2 (2013)"
+            "Red 2 (2013)",
+            "Transformers: Age of Extinction (2014)"
         ]
     },
     "Tobey Maguire": {
@@ -20007,6 +20267,7 @@ var actorMap = {
             "Locke (2014)",
             "In the Heart of the Sea (2015)",
             "Captain America: Civil War (2016)",
+            "The Lost City of Z (2017)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
@@ -20014,7 +20275,8 @@ var actorMap = {
             "Dolittle (2020)",
             "Onward (2020)",
             "Venom: Let There Be Carnage (2021)",
-            "Spider-Man: No Way Home (2021)"
+            "Spider-Man: No Way Home (2021)",
+            "Uncharted (2022)"
         ]
     },
     "Tom Hollander": {
@@ -20038,7 +20300,10 @@ var actorMap = {
     "Tom Kenny": {
         "movies": [
             "Sky High (2005)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)",
             "Ant-Man (2015)",
+            "Transformers: The Last Knight (2017)",
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
@@ -20079,6 +20344,7 @@ var actorMap = {
         ],
         "movies": [
             "Shakespeare in Love (1998)",
+            "Eternal Sunshine of the Spotless Mind (2004)",
             "Batman Begins (2005)",
             "Michael Clayton (2007)",
             "The Green Hornet (2011)"
@@ -20183,7 +20449,8 @@ var actorMap = {
     "Tony Hale": {
         "movies": [
             "Stranger than Fiction (2006)",
-            "The Tale of Despereaux (2008)"
+            "The Tale of Despereaux (2008)",
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Tony Leung": {
@@ -20216,7 +20483,8 @@ var actorMap = {
     "Tony Todd": {
         "movies": [
             "Lean on Me (1989)",
-            "The Crow (1994)"
+            "The Crow (1994)",
+            "Transformers: Revenge of the Fallen (2009)"
         ]
     },
     "Topher Grace": {
@@ -20360,6 +20628,13 @@ var actorMap = {
             "The Perfect Score (2004)"
         ]
     },
+    "Tyrese Gibson": {
+        "movies": [
+            "Transformers (2007)",
+            "Transformers: Revenge of the Fallen (2009)",
+            "Transformers: Dark of the Moon (2011)"
+        ]
+    },
     "T\u00e9a Leoni": {
         "movies": [
             "A League of Their Own (1992)"
@@ -20468,7 +20743,8 @@ var actorMap = {
         "movies": [
             "Howards End (1992)",
             "Girl, Interrupted (1999)",
-            "Atonement (2007)"
+            "Atonement (2007)",
+            "Foxcatcher (2014)"
         ]
     },
     "Vanilla Ice": {
@@ -20839,8 +21115,10 @@ var actorMap = {
     },
     "Will Arnett": {
         "movies": [
+            "RV (2006)",
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)",
+            "Monsters vs. Aliens (2009)",
             "G-Force (2009)",
             "Jonah Hex (2010)",
             "The Lego Movie (2014)",

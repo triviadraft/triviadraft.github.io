@@ -53571,6 +53571,7 @@ var movieMap = {
             "Alan Rickman",
             "Corbin Bleu",
             "Daryl Mitchell",
+            "Jeremy Howard",
             "Justin Long",
             "Rainn Wilson",
             "Sam Rockwell",
@@ -65116,6 +65117,15 @@ var movieMap = {
             "Dramas",
             "Jim Carrey",
             "Romance"
+        ],
+        "cast": [
+            "David Cross",
+            "Elijah Wood",
+            "Jim Carrey",
+            "Kate Winslet",
+            "Kirsten Dunst",
+            "Mark Ruffalo",
+            "Tom Wilkinson"
         ]
     },
     "Jersey Girl (2004)": {
@@ -71781,6 +71791,17 @@ var movieMap = {
             "2000s",
             "Comedies",
             "Robin Williams"
+        ],
+        "cast": [
+            "Barry Sonnenfeld",
+            "Cheryl Hines",
+            "Jeff Daniels",
+            "JoJo",
+            "Josh Hutcherson",
+            "Kristin Chenoweth",
+            "Matthew Gray Gubler",
+            "Robin Williams",
+            "Will Arnett"
         ]
     },
     "Stick It (2006)": {
@@ -75594,6 +75615,21 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Hasbro"
+        ],
+        "cast": [
+            "Anthony Anderson",
+            "Bernie Mac",
+            "Hugo Weaving",
+            "John Turturro",
+            "Jon Voight",
+            "Josh Duhamel",
+            "Julie White",
+            "Kevin Dunn",
+            "Megan Fox",
+            "Peter Cullen",
+            "Rachael Taylor",
+            "Shia LaBeouf",
+            "Tyrese Gibson"
         ]
     },
     "Rescue Dawn (2007)": {
@@ -76365,6 +76401,15 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comedies"
+        ],
+        "cast": [
+            "Amanda Bynes",
+            "Danny Strong",
+            "Jeremy Howard",
+            "John Schneider",
+            "Matt Long",
+            "Samm Levine",
+            "Sara Paxton"
         ]
     },
     "The Assassination of Jesse James by the Coward Robert Ford (2007)": {
@@ -81296,6 +81341,23 @@ var movieMap = {
             "DreamWorks Animation",
             "Frat Pack",
             "Reese Witherspoon"
+        ],
+        "cast": [
+            "Amy Poehler",
+            "Conrad Vernon",
+            "Ed Helms",
+            "Hugh Laurie",
+            "Jeffrey Tambor",
+            "John Krasinski",
+            "Julie White",
+            "Kiefer Sutherland",
+            "Paul Rudd",
+            "Rainn Wilson",
+            "Reese Witherspoon",
+            "Ren\u00e9e Zellweger",
+            "Seth Rogen",
+            "Stephen Colbert",
+            "Will Arnett"
         ]
     },
     "The Haunting in Connecticut (2009)": {
@@ -81987,6 +82049,21 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Hasbro"
+        ],
+        "cast": [
+            "Frank Welker",
+            "Hugo Weaving",
+            "John Turturro",
+            "Josh Duhamel",
+            "Julie White",
+            "Kevin Dunn",
+            "Megan Fox",
+            "Peter Cullen",
+            "Rainn Wilson",
+            "Shia LaBeouf",
+            "Tom Kenny",
+            "Tony Todd",
+            "Tyrese Gibson"
         ]
     },
     "My Sister's Keeper (2009)": {
@@ -88127,6 +88204,29 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Frances McDormand",
             "Hasbro"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Bill O'Reilly",
+            "Buzz Aldrin",
+            "Frances McDormand",
+            "Frank Welker",
+            "Hugo Weaving",
+            "James Remar",
+            "John Malkovich",
+            "John Turturro",
+            "Josh Duhamel",
+            "Julie White",
+            "Ken Jeong",
+            "Kevin Dunn",
+            "Leonard Nimoy",
+            "Mindy Sterling",
+            "Patrick Dempsey",
+            "Peter Cullen",
+            "Rosie Huntington-Whiteley",
+            "Shia LaBeouf",
+            "Tom Kenny",
+            "Tyrese Gibson"
         ]
     },
     "Larry Crowne (2011)": {
@@ -97777,6 +97877,21 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro",
             "Stanley Tucci"
+        ],
+        "cast": [
+            "Frank Welker",
+            "Jack Reynor",
+            "John Goodman",
+            "Kelsey Grammer",
+            "Ken Watanabe",
+            "Li Bingbing",
+            "Mark Wahlberg",
+            "Nicola Peltz",
+            "Peter Cullen",
+            "Sophia Myles",
+            "Stanley Tucci",
+            "T.J. Miller",
+            "Titus Welliver"
         ]
     },
     "Deliver Us from Evil (2014)": {
@@ -99264,6 +99379,15 @@ var movieMap = {
             "2010s",
             "Brat Pack",
             "Frat Pack"
+        ],
+        "cast": [
+            "Anthony Michael Hall",
+            "Brock Lesnar",
+            "Channing Tatum",
+            "Mark Ruffalo",
+            "Sienna Miller",
+            "Steve Carell",
+            "Vanessa Redgrave"
         ]
     },
     "The Homesman (2014)": {
@@ -108013,6 +108137,17 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ],
+        "cast": [
+            "Angus Macfadyen",
+            "Charlie Hunnam",
+            "Daniel Huttlestone",
+            "Franco Nero",
+            "Harry Melling",
+            "Ian McDiarmid",
+            "Robert Pattinson",
+            "Sienna Miller",
+            "Tom Holland"
         ]
     },
     "Free Fire (2017)": {
@@ -108603,6 +108738,29 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro",
             "Stanley Tucci"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Frank Welker",
+            "Gemma Chan",
+            "Gil Birmingham",
+            "Isabela Merced",
+            "Jerrod Carmichael",
+            "Jim Carter",
+            "John Goodman",
+            "John Turturro",
+            "Josh Duhamel",
+            "Ken Watanabe",
+            "Laura Haddock",
+            "Mark Wahlberg",
+            "Mitch Pileggi",
+            "Nicola Peltz",
+            "Omar Sy",
+            "Peter Cullen",
+            "Stanley Tucci",
+            "Steve Buscemi",
+            "Tom Kenny",
+            "Tony Hale"
         ]
     },
     "The Bad Batch (2017)": {
@@ -115220,6 +115378,19 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Angela Bassett",
+            "Dylan O'Brien",
+            "Glynn Turman",
+            "Hailee Steinfeld",
+            "Jason Drucker",
+            "John Cena",
+            "John Ortiz",
+            "Jorge Lendeborg Jr.",
+            "Justin Theroux",
+            "Pamela Adlon",
+            "Peter Cullen"
         ]
     },
     "Second Act (2018)": {
@@ -126462,6 +126633,15 @@ var movieMap = {
         "categories": [
             "2020s",
             "Antonio Banderas"
+        ],
+        "cast": [
+            "Antonio Banderas",
+            "Mark Wahlberg",
+            "Nolan North",
+            "Pilou Asb\u00e6k",
+            "Sophia Ali",
+            "Tati Gabrielle",
+            "Tom Holland"
         ]
     }
 }
