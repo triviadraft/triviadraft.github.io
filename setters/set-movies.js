@@ -63224,6 +63224,14 @@ var movieMap = {
             "Jennifer Lopez",
             "Matt & Ben",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Al Pacino",
+            "Ben Affleck",
+            "Christopher Walken",
+            "Jennifer Lopez",
+            "Justin Bartha",
+            "Lainie Kazan"
         ]
     },
     "Freaky Friday (2003)": {
@@ -92565,6 +92573,19 @@ var movieMap = {
             "Halle Berry",
             "Tom Hanks",
             "Wachowskis"
+        ],
+        "cast": [
+            "Bae Doona",
+            "Ben Whishaw",
+            "Halle Berry",
+            "Hugh Grant",
+            "Hugo Weaving",
+            "James D'Arcy",
+            "Jim Broadbent",
+            "Jim Sturgess",
+            "Keith David",
+            "Susan Sarandon",
+            "Tom Hanks"
         ]
     },
     "Silent Hill: Revelation (2012)": {
@@ -100118,6 +100139,14 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Ewan McGregor",
+            "Gwyneth Paltrow",
+            "Jeff Goldblum",
+            "Johnny Depp",
+            "Olivia Munn",
+            "Paul Bettany"
         ]
     },
     "Strange Magic (2015)": {
@@ -102855,6 +102884,15 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Andrew Scott",
+            "Callum Turner",
+            "Charles Dance",
+            "Daniel Radcliffe",
+            "James McAvoy",
+            "Jessica Brown Findlay",
+            "Mark Gatiss"
         ]
     },
     "The Danish Girl (2015)": {

@@ -274,6 +274,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Gigli (2003)",
             "Ocean's Thirteen (2007)"
         ]
     },
@@ -891,6 +892,7 @@ var actorMap = {
     "Andrew Scott": {
         "movies": [
             "Locke (2014)",
+            "Victor Frankenstein (2015)",
             "1917 (2019)"
         ]
     },
@@ -1593,6 +1595,11 @@ var actorMap = {
             "Seven Years in Tibet (1997)"
         ]
     },
+    "Bae Doona": {
+        "movies": [
+            "Cloud Atlas (2012)"
+        ]
+    },
     "Bahar Soomekh": {
         "movies": [
             "Crash (2005)"
@@ -1680,6 +1687,7 @@ var actorMap = {
             "Shakespeare in Love (1998)",
             "Dogma (1999)",
             "Daredevil (2003)",
+            "Gigli (2003)",
             "He's Just Not That into You (2009)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Suicide Squad (2016)",
@@ -1779,6 +1787,7 @@ var actorMap = {
     },
     "Ben Whishaw": {
         "movies": [
+            "Cloud Atlas (2012)",
             "In the Heart of the Sea (2015)"
         ]
     },
@@ -2847,6 +2856,7 @@ var actorMap = {
     },
     "Callum Turner": {
         "movies": [
+            "Victor Frankenstein (2015)",
             "Green Room (2016)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
@@ -3208,6 +3218,7 @@ var actorMap = {
         "movies": [
             "Last Action Hero (1993)",
             "The Imitation Game (2014)",
+            "Victor Frankenstein (2015)",
             "Ghostbusters (2016)",
             "The King's Man (2021)"
         ]
@@ -3749,6 +3760,7 @@ var actorMap = {
             "The Deer Hunter (1978)",
             "Batman Returns (1992)",
             "Catch Me If You Can (2002)",
+            "Gigli (2003)",
             "Hairspray (2007)",
             "The Jungle Book (2016)"
         ]
@@ -4392,6 +4404,7 @@ var actorMap = {
             "Kill Your Darlings (2013)",
             "Horns (2014)",
             "Trainwreck (2015)",
+            "Victor Frankenstein (2015)",
             "Now You See Me 2 (2016)",
             "Swiss Army Man (2016)"
         ]
@@ -6319,6 +6332,7 @@ var actorMap = {
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "The Impossible (2012)",
             "August: Osage County (2013)",
+            "Mortdecai (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Beauty and the Beast (2017)",
             "Star Wars: The Rise of Skywalker (2019)",
@@ -7342,6 +7356,7 @@ var actorMap = {
             "Iron Man 2 (2010)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
+            "Mortdecai (2015)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
@@ -7416,6 +7431,7 @@ var actorMap = {
             "Robots (2005)",
             "X-Men: The Last Stand (2006)",
             "New Year's Eve (2011)",
+            "Cloud Atlas (2012)",
             "Movie 43 (2013)",
             "X-Men: Days of Future Past (2014)",
             "Kingsman: The Golden Circle (2017)"
@@ -7833,7 +7849,8 @@ var actorMap = {
     "Hugh Grant": {
         "movies": [
             "The Remains of the Day (1993)",
-            "Love Actually (2003)"
+            "Love Actually (2003)",
+            "Cloud Atlas (2012)"
         ]
     },
     "Hugh Jackman": {
@@ -7876,6 +7893,7 @@ var actorMap = {
             "Transformers: Revenge of the Fallen (2009)",
             "Transformers: Dark of the Moon (2011)",
             "Captain America: The First Avenger (2011)",
+            "Cloud Atlas (2012)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
@@ -8630,6 +8648,7 @@ var actorMap = {
     },
     "James D'Arcy": {
         "movies": [
+            "Cloud Atlas (2012)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -8733,6 +8752,7 @@ var actorMap = {
             "Wanted (2008)",
             "X-Men: First Class (2011)",
             "X-Men: Days of Future Past (2014)",
+            "Victor Frankenstein (2015)",
             "X-Men: Apocalypse (2016)",
             "Split (2017)",
             "Atomic Blonde (2017)",
@@ -9309,6 +9329,7 @@ var actorMap = {
             "Jurassic Park (1993)",
             "The Lost World: Jurassic Park (1997)",
             "The Prince of Egypt (1998)",
+            "Mortdecai (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Thor: Ragnarok (2017)"
         ]
@@ -9475,7 +9496,8 @@ var actorMap = {
     },
     "Jennifer Lopez": {
         "movies": [
-            "Enough (2002)"
+            "Enough (2002)",
+            "Gigli (2003)"
         ]
     },
     "Jennifer Love Hewitt": {
@@ -9657,6 +9679,11 @@ var actorMap = {
             "New Year's Eve (2011)"
         ]
     },
+    "Jessica Brown Findlay": {
+        "movies": [
+            "Victor Frankenstein (2015)"
+        ]
+    },
     "Jessica Chastain": {
         "leadNoms": [
             {
@@ -9788,6 +9815,7 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Cloud Atlas (2012)",
             "Dolittle (2020)"
         ]
     },
@@ -9831,7 +9859,8 @@ var actorMap = {
     },
     "Jim Sturgess": {
         "movies": [
-            "The Other Boleyn Girl (2008)"
+            "The Other Boleyn Girl (2008)",
+            "Cloud Atlas (2012)"
         ]
     },
     "Jim Varney": {
@@ -10518,6 +10547,7 @@ var actorMap = {
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Dark Shadows (2012)",
             "Into the Woods (2014)",
+            "Mortdecai (2015)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
             "Murder on the Orient Express (2017)",
@@ -11239,6 +11269,11 @@ var actorMap = {
             "North (1994)"
         ]
     },
+    "Justin Bartha": {
+        "movies": [
+            "Gigli (2003)"
+        ]
+    },
     "Justin Hartley": {
         "movies": [
             "Little (2019)"
@@ -11679,6 +11714,7 @@ var actorMap = {
         "movies": [
             "Crash (2005)",
             "Mr. & Mrs. Smith (2005)",
+            "Cloud Atlas (2012)",
             "21 Bridges (2019)"
         ]
     },
@@ -12240,6 +12276,11 @@ var actorMap = {
         ],
         "movies": [
             "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
+    "Lainie Kazan": {
+        "movies": [
+            "Gigli (2003)"
         ]
     },
     "Lake Bell": {
@@ -13547,6 +13588,11 @@ var actorMap = {
     "Mark Duplass": {
         "movies": [
             "Zero Dark Thirty (2012)"
+        ]
+    },
+    "Mark Gatiss": {
+        "movies": [
+            "Victor Frankenstein (2015)"
         ]
     },
     "Mark Hamill": {
@@ -15834,6 +15880,7 @@ var actorMap = {
     "Olivia Munn": {
         "movies": [
             "Iron Man 2 (2010)",
+            "Mortdecai (2015)",
             "X-Men: Apocalypse (2016)",
             "Ocean's 8 (2018)"
         ]
@@ -16128,6 +16175,7 @@ var actorMap = {
             "Priest (2011)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
+            "Mortdecai (2015)",
             "Avengers: Age of Ultron (2015)",
             "Captain America: Civil War (2016)",
             "Avengers: Infinity War (2018)",
@@ -19550,7 +19598,8 @@ var actorMap = {
         ],
         "movies": [
             "The Witches of Eastwick (1987)",
-            "Elizabethtown (2005)"
+            "Elizabethtown (2005)",
+            "Cloud Atlas (2012)"
         ]
     },
     "Susannah York": {
@@ -20230,6 +20279,7 @@ var actorMap = {
             "Road to Perdition (2002)",
             "Catch Me If You Can (2002)",
             "The Terminal (2004)",
+            "Cloud Atlas (2012)",
             "The Circle (2017)"
         ]
     },
