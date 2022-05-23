@@ -506,6 +506,11 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Alexander Skarsg\u00e5rd": {
+        "movies": [
+            "Long Shot (2019)"
+        ]
+    },
     "Alexandra Shipp": {
         "movies": [
             "X-Men: Apocalypse (2016)",
@@ -941,6 +946,7 @@ var actorMap = {
             "13 Going on 30 (2004)",
             "King Kong (2005)",
             "The Prestige (2006)",
+            "Flushed Away (2006)",
             "Inkheart (2009)",
             "The Adventures of Tintin (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
@@ -949,6 +955,7 @@ var actorMap = {
             "Star Wars: The Last Jedi (2017)",
             "Black Panther (2018)",
             "Mowgli: Legend of the Jungle (2018)",
+            "Long Shot (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -2024,6 +2031,7 @@ var actorMap = {
             "Love Actually (2003)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
+            "Flushed Away (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "G-Force (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
@@ -2205,6 +2213,7 @@ var actorMap = {
     "Bob Odenkirk": {
         "movies": [
             "Incredibles 2 (2018)",
+            "Long Shot (2019)",
             "Little Women (2019)"
         ]
     },
@@ -3277,6 +3286,7 @@ var actorMap = {
         ],
         "movies": [
             "Atomic Blonde (2017)",
+            "Long Shot (2019)",
             "The Old Guard (2020)"
         ]
     },
@@ -7866,6 +7876,7 @@ var actorMap = {
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
             "The Prestige (2006)",
+            "Flushed Away (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
             "Les Mis\u00e9rables (2012)",
@@ -7981,6 +7992,7 @@ var actorMap = {
             "X2 (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
             "X-Men: The Last Stand (2006)",
+            "Flushed Away (2006)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "X-Men: Days of Future Past (2014)",
@@ -8797,6 +8809,12 @@ var actorMap = {
             "Horns (2014)"
         ]
     },
+    "James Saito": {
+        "movies": [
+            "Teenage Mutant Ninja Turtles (1990)",
+            "Long Shot (2019)"
+        ]
+    },
     "James Spader": {
         "movies": [
             "Avengers: Age of Ultron (2015)"
@@ -9250,6 +9268,7 @@ var actorMap = {
     },
     "Jean Reno": {
         "movies": [
+            "Flushed Away (2006)",
             "Couples Retreat (2009)"
         ]
     },
@@ -11238,7 +11257,8 @@ var actorMap = {
     "June Diane Raphael": {
         "movies": [
             "Zodiac (2007)",
-            "Bride Wars (2009)"
+            "Bride Wars (2009)",
+            "Long Shot (2019)"
         ]
     },
     "June Squibb": {
@@ -11479,6 +11499,7 @@ var actorMap = {
         ],
         "movies": [
             "Eternal Sunshine of the Spotless Mind (2004)",
+            "Flushed Away (2006)",
             "The Holiday (2006)",
             "Movie 43 (2013)"
         ]
@@ -12791,7 +12812,8 @@ var actorMap = {
     },
     "Lil Yachty": {
         "movies": [
-            "Teen Titans Go! To the Movies (2018)"
+            "Teen Titans Go! To the Movies (2018)",
+            "Long Shot (2019)"
         ]
     },
     "Lilla Crawford": {
@@ -12891,6 +12913,11 @@ var actorMap = {
                 "movie": "A Free Soul",
                 "year": "1931"
             }
+        ]
+    },
+    "Lisa Kudrow": {
+        "movies": [
+            "Long Shot (2019)"
         ]
     },
     "Little Richard": {
@@ -15782,6 +15809,11 @@ var actorMap = {
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "O'Shea Jackson Jr.": {
+        "movies": [
+            "Long Shot (2019)"
+        ]
+    },
     "O-T Fagbenle": {
         "movies": [
             "Black Widow (2021)"
@@ -16311,7 +16343,8 @@ var actorMap = {
     },
     "Paul Scheer": {
         "movies": [
-            "Bride Wars (2009)"
+            "Bride Wars (2009)",
+            "Long Shot (2019)"
         ]
     },
     "Paul Scofield": {
@@ -16982,7 +17015,8 @@ var actorMap = {
         "movies": [
             "Trainwreck (2015)",
             "Ant-Man and the Wasp (2018)",
-            "Aquaman (2018)"
+            "Aquaman (2018)",
+            "Long Shot (2019)"
         ]
     },
     "Randy Jackson": {
@@ -18794,7 +18828,8 @@ var actorMap = {
             "The Green Hornet (2011)",
             "Kung Fu Panda 2 (2011)",
             "This Is the End (2013)",
-            "Kung Fu Panda 3 (2016)"
+            "Kung Fu Panda 3 (2016)",
+            "Long Shot (2019)"
         ]
     },
     "Shahadi Wright Joseph": {

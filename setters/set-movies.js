@@ -30840,6 +30840,7 @@ var movieMap = {
             "Brian Tochi",
             "Corey Feldman",
             "Elias Koteas",
+            "James Saito",
             "Josh Pais",
             "Judith Hoag",
             "Robbie Rist",
@@ -73485,6 +73486,14 @@ var movieMap = {
             "2000s",
             "Animated",
             "DreamWorks Animation"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Bill Nighy",
+            "Hugh Jackman",
+            "Ian McKellen",
+            "Jean Reno",
+            "Kate Winslet"
         ]
     },
     "The Santa Clause 3: The Escape Clause (2006)": {
@@ -116857,6 +116866,20 @@ var movieMap = {
             "Charlize Theron",
             "Comedies",
             "Frat Pack"
+        ],
+        "cast": [
+            "Alexander Skarsg\u00e5rd",
+            "Andy Serkis",
+            "Bob Odenkirk",
+            "Charlize Theron",
+            "James Saito",
+            "June Diane Raphael",
+            "Lil Yachty",
+            "Lisa Kudrow",
+            "O'Shea Jackson Jr.",
+            "Paul Scheer",
+            "Randall Park",
+            "Seth Rogen"
         ]
     },
     "UglyDolls (2019)": {
