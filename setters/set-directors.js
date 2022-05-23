@@ -97,6 +97,50 @@ var directorMap = {
             "year": "1991"
         }
     ],
+    "Alan Parker": [
+        {
+            "movie": "Bugsy Malone",
+            "year": "1976"
+        },
+        {
+            "movie": "Fame",
+            "year": "1980"
+        },
+        {
+            "movie": "Shoot the Moon",
+            "year": "1982"
+        },
+        {
+            "movie": "Angel Heart",
+            "year": "1987"
+        },
+        {
+            "movie": "Mississippi Burning",
+            "year": "1988"
+        },
+        {
+            "movie": "Evita",
+            "year": "1996"
+        },
+        {
+            "movie": "The Life of David Gale",
+            "year": "2003"
+        }
+    ],
+    "Alan Taylor": [
+        {
+            "movie": "Thor: The Dark World",
+            "year": "2013"
+        },
+        {
+            "movie": "Terminator Genisys",
+            "year": "2015"
+        },
+        {
+            "movie": "The Many Saints of Newark",
+            "year": "2021"
+        }
+    ],
     "Alejandro G. I\u00f1\u00e1rritu": [
         {
             "movie": "21 Grams",
@@ -311,6 +355,40 @@ var directorMap = {
             "year": "1995"
         }
     ],
+    "Andrew Davis": [
+        {
+            "movie": "Above the Law",
+            "year": "1988"
+        },
+        {
+            "movie": "Under Siege",
+            "year": "1992"
+        },
+        {
+            "movie": "The Fugitive",
+            "year": "1993"
+        },
+        {
+            "movie": "Chain Reaction",
+            "year": "1996"
+        },
+        {
+            "movie": "A Perfect Murder",
+            "year": "1998"
+        },
+        {
+            "movie": "Collateral Damage",
+            "year": "2002"
+        },
+        {
+            "movie": "Holes",
+            "year": "2003"
+        },
+        {
+            "movie": "The Guardian",
+            "year": "2006"
+        }
+    ],
     "Andy Serkis": [
         {
             "movie": "Mowgli: Legend of the Jungle",
@@ -404,6 +482,10 @@ var directorMap = {
         }
     ],
     "Antoine Fuqua": [
+        {
+            "movie": "Bait",
+            "year": "2000"
+        },
         {
             "movie": "Training Day",
             "year": "2001"
@@ -905,6 +987,16 @@ var directorMap = {
             "year": "1978"
         }
     ],
+    "Burt Reynolds": [
+        {
+            "movie": "Sharky's Machine",
+            "year": "1981"
+        },
+        {
+            "movie": "Stick",
+            "year": "1985"
+        }
+    ],
     "Cameron Crowe": [
         {
             "movie": "Say Anything...",
@@ -1005,6 +1097,10 @@ var directorMap = {
         {
             "movie": "Home Alone",
             "year": "1990"
+        },
+        {
+            "movie": "Only the Lonely",
+            "year": "1991"
         },
         {
             "movie": "Home Alone 2: Lost in New York",
@@ -1457,6 +1553,36 @@ var directorMap = {
             "year": "2017"
         }
     ],
+    "David Ayer": [
+        {
+            "movie": "Street Kings",
+            "year": "2008"
+        },
+        {
+            "movie": "End of Watch",
+            "year": "2012"
+        },
+        {
+            "movie": "Sabotage",
+            "year": "2014"
+        },
+        {
+            "movie": "Fury",
+            "year": "2014"
+        },
+        {
+            "movie": "Suicide Squad",
+            "year": "2016"
+        },
+        {
+            "movie": "Bright",
+            "year": "2017"
+        },
+        {
+            "movie": "The Tax Collector",
+            "year": "2020"
+        }
+    ],
     "David Cronenberg": [
         {
             "movie": "Scanners",
@@ -1709,6 +1835,10 @@ var directorMap = {
             "year": "1969"
         },
         {
+            "movie": "Colors",
+            "year": "1988"
+        },
+        {
             "movie": "The Hot Spot",
             "year": "1990"
         }
@@ -1909,6 +2039,20 @@ var directorMap = {
             "year": "2019"
         }
     ],
+    "Emilio Estevez": [
+        {
+            "movie": "Wisdom",
+            "year": "1986"
+        },
+        {
+            "movie": "Men at Work",
+            "year": "1990"
+        },
+        {
+            "movie": "Bobby",
+            "year": "2006"
+        }
+    ],
     "Ethan Coen": [
         {
             "movie": "Blood Simple",
@@ -1981,6 +2125,12 @@ var directorMap = {
         {
             "movie": "The Ballad of Buster Scruggs",
             "year": "2018"
+        }
+    ],
+    "Ewan McGregor": [
+        {
+            "movie": "American Pastoral",
+            "year": "2016"
         }
     ],
     "F. Gary Gray": [
@@ -3087,7 +3237,17 @@ var directorMap = {
             "year": "1990"
         }
     ],
+    "Jackie Chan": [
+        {
+            "movie": "Chinese Zodiac",
+            "year": "2013"
+        }
+    ],
     "James Cameron": [
+        {
+            "movie": "Piranha II: The Spawning",
+            "year": "1982"
+        },
         {
             "movie": "The Terminator",
             "year": "1984"
@@ -3241,6 +3401,10 @@ var directorMap = {
             "year": "2013"
         },
         {
+            "movie": "Men, Women & Children",
+            "year": "2014"
+        },
+        {
             "movie": "Tully",
             "year": "2018"
         },
@@ -3389,9 +3553,17 @@ var directorMap = {
         {
             "movie": "Boss Level",
             "year": "2021"
+        },
+        {
+            "movie": "Copshop",
+            "year": "2021"
         }
     ],
     "Joe Dante": [
+        {
+            "movie": "Piranha",
+            "year": "1978"
+        },
         {
             "movie": "The Howling",
             "year": "1981"
@@ -3911,6 +4083,10 @@ var directorMap = {
             "year": "1983"
         },
         {
+            "movie": "Into the Night",
+            "year": "1985"
+        },
+        {
             "movie": "Spies Like Us",
             "year": "1985"
         },
@@ -4393,6 +4569,10 @@ var directorMap = {
         {
             "movie": "Belfast",
             "year": "2021"
+        },
+        {
+            "movie": "Death on the Nile",
+            "year": "2022"
         }
     ],
     "Kevin Costner": [
@@ -5133,6 +5313,36 @@ var directorMap = {
         {
             "movie": "Idiocracy",
             "year": "2006"
+        },
+        {
+            "movie": "Extract",
+            "year": "2009"
+        }
+    ],
+    "Mike Newell": [
+        {
+            "movie": "Four Weddings and a Funeral",
+            "year": "1994"
+        },
+        {
+            "movie": "Donnie Brasco",
+            "year": "1997"
+        },
+        {
+            "movie": "Pushing Tin",
+            "year": "1999"
+        },
+        {
+            "movie": "Mona Lisa Smile",
+            "year": "2003"
+        },
+        {
+            "movie": "Harry Potter and the Goblet of Fire",
+            "year": "2005"
+        },
+        {
+            "movie": "Prince of Persia: The Sands of Time",
+            "year": "2010"
         }
     ],
     "Mike Nichols": [
@@ -5283,6 +5493,10 @@ var directorMap = {
         {
             "movie": "While We're Young",
             "year": "2015"
+        },
+        {
+            "movie": "De Palma",
+            "year": "2016"
         },
         {
             "movie": "The Meyerowitz Stories (New and Selected)",
@@ -5959,6 +6173,48 @@ var directorMap = {
             "year": "2021"
         }
     ],
+    "Renny Harlin": [
+        {
+            "movie": "A Nightmare on Elm Street 4: The Dream Master",
+            "year": "1988"
+        },
+        {
+            "movie": "Die Hard 2",
+            "year": "1990"
+        },
+        {
+            "movie": "Cliffhanger",
+            "year": "1993"
+        },
+        {
+            "movie": "Cutthroat Island",
+            "year": "1995"
+        },
+        {
+            "movie": "The Long Kiss Goodnight",
+            "year": "1996"
+        },
+        {
+            "movie": "Deep Blue Sea",
+            "year": "1999"
+        },
+        {
+            "movie": "Driven",
+            "year": "2001"
+        },
+        {
+            "movie": "Exorcist: The Beginning",
+            "year": "2004"
+        },
+        {
+            "movie": "The Covenant",
+            "year": "2006"
+        },
+        {
+            "movie": "12 Rounds",
+            "year": "2009"
+        }
+    ],
     "Richard Attenborough": [
         {
             "movie": "A Bridge Too Far",
@@ -6481,6 +6737,10 @@ var directorMap = {
         {
             "movie": "The Lords of Salem",
             "year": "2013"
+        },
+        {
+            "movie": "3 from Hell",
+            "year": "2019"
         }
     ],
     "Robert Altman": [
@@ -6833,6 +7093,10 @@ var directorMap = {
         {
             "movie": "Midway",
             "year": "2019"
+        },
+        {
+            "movie": "Moonfall",
+            "year": "2022"
         }
     ],
     "Ron Howard": [
@@ -7641,6 +7905,10 @@ var directorMap = {
     ],
     "Sydney Pollack": [
         {
+            "movie": "This Property Is Condemned",
+            "year": "1966"
+        },
+        {
             "movie": "They Shoot Horses, Don't They?",
             "year": "1969"
         },
@@ -7659,6 +7927,10 @@ var directorMap = {
         {
             "movie": "The Electric Horseman",
             "year": "1979"
+        },
+        {
+            "movie": "Absence of Malice",
+            "year": "1981"
         },
         {
             "movie": "Tootsie",
@@ -7987,6 +8259,10 @@ var directorMap = {
         {
             "movie": "Paranormal Activity 2",
             "year": "2010"
+        },
+        {
+            "movie": "Cell",
+            "year": "2016"
         }
     ],
     "Todd Phillips": [
@@ -8577,6 +8853,10 @@ var directorMap = {
         {
             "movie": "The Curse of the Jade Scorpion",
             "year": "2001"
+        },
+        {
+            "movie": "Anything Else",
+            "year": "2003"
         },
         {
             "movie": "Match Point",

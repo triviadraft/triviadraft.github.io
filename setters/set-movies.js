@@ -932,7 +932,8 @@ var movieMap = {
             "Heinz Roemheld"
         ],
         "categories": [
-            "Classics"
+            "Classics",
+            "Monster"
         ]
     },
     "Little Women (1933)": {
@@ -3589,6 +3590,7 @@ var movieMap = {
             "Comedies",
             "Horror",
             "Horror/Thriller",
+            "Monster",
             "Spoof"
         ]
     },
@@ -4169,7 +4171,10 @@ var movieMap = {
         ],
         "categories": [
             "1950s",
-            "Classics"
+            "Classics",
+            "Comedies",
+            "Monster",
+            "Spoof"
         ]
     },
     "Royal Wedding (1951)": {
@@ -5580,6 +5585,7 @@ var movieMap = {
         "categories": [
             "1950s",
             "Classics",
+            "Fantasy/Sci-Fi",
             "Horror",
             "Horror/Thriller"
         ]
@@ -6430,6 +6436,7 @@ var movieMap = {
         "categories": [
             "1950s",
             "Classics",
+            "Fantasy/Sci-Fi",
             "Horror",
             "Horror/Thriller"
         ]
@@ -6732,6 +6739,7 @@ var movieMap = {
         "categories": [
             "1950s",
             "Classics",
+            "Fantasy/Sci-Fi",
             "Horror",
             "Horror/Thriller"
         ]
@@ -7363,7 +7371,8 @@ var movieMap = {
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Musicians in Film"
         ]
     },
     "Babes in Toyland (1961)": {
@@ -8847,7 +8856,9 @@ var movieMap = {
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Coppolas",
+            "Paul Newman & Robert Redford"
         ]
     },
     "Who's Afraid of Virginia Woolf? (1966)": {
@@ -9999,7 +10010,8 @@ var movieMap = {
         ],
         "categories": [
             "1960s",
-            "Classics"
+            "Classics",
+            "Crime"
         ]
     },
     "The Lion in Winter (1968)": {
@@ -13228,6 +13240,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Crime",
             "Mystery",
             "Sean Connery"
         ]
@@ -13735,7 +13748,8 @@ var movieMap = {
             "Buddy Baker"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Westerns"
         ]
     },
     "Dog Day Afternoon (1975)": {
@@ -13880,6 +13894,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Action/Adventure",
             "Sean Connery"
         ]
     },
@@ -15530,7 +15545,9 @@ var movieMap = {
             "Pino Donaggio"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Horror",
+            "Horror/Thriller"
         ]
     },
     "Days of Heaven (1978)": {
@@ -15590,6 +15607,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Crime",
             "Mystery"
         ]
     },
@@ -15841,6 +15859,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Fantasy/Sci-Fi",
             "Horror",
             "Horror/Thriller",
             "Remakes & Reboots"
@@ -16189,7 +16208,8 @@ var movieMap = {
             "Buddy Baker"
         ],
         "categories": [
-            "1970s"
+            "1970s",
+            "Westerns"
         ]
     },
     "Meatballs (1979)": {
@@ -18367,7 +18387,8 @@ var movieMap = {
             "Dave Grusin"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Paul Newman & Robert Redford"
         ]
     },
     "Ragtime (1981)": {
@@ -19347,7 +19368,9 @@ var movieMap = {
             "Steve Powder"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Horror",
+            "Horror/Thriller"
         ]
     },
     "Creepshow (1982)": {
@@ -21231,6 +21254,7 @@ var movieMap = {
         ],
         "categories": [
             "1980s",
+            "Musicals",
             "SCTV Alumni"
         ]
     },
@@ -21674,7 +21698,9 @@ var movieMap = {
             "Lennie Niehaus"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Clint Eastwood",
+            "Eastwoods"
         ]
     },
     "Oxford Blues (1984)": {
@@ -21824,7 +21850,8 @@ var movieMap = {
             "N/A"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Morgan Freeman"
         ]
     },
     "The Terminator (1984)": {
@@ -22304,7 +22331,9 @@ var movieMap = {
             "Ira Newborn"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Michelle Pfeiffer",
+            "Musicians in Film"
         ]
     },
     "The Purple Rose of Cairo (1985)": {
@@ -23294,7 +23323,8 @@ var movieMap = {
             "Jay Chattaway"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Action/Adventure"
         ]
     },
     "The Journey of Natty Gann (1985)": {
@@ -23569,7 +23599,9 @@ var movieMap = {
         ],
         "categories": [
             "1980s",
-            "Comedies"
+            "Coen Brothers",
+            "Comedies",
+            "Spy"
         ],
         "cast": [
             "B.B. King",
@@ -27383,7 +27415,9 @@ var movieMap = {
             "Peter Best"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Action/Adventure",
+            "Comedies"
         ]
     },
     "Rambo III (1988)": {
@@ -29929,7 +29963,9 @@ var movieMap = {
             "Trevor Jones"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Al Pacino",
+            "Samuel L. Jackson"
         ]
     },
     "Black Rain (1989)": {
@@ -30472,6 +30508,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Action/Adventure",
+            "Crime",
             "Kurt Russell",
             "Sly & Arnie"
         ]
@@ -30748,7 +30785,9 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
-            "Jamie Lee Curtis"
+            "Horror/Thriller",
+            "Jamie Lee Curtis",
+            "Thriller"
         ]
     },
     "Pretty Woman (1990)": {
@@ -32655,7 +32694,11 @@ var movieMap = {
             "Roy Orbison"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Brat Pack",
+            "Comedies",
+            "John Candy",
+            "SCTV Alumni"
         ]
     },
     "Thelma & Louise (1991)": {
@@ -33431,7 +33474,8 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
-            "Jodie Foster"
+            "Jodie Foster",
+            "Musicians in Film"
         ]
     },
     "House Party 2 (1991)": {
@@ -33496,7 +33540,9 @@ var movieMap = {
             "Steven Jae Johnson"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Brat Pack",
+            "Frances McDormand"
         ]
     },
     "Billy Bathgate (1991)": {
@@ -33803,6 +33849,7 @@ var movieMap = {
             "1990s",
             "Comedies",
             "Family",
+            "Remakes & Reboots",
             "Rom-Coms",
             "Romance",
             "SCTV Alumni"
@@ -34313,6 +34360,7 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Disney",
             "Musicals"
         ]
     },
@@ -37586,6 +37634,7 @@ var movieMap = {
         "categories": [
             "1990s",
             "Dramas",
+            "Historical Epics & Dramas",
             "Sheens"
         ]
     },
@@ -37937,7 +37986,10 @@ var movieMap = {
             "James Horner"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Amblin",
+            "Animated",
+            "SCTV Alumni"
         ]
     },
     "Six Degrees of Separation (1993)": {
@@ -38311,8 +38363,10 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Fantasy/Sci-Fi",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Remakes & Reboots"
         ]
     },
     "Death Wish V: The Face of Death (1994)": {
@@ -38457,7 +38511,8 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
-            "Biopics"
+            "Biopics",
+            "Westerns"
         ]
     },
     "The Ref (1994)": {
@@ -39075,6 +39130,7 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Biopics",
             "Gene Hackman",
             "Period Pieces & Costume Dramas",
             "SCTV Alumni",
@@ -39780,7 +39836,8 @@ var movieMap = {
             "Bill Conti"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Sports"
         ]
     },
     "Only You (1994)": {
@@ -40529,7 +40586,9 @@ var movieMap = {
             "Howard Shore"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Bruce Willis",
+            "Paul Newman & Robert Redford"
         ]
     },
     "Street Fighter (1994)": {
@@ -42541,6 +42600,7 @@ var movieMap = {
         "categories": [
             "1990s",
             "Horror/Thriller",
+            "Musicians in Film",
             "Sigourney Weaver",
             "Thriller"
         ]
@@ -44291,6 +44351,7 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Holiday",
+            "Musicians in Film",
             "Will Smith"
         ]
     },
@@ -47406,7 +47467,8 @@ var movieMap = {
             "John Lurie"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Musicians in Film"
         ]
     },
     "Fire Down Below (1997)": {
@@ -49116,6 +49178,7 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Musicians in Film",
             "Romance"
         ]
     },
@@ -51167,7 +51230,8 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
-            "Dramas"
+            "Dramas",
+            "Paul Newman & Robert Redford"
         ],
         "cast": [
             "Hayden Panettiere",
@@ -51609,7 +51673,8 @@ var movieMap = {
             "Marc Shaiman"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Remakes & Reboots"
         ]
     },
     "Never Been Kissed (1999)": {
@@ -52255,9 +52320,12 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Comedies",
             "Cusacks",
             "Julia Roberts",
-            "Marshalls"
+            "Marshalls",
+            "Rom-Coms",
+            "Romance"
         ]
     },
     "Dick (1999)": {
@@ -52338,7 +52406,8 @@ var movieMap = {
         "categories": [
             "1990s",
             "Animated",
-            "Jennifer Aniston"
+            "Jennifer Aniston",
+            "Musicians in Film"
         ]
     },
     "The Sixth Sense (1999)": {
@@ -52992,6 +53061,7 @@ var movieMap = {
             "1990s",
             "Al Pacino",
             "Biopics",
+            "Courtroom Dramas & Legal Thrillers",
             "Dramas"
         ]
     },
@@ -53011,7 +53081,8 @@ var movieMap = {
             "Shinji Miyazaki"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Animated"
         ]
     },
     "Anywhere but Here (1999)": {
@@ -55074,7 +55145,8 @@ var movieMap = {
             "Mark Mancina"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Black Cinema"
         ]
     },
     "Almost Famous (2000)": {
@@ -57022,7 +57094,8 @@ var movieMap = {
             "Elliot Goldenthal"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Animated"
         ]
     },
     "Legally Blonde (2001)": {
@@ -58058,6 +58131,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Emmas",
+            "Family",
             "Fantasy/Sci-Fi",
             "Wizarding World"
         ],
@@ -58406,6 +58480,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Black Cinema",
             "Comedies"
         ]
     },
@@ -59437,7 +59512,8 @@ var movieMap = {
             "Ralph Sall"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Musicians in Film"
         ]
     },
     "Star Wars: Episode II \u2013 Attack of the Clones (2002)": {
@@ -59855,7 +59931,8 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Happy Madison & Adam Sandler"
+            "Happy Madison & Adam Sandler",
+            "Remakes & Reboots"
         ]
     },
     "Like Mike (2002)": {
@@ -60350,7 +60427,9 @@ var movieMap = {
             "John Powell"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Black Cinema",
+            "Eddie Murphy"
         ]
     },
     "One Hour Photo (2002)": {
@@ -60743,7 +60822,8 @@ var movieMap = {
             "Thomas Newman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Michelle Pfeiffer"
         ]
     },
     "The Ring (2002)": {
@@ -60974,6 +61054,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Emmas",
+            "Family",
             "Fantasy/Sci-Fi",
             "Wizarding World"
         ],
@@ -62109,6 +62190,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Dramas",
+            "Musicians in Film",
             "Samuel L. Jackson"
         ]
     },
@@ -65284,7 +65366,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comic Book",
-            "Marvel"
+            "Marvel",
+            "Wrestlers in Film"
         ],
         "cast": [
             "Ben Foster",
@@ -65518,7 +65601,8 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Brad Pitt & George Clooney",
-            "Historical Epics & Dramas"
+            "Historical Epics & Dramas",
+            "Wrestlers in Film"
         ],
         "cast": [
             "Brad Pitt",
@@ -65652,6 +65736,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Emmas",
+            "Family",
             "Fantasy/Sci-Fi",
             "Wizarding World"
         ],
@@ -66715,6 +66800,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Musicians in Film",
             "Sports"
         ]
     },
@@ -67175,7 +67261,8 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Biopics"
+            "Biopics",
+            "Historical Epics & Dramas"
         ],
         "cast": [
             "Angelina Jolie",
@@ -71430,7 +71517,10 @@ var movieMap = {
             "John Murphy"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Dramas",
+            "Horror/Thriller",
+            "Thriller"
         ]
     },
     "Brick (2006)": {
@@ -71511,7 +71601,10 @@ var movieMap = {
             "Craig Richey"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Cusacks",
+            "Frances McDormand",
+            "Jennifer Aniston"
         ]
     },
     "Lucky Number Slevin (2006)": {
@@ -71553,7 +71646,9 @@ var movieMap = {
             "Swizz Beatz"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Antonio Banderas",
+            "Dance"
         ]
     },
     "The Benchwarmers (2006)": {
@@ -71810,6 +71905,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Holiday",
             "Kurt Russell"
         ]
     },
@@ -71948,7 +72044,9 @@ var movieMap = {
             "2000s",
             "Comedies",
             "Frat Pack",
-            "Jennifer Aniston"
+            "Jennifer Aniston",
+            "Rom-Coms",
+            "Romance"
         ]
     },
     "The Omen (2006)": {
@@ -74462,7 +74560,8 @@ var movieMap = {
             "David Fincher",
             "Gyllenhaals",
             "Horror/Thriller",
-            "Robert Downey Jr."
+            "Robert Downey Jr.",
+            "Thriller"
         ],
         "cast": [
             "Anthony Edwards",
@@ -75924,7 +76023,11 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Nicole Kidman"
+            "Fantasy/Sci-Fi",
+            "Horror",
+            "Horror/Thriller",
+            "Nicole Kidman",
+            "Remakes & Reboots"
         ]
     },
     "The King of Kong: A Fistful of Quarters (2007)": {
@@ -76324,7 +76427,8 @@ var movieMap = {
             "Danny Elfman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Musicians in Film"
         ]
     },
     "Michael Clayton (2007)": {
@@ -77210,6 +77314,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Musicians in Film",
             "Romance"
         ]
     },
@@ -78215,7 +78320,8 @@ var movieMap = {
             "Edward Shearmur"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Al Pacino"
         ]
     },
     "Forgetting Sarah Marshall (2008)": {
@@ -80088,6 +80194,7 @@ var movieMap = {
             "Comedies",
             "Frat Pack",
             "Holiday",
+            "Musicians in Film",
             "Reese Witherspoon",
             "Rom-Coms",
             "Romance"
@@ -80763,7 +80870,8 @@ var movieMap = {
             "John Swihart"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Musicians in Film"
         ]
     },
     "Taken (2009)": {
@@ -81459,7 +81567,9 @@ var movieMap = {
             "The Elements"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Black Cinema",
+            "Musicians in Film"
         ]
     },
     "Star Trek (2009)": {
@@ -82392,7 +82502,9 @@ var movieMap = {
             "George S. Clinton"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Frat Pack",
+            "Matt & Ben"
         ]
     },
     "Gamer (2009)": {
@@ -82536,6 +82648,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Crime",
             "Cusacks",
             "Matt & Ben",
             "Steven Soderbergh"
@@ -82872,7 +82985,8 @@ var movieMap = {
             "Jeff Danna"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Action/Adventure"
         ]
     },
     "A Christmas Carol (2009)": {
@@ -83044,6 +83158,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Biopics",
+            "Musicians in Film",
             "Sports"
         ]
     },
@@ -83534,7 +83649,11 @@ var movieMap = {
             "Randy Edelman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Amy Adams",
+            "Comedies",
+            "Rom-Coms",
+            "Romance"
         ]
     },
     "Youth in Revolt (2010)": {
@@ -84830,6 +84949,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Comedies",
             "Happy Madison & Adam Sandler"
         ]
     },
@@ -85062,6 +85182,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Comedies",
             "Frat Pack",
             "Octavia Spencer",
             "Remakes & Reboots"
@@ -86510,7 +86631,8 @@ var movieMap = {
             "Michael Brook"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Musicians in Film"
         ]
     },
     "Little Fockers (2010)": {
@@ -86808,6 +86930,7 @@ var movieMap = {
             "Happy Madison & Adam Sandler",
             "Jennifer Aniston",
             "Nicole Kidman",
+            "Remakes & Reboots",
             "Rom-Coms",
             "Romance"
         ]
@@ -88728,7 +88851,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Morgan Freeman"
+            "Morgan Freeman",
+            "Musicians in Film"
         ]
     },
     "Killer Elite (2011)": {
@@ -88748,7 +88872,9 @@ var movieMap = {
             "Johnny Klimek"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Action/Adventure",
+            "Robert De Niro & Joe Pesci"
         ]
     },
     "Moneyball (2011)": {
@@ -90457,7 +90583,8 @@ var movieMap = {
             "Dario Marianelli"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Emily Blunt"
         ]
     },
     "21 Jump Street (2012)": {
@@ -90793,7 +90920,8 @@ var movieMap = {
             "Lucas Vidal"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Cusacks"
         ]
     },
     "The Avengers (2012)": {
@@ -91656,6 +91784,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Comedies",
             "Frat Pack"
         ]
     },
@@ -93216,7 +93345,9 @@ var movieMap = {
             "Roger Neill"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Bill Murray",
+            "Sheens"
         ]
     },
     "Identity Thief (2013)": {
@@ -94117,6 +94248,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Horror",
             "Horror/Thriller",
             "Thriller"
@@ -94477,7 +94609,9 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Happy Madison & Adam Sandler"
+            "Comedies",
+            "Happy Madison & Adam Sandler",
+            "Wrestlers in Film"
         ]
     },
     "Pacific Rim (2013)": {
@@ -95184,6 +95318,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Biopics",
             "Sports"
         ],
         "cast": [
@@ -95375,7 +95510,8 @@ var movieMap = {
             "Gary Chase"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Martial Arts"
         ]
     },
     "Escape Plan (2013)": {
@@ -96823,7 +96959,8 @@ var movieMap = {
             "David Sardy"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Sly & Arnie"
         ]
     },
     "The Raid 2 (2014)": {
@@ -97785,6 +97922,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Horror",
             "Horror/Thriller",
             "Thriller"
@@ -98306,7 +98444,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Morgan Freeman"
+            "Morgan Freeman",
+            "Musicians in Film"
         ]
     },
     "No Good Deed (2014)": {
@@ -98564,7 +98703,9 @@ var movieMap = {
             "Stephen Wilkinson"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Happy Madison & Adam Sandler",
+            "Ramis & Reitmans"
         ]
     },
     "A Good Marriage (2014)": {
@@ -100798,7 +100939,8 @@ var movieMap = {
             "2010s",
             "Brad Pitt & George Clooney",
             "Family",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Musicians in Film"
         ]
     },
     "Aloha (2015)": {
@@ -102654,7 +102796,8 @@ var movieMap = {
             "Frat Pack",
             "Holiday",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Monster"
         ]
     },
     "Macbeth (2015)": {
@@ -103929,7 +104072,8 @@ var movieMap = {
             "Michael Andrews"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Ed Harris"
         ]
     },
     "The Jungle Book (2016)": {
@@ -104136,7 +104280,9 @@ var movieMap = {
             "Evan Wise"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Animated",
+            "Sly & Arnie"
         ]
     },
     "Special Correspondents (2016)": {
@@ -104931,6 +105077,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Horror",
             "Horror/Thriller",
             "Thriller"
@@ -104972,7 +105119,10 @@ var movieMap = {
             "Marcelo Zarvos"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Cusacks",
+            "Samuel L. Jackson",
+            "Stephen King"
         ]
     },
     "Mike and Dave Need Wedding Dates (2016)": {
@@ -105916,7 +106066,8 @@ var movieMap = {
             "Alexandre Desplat"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Jennifer Connelly"
         ]
     },
     "Boo! A Madea Halloween (2016)": {
@@ -106968,6 +107119,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Bruce Willis",
+            "Horror",
             "Horror/Thriller",
             "IG Mixed Bag",
             "M. Night Shyamalan",
@@ -107400,6 +107552,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas",
+            "Musicians in Film",
             "Octavia Spencer"
         ]
     },
@@ -109232,7 +109385,8 @@ var movieMap = {
             "Steven Price"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Michael Keaton"
         ]
     },
     "First They Killed My Father (2017)": {
@@ -110128,6 +110282,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Crime",
             "Michelle Pfeiffer",
             "Mystery"
         ],
@@ -112281,7 +112436,8 @@ var movieMap = {
             "Heitor Pereira"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Stanley Tucci"
         ]
     },
     "Ibiza (2018)": {
@@ -112723,6 +112879,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Horror",
             "Horror/Thriller",
             "Thriller"
@@ -113502,7 +113659,8 @@ var movieMap = {
             "J\u00f3hann J\u00f3hannsson"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Nicolas Cage"
         ]
     },
     "The Land of Steady Habits (2018)": {
@@ -117451,7 +117609,8 @@ var movieMap = {
             "Si Begg"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Kevin Smith"
         ]
     },
     "Otherhood (2019)": {
@@ -117813,7 +117972,9 @@ var movieMap = {
             "Wolfmen of Mars"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Horror",
+            "Horror/Thriller"
         ]
     },
     "Hustlers (2019)": {
@@ -117855,7 +118016,9 @@ var movieMap = {
             "Zeuss"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Horror",
+            "Horror/Thriller"
         ]
     },
     "In the Shadow of the Moon (2019)": {
@@ -119699,7 +119862,8 @@ var movieMap = {
             "Colin Stetson"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Nicolas Cage"
         ]
     },
     "The Gentlemen (2020)": {
@@ -124162,6 +124326,7 @@ var movieMap = {
         ],
         "categories": [
             "2020s",
+            "Action/Adventure",
             "Horror",
             "Horror/Thriller",
             "Thriller"
@@ -124887,7 +125052,8 @@ var movieMap = {
             "Clinton Shorter"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Action/Adventure"
         ]
     },
     "Cry Macho (2021)": {
@@ -126230,7 +126396,9 @@ var movieMap = {
             "Brian Tyler"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Horror",
+            "Horror/Thriller"
         ]
     },
     "Moonfall (2022)": {
@@ -126250,7 +126418,8 @@ var movieMap = {
             "Harald Kloser"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Fantasy/Sci-Fi"
         ]
     },
     "Death on the Nile (2022)": {
@@ -126269,7 +126438,9 @@ var movieMap = {
             "Patrick Doyle"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Crime",
+            "Mystery"
         ]
     },
     "Uncharted (2022)": {
@@ -126288,7 +126459,8 @@ var movieMap = {
             "Ramin Djawadi"
         ],
         "categories": [
-            "2020s"
+            "2020s",
+            "Antonio Banderas"
         ]
     }
 }
