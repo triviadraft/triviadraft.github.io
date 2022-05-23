@@ -95511,6 +95511,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Jackie Chan",
             "Martial Arts"
         ]
     },
