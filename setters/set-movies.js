@@ -4152,6 +4152,26 @@ var movieMap = {
             "Classics"
         ]
     },
+    "Abbott and Costello Meet the Invisible Man (1951)": {
+        "title": "Abbott and Costello Meet the Invisible Man",
+        "year": "1951",
+        "synopsis": "Bumbling private eyes Lou and Bud help a boxer, Tommy, who has been accused of the murder of a promoter that is newly invisible, to clear his name.",
+        "directors": [
+            "Charles Lamont"
+        ],
+        "leads": [
+            "Bud Abbott",
+            "Lou Costello",
+            "Nancy Guild"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "1950s",
+            "Classics"
+        ]
+    },
     "Royal Wedding (1951)": {
         "title": "Royal Wedding",
         "year": "1951",
@@ -7326,6 +7346,26 @@ var movieMap = {
             "Russ Tamblyn"
         ]
     },
+    "Blue Hawaii (1961)": {
+        "title": "Blue Hawaii",
+        "year": "1961",
+        "synopsis": "After arriving back in Hawaii from the Army, Chad Gates defies his family's wish for him to join their business and leads tours at a girlfriend's agency.",
+        "directors": [
+            "Norman Taurog"
+        ],
+        "leads": [
+            "Elvis Presley",
+            "Joan Blackman",
+            "Angela Lansbury"
+        ],
+        "music": [
+            "Joseph J. Lilley"
+        ],
+        "categories": [
+            "1960s",
+            "Classics"
+        ]
+    },
     "Babes in Toyland (1961)": {
         "title": "Babes in Toyland",
         "year": "1961",
@@ -8788,6 +8828,26 @@ var movieMap = {
             "1960s",
             "Classics",
             "Family"
+        ]
+    },
+    "This Property Is Condemned (1966)": {
+        "title": "This Property Is Condemned",
+        "year": "1966",
+        "synopsis": "In 1930s Mississippi, Willie recalls the story of her sister Alva, who hoped to leave town and began a love with railroad official Owen from New Orleans.",
+        "directors": [
+            "Sydney Pollack"
+        ],
+        "leads": [
+            "Natalie Wood",
+            "Robert Redford",
+            "Charles Bronson"
+        ],
+        "music": [
+            "Kenyon Hopkins"
+        ],
+        "categories": [
+            "1960s",
+            "Classics"
         ]
     },
     "Who's Afraid of Virginia Woolf? (1966)": {
@@ -13659,6 +13719,25 @@ var movieMap = {
             "Fantasy/Sci-Fi"
         ]
     },
+    "The Apple Dumpling Gang (1975)": {
+        "title": "The Apple Dumpling Gang",
+        "year": "1975",
+        "synopsis": "In 1879, gambler Russell travels to Quake City in a journey to New Orleans to open a casino. He is forced to watch over orphans. A gang wants gold.",
+        "directors": [
+            "Norman Tokar"
+        ],
+        "leads": [
+            "Bill Bixby",
+            "Susan Clark",
+            "Don Knotts"
+        ],
+        "music": [
+            "Buddy Baker"
+        ],
+        "categories": [
+            "1970s"
+        ]
+    },
     "Dog Day Afternoon (1975)": {
         "title": "Dog Day Afternoon",
         "year": "1975",
@@ -15435,6 +15514,25 @@ var movieMap = {
             "1970s"
         ]
     },
+    "Piranha (1978)": {
+        "title": "Piranha",
+        "year": "1978",
+        "synopsis": "Genetically altered fish are accidentally released into a summer resort's rivers and threaten guests. Skiptracer Maggie and drunkard Paul investigate.",
+        "directors": [
+            "Joe Dante"
+        ],
+        "leads": [
+            "Bradford Dillman",
+            "Heather Menzies",
+            "Kevin McCarthy"
+        ],
+        "music": [
+            "Pino Donaggio"
+        ],
+        "categories": [
+            "1970s"
+        ]
+    },
     "Days of Heaven (1978)": {
         "title": "Days of Heaven",
         "year": "1978",
@@ -16074,6 +16172,26 @@ var movieMap = {
             "Tim Burton"
         ]
     },
+    "The Apple Dumpling Gang Rides Again (1979)": {
+        "title": "The Apple Dumpling Gang Rides Again",
+        "year": "1979",
+        "synopsis": "Bumbling Amos and Theodore arrive in the boom town of Junction City to start anew. Bank robbers cheat them out of their money. They are accused.",
+        "directors": [
+            "Vincent McEveety"
+        ],
+        "leads": [
+            "Tim Conway",
+            "Don Knotts",
+            "Tim Matheson"
+        ],
+        "music": [
+            "Paul J. Smith",
+            "Buddy Baker"
+        ],
+        "categories": [
+            "1970s"
+        ]
+    },
     "Meatballs (1979)": {
         "title": "Meatballs",
         "year": "1979",
@@ -16636,6 +16754,25 @@ var movieMap = {
             "1980s",
             "Horror",
             "Horror/Thriller"
+        ]
+    },
+    "Fame (1980)": {
+        "title": "Fame",
+        "year": "1980",
+        "synopsis": "In New York City, teenagers study one of Drama, Music, and Dance at the prestigious High School of Performing Arts. Some thrive. Others struggle.",
+        "directors": [
+            "Alan Parker"
+        ],
+        "leads": [
+            "Irene Cara",
+            "Lee Curreri",
+            "Laura Dean"
+        ],
+        "music": [
+            "Michael Gore"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "The Empire Strikes Back (1980)": {
@@ -18214,6 +18351,25 @@ var movieMap = {
             "Sean Connery"
         ]
     },
+    "Absence of Malice (1981)": {
+        "title": "Absence of Malice",
+        "year": "1981",
+        "synopsis": "In Miami, federal prosecutor Elliot leaks an untrue story that liquor wholesaler Michael is involved in the murder of a union head. Megan investigates.",
+        "directors": [
+            "Sydney Pollack"
+        ],
+        "leads": [
+            "Paul Newman",
+            "Sally Field",
+            "Bob Balaban"
+        ],
+        "music": [
+            "Dave Grusin"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "Ragtime (1981)": {
         "title": "Ragtime",
         "year": "1981",
@@ -19008,6 +19164,25 @@ var movieMap = {
             "Michael Keaton"
         ]
     },
+    "Tex (1982)": {
+        "title": "Tex",
+        "year": "1982",
+        "synopsis": "In Oklahoma, when two teenage brothers' mother dies and their father leaves them for a rodeo, the two struggle to make it on their own on their farm.",
+        "directors": [
+            "Tim Hunter"
+        ],
+        "leads": [
+            "Matt Dillon",
+            "Jim Metzler",
+            "Meg Tilly"
+        ],
+        "music": [
+            "Pino Donaggio"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "Fast Times at Ridgemont High (1982)": {
         "title": "Fast Times at Ridgemont High",
         "year": "1982",
@@ -19153,6 +19328,26 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Jamie Lee Curtis"
+        ]
+    },
+    "Piranha II: The Spawning (1982)": {
+        "title": "Piranha II: The Spawning",
+        "year": "1982",
+        "synopsis": "A diving instructor, her police officer husband, and a biochemist try to link bizarre deaths to a mutant strain of fish whose lair is a sunken freighter ship.",
+        "directors": [
+            "James Cameron",
+            "Ovidio G. Assonitis"
+        ],
+        "leads": [
+            "Tricia O'Neil",
+            "Steve Marachuk",
+            "Lance Henriksen"
+        ],
+        "music": [
+            "Steve Powder"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "Creepshow (1982)": {
@@ -21463,6 +21658,25 @@ var movieMap = {
             "Action/Adventure"
         ]
     },
+    "Tightrope (1984)": {
+        "title": "Tightrope",
+        "year": "1984",
+        "synopsis": "In New Orleans, single father of two and cop Wes goes after a serial rapist and killer. He works with advisor Beryl, head of a rape prevention program.",
+        "directors": [
+            "Richard Tuggle"
+        ],
+        "leads": [
+            "Clint Eastwood",
+            "Genevi\u00e8ve Bujold",
+            "Dan Hedaya"
+        ],
+        "music": [
+            "Lennie Niehaus"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "Oxford Blues (1984)": {
         "title": "Oxford Blues",
         "year": "1984",
@@ -21592,6 +21806,25 @@ var movieMap = {
             "Lindsay Crouse",
             "Sally Field",
             "Terry O'Quinn"
+        ]
+    },
+    "Teachers (1984)": {
+        "title": "Teachers",
+        "year": "1984",
+        "synopsis": "In Columbus' John F. Kennedy High School, Alex tries to maintain order and connect with students while there is a lawsuit about an illiterate student.",
+        "directors": [
+            "Arthur Hiller"
+        ],
+        "leads": [
+            "Nick Nolte",
+            "JoBeth Williams",
+            "Judd Hirsch"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "The Terminator (1984)": {
@@ -22055,6 +22288,25 @@ var movieMap = {
             "Musicians in Film"
         ]
     },
+    "Into the Night (1985)": {
+        "title": "Into the Night",
+        "year": "1985",
+        "synopsis": "In L.A., after he learns his wife is cheating on him, insomniac aerospace engineer Ed helps a jewel smuggler, Diana, running after stealing emeralds.",
+        "directors": [
+            "John Landis"
+        ],
+        "leads": [
+            "Jeff Goldblum",
+            "Michelle Pfeiffer",
+            "Richard Farnsworth"
+        ],
+        "music": [
+            "Ira Newborn"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "The Purple Rose of Cairo (1985)": {
         "title": "The Purple Rose of Cairo",
         "year": "1985",
@@ -22304,6 +22556,26 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comedies"
+        ]
+    },
+    "Stick (1985)": {
+        "title": "Stick",
+        "year": "1985",
+        "synopsis": "Released from prison, a former car thief meets up with friend Rainy and joins a bag delivery job. The task ends with Rainy's death. He is now targeted.",
+        "directors": [
+            "Burt Reynolds"
+        ],
+        "leads": [
+            "Burt Reynolds",
+            "George Segal",
+            "Candice Bergen"
+        ],
+        "music": [
+            "Joseph Conlan",
+            "Barry De Vorzon"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "Brewster's Millions (1985)": {
@@ -23006,6 +23278,25 @@ var movieMap = {
             "SCTV Alumni"
         ]
     },
+    "Invasion U.S.A. (1985)": {
+        "title": "Invasion U.S.A.",
+        "year": "1985",
+        "synopsis": "In Florida, former CIA agent Matt is asked to help stop Soviet operative Rostov and a tough team of guerrillas striking homes and Cuban expatriates.",
+        "directors": [
+            "Joseph Zito"
+        ],
+        "leads": [
+            "Chuck Norris",
+            "Richard Lynch",
+            "Melissa Prophet"
+        ],
+        "music": [
+            "Jay Chattaway"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "The Journey of Natty Gann (1985)": {
         "title": "The Journey of Natty Gann",
         "year": "1985",
@@ -23509,6 +23800,25 @@ var movieMap = {
             "1980s",
             "Kurt Russell",
             "Robin Williams"
+        ]
+    },
+    "F/X (1986)": {
+        "title": "F/X",
+        "year": "1986",
+        "synopsis": "Special effects expert Rollie is tasked with faking a mob killing for a witness protection plan. His life is at risk when the Justice Department lies to him.",
+        "directors": [
+            "Robert Mandel"
+        ],
+        "leads": [
+            "Bryan Brown",
+            "Brian Dennehy",
+            "Diane Venora"
+        ],
+        "music": [
+            "Bill Conti"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "Hannah and Her Sisters (1986)": {
@@ -24028,7 +24338,7 @@ var movieMap = {
         "leads": [
             "Rob Lowe",
             "Demi Moore",
-            "James Belushi"
+            "Jim Belushi"
         ],
         "music": [
             "Miles Goodman"
@@ -27057,6 +27367,25 @@ var movieMap = {
             "Lucasfilm"
         ]
     },
+    "Crocodile Dundee II (1988)": {
+        "title": "Crocodile Dundee II",
+        "year": "1988",
+        "synopsis": "Mick brings Sue to Australia to keep her safe after Colombian cartel members target her for photos of murder. A gang captures her, forcing a rescue.",
+        "directors": [
+            "John Cornell"
+        ],
+        "leads": [
+            "Paul Hogan",
+            "Linda Kozlowski",
+            "John Meillon"
+        ],
+        "music": [
+            "Peter Best"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "Rambo III (1988)": {
         "title": "Rambo III",
         "year": "1988",
@@ -27202,7 +27531,7 @@ var movieMap = {
         ],
         "leads": [
             "Arnold Schwarzenegger",
-            "James Belushi",
+            "Jim Belushi",
             "Peter Boyle"
         ],
         "music": [
@@ -27327,6 +27656,25 @@ var movieMap = {
             "1980s",
             "Brat Pack",
             "Fantasy/Sci-Fi"
+        ]
+    },
+    "Arthur 2: On the Rocks (1988)": {
+        "title": "Arthur 2: On the Rocks",
+        "year": "1988",
+        "synopsis": "Arthur loses his fortune for staying with Linda, but the two desire to adopt a child. As their marriage suffers, he tries to sober up and find a stable job.",
+        "directors": [
+            "Bud Yorkin"
+        ],
+        "leads": [
+            "Dudley Moore",
+            "Liza Minnelli",
+            "John Gielgud"
+        ],
+        "music": [
+            "Burt Bacharach"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "The Dead Pool (1988)": {
@@ -28747,7 +29095,7 @@ var movieMap = {
             "Rod Daniel"
         ],
         "leads": [
-            "James Belushi",
+            "Jim Belushi",
             "Jerry Lee",
             "Mel Harris"
         ],
@@ -29563,6 +29911,25 @@ var movieMap = {
         "categories": [
             "1980s",
             "Bruce Willis"
+        ]
+    },
+    "Sea of Love (1989)": {
+        "title": "Sea of Love",
+        "year": "1989",
+        "synopsis": "In New York City, detective Frank works to catch a serial killer who finds victims through the singles column in a newspaper. He sees divorced Helen.",
+        "directors": [
+            "Harold Becker"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Ellen Barkin",
+            "John Goodman"
+        ],
+        "music": [
+            "Trevor Jones"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "Black Rain (1989)": {
@@ -31294,7 +31661,7 @@ var movieMap = {
             "James Orr"
         ],
         "leads": [
-            "James Belushi",
+            "Jim Belushi",
             "Linda Hamilton",
             "Jon Lovitz"
         ],
@@ -32271,6 +32638,26 @@ var movieMap = {
             "Comedies"
         ]
     },
+    "Only the Lonely (1991)": {
+        "title": "Only the Lonely",
+        "year": "1991",
+        "synopsis": "In Chicago, policeman Danny balances his loyalty to an overbearing mother he worries about and a relationship with funeral home employee Theresa.",
+        "directors": [
+            "Chris Columbus"
+        ],
+        "leads": [
+            "John Candy",
+            "Maureen O'Hara",
+            "Ally Sheedy"
+        ],
+        "music": [
+            "Maurice Jarre",
+            "Roy Orbison"
+        ],
+        "categories": [
+            "1990s"
+        ]
+    },
     "Thelma & Louise (1991)": {
         "title": "Thelma & Louise",
         "year": "1991",
@@ -33079,7 +33466,7 @@ var movieMap = {
             "John Hughes"
         ],
         "leads": [
-            "James Belushi",
+            "Jim Belushi",
             "Kelly Lynch",
             "Alisan Porter"
         ],
@@ -33090,6 +33477,26 @@ var movieMap = {
             "1990s",
             "Frat Pack",
             "John Hughes"
+        ]
+    },
+    "The Butcher's Wife (1991)": {
+        "title": "The Butcher's Wife",
+        "year": "1991",
+        "synopsis": "Clairvoyant Marina impulsively marries a butcher, moves to New York City, and changes the futures of people like psychiatrist Alex and singer Stella.",
+        "directors": [
+            "Terry Hughes"
+        ],
+        "leads": [
+            "Demi Moore",
+            "Jeff Daniels",
+            "Mary Steenburgen"
+        ],
+        "music": [
+            "Michael Gore",
+            "Steven Jae Johnson"
+        ],
+        "categories": [
+            "1990s"
         ]
     },
     "Billy Bathgate (1991)": {
@@ -37164,7 +37571,7 @@ var movieMap = {
     "Gettysburg (1993)": {
         "title": "Gettysburg",
         "year": "1993",
-        "synopsis": "In 1863, the Northern and Southern forces fight in Pennsylvania in a decisive battle of the American Civil War. Lee and Chamberlain lead their men.",
+        "synopsis": "In 1863, the Northern and Southern forces fight in Pennsylvania in a decisive battle of the American Civil War. Lee and Chamberlain lead their troops.",
         "directors": [
             "Ronald F. Maxwell"
         ],
@@ -37316,7 +37723,7 @@ var movieMap = {
             "Fred Dekker"
         ],
         "leads": [
-            "Robert Burke",
+            "Robert John Burke",
             "Nancy Allen",
             "Rip Torn"
         ],
@@ -37509,6 +37916,28 @@ var movieMap = {
             "Comedies",
             "Family",
             "Robin Williams"
+        ]
+    },
+    "We're Back! A Dinosaur's Story (1993)": {
+        "title": "We're Back! A Dinosaur's Story",
+        "year": "1993",
+        "synopsis": "Reptiles Rex, Woog, Elsa, and Dweeb are smart after they eat cereal. Kids Louie and Cecilia guide them to a museum. Professor Screweyes is evil.",
+        "directors": [
+            "Dick Zondag",
+            "Ralph Zondag",
+            "Phil Nibbelink",
+            "Simon Wells"
+        ],
+        "leads": [
+            "John Goodman",
+            "Felicity Kendal",
+            "Charles Fleischer"
+        ],
+        "music": [
+            "James Horner"
+        ],
+        "categories": [
+            "1990s"
         ]
     },
     "Six Degrees of Separation (1993)": {
@@ -39335,6 +39764,25 @@ var movieMap = {
             "Meryl Streep"
         ]
     },
+    "The Scout (1994)": {
+        "title": "The Scout",
+        "year": "1994",
+        "synopsis": "Baseball recruiter Al recruits Steve, who throws a special fastball but has a dark past that worries a doctor. He works to prepare for his Yankee debut.",
+        "directors": [
+            "Michael Ritchie"
+        ],
+        "leads": [
+            "Albert Brooks",
+            "Brendan Fraser",
+            "Dianne Wiest"
+        ],
+        "music": [
+            "Bill Conti"
+        ],
+        "categories": [
+            "1990s"
+        ]
+    },
     "Only You (1994)": {
         "title": "Only You",
         "year": "1994",
@@ -40063,6 +40511,25 @@ var movieMap = {
             "1990s",
             "Brad Pitt & George Clooney",
             "Period Pieces & Costume Dramas"
+        ]
+    },
+    "Nobody's Fool (1994)": {
+        "title": "Nobody's Fool",
+        "year": "1994",
+        "synopsis": "In North Bath, hustler Sully lives with the old Miss Beryl and freelances in construction. He flirts with Toby and reconnects with son Peter, now a father.",
+        "directors": [
+            "Robert Benton"
+        ],
+        "leads": [
+            "Paul Newman",
+            "Jessica Tandy",
+            "Melanie Griffith"
+        ],
+        "music": [
+            "Howard Shore"
+        ],
+        "categories": [
+            "1990s"
         ]
     },
     "Street Fighter (1994)": {
@@ -46638,6 +47105,25 @@ var movieMap = {
             "Harrison Ford"
         ]
     },
+    "Good Burger (1997)": {
+        "title": "Good Burger",
+        "year": "1997",
+        "synopsis": "Dim-witted Ed and his new co-worker Dexter work to save their burger restaurant from failing after a new one, Mondo Burger, opens across the street.",
+        "directors": [
+            "Brian Robbins"
+        ],
+        "leads": [
+            "Kenan Thompson",
+            "Kel Mitchell",
+            "Abe Vigoda"
+        ],
+        "music": [
+            "Stewart Copeland"
+        ],
+        "categories": [
+            "1990s"
+        ]
+    },
     "Air Bud (1997)": {
         "title": "Air Bud",
         "year": "1997",
@@ -50667,7 +51153,7 @@ var movieMap = {
     "Message in a Bottle (1999)": {
         "title": "Message in a Bottle",
         "year": "1999",
-        "synopsis": "A woman finds a romantic letter in a bottle washed ashore and tracks down the author, a widowed shipbuilder whose wife died early.",
+        "synopsis": "At Cape Cod, researcher Theresa comes across a love letter washed ashore. She finds the author Garrett, a shipbuilder whose wife Catherine died.",
         "directors": [
             "Luis Mandoki"
         ],
@@ -51105,6 +51591,25 @@ var movieMap = {
         "categories": [
             "1990s",
             "Christopher Nolan"
+        ]
+    },
+    "The Out-of-Towners (1999)": {
+        "title": "The Out-of-Towners",
+        "year": "1999",
+        "synopsis": "After their daughter has left Ohio, married couple Henry and Nancy go to New York for an interview. Their plane is rerouted to Boston. They struggle.",
+        "directors": [
+            "Sam Weisman"
+        ],
+        "leads": [
+            "Steve Martin",
+            "Goldie Hawn",
+            "John Cleese"
+        ],
+        "music": [
+            "Marc Shaiman"
+        ],
+        "categories": [
+            "1990s"
         ]
     },
     "Never Been Kissed (1999)": {
@@ -52470,7 +52975,7 @@ var movieMap = {
     "The Insider (1999)": {
         "title": "The Insider",
         "year": "1999",
-        "synopsis": "A seasoned TV producer persuades a research chemist to share his story in a 60 Minutes expos\u00e9 on tobacco amidst lawsuits and death threats.",
+        "synopsis": "A seasoned CBS producer persuades a research chemist to share his story in a 60 Minutes expos\u00e9 on tobacco. They face lawsuits and death threats.",
         "directors": [
             "Michael Mann"
         ],
@@ -52488,6 +52993,25 @@ var movieMap = {
             "Al Pacino",
             "Biopics",
             "Dramas"
+        ]
+    },
+    "Pok\u00e9mon The First Movie: Mewtwo Strikes Back (1999)": {
+        "title": "Pok\u00e9mon The First Movie: Mewtwo Strikes Back",
+        "year": "1999",
+        "synopsis": "Based on Mew, scientists create Mewtwo, a being that grows bitter and wants to challenge others as he creates more clones. Ash and company battle.",
+        "directors": [
+            "Kunihiko Yuyama"
+        ],
+        "leads": [
+            "Veronica Taylor",
+            "Rachael Lillis",
+            "Eric Stuart"
+        ],
+        "music": [
+            "Shinji Miyazaki"
+        ],
+        "categories": [
+            "1990s"
         ]
     },
     "Anywhere but Here (1999)": {
@@ -53088,6 +53612,25 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Crime"
+        ]
+    },
+    "Eye of the Beholder (2000)": {
+        "title": "Eye of the Beholder",
+        "year": "2000",
+        "synopsis": "Intelligence agent Stephen spies on serial killer of men Joanna across the country. As she desires to find peace, he becomes a secret guardian angel.",
+        "directors": [
+            "Stephan Elliott"
+        ],
+        "leads": [
+            "Ewan McGregor",
+            "Ashley Judd",
+            "Patrick Bergin"
+        ],
+        "music": [
+            "Marius de Vries"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "Scream 3 (2000)": {
@@ -54510,6 +55053,25 @@ var movieMap = {
         ],
         "music": [
             "Joe Kraemer"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
+    "Bait (2000)": {
+        "title": "Bait",
+        "year": "2000",
+        "synopsis": "In New York City, petty thief Alvin is asked to give a traitor criminal's message to his wife. A treasury agent, Clenteen, uses Alvin as bait to locate gold.",
+        "directors": [
+            "Antoine Fuqua"
+        ],
+        "leads": [
+            "Jamie Foxx",
+            "David Morse",
+            "Kimberly Elise"
+        ],
+        "music": [
+            "Mark Mancina"
         ],
         "categories": [
             "2000s"
@@ -56444,6 +57006,25 @@ var movieMap = {
             "Wayans Family"
         ]
     },
+    "Final Fantasy: The Spirits Within (2001)": {
+        "title": "Final Fantasy: The Spirits Within",
+        "year": "2001",
+        "synopsis": "In 2065, scientists Aki and Sid i to free Earth from alien Phantoms. They fight against General Hein, who resorts to violent methods to end the conflict.",
+        "directors": [
+            "Hironobu Sakaguchi"
+        ],
+        "leads": [
+            "Ming-Na Wen",
+            "Alec Baldwin",
+            "James Woods"
+        ],
+        "music": [
+            "Elliot Goldenthal"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Legally Blonde (2001)": {
         "title": "Legally Blonde",
         "year": "2001",
@@ -57206,7 +57787,7 @@ var movieMap = {
         ],
         "leads": [
             "Naomi Watts",
-            "Laura Elena Harring",
+            "Laura Harring",
             "Justin Theroux"
         ],
         "music": [
@@ -58840,6 +59421,25 @@ var movieMap = {
             "Willem Dafoe"
         ]
     },
+    "The New Guy (2002)": {
+        "title": "The New Guy",
+        "year": "2002",
+        "synopsis": "In Austin, high school teen Dizzy is expelled and placed in prison. An inmate teaches him to create a new image as Gil at another school. He thrives.",
+        "directors": [
+            "Ed Decter"
+        ],
+        "leads": [
+            "DJ Qualls",
+            "Eliza Dushku",
+            "Eddie Griffin"
+        ],
+        "music": [
+            "Ralph Sall"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Star Wars: Episode II \u2013 Attack of the Clones (2002)": {
         "title": "Star Wars: Episode II \u2013 Attack of the Clones",
         "year": "2002",
@@ -59734,6 +60334,25 @@ var movieMap = {
             "Sports"
         ]
     },
+    "The Adventures of Pluto Nash (2002)": {
+        "title": "The Adventures of Pluto Nash",
+        "year": "2002",
+        "synopsis": "In 2087, Pluto manages a nightclub on the Moon. After Rex's henchmen destroy his club, he, Dina, and android Bruno look into a clone casino owner.",
+        "directors": [
+            "Ron Underwood"
+        ],
+        "leads": [
+            "Eddie Murphy",
+            "Randy Quaid",
+            "Rosario Dawson"
+        ],
+        "music": [
+            "John Powell"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "One Hour Photo (2002)": {
         "title": "One Hour Photo",
         "year": "2002",
@@ -60106,6 +60725,25 @@ var movieMap = {
         "categories": [
             "2000s",
             "Disney"
+        ]
+    },
+    "White Oleander (2002)": {
+        "title": "White Oleander",
+        "year": "2002",
+        "synopsis": "In L.A., teenager Astrid journeys through a set of foster homes after her cruel artist mother Ingrid is put in prison for committing a murder with poison.",
+        "directors": [
+            "Peter Kosminsky"
+        ],
+        "leads": [
+            "Alison Lohman",
+            "Michelle Pfeiffer",
+            "Robin Wright"
+        ],
+        "music": [
+            "Thomas Newman"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "The Ring (2002)": {
@@ -61362,7 +62000,7 @@ var movieMap = {
         "leads": [
             "Crispin Glover",
             "R. Lee Ermey",
-            "Laura Elena Harring"
+            "Laura Harring"
         ],
         "music": [
             "Shirley Walker"
@@ -62803,6 +63441,25 @@ var movieMap = {
             "Action/Adventure",
             "Antonio Banderas",
             "Quentin Tarantino & Robert Rodriguez"
+        ]
+    },
+    "Anything Else (2003)": {
+        "title": "Anything Else",
+        "year": "2003",
+        "synopsis": "In New York City, aspiring writer Jerry falls in love with flighty Amanda, who often cheats on him. He often receives advice from David, an aging artist.",
+        "directors": [
+            "Woody Allen"
+        ],
+        "leads": [
+            "Jason Biggs",
+            "Christina Ricci",
+            "Woody Allen"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "Bubba Ho-Tep (2003)": {
@@ -64612,7 +65269,7 @@ var movieMap = {
     "The Punisher (2004)": {
         "title": "The Punisher",
         "year": "2004",
-        "synopsis": "An undercover FBI agent becomes a vigilante assassin and unleashes his wrath upon the mafia boss who murdered his entire family at a reunion.",
+        "synopsis": "Undercover FBI agent Frank becomes a vigilante assassin and unleashes his wrath upon the mafia boss who murdered his entire family at a reunion.",
         "directors": [
             "Jonathan Hensleigh"
         ],
@@ -65966,6 +66623,25 @@ var movieMap = {
         ],
         "music": [
             "Jon Brion"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
+    "Ladder 49 (2004)": {
+        "title": "Ladder 49",
+        "year": "2004",
+        "synopsis": "In Baltimore, firefighter Jack, injured and trapped in a burning building, thinks of his life and career. His team, led by Chief Mike, work to rescue him.",
+        "directors": [
+            "Jay Russell"
+        ],
+        "leads": [
+            "Joaquin Phoenix",
+            "John Travolta",
+            "Morris Chestnut"
+        ],
+        "music": [
+            "William Ross"
         ],
         "categories": [
             "2000s"
@@ -70738,6 +71414,25 @@ var movieMap = {
             "Spike Lee"
         ]
     },
+    "Basic Instinct 2 (2006)": {
+        "title": "Basic Instinct 2",
+        "year": "2006",
+        "synopsis": "In London, novelist Catherine is in trouble with the law,and evaluated by Michael, a psychiatrist. She entrances him, luring him into a game of murder.",
+        "directors": [
+            "Michael Caton-Jones"
+        ],
+        "leads": [
+            "Sharon Stone",
+            "David Morrissey",
+            "Charlotte Rampling"
+        ],
+        "music": [
+            "John Murphy"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Brick (2006)": {
         "title": "Brick",
         "year": "2006",
@@ -70799,6 +71494,26 @@ var movieMap = {
             "Horror/Thriller"
         ]
     },
+    "Friends with Money (2006)": {
+        "title": "Friends with Money",
+        "year": "2006",
+        "synopsis": "When she quits her lucrative job, Olivia is unsure about her relationships with rich friends Christine, Jane, and Franny. Each faces their own struggle.",
+        "directors": [
+            "Nicole Holofcener"
+        ],
+        "leads": [
+            "Jennifer Aniston",
+            "Catherine Keener",
+            "Frances McDormand"
+        ],
+        "music": [
+            "Rickie Lee Jones",
+            "Craig Richey"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Lucky Number Slevin (2006)": {
         "title": "Lucky Number Slevin",
         "year": "2006",
@@ -70819,6 +71534,26 @@ var movieMap = {
             "Bruce Willis",
             "Morgan Freeman",
             "Stanley Tucci"
+        ]
+    },
+    "Take the Lead (2006)": {
+        "title": "Take the Lead",
+        "year": "2006",
+        "synopsis": "Instructor Pierre offers to take over the detention shift of a high school and teach ballroom dancing. Students like Rock and LaRhette grow and thrive.",
+        "directors": [
+            "Liz Friedlander"
+        ],
+        "leads": [
+            "Antonio Banderas",
+            "Rob Brown",
+            "Alfre Woodard"
+        ],
+        "music": [
+            "Aaron Zigman",
+            "Swizz Beatz"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "The Benchwarmers (2006)": {
@@ -76669,6 +77404,26 @@ var movieMap = {
             "Reginas"
         ]
     },
+    "In the Name of the King: A Dungeon Siege Tale (2008)": {
+        "title": "In the Name of the King: A Dungeon Siege Tale",
+        "year": "2008",
+        "synopsis": "In the kingdom of Ehb, Farmer sets out to rescue his kidnapped wife and avenge the death of Zeph, their son. He faces Gallian, who powers the Krug.",
+        "directors": [
+            "Uwe Boll"
+        ],
+        "leads": [
+            "Jason Statham",
+            "Leelee Sobieski",
+            "Burt Reynolds"
+        ],
+        "music": [
+            "Jessica de Rooij",
+            "Henning Lohner"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "27 Dresses (2008)": {
         "title": "27 Dresses",
         "year": "2008",
@@ -77442,6 +78197,25 @@ var movieMap = {
         "categories": [
             "2000s",
             "Keanu Reeves"
+        ]
+    },
+    "88 Minutes (2008)": {
+        "title": "88 Minutes",
+        "year": "2008",
+        "synopsis": "When a serial killer the helped put away is set to be executed, forensic psychologist and professor Jack gets a message telling him he will die soon.",
+        "directors": [
+            "Jon Avnet"
+        ],
+        "leads": [
+            "Al Pacino",
+            "Alicia Witt",
+            "Leelee Sobieski"
+        ],
+        "music": [
+            "Edward Shearmur"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "Forgetting Sarah Marshall (2008)": {
@@ -80669,6 +81443,25 @@ var movieMap = {
             "will.i.am"
         ]
     },
+    "Next Day Air (2009)": {
+        "title": "Next Day Air",
+        "year": "2009",
+        "synopsis": "By accident, Leo delivers a package of cocaine to inept criminals Guch and Brody. Bodega and his gang search for it, leading to violence and deaths.",
+        "directors": [
+            "Benny Boom"
+        ],
+        "leads": [
+            "Donald Faison",
+            "Mike Epps",
+            "Wood Harris"
+        ],
+        "music": [
+            "The Elements"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Star Trek (2009)": {
         "title": "Star Trek",
         "year": "2009",
@@ -81583,6 +82376,25 @@ var movieMap = {
             "Comedies"
         ]
     },
+    "Extract (2009)": {
+        "title": "Extract",
+        "year": "2009",
+        "synopsis": "Joel, the owner of a flavoring plant, contends with personal and professional problems such as his cheating wife and a lawsuit started by a con artist.",
+        "directors": [
+            "Mike Judge"
+        ],
+        "leads": [
+            "Jason Bateman",
+            "Mila Kunis",
+            "Kristen Wiig"
+        ],
+        "music": [
+            "George S. Clinton"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Gamer (2009)": {
         "title": "Gamer",
         "year": "2009",
@@ -81727,6 +82539,25 @@ var movieMap = {
             "Cusacks",
             "Matt & Ben",
             "Steven Soderbergh"
+        ]
+    },
+    "Fame (2009)": {
+        "title": "Fame",
+        "year": "2009",
+        "synopsis": "Students like self-conscious Jenny, strict Denise, angry Malik, and distrusting Marco enter the New York Academy of Performing Arts and then grow.",
+        "directors": [
+            "Kevin Tancharoen"
+        ],
+        "leads": [
+            "Debbie Allen",
+            "Charles S. Dutton",
+            "Kelsey Grammer"
+        ],
+        "music": [
+            "Mark Isham"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "Surrogates (2009)": {
@@ -82023,6 +82854,25 @@ var movieMap = {
             "2000s",
             "Horror",
             "Horror/Thriller"
+        ]
+    },
+    "The Boondock Saints II: All Saints Day (2009)": {
+        "title": "The Boondock Saints II: All Saints Day",
+        "year": "2009",
+        "synopsis": "Twins Connor and Murphy MacManus live quietly in Ireland with their father Noah. When their priest is killed by mob forces, they head back to Boston.",
+        "directors": [
+            "Troy Duffy"
+        ],
+        "leads": [
+            "Sean Patrick Flanery",
+            "Norman Reedus",
+            "Clifton Collins Jr."
+        ],
+        "music": [
+            "Jeff Danna"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "A Christmas Carol (2009)": {
@@ -82666,6 +83516,25 @@ var movieMap = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi"
+        ]
+    },
+    "Leap Year (2010)": {
+        "title": "Leap Year",
+        "year": "2010",
+        "synopsis": "Anna travels to Dublin to propose to her boyfriend Jeremy on February 29th. After a storm diverts a flight, she befriends surly Irish innkeeper Declan.",
+        "directors": [
+            "Anand Tucker"
+        ],
+        "leads": [
+            "Amy Adams",
+            "Matthew Goode",
+            "Adam Scott"
+        ],
+        "music": [
+            "Randy Edelman"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Youth in Revolt (2010)": {
@@ -83372,7 +84241,7 @@ var movieMap = {
             "Matthew Vaughn"
         ],
         "leads": [
-            "Aaron Johnson",
+            "Aaron Taylor-Johnson",
             "Christopher Mintz-Plasse",
             "Mark Strong"
         ],
@@ -84932,7 +85801,7 @@ var movieMap = {
             "Sam Taylor-Johnson"
         ],
         "leads": [
-            "Aaron Johnson",
+            "Aaron Taylor-Johnson",
             "Anne-Marie Duff",
             "Kristin Scott Thomas"
         ],
@@ -87862,6 +88731,26 @@ var movieMap = {
             "Morgan Freeman"
         ]
     },
+    "Killer Elite (2011)": {
+        "title": "Killer Elite",
+        "year": "2011",
+        "synopsis": "When his mentor is taken captive by a disgraced Sheikh, mercenary Danny must kill three agents that killed three of his sons. Two old partners join.",
+        "directors": [
+            "Gary McKendry"
+        ],
+        "leads": [
+            "Jason Statham",
+            "Clive Owen",
+            "Robert De Niro"
+        ],
+        "music": [
+            "Reinhold Heil",
+            "Johnny Klimek"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Moneyball (2011)": {
         "title": "Moneyball",
         "year": "2011",
@@ -89552,6 +90441,25 @@ var movieMap = {
             "Willem Dafoe"
         ]
     },
+    "Salmon Fishing in the Yemen (2012)": {
+        "title": "Salmon Fishing in the Yemen",
+        "year": "2012",
+        "synopsis": "Fisheries expert Alfred is contacted by a financial adviser, Harriet, to help realize a Yemeni sheikh's goal of bringing the sport of fly fishing to a desert.",
+        "directors": [
+            "Lasse Hallstr\u00f6m"
+        ],
+        "leads": [
+            "Emily Blunt",
+            "Ewan McGregor",
+            "Kristin Scott Thomas"
+        ],
+        "music": [
+            "Dario Marianelli"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "21 Jump Street (2012)": {
         "title": "21 Jump Street",
         "year": "2012",
@@ -89867,6 +90775,25 @@ var movieMap = {
         "categories": [
             "2010s",
             "Animated"
+        ]
+    },
+    "The Raven (2012)": {
+        "title": "The Raven",
+        "year": "2012",
+        "synopsis": "In 1849 Baltimore, Edgar Allan Poe learns that a killer is committing horrific murders inspired by his works. He and detective Emmett then investigate.",
+        "directors": [
+            "James McTeigue"
+        ],
+        "leads": [
+            "John Cusack",
+            "Luke Evans",
+            "Alice Eve"
+        ],
+        "music": [
+            "Lucas Vidal"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "The Avengers (2012)": {
@@ -92272,6 +93199,26 @@ var movieMap = {
             "Monster"
         ]
     },
+    "A Glimpse Inside the Mind of Charles Swan III (2013)": {
+        "title": "A Glimpse Inside the Mind of Charles Swan III",
+        "year": "2013",
+        "synopsis": "In the 1970s, graphic designer Charles' life slides into despair after his girlfriend leaves. He starts to dream while with friend Kirby and manager Saul.",
+        "directors": [
+            "Roman Coppola"
+        ],
+        "leads": [
+            "Charlie Sheen",
+            "Jason Schwartzman",
+            "Bill Murray"
+        ],
+        "music": [
+            "Liam Hayes",
+            "Roger Neill"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Identity Thief (2013)": {
         "title": "Identity Thief",
         "year": "2013",
@@ -92416,6 +93363,25 @@ var movieMap = {
             "2010s",
             "Family",
             "Fantasy/Sci-Fi"
+        ]
+    },
+    "Ginger & Rosa (2013)": {
+        "title": "Ginger & Rosa",
+        "year": "2013",
+        "synopsis": "In 1962 London, two 17-year-old girls spend their days together as a missile crisis looms. As one's father starts a difficult relationship, tension grows.",
+        "directors": [
+            "Sally Potter"
+        ],
+        "leads": [
+            "Elle Fanning",
+            "Alice Englert",
+            "Alessandro Nivola"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Spring Breakers (2013)": {
@@ -93243,13 +94209,13 @@ var movieMap = {
     "The Bling Ring (2013)": {
         "title": "The Bling Ring",
         "year": "2013",
-        "synopsis": "In Agora Hills, a group of fame-obsessed teens use the Internet to track celebrities' whereabouts to rob homes but are identified on CCTV footage.",
+        "synopsis": "In Agora Hills, teenagers obsessed with fame use the Internet to track celebrities to rob their homes. They are eventually identified by security footage.",
         "directors": [
             "Sofia Coppola"
         ],
         "leads": [
-            "Katie Chang",
             "Israel Broussard",
+            "Katie Chang",
             "Emma Watson"
         ],
         "music": [
@@ -93497,7 +94463,7 @@ var movieMap = {
     "Grown Ups 2 (2013)": {
         "title": "Grown Ups 2",
         "year": "2013",
-        "synopsis": "After moving his family back to his hometown, Lenny encounters bullies, schizo bus drivers, drunk cops, and 400 costumed party crashers.",
+        "synopsis": "As school ends and summer begins, Lenny, Eric, Kurt, and Marcus face a childhood bully, fraternity brothers, family drama, and a 1980s theme party.",
         "directors": [
             "Dennis Dugan"
         ],
@@ -93790,7 +94756,7 @@ var movieMap = {
     "The Spectacular Now (2013)": {
         "title": "The Spectacular Now",
         "year": "2013",
-        "synopsis": "A hard-partying high school senior's philosophy on life changes when he meets the not-so-typical \"nice girl.\"",
+        "synopsis": "Hard-partying high school senior Sutter befriends nice girl Aimee. They grow close and endure both meeting his unpleasant father and a car accident.",
         "directors": [
             "James Ponsoldt"
         ],
@@ -94389,6 +95355,27 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ]
+    },
+    "Chinese Zodiac (2013)": {
+        "title": "Chinese Zodiac",
+        "year": "2013",
+        "synopsis": "JC is tasked by MP Corporation to find 12 bronze animal heads. Partners Simon, David, and Bonnie join him at a mansion, a ship, and then a volcano.",
+        "directors": [
+            "Jackie Chan"
+        ],
+        "leads": [
+            "Jackie Chan",
+            "Kwon Sang-woo",
+            "Liao Fan"
+        ],
+        "music": [
+            "Roc Chen",
+            "Nathan Wang",
+            "Gary Chase"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Escape Plan (2013)": {
@@ -95657,7 +96644,7 @@ var movieMap = {
     "Enemy (2014)": {
         "title": "Enemy",
         "year": "2014",
-        "synopsis": "A mild-mannered college professor discovers a look-alike actor in a movie and delves into the other man's private affairs.",
+        "synopsis": "In Toronto, college history professor Adam rents a film and spots actor Anthony, who looks identical to him. The two talk and impersonate each other.",
         "directors": [
             "Denis Villeneuve"
         ],
@@ -95820,6 +96807,25 @@ var movieMap = {
             "Russell Crowe"
         ]
     },
+    "Sabotage (2014)": {
+        "title": "Sabotage",
+        "year": "2014",
+        "synopsis": "Members of Breacher's DEA task force team find themselves being taken down after they take and hide $10 million from a drug cartel's safe house.",
+        "directors": [
+            "David Ayer"
+        ],
+        "leads": [
+            "Arnold Schwarzenegger",
+            "Sam Worthington",
+            "Olivia Williams"
+        ],
+        "music": [
+            "David Sardy"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "The Raid 2 (2014)": {
         "title": "The Raid 2",
         "year": "2014",
@@ -95893,7 +96899,7 @@ var movieMap = {
     "Under the Skin (2014)": {
         "title": "Under the Skin",
         "year": "2014",
-        "synopsis": "In Glasgow, an alien woman seduces lonely men in the evening hours and pushes them to follow her into a void to be submerged in a liquid abyss.",
+        "synopsis": "In Glasgow, an alien woman seduces lonely men at night and takes them to a liquid void. She starts to reconsider her habits before a logger hurts her.",
         "directors": [
             "Jonathan Glazer"
         ],
@@ -96039,7 +97045,7 @@ var movieMap = {
     "Locke (2014)": {
         "title": "Locke",
         "year": "2014",
-        "synopsis": "In England, a dutiful family man and construction foreman receives calls from family and friends on the way to be with a colleague during childbirth.",
+        "synopsis": "In England, a dutiful family man and construction foreman receives calls from his family and friends while driving to join a colleague during childbirth.",
         "directors": [
             "Steven Knight"
         ],
@@ -96412,7 +97418,7 @@ var movieMap = {
     "Obvious Child (2014)": {
         "title": "Obvious Child",
         "year": "2014",
-        "synopsis": "A twenty-something comedienne's unplanned pregnancy forces her to confront the realities of independent womanhood for the first time.",
+        "synopsis": "When a boyfriend dumps her, stand-up comedian Donna becomes drunk and sleeps with Max. She becomes pregnant, but she plans for an abortion.",
         "directors": [
             "Gillian Robespierre"
         ],
@@ -96501,6 +97507,25 @@ var movieMap = {
             "DreamWorks Animation",
             "Family",
             "Fantasy/Sci-Fi"
+        ]
+    },
+    "The Rover (2014)": {
+        "title": "The Rover",
+        "year": "2014",
+        "synopsis": "One decade after a global economic collapse, the Australian outback is a wasteland. Eric follows the men who stole his car and captures one's brother.",
+        "directors": [
+            "David Mich\u00f4d"
+        ],
+        "leads": [
+            "Guy Pearce",
+            "Robert Pattinson",
+            "Scoot McNairy"
+        ],
+        "music": [
+            "Antony Partos"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Jersey Boys (2014)": {
@@ -97089,6 +98114,25 @@ var movieMap = {
             "Gyllenhaals"
         ]
     },
+    "Life After Beth (2014)": {
+        "title": "Life After Beth",
+        "year": "2014",
+        "synopsis": "Zach's recently deceased girlfriend returns comes back to life, but acts strange and aggressive. He soon finds his entire town overtaken by zombies.",
+        "directors": [
+            "Jeff Baena"
+        ],
+        "leads": [
+            "Aubrey Plaza",
+            "Dane DeHaan",
+            "Molly Shannon"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "The Expendables 3 (2014)": {
         "title": "The Expendables 3",
         "year": "2014",
@@ -97442,7 +98486,7 @@ var movieMap = {
     "Tusk (2014)": {
         "title": "Tusk",
         "year": "2014",
-        "synopsis": "A brash podcaster travels to Canada to interview a disturbing recluse and is sewed into a walrus costume. Friends and an inspector look for him.",
+        "synopsis": "Podcaster Wallace travels to Canada to interview a kid and meets old seaman Howard. He is sewn into a walrus costume. His friends search for him.",
         "directors": [
             "Kevin Smith"
         ],
@@ -97502,6 +98546,25 @@ var movieMap = {
             "2010s",
             "Action/Adventure",
             "Denzel Washington"
+        ]
+    },
+    "Men, Women & Children (2014)": {
+        "title": "Men, Women & Children",
+        "year": "2014",
+        "synopsis": "In Texas, high school teenagers and their parents struggle with technology. They deal with infidelity, fame hunting, privacy, and Internet illicit material.",
+        "directors": [
+            "Jason Reitman"
+        ],
+        "leads": [
+            "Rosemarie DeWitt",
+            "Jennifer Garner",
+            "Judy Greer"
+        ],
+        "music": [
+            "Stephen Wilkinson"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "A Good Marriage (2014)": {
@@ -97807,6 +98870,26 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ]
+    },
+    "Revenge of the Green Dragons (2014)": {
+        "title": "Revenge of the Green Dragons",
+        "year": "2014",
+        "synopsis": "In 1980s New York City, immigrant Sonny and his close friend Steven join a Chinatown gang. They rise up the ranks but compete against each other.",
+        "directors": [
+            "Andrew Lau",
+            "Andrew Loo"
+        ],
+        "leads": [
+            "Justin Chon",
+            "Kevin Wu",
+            "Harry Shum Jr."
+        ],
+        "music": [
+            "Mark Kilian"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "St. Vincent (2014)": {
@@ -98271,6 +99354,25 @@ var movieMap = {
             "SCTV Alumni"
         ]
     },
+    "The Captive (2014)": {
+        "title": "The Captive",
+        "year": "2014",
+        "synopsis": "In Ontario, contractor Matthew's young daughter Cassandra goes missing. Eight years later, Nicole and her unit learn she may be alive and a captive.",
+        "directors": [
+            "Atom Egoyan"
+        ],
+        "leads": [
+            "Ryan Reynolds",
+            "Scott Speedman",
+            "Rosario Dawson"
+        ],
+        "music": [
+            "Mychael Danna"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Top Five (2014)": {
         "title": "Top Five",
         "year": "2014",
@@ -98730,6 +99832,26 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ]
+    },
+    "Mortdecai (2015)": {
+        "title": "Mortdecai",
+        "year": "2015",
+        "synopsis": "Art dealer swindler Charlie and his wife Johanna are in debt so help Inspector Alistair locate a man who killed for a painting that hides a path to gold.",
+        "directors": [
+            "David Koepp"
+        ],
+        "leads": [
+            "Johnny Depp",
+            "Gwyneth Paltrow",
+            "Ewan McGregor"
+        ],
+        "music": [
+            "Mark Ronson",
+            "Geoff Zanelli"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Strange Magic (2015)": {
@@ -99330,6 +100452,25 @@ var movieMap = {
             "2010s"
         ]
     },
+    "Cut Bank (2015)": {
+        "title": "Cut Bank",
+        "year": "2015",
+        "synopsis": "In Montana, Dwayne and his girlfriend Cassandra seem to witness a mail truck driver's murder. The two meet taxidermist Derby as police investigate.",
+        "directors": [
+            "Matt Shakman"
+        ],
+        "leads": [
+            "Liam Hemsworth",
+            "Billy Bob Thornton",
+            "John Malkovich"
+        ],
+        "music": [
+            "James Newton Howard"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Furious 7 (2015)": {
         "title": "Furious 7",
         "year": "2015",
@@ -99357,7 +100498,7 @@ var movieMap = {
     "Ex Machina (2015)": {
         "title": "Ex Machina",
         "year": "2015",
-        "synopsis": "A programmer is selected to participate in an experiment in synthetic intelligence by evaluating the humanity of a highly advanced humanoid A.I.",
+        "synopsis": "Blue Book engineer Caleb visits CEO Nathan for a week. He is asked to evaluate the humanity of gynoid Ava, who wants to enter the outside world.",
         "directors": [
             "Alex Garland"
         ],
@@ -100214,7 +101355,7 @@ var movieMap = {
     "The End of the Tour (2015)": {
         "title": "The End of the Tour",
         "year": "2015",
-        "synopsis": "In 1996, Rolling Stone reporter Lipsky holds an interview with acclaimed author Wallace after the publication of his beloved epic novel Infinite Jest.",
+        "synopsis": "In 1996, Rolling Stone writer Lipsky conducts an interview with acclaimed author Wallace after the publication of his beloved epic novel Infinite Jest.",
         "directors": [
             "James Ponsoldt"
         ],
@@ -100660,6 +101801,26 @@ var movieMap = {
             "Animated",
             "Happy Madison & Adam Sandler",
             "Mel Brooks"
+        ]
+    },
+    "Mississippi Grind (2015)": {
+        "title": "Mississippi Grind",
+        "year": "2015",
+        "synopsis": "Real estate agent Gerry works with a charismatic poker player, Curtis, to change his luck gambling on a journey from the Mississippi to New Orleans.",
+        "directors": [
+            "Anna Boden",
+            "Ryan Fleck"
+        ],
+        "leads": [
+            "Ryan Reynolds",
+            "Ben Mendelsohn",
+            "Sienna Miller"
+        ],
+        "music": [
+            "Scott Bomar"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "The Green Inferno (2015)": {
@@ -101408,6 +102569,25 @@ var movieMap = {
             "Animated",
             "Frances McDormand",
             "Pixar"
+        ]
+    },
+    "Victor Frankenstein (2015)": {
+        "title": "Victor Frankenstein",
+        "year": "2015",
+        "synopsis": "In 1860s London, Igor observes the emergence of scientist Victor. They experiment with the creation of life from death. Inspector Turpin distrusts them.",
+        "directors": [
+            "Paul McGuigan"
+        ],
+        "leads": [
+            "Daniel Radcliffe",
+            "James McAvoy",
+            "Jessica Brown Findlay"
+        ],
+        "music": [
+            "Craig Armstrong"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "The Danish Girl (2015)": {
@@ -102178,7 +103358,7 @@ var movieMap = {
     "The Witch (2016)": {
         "title": "The Witch",
         "year": "2016",
-        "synopsis": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",
+        "synopsis": "In 1630s New England, William's settler family is torn apart when one son is kidnapped. Thomasin finds herself drawn to evil magic. A goat watches.",
         "directors": [
             "Robert Eggers"
         ],
@@ -102684,7 +103864,7 @@ var movieMap = {
     "Green Room (2016)": {
         "title": "Green Room",
         "year": "2016",
-        "synopsis": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+        "synopsis": "In Oregon, the Ain't Rights punk band is forced to fight for survival when they witness a murder at a neo-Nazi skinhead bar led by brutal owner Darcy.",
         "directors": [
             "Jeremy Saulnier"
         ],
@@ -102731,6 +103911,25 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ]
+    },
+    "The Adderall Diaries (2016)": {
+        "title": "The Adderall Diaries",
+        "year": "2016",
+        "synopsis": "Former successful author Stephen writes about a missing wife and her husband's murder trial as he connects with a sick father that abused him, Neil.",
+        "directors": [
+            "Pamela Romanowsky"
+        ],
+        "leads": [
+            "James Franco",
+            "Ed Harris",
+            "Amber Heard"
+        ],
+        "music": [
+            "Michael Andrews"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "The Jungle Book (2016)": {
@@ -102921,6 +104120,25 @@ var movieMap = {
             "Timothy Olyphant"
         ]
     },
+    "Ratchet & Clank (2016)": {
+        "title": "Ratchet & Clank",
+        "year": "2016",
+        "synopsis": "After the galaxy is threatened by Chairman Drek, a mechanic and his broken robot join the Galactic Rangers to save the Solana Galaxy from a doctor.",
+        "directors": [
+            "Kevin Munroe"
+        ],
+        "leads": [
+            "James Arnold Taylor",
+            "David Kaye",
+            "Paul Giamatti"
+        ],
+        "music": [
+            "Evan Wise"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Special Correspondents (2016)": {
         "title": "Special Correspondents",
         "year": "2016",
@@ -103078,7 +104296,7 @@ var movieMap = {
     "The Lobster (2016)": {
         "title": "The Lobster",
         "year": "2016",
-        "synopsis": "In the near future, single people are taken to a Hotel, where they must find a romantic partner in 45 days or are transformed into beasts.",
+        "synopsis": "Joined by his dog brother, David has 45 days in a hotel to find a mate. After he escapes, he joins a loner group and befriends a short-sighted woman.",
         "directors": [
             "Yorgos Lanthimos"
         ],
@@ -103336,6 +104554,24 @@ var movieMap = {
             "Will Arnett"
         ]
     },
+    "De Palma (2016)": {
+        "title": "De Palma",
+        "year": "2016",
+        "synopsis": "Director and writer Brian discusses his career that redefined film horror and suspense. He confesses the challenges and price of working in Hollywood.",
+        "directors": [
+            "Noah Baumbach",
+            "Jake Paltrow"
+        ],
+        "leads": [
+            "Brian De Palma"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Genius (2016)": {
         "title": "Genius",
         "year": "2016",
@@ -103546,7 +104782,7 @@ var movieMap = {
     "Swiss Army Man (2016)": {
         "title": "Swiss Army Man",
         "year": "2016",
-        "synopsis": "A hopeless man stranded on a deserted island befriends a dead body. Together, the two go on a surreal journey to get home and talk to a woman.",
+        "synopsis": "On a deserted island, hopeless Hank befriends a corpse he names Manny. As they bond, they use their love for Sarah to drive a return to civilization.",
         "directors": [
             "Daniel Scheinert",
             "Daniel Kwan"
@@ -103718,6 +104954,25 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ]
+    },
+    "Cell (2016)": {
+        "title": "Cell",
+        "year": "2016",
+        "synopsis": "In New England, a signal changes phone users to rabid killers. Artist Clay works to return to his son, joined by train conductor Tom and neighbor Alice.",
+        "directors": [
+            "Tod Williams"
+        ],
+        "leads": [
+            "John Cusack",
+            "Samuel L. Jackson",
+            "Isabelle Fuhrman"
+        ],
+        "music": [
+            "Marcelo Zarvos"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Mike and Dave Need Wedding Dates (2016)": {
@@ -104643,6 +105898,25 @@ var movieMap = {
             "2010s",
             "Action/Adventure",
             "Matt & Ben"
+        ]
+    },
+    "American Pastoral (2016)": {
+        "title": "American Pastoral",
+        "year": "2016",
+        "synopsis": "In 1960s New Jersey, Swede and his vain beauty queen wife Dawn find their life fall apart after their daughter Merry plants protest bombs and leaves.",
+        "directors": [
+            "Ewan McGregor"
+        ],
+        "leads": [
+            "Ewan McGregor",
+            "Jennifer Connelly",
+            "Dakota Fanning"
+        ],
+        "music": [
+            "Alexandre Desplat"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Boo! A Madea Halloween (2016)": {
@@ -107132,7 +108406,7 @@ var movieMap = {
         ],
         "leads": [
             "Naomi Watts",
-            "Jaeden Lieberher",
+            "Jaeden Martell",
             "Jacob Tremblay"
         ],
         "music": [
@@ -107917,7 +109191,7 @@ var movieMap = {
             "Andy Muschietti"
         ],
         "leads": [
-            "Jaeden Lieberher",
+            "Jaeden Martell",
             "Bill Skarsg\u00e5rd",
             "Jeremy Ray Taylor"
         ],
@@ -107940,6 +109214,25 @@ var movieMap = {
             "Megan Charpentier",
             "Sophia Lillis",
             "Wyatt Oleff"
+        ]
+    },
+    "American Assassin (2017)": {
+        "title": "American Assassin",
+        "year": "2017",
+        "synopsis": "When jihadist terrorists kill his girlfriend, Mitch is consumed with revenge. He joins the CIA's black operations unit Orion. Stan trains him in warfare.",
+        "directors": [
+            "Michael Cuesta"
+        ],
+        "leads": [
+            "Dylan O'Brien",
+            "Michael Keaton",
+            "Sanaa Lathan"
+        ],
+        "music": [
+            "Steven Price"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "First They Killed My Father (2017)": {
@@ -110972,6 +112265,25 @@ var movieMap = {
             "A24"
         ]
     },
+    "Show Dogs (2018)": {
+        "title": "Show Dogs",
+        "year": "2018",
+        "synopsis": "Rottweiler police dog Max must go undercover as a competitor in a dog show with human Frank to stop an animal smuggling ring. They slowly bond.",
+        "directors": [
+            "Raja Gosnell"
+        ],
+        "leads": [
+            "Will Arnett",
+            "Ludacris",
+            "Natasha Lyonne"
+        ],
+        "music": [
+            "Heitor Pereira"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Ibiza (2018)": {
         "title": "Ibiza",
         "year": "2018",
@@ -112174,6 +113486,25 @@ var movieMap = {
             "Mystery"
         ]
     },
+    "Mandy (2018)": {
+        "title": "Mandy",
+        "year": "2018",
+        "synopsis": "In 1983, after a terrifying hippie cult with demonic henchmen burns his wife alive, Red embarks on a spiraling rampage for revenge with hallucinations.",
+        "directors": [
+            "Panos Cosmatos"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Andrea Riseborough",
+            "Linus Roache"
+        ],
+        "music": [
+            "J\u00f3hann J\u00f3hannsson"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "The Land of Steady Habits (2018)": {
         "title": "The Land of Steady Habits",
         "year": "2018",
@@ -112759,6 +114090,25 @@ var movieMap = {
         "categories": [
             "2010s",
             "Streaming"
+        ]
+    },
+    "Hunter Killer (2018)": {
+        "title": "Hunter Killer",
+        "year": "2018",
+        "synopsis": "Untested U.S. submarine Commander Glass joins Navy SEALs to save the Russian president, who has been kidnapped by a rogue defense minister.",
+        "directors": [
+            "Donovan Marsh"
+        ],
+        "leads": [
+            "Gerard Butler",
+            "Gary Oldman",
+            "Common"
+        ],
+        "music": [
+            "Trevor Morris"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Johnny English Strikes Again (2018)": {
@@ -114486,6 +115836,25 @@ var movieMap = {
             "Scarlett Johansson"
         ]
     },
+    "Gloria Bell (2019)": {
+        "title": "Gloria Bell",
+        "year": "2019",
+        "synopsis": "In L.A., divorced mother Gloria likes to let loose at dance clubs. She dates Arnold, a paintball arena manager who supports his ex-wife and daughters.",
+        "directors": [
+            "Sebasti\u00e1n Lelio"
+        ],
+        "leads": [
+            "Julianne Moore",
+            "John Turturro",
+            "Michael Cera"
+        ],
+        "music": [
+            "Matthew Herbert"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Juanita (2019)": {
         "title": "Juanita",
         "year": "2019",
@@ -115529,6 +116898,25 @@ var movieMap = {
             "Comedies"
         ]
     },
+    "The Last Black Man in San Francisco (2019)": {
+        "title": "The Last Black Man in San Francisco",
+        "year": "2019",
+        "synopsis": "In San Francisco, Jimmie and his friend Mont live secretly in a house built by his grandfather as two sisters fight for it. Their childhood friend Kofi dies.",
+        "directors": [
+            "Joe Talbot"
+        ],
+        "leads": [
+            "Jimmie Fails",
+            "Jonathan Majors",
+            "Danny Glover"
+        ],
+        "music": [
+            "Emile Mosseri"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "The Secret Life of Pets 2 (2019)": {
         "title": "The Secret Life of Pets 2",
         "year": "2019",
@@ -116047,6 +117435,25 @@ var movieMap = {
             "Octavia Spencer"
         ]
     },
+    "Madness in the Method (2019)": {
+        "title": "Madness in the Method",
+        "year": "2019",
+        "synopsis": "Character actor Jason struggles to be a legitimate actor. He decides to try method acting to reinvent himself. He is led to a spree of murder and crime.",
+        "directors": [
+            "Jason Mewes"
+        ],
+        "leads": [
+            "Jason Mewes",
+            "Vinnie Jones",
+            "Gina Carano"
+        ],
+        "music": [
+            "Si Begg"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Otherhood (2019)": {
         "title": "Otherhood",
         "year": "2019",
@@ -116390,6 +117797,25 @@ var movieMap = {
             "Xavier Dolan"
         ]
     },
+    "Satanic Panic (2019)": {
+        "title": "Satanic Panic",
+        "year": "2019",
+        "synopsis": "Pizza delivery girl Sam must fight for her life when high society Satanists led by Danica need a virgin sacrifice. Danica's daughter Judi helps Sam flee.",
+        "directors": [
+            "Chelsea Stardust"
+        ],
+        "leads": [
+            "Hayley Griffith",
+            "Rebecca Romijn",
+            "Ruby Modine"
+        ],
+        "music": [
+            "Wolfmen of Mars"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Hustlers (2019)": {
         "title": "Hustlers",
         "year": "2019",
@@ -116411,6 +117837,25 @@ var movieMap = {
             "Dramas",
             "Jennifer Lopez",
             "Musicians in Film"
+        ]
+    },
+    "3 from Hell (2019)": {
+        "title": "3 from Hell",
+        "year": "2019",
+        "synopsis": "After barely surviving prison, Baby and Otis go on the run with Foxy and unleash a wave of murder. Aquarius seeks revenge for father Rondo's death.",
+        "directors": [
+            "Rob Zombie"
+        ],
+        "leads": [
+            "Sheri Moon Zombie",
+            "Bill Moseley",
+            "Richard Brake"
+        ],
+        "music": [
+            "Zeuss"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "In the Shadow of the Moon (2019)": {
@@ -118236,6 +119681,25 @@ var movieMap = {
             "2020s",
             "Streaming",
             "Viola Davis"
+        ]
+    },
+    "Color Out of Space (2020)": {
+        "title": "Color Out of Space",
+        "year": "2020",
+        "synopsis": "Nathan and the Gardner family's secluded farm is struck by a meteorite that starts to mutate space, time, land, and then living beings like themselves.",
+        "directors": [
+            "Richard Stanley"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Joely Richardson",
+            "Elliot Knight"
+        ],
+        "music": [
+            "Colin Stetson"
+        ],
+        "categories": [
+            "2020s"
         ]
     },
     "The Gentlemen (2020)": {
@@ -121506,6 +122970,25 @@ var movieMap = {
             "Streaming"
         ]
     },
+    "Saint Maud (2021)": {
+        "title": "Saint Maud",
+        "year": "2021",
+        "synopsis": "Pious hospice nurse Maud is obsessed with and believes she needs to save the soul of Amanda, a terminally ill, atheist former dancer she cares for.",
+        "directors": [
+            "Rose Glass"
+        ],
+        "leads": [
+            "Morfydd Clark",
+            "Jennifer Ehle",
+            "Lily Knight"
+        ],
+        "music": [
+            "Adam Janota Bzowski"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
     "The Little Things (2021)": {
         "title": "The Little Things",
         "year": "2021",
@@ -122535,6 +124018,25 @@ var movieMap = {
             "Streaming"
         ]
     },
+    "Werewolves Within (2021)": {
+        "title": "Werewolves Within",
+        "year": "2021",
+        "synopsis": "In Beaverfield, forest ranger Finn and mail carrier Cecily investigate townspeople when werewolves ambush and kill. Residents take refuge in a lodge.",
+        "directors": [
+            "Josh Ruben"
+        ],
+        "leads": [
+            "Sam Richardson",
+            "Milana Vayntrub",
+            "George Basil"
+        ],
+        "music": [
+            "Anna Drubich"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
     "America: The Motion Picture (2021)": {
         "title": "America: The Motion Picture",
         "year": "2021",
@@ -122555,6 +124057,25 @@ var movieMap = {
             "Animated",
             "Cornetto Trio",
             "Streaming"
+        ]
+    },
+    "Zola (2021)": {
+        "title": "Zola",
+        "year": "2021",
+        "synopsis": "Detroit waitress Aziah meets stripper Stefani then joins her, pimp X, and sheepish Derrek on a road trip to Tampa. They earn cash and take wild risks.",
+        "directors": [
+            "Janicza Bravo"
+        ],
+        "leads": [
+            "Taylour Paige",
+            "Riley Keough",
+            "Nicholas Braun"
+        ],
+        "music": [
+            "Mica Levi"
+        ],
+        "categories": [
+            "2020s"
         ]
     },
     "No Sudden Move (2021)": {
@@ -122890,6 +124411,25 @@ var movieMap = {
             "Action/Adventure"
         ]
     },
+    "Val (2021)": {
+        "title": "Val",
+        "year": "2021",
+        "synopsis": "An actor reflects on his 40-year career. He shares his own footage and home movies. He discusses his family, friends, and dealing with throat cancer.",
+        "directors": [
+            "Leo Scott",
+            "Ting Poo"
+        ],
+        "leads": [
+            "Val Kilmer",
+            "Jack Kilmer"
+        ],
+        "music": [
+            "Garth Stevenson"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
     "Jungle Cruise (2021)": {
         "title": "Jungle Cruise",
         "year": "2021",
@@ -122911,6 +124451,25 @@ var movieMap = {
             "Dwayne Johnson",
             "Emily Blunt",
             "Wrestlers in Film"
+        ]
+    },
+    "The Green Knight (2021)": {
+        "title": "The Green Knight",
+        "year": "2021",
+        "synopsis": "Sir Gawain embarks on a daring quest to confront an emerald-skinned test of men. He fights ghosts, giants, thieves, and schemers in a tough journey.",
+        "directors": [
+            "David Lowery"
+        ],
+        "leads": [
+            "Dev Patel",
+            "Alicia Vikander",
+            "Joel Edgerton"
+        ],
+        "music": [
+            "Daniel Hart"
+        ],
+        "categories": [
+            "2020s"
         ]
     },
     "The Suicide Squad (2021)": {
@@ -123312,6 +124871,25 @@ var movieMap = {
             "Streaming"
         ]
     },
+    "Copshop (2021)": {
+        "title": "Copshop",
+        "year": "2021",
+        "synopsis": "In Nevada, con artist Teddy devises a scheme to hide in a police station. After hitman Bob appears, rookie officer Valierie is caught in a messy battle.",
+        "directors": [
+            "Joe Carnahan"
+        ],
+        "leads": [
+            "Gerard Butler",
+            "Frank Grillo",
+            "Alexis Louder"
+        ],
+        "music": [
+            "Clinton Shorter"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
     "Cry Macho (2021)": {
         "title": "Cry Macho",
         "year": "2021",
@@ -123505,6 +125083,25 @@ var movieMap = {
             "Tom Hardy",
             "Tom Holland",
             "Woody Harrelson"
+        ]
+    },
+    "Lamb (2021)": {
+        "title": "Lamb",
+        "year": "2021",
+        "synopsis": "In Iceland, farmer Mar\u00eda and her husband Ingvar find a human sheep hybrid they name Ada. They raise her as their own, disturbing Ingvar's brother.",
+        "directors": [
+            "Valdimar J\u00f3hannsson"
+        ],
+        "leads": [
+            "Noomi Rapace",
+            "Hilmir Sn\u00e6r Gu\u00f0nason",
+            "Bj\u00f6rn Hlynur Haraldsson"
+        ],
+        "music": [
+            "\u00de\u00f3rarinn Gu\u00f0nason"
+        ],
+        "categories": [
+            "2020s"
         ]
     },
     "No Time to Die (2021)": {
@@ -123997,6 +125594,26 @@ var movieMap = {
             "Streaming"
         ]
     },
+    "C'mon C'mon (2021)": {
+        "title": "C'mon C'mon",
+        "year": "2021",
+        "synopsis": "Radio journalist Johnny's sister Viv requests that he look after her energetic son Jesse. They go on a cross-country trip that shows life away from L.A.",
+        "directors": [
+            "Mike Mills"
+        ],
+        "leads": [
+            "Joaquin Phoenix",
+            "Gaby Hoffmann",
+            "Scoot McNairy"
+        ],
+        "music": [
+            "Aaron Dessner",
+            "Bryce Dessner"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
     "Ghostbusters: Afterlife (2021)": {
         "title": "Ghostbusters: Afterlife",
         "year": "2021",
@@ -124150,6 +125767,25 @@ var movieMap = {
             "Horror/Thriller"
         ]
     },
+    "The Humans (2021)": {
+        "title": "The Humans",
+        "year": "2021",
+        "synopsis": "In Manhattan, Erik and Deirdre visit their daughter Brigid and partner Richard for Thanksgiving with their other daughter Aimee. Tension slowly grows.",
+        "directors": [
+            "Stephen Karam"
+        ],
+        "leads": [
+            "Beanie Feldstein",
+            "Richard Jenkins",
+            "Amy Schumer"
+        ],
+        "music": [
+            "Nico Muhly"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
     "The Unforgivable (2021)": {
         "title": "The Unforgivable",
         "year": "2021",
@@ -124279,6 +125915,25 @@ var movieMap = {
             "Scott Mescudi",
             "Timoth\u00e9e Chalamet",
             "Tyler Perry"
+        ]
+    },
+    "Red Rocket (2021)": {
+        "title": "Red Rocket",
+        "year": "2021",
+        "synopsis": "Washed-up porn star Mikey returns to Texas City, his hometown. He falls for 17-year-old Strawberry while he resumes his old job of selling marijuana.",
+        "directors": [
+            "Sean Baker"
+        ],
+        "leads": [
+            "Simon Rex",
+            "Bree Elrod",
+            "Suzanna Son"
+        ],
+        "music": [
+            "N/A"
+        ],
+        "categories": [
+            "2020s"
         ]
     },
     "West Side Story (2021)": {
@@ -124556,6 +126211,84 @@ var movieMap = {
             "Denzel Washington",
             "Frances McDormand",
             "Streaming"
+        ]
+    },
+    "Scream (2022)": {
+        "title": "Scream",
+        "year": "2022",
+        "synopsis": "In Woodsboro, a Ghostface targets teens who are linked to murders 25 years ago. Sisters Sam and Tara survive as Dewey, Gale, and Sidney return.",
+        "directors": [
+            "Matt Bettinelli-Olpin",
+            "Tyler Gillett"
+        ],
+        "leads": [
+            "Melissa Barrera",
+            "Jenna Ortega",
+            "Jack Quaid"
+        ],
+        "music": [
+            "Brian Tyler"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
+    "Moonfall (2022)": {
+        "title": "Moonfall",
+        "year": "2022",
+        "synopsis": "Astronauts deputy director Jocinda and disgraced Brian join conspiracy theorist K.C. learn the Moon is artificial and hurtling toward Earth. They stop it.",
+        "directors": [
+            "Roland Emmerich"
+        ],
+        "leads": [
+            "Halle Berry",
+            "Patrick Wilson",
+            "John Bradley"
+        ],
+        "music": [
+            "Thomas Wander",
+            "Harald Kloser"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
+    "Death on the Nile (2022)": {
+        "title": "Death on the Nile",
+        "year": "2022",
+        "synopsis": "In 1937 Egypt, as Poirot enjoys a luxurious cruise down the Nile, newlywed heiress Linnet is found shot by a pistol on board. He uncovers the villain.",
+        "directors": [
+            "Kenneth Branagh"
+        ],
+        "leads": [
+            "Kenneth Branagh",
+            "Gal Gadot",
+            "Armie Hammer"
+        ],
+        "music": [
+            "Patrick Doyle"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
+    "Uncharted (2022)": {
+        "title": "Uncharted",
+        "year": "2022",
+        "synopsis": "Bartender Nathan is recruited by treasure hunter Sully to recover a fortune amassed by Magellan. Wealthy Moncada and Braddock clash with them.",
+        "directors": [
+            "Ruben Fleischer"
+        ],
+        "leads": [
+            "Tom Holland",
+            "Mark Wahlberg",
+            "Sophia Ali"
+        ],
+        "music": [
+            "Ramin Djawadi"
+        ],
+        "categories": [
+            "2020s"
         ]
     }
 }
