@@ -4225,6 +4225,7 @@ var actorMap = {
     },
     "Curtis Armstrong": {
         "movies": [
+            "Risky Business (1983)",
             "Ray (2004)",
             "Smokin' Aces (2007)"
         ]
@@ -10258,6 +10259,7 @@ var actorMap = {
     },
     "Joe Pantoliano": {
         "movies": [
+            "Risky Business (1983)",
             "The Fugitive (1993)",
             "Daredevil (2003)"
         ]
@@ -17411,6 +17413,11 @@ var actorMap = {
             "North (1994)"
         ]
     },
+    "Rebecca De Mornay": {
+        "movies": [
+            "Risky Business (1983)"
+        ]
+    },
     "Rebecca Ferguson": {
         "movies": [
             "Hercules (2014)",
@@ -20646,6 +20653,7 @@ var actorMap = {
             "Taps (1981)",
             "The Outsiders (1983)",
             "Losin' It (1983)",
+            "Risky Business (1983)",
             "Interview with the Vampire (1994)",
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",

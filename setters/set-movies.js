@@ -20346,6 +20346,12 @@ var movieMap = {
         "categories": [
             "1980s",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Curtis Armstrong",
+            "Joe Pantoliano",
+            "Rebecca De Mornay",
+            "Tom Cruise"
         ]
     },
     "Cujo (1983)": {
