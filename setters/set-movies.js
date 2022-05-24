@@ -24176,9 +24176,9 @@ var movieMap = {
             "Tom Cruise"
         ],
         "cast": [
-            "Tom Cruise",
             "Mia Sara",
-            "Tim Curry"
+            "Tim Curry",
+            "Tom Cruise"
         ]
     },
     "Blue City (1986)": {
@@ -25127,12 +25127,12 @@ var movieMap = {
             "Tom Cruise"
         ],
         "cast": [
-            "Paul Newman",
-            "Tom Cruise",
-            "Mary Elizabeth Mastrantonio",
+            "Bill Cobbs",
             "Forest Whitaker",
             "John Turturro",
-            "Bill Cobbs"
+            "Mary Elizabeth Mastrantonio",
+            "Paul Newman",
+            "Tom Cruise"
         ]
     },
     "Soul Man (1986)": {
@@ -27986,11 +27986,11 @@ var movieMap = {
             "Tom Cruise"
         ],
         "cast": [
-            "Tom Cruise",
             "Bryan Brown",
             "Elisabeth Shue",
             "Gina Gershon",
-            "Laurence Luckinbill"
+            "Laurence Luckinbill",
+            "Tom Cruise"
         ]
     },
     "The Blob (1988)": {
@@ -31280,6 +31280,16 @@ var movieMap = {
             "Scotts",
             "Sports",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Cary Elwes",
+            "John C. Reilly",
+            "Margo Martindale",
+            "Michael Rooker",
+            "Nicole Kidman",
+            "Randy Quaid",
+            "Robert Duvall",
+            "Tom Cruise"
         ]
     },
     "Die Hard 2 (1990)": {
@@ -33000,8 +33010,8 @@ var movieMap = {
             "Christian Slater",
             "Kevin Costner",
             "Mary Elizabeth Mastrantonio",
-            "Mike McShane",
             "Michael Wincott",
+            "Mike McShane",
             "Morgan Freeman",
             "Sean Connery"
         ]
@@ -34685,6 +34695,15 @@ var movieMap = {
             "Nicole Kidman",
             "Romance",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Barbara Babcock",
+            "Clint Howard",
+            "Colm Meaney",
+            "James Jude Courtney",
+            "Nicole Kidman",
+            "Robert Prosky",
+            "Tom Cruise"
         ]
     },
     "Sister Act (1992)": {
@@ -35791,6 +35810,19 @@ var movieMap = {
             "Dramas",
             "Jack Nicholson",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Aaron Sorkin",
+            "Christopher Guest",
+            "Cuba Gooding Jr.",
+            "Demi Moore",
+            "Jack Nicholson",
+            "James Marshall",
+            "Kevin Bacon",
+            "Kevin Pollak",
+            "Kiefer Sutherland",
+            "Tom Cruise",
+            "Wolfgang Bodison"
         ]
     },
     "Love Field (1992)": {
@@ -101123,6 +101155,12 @@ var movieMap = {
             "2010s",
             "A24",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Alicia Vikander",
+            "Domhnall Gleeson",
+            "Oscar Isaac",
+            "Sonoya Mizuno"
         ]
     },
     "The Longest Ride (2015)": {
@@ -107127,6 +107165,7 @@ var movieMap = {
             "John Legend",
             "Rosemarie DeWitt",
             "Ryan Gosling",
+            "Sonoya Mizuno",
             "Tom Everett Scott"
         ]
     },
@@ -109953,6 +109992,16 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Jennifer Lawrence",
+            "Michelle Pfeiffer"
+        ],
+        "cast": [
+            "Brian Gleeson",
+            "Domhnall Gleeson",
+            "Ed Harris",
+            "Javier Bardem",
+            "Jennifer Lawrence",
+            "Jovan Adepo",
+            "Kristen Wiig",
             "Michelle Pfeiffer"
         ]
     },
