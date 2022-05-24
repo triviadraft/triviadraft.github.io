@@ -158,7 +158,8 @@ var actorMap = {
     },
     "Adam West": {
         "movies": [
-            "Batman (1966)"
+            "Batman (1966)",
+            "Drop Dead Gorgeous (1999)"
         ]
     },
     "Adewale Akinnuoye-Agbaje": {
@@ -654,6 +655,7 @@ var actorMap = {
         ],
         "movies": [
             "Six Days, Seven Nights (1998)",
+            "Drop Dead Gorgeous (1999)",
             "Hairspray (2007)",
             "Juno (2007)",
             "The Help (2011)"
@@ -747,6 +749,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "Catch Me If You Can (2002)",
             "Doubt (2008)",
             "Man of Steel (2013)",
@@ -1489,6 +1492,11 @@ var actorMap = {
         "movies": [
             "Star Wars: The Clone Wars (2008)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Ashley Tisdale": {
+        "movies": [
+            "A Bug's Life (1998)"
         ]
     },
     "Ashton Kutcher": {
@@ -2275,6 +2283,7 @@ var actorMap = {
     "Bonnie Hunt": {
         "movies": [
             "Jumanji (1995)",
+            "A Bug's Life (1998)",
             "Zootopia (2016)"
         ]
     },
@@ -2327,6 +2336,7 @@ var actorMap = {
     },
     "Brad Garrett": {
         "movies": [
+            "A Bug's Life (1998)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
             "Ralph Breaks the Internet (2018)"
         ]
@@ -2633,6 +2643,7 @@ var actorMap = {
     },
     "Brittany Murphy": {
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "Girl, Interrupted (1999)",
             "Sin City (2005)"
         ]
@@ -4595,6 +4606,7 @@ var actorMap = {
     },
     "Dave Foley": {
         "movies": [
+            "A Bug's Life (1998)",
             "Sky High (2005)"
         ]
     },
@@ -4697,6 +4709,7 @@ var actorMap = {
     },
     "David Hyde Pierce": {
         "movies": [
+            "A Bug's Life (1998)",
             "Hellboy (2004)"
         ]
     },
@@ -4942,6 +4955,7 @@ var actorMap = {
     },
     "Denis Leary": {
         "movies": [
+            "A Bug's Life (1998)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)"
         ]
@@ -4954,6 +4968,7 @@ var actorMap = {
     },
     "Denise Richards": {
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "Love Actually (2003)"
         ]
     },
@@ -5685,6 +5700,7 @@ var actorMap = {
     "Edie McClurg": {
         "movies": [
             "Carrie (1976)",
+            "A Bug's Life (1998)",
             "Wreck-It Ralph (2012)"
         ]
     },
@@ -5922,6 +5938,7 @@ var actorMap = {
     },
     "Ellen Barkin": {
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "Ocean's Thirteen (2007)"
         ]
     },
@@ -7665,6 +7682,7 @@ var actorMap = {
     },
     "Hayden Panettiere": {
         "movies": [
+            "A Bug's Life (1998)",
             "Message in a Bottle (1999)",
             "Remember the Titans (2000)"
         ]
@@ -10225,6 +10243,11 @@ var actorMap = {
             }
         ]
     },
+    "Joe Ranft": {
+        "movies": [
+            "A Bug's Life (1998)"
+        ]
+    },
     "Joe Russo": {
         "movies": [
             "Captain America: The Winter Soldier (2014)",
@@ -10539,6 +10562,7 @@ var actorMap = {
         "movies": [
             "The Empire Strikes Back (1980)",
             "Toy Story (1995)",
+            "A Bug's Life (1998)",
             "The Incredibles (2004)",
             "Incredibles 2 (2018)",
             "Onward (2020)"
@@ -10832,6 +10856,11 @@ var actorMap = {
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
             "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Jonathan Harris": {
+        "movies": [
+            "A Bug's Life (1998)"
         ]
     },
     "Jonathan Hyde": {
@@ -11144,6 +11173,7 @@ var actorMap = {
     "Julia Louis-Dreyfus": {
         "movies": [
             "North (1994)",
+            "A Bug's Life (1998)",
             "Onward (2020)",
             "Black Widow (2021)"
         ]
@@ -12144,6 +12174,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "A Bug's Life (1998)",
             "Superman Returns (2006)",
             "Moon (2009)"
         ]
@@ -12237,6 +12268,7 @@ var actorMap = {
         ],
         "movies": [
             "Jumanji (1995)",
+            "Drop Dead Gorgeous (1999)",
             "Spider-Man (2002)",
             "Eternal Sunshine of the Spotless Mind (2004)",
             "Spider-Man 2 (2004)",
@@ -12251,7 +12283,8 @@ var actorMap = {
     },
     "Kirstie Alley": {
         "movies": [
-            "Star Trek II: The Wrath of Khan (1982)"
+            "Star Trek II: The Wrath of Khan (1982)",
+            "Drop Dead Gorgeous (1999)"
         ]
     },
     "Kit Harington": {
@@ -13349,6 +13382,11 @@ var actorMap = {
     "Maddie Ziegler": {
         "movies": [
             "The Book of Henry (2017)"
+        ]
+    },
+    "Madeline Kahn": {
+        "movies": [
+            "A Bug's Life (1998)"
         ]
     },
     "Madge Sinclair": {
@@ -15219,6 +15257,13 @@ var actorMap = {
             "R.I.P.D. (2013)"
         ]
     },
+    "Mike McShane": {
+        "movies": [
+            "Robin Hood: Prince of Thieves (1991)",
+            "A Bug's Life (1998)",
+            "Drop Dead Gorgeous (1999)"
+        ]
+    },
     "Mike Mitchell": {
         "movies": [
             "Kung Fu Panda 3 (2016)",
@@ -15292,6 +15337,7 @@ var actorMap = {
     },
     "Mindy Sterling": {
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "Transformers: Dark of the Moon (2011)"
         ]
     },
@@ -16959,6 +17005,11 @@ var actorMap = {
             "For Colored Girls (2010)"
         ]
     },
+    "Phyllis Diller": {
+        "movies": [
+            "A Bug's Life (1998)"
+        ]
+    },
     "Pierce Brosnan": {
         "movies": [
             "The Tailor of Panama (2001)"
@@ -17613,6 +17664,7 @@ var actorMap = {
     },
     "Richard Kind": {
         "movies": [
+            "A Bug's Life (1998)",
             "The Producers (2005)"
         ]
     },
@@ -18009,9 +18061,15 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Roddy McDowall": {
+        "movies": [
+            "A Bug's Life (1998)"
+        ]
+    },
     "Rodger Bumpass": {
         "movies": [
-            "Heavy Metal (1981)"
+            "Heavy Metal (1981)",
+            "A Bug's Life (1998)"
         ]
     },
     "Rodrigo Santoro": {
@@ -20193,6 +20251,7 @@ var actorMap = {
     },
     "Thomas Lennon": {
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "I Love You, Man (2009)",
             "What's Your Number? (2011)"
@@ -21485,6 +21544,7 @@ var actorMap = {
     },
     "Will Sasso": {
         "movies": [
+            "Drop Dead Gorgeous (1999)",
             "Movie 43 (2013)"
         ]
     },

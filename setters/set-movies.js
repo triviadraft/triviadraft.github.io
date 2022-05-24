@@ -32868,6 +32868,7 @@ var movieMap = {
             "Christian Slater",
             "Kevin Costner",
             "Mary Elizabeth Mastrantonio",
+            "Mike McShane",
             "Morgan Freeman",
             "Sean Connery"
         ]
@@ -50598,6 +50599,27 @@ var movieMap = {
             "1990s",
             "Animated",
             "Pixar"
+        ],
+        "cast": [
+            "Ashley Tisdale",
+            "Bonnie Hunt",
+            "Brad Garrett",
+            "Dave Foley",
+            "David Hyde Pierce",
+            "Denis Leary",
+            "Edie McClurg",
+            "Hayden Panettiere",
+            "Joe Ranft",
+            "John Ratzenberger",
+            "Jonathan Harris",
+            "Julia Louis-Dreyfus",
+            "Kevin Spacey",
+            "Madeline Kahn",
+            "Mike McShane",
+            "Phyllis Diller",
+            "Richard Kind",
+            "Roddy McDowall",
+            "Rodger Bumpass"
         ]
     },
     "American History X (1998)": {
@@ -52277,6 +52299,20 @@ var movieMap = {
             "1990s",
             "Amy Adams",
             "Comedies"
+        ],
+        "cast": [
+            "Adam West",
+            "Allison Janney",
+            "Amy Adams",
+            "Brittany Murphy",
+            "Denise Richards",
+            "Ellen Barkin",
+            "Kirsten Dunst",
+            "Kirstie Alley",
+            "Mike McShane",
+            "Mindy Sterling",
+            "Thomas Lennon",
+            "Will Sasso"
         ]
     },
     "Inspector Gadget (1999)": {
