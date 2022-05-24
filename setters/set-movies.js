@@ -19786,6 +19786,20 @@ var movieMap = {
             "Sheens",
             "Tom Cruise",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "C. Thomas Howell",
+            "Diane Lane",
+            "Emilio Estevez",
+            "Matt Dillon",
+            "Melanie Griffith",
+            "Nicolas Cage",
+            "Patrick Swayze",
+            "Ralph Macchio",
+            "Rob Lowe",
+            "Sofia Coppola",
+            "Tom Cruise",
+            "Tom Waits"
         ]
     },
     "Monty Python's The Meaning of Life (1983)": {

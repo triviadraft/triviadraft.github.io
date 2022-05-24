@@ -2884,6 +2884,7 @@ var actorMap = {
     },
     "C. Thomas Howell": {
         "movies": [
+            "The Outsiders (1983)",
             "The Amazing Spider-Man (2012)"
         ]
     },
@@ -5188,6 +5189,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Outsiders (1983)",
             "Chaplin (1992)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
@@ -6076,6 +6078,7 @@ var actorMap = {
     },
     "Emilio Estevez": {
         "movies": [
+            "The Outsiders (1983)",
             "The Breakfast Club (1985)"
         ]
     },
@@ -14242,6 +14245,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Outsiders (1983)",
             "Crash (2005)"
         ]
     },
@@ -14522,6 +14526,9 @@ var actorMap = {
                 "movie": "Working Girl",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "The Outsiders (1983)"
         ]
     },
     "Melanie Lynskey": {
@@ -15894,6 +15901,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Outsiders (1983)",
             "Ghost Rider (2007)",
             "G-Force (2009)",
             "Kick-Ass (2010)",
@@ -16434,6 +16442,11 @@ var actorMap = {
             "Green Room (2016)",
             "Logan (2017)",
             "The Kid Who Would Be King (2019)"
+        ]
+    },
+    "Patrick Swayze": {
+        "movies": [
+            "The Outsiders (1983)"
         ]
     },
     "Patrick Warburton": {
@@ -17285,6 +17298,11 @@ var actorMap = {
             "Dolittle (2020)"
         ]
     },
+    "Ralph Macchio": {
+        "movies": [
+            "The Outsiders (1983)"
+        ]
+    },
     "Rami Malek": {
         "leadNoms": [
             {
@@ -17834,6 +17852,7 @@ var actorMap = {
     },
     "Rob Lowe": {
         "movies": [
+            "The Outsiders (1983)",
             "About Last Night (1986)",
             "View from the Top (2003)"
         ]
@@ -19502,6 +19521,7 @@ var actorMap = {
     },
     "Sofia Coppola": {
         "movies": [
+            "The Outsiders (1983)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
@@ -20612,6 +20632,7 @@ var actorMap = {
         "movies": [
             "Endless Love (1981)",
             "Taps (1981)",
+            "The Outsiders (1983)",
             "Interview with the Vampire (1994)",
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",
@@ -20773,6 +20794,7 @@ var actorMap = {
     },
     "Tom Waits": {
         "movies": [
+            "The Outsiders (1983)",
             "Mystery Men (1999)"
         ]
     },
