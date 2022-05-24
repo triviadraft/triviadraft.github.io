@@ -8610,6 +8610,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Losin' It (1983)",
             "Watchmen (2009)",
             "Dark Shadows (2012)",
             "RoboCop (2014)"
@@ -10291,7 +10292,8 @@ var actorMap = {
     },
     "Joe Spinell": {
         "movies": [
-            "Rocky (1976)"
+            "Rocky (1976)",
+            "Losin' It (1983)"
         ]
     },
     "Joe Taslim": {
@@ -17785,6 +17787,11 @@ var actorMap = {
             "Ghostbusters II (1989)"
         ]
     },
+    "Rick Rossovich": {
+        "movies": [
+            "Losin' It (1983)"
+        ]
+    },
     "Ricki Lake": {
         "movies": [
             "Hairspray (2007)"
@@ -19274,6 +19281,11 @@ var actorMap = {
             "Annie Hall (1977)"
         ]
     },
+    "Shelley Long": {
+        "movies": [
+            "Losin' It (1983)"
+        ]
+    },
     "Sherri Shepherd": {
         "movies": [
             "Think Like a Man (2012)"
@@ -20633,6 +20645,7 @@ var actorMap = {
             "Endless Love (1981)",
             "Taps (1981)",
             "The Outsiders (1983)",
+            "Losin' It (1983)",
             "Interview with the Vampire (1994)",
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",

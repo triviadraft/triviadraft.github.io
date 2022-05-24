@@ -19840,6 +19840,13 @@ var movieMap = {
         "categories": [
             "1980s",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Jackie Earle Haley",
+            "Joe Spinell",
+            "Rick Rossovich",
+            "Shelley Long",
+            "Tom Cruise"
         ]
     },
     "Flashdance (1983)": {
