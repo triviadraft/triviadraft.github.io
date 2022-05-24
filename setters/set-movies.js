@@ -7278,6 +7278,16 @@ var movieMap = {
             "Dramas",
             "Paul Newman & Robert Redford",
             "Sports"
+        ],
+        "cast": [
+            "George C. Scott",
+            "Jackie Gleason",
+            "Jake LaMotta",
+            "Michael Constantine",
+            "Murray Hamilton",
+            "Paul Newman",
+            "Piper Laurie",
+            "Vincent Gardenia"
         ]
     },
     "Breakfast at Tiffany's (1961)": {
@@ -24164,6 +24174,11 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Scotts",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Tom Cruise",
+            "Mia Sara",
+            "Tim Curry"
         ]
     },
     "Blue City (1986)": {
@@ -24248,6 +24263,19 @@ var movieMap = {
             "Meg Ryan",
             "Scotts",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Anthony Edwards",
+            "James Tolkan",
+            "John Stockwell",
+            "Kelly McGillis",
+            "Meg Ryan",
+            "Michael Ironside",
+            "Rick Rossovich",
+            "Tim Robbins",
+            "Tom Cruise",
+            "Tom Skerritt",
+            "Val Kilmer"
         ]
     },
     "Cobra (1986)": {
@@ -25097,6 +25125,14 @@ var movieMap = {
             "Paul Newman & Robert Redford",
             "Sports",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Paul Newman",
+            "Tom Cruise",
+            "Mary Elizabeth Mastrantonio",
+            "Forest Whitaker",
+            "John Turturro",
+            "Bill Cobbs"
         ]
     },
     "Soul Man (1986)": {
@@ -27948,6 +27984,13 @@ var movieMap = {
         "categories": [
             "1980s",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Tom Cruise",
+            "Bryan Brown",
+            "Elisabeth Shue",
+            "Gina Gershon",
+            "Laurence Luckinbill"
         ]
     },
     "The Blob (1988)": {
@@ -28686,6 +28729,14 @@ var movieMap = {
             "1980s",
             "Dramas",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Barry Levinson",
+            "Beth Grant",
+            "Bonnie Hunt",
+            "Dustin Hoffman",
+            "Tom Cruise",
+            "Valeria Golino"
         ]
     },
     "Beaches (1988)": {
@@ -30544,6 +30595,22 @@ var movieMap = {
         "categories": [
             "1980s",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Abbie Hoffman",
+            "Bob Gunton",
+            "David Herman",
+            "Frank Whaley",
+            "John C. McGinley",
+            "Kyra Sedgwick",
+            "Lili Taylor",
+            "Michael Wincott",
+            "Reg E. Cathey",
+            "Stephen Baldwin",
+            "Tom Berenger",
+            "Tom Cruise",
+            "Tom Sizemore",
+            "Willem Dafoe"
         ]
     },
     "Always (1989)": {
@@ -32934,6 +33001,7 @@ var movieMap = {
             "Kevin Costner",
             "Mary Elizabeth Mastrantonio",
             "Mike McShane",
+            "Michael Wincott",
             "Morgan Freeman",
             "Sean Connery"
         ]

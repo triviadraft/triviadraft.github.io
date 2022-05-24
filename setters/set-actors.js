@@ -26,6 +26,11 @@ var actorMap = {
             "RoboCop (2014)"
         ]
     },
+    "Abbie Hoffman": {
+        "movies": [
+            "Born on the Fourth of July (1989)"
+        ]
+    },
     "Abby Elliott": {
         "movies": [
             "No Strings Attached (2011)",
@@ -1293,7 +1298,8 @@ var actorMap = {
     },
     "Anthony Edwards": {
         "movies": [
-            "Zodiac (2007)"
+            "Zodiac (2007)",
+            "Top Gun (1986)"
         ]
     },
     "Anthony Hopkins": {
@@ -1668,6 +1674,11 @@ var actorMap = {
             "Eternals (2021)"
         ]
     },
+    "Barry Levinson": {
+        "movies": [
+            "Rain Man (1988)"
+        ]
+    },
     "Barry Pepper": {
         "movies": [
             "Saving Private Ryan (1998)"
@@ -1910,6 +1921,11 @@ var actorMap = {
             "Transformers (2007)"
         ]
     },
+    "Beth Grant": {
+        "movies": [
+            "Rain Man (1988)"
+        ]
+    },
     "Bette Davis": {
         "leadNoms": [
             {
@@ -2003,7 +2019,8 @@ var actorMap = {
         "movies": [
             "Ghosts of Mississippi (1996)",
             "I Still Know What You Did Last Summer (1998)",
-            "Enough (2002)"
+            "Enough (2002)",
+            "The Color of Money (1986)"
         ]
     },
     "Bill Duke": {
@@ -2220,7 +2237,8 @@ var actorMap = {
     },
     "Bob Gunton": {
         "movies": [
-            "Ghostbusters: Afterlife (2021)"
+            "Ghostbusters: Afterlife (2021)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Bob Hope": {
@@ -2291,7 +2309,8 @@ var actorMap = {
         "movies": [
             "Jumanji (1995)",
             "A Bug's Life (1998)",
-            "Zootopia (2016)"
+            "Zootopia (2016)",
+            "Rain Man (1988)"
         ]
     },
     "Bonnie Wright": {
@@ -2760,6 +2779,11 @@ var actorMap = {
             "Split (2017)",
             "Glass (2019)",
             "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
+    "Bryan Brown": {
+        "movies": [
+            "Cocktail (1988)"
         ]
     },
     "Bryan Cranston": {
@@ -4725,6 +4749,11 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
+    "David Herman": {
+        "movies": [
+            "Born on the Fourth of July (1989)"
+        ]
+    },
     "David Hyde Pierce": {
         "movies": [
             "A Bug's Life (1998)",
@@ -5542,7 +5571,8 @@ var actorMap = {
             "The Tale of Despereaux (2008)",
             "Kung Fu Panda 2 (2011)",
             "Chef (2014)",
-            "Kung Fu Panda 3 (2016)"
+            "Kung Fu Panda 3 (2016)",
+            "Rain Man (1988)"
         ]
     },
     "Dwayne Johnson": {
@@ -5855,6 +5885,9 @@ var actorMap = {
                 "movie": "Leaving Las Vegas",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "Cocktail (1988)"
         ]
     },
     "Elise Neal": {
@@ -6623,7 +6656,8 @@ var actorMap = {
         ],
         "movies": [
             "Rogue One: A Star Wars Story (2016)",
-            "Black Panther (2018)"
+            "Black Panther (2018)",
+            "The Color of Money (1986)"
         ]
     },
     "Fra Fee": {
@@ -6773,6 +6807,11 @@ var actorMap = {
             "Transformers: Age of Extinction (2014)",
             "Transformers: The Last Knight (2017)",
             "The Grinch (2018)"
+        ]
+    },
+    "Frank Whaley": {
+        "movies": [
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Franka Potente": {
@@ -7127,7 +7166,8 @@ var actorMap = {
     },
     "George C. Scott": {
         "movies": [
-            "Taps (1981)"
+            "Taps (1981)",
+            "The Hustler (1961)"
         ]
     },
     "George Carlin": {
@@ -7261,6 +7301,11 @@ var actorMap = {
     "Gina Carano": {
         "movies": [
             "Deadpool (2016)"
+        ]
+    },
+    "Gina Gershon": {
+        "movies": [
+            "Cocktail (1988)"
         ]
     },
     "Ginnifer Goodwin": {
@@ -8619,6 +8664,11 @@ var actorMap = {
             "RoboCop (2014)"
         ]
     },
+    "Jackie Gleason": {
+        "movies": [
+            "The Hustler (1961)"
+        ]
+    },
     "Jackson A. Dunn": {
         "movies": [
             "Avengers: Endgame (2019)"
@@ -8715,6 +8765,11 @@ var actorMap = {
         "movies": [
             "No Strings Attached (2011)",
             "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
+    "Jake LaMotta": {
+        "movies": [
+            "The Hustler (1961)"
         ]
     },
     "Jake Lacy": {
@@ -8979,7 +9034,8 @@ var actorMap = {
     "James Tolkan": {
         "movies": [
             "Armed and Dangerous (1986)",
-            "Bone Tomahawk (2015)"
+            "Bone Tomahawk (2015)",
+            "Top Gun (1986)"
         ]
     },
     "James Vanderbilt": {
@@ -10359,7 +10415,8 @@ var actorMap = {
     },
     "John C. McGinley": {
         "movies": [
-            "Set It Off (1996)"
+            "Set It Off (1996)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "John C. Reilly": {
@@ -10646,6 +10703,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "John Stockwell": {
+        "movies": [
+            "Top Gun (1986)"
+        ]
+    },
     "John Travolta": {
         "leadNoms": [
             {
@@ -10669,7 +10731,8 @@ var actorMap = {
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
             "Transformers: Dark of the Moon (2011)",
-            "Transformers: The Last Knight (2017)"
+            "Transformers: The Last Knight (2017)",
+            "The Color of Money (1986)"
         ]
     },
     "John Vernon": {
@@ -11954,7 +12017,8 @@ var actorMap = {
     },
     "Kelly McGillis": {
         "movies": [
-            "North (1994)"
+            "North (1994)",
+            "Top Gun (1986)"
         ]
     },
     "Kelly Preston": {
@@ -12461,7 +12525,8 @@ var actorMap = {
     },
     "Kyra Sedgwick": {
         "movies": [
-            "Kill Your Darlings (2013)"
+            "Kill Your Darlings (2013)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "L. Scott Caldwell": {
@@ -12696,7 +12761,8 @@ var actorMap = {
     },
     "Laurence Luckinbill": {
         "movies": [
-            "Star Trek V: The Final Frontier (1989)"
+            "Star Trek V: The Final Frontier (1989)",
+            "Cocktail (1988)"
         ]
     },
     "Laurie Faso": {
@@ -13018,6 +13084,11 @@ var actorMap = {
         "movies": [
             "Teen Titans Go! To the Movies (2018)",
             "Long Shot (2019)"
+        ]
+    },
+    "Lili Taylor": {
+        "movies": [
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Lilla Crawford": {
@@ -14147,7 +14218,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Robin Hood: Prince of Thieves (1991)"
+            "Robin Hood: Prince of Thieves (1991)",
+            "The Color of Money (1986)"
         ]
     },
     "Mary Elizabeth Winstead": {
@@ -14481,7 +14553,8 @@ var actorMap = {
     "Meg Ryan": {
         "movies": [
             "Armed and Dangerous (1986)",
-            "Kate & Leopold (2001)"
+            "Kate & Leopold (2001)",
+            "Top Gun (1986)"
         ]
     },
     "Megan Charpentier": {
@@ -14761,7 +14834,8 @@ var actorMap = {
     },
     "Mia Sara": {
         "movies": [
-            "Timecop (1994)"
+            "Timecop (1994)",
+            "Legend (1986)"
         ]
     },
     "Mia Wasikowska": {
@@ -14879,6 +14953,11 @@ var actorMap = {
             "Green Lantern (2011)"
         ]
     },
+    "Michael Constantine": {
+        "movies": [
+            "The Hustler (1961)"
+        ]
+    },
     "Michael Cudlitz": {
         "movies": [
             "Surrogates (2009)"
@@ -14989,7 +15068,8 @@ var actorMap = {
     },
     "Michael Ironside": {
         "movies": [
-            "Heavy Metal 2000 (2000)"
+            "Heavy Metal 2000 (2000)",
+            "Top Gun (1986)"
         ]
     },
     "Michael J. Fox": {
@@ -15159,7 +15239,9 @@ var actorMap = {
     },
     "Michael Wincott": {
         "movies": [
-            "The Crow (1994)"
+            "Robin Hood: Prince of Thieves (1991)",
+            "The Crow (1994)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Michael Winslow": {
@@ -15571,6 +15653,11 @@ var actorMap = {
     "Muggsy Bogues": {
         "movies": [
             "Space Jam (1996)"
+        ]
+    },
+    "Murray Hamilton": {
+        "movies": [
+            "The Hustler (1961)"
         ]
     },
     "Muse Watson": {
@@ -16594,7 +16681,9 @@ var actorMap = {
         ],
         "movies": [
             "Message in a Bottle (1999)",
-            "Road to Perdition (2002)"
+            "Road to Perdition (2002)",
+            "The Hustler (1961)",
+            "The Color of Money (1986)"
         ]
     },
     "Paul Raci": {
@@ -17100,7 +17189,8 @@ var actorMap = {
     },
     "Piper Laurie": {
         "movies": [
-            "Carrie (1976)"
+            "Carrie (1976)",
+            "The Hustler (1961)"
         ]
     },
     "Piper Perabo": {
@@ -17485,7 +17575,8 @@ var actorMap = {
     "Reg E. Cathey": {
         "movies": [
             "The Mask (1994)",
-            "Fantastic Four (2015)"
+            "Fantastic Four (2015)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Regina Hall": {
@@ -17804,7 +17895,8 @@ var actorMap = {
     },
     "Rick Rossovich": {
         "movies": [
-            "Losin' It (1983)"
+            "Losin' It (1983)",
+            "Top Gun (1986)"
         ]
     },
     "Ricki Lake": {
@@ -19754,6 +19846,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
+    "Stephen Baldwin": {
+        "movies": [
+            "Born on the Fourth of July (1989)"
+        ]
+    },
     "Stephen Colbert": {
         "movies": [
             "Monsters vs. Aliens (2009)",
@@ -20465,6 +20562,11 @@ var actorMap = {
             "Men in Black: International (2019)"
         ]
     },
+    "Tim Curry": {
+        "movies": [
+            "Legend (1986)"
+        ]
+    },
     "Tim Heidecker": {
         "movies": [
             "Bridesmaids (2011)",
@@ -20498,7 +20600,8 @@ var actorMap = {
         "movies": [
             "Howard the Duck (1986)",
             "Jungle Fever (1991)",
-            "Green Lantern (2011)"
+            "Green Lantern (2011)",
+            "Top Gun (1986)"
         ]
     },
     "Tim Roth": {
@@ -20640,6 +20743,11 @@ var actorMap = {
             "Murder on the Orient Express (2017)"
         ]
     },
+    "Tom Berenger": {
+        "movies": [
+            "Born on the Fourth of July (1989)"
+        ]
+    },
     "Tom Cruise": {
         "leadNoms": [
             {
@@ -20668,7 +20776,13 @@ var actorMap = {
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",
             "Knight and Day (2010)",
-            "Oblivion (2013)"
+            "Oblivion (2013)",
+            "Legend (1986)",
+            "Top Gun (1986)",
+            "The Color of Money (1986)",
+            "Cocktail (1988)",
+            "Rain Man (1988)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Tom Everett Scott": {
@@ -20814,13 +20928,15 @@ var actorMap = {
         "movies": [
             "True Romance (1993)",
             "Saving Private Ryan (1998)",
-            "Black Hawk Down (2001)"
+            "Black Hawk Down (2001)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "Tom Skerritt": {
         "movies": [
             "Alien (1979)",
-            "Ted (2012)"
+            "Ted (2012)",
+            "Top Gun (1986)"
         ]
     },
     "Tom Waits": {
@@ -21176,7 +21292,13 @@ var actorMap = {
             "True Romance (1993)",
             "Batman Forever (1995)",
             "The Prince of Egypt (1998)",
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "Top Gun (1986)"
+        ]
+    },
+    "Valeria Golino": {
+        "movies": [
+            "Rain Man (1988)"
         ]
     },
     "Valerie Perrine": {
@@ -21368,7 +21490,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Little Shop of Horrors (1986)"
+            "Little Shop of Horrors (1986)",
+            "The Hustler (1961)"
         ]
     },
     "Vincent Pastore": {
@@ -21740,7 +21863,8 @@ var actorMap = {
             "The Lighthouse (2019)",
             "Zack Snyder's Justice League (2021)",
             "Nightmare Alley (2021)",
-            "Spider-Man: No Way Home (2021)"
+            "Spider-Man: No Way Home (2021)",
+            "Born on the Fourth of July (1989)"
         ]
     },
     "William Atherton": {
