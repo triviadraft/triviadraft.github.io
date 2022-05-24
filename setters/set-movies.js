@@ -20501,6 +20501,14 @@ var movieMap = {
             "1980s",
             "Dramas",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Chris Penn",
+            "Craig T. Nelson",
+            "Lea Thompson",
+            "Leon Robinson",
+            "Terry O'Quinn",
+            "Tom Cruise"
         ]
     },
     "The Dead Zone (1983)": {

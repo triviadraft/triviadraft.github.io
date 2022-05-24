@@ -3580,6 +3580,7 @@ var actorMap = {
     },
     "Chris Penn": {
         "movies": [
+            "All the Right Moves (1983)",
             "True Romance (1993)"
         ]
     },
@@ -4191,6 +4192,7 @@ var actorMap = {
     },
     "Craig T. Nelson": {
         "movies": [
+            "All the Right Moves (1983)",
             "Ghosts of Mississippi (1996)",
             "The Incredibles (2004)",
             "Book Club (2018)",
@@ -12743,6 +12745,7 @@ var actorMap = {
     },
     "Lea Thompson": {
         "movies": [
+            "All the Right Moves (1983)",
             "Howard the Duck (1986)"
         ]
     },
@@ -12808,6 +12811,11 @@ var actorMap = {
     "Leo Howard": {
         "movies": [
             "Conan the Barbarian (2011)"
+        ]
+    },
+    "Leon Robinson": {
+        "movies": [
+            "All the Right Moves (1983)"
         ]
     },
     "Leonard Nimoy": {
@@ -20298,6 +20306,7 @@ var actorMap = {
     },
     "Terry O'Quinn": {
         "movies": [
+            "All the Right Moves (1983)",
             "Places in the Heart (1984)",
             "Primal Fear (1996)",
             "Ghosts of Mississippi (1996)"
@@ -20654,6 +20663,7 @@ var actorMap = {
             "The Outsiders (1983)",
             "Losin' It (1983)",
             "Risky Business (1983)",
+            "All the Right Moves (1983)",
             "Interview with the Vampire (1994)",
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",
