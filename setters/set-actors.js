@@ -197,7 +197,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "King Kong (2005)"
+            "King Kong (2005)",
+            "The Brothers Bloom (2009)"
         ]
     },
     "Adrienne Barbeau": {
@@ -460,6 +461,7 @@ var actorMap = {
             "Ghosts of Mississippi (1996)",
             "The Aviator (2004)",
             "Elizabethtown (2005)",
+            "Rise of the Guardians (2012)",
             "Blue Jasmine (2013)"
         ]
     },
@@ -600,6 +602,7 @@ var actorMap = {
     },
     "Alicia Keys": {
         "movies": [
+            "Smokin' Aces (2007)",
             "The Secret Life of Bees (2008)"
         ]
     },
@@ -922,6 +925,7 @@ var actorMap = {
         "movies": [
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
+            "Smokin' Aces (2007)",
             "Ocean's Thirteen (2007)",
             "Ghostbusters (2016)",
             "Book Club (2018)"
@@ -1697,6 +1701,7 @@ var actorMap = {
             "Dogma (1999)",
             "Daredevil (2003)",
             "Gigli (2003)",
+            "Smokin' Aces (2007)",
             "He's Just Not That into You (2009)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Suicide Squad (2016)",
@@ -3555,8 +3560,10 @@ var actorMap = {
     },
     "Chris Pine": {
         "movies": [
+            "Smokin' Aces (2007)",
             "Star Trek (2009)",
             "This Means War (2012)",
+            "Rise of the Guardians (2012)",
             "Star Trek Into Darkness (2013)",
             "Into the Woods (2014)",
             "Star Trek Beyond (2016)",
@@ -4060,6 +4067,7 @@ var actorMap = {
     },
     "Common": {
         "movies": [
+            "Smokin' Aces (2007)",
             "Wanted (2008)",
             "New Year's Eve (2011)",
             "Movie 43 (2013)",
@@ -4191,7 +4199,8 @@ var actorMap = {
     },
     "Curtis Armstrong": {
         "movies": [
-            "Ray (2004)"
+            "Ray (2004)",
+            "Smokin' Aces (2007)"
         ]
     },
     "Cynthia Erivo": {
@@ -4255,6 +4264,7 @@ var actorMap = {
     "Dakota Goyo": {
         "movies": [
             "Thor (2011)",
+            "Rise of the Guardians (2012)",
             "Noah (2014)"
         ]
     },
@@ -4816,6 +4826,7 @@ var actorMap = {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "Van Helsing (2004)",
             "300 (2007)",
             "300: Rise of an Empire (2014)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -5756,6 +5767,7 @@ var actorMap = {
     },
     "Elena Anaya": {
         "movies": [
+            "Van Helsing (2004)",
             "Wonder Woman (2017)"
         ]
     },
@@ -7936,11 +7948,13 @@ var actorMap = {
             "X-Men (2000)",
             "Kate & Leopold (2001)",
             "X2 (2003)",
+            "Van Helsing (2004)",
             "X-Men: The Last Stand (2006)",
             "The Prestige (2006)",
             "Flushed Away (2006)",
             "X-Men Origins: Wolverine (2009)",
             "X-Men: First Class (2011)",
+            "Rise of the Guardians (2012)",
             "Les Mis\u00e9rables (2012)",
             "Movie 43 (2013)",
             "Prisoners (2013)",
@@ -8258,6 +8272,7 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)",
+            "Rise of the Guardians (2012)",
             "Now You See Me (2013)",
             "The Brothers Grimsby (2016)"
         ]
@@ -9144,6 +9159,7 @@ var actorMap = {
     },
     "Jason Bateman": {
         "movies": [
+            "Smokin' Aces (2007)",
             "Juno (2007)",
             "Tropic Thunder (2008)",
             "Couples Retreat (2009)",
@@ -9656,6 +9672,7 @@ var actorMap = {
     "Jeremy Piven": {
         "movies": [
             "Black Hawk Down (2001)",
+            "Smokin' Aces (2007)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -10161,6 +10178,11 @@ var actorMap = {
             "Horns (2014)"
         ]
     },
+    "Joe Carnahan": {
+        "movies": [
+            "Smokin' Aces (2007)"
+        ]
+    },
     "Joe Cornish": {
         "movies": [
             "Star Wars: The Last Jedi (2017)"
@@ -10229,6 +10251,7 @@ var actorMap = {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Smokin' Aces (2007)",
             "Zero Dark Thirty (2012)",
             "Midnight Special (2016)"
         ]
@@ -10881,6 +10904,7 @@ var actorMap = {
     },
     "Joseph Gordon-Levitt": {
         "movies": [
+            "The Brothers Bloom (2009)",
             "The Dark Knight Rises (2012)",
             "Sin City: A Dame to Kill For (2014)",
             "Star Wars: The Last Jedi (2017)",
@@ -11019,6 +11043,7 @@ var actorMap = {
             "Road to Perdition (2002)",
             "The Aviator (2004)",
             "The Holiday (2006)",
+            "Rise of the Guardians (2012)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)",
             "Captain Marvel (2019)"
         ]
@@ -11485,6 +11510,7 @@ var actorMap = {
     },
     "Kate Beckinsale": {
         "movies": [
+            "Van Helsing (2004)",
             "The Aviator (2004)"
         ]
     },
@@ -12032,6 +12058,7 @@ var actorMap = {
     },
     "Kevin Durand": {
         "movies": [
+            "Smokin' Aces (2007)",
             "X-Men Origins: Wolverine (2009)",
             "Noah (2014)"
         ]
@@ -13191,6 +13218,7 @@ var actorMap = {
     },
     "Lukas Haas": {
         "movies": [
+            "The Brothers Bloom (2009)",
             "Widows (2018)"
         ]
     },
@@ -13778,6 +13806,7 @@ var actorMap = {
             "Just like Heaven (2005)",
             "Rumor Has It (2005)",
             "Zodiac (2007)",
+            "The Brothers Bloom (2009)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
             "Now You See Me (2013)",
@@ -13941,6 +13970,11 @@ var actorMap = {
             "The Hobbit: The Battle of the Five Armies (2014)",
             "Captain America: Civil War (2016)",
             "Black Panther (2018)"
+        ]
+    },
+    "Martin Henderson": {
+        "movies": [
+            "Smokin' Aces (2007)"
         ]
     },
     "Martin Landau": {
@@ -14187,6 +14221,7 @@ var actorMap = {
     },
     "Matthew Fox": {
         "movies": [
+            "Smokin' Aces (2007)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -14286,6 +14321,11 @@ var actorMap = {
             "Horns (2014)"
         ]
     },
+    "Max Records": {
+        "movies": [
+            "The Brothers Bloom (2009)"
+        ]
+    },
     "Max von Sydow": {
         "leadNoms": [
             {
@@ -14302,6 +14342,11 @@ var actorMap = {
         "movies": [
             "Ghostbusters II (1989)",
             "Star Wars: The Force Awakens (2015)"
+        ]
+    },
+    "Maximilian Schell": {
+        "movies": [
+            "The Brothers Bloom (2009)"
         ]
     },
     "Maximiliano Hern\u00e1ndez": {
@@ -15646,12 +15691,6 @@ var actorMap = {
             "Batman v Superman: Dawn of Justice (2016)"
         ]
     },
-    "Nestor Carbonell": {
-        "movies": [
-            "The Dark Knight (2008)",
-            "The Dark Knight Rises (2012)"
-        ]
-    },
     "Nia Long": {
         "movies": [
             "Boyz n the Hood (1991)",
@@ -15927,6 +15966,13 @@ var actorMap = {
     "Numan Acar": {
         "movies": [
             "Spider-Man: Far From Home (2019)"
+        ]
+    },
+    "N\u00e9stor Carbonell": {
+        "movies": [
+            "Smokin' Aces (2007)",
+            "The Dark Knight (2008)",
+            "The Dark Knight Rises (2012)"
         ]
     },
     "O'Shea Jackson Jr.": {
@@ -16645,6 +16691,11 @@ var actorMap = {
             "Amistad (1997)"
         ]
     },
+    "Peter Berg": {
+        "movies": [
+            "Smokin' Aces (2007)"
+        ]
+    },
     "Peter Billingsley": {
         "movies": [
             "Iron Man (2008)",
@@ -17063,6 +17114,7 @@ var actorMap = {
         ],
         "movies": [
             "Constantine (2005)",
+            "The Brothers Bloom (2009)",
             "Black Widow (2021)"
         ]
     },
@@ -17191,6 +17243,7 @@ var actorMap = {
     "Ray Liotta": {
         "movies": [
             "Blow (2001)",
+            "Smokin' Aces (2007)",
             "Sin City: A Dame to Kill For (2014)",
             "Marriage Story (2019)"
         ]
@@ -17583,7 +17636,8 @@ var actorMap = {
     },
     "Richard Roxburgh": {
         "movies": [
-            "The League of Extraordinary Gentlemen (2003)"
+            "The League of Extraordinary Gentlemen (2003)",
+            "Van Helsing (2004)"
         ]
     },
     "Richard Schiff": {
@@ -17624,6 +17678,9 @@ var actorMap = {
                 "movie": "Babel",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "The Brothers Bloom (2009)"
         ]
     },
     "Rip Torn": {
@@ -17691,11 +17748,13 @@ var actorMap = {
             "From Hell (2001)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
+            "Van Helsing (2004)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Ocean's Twelve (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "The Tale of Despereaux (2008)",
+            "The Brothers Bloom (2009)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
@@ -18324,6 +18383,7 @@ var actorMap = {
     "Ryan Reynolds": {
         "movies": [
             "Blade: Trinity (2004)",
+            "Smokin' Aces (2007)",
             "X-Men Origins: Wolverine (2009)",
             "Green Lantern (2011)",
             "Ted (2012)",
@@ -19472,6 +19532,13 @@ var actorMap = {
             "The King's Man (2021)"
         ]
     },
+    "Stefan Kapi\u010di\u0107": {
+        "movies": [
+            "The Brothers Bloom (2009)",
+            "Deadpool (2016)",
+            "Deadpool 2 (2018)"
+        ]
+    },
     "Stefanie Scott": {
         "movies": [
             "No Strings Attached (2011)",
@@ -19908,6 +19975,7 @@ var actorMap = {
         ],
         "movies": [
             "Hustle & Flow (2005)",
+            "Smokin' Aces (2007)",
             "Talk to Me (2007)",
             "The Curious Case of Benjamin Button (2008)",
             "The Karate Kid (2010)",
@@ -20597,6 +20665,13 @@ var actorMap = {
             "Zootopia (2016)"
         ]
     },
+    "Tommy Flanagan": {
+        "movies": [
+            "Sin City (2005)",
+            "Smokin' Aces (2007)",
+            "Guardians of the Galaxy Vol. 2 (2017)"
+        ]
+    },
     "Tommy Lee": {
         "movies": [
             "Vanilla Sky (2001)"
@@ -21202,6 +21277,11 @@ var actorMap = {
             }
         ]
     },
+    "Vladimir Kulich": {
+        "movies": [
+            "Smokin' Aces (2007)"
+        ]
+    },
     "Vondie Curtis Hall": {
         "movies": [
             "Talk to Me (2007)"
@@ -21291,7 +21371,8 @@ var actorMap = {
     },
     "Wayne Newton": {
         "movies": [
-            "Ocean's Eleven (2001)"
+            "Ocean's Eleven (2001)",
+            "Smokin' Aces (2007)"
         ]
     },
     "Wendi McLendon-Covey": {
@@ -21751,6 +21832,11 @@ var actorMap = {
     "Zach Woods": {
         "movies": [
             "Ghostbusters (2016)"
+        ]
+    },
+    "Zachary Gordon": {
+        "movies": [
+            "The Brothers Bloom (2009)"
         ]
     },
     "Zachary Levi": {

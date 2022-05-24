@@ -65615,6 +65615,14 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "David Wenham",
+            "Elena Anaya",
+            "Hugh Jackman",
+            "Kate Beckinsale",
+            "Richard Roxburgh",
+            "Robbie Coltrane"
         ]
     },
     "Breakin' All the Rules (2004)": {
@@ -68377,7 +68385,8 @@ var movieMap = {
             "Powers Boothe",
             "Robert Rodriguez",
             "Rosario Dawson",
-            "Rutger Hauer"
+            "Rutger Hauer",
+            "Tommy Flanagan"
         ]
     },
     "Fever Pitch (2005)": {
@@ -74379,6 +74388,29 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Matt & Ben"
+        ],
+        "cast": [
+            "Alicia Keys",
+            "Andy Garc\u00eda",
+            "Ben Affleck",
+            "Chris Pine",
+            "Common",
+            "Curtis Armstrong",
+            "Jason Bateman",
+            "Jeremy Piven",
+            "Joe Carnahan",
+            "Joel Edgerton",
+            "Kevin Durand",
+            "Martin Henderson",
+            "Matthew Fox",
+            "N\u00e9stor Carbonell",
+            "Peter Berg",
+            "Ray Liotta",
+            "Ryan Reynolds",
+            "Taraji P. Henson",
+            "Tommy Flanagan",
+            "Vladimir Kulich",
+            "Wayne Newton"
         ]
     },
     "The Messengers (2007)": {
@@ -79094,7 +79126,7 @@ var movieMap = {
             "Michael Caine",
             "Michael Jai White",
             "Morgan Freeman",
-            "Nestor Carbonell",
+            "N\u00e9stor Carbonell",
             "Tommy Lister Jr.",
             "William Fichtner"
         ]
@@ -81775,6 +81807,19 @@ var movieMap = {
         "categories": [
             "2000s",
             "Crime"
+        ],
+        "cast": [
+            "Adrien Brody",
+            "Joseph Gordon-Levitt",
+            "Lukas Haas",
+            "Mark Ruffalo",
+            "Max Records",
+            "Maximilian Schell",
+            "Rachel Weisz",
+            "Rinko Kikuchi",
+            "Robbie Coltrane",
+            "Stefan Kapi\u010di\u0107",
+            "Zachary Gordon"
         ]
     },
     "Terminator Salvation (2009)": {
@@ -91782,7 +91827,7 @@ var movieMap = {
             "Matthew Modine",
             "Michael Caine",
             "Morgan Freeman",
-            "Nestor Carbonell",
+            "N\u00e9stor Carbonell",
             "Tom Hardy"
         ]
     },
@@ -92921,6 +92966,14 @@ var movieMap = {
             "Animated",
             "DreamWorks Animation",
             "Holiday"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Chris Pine",
+            "Dakota Goyo",
+            "Hugh Jackman",
+            "Isla Fisher",
+            "Jude Law"
         ]
     },
     "Hitchcock (2012)": {
@@ -103676,6 +103729,7 @@ var movieMap = {
             "Leslie Uggams",
             "Morena Baccarin",
             "Ryan Reynolds",
+            "Stefan Kapi\u010di\u0107",
             "T.J. Miller"
         ]
     },
@@ -108418,6 +108472,7 @@ var movieMap = {
             "Seth Green",
             "Steve Agee",
             "Sylvester Stallone",
+            "Tommy Flanagan",
             "Vin Diesel",
             "Ving Rhames",
             "Wyatt Oleff",
@@ -112684,6 +112739,7 @@ var movieMap = {
             "Rhett Reese",
             "Rob Delaney",
             "Ryan Reynolds",
+            "Stefan Kapi\u010di\u0107",
             "T.J. Miller",
             "Terry Crews",
             "Tye Sheridan",
