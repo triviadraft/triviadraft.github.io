@@ -91286,6 +91286,21 @@ var movieMap = {
             "Charlize Theron",
             "Cornetto Trio",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Bob Hoskins",
+            "Brian Gleeson",
+            "Charlize Theron",
+            "Chris Hemsworth",
+            "Eddie Marsan",
+            "Ian McShane",
+            "Kristen Stewart",
+            "Lily Cole",
+            "Nick Frost",
+            "Raffey Cassidy",
+            "Ray Winstone",
+            "Sam Claflin",
+            "Toby Jones"
         ]
     },
     "Madagascar 3: Europe's Most Wanted (2012)": {
@@ -100375,6 +100390,7 @@ var movieMap = {
             "Ralph Ineson",
             "Samuel L. Jackson",
             "Sofia Boutella",
+            "Sophie Cookson",
             "Taron Egerton"
         ]
     },
@@ -104368,6 +104384,17 @@ var movieMap = {
             "Cornetto Trio",
             "Emily Blunt",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "Chris Hemsworth",
+            "Colin Morgan",
+            "Emily Blunt",
+            "Jessica Chastain",
+            "Liam Neeson",
+            "Nick Frost",
+            "Sam Claflin",
+            "Sophie Cookson"
         ]
     },
     "Keanu (2016)": {
@@ -109700,6 +109727,7 @@ var movieMap = {
             "Mark Strong",
             "Michael Gambon",
             "Pedro Pascal",
+            "Sophie Cookson",
             "Taron Egerton"
         ]
     },
@@ -116557,6 +116585,7 @@ var movieMap = {
             "IG Fantasy/Sci-Fi"
         ],
         "cast": [
+            "Brian Gleeson",
             "Daniel Dae Kim",
             "David Harbour",
             "Ian McShane",
@@ -125878,6 +125907,14 @@ var movieMap = {
         ],
         "categories": [
             "2020s"
+        ],
+        "cast": [
+            "Caitr\u00edona Balfe",
+            "Ciar\u00e1n Hinds",
+            "Colin Morgan",
+            "Jamie Dornan",
+            "Jude Hill",
+            "Judi Dench"
         ]
     },
     "Home Sweet Home Alone (2021)": {

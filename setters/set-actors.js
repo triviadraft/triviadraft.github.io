@@ -2207,7 +2207,8 @@ var actorMap = {
     },
     "Bob Hoskins": {
         "movies": [
-            "Son of the Mask (2005)"
+            "Son of the Mask (2005)",
+            "Snow White and the Huntsman (2012)"
         ]
     },
     "Bob Odenkirk": {
@@ -2535,6 +2536,12 @@ var actorMap = {
             "Ghostbusters II (1989)"
         ]
     },
+    "Brian Gleeson": {
+        "movies": [
+            "Snow White and the Huntsman (2012)",
+            "Hellboy (2019)"
+        ]
+    },
     "Brian J. White": {
         "movies": [
             "Daddy's Little Girls (2007)",
@@ -2854,7 +2861,8 @@ var actorMap = {
     },
     "Caitr\u00edona Balfe": {
         "movies": [
-            "Now You See Me (2013)"
+            "Now You See Me (2013)",
+            "Belfast (2021)"
         ]
     },
     "Caleb Landry Jones": {
@@ -3285,6 +3293,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Snow White and the Huntsman (2012)",
+            "The Huntsman: Winter's War (2016)",
             "Atomic Blonde (2017)",
             "Long Shot (2019)",
             "The Old Guard (2020)"
@@ -3482,11 +3492,13 @@ var actorMap = {
             "Thor (2011)",
             "The Cabin in the Woods (2012)",
             "The Avengers (2012)",
+            "Snow White and the Huntsman (2012)",
             "Rush (2013)",
             "Thor: The Dark World (2013)",
             "Blackhat (2015)",
             "Avengers: Age of Ultron (2015)",
             "In the Heart of the Sea (2015)",
+            "The Huntsman: Winter's War (2016)",
             "Ghostbusters (2016)",
             "Doctor Strange (2016)",
             "Thor: Ragnarok (2017)",
@@ -3795,7 +3807,8 @@ var actorMap = {
             "Ghost Rider: Spirit of Vengeance (2012)",
             "John Carter (2012)",
             "Justice League (2017)",
-            "Zack Snyder's Justice League (2021)"
+            "Zack Snyder's Justice League (2021)",
+            "Belfast (2021)"
         ]
     },
     "Cicely Tyson": {
@@ -3992,6 +4005,12 @@ var actorMap = {
     "Colin Hanks": {
         "movies": [
             "King Kong (2005)"
+        ]
+    },
+    "Colin Morgan": {
+        "movies": [
+            "The Huntsman: Winter's War (2016)",
+            "Belfast (2021)"
         ]
     },
     "Colin Quinn": {
@@ -5584,6 +5603,7 @@ var actorMap = {
     "Eddie Marsan": {
         "movies": [
             "V for Vendetta (2006)",
+            "Snow White and the Huntsman (2012)",
             "Atomic Blonde (2017)",
             "Deadpool 2 (2018)",
             "Mowgli: Legend of the Jungle (2018)"
@@ -5990,6 +6010,7 @@ var actorMap = {
     "Emily Blunt": {
         "movies": [
             "Into the Woods (2014)",
+            "The Huntsman: Winter's War (2016)",
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
         ]
@@ -8006,6 +8027,7 @@ var actorMap = {
             "Hot Rod (2007)",
             "Kung Fu Panda (2008)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Snow White and the Huntsman (2012)",
             "Hercules (2014)",
             "John Wick (2014)",
             "The Brothers Grimsby (2016)",
@@ -8898,6 +8920,11 @@ var actorMap = {
             "Big Hero 6 (2014)"
         ]
     },
+    "Jamie Dornan": {
+        "movies": [
+            "Belfast (2021)"
+        ]
+    },
     "Jamie Foxx": {
         "leadNoms": [
             {
@@ -9724,6 +9751,7 @@ var actorMap = {
             "The Help (2011)",
             "Zero Dark Thirty (2012)",
             "Mama (2013)",
+            "The Huntsman: Winter's War (2016)",
             "Dark Phoenix (2019)",
             "It Chapter Two (2019)"
         ]
@@ -10922,6 +10950,11 @@ var actorMap = {
             "Steel (1997)"
         ]
     },
+    "Jude Hill": {
+        "movies": [
+            "Belfast (2021)"
+        ]
+    },
     "Jude Law": {
         "leadNoms": [
             {
@@ -10989,7 +11022,8 @@ var actorMap = {
             "Shakespeare in Love (1998)",
             "Nine (2009)",
             "My Week with Marilyn (2011)",
-            "Murder on the Orient Express (2017)"
+            "Murder on the Orient Express (2017)",
+            "Belfast (2021)"
         ]
     },
     "Judith Anderson": {
@@ -12198,6 +12232,9 @@ var actorMap = {
                 "movie": "Spencer",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Snow White and the Huntsman (2012)"
         ]
     },
     "Kristen Wiig": {
@@ -12795,6 +12832,7 @@ var actorMap = {
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Dark Knight Rises (2012)",
             "The Lego Movie (2014)",
+            "The Huntsman: Winter's War (2016)",
             "A Monster Calls (2016)",
             "Widows (2018)",
             "Men in Black: International (2019)",
@@ -12819,6 +12857,11 @@ var actorMap = {
     "Lilla Crawford": {
         "movies": [
             "Into the Woods (2014)"
+        ]
+    },
+    "Lily Cole": {
+        "movies": [
+            "Snow White and the Huntsman (2012)"
         ]
     },
     "Lily Collins": {
@@ -15579,7 +15622,9 @@ var actorMap = {
     },
     "Nick Frost": {
         "movies": [
-            "The Adventures of Tintin (2011)"
+            "The Adventures of Tintin (2011)",
+            "Snow White and the Huntsman (2012)",
+            "The Huntsman: Winter's War (2016)"
         ]
     },
     "Nick Kroll": {
@@ -16945,6 +16990,11 @@ var actorMap = {
             "Men in Black: International (2019)"
         ]
     },
+    "Raffey Cassidy": {
+        "movies": [
+            "Snow White and the Huntsman (2012)"
+        ]
+    },
     "Rafi Gavron": {
         "movies": [
             "Inkheart (2009)"
@@ -17078,6 +17128,7 @@ var actorMap = {
     "Ray Winstone": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Snow White and the Huntsman (2012)",
             "Noah (2014)",
             "Black Widow (2021)"
         ]
@@ -18294,7 +18345,9 @@ var actorMap = {
     },
     "Sam Claflin": {
         "movies": [
-            "Pirates of the Caribbean: On Stranger Tides (2011)"
+            "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Snow White and the Huntsman (2012)",
+            "The Huntsman: Winter's War (2016)"
         ]
     },
     "Sam Elliott": {
@@ -19205,6 +19258,13 @@ var actorMap = {
         "movies": [
             "From Hell (2001)",
             "Transformers: Age of Extinction (2014)"
+        ]
+    },
+    "Sophie Cookson": {
+        "movies": [
+            "Kingsman: The Secret Service (2015)",
+            "The Huntsman: Winter's War (2016)",
+            "Kingsman: The Golden Circle (2017)"
         ]
     },
     "Sophie McShera": {
@@ -20206,6 +20266,7 @@ var actorMap = {
             "Captain America: The First Avenger (2011)",
             "My Week with Marilyn (2011)",
             "The Adventures of Tintin (2011)",
+            "Snow White and the Huntsman (2012)",
             "Captain America: The Winter Soldier (2014)",
             "Atomic Blonde (2017)"
         ]
