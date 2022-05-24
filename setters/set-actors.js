@@ -1400,6 +1400,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Interview with the Vampire (1994)",
             "The Mask of Zorro (1998)",
             "The Legend of Zorro (2005)",
             "Dolittle (2020)",
@@ -1685,6 +1686,12 @@ var actorMap = {
     "Beah Richards": {
         "movies": [
             "Guess Who's Coming to Dinner (1967)"
+        ]
+    },
+    "Beatrice Straight": {
+        "movies": [
+            "Network (1976)",
+            "Endless Love (1981)"
         ]
     },
     "Bebe Neuwirth": {
@@ -2364,6 +2371,7 @@ var actorMap = {
         ],
         "movies": [
             "True Romance (1993)",
+            "Interview with the Vampire (1994)",
             "Seven Years in Tibet (1997)",
             "Ocean's Eleven (2001)",
             "Troy (2004)",
@@ -2668,6 +2676,11 @@ var actorMap = {
     "Brooke Adams": {
         "movies": [
             "Invasion of the Body Snatchers (1978)"
+        ]
+    },
+    "Brooke Shields": {
+        "movies": [
+            "Endless Love (1981)"
         ]
     },
     "Brooklynn Prince": {
@@ -3663,7 +3676,8 @@ var actorMap = {
     "Christian Slater": {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)",
-            "True Romance (1993)"
+            "True Romance (1993)",
+            "Interview with the Vampire (1994)"
         ]
     },
     "Christina Applegate": {
@@ -5368,6 +5382,11 @@ var actorMap = {
             "Eternals (2021)"
         ]
     },
+    "Don Murray": {
+        "movies": [
+            "Endless Love (1981)"
+        ]
+    },
     "Don Novello": {
         "movies": [
             "Atlantis: The Lost Empire (2001)"
@@ -6495,6 +6514,7 @@ var actorMap = {
     },
     "Faye Dunaway": {
         "movies": [
+            "Network (1976)",
             "Supergirl (1984)"
         ]
     },
@@ -7097,6 +7117,11 @@ var actorMap = {
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Green Lantern (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
+        ]
+    },
+    "George C. Scott": {
+        "movies": [
+            "Taps (1981)"
         ]
     },
     "George Carlin": {
@@ -8916,6 +8941,7 @@ var actorMap = {
     },
     "James Spader": {
         "movies": [
+            "Endless Love (1981)",
             "Avengers: Age of Ultron (2015)"
         ]
     },
@@ -8975,6 +9001,11 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "Ghosts of Mississippi (1996)"
+        ]
+    },
+    "Jami Gertz": {
+        "movies": [
+            "Endless Love (1981)"
         ]
     },
     "Jamie Bell": {
@@ -12267,6 +12298,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Interview with the Vampire (1994)",
             "Jumanji (1995)",
             "Drop Dead Gorgeous (1999)",
             "Spider-Man (2002)",
@@ -12486,6 +12518,11 @@ var actorMap = {
     "Lance Bass": {
         "movies": [
             "Tropic Thunder (2008)"
+        ]
+    },
+    "Lance Henriksen": {
+        "movies": [
+            "Network (1976)"
         ]
     },
     "Lance Reddick": {
@@ -14013,6 +14050,11 @@ var actorMap = {
     "Martin Henderson": {
         "movies": [
             "Smokin' Aces (2007)"
+        ]
+    },
+    "Martin Hewitt": {
+        "movies": [
+            "Endless Love (1981)"
         ]
     },
     "Martin Landau": {
@@ -15713,6 +15755,7 @@ var actorMap = {
     },
     "Ned Beatty": {
         "movies": [
+            "Network (1976)",
             "Superman (1978)",
             "Superman II (1981)"
         ]
@@ -16655,6 +16698,11 @@ var actorMap = {
             "Chaplin (1992)"
         ]
     },
+    "Penelope Milford": {
+        "movies": [
+            "Endless Love (1981)"
+        ]
+    },
     "Penn Jillette": {
         "movies": [
             "Toy Story (1995)"
@@ -16790,6 +16838,11 @@ var actorMap = {
     "Peter Falk": {
         "movies": [
             "Made (2001)"
+        ]
+    },
+    "Peter Finch": {
+        "movies": [
+            "Network (1976)"
         ]
     },
     "Peter Firth": {
@@ -17662,6 +17715,13 @@ var actorMap = {
             "Nightmare Alley (2021)"
         ]
     },
+    "Richard Kiley": {
+        "movies": [
+            "Endless Love (1981)",
+            "Howard the Duck (1986)",
+            "Jurassic Park (1993)"
+        ]
+    },
     "Richard Kind": {
         "movies": [
             "A Bug's Life (1998)",
@@ -17925,6 +17985,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Network (1976)",
             "Invasion of the Body Snatchers (1978)",
             "Four Christmases (2008)",
             "Widows (2018)"
@@ -18136,6 +18197,11 @@ var actorMap = {
     "Ronny Chieng": {
         "movies": [
             "Shang-Chi and the Legend of the Ten Rings (2021)"
+        ]
+    },
+    "Ronny Cox": {
+        "movies": [
+            "Taps (1981)"
         ]
     },
     "Rooney Mara": {
@@ -19005,6 +19071,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Taps (1981)",
             "Tropic Thunder (2008)"
         ]
     },
@@ -19206,6 +19273,11 @@ var actorMap = {
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Shirley Knight": {
+        "movies": [
+            "Endless Love (1981)"
         ]
     },
     "Shirley MacLaine": {
@@ -19718,6 +19790,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Interview with the Vampire (1994)",
             "V for Vendetta (2006)"
         ]
     },
@@ -20201,6 +20274,7 @@ var actorMap = {
     },
     "Thandiwe Newton": {
         "movies": [
+            "Interview with the Vampire (1994)",
             "Crash (2005)",
             "For Colored Girls (2010)",
             "Solo: A Star Wars Story (2018)"
@@ -20405,6 +20479,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Taps (1981)",
             "Last Holiday (2006)"
         ]
     },
@@ -20535,6 +20610,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Endless Love (1981)",
+            "Taps (1981)",
+            "Interview with the Vampire (1994)",
             "Vanilla Sky (2001)",
             "Tropic Thunder (2008)",
             "Knight and Day (2010)",
@@ -21647,6 +21725,11 @@ var actorMap = {
             "The Tale of Despereaux (2008)"
         ]
     },
+    "William Holden": {
+        "movies": [
+            "Network (1976)"
+        ]
+    },
     "William Hurt": {
         "leadNoms": [
             {
@@ -21687,6 +21770,11 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "William Prince": {
+        "movies": [
+            "Network (1976)"
         ]
     },
     "William Sadler": {

@@ -14475,6 +14475,16 @@ var movieMap = {
         "categories": [
             "1970s",
             "Dramas"
+        ],
+        "cast": [
+            "Beatrice Straight",
+            "Faye Dunaway",
+            "Lance Henriksen",
+            "Ned Beatty",
+            "Peter Finch",
+            "Robert Duvall",
+            "William Holden",
+            "William Prince"
         ]
     },
     "Silver Streak (1976)": {
@@ -18030,6 +18040,18 @@ var movieMap = {
             "1980s",
             "Romance",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Beatrice Straight",
+            "Brooke Shields",
+            "Don Murray",
+            "James Spader",
+            "Jami Gertz",
+            "Martin Hewitt",
+            "Penelope Milford",
+            "Richard Kiley",
+            "Shirley Knight",
+            "Tom Cruise"
         ]
     },
     "Zorro, The Gay Blade (1981)": {
@@ -18491,6 +18513,13 @@ var movieMap = {
         ],
         "categories": [
             "1980s",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "George C. Scott",
+            "Ronny Cox",
+            "Sean Penn",
+            "Timothy Hutton",
             "Tom Cruise"
         ]
     },
@@ -24665,6 +24694,7 @@ var movieMap = {
             "David Paymer",
             "Jeffrey Jones",
             "Lea Thompson",
+            "Richard Kiley",
             "Tim Robbins"
         ]
     },
@@ -36730,6 +36760,7 @@ var movieMap = {
             "Laura Dern",
             "Martin Ferrero",
             "Richard Attenborough",
+            "Richard Kiley",
             "Sam Neill",
             "Samuel L. Jackson",
             "Wayne Knight"
@@ -40193,6 +40224,15 @@ var movieMap = {
             "Brad Pitt & George Clooney",
             "Horror",
             "Horror/Thriller",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Antonio Banderas",
+            "Brad Pitt",
+            "Christian Slater",
+            "Kirsten Dunst",
+            "Stephen Rea",
+            "Thandiwe Newton",
             "Tom Cruise"
         ]
     },
