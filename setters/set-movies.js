@@ -25349,6 +25349,19 @@ var movieMap = {
             "John Candy",
             "Musicals",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Bill Murray",
+            "Christopher Guest",
+            "Ellen Greene",
+            "Jim Belushi",
+            "John Candy",
+            "Levi Stubbs",
+            "Miriam Margolyes",
+            "Rick Moranis",
+            "Steve Martin",
+            "Tisha Campbell",
+            "Vincent Gardenia"
         ]
     },
     "Platoon (1986)": {
@@ -35820,6 +35833,7 @@ var movieMap = {
             "James Woods",
             "Kevin Dunn",
             "Kevin Kline",
+            "Maria Pitillo",
             "Marisa Tomei",
             "Milla Jovovich",
             "Moira Kelly",
@@ -37364,6 +37378,22 @@ var movieMap = {
             "Quentin Tarantino & Robert Rodriguez",
             "Samuel L. Jackson",
             "Scotts"
+        ],
+        "cast": [
+            "Brad Pitt",
+            "Chris Penn",
+            "Christian Slater",
+            "Christopher Walken",
+            "Dennis Hopper",
+            "Eric Allan Kramer",
+            "Gary Oldman",
+            "James Gandolfini",
+            "Maria Pitillo",
+            "Michael Rapaport",
+            "Patricia Arquette",
+            "Samuel L. Jackson",
+            "Tom Sizemore",
+            "Val Kilmer"
         ]
     },
     "Airborne (1993)": {
@@ -40224,6 +40254,13 @@ var movieMap = {
         "categories": [
             "1990s",
             "Crime",
+            "Natalie Portman"
+        ],
+        "cast": [
+            "Danny Aiello",
+            "Ellen Greene",
+            "Gary Oldman",
+            "Jean Reno",
             "Natalie Portman"
         ]
     },
@@ -86918,6 +86955,23 @@ var movieMap = {
             "Comedies",
             "Natalie Portman",
             "Ramis & Reitmans"
+        ],
+        "cast": [
+            "Abby Elliott",
+            "Ashton Kutcher",
+            "Cary Elwes",
+            "Greta Gerwig",
+            "Ivan Reitman",
+            "Jake Johnson",
+            "Kevin Kline",
+            "Lake Bell",
+            "Ludacris",
+            "Mindy Kaling",
+            "Nasim Pedrad",
+            "Natalie Portman",
+            "Olivia Thirlby",
+            "Ophelia Lovibond",
+            "Stefanie Scott"
         ]
     },
     "The Mechanic (2011)": {
@@ -95918,6 +95972,7 @@ var movieMap = {
             "Jaimie Alexander",
             "Kat Dennings",
             "Natalie Portman",
+            "Ophelia Lovibond",
             "Ray Stevenson",
             "Rene Russo",
             "Stellan Skarsg\u00e5rd",
@@ -98263,6 +98318,7 @@ var movieMap = {
             "Lee Pace",
             "Michael Rooker",
             "Nathan Fillion",
+            "Ophelia Lovibond",
             "Peter Serafinowicz",
             "Rob Zombie",
             "Sean Gunn",

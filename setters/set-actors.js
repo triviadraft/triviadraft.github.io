@@ -28,6 +28,7 @@ var actorMap = {
     },
     "Abby Elliott": {
         "movies": [
+            "No Strings Attached (2011)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
@@ -1489,6 +1490,7 @@ var actorMap = {
     "Ashton Kutcher": {
         "movies": [
             "Valentine's Day (2010)",
+            "No Strings Attached (2011)",
             "New Year's Eve (2011)"
         ]
     },
@@ -2017,6 +2019,7 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "Ghostbusters (1984)",
+            "Little Shop of Horrors (1986)",
             "Ghostbusters II (1989)",
             "Space Jam (1996)",
             "Zombieland (2009)",
@@ -2345,6 +2348,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "True Romance (1993)",
             "Seven Years in Tibet (1997)",
             "Ocean's Eleven (2001)",
             "Troy (2004)",
@@ -3008,6 +3012,7 @@ var actorMap = {
     },
     "Cary Elwes": {
         "movies": [
+            "No Strings Attached (2011)",
             "New Year's Eve (2011)",
             "The Adventures of Tintin (2011)"
         ]
@@ -3543,6 +3548,11 @@ var actorMap = {
             "Hot Rod (2007)"
         ]
     },
+    "Chris Penn": {
+        "movies": [
+            "True Romance (1993)"
+        ]
+    },
     "Chris Pine": {
         "movies": [
             "Star Trek (2009)",
@@ -3634,7 +3644,8 @@ var actorMap = {
     },
     "Christian Slater": {
         "movies": [
-            "Robin Hood: Prince of Thieves (1991)"
+            "Robin Hood: Prince of Thieves (1991)",
+            "True Romance (1993)"
         ]
     },
     "Christina Applegate": {
@@ -3678,6 +3689,11 @@ var actorMap = {
     "Christopher Guard": {
         "movies": [
             "The Lord of the Rings (1978)"
+        ]
+    },
+    "Christopher Guest": {
+        "movies": [
+            "Little Shop of Horrors (1986)"
         ]
     },
     "Christopher Lambert": {
@@ -3781,6 +3797,7 @@ var actorMap = {
             "Annie Hall (1977)",
             "The Deer Hunter (1978)",
             "Batman Returns (1992)",
+            "True Romance (1993)",
             "Catch Me If You Can (2002)",
             "Gigli (2003)",
             "Hairspray (2007)",
@@ -4464,6 +4481,9 @@ var actorMap = {
                 "movie": "Do the Right Thing",
                 "year": "1989"
             }
+        ],
+        "movies": [
+            "L\u00e9on: The Professional (1994)"
         ]
     },
     "Danny DeVito": {
@@ -4950,6 +4970,9 @@ var actorMap = {
                 "movie": "Hoosiers",
                 "year": "1986"
             }
+        ],
+        "movies": [
+            "True Romance (1993)"
         ]
     },
     "Dennis Quaid": {
@@ -5920,6 +5943,12 @@ var actorMap = {
             }
         ]
     },
+    "Ellen Greene": {
+        "movies": [
+            "Little Shop of Horrors (1986)",
+            "L\u00e9on: The Professional (1994)"
+        ]
+    },
     "Ellen Pompeo": {
         "movies": [
             "Catch Me If You Can (2002)",
@@ -6151,6 +6180,11 @@ var actorMap = {
                 "movie": "Amour",
                 "year": "2012"
             }
+        ]
+    },
+    "Eric Allan Kramer": {
+        "movies": [
+            "True Romance (1993)"
         ]
     },
     "Eric Bana": {
@@ -6875,6 +6909,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "True Romance (1993)",
+            "L\u00e9on: The Professional (1994)",
             "The Fifth Element (1997)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Batman Begins (2005)",
@@ -7337,6 +7373,11 @@ var actorMap = {
             "Mystery Men (1999)",
             "Robots (2005)",
             "Movie 43 (2013)"
+        ]
+    },
+    "Greta Gerwig": {
+        "movies": [
+            "No Strings Attached (2011)"
         ]
     },
     "Griffin Dunne": {
@@ -8236,6 +8277,7 @@ var actorMap = {
         "movies": [
             "Ghostbusters (1984)",
             "Ghostbusters II (1989)",
+            "No Strings Attached (2011)",
             "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -8606,6 +8648,7 @@ var actorMap = {
     },
     "Jake Johnson": {
         "movies": [
+            "No Strings Attached (2011)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
@@ -8751,6 +8794,7 @@ var actorMap = {
     },
     "James Gandolfini": {
         "movies": [
+            "True Romance (1993)",
             "Zero Dark Thirty (2012)"
         ]
     },
@@ -9295,6 +9339,7 @@ var actorMap = {
     },
     "Jean Reno": {
         "movies": [
+            "L\u00e9on: The Professional (1994)",
             "Flushed Away (2006)",
             "Couples Retreat (2009)"
         ]
@@ -9843,6 +9888,7 @@ var actorMap = {
         "movies": [
             "About Last Night (1986)",
             "Jumpin' Jack Flash (1986)",
+            "Little Shop of Horrors (1986)",
             "Last Action Hero (1993)",
             "New Year's Eve (2011)"
         ]
@@ -10251,6 +10297,7 @@ var actorMap = {
             "Stripes (1981)",
             "Heavy Metal (1981)",
             "Armed and Dangerous (1986)",
+            "Little Shop of Horrors (1986)",
             "Spaceballs (1987)"
         ]
     },
@@ -12012,6 +12059,7 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "The Tale of Despereaux (2008)",
+            "No Strings Attached (2011)",
             "Beauty and the Beast (2017)"
         ]
     },
@@ -12343,6 +12391,7 @@ var actorMap = {
     },
     "Lake Bell": {
         "movies": [
+            "No Strings Attached (2011)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
@@ -12785,6 +12834,11 @@ var actorMap = {
             "A Wrinkle in Time (2018)"
         ]
     },
+    "Levi Stubbs": {
+        "movies": [
+            "Little Shop of Horrors (1986)"
+        ]
+    },
     "Lewis MacDougall": {
         "movies": [
             "A Monster Calls (2016)"
@@ -13120,6 +13174,7 @@ var actorMap = {
         "movies": [
             "Crash (2005)",
             "Hustle & Flow (2005)",
+            "No Strings Attached (2011)",
             "New Year's Eve (2011)"
         ]
     },
@@ -13541,6 +13596,12 @@ var actorMap = {
         "movies": [
             "Fantastic Four (2005)",
             "Tropic Thunder (2008)"
+        ]
+    },
+    "Maria Pitillo": {
+        "movies": [
+            "Chaplin (1992)",
+            "True Romance (1993)"
         ]
     },
     "Maria Shriver": {
@@ -14895,6 +14956,11 @@ var actorMap = {
             "Ant-Man and the Wasp (2018)"
         ]
     },
+    "Michael Rapaport": {
+        "movies": [
+            "True Romance (1993)"
+        ]
+    },
     "Michael Rooker": {
         "movies": [
             "Mississippi Burning (1988)",
@@ -15172,6 +15238,7 @@ var actorMap = {
     },
     "Mindy Kaling": {
         "movies": [
+            "No Strings Attached (2011)",
             "Wreck-It Ralph (2012)",
             "This Is the End (2013)",
             "A Wrinkle in Time (2018)",
@@ -15231,6 +15298,7 @@ var actorMap = {
     },
     "Miriam Margolyes": {
         "movies": [
+            "Little Shop of Horrors (1986)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
@@ -15432,6 +15500,11 @@ var actorMap = {
             "The League of Extraordinary Gentlemen (2003)"
         ]
     },
+    "Nasim Pedrad": {
+        "movies": [
+            "No Strings Attached (2011)"
+        ]
+    },
     "Nat Faxon": {
         "movies": [
             "Ready or Not (2019)"
@@ -15467,11 +15540,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "L\u00e9on: The Professional (1994)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "V for Vendetta (2006)",
             "The Other Boleyn Girl (2008)",
+            "No Strings Attached (2011)",
             "Thor (2011)",
             "Thor: The Dark World (2013)",
             "Avengers: Endgame (2019)"
@@ -15970,6 +16045,7 @@ var actorMap = {
     "Olivia Thirlby": {
         "movies": [
             "Juno (2007)",
+            "No Strings Attached (2011)",
             "Dredd (2012)"
         ]
     },
@@ -16009,6 +16085,13 @@ var actorMap = {
     "Omri Katz": {
         "movies": [
             "Hocus Pocus (1993)"
+        ]
+    },
+    "Ophelia Lovibond": {
+        "movies": [
+            "No Strings Attached (2011)",
+            "Thor: The Dark World (2013)",
+            "Guardians of the Galaxy (2014)"
         ]
     },
     "Oprah Winfrey": {
@@ -16158,6 +16241,9 @@ var actorMap = {
                 "movie": "Boyhood",
                 "year": "2014"
             }
+        ],
+        "movies": [
+            "True Romance (1993)"
         ]
     },
     "Patricia Clarkson": {
@@ -17510,6 +17596,7 @@ var actorMap = {
     "Rick Moranis": {
         "movies": [
             "Ghostbusters (1984)",
+            "Little Shop of Horrors (1986)",
             "Spaceballs (1987)",
             "Ghostbusters II (1989)"
         ]
@@ -18491,6 +18578,7 @@ var actorMap = {
         "movies": [
             "Jungle Fever (1991)",
             "Jurassic Park (1993)",
+            "True Romance (1993)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Unbreakable (2000)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
@@ -19386,6 +19474,7 @@ var actorMap = {
     },
     "Stefanie Scott": {
         "movies": [
+            "No Strings Attached (2011)",
             "Wreck-It Ralph (2012)"
         ]
     },
@@ -19577,6 +19666,7 @@ var actorMap = {
     "Steve Martin": {
         "movies": [
             "Three Amigos (1986)",
+            "Little Shop of Horrors (1986)",
             "The Prince of Egypt (1998)"
         ]
     },
@@ -20240,6 +20330,11 @@ var actorMap = {
             "Ant-Man and the Wasp (2018)"
         ]
     },
+    "Tisha Campbell": {
+        "movies": [
+            "Little Shop of Horrors (1986)"
+        ]
+    },
     "Titus Welliver": {
         "movies": [
             "Red 2 (2013)",
@@ -20460,6 +20555,7 @@ var actorMap = {
     },
     "Tom Sizemore": {
         "movies": [
+            "True Romance (1993)",
             "Saving Private Ryan (1998)",
             "Black Hawk Down (2001)"
         ]
@@ -20812,6 +20908,7 @@ var actorMap = {
     },
     "Val Kilmer": {
         "movies": [
+            "True Romance (1993)",
             "Batman Forever (1995)",
             "The Prince of Egypt (1998)",
             "Alexander (2004)"
@@ -21004,6 +21101,9 @@ var actorMap = {
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ],
+        "movies": [
+            "Little Shop of Horrors (1986)"
         ]
     },
     "Vincent Pastore": {
