@@ -5,6 +5,11 @@ var actorMap = {
             "I, Frankenstein (2014)"
         ]
     },
+    "Aaron Paul": {
+        "movies": [
+            "Mission: Impossible III (2006)"
+        ]
+    },
     "Aaron Sorkin": {
         "movies": [
             "A Few Good Men (1992)"
@@ -804,6 +809,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "War of the Worlds (2005)",
             "Changeling (2008)"
         ]
     },
@@ -900,6 +906,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Lions for Lambs (2007)",
             "The Other Boleyn Girl (2008)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)",
@@ -1096,6 +1103,11 @@ var actorMap = {
     "Ann Cusack": {
         "movies": [
             "A League of Their Own (1992)"
+        ]
+    },
+    "Ann Robinson": {
+        "movies": [
+            "War of the Worlds (2005)"
         ]
     },
     "Ann Sothern": {
@@ -1641,7 +1653,8 @@ var actorMap = {
     },
     "Bahar Soomekh": {
         "movies": [
-            "Crash (2005)"
+            "Crash (2005)",
+            "Mission: Impossible III (2006)"
         ]
     },
     "Barbara Babcock": {
@@ -1702,7 +1715,8 @@ var actorMap = {
     },
     "Barry Shabaka Henley": {
         "movies": [
-            "The Terminal (2004)"
+            "The Terminal (2004)",
+            "Collateral (2004)"
         ]
     },
     "Barry Sonnenfeld": {
@@ -1931,7 +1945,8 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "Gothika (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "Wimbledon (2004)"
+            "Wimbledon (2004)",
+            "Valkyrie (2008)"
         ]
     },
     "Bernie Mac": {
@@ -2029,6 +2044,11 @@ var actorMap = {
             "The Bucket List (2007)"
         ]
     },
+    "Beyonc\u00e9": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
+        ]
+    },
     "Bill Camp": {
         "movies": [
             "Midnight Special (2016)",
@@ -2094,6 +2114,7 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Flushed Away (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "Valkyrie (2008)",
             "G-Force (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "I, Frankenstein (2014)"
@@ -2179,12 +2200,14 @@ var actorMap = {
     "Billy Connolly": {
         "movies": [
             "Timeline (2003)",
+            "The Last Samurai (2003)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
     "Billy Crudup": {
         "movies": [
             "Almost Famous (2000)",
+            "Mission: Impossible III (2006)",
             "Watchmen (2009)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -2625,6 +2648,7 @@ var actorMap = {
     },
     "Brian Tee": {
         "movies": [
+            "Austin Powers in Goldmember (2002)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
@@ -2685,6 +2709,11 @@ var actorMap = {
     "Brion James": {
         "movies": [
             "The Fifth Element (1997)"
+        ]
+    },
+    "Britney Spears": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Britt Robertson": {
@@ -2785,6 +2814,7 @@ var actorMap = {
     "Bruce McGill": {
         "movies": [
             "Timecop (1994)",
+            "Collateral (2004)",
             "Elizabethtown (2005)"
         ]
     },
@@ -2867,6 +2897,13 @@ var actorMap = {
     "Burn Gorman": {
         "movies": [
             "The Dark Knight Rises (2012)"
+        ]
+    },
+    "Burt Bacharach": {
+        "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Burt Reynolds": {
@@ -3036,6 +3073,11 @@ var actorMap = {
             "Promising Young Woman (2020)"
         ]
     },
+    "Carice van Houten": {
+        "movies": [
+            "Valkyrie (2008)"
+        ]
+    },
     "Carl Reiner": {
         "movies": [
             "Ocean's Eleven (2001)",
@@ -3089,6 +3131,7 @@ var actorMap = {
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "Austin Powers: International Man of Mystery (1997)",
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -4040,6 +4083,9 @@ var actorMap = {
         "movies": [
             "Far and Away (1992)",
             "Barb Wire (1996)",
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -4159,6 +4205,7 @@ var actorMap = {
     },
     "Columbus Short": {
         "movies": [
+            "War of the Worlds (2005)",
             "The Losers (2010)"
         ]
     },
@@ -4358,6 +4405,7 @@ var actorMap = {
     "Dakota Fanning": {
         "movies": [
             "Sweet Home Alabama (2002)",
+            "War of the Worlds (2005)",
             "The Secret Life of Bees (2008)",
             "Ocean's 8 (2018)"
         ]
@@ -4608,7 +4656,8 @@ var actorMap = {
             "Terms of Endearment (1983)",
             "Batman Returns (1992)",
             "Last Action Hero (1993)",
-            "Space Jam (1996)"
+            "Space Jam (1996)",
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Danny Elfman": {
@@ -4791,6 +4840,7 @@ var actorMap = {
     },
     "David Harbour": {
         "movies": [
+            "War of the Worlds (2005)",
             "The Green Hornet (2011)",
             "Suicide Squad (2016)",
             "Hellboy (2019)",
@@ -4812,6 +4862,11 @@ var actorMap = {
         "movies": [
             "A Bug's Life (1998)",
             "Hellboy (2004)"
+        ]
+    },
+    "David Koechner": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)"
         ]
     },
     "David Kross": {
@@ -5173,6 +5228,7 @@ var actorMap = {
     },
     "Derek Luke": {
         "movies": [
+            "Lions for Lambs (2007)",
             "Captain America: The First Avenger (2011)"
         ]
     },
@@ -5761,6 +5817,7 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
+            "Valkyrie (2008)",
             "The Lego Batman Movie (2017)"
         ]
     },
@@ -5775,6 +5832,7 @@ var actorMap = {
     "Eddie Marsan": {
         "movies": [
             "V for Vendetta (2006)",
+            "Mission: Impossible III (2006)",
             "Snow White and the Huntsman (2012)",
             "Atomic Blonde (2017)",
             "Deadpool 2 (2018)",
@@ -5993,6 +6051,12 @@ var actorMap = {
             "Widows (2018)"
         ]
     },
+    "Elizabeth Hurley": {
+        "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)"
+        ]
+    },
     "Elizabeth McGovern": {
         "movies": [
             "Kick-Ass (2010)"
@@ -6157,6 +6221,11 @@ var actorMap = {
     "Elton John": {
         "movies": [
             "Kingsman: The Golden Circle (2017)"
+        ]
+    },
+    "Elvis Costello": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)"
         ]
     },
     "Embeth Davidtz": {
@@ -6918,10 +6987,20 @@ var actorMap = {
             "Bone Tomahawk (2015)"
         ]
     },
+    "Fred Savage": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
+        ]
+    },
     "Fred Ward": {
         "movies": [
             "Enough (2002)",
             "Sweet Home Alabama (2002)"
+        ]
+    },
+    "Fred Willard": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)"
         ]
     },
     "Freddie Prinze Jr.": {
@@ -7171,6 +7250,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Gene Barry": {
+        "movies": [
+            "War of the Worlds (2005)"
+        ]
+    },
     "Gene Hackman": {
         "leadNoms": [
             {
@@ -7369,6 +7453,11 @@ var actorMap = {
             "300: Rise of an Empire (2014)"
         ]
     },
+    "Gia Carides": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)"
+        ]
+    },
     "Giancarlo Esposito": {
         "movies": [
             "Last Holiday (2006)",
@@ -7547,7 +7636,9 @@ var actorMap = {
     },
     "Greg Grunberg": {
         "movies": [
+            "Austin Powers in Goldmember (2002)",
             "Malibu's Most Wanted (2003)",
+            "Mission: Impossible III (2006)",
             "Star Trek (2009)",
             "Star Wars: The Force Awakens (2015)",
             "Star Trek Beyond (2016)",
@@ -7615,6 +7706,7 @@ var actorMap = {
         ],
         "movies": [
             "Shakespeare in Love (1998)",
+            "Austin Powers in Goldmember (2002)",
             "View from the Top (2003)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
@@ -7889,6 +7981,7 @@ var actorMap = {
     },
     "Heather Graham": {
         "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)",
             "From Hell (2001)",
             "Horns (2014)"
         ]
@@ -8064,6 +8157,7 @@ var actorMap = {
     },
     "Hiroyuki Sanada": {
         "movies": [
+            "The Last Samurai (2003)",
             "Mr. Holmes (2015)",
             "Avengers: Endgame (2019)"
         ]
@@ -8402,7 +8496,8 @@ var actorMap = {
     },
     "Irma P. Hall": {
         "movies": [
-            "Steel (1997)"
+            "Steel (1997)",
+            "Collateral (2004)"
         ]
     },
     "Irrfan Khan": {
@@ -8801,6 +8896,7 @@ var actorMap = {
     "Jada Pinkett Smith": {
         "movies": [
             "Set It Off (1996)",
+            "Collateral (2004)",
             "Girls Trip (2017)"
         ]
     },
@@ -9219,6 +9315,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Collateral (2004)",
             "Ray (2004)",
             "Valentine's Day (2010)",
             "Due Date (2010)",
@@ -9487,6 +9584,7 @@ var actorMap = {
     },
     "Jason Statham": {
         "movies": [
+            "Collateral (2004)",
             "Cellular (2004)"
         ]
     },
@@ -9518,6 +9616,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Collateral (2004)",
             "Vicky Cristina Barcelona (2008)",
             "The Counselor (2013)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
@@ -9664,6 +9763,7 @@ var actorMap = {
     },
     "Jeff Garlin": {
         "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -9967,6 +10067,11 @@ var actorMap = {
     "Jerry O'Connell": {
         "movies": [
             "Jerry Maguire (1996)"
+        ]
+    },
+    "Jerry Springer": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)"
         ]
     },
     "Jerry Stiller": {
@@ -10875,6 +10980,7 @@ var actorMap = {
         ],
         "movies": [
             "Carrie (1976)",
+            "Austin Powers in Goldmember (2002)",
             "The Punisher (2004)",
             "Hairspray (2007)"
         ]
@@ -11147,7 +11253,8 @@ var actorMap = {
     },
     "Jonathan Rhys Meyers": {
         "movies": [
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "Mission: Impossible III (2006)"
         ]
     },
     "Jonathan Taylor Thomas": {
@@ -11695,6 +11802,11 @@ var actorMap = {
             "Gigli (2003)"
         ]
     },
+    "Justin Chatwin": {
+        "movies": [
+            "War of the Worlds (2005)"
+        ]
+    },
     "Justin Hartley": {
         "movies": [
             "Little (2019)"
@@ -12055,6 +12167,11 @@ var actorMap = {
             "The Bling Ring (2013)"
         ]
     },
+    "Katie Couric": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
+        ]
+    },
     "Katie Holmes": {
         "movies": [
             "Batman Begins (2005)",
@@ -12236,6 +12353,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Last Samurai (2003)",
             "Batman Begins (2005)",
             "Transformers: Age of Extinction (2014)",
             "Transformers: The Last Knight (2017)"
@@ -12266,6 +12384,7 @@ var actorMap = {
         ],
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
+            "Valkyrie (2008)",
             "My Week with Marilyn (2011)",
             "Murder on the Orient Express (2017)",
             "Avengers: Infinity War (2018)"
@@ -12288,6 +12407,7 @@ var actorMap = {
     },
     "Keri Russell": {
         "movies": [
+            "Mission: Impossible III (2006)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -12349,6 +12469,7 @@ var actorMap = {
             "Ghostbusters II (1989)",
             "Chaplin (1992)",
             "Transformers (2007)",
+            "Lions for Lambs (2007)",
             "Vicky Cristina Barcelona (2008)",
             "Transformers: Revenge of the Fallen (2009)",
             "Transformers: Dark of the Moon (2011)"
@@ -12408,6 +12529,7 @@ var actorMap = {
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "Valkyrie (2008)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
@@ -12448,6 +12570,7 @@ var actorMap = {
         ],
         "movies": [
             "A Bug's Life (1998)",
+            "Austin Powers in Goldmember (2002)",
             "Superman Returns (2006)",
             "Moon (2009)"
         ]
@@ -12924,6 +13047,7 @@ var actorMap = {
         ],
         "movies": [
             "Boyz n the Hood (1991)",
+            "Mission: Impossible III (2006)",
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Man of Steel (2013)",
@@ -13744,6 +13868,7 @@ var actorMap = {
     },
     "Maggie Q": {
         "movies": [
+            "Mission: Impossible III (2006)",
             "Priest (2011)"
         ]
     },
@@ -14149,6 +14274,7 @@ var actorMap = {
             "View from the Top (2003)",
             "Eternal Sunshine of the Spotless Mind (2004)",
             "13 Going on 30 (2004)",
+            "Collateral (2004)",
             "Just like Heaven (2005)",
             "Rumor Has It (2005)",
             "Zodiac (2007)",
@@ -14463,6 +14589,11 @@ var actorMap = {
             "Red (2010)",
             "R.I.P.D. (2013)",
             "Red 2 (2013)"
+        ]
+    },
+    "Masi Oka": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Massimo Troisi": {
@@ -15001,6 +15132,7 @@ var actorMap = {
         ],
         "movies": [
             "The Deer Hunter (1978)",
+            "Lions for Lambs (2007)",
             "Doubt (2008)",
             "August: Osage County (2013)",
             "Into the Woods (2014)",
@@ -15106,6 +15238,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Austin Powers in Goldmember (2002)",
             "Batman Begins (2005)",
             "The Prestige (2006)",
             "The Dark Knight (2008)",
@@ -15372,6 +15505,7 @@ var actorMap = {
     "Michael Pe\u00f1a": {
         "movies": [
             "Crash (2005)",
+            "Lions for Lambs (2007)",
             "Ant-Man (2015)",
             "A Wrinkle in Time (2018)",
             "Ant-Man and the Wasp (2018)"
@@ -15447,6 +15581,13 @@ var actorMap = {
             "Spaceballs (1987)"
         ]
     },
+    "Michael York": {
+        "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)"
+        ]
+    },
     "Michelle Borth": {
         "movies": [
             "Shazam! (2019)"
@@ -15465,6 +15606,7 @@ var actorMap = {
     "Michelle Monaghan": {
         "movies": [
             "Mr. & Mrs. Smith (2005)",
+            "Mission: Impossible III (2006)",
             "Due Date (2010)"
         ]
     },
@@ -15619,6 +15761,9 @@ var actorMap = {
     },
     "Mike Myers": {
         "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)",
             "View from the Top (2003)"
         ]
     },
@@ -15673,6 +15818,11 @@ var actorMap = {
             "A Quiet Place Part II (2021)"
         ]
     },
+    "Mimi Rogers": {
+        "movies": [
+            "Austin Powers: International Man of Mystery (1997)"
+        ]
+    },
     "Mindy Kaling": {
         "movies": [
             "No Strings Attached (2011)",
@@ -15684,7 +15834,10 @@ var actorMap = {
     },
     "Mindy Sterling": {
         "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
             "Drop Dead Gorgeous (1999)",
+            "Austin Powers in Goldmember (2002)",
             "Transformers: Dark of the Moon (2011)"
         ]
     },
@@ -15714,6 +15867,7 @@ var actorMap = {
         "movies": [
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "War of the Worlds (2005)",
             "I, Frankenstein (2014)"
         ]
     },
@@ -15827,6 +15981,7 @@ var actorMap = {
             "Robin Hood: Prince of Thieves (1991)",
             "Amistad (1997)",
             "Batman Begins (2005)",
+            "War of the Worlds (2005)",
             "The Bucket List (2007)",
             "Wanted (2008)",
             "The Dark Knight (2008)",
@@ -16042,6 +16197,7 @@ var actorMap = {
     "Nathan Lane": {
         "movies": [
             "The Lion King (1994)",
+            "Austin Powers in Goldmember (2002)",
             "The Producers (2005)"
         ]
     },
@@ -16616,6 +16772,7 @@ var actorMap = {
     },
     "Ozzy Osbourne": {
         "movies": [
+            "Austin Powers in Goldmember (2002)",
             "Ghostbusters (2016)"
         ]
     },
@@ -17121,7 +17278,9 @@ var actorMap = {
     },
     "Peter Berg": {
         "movies": [
-            "Smokin' Aces (2007)"
+            "Collateral (2004)",
+            "Smokin' Aces (2007)",
+            "Lions for Lambs (2007)"
         ]
     },
     "Peter Billingsley": {
@@ -17382,6 +17541,7 @@ var actorMap = {
         "movies": [
             "Magnolia (1999)",
             "Almost Famous (2000)",
+            "Mission: Impossible III (2006)",
             "Doubt (2008)"
         ]
     },
@@ -17467,6 +17627,11 @@ var actorMap = {
             "The Secret Life of Bees (2008)",
             "Valentine's Day (2010)",
             "Girls Trip (2017)"
+        ]
+    },
+    "Quincy Jones": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Quvenzhan\u00e9 Wallis": {
@@ -17761,6 +17926,7 @@ var actorMap = {
     },
     "Rebecca Romijn": {
         "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)",
             "X-Men (2000)",
             "X2 (2003)",
             "The Punisher (2004)",
@@ -18199,6 +18365,8 @@ var actorMap = {
         "movies": [
             "The Outsiders (1983)",
             "About Last Night (1986)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)",
             "View from the Top (2003)"
         ]
     },
@@ -18412,6 +18580,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Lions for Lambs (2007)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Endgame (2019)"
         ]
@@ -18430,6 +18599,13 @@ var actorMap = {
     "Robert Vaughn": {
         "movies": [
             "Superman III (1983)"
+        ]
+    },
+    "Robert Wagner": {
+        "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Robert Wuhl": {
@@ -19495,6 +19671,9 @@ var actorMap = {
     },
     "Seth Green": {
         "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)",
             "Guardians of the Galaxy (2014)",
             "The Lego Batman Movie (2017)",
             "Guardians of the Galaxy Vol. 2 (2017)"
@@ -19566,6 +19745,11 @@ var actorMap = {
             "Steel (1997)",
             "The Lego Movie (2014)",
             "What Men Want (2019)"
+        ]
+    },
+    "Sharon Osbourne": {
+        "movies": [
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Sharon Stone": {
@@ -19776,6 +19960,7 @@ var actorMap = {
     },
     "Simon Pegg": {
         "movies": [
+            "Mission: Impossible III (2006)",
             "Star Trek (2009)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Adventures of Tintin (2011)",
@@ -20289,7 +20474,8 @@ var actorMap = {
     },
     "Steven Spielberg": {
         "movies": [
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Steven Yeun": {
@@ -20590,7 +20776,8 @@ var actorMap = {
             "Superman II (1981)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Elektra (2005)",
-            "Wanted (2008)"
+            "Wanted (2008)",
+            "Valkyrie (2008)"
         ]
     },
     "Teresa Palmer": {
@@ -20712,6 +20899,7 @@ var actorMap = {
             "Blade II (2002)",
             "King Kong (2005)",
             "Wanted (2008)",
+            "Valkyrie (2008)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)"
         ]
@@ -20850,6 +21038,8 @@ var actorMap = {
             "Top Gun (1986)",
             "Howard the Duck (1986)",
             "Jungle Fever (1991)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "War of the Worlds (2005)",
             "Green Lantern (2011)"
         ]
     },
@@ -20894,6 +21084,7 @@ var actorMap = {
     "Timothy Spall": {
         "movies": [
             "Vanilla Sky (2001)",
+            "The Last Samurai (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
@@ -20993,6 +21184,11 @@ var actorMap = {
             "Due Date (2010)"
         ]
     },
+    "Tom Arnold": {
+        "movies": [
+            "Austin Powers: International Man of Mystery (1997)"
+        ]
+    },
     "Tom Bateman": {
         "movies": [
             "Murder on the Orient Express (2017)"
@@ -21045,7 +21241,14 @@ var actorMap = {
             "Mission: Impossible 2 (2000)",
             "Vanilla Sky (2001)",
             "Minority Report (2002)",
+            "Austin Powers in Goldmember (2002)",
+            "The Last Samurai (2003)",
+            "Collateral (2004)",
+            "War of the Worlds (2005)",
+            "Mission: Impossible III (2006)",
+            "Lions for Lambs (2007)",
             "Tropic Thunder (2008)",
+            "Valkyrie (2008)",
             "Knight and Day (2010)",
             "Oblivion (2013)"
         ]
@@ -21160,6 +21363,7 @@ var actorMap = {
         "movies": [
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
+            "Valkyrie (2008)",
             "Mowgli: Legend of the Jungle (2018)",
             "The King's Man (2021)"
         ]
@@ -21228,6 +21432,7 @@ var actorMap = {
             "Eternal Sunshine of the Spotless Mind (2004)",
             "Batman Begins (2005)",
             "Michael Clayton (2007)",
+            "Valkyrie (2008)",
             "The Green Hornet (2011)"
         ]
     },
@@ -21283,6 +21488,7 @@ var actorMap = {
             "Armed and Dangerous (1986)",
             "Barb Wire (1996)",
             "The Fifth Element (1997)",
+            "Austin Powers in Goldmember (2002)",
             "The Dark Knight (2008)",
             "Zootopia (2016)"
         ]
@@ -21334,11 +21540,21 @@ var actorMap = {
             "Crash (2005)"
         ]
     },
+    "Tony Goldwyn": {
+        "movies": [
+            "The Last Samurai (2003)"
+        ]
+    },
     "Tony Hale": {
         "movies": [
             "Stranger than Fiction (2006)",
             "The Tale of Despereaux (2008)",
             "Transformers: The Last Knight (2017)"
+        ]
+    },
+    "Tony Jay": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)"
         ]
     },
     "Tony Leung": {
@@ -21658,7 +21874,10 @@ var actorMap = {
     },
     "Verne Troyer": {
         "movies": [
-            "Harry Potter and the Sorcerer's Stone (2001)"
+            "Men in Black (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Harry Potter and the Sorcerer's Stone (2001)",
+            "Austin Powers in Goldmember (2002)"
         ]
     },
     "Veronica Cartwright": {
@@ -21785,6 +22004,7 @@ var actorMap = {
         "movies": [
             "Mission: Impossible (1996)",
             "Mission: Impossible 2 (2000)",
+            "Mission: Impossible III (2006)",
             "Surrogates (2009)",
             "Guardians of the Galaxy Vol. 2 (2017)"
         ]
@@ -22046,6 +22266,8 @@ var actorMap = {
     },
     "Will Ferrell": {
         "movies": [
+            "Austin Powers: International Man of Mystery (1997)",
+            "Austin Powers: The Spy Who Shagged Me (1999)",
             "The Producers (2005)",
             "Stranger than Fiction (2006)",
             "Land of the Lost (2009)",
@@ -22252,6 +22474,12 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "Willie Nelson": {
+        "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Austin Powers in Goldmember (2002)"
+        ]
+    },
     "Wilmer Valderrama": {
         "movies": [
             "Onward (2020)"
@@ -22329,6 +22557,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Austin Powers: The Spy Who Shagged Me (1999)",
             "Zombieland (2009)",
             "Now You See Me (2013)",
             "Now You See Me 2 (2016)",

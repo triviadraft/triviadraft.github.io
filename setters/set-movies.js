@@ -46917,6 +46917,20 @@ var movieMap = {
             "1990s",
             "Comedies",
             "Spy"
+        ],
+        "cast": [
+            "Burt Bacharach",
+            "Carrie Fisher",
+            "Clint Howard",
+            "Elizabeth Hurley",
+            "Michael York",
+            "Mike Myers",
+            "Mimi Rogers",
+            "Mindy Sterling",
+            "Robert Wagner",
+            "Seth Green",
+            "Tom Arnold",
+            "Will Ferrell"
         ]
     },
     "Breakdown (1997)": {
@@ -47297,6 +47311,7 @@ var movieMap = {
             "Tim Blaney",
             "Tommy Lee Jones",
             "Tony Shalhoub",
+            "Verne Troyer",
             "Vincent D'Onofrio",
             "Will Smith"
         ]
@@ -52242,6 +52257,31 @@ var movieMap = {
             "Comedies",
             "Frat Pack",
             "Spy"
+        ],
+        "cast": [
+            "Burt Bacharach",
+            "Clint Howard",
+            "David Koechner",
+            "Elizabeth Hurley",
+            "Elvis Costello",
+            "Fred Willard",
+            "Gia Carides",
+            "Heather Graham",
+            "Jeff Garlin",
+            "Jerry Springer",
+            "Michael York",
+            "Mike Myers",
+            "Mindy Sterling",
+            "Rebecca Romijn",
+            "Rob Lowe",
+            "Robert Wagner",
+            "Seth Green",
+            "Tim Robbins",
+            "Tony Jay",
+            "Verne Troyer",
+            "Will Ferrell",
+            "Willie Nelson",
+            "Woody Harrelson"
         ]
     },
     "Tarzan (1999)": {
@@ -60522,6 +60562,37 @@ var movieMap = {
             "Spy",
             "Steven Spielberg",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Beyonc\u00e9",
+            "Brian Tee",
+            "Britney Spears",
+            "Burt Bacharach",
+            "Clint Howard",
+            "Danny DeVito",
+            "Fred Savage",
+            "Greg Grunberg",
+            "Gwyneth Paltrow",
+            "John Travolta",
+            "Katie Couric",
+            "Kevin Spacey",
+            "Masi Oka",
+            "Michael Caine",
+            "Michael York",
+            "Mike Myers",
+            "Mindy Sterling",
+            "Nathan Lane",
+            "Ozzy Osbourne",
+            "Quincy Jones",
+            "Rob Lowe",
+            "Robert Wagner",
+            "Seth Green",
+            "Sharon Osbourne",
+            "Steven Spielberg",
+            "Tom Cruise",
+            "Tommy Lister Jr.",
+            "Verne Troyer",
+            "Willie Nelson"
         ]
     },
     "The Country Bears (2002)": {
@@ -64710,6 +64781,14 @@ var movieMap = {
             "Action/Adventure",
             "Dramas",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Billy Connolly",
+            "Hiroyuki Sanada",
+            "Ken Watanabe",
+            "Timothy Spall",
+            "Tom Cruise",
+            "Tony Goldwyn"
         ]
     },
     "Big Fish (2003)": {
@@ -66755,6 +66834,18 @@ var movieMap = {
             "Dramas",
             "Horror/Thriller",
             "Thriller",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Barry Shabaka Henley",
+            "Bruce McGill",
+            "Irma P. Hall",
+            "Jada Pinkett Smith",
+            "Jamie Foxx",
+            "Jason Statham",
+            "Javier Bardem",
+            "Mark Ruffalo",
+            "Peter Berg",
             "Tom Cruise"
         ]
     },
@@ -69495,6 +69586,19 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Morgan Freeman",
             "Steven Spielberg",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Amy Ryan",
+            "Ann Robinson",
+            "Columbus Short",
+            "Dakota Fanning",
+            "David Harbour",
+            "Gene Barry",
+            "Justin Chatwin",
+            "Miranda Otto",
+            "Morgan Freeman",
+            "Tim Robbins",
             "Tom Cruise"
         ]
     },
@@ -72255,6 +72359,22 @@ var movieMap = {
             "Cornetto Trio",
             "Spy",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Aaron Paul",
+            "Bahar Soomekh",
+            "Billy Crudup",
+            "Eddie Marsan",
+            "Greg Grunberg",
+            "Jonathan Rhys Meyers",
+            "Keri Russell",
+            "Laurence Fishburne",
+            "Maggie Q",
+            "Michelle Monaghan",
+            "Philip Seymour Hoffman",
+            "Simon Pegg",
+            "Tom Cruise",
+            "Ving Rhames"
         ]
     },
     "Just My Luck (2006)": {
@@ -77287,6 +77407,16 @@ var movieMap = {
             "Meryl Streep",
             "Paul Newman & Robert Redford",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Andrew Garfield",
+            "Derek Luke",
+            "Kevin Dunn",
+            "Meryl Streep",
+            "Michael Pe\u00f1a",
+            "Peter Berg",
+            "Robert Redford",
+            "Tom Cruise"
         ]
     },
     "No Country for Old Men (2007)": {
@@ -81106,6 +81236,19 @@ var movieMap = {
         "categories": [
             "2000s",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Bernard Hill",
+            "Bill Nighy",
+            "Carice van Houten",
+            "Eddie Izzard",
+            "Kenneth Branagh",
+            "Kevin McNally",
+            "Terence Stamp",
+            "Thomas Kretschmann",
+            "Tom Cruise",
+            "Tom Hollander",
+            "Tom Wilkinson"
         ]
     },
     "Revolutionary Road (2008)": {
