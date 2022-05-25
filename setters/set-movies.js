@@ -37038,6 +37038,21 @@ var movieMap = {
             "Ed Harris",
             "Gene Hackman",
             "Tom Cruise"
+        ],
+        "cast": [
+            "David Strathairn",
+            "Dean Norris",
+            "Ed Harris",
+            "Gary Busey",
+            "Gene Hackman",
+            "Hal Holbrook",
+            "Holly Hunter",
+            "Jeanne Tripplehorn",
+            "Margo Martindale",
+            "Paul Sorvino",
+            "Tobin Bell",
+            "Tom Cruise",
+            "Wilford Brimley"
         ]
     },
     "Son in Law (1993)": {
@@ -44309,6 +44324,17 @@ var movieMap = {
             "Sheens",
             "Spy",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Emilio Estevez",
+            "Emmanuelle B\u00e9art",
+            "Henry Czerny",
+            "Jean Reno",
+            "Jon Voight",
+            "Kristin Scott Thomas",
+            "Tom Cruise",
+            "Vanessa Redgrave",
+            "Ving Rhames"
         ]
     },
     "Spy Hard (1996)": {
@@ -45869,6 +45895,25 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Sports",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Beau Bridges",
+            "Bonnie Hunt",
+            "Christine Cavanaugh",
+            "Cuba Gooding Jr.",
+            "Donal Logue",
+            "Drake Bell",
+            "Eric Stoltz",
+            "Hynden Walch",
+            "Jay Mohr",
+            "Jeremy Suarez",
+            "Jerry O'Connell",
+            "Jonathan Lipnicki",
+            "Kelly Preston",
+            "Lucy Liu",
+            "Regina King",
+            "Ren\u00e9e Zellweger",
             "Tom Cruise"
         ]
     },
@@ -52412,6 +52457,16 @@ var movieMap = {
             "Dramas",
             "Nicole Kidman",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alan Cumming",
+            "Cate Blanchett",
+            "Leelee Sobieski",
+            "Nicole Kidman",
+            "Sydney Pollack",
+            "Todd Field",
+            "Tom Cruise",
+            "Vinessa Shaw"
         ]
     },
     "Lake Placid (1999)": {
@@ -53692,6 +53747,25 @@ var movieMap = {
             "Andersons",
             "Dramas",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alfred Molina",
+            "Clark Gregg",
+            "Felicity Huffman",
+            "Henry Gibson",
+            "Jason Robards",
+            "John C. Reilly",
+            "Julianne Moore",
+            "Luis Guzman",
+            "Melinda Dillon",
+            "Michael Bowen",
+            "Michael Murphy",
+            "Patton Oswalt",
+            "Philip Baker Hall",
+            "Philip Seymour Hoffman",
+            "Thomas Jane",
+            "Tom Cruise",
+            "William H. Macy"
         ]
     },
     "Stuart Little (1999)": {
@@ -54751,6 +54825,18 @@ var movieMap = {
             "Action/Adventure",
             "Spy",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Brendan Gleeson",
+            "Dominic Purcell",
+            "Dougray Scott",
+            "John Polson",
+            "Richard Roxburgh",
+            "Thandiwe Newton",
+            "Tom Cruise",
+            "Ving Rhames",
+            "William Mapother"
         ]
     },
     "Shanghai Noon (2000)": {
@@ -60143,6 +60229,24 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Steven Spielberg",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Cameron Crowe",
+            "Cameron Diaz",
+            "Colin Farrell",
+            "Daniel London",
+            "Jessica Harper",
+            "Joel Gretsch",
+            "Max von Sydow",
+            "Mike Binder",
+            "Neal McDonough",
+            "Paul Thomas Anderson",
+            "Peter Stormare",
+            "Samantha Morton",
+            "Steve Harris",
+            "Tim Blake Nelson",
+            "Tom Cruise",
+            "William Mapother"
         ]
     },
     "Sunshine State (2002)": {
@@ -70748,6 +70852,7 @@ var movieMap = {
         "cast": [
             "Adam Pascal",
             "Anthony Rapp",
+            "Daniel London",
             "Idina Menzel",
             "Jesse L. Martin",
             "Rosario Dawson",

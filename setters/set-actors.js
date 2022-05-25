@@ -340,6 +340,7 @@ var actorMap = {
     },
     "Alan Cumming": {
         "movies": [
+            "Eyes Wide Shut (1999)",
             "X2 (2003)",
             "Son of the Mask (2005)",
             "Strange Magic (2015)"
@@ -554,6 +555,7 @@ var actorMap = {
     },
     "Alfred Molina": {
         "movies": [
+            "Magnolia (1999)",
             "Spider-Man 2 (2004)",
             "Strange Magic (2015)",
             "Ralph Breaks the Internet (2018)",
@@ -1345,6 +1347,7 @@ var actorMap = {
             "The Remains of the Day (1993)",
             "Amistad (1997)",
             "The Mask of Zorro (1998)",
+            "Mission: Impossible 2 (2000)",
             "Alexander (2004)",
             "Thor (2011)",
             "Red 2 (2013)",
@@ -1716,6 +1719,11 @@ var actorMap = {
         "movies": [
             "Network (1976)",
             "Endless Love (1981)"
+        ]
+    },
+    "Beau Bridges": {
+        "movies": [
+            "Jerry Maguire (1996)"
         ]
     },
     "Bebe Neuwirth": {
@@ -2322,6 +2330,7 @@ var actorMap = {
         "movies": [
             "Rain Man (1988)",
             "Jumanji (1995)",
+            "Jerry Maguire (1996)",
             "A Bug's Life (1998)",
             "Zootopia (2016)"
         ]
@@ -2529,6 +2538,7 @@ var actorMap = {
     },
     "Brendan Gleeson": {
         "movies": [
+            "Mission: Impossible 2 (2000)",
             "The Tailor of Panama (2001)",
             "Troy (2004)",
             "Kingdom of Heaven (2005)",
@@ -2965,10 +2975,16 @@ var actorMap = {
             "X-Men: The Last Stand (2006)"
         ]
     },
+    "Cameron Crowe": {
+        "movies": [
+            "Minority Report (2002)"
+        ]
+    },
     "Cameron Diaz": {
         "movies": [
             "The Mask (1994)",
             "Vanilla Sky (2001)",
+            "Minority Report (2002)",
             "The Holiday (2006)",
             "Knight and Day (2010)",
             "The Green Hornet (2011)",
@@ -3169,6 +3185,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Eyes Wide Shut (1999)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
@@ -3733,6 +3750,11 @@ var actorMap = {
             "Into the Woods (2014)"
         ]
     },
+    "Christine Cavanaugh": {
+        "movies": [
+            "Jerry Maguire (1996)"
+        ]
+    },
     "Christine Taylor": {
         "movies": [
             "Tropic Thunder (2008)"
@@ -3942,6 +3964,7 @@ var actorMap = {
     },
     "Clark Gregg": {
         "movies": [
+            "Magnolia (1999)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
             "Thor (2011)",
@@ -4063,6 +4086,7 @@ var actorMap = {
     },
     "Colin Farrell": {
         "movies": [
+            "Minority Report (2002)",
             "Daredevil (2003)",
             "Alexander (2004)",
             "Fantastic Beasts and Where to Find Them (2016)",
@@ -4269,7 +4293,8 @@ var actorMap = {
         ],
         "movies": [
             "Boyz n the Hood (1991)",
-            "A Few Good Men (1992)"
+            "A Few Good Men (1992)",
+            "Jerry Maguire (1996)"
         ]
     },
     "Curtis Armstrong": {
@@ -4519,6 +4544,12 @@ var actorMap = {
     "Daniel Logan": {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)"
+        ]
+    },
+    "Daniel London": {
+        "movies": [
+            "Minority Report (2002)",
+            "Rent (2005)"
         ]
     },
     "Daniel Radcliffe": {
@@ -4867,6 +4898,7 @@ var actorMap = {
         ],
         "movies": [
             "A League of Their Own (1992)",
+            "The Firm (1993)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -4944,6 +4976,7 @@ var actorMap = {
     },
     "Dean Norris": {
         "movies": [
+            "The Firm (1993)",
             "How Do You Know (2010)",
             "The Counselor (2013)",
             "The Book of Henry (2017)"
@@ -5380,6 +5413,7 @@ var actorMap = {
     },
     "Dominic Purcell": {
         "movies": [
+            "Mission: Impossible 2 (2000)",
             "Blade: Trinity (2004)"
         ]
     },
@@ -5464,6 +5498,7 @@ var actorMap = {
     },
     "Donal Logue": {
         "movies": [
+            "Jerry Maguire (1996)",
             "Blade (1998)",
             "Just like Heaven (2005)",
             "Ghost Rider (2007)",
@@ -5535,6 +5570,7 @@ var actorMap = {
     },
     "Dougray Scott": {
         "movies": [
+            "Mission: Impossible 2 (2000)",
             "My Week with Marilyn (2011)"
         ]
     },
@@ -5546,6 +5582,11 @@ var actorMap = {
     "Drake": {
         "movies": [
             "Think Like a Man Too (2014)"
+        ]
+    },
+    "Drake Bell": {
+        "movies": [
+            "Jerry Maguire (1996)"
         ]
     },
     "Drew Barrymore": {
@@ -5682,6 +5723,7 @@ var actorMap = {
         ],
         "movies": [
             "Places in the Heart (1984)",
+            "The Firm (1993)",
             "A History of Violence (2005)",
             "Gravity (2013)",
             "Mother! (2017)"
@@ -6142,7 +6184,8 @@ var actorMap = {
     "Emilio Estevez": {
         "movies": [
             "The Outsiders (1983)",
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "Mission: Impossible (1996)"
         ]
     },
     "Emily Alyn Lind": {
@@ -6288,6 +6331,11 @@ var actorMap = {
             "Little Women (2019)"
         ]
     },
+    "Emmanuelle B\u00e9art": {
+        "movies": [
+            "Mission: Impossible (1996)"
+        ]
+    },
     "Emmanuelle Riva": {
         "leadNoms": [
             {
@@ -6324,6 +6372,11 @@ var actorMap = {
     "Eric Roberts": {
         "movies": [
             "The Dark Knight (2008)"
+        ]
+    },
+    "Eric Stoltz": {
+        "movies": [
+            "Jerry Maguire (1996)"
         ]
     },
     "Eric Stonestreet": {
@@ -6590,6 +6643,9 @@ var actorMap = {
                 "movie": "Transamerica",
                 "year": "2005"
             }
+        ],
+        "movies": [
+            "Magnolia (1999)"
         ]
     },
     "Felicity Jones": {
@@ -6988,6 +7044,9 @@ var actorMap = {
                 "movie": "The Buddy Holly Story",
                 "year": "1978"
             }
+        ],
+        "movies": [
+            "The Firm (1993)"
         ]
     },
     "Gary Cooper": {
@@ -7141,7 +7200,8 @@ var actorMap = {
             "Superman (1978)",
             "Superman II (1981)",
             "Superman IV: The Quest for Peace (1987)",
-            "Mississippi Burning (1988)"
+            "Mississippi Burning (1988)",
+            "The Firm (1993)"
         ]
     },
     "Gene Wilder": {
@@ -7600,6 +7660,9 @@ var actorMap = {
                 "movie": "Into the Wild",
                 "year": "2007"
             }
+        ],
+        "movies": [
+            "The Firm (1993)"
         ]
     },
     "Haley Joel Osment": {
@@ -7943,6 +8006,7 @@ var actorMap = {
     },
     "Henry Czerny": {
         "movies": [
+            "Mission: Impossible (1996)",
             "Ready or Not (2019)"
         ]
     },
@@ -7956,6 +8020,11 @@ var actorMap = {
                 "movie": "On Golden Pond",
                 "year": "1981"
             }
+        ]
+    },
+    "Henry Gibson": {
+        "movies": [
+            "Magnolia (1999)"
         ]
     },
     "Henry Golding": {
@@ -8026,6 +8095,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Firm (1993)",
             "The Incredibles (2004)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Incredibles 2 (2018)"
@@ -8108,6 +8178,7 @@ var actorMap = {
     },
     "Hynden Walch": {
         "movies": [
+            "Jerry Maguire (1996)",
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
@@ -9396,6 +9467,11 @@ var actorMap = {
             "Ghostbusters II (1989)"
         ]
     },
+    "Jason Robards": {
+        "movies": [
+            "Magnolia (1999)"
+        ]
+    },
     "Jason Schwartzman": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)",
@@ -9483,6 +9559,11 @@ var actorMap = {
             "Robots (2005)"
         ]
     },
+    "Jay Mohr": {
+        "movies": [
+            "Jerry Maguire (1996)"
+        ]
+    },
     "Jay Ryan": {
         "movies": [
             "It Chapter Two (2019)"
@@ -9507,6 +9588,7 @@ var actorMap = {
     "Jean Reno": {
         "movies": [
             "L\u00e9on: The Professional (1994)",
+            "Mission: Impossible (1996)",
             "Flushed Away (2006)",
             "Couples Retreat (2009)"
         ]
@@ -9522,6 +9604,11 @@ var actorMap = {
             "Timecop (1994)",
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)"
+        ]
+    },
+    "Jeanne Tripplehorn": {
+        "movies": [
+            "The Firm (1993)"
         ]
     },
     "Jeff Bridges": {
@@ -9856,6 +9943,11 @@ var actorMap = {
             "Black Widow (2021)"
         ]
     },
+    "Jeremy Suarez": {
+        "movies": [
+            "Jerry Maguire (1996)"
+        ]
+    },
     "Jeremy Theobald": {
         "movies": [
             "Batman Begins (2005)"
@@ -9870,6 +9962,11 @@ var actorMap = {
         "movies": [
             "Think Like a Man (2012)",
             "Think Like a Man Too (2014)"
+        ]
+    },
+    "Jerry O'Connell": {
+        "movies": [
+            "Jerry Maguire (1996)"
         ]
     },
     "Jerry Stiller": {
@@ -9968,6 +10065,11 @@ var actorMap = {
             "The Huntsman: Winter's War (2016)",
             "Dark Phoenix (2019)",
             "It Chapter Two (2019)"
+        ]
+    },
+    "Jessica Harper": {
+        "movies": [
+            "Minority Report (2002)"
         ]
     },
     "Jessica Henwick": {
@@ -10415,6 +10517,11 @@ var actorMap = {
             "Midnight Special (2016)"
         ]
     },
+    "Joel Gretsch": {
+        "movies": [
+            "Minority Report (2002)"
+        ]
+    },
     "Joel Kinnaman": {
         "movies": [
             "RoboCop (2014)",
@@ -10468,6 +10575,7 @@ var actorMap = {
         ],
         "movies": [
             "Days of Thunder (1990)",
+            "Magnolia (1999)",
             "Chicago (2002)",
             "The Aviator (2004)",
             "We Need to Talk About Kevin (2011)",
@@ -10694,6 +10802,11 @@ var actorMap = {
             "Amistad (1997)",
             "Blackhat (2015)",
             "Bumblebee (2018)"
+        ]
+    },
+    "John Polson": {
+        "movies": [
+            "Mission: Impossible 2 (2000)"
         ]
     },
     "John Ratzenberger": {
@@ -10961,6 +11074,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mission: Impossible (1996)",
             "Transformers (2007)",
             "Tropic Thunder (2008)",
             "Four Christmases (2008)",
@@ -11011,6 +11125,11 @@ var actorMap = {
         "movies": [
             "Jumanji (1995)",
             "The Tailor of Panama (2001)"
+        ]
+    },
+    "Jonathan Lipnicki": {
+        "movies": [
+            "Jerry Maguire (1996)"
         ]
     },
     "Jonathan Pryce": {
@@ -11405,6 +11524,7 @@ var actorMap = {
         "movies": [
             "The Fugitive (1993)",
             "The Lost World: Jurassic Park (1997)",
+            "Magnolia (1999)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -12065,6 +12185,7 @@ var actorMap = {
     },
     "Kelly Preston": {
         "movies": [
+            "Jerry Maguire (1996)",
             "View from the Top (2003)",
             "Sky High (2005)"
         ]
@@ -12530,6 +12651,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mission: Impossible (1996)",
             "The Other Boleyn Girl (2008)"
         ]
     },
@@ -12882,6 +13004,11 @@ var actorMap = {
             "The Hobbit: The Battle of the Five Armies (2014)",
             "The Book of Henry (2017)",
             "Captain Marvel (2019)"
+        ]
+    },
+    "Leelee Sobieski": {
+        "movies": [
+            "Eyes Wide Shut (1999)"
         ]
     },
     "Leigh Whannell": {
@@ -13391,6 +13518,7 @@ var actorMap = {
     },
     "Lucy Liu": {
         "movies": [
+            "Jerry Maguire (1996)",
             "Chicago (2002)",
             "Kung Fu Panda (2008)",
             "Kung Fu Panda 2 (2011)",
@@ -13415,6 +13543,11 @@ var actorMap = {
         "movies": [
             "Power Rangers (2017)",
             "Aquaman (2018)"
+        ]
+    },
+    "Luis Guzman": {
+        "movies": [
+            "Magnolia (1999)"
         ]
     },
     "Luis Guzm\u00e1n": {
@@ -13785,6 +13918,7 @@ var actorMap = {
     "Margo Martindale": {
         "movies": [
             "Days of Thunder (1990)",
+            "The Firm (1993)",
             "Ghosts of Mississippi (1996)",
             "August: Osage County (2013)",
             "Mother's Day (2016)",
@@ -14560,6 +14694,7 @@ var actorMap = {
         ],
         "movies": [
             "Ghostbusters II (1989)",
+            "Minority Report (2002)",
             "Star Wars: The Force Awakens (2015)"
         ]
     },
@@ -14672,6 +14807,11 @@ var actorMap = {
             "Sweet Home Alabama (2002)",
             "The Perks of Being a Wallflower (2012)",
             "Don't Look Up (2021)"
+        ]
+    },
+    "Melinda Dillon": {
+        "movies": [
+            "Magnolia (1999)"
         ]
     },
     "Melissa Benoist": {
@@ -14924,6 +15064,11 @@ var actorMap = {
     "Michael Bolton": {
         "movies": [
             "Teen Titans Go! To the Movies (2018)"
+        ]
+    },
+    "Michael Bowen": {
+        "movies": [
+            "Magnolia (1999)"
         ]
     },
     "Michael C. Hall": {
@@ -15209,6 +15354,7 @@ var actorMap = {
     "Michael Murphy": {
         "movies": [
             "Batman Returns (1992)",
+            "Magnolia (1999)",
             "X-Men: The Last Stand (2006)"
         ]
     },
@@ -15427,6 +15573,11 @@ var actorMap = {
         "movies": [
             "Traffic (2000)",
             "Iron Man 3 (2013)"
+        ]
+    },
+    "Mike Binder": {
+        "movies": [
+            "Minority Report (2002)"
         ]
     },
     "Mike Birbiglia": {
@@ -15907,6 +16058,7 @@ var actorMap = {
     "Neal McDonough": {
         "movies": [
             "Star Trek: First Contact (1996)",
+            "Minority Report (2002)",
             "Timeline (2003)",
             "Captain America: The First Avenger (2011)",
             "Red 2 (2013)"
@@ -16091,6 +16243,7 @@ var actorMap = {
             "Days of Thunder (1990)",
             "Far and Away (1992)",
             "Batman Forever (1995)",
+            "Eyes Wide Shut (1999)",
             "Nine (2009)",
             "Aquaman (2018)"
         ]
@@ -16622,6 +16775,7 @@ var actorMap = {
     },
     "Patton Oswalt": {
         "movies": [
+            "Magnolia (1999)",
             "Blade: Trinity (2004)",
             "The Circle (2017)",
             "Teen Titans Go! To the Movies (2018)",
@@ -16800,6 +16954,16 @@ var actorMap = {
     "Paul Simon": {
         "movies": [
             "Annie Hall (1977)"
+        ]
+    },
+    "Paul Sorvino": {
+        "movies": [
+            "The Firm (1993)"
+        ]
+    },
+    "Paul Thomas Anderson": {
+        "movies": [
+            "Minority Report (2002)"
         ]
     },
     "Paul Walker": {
@@ -17145,6 +17309,7 @@ var actorMap = {
     "Peter Stormare": {
         "movies": [
             "The Lost World: Jurassic Park (1997)",
+            "Minority Report (2002)",
             "Constantine (2005)",
             "Strange Magic (2015)"
         ]
@@ -17184,6 +17349,7 @@ var actorMap = {
     "Philip Baker Hall": {
         "movies": [
             "Ghostbusters II (1989)",
+            "Magnolia (1999)",
             "Zodiac (2007)"
         ]
     },
@@ -17214,6 +17380,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Magnolia (1999)",
             "Almost Famous (2000)",
             "Doubt (2008)"
         ]
@@ -17662,6 +17829,7 @@ var actorMap = {
         ],
         "movies": [
             "Boyz n the Hood (1991)",
+            "Jerry Maguire (1996)",
             "Ray (2004)"
         ]
     },
@@ -17713,6 +17881,7 @@ var actorMap = {
         ],
         "movies": [
             "Dazed and Confused (1993)",
+            "Jerry Maguire (1996)",
             "Chicago (2002)",
             "Monsters vs. Aliens (2009)"
         ]
@@ -17935,6 +18104,7 @@ var actorMap = {
     },
     "Richard Roxburgh": {
         "movies": [
+            "Mission: Impossible 2 (2000)",
             "The League of Extraordinary Gentlemen (2003)",
             "Van Helsing (2004)"
         ]
@@ -18934,6 +19104,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Minority Report (2002)",
             "John Carter (2012)",
             "Fantastic Beasts and Where to Find Them (2016)"
         ]
@@ -20059,6 +20230,11 @@ var actorMap = {
             "Tropic Thunder (2008)"
         ]
     },
+    "Steve Harris": {
+        "movies": [
+            "Minority Report (2002)"
+        ]
+    },
     "Steve Harvey": {
         "movies": [
             "Think Like a Man (2012)"
@@ -20212,6 +20388,7 @@ var actorMap = {
     },
     "Sydney Pollack": {
         "movies": [
+            "Eyes Wide Shut (1999)",
             "Michael Clayton (2007)"
         ]
     },
@@ -20489,6 +20666,7 @@ var actorMap = {
     "Thandiwe Newton": {
         "movies": [
             "Interview with the Vampire (1994)",
+            "Mission: Impossible 2 (2000)",
             "Crash (2005)",
             "For Colored Girls (2010)",
             "Solo: A Star Wars Story (2018)"
@@ -20524,6 +20702,7 @@ var actorMap = {
     "Thomas Jane": {
         "movies": [
             "The Crow: City of Angels (1996)",
+            "Magnolia (1999)",
             "The Punisher (2004)",
             "Scott Pilgrim vs. the World (2010)"
         ]
@@ -20619,6 +20798,7 @@ var actorMap = {
     },
     "Tim Blake Nelson": {
         "movies": [
+            "Minority Report (2002)",
             "The Incredible Hulk (2008)",
             "Fantastic Four (2015)",
             "Nightmare Alley (2021)"
@@ -20774,7 +20954,8 @@ var actorMap = {
     },
     "Tobin Bell": {
         "movies": [
-            "Mississippi Burning (1988)"
+            "Mississippi Burning (1988)",
+            "The Firm (1993)"
         ]
     },
     "Toby Jones": {
@@ -20800,6 +20981,11 @@ var actorMap = {
     "Toby Leonard Moore": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Todd Field": {
+        "movies": [
+            "Eyes Wide Shut (1999)"
         ]
     },
     "Todd Phillips": {
@@ -20850,8 +21036,15 @@ var actorMap = {
             "Days of Thunder (1990)",
             "Far and Away (1992)",
             "A Few Good Men (1992)",
+            "The Firm (1993)",
             "Interview with the Vampire (1994)",
+            "Mission: Impossible (1996)",
+            "Jerry Maguire (1996)",
+            "Eyes Wide Shut (1999)",
+            "Magnolia (1999)",
+            "Mission: Impossible 2 (2000)",
             "Vanilla Sky (2001)",
+            "Minority Report (2002)",
             "Tropic Thunder (2008)",
             "Knight and Day (2010)",
             "Oblivion (2013)"
@@ -21444,6 +21637,7 @@ var actorMap = {
         ],
         "movies": [
             "Howards End (1992)",
+            "Mission: Impossible (1996)",
             "Girl, Interrupted (1999)",
             "Atonement (2007)",
             "Foxcatcher (2014)"
@@ -21583,11 +21777,14 @@ var actorMap = {
     },
     "Vinessa Shaw": {
         "movies": [
-            "Hocus Pocus (1993)"
+            "Hocus Pocus (1993)",
+            "Eyes Wide Shut (1999)"
         ]
     },
     "Ving Rhames": {
         "movies": [
+            "Mission: Impossible (1996)",
+            "Mission: Impossible 2 (2000)",
             "Surrogates (2009)",
             "Guardians of the Galaxy Vol. 2 (2017)"
         ]
@@ -21825,6 +22022,11 @@ var actorMap = {
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
+    "Wilford Brimley": {
+        "movies": [
+            "The Firm (1993)"
+        ]
+    },
     "Will Arnett": {
         "movies": [
             "RV (2006)",
@@ -21969,6 +22171,7 @@ var actorMap = {
         "movies": [
             "Ghosts of Mississippi (1996)",
             "Mystery Men (1999)",
+            "Magnolia (1999)",
             "Cellular (2004)",
             "Sahara (2005)",
             "The Tale of Despereaux (2008)"
@@ -22011,6 +22214,8 @@ var actorMap = {
     },
     "William Mapother": {
         "movies": [
+            "Mission: Impossible 2 (2000)",
+            "Minority Report (2002)",
             "Blackhat (2015)"
         ]
     },
