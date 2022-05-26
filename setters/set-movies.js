@@ -34824,6 +34824,7 @@ var movieMap = {
             "Danny DeVito",
             "Doug Jones",
             "Michael Gough",
+            "Michael Keaton",
             "Michael Murphy",
             "Michelle Pfeiffer",
             "Pat Hingle",
@@ -43378,6 +43379,19 @@ var movieMap = {
             "1990s",
             "Black Cinema",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Angela Bassett",
+            "Dennis Haysbert",
+            "Donald Faison",
+            "Giancarlo Esposito",
+            "Gregory Hines",
+            "Kelly Preston",
+            "Lela Rochon",
+            "Loretta Devine",
+            "Mykelti Williamson",
+            "Wesley Snipes",
+            "Whitney Houston"
         ]
     },
     "Four Rooms (1995)": {
@@ -90558,6 +90572,20 @@ var movieMap = {
             "Cornetto Trio",
             "Spy",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Anil Kapoor",
+            "Jeremy Renner",
+            "Josh Holloway",
+            "L\u00e9a Seydoux",
+            "Michael Nyqvist",
+            "Michelle Monaghan",
+            "Paula Patton",
+            "Simon Pegg",
+            "Tom Cruise",
+            "Tom Wilkinson",
+            "Ving Rhames",
+            "Vladimir Mashkov"
         ]
     },
     "Sherlock Holmes: A Game of Shadows (2011)": {
@@ -91952,6 +91980,22 @@ var movieMap = {
             "2010s",
             "Musicals",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Bryan Cranston",
+            "Catherine Zeta-Jones",
+            "Diego Boneta",
+            "Eli Roth",
+            "Julianne Hough",
+            "Kevin Nash",
+            "Malin \u00c5kerman",
+            "Mary J. Blige",
+            "Paul Giamatti",
+            "Russell Brand",
+            "T.J. Miller",
+            "Tom Cruise",
+            "Will Forte"
         ]
     },
     "That's My Boy (2012)": {
@@ -93659,6 +93703,16 @@ var movieMap = {
             "2010s",
             "Action/Adventure",
             "Tom Cruise"
+        ],
+        "cast": [
+            "David Oyelowo",
+            "Jai Courtney",
+            "Josh Helman",
+            "Richard Jenkins",
+            "Robert Duvall",
+            "Rosamund Pike",
+            "Tom Cruise",
+            "Werner Herzog"
         ]
     },
     "The Impossible (2012)": {
@@ -98189,6 +98243,7 @@ var movieMap = {
             "James Marsden",
             "James McAvoy",
             "Jennifer Lawrence",
+            "Josh Helman",
             "Kelsey Grammer",
             "Lucas Till",
             "Michael Fassbender",
@@ -98262,6 +98317,13 @@ var movieMap = {
             "2010s",
             "Emily Blunt",
             "Fantasy/Sci-Fi",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Bill Paxton",
+            "Brendan Gleeson",
+            "Emily Blunt",
+            "Noah Taylor",
             "Tom Cruise"
         ]
     },
@@ -99617,6 +99679,19 @@ var movieMap = {
             "Dramas",
             "Emmas",
             "Michael Keaton"
+        ],
+        "cast": [
+            "Amy Ryan",
+            "Andrea Riseborough",
+            "Bill Camp",
+            "Edward Norton",
+            "Emma Stone",
+            "Lindsay Duncan",
+            "Merritt Wever",
+            "Michael Keaton",
+            "Naomi Watts",
+            "Paula Pell",
+            "Zach Galifianakis"
         ]
     },
     "Fury (2014)": {
@@ -102245,6 +102320,16 @@ var movieMap = {
             "Cornetto Trio",
             "Spy",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Jeremy Renner",
+            "Rebecca Ferguson",
+            "Sean Harris",
+            "Simon Pegg",
+            "Tom Cruise",
+            "Tom Hollander",
+            "Ving Rhames"
         ]
     },
     "The End of the Tour (2015)": {
@@ -105378,6 +105463,7 @@ var movieMap = {
             "Hugh Jackman",
             "James McAvoy",
             "Jennifer Lawrence",
+            "Josh Helman",
             "Kodi Smit-McPhee",
             "Lana Condor",
             "Lucas Till",
@@ -106882,6 +106968,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Aldis Hodge",
+            "Cobie Smulders",
+            "Danika Yarosh",
             "Tom Cruise"
         ]
     },
@@ -109249,6 +109341,15 @@ var movieMap = {
             "Monster",
             "Remakes & Reboots",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Annabelle Wallis",
+            "Courtney B. Vance",
+            "Jake Johnson",
+            "Marwan Kenzari",
+            "Russell Crowe",
+            "Sofia Boutella",
+            "Tom Cruise"
         ]
     },
     "47 Meters Down (2017)": {
@@ -110419,6 +110520,14 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Tom Cruise"
+        ],
+        "cast": [
+            "Caleb Landry Jones",
+            "Domhnall Gleeson",
+            "Jayma Mays",
+            "Jesse Plemons",
+            "Sarah Wright",
             "Tom Cruise"
         ]
     },
@@ -113985,6 +114094,20 @@ var movieMap = {
             "Cornetto Trio",
             "Spy",
             "Tom Cruise"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Angela Bassett",
+            "Henry Cavill",
+            "Michelle Monaghan",
+            "Rebecca Ferguson",
+            "Sean Harris",
+            "Simon Pegg",
+            "Tom Cruise",
+            "Vanessa Kirby",
+            "Ving Rhames",
+            "Wes Bentley",
+            "Wolf Blitzer"
         ]
     },
     "Teen Titans Go! To the Movies (2018)": {
@@ -124771,6 +124894,14 @@ var movieMap = {
             "2020s",
             "Disney",
             "Emmas"
+        ],
+        "cast": [
+            "Emma Stone",
+            "Emma Thompson",
+            "Joel Fry",
+            "Kirby Howell-Baptiste",
+            "Mark Strong",
+            "Paul Walter Hauser"
         ]
     },
     "Plan B (2021)": {

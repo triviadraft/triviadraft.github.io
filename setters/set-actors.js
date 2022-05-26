@@ -463,6 +463,7 @@ var actorMap = {
     },
     "Aldis Hodge": {
         "movies": [
+            "Jack Reacher: Never Go Back (2016)",
             "Hidden Figures (2016)",
             "What Men Want (2019)"
         ]
@@ -478,8 +479,11 @@ var actorMap = {
             "Ghosts of Mississippi (1996)",
             "The Aviator (2004)",
             "Elizabethtown (2005)",
+            "Rock of Ages (2012)",
             "Rise of the Guardians (2012)",
-            "Blue Jasmine (2013)"
+            "Blue Jasmine (2013)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Alec Guinness": {
@@ -810,7 +814,8 @@ var actorMap = {
         ],
         "movies": [
             "War of the Worlds (2005)",
-            "Changeling (2008)"
+            "Changeling (2008)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)"
         ]
     },
     "Amy Schumer": {
@@ -881,7 +886,8 @@ var actorMap = {
     },
     "Andrea Riseborough": {
         "movies": [
-            "Oblivion (2013)"
+            "Oblivion (2013)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)"
         ]
     },
     "Andrew Bryniarski": {
@@ -1003,10 +1009,12 @@ var actorMap = {
         ],
         "movies": [
             "Boyz n the Hood (1991)",
+            "Waiting to Exhale (1995)",
             "Mr. & Mrs. Smith (2005)",
             "Green Lantern (2011)",
             "This Means War (2012)",
             "Black Panther (2018)",
+            "Mission: Impossible \u2013 Fallout (2018)",
             "Bumblebee (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -1080,6 +1088,11 @@ var actorMap = {
         "movies": [
             "For Colored Girls (2010)",
             "Ralph Breaks the Internet (2018)"
+        ]
+    },
+    "Anil Kapoor": {
+        "movies": [
+            "Mission: Impossible \u2013 Ghost Protocol (2011)"
         ]
     },
     "Anjelica Huston": {
@@ -1195,7 +1208,8 @@ var actorMap = {
     "Annabelle Wallis": {
         "movies": [
             "X-Men: First Class (2011)",
-            "The Brothers Grimsby (2016)"
+            "The Brothers Grimsby (2016)",
+            "The Mummy (2017)"
         ]
     },
     "Annabeth Gish": {
@@ -2051,6 +2065,7 @@ var actorMap = {
     },
     "Bill Camp": {
         "movies": [
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "Midnight Special (2016)",
             "The Kitchen (2019)",
             "Joker (2019)"
@@ -2137,6 +2152,7 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "2 Guns (2013)",
+            "Edge of Tomorrow (2014)",
             "The Circle (2017)"
         ]
     },
@@ -2568,6 +2584,7 @@ var actorMap = {
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Edge of Tomorrow (2014)",
             "In the Heart of the Sea (2015)"
         ]
     },
@@ -2850,6 +2867,7 @@ var actorMap = {
         "movies": [
             "Saving Private Ryan (1998)",
             "John Carter (2012)",
+            "Rock of Ages (2012)",
             "Kung Fu Panda 3 (2016)",
             "Power Rangers (2017)"
         ]
@@ -2987,6 +3005,7 @@ var actorMap = {
     "Caleb Landry Jones": {
         "movies": [
             "X-Men: First Class (2011)",
+            "American Made (2017)",
             "The Florida Project (2017)"
         ]
     },
@@ -3295,6 +3314,7 @@ var actorMap = {
             "The Terminal (2004)",
             "Ocean's Twelve (2004)",
             "The Legend of Zorro (2005)",
+            "Rock of Ages (2012)",
             "Red 2 (2013)"
         ]
     },
@@ -4119,6 +4139,7 @@ var actorMap = {
             "The Lego Movie (2014)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)",
+            "Jack Reacher: Never Go Back (2016)",
             "Avengers: Infinity War (2018)",
             "The Lego Movie 2: The Second Part (2019)",
             "Avengers: Endgame (2019)",
@@ -4291,6 +4312,7 @@ var actorMap = {
     },
     "Courtney B. Vance": {
         "movies": [
+            "The Mummy (2017)",
             "Project Power (2020)"
         ]
     },
@@ -4640,6 +4662,11 @@ var actorMap = {
             "Sky High (2005)"
         ]
     },
+    "Danika Yarosh": {
+        "movies": [
+            "Jack Reacher: Never Go Back (2016)"
+        ]
+    },
     "Danny Aiello": {
         "suppNoms": [
             {
@@ -4909,6 +4936,7 @@ var actorMap = {
     "David Oyelowo": {
         "movies": [
             "The Help (2011)",
+            "Jack Reacher (2012)",
             "A Wrinkle in Time (2018)"
         ]
     },
@@ -5143,6 +5171,7 @@ var actorMap = {
     },
     "Dennis Haysbert": {
         "movies": [
+            "Waiting to Exhale (1995)",
             "Kung Fu Panda 2 (2011)",
             "Wreck-It Ralph (2012)",
             "Think Like a Man Too (2014)",
@@ -5386,6 +5415,11 @@ var actorMap = {
             "Girls Trip (2017)"
         ]
     },
+    "Diego Boneta": {
+        "movies": [
+            "Rock of Ages (2012)"
+        ]
+    },
     "Diego Luna": {
         "movies": [
             "The Terminal (2004)",
@@ -5442,6 +5476,7 @@ var actorMap = {
             "Ex Machina (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Mother! (2017)",
+            "American Made (2017)",
             "Star Wars: The Last Jedi (2017)",
             "The Kitchen (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -5563,6 +5598,7 @@ var actorMap = {
     },
     "Donald Faison": {
         "movies": [
+            "Waiting to Exhale (1995)",
             "Remember the Titans (2000)",
             "Kick-Ass 2 (2013)"
         ]
@@ -5933,7 +5969,8 @@ var actorMap = {
         "movies": [
             "Primal Fear (1996)",
             "Kingdom of Heaven (2005)",
-            "The Incredible Hulk (2008)"
+            "The Incredible Hulk (2008)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)"
         ]
     },
     "Edwin Hodge": {
@@ -5966,6 +6003,11 @@ var actorMap = {
         "movies": [
             "Van Helsing (2004)",
             "Wonder Woman (2017)"
+        ]
+    },
+    "Eli Roth": {
+        "movies": [
+            "Rock of Ages (2012)"
         ]
     },
     "Eli Wallach": {
@@ -6264,6 +6306,7 @@ var actorMap = {
     },
     "Emily Blunt": {
         "movies": [
+            "Edge of Tomorrow (2014)",
             "Into the Woods (2014)",
             "The Huntsman: Winter's War (2016)",
             "A Quiet Place (2018)",
@@ -6338,8 +6381,10 @@ var actorMap = {
             "The Amazing Spider-Man (2012)",
             "Movie 43 (2013)",
             "The Amazing Spider-Man 2 (2014)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "La La Land (2016)",
-            "Zombieland: Double Tap (2019)"
+            "Zombieland: Double Tap (2019)",
+            "Cruella (2021)"
         ]
     },
     "Emma Thompson": {
@@ -6376,7 +6421,8 @@ var actorMap = {
             "Missing Link (2019)",
             "Men in Black: International (2019)",
             "Last Christmas (2019)",
-            "Dolittle (2020)"
+            "Dolittle (2020)",
+            "Cruella (2021)"
         ]
     },
     "Emma Watson": {
@@ -7460,6 +7506,7 @@ var actorMap = {
     },
     "Giancarlo Esposito": {
         "movies": [
+            "Waiting to Exhale (1995)",
             "Last Holiday (2006)",
             "The Jungle Book (2016)"
         ]
@@ -7656,6 +7703,11 @@ var actorMap = {
             "Mystery Men (1999)",
             "Robots (2005)",
             "Movie 43 (2013)"
+        ]
+    },
+    "Gregory Hines": {
+        "movies": [
+            "Waiting to Exhale (1995)"
         ]
     },
     "Greta Gerwig": {
@@ -8094,6 +8146,7 @@ var actorMap = {
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
+            "Mission: Impossible \u2013 Fallout (2018)",
             "Zack Snyder's Justice League (2021)"
         ]
     },
@@ -8916,6 +8969,7 @@ var actorMap = {
     },
     "Jai Courtney": {
         "movies": [
+            "Jack Reacher (2012)",
             "I, Frankenstein (2014)",
             "Suicide Squad (2016)",
             "The Suicide Squad (2021)"
@@ -8959,6 +9013,7 @@ var actorMap = {
     "Jake Johnson": {
         "movies": [
             "No Strings Attached (2011)",
+            "The Mummy (2017)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
@@ -9676,6 +9731,11 @@ var actorMap = {
             }
         ]
     },
+    "Jayma Mays": {
+        "movies": [
+            "American Made (2017)"
+        ]
+    },
     "Jean Dujardin": {
         "leadNoms": [
             {
@@ -10036,8 +10096,10 @@ var actorMap = {
         ],
         "movies": [
             "Thor (2011)",
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "The Avengers (2012)",
             "Avengers: Age of Ultron (2015)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Captain America: Civil War (2016)",
             "Avengers: Endgame (2019)",
             "Black Widow (2021)"
@@ -10114,6 +10176,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "American Made (2017)",
             "The Power of the Dog (2021)"
         ]
     },
@@ -10620,6 +10683,11 @@ var actorMap = {
             "Smokin' Aces (2007)",
             "Zero Dark Thirty (2012)",
             "Midnight Special (2016)"
+        ]
+    },
+    "Joel Fry": {
+        "movies": [
+            "Cruella (2021)"
         ]
     },
     "Joel Gretsch": {
@@ -11370,6 +11438,18 @@ var actorMap = {
             "30 Days of Night (2007)"
         ]
     },
+    "Josh Helman": {
+        "movies": [
+            "Jack Reacher (2012)",
+            "X-Men: Days of Future Past (2014)",
+            "X-Men: Apocalypse (2016)"
+        ]
+    },
+    "Josh Holloway": {
+        "movies": [
+            "Mission: Impossible \u2013 Ghost Protocol (2011)"
+        ]
+    },
     "Josh Horowitz": {
         "movies": [
             "Zombieland: Double Tap (2019)"
@@ -11601,6 +11681,11 @@ var actorMap = {
             "Fantastic Four (2005)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Red (2010)"
+        ]
+    },
+    "Julianne Hough": {
+        "movies": [
+            "Rock of Ages (2012)"
         ]
     },
     "Julianne Moore": {
@@ -12302,6 +12387,7 @@ var actorMap = {
     },
     "Kelly Preston": {
         "movies": [
+            "Waiting to Exhale (1995)",
             "Jerry Maguire (1996)",
             "View from the Top (2003)",
             "Sky High (2005)"
@@ -12538,6 +12624,7 @@ var actorMap = {
         "movies": [
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "The Punisher (2004)",
+            "Rock of Ages (2012)",
             "John Wick (2014)"
         ]
     },
@@ -12638,6 +12725,11 @@ var actorMap = {
     "Kimiko Glenn": {
         "movies": [
             "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
+    "Kirby Howell-Baptiste": {
+        "movies": [
+            "Cruella (2021)"
         ]
     },
     "Kirk Douglas": {
@@ -13140,6 +13232,11 @@ var actorMap = {
             "Aquaman (2018)"
         ]
     },
+    "Lela Rochon": {
+        "movies": [
+            "Waiting to Exhale (1995)"
+        ]
+    },
     "Leland Orser": {
         "movies": [
             "Saving Private Ryan (1998)"
@@ -13475,7 +13572,8 @@ var actorMap = {
     "Lindsay Duncan": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
-            "Alice in Wonderland (2010)"
+            "Alice in Wonderland (2010)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)"
         ]
     },
     "Lindsay Lohan": {
@@ -13553,6 +13651,7 @@ var actorMap = {
     },
     "Loretta Devine": {
         "movies": [
+            "Waiting to Exhale (1995)",
             "Crash (2005)",
             "For Colored Girls (2010)"
         ]
@@ -13776,6 +13875,11 @@ var actorMap = {
             "Acrimony (2018)"
         ]
     },
+    "L\u00e9a Seydoux": {
+        "movies": [
+            "Mission: Impossible \u2013 Ghost Protocol (2011)"
+        ]
+    },
     "M. Emmet Walsh": {
         "movies": [
             "Knives Out (2019)"
@@ -13970,7 +14074,8 @@ var actorMap = {
     "Malin \u00c5kerman": {
         "movies": [
             "Watchmen (2009)",
-            "Couples Retreat (2009)"
+            "Couples Retreat (2009)",
+            "Rock of Ages (2012)"
         ]
     },
     "Mamoudou Athie": {
@@ -14316,7 +14421,8 @@ var actorMap = {
             "The Brothers Grimsby (2016)",
             "Kingsman: The Golden Circle (2017)",
             "Shazam! (2019)",
-            "1917 (2019)"
+            "1917 (2019)",
+            "Cruella (2021)"
         ]
     },
     "Mark Wahlberg": {
@@ -14517,6 +14623,7 @@ var actorMap = {
     },
     "Marwan Kenzari": {
         "movies": [
+            "The Mummy (2017)",
             "Murder on the Orient Express (2017)",
             "The Old Guard (2020)"
         ]
@@ -14553,6 +14660,9 @@ var actorMap = {
                 "movie": "Mudbound",
                 "year": "2017"
             }
+        ],
+        "movies": [
+            "Rock of Ages (2012)"
         ]
     },
     "Mary Kay Place": {
@@ -15038,6 +15148,7 @@ var actorMap = {
     "Merritt Wever": {
         "movies": [
             "Michael Clayton (2007)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "Marriage Story (2019)"
         ]
     },
@@ -15438,7 +15549,9 @@ var actorMap = {
         ],
         "movies": [
             "Batman (1989)",
+            "Batman Returns (1992)",
             "RoboCop (2014)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "Spider-Man: Homecoming (2017)"
         ]
     },
@@ -15493,6 +15606,7 @@ var actorMap = {
     },
     "Michael Nyqvist": {
         "movies": [
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "John Wick (2014)"
         ]
     },
@@ -15607,7 +15721,9 @@ var actorMap = {
         "movies": [
             "Mr. & Mrs. Smith (2005)",
             "Mission: Impossible III (2006)",
-            "Due Date (2010)"
+            "Due Date (2010)",
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Michelle Pfeiffer": {
@@ -16028,6 +16144,7 @@ var actorMap = {
     "Mykelti Williamson": {
         "movies": [
             "Forrest Gump (1994)",
+            "Waiting to Exhale (1995)",
             "Fences (2016)"
         ]
     },
@@ -16076,6 +16193,7 @@ var actorMap = {
             "King Kong (2005)",
             "The Impossible (2012)",
             "Movie 43 (2013)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "The Book of Henry (2017)"
         ]
     },
@@ -16472,7 +16590,8 @@ var actorMap = {
     "Noah Taylor": {
         "movies": [
             "Almost Famous (2000)",
-            "Vanilla Sky (2001)"
+            "Vanilla Sky (2001)",
+            "Edge of Tomorrow (2014)"
         ]
     },
     "Noel Fisher": {
@@ -16987,6 +17106,7 @@ var actorMap = {
         "movies": [
             "Saving Private Ryan (1998)",
             "Robots (2005)",
+            "Rock of Ages (2012)",
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
@@ -17128,6 +17248,11 @@ var actorMap = {
             "Timeline (2003)"
         ]
     },
+    "Paul Walter Hauser": {
+        "movies": [
+            "Cruella (2021)"
+        ]
+    },
     "Paul Wernick": {
         "movies": [
             "Deadpool 2 (2018)"
@@ -17156,12 +17281,14 @@ var actorMap = {
     },
     "Paula Patton": {
         "movies": [
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "2 Guns (2013)",
             "About Last Night (2014)"
         ]
     },
     "Paula Pell": {
         "movies": [
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "Wine Country (2019)"
         ]
     },
@@ -17912,7 +18039,9 @@ var actorMap = {
     "Rebecca Ferguson": {
         "movies": [
             "Hercules (2014)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
             "The Greatest Showman (2017)",
+            "Mission: Impossible \u2013 Fallout (2018)",
             "The Kid Who Would Be King (2019)",
             "Men in Black: International (2019)"
         ]
@@ -18233,6 +18362,7 @@ var actorMap = {
             "Rumor Has It (2005)",
             "The Tale of Despereaux (2008)",
             "The Cabin in the Woods (2012)",
+            "Jack Reacher (2012)",
             "Bone Tomahawk (2015)",
             "Nightmare Alley (2021)"
         ]
@@ -18521,6 +18651,7 @@ var actorMap = {
             "Invasion of the Body Snatchers (1978)",
             "Days of Thunder (1990)",
             "Four Christmases (2008)",
+            "Jack Reacher (2012)",
             "Widows (2018)"
         ]
     },
@@ -18799,7 +18930,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Surrogates (2009)"
+            "Surrogates (2009)",
+            "Jack Reacher (2012)"
         ]
     },
     "Rosario Dawson": {
@@ -18954,6 +19086,11 @@ var actorMap = {
             "West Side Story (1961)"
         ]
     },
+    "Russell Brand": {
+        "movies": [
+            "Rock of Ages (2012)"
+        ]
+    },
     "Russell Crowe": {
         "leadNoms": [
             {
@@ -18972,7 +19109,8 @@ var actorMap = {
         "movies": [
             "Les Mis\u00e9rables (2012)",
             "Man of Steel (2013)",
-            "Noah (2014)"
+            "Noah (2014)",
+            "The Mummy (2017)"
         ]
     },
     "Russell Hornsby": {
@@ -19439,6 +19577,11 @@ var actorMap = {
             "Incredibles 2 (2018)"
         ]
     },
+    "Sarah Wright": {
+        "movies": [
+            "American Made (2017)"
+        ]
+    },
     "Sasha Lane": {
         "movies": [
             "Hellboy (2019)"
@@ -19578,6 +19721,12 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Sean Harris": {
+        "movies": [
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Sean Hayes": {
@@ -19963,11 +20112,14 @@ var actorMap = {
             "Mission: Impossible III (2006)",
             "Star Trek (2009)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "The Adventures of Tintin (2011)",
             "Star Trek Into Darkness (2013)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Star Trek Beyond (2016)",
-            "Ready Player One (2018)"
+            "Ready Player One (2018)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Simu Liu": {
@@ -20054,6 +20206,7 @@ var actorMap = {
         "movies": [
             "Kingsman: The Secret Service (2015)",
             "Star Trek Beyond (2016)",
+            "The Mummy (2017)",
             "Atomic Blonde (2017)"
         ]
     },
@@ -20611,6 +20764,7 @@ var actorMap = {
     },
     "T.J. Miller": {
         "movies": [
+            "Rock of Ages (2012)",
             "Transformers: Age of Extinction (2014)",
             "Big Hero 6 (2014)",
             "Deadpool (2016)",
@@ -21250,7 +21404,16 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Valkyrie (2008)",
             "Knight and Day (2010)",
-            "Oblivion (2013)"
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
+            "Rock of Ages (2012)",
+            "Jack Reacher (2012)",
+            "Oblivion (2013)",
+            "Edge of Tomorrow (2014)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
+            "Jack Reacher: Never Go Back (2016)",
+            "The Mummy (2017)",
+            "American Made (2017)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Tom Everett Scott": {
@@ -21364,6 +21527,7 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Valkyrie (2008)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Mowgli: Legend of the Jungle (2018)",
             "The King's Man (2021)"
         ]
@@ -21433,7 +21597,8 @@ var actorMap = {
             "Batman Begins (2005)",
             "Michael Clayton (2007)",
             "Valkyrie (2008)",
-            "The Green Hornet (2011)"
+            "The Green Hornet (2011)",
+            "Mission: Impossible \u2013 Ghost Protocol (2011)"
         ]
     },
     "Tommy Chong": {
@@ -21815,6 +21980,9 @@ var actorMap = {
                 "movie": "Pieces of a Woman",
                 "year": "2020"
             }
+        ],
+        "movies": [
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Vanessa Lee Chester": {
@@ -22006,7 +22174,10 @@ var actorMap = {
             "Mission: Impossible 2 (2000)",
             "Mission: Impossible III (2006)",
             "Surrogates (2009)",
-            "Guardians of the Galaxy Vol. 2 (2017)"
+            "Mission: Impossible \u2013 Ghost Protocol (2011)",
+            "Mission: Impossible \u2013 Rogue Nation (2015)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Vinnie Jones": {
@@ -22082,6 +22253,11 @@ var actorMap = {
     "Vladimir Kulich": {
         "movies": [
             "Smokin' Aces (2007)"
+        ]
+    },
+    "Vladimir Mashkov": {
+        "movies": [
+            "Mission: Impossible \u2013 Ghost Protocol (2011)"
         ]
     },
     "Vondie Curtis Hall": {
@@ -22190,10 +22366,16 @@ var actorMap = {
             "Think Like a Man Too (2014)"
         ]
     },
+    "Werner Herzog": {
+        "movies": [
+            "Jack Reacher (2012)"
+        ]
+    },
     "Wes Bentley": {
         "movies": [
             "Ghost Rider (2007)",
-            "Jonah Hex (2010)"
+            "Jonah Hex (2010)",
+            "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
     "Wes Studi": {
@@ -22204,9 +22386,15 @@ var actorMap = {
     "Wesley Snipes": {
         "movies": [
             "Jungle Fever (1991)",
+            "Waiting to Exhale (1995)",
             "Blade (1998)",
             "Blade II (2002)",
             "Blade: Trinity (2004)"
+        ]
+    },
+    "Whitney Houston": {
+        "movies": [
+            "Waiting to Exhale (1995)"
         ]
     },
     "Whoopi Goldberg": {
@@ -22277,6 +22465,7 @@ var actorMap = {
     },
     "Will Forte": {
         "movies": [
+            "Rock of Ages (2012)",
             "The Lego Movie (2014)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
@@ -22516,6 +22705,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Wolf Blitzer": {
+        "movies": [
+            "Mission: Impossible \u2013 Fallout (2018)"
+        ]
+    },
     "Wolfgang Bodison": {
         "movies": [
             "A Few Good Men (1992)"
@@ -22655,6 +22849,7 @@ var actorMap = {
         "movies": [
             "G-Force (2009)",
             "Due Date (2010)",
+            "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "The Lego Batman Movie (2017)",
             "A Wrinkle in Time (2018)",
             "Missing Link (2019)"
