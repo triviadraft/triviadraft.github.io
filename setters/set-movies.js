@@ -2823,6 +2823,16 @@ var movieMap = {
             "Classics",
             "Comedies",
             "Frank Capra"
+        ],
+        "cast": [
+            "Cary Grant",
+            "Jack Carson",
+            "Jean Adair",
+            "John Alexander",
+            "Josephine Hull",
+            "Peter Lorre",
+            "Priscilla Lane",
+            "Raymond Massey"
         ]
     },
     "To Have and Have Not (1944)": {
@@ -9676,6 +9686,14 @@ var movieMap = {
             "Classics",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Charlton Heston",
+            "James Whitmore",
+            "Kim Hunter",
+            "Linda Harrison",
+            "Maurice Evans",
+            "Roddy McDowall"
         ]
     },
     "The Producers (1968)": {
@@ -10726,6 +10744,15 @@ var movieMap = {
             "1970s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Charlton Heston",
+            "James Franciscus",
+            "Kim Hunter",
+            "Linda Harrison",
+            "Maurice Evans",
+            "Natalie Trundy",
+            "Paul Richards"
         ]
     },
     "Taste the Blood of Dracula (1970)": {
@@ -11113,6 +11140,14 @@ var movieMap = {
             "1970s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Kim Hunter",
+            "M. Emmet Walsh",
+            "Natalie Trundy",
+            "Ricardo Montalb\u00e1n",
+            "Roddy McDowall",
+            "Sal Mineo"
         ]
     },
     "Big Jake (1971)": {
@@ -11703,6 +11738,12 @@ var movieMap = {
             "1970s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Don Murray",
+            "Natalie Trundy",
+            "Ricardo Montalb\u00e1n",
+            "Roddy McDowall"
         ]
     },
     "Now You See Him, Now You Don't (1972)": {
@@ -12338,6 +12379,14 @@ var movieMap = {
             "1970s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Claude Akins",
+            "John Huston",
+            "John Landis",
+            "Lew Ayres",
+            "Natalie Trundy",
+            "Roddy McDowall"
         ]
     },
     "A Touch of Class (1973)": {
@@ -17808,6 +17857,15 @@ var movieMap = {
             "Lucasfilm",
             "Steven Spielberg",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Alfred Molina",
+            "Denholm Elliott",
+            "Harrison Ford",
+            "John Rhys-Davies",
+            "Karen Allen",
+            "Paul Freeman",
+            "Ronald Lacey"
         ]
     },
     "Superman II (1981)": {
@@ -21252,6 +21310,16 @@ var movieMap = {
             "Lucasfilm",
             "Steven Spielberg",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Amrish Puri",
+            "Dan Aykroyd",
+            "George Lucas",
+            "Harrison Ford",
+            "Kate Capshaw",
+            "Kathleen Kennedy",
+            "Ke Huy Quan",
+            "Steven Spielberg"
         ]
     },
     "Once Upon a Time in America (1984)": {
@@ -27511,6 +27579,15 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Lucasfilm"
+        ],
+        "cast": [
+            "Jean Marsh",
+            "Joanne Whalley",
+            "Kenny Baker",
+            "Kevin Pollak",
+            "Tony Cox",
+            "Val Kilmer",
+            "Warwick Davis"
         ]
     },
     "Crocodile Dundee II (1988)": {
@@ -29405,6 +29482,16 @@ var movieMap = {
             "Sean Connery",
             "Steven Spielberg",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Alison Doody",
+            "Denholm Elliott",
+            "Harrison Ford",
+            "John Rhys-Davies",
+            "Julian Glover",
+            "River Phoenix",
+            "Ronald Lacey",
+            "Sean Connery"
         ]
     },
     "Pink Cadillac (1989)": {
@@ -57584,6 +57671,15 @@ var movieMap = {
             "Amblin",
             "Fantasy/Sci-Fi",
             "Jurassic Park"
+        ],
+        "cast": [
+            "Alessandro Nivola",
+            "Laura Dern",
+            "Michael Jeter",
+            "Sam Neill",
+            "T\u00e9a Leoni",
+            "Trevor Morgan",
+            "William H. Macy"
         ]
     },
     "America's Sweethearts (2001)": {
@@ -57664,6 +57760,19 @@ var movieMap = {
             "Planet of the Apes",
             "Remakes & Reboots",
             "Tim Burton"
+        ],
+        "cast": [
+            "Cary-Hiroyuki Tagawa",
+            "Charlton Heston",
+            "David Warner",
+            "Estella Warren",
+            "Helena Bonham Carter",
+            "Kris Kristofferson",
+            "Linda Harrison",
+            "Mark Wahlberg",
+            "Michael Clarke Duncan",
+            "Paul Giamatti",
+            "Tim Roth"
         ]
     },
     "Wet Hot American Summer (2001)": {
@@ -79143,6 +79252,17 @@ var movieMap = {
             "Lucasfilm",
             "Steven Spielberg",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Alan Dale",
+            "Cate Blanchett",
+            "Ernie Reyes Jr.",
+            "Harrison Ford",
+            "Jim Broadbent",
+            "John Hurt",
+            "Karen Allen",
+            "Ray Winstone",
+            "Shia LaBeouf"
         ]
     },
     "Sex and the City (2008)": {
@@ -89192,6 +89312,17 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Brian Cox",
+            "David Oyelowo",
+            "Freida Pinto",
+            "James Franco",
+            "John Lithgow",
+            "Terry Notary",
+            "Tom Felton",
+            "Tyler Labine"
         ]
     },
     "The Change-Up (2011)": {
@@ -98646,6 +98777,17 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Gary Oldman",
+            "James Franco",
+            "Jason Clarke",
+            "Judy Greer",
+            "Keri Russell",
+            "Kodi Smit-McPhee",
+            "Terry Notary",
+            "Toby Kebbell"
         ]
     },
     "Planes: Fire & Rescue (2014)": {
@@ -101901,6 +102043,20 @@ var movieMap = {
             "Amblin",
             "Fantasy/Sci-Fi",
             "Jurassic Park"
+        ],
+        "cast": [
+            "BD Wong",
+            "Brian Tee",
+            "Bryce Dallas Howard",
+            "Chris Pratt",
+            "Irrfan Khan",
+            "Jake Johnson",
+            "Judy Greer",
+            "Lauren Lapkus",
+            "Nick Robinson",
+            "Omar Sy",
+            "Ty Simpkins",
+            "Vincent D'Onofrio"
         ]
     },
     "Me and Earl and the Dying Girl (2015)": {
@@ -109777,6 +109933,14 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Judy Greer",
+            "Steve Zahn",
+            "Terry Notary",
+            "Toby Kebbell",
+            "Woody Harrelson"
         ]
     },
     "Dunkirk (2017)": {
@@ -113726,6 +113890,20 @@ var movieMap = {
             "Amblin",
             "Fantasy/Sci-Fi",
             "Jurassic Park"
+        ],
+        "cast": [
+            "BD Wong",
+            "Bryce Dallas Howard",
+            "Chris Pratt",
+            "Daniella Pineda",
+            "Geraldine Chaplin",
+            "Isabella Sermon",
+            "James Cromwell",
+            "Jeff Goldblum",
+            "Justice Smith",
+            "Rafe Spall",
+            "Ted Levine",
+            "Toby Jones"
         ]
     },
     "Tau (2018)": {

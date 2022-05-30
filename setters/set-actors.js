@@ -354,6 +354,7 @@ var actorMap = {
     "Alan Dale": {
         "movies": [
             "Star Trek: Nemesis (2002)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Priest (2011)",
             "Captain America: The Winter Soldier (2014)"
         ]
@@ -513,6 +514,11 @@ var actorMap = {
             "Return of the Jedi (1983)"
         ]
     },
+    "Alessandro Nivola": {
+        "movies": [
+            "Jurassic Park III (2001)"
+        ]
+    },
     "Alex Borstein": {
         "movies": [
             "Catwoman (2004)",
@@ -564,6 +570,7 @@ var actorMap = {
     },
     "Alfred Molina": {
         "movies": [
+            "Raiders of the Lost Ark (1981)",
             "Magnolia (1999)",
             "Spider-Man 2 (2004)",
             "Strange Magic (2015)",
@@ -659,6 +666,11 @@ var actorMap = {
             "Promising Young Woman (2020)"
         ]
     },
+    "Alison Doody": {
+        "movies": [
+            "Indiana Jones and the Last Crusade (1989)"
+        ]
+    },
     "Alison Pill": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)"
@@ -736,6 +748,11 @@ var actorMap = {
     "Amber Riley": {
         "movies": [
             "Nobody's Fool (2018)"
+        ]
+    },
+    "Amrish Puri": {
+        "movies": [
+            "Indiana Jones and the Temple of Doom (1984)"
         ]
     },
     "Amy Acker": {
@@ -984,10 +1001,13 @@ var actorMap = {
             "The Prestige (2006)",
             "Flushed Away (2006)",
             "Inkheart (2009)",
+            "Rise of the Planet of the Apes (2011)",
             "The Adventures of Tintin (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
+            "Dawn of the Planet of the Apes (2014)",
             "Avengers: Age of Ultron (2015)",
             "Star Wars: The Force Awakens (2015)",
+            "War for the Planet of the Apes (2017)",
             "Star Wars: The Last Jedi (2017)",
             "Black Panther (2018)",
             "Mowgli: Legend of the Jungle (2018)",
@@ -1657,7 +1677,9 @@ var actorMap = {
     "BD Wong": {
         "movies": [
             "Jurassic Park (1993)",
-            "Seven Years in Tibet (1997)"
+            "Seven Years in Tibet (1997)",
+            "Jurassic World (2015)",
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Bae Doona": {
@@ -2637,6 +2659,7 @@ var actorMap = {
             "Troy (2004)",
             "Zodiac (2007)",
             "Red (2010)",
+            "Rise of the Planet of the Apes (2011)",
             "Red 2 (2013)"
         ]
     },
@@ -2666,6 +2689,7 @@ var actorMap = {
     "Brian Tee": {
         "movies": [
             "Austin Powers in Goldmember (2002)",
+            "Jurassic World (2015)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
     },
@@ -2888,7 +2912,9 @@ var actorMap = {
     "Bryce Dallas Howard": {
         "movies": [
             "Spider-Man 3 (2007)",
-            "The Help (2011)"
+            "The Help (2011)",
+            "Jurassic World (2015)",
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Bud Cort": {
@@ -3174,10 +3200,14 @@ var actorMap = {
                 "movie": "None but the Lonely Heart",
                 "year": "1944"
             }
+        ],
+        "movies": [
+            "Arsenic and Old Lace (1944)"
         ]
     },
     "Cary-Hiroyuki Tagawa": {
         "movies": [
+            "Planet of the Apes (2001)",
             "Elektra (2005)"
         ]
     },
@@ -3252,6 +3282,7 @@ var actorMap = {
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
             "The Aviator (2004)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "The Curious Case of Benjamin Button (2008)",
             "The Hobbit: An Unexpected Journey (2012)",
             "Blue Jasmine (2013)",
@@ -3468,6 +3499,11 @@ var actorMap = {
                 "movie": "Ben-Hur",
                 "year": "1959"
             }
+        ],
+        "movies": [
+            "Planet of the Apes (1968)",
+            "Beneath the Planet of the Apes (1970)",
+            "Planet of the Apes (2001)"
         ]
     },
     "Charlyne Yi": {
@@ -3727,8 +3763,10 @@ var actorMap = {
             "Movie 43 (2013)",
             "The Lego Movie (2014)",
             "Guardians of the Galaxy (2014)",
+            "Jurassic World (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
+            "Jurassic World: Fallen Kingdom (2018)",
             "The Lego Movie 2: The Second Part (2019)",
             "Avengers: Endgame (2019)",
             "Onward (2020)"
@@ -4038,6 +4076,11 @@ var actorMap = {
     "Clarke Peters": {
         "movies": [
             "John Wick (2014)"
+        ]
+    },
+    "Claude Akins": {
+        "movies": [
+            "Battle for the Planet of the Apes (1973)"
         ]
     },
     "Claudia Christian": {
@@ -4462,6 +4505,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Indiana Jones and the Temple of Doom (1984)",
             "Ghostbusters (1984)",
             "Spies Like Us (1985)",
             "Ghostbusters II (1989)",
@@ -4650,6 +4694,11 @@ var actorMap = {
     "Daniela Melchior": {
         "movies": [
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Daniella Pineda": {
+        "movies": [
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Danielle Nicolet": {
@@ -4935,6 +4984,7 @@ var actorMap = {
     },
     "David Oyelowo": {
         "movies": [
+            "Rise of the Planet of the Apes (2011)",
             "The Help (2011)",
             "Jack Reacher (2012)",
             "A Wrinkle in Time (2018)"
@@ -5017,7 +5067,8 @@ var actorMap = {
         "movies": [
             "Star Trek V: The Final Frontier (1989)",
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
-            "Star Trek VI: The Undiscovered Country (1991)"
+            "Star Trek VI: The Undiscovered Country (1991)",
+            "Planet of the Apes (2001)"
         ]
     },
     "David Wenham": {
@@ -5130,6 +5181,12 @@ var actorMap = {
         ],
         "movies": [
             "The Hateful Eight (2015)"
+        ]
+    },
+    "Denholm Elliott": {
+        "movies": [
+            "Raiders of the Lost Ark (1981)",
+            "Indiana Jones and the Last Crusade (1989)"
         ]
     },
     "Denis Lawson": {
@@ -5569,6 +5626,7 @@ var actorMap = {
     },
     "Don Murray": {
         "movies": [
+            "Conquest of the Planet of the Apes (1972)",
             "Endless Love (1981)"
         ]
     },
@@ -6536,7 +6594,8 @@ var actorMap = {
     },
     "Ernie Reyes Jr.": {
         "movies": [
-            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)"
+            "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
         ]
     },
     "Ernie Sabella": {
@@ -6547,6 +6606,11 @@ var actorMap = {
     "Erykah Badu": {
         "movies": [
             "What Men Want (2019)"
+        ]
+    },
+    "Estella Warren": {
+        "movies": [
+            "Planet of the Apes (2001)"
         ]
     },
     "Ethan Embry": {
@@ -7072,6 +7136,7 @@ var actorMap = {
     },
     "Freida Pinto": {
         "movies": [
+            "Rise of the Planet of the Apes (2011)",
             "Mowgli: Legend of the Jungle (2018)"
         ]
     },
@@ -7225,7 +7290,8 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Dark Knight Rises (2012)",
-            "RoboCop (2014)"
+            "RoboCop (2014)",
+            "Dawn of the Planet of the Apes (2014)"
         ]
     },
     "Gary Payton": {
@@ -7439,6 +7505,7 @@ var actorMap = {
     },
     "George Lucas": {
         "movies": [
+            "Indiana Jones and the Temple of Doom (1984)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
         ]
     },
@@ -7488,7 +7555,8 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "The Impossible (2012)",
-            "A Monster Calls (2016)"
+            "A Monster Calls (2016)",
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Gerard Butler": {
@@ -7923,10 +7991,14 @@ var actorMap = {
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "Raiders of the Lost Ark (1981)",
             "Return of the Jedi (1983)",
+            "Indiana Jones and the Temple of Doom (1984)",
+            "Indiana Jones and the Last Crusade (1989)",
             "The Fugitive (1993)",
             "Six Days, Seven Nights (1998)",
             "Firewall (2006)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Cowboys & Aliens (2011)",
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -8127,6 +8199,7 @@ var actorMap = {
         ],
         "movies": [
             "Howards End (1992)",
+            "Planet of the Apes (2001)",
             "Corpse Bride (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
@@ -8555,7 +8628,8 @@ var actorMap = {
     },
     "Irrfan Khan": {
         "movies": [
-            "The Amazing Spider-Man (2012)"
+            "The Amazing Spider-Man (2012)",
+            "Jurassic World (2015)"
         ]
     },
     "Isaac Hayes": {
@@ -8571,6 +8645,11 @@ var actorMap = {
     "Isabella Rossellini": {
         "movies": [
             "Incredibles 2 (2018)"
+        ]
+    },
+    "Isabella Sermon": {
+        "movies": [
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Isabelle Adjani": {
@@ -8696,6 +8775,11 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)"
+        ]
+    },
+    "Jack Carson": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
         ]
     },
     "Jack Davenport": {
@@ -9013,6 +9097,7 @@ var actorMap = {
     "Jake Johnson": {
         "movies": [
             "No Strings Attached (2011)",
+            "Jurassic World (2015)",
             "The Mummy (2017)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
@@ -9090,7 +9175,8 @@ var actorMap = {
             "Star Trek: First Contact (1996)",
             "Spider-Man 3 (2007)",
             "Surrogates (2009)",
-            "Big Hero 6 (2014)"
+            "Big Hero 6 (2014)",
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "James D'Arcy": {
@@ -9145,6 +9231,11 @@ var actorMap = {
             "The Remains of the Day (1993)"
         ]
     },
+    "James Franciscus": {
+        "movies": [
+            "Beneath the Planet of the Apes (1970)"
+        ]
+    },
     "James Franco": {
         "leadNoms": [
             {
@@ -9159,7 +9250,9 @@ var actorMap = {
             "Spider-Man 3 (2007)",
             "Knocked Up (2007)",
             "The Green Hornet (2011)",
-            "This Is the End (2013)"
+            "Rise of the Planet of the Apes (2011)",
+            "This Is the End (2013)",
+            "Dawn of the Planet of the Apes (2014)"
         ]
     },
     "James Gandolfini": {
@@ -9305,7 +9398,8 @@ var actorMap = {
     },
     "James Whitmore": {
         "movies": [
-            "Them! (1954)"
+            "Them! (1954)",
+            "Planet of the Apes (1968)"
         ]
     },
     "James Woods": {
@@ -9542,7 +9636,8 @@ var actorMap = {
     },
     "Jason Clarke": {
         "movies": [
-            "Zero Dark Thirty (2012)"
+            "Zero Dark Thirty (2012)",
+            "Dawn of the Planet of the Apes (2014)"
         ]
     },
     "Jason Drucker": {
@@ -9736,12 +9831,22 @@ var actorMap = {
             "American Made (2017)"
         ]
     },
+    "Jean Adair": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
+        ]
+    },
     "Jean Dujardin": {
         "leadNoms": [
             {
                 "movie": "The Artist",
                 "year": "2011"
             }
+        ]
+    },
+    "Jean Marsh": {
+        "movies": [
+            "Willow (1988)"
         ]
     },
     "Jean Reno": {
@@ -9836,7 +9941,8 @@ var actorMap = {
             "The Prince of Egypt (1998)",
             "Mortdecai (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)",
-            "Thor: Ragnarok (2017)"
+            "Thor: Ragnarok (2017)",
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Jeffrey Combs": {
@@ -10343,6 +10449,7 @@ var actorMap = {
             "Superman IV: The Quest for Peace (1987)",
             "Robots (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Inkheart (2009)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
@@ -10514,6 +10621,11 @@ var actorMap = {
         "movies": [
             "From Hell (2001)",
             "Love Actually (2003)"
+        ]
+    },
+    "Joanne Whalley": {
+        "movies": [
+            "Willow (1988)"
         ]
     },
     "Joanne Woodward": {
@@ -10720,6 +10832,11 @@ var actorMap = {
             "Dazed and Confused (1993)"
         ]
     },
+    "John Alexander": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
+        ]
+    },
     "John Astin": {
         "movies": [
             "West Side Story (1961)"
@@ -10860,10 +10977,16 @@ var actorMap = {
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Hellboy (2004)",
             "V for Vendetta (2006)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Hellboy II: The Golden Army (2008)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Hercules (2014)"
+        ]
+    },
+    "John Huston": {
+        "movies": [
+            "Battle for the Planet of the Apes (1973)"
         ]
     },
     "John Kani": {
@@ -10882,6 +11005,7 @@ var actorMap = {
     },
     "John Landis": {
         "movies": [
+            "Battle for the Planet of the Apes (1973)",
             "Spider-Man 2 (2004)"
         ]
     },
@@ -10917,6 +11041,7 @@ var actorMap = {
         ],
         "movies": [
             "Terms of Endearment (1983)",
+            "Rise of the Planet of the Apes (2011)",
             "New Year's Eve (2011)"
         ]
     },
@@ -10994,6 +11119,8 @@ var actorMap = {
     },
     "John Rhys-Davies": {
         "movies": [
+            "Raiders of the Lost Ark (1981)",
+            "Indiana Jones and the Last Crusade (1989)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
@@ -11385,6 +11512,11 @@ var actorMap = {
             "The Lost World: Jurassic Park (1997)"
         ]
     },
+    "Josephine Hull": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
+        ]
+    },
     "Josh Brener": {
         "movies": [
             "What Men Want (2019)"
@@ -11606,7 +11738,10 @@ var actorMap = {
         "movies": [
             "13 Going on 30 (2004)",
             "Elizabethtown (2005)",
+            "Dawn of the Planet of the Apes (2014)",
+            "Jurassic World (2015)",
             "Ant-Man (2015)",
+            "War for the Planet of the Apes (2017)",
             "Ant-Man and the Wasp (2018)"
         ]
     },
@@ -11672,6 +11807,7 @@ var actorMap = {
     "Julian Glover": {
         "movies": [
             "The Empire Strikes Back (1980)",
+            "Indiana Jones and the Last Crusade (1989)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Troy (2004)"
         ]
@@ -11882,6 +12018,11 @@ var actorMap = {
             "North (1994)"
         ]
     },
+    "Justice Smith": {
+        "movies": [
+            "Jurassic World: Fallen Kingdom (2018)"
+        ]
+    },
     "Justin Bartha": {
         "movies": [
             "Gigli (2003)"
@@ -11961,6 +12102,12 @@ var actorMap = {
             "Hellboy (2004)"
         ]
     },
+    "Karen Allen": {
+        "movies": [
+            "Raiders of the Lost Ark (1981)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
+        ]
+    },
     "Karen Fukuhara": {
         "movies": [
             "Suicide Squad (2016)"
@@ -12011,6 +12158,11 @@ var actorMap = {
             "Remember the Titans (2000)",
             "Superman Returns (2006)",
             "Movie 43 (2013)"
+        ]
+    },
+    "Kate Capshaw": {
+        "movies": [
+            "Indiana Jones and the Temple of Doom (1984)"
         ]
     },
     "Kate Dickie": {
@@ -12196,6 +12348,11 @@ var actorMap = {
             "The First Wives Club (1996)"
         ]
     },
+    "Kathleen Kennedy": {
+        "movies": [
+            "Indiana Jones and the Temple of Doom (1984)"
+        ]
+    },
     "Kathleen Quinlan": {
         "suppNoms": [
             {
@@ -12278,6 +12435,11 @@ var actorMap = {
     "Kayvan Novak": {
         "movies": [
             "Men in Black: International (2019)"
+        ]
+    },
+    "Ke Huy Quan": {
+        "movies": [
+            "Indiana Jones and the Temple of Doom (1984)"
         ]
     },
     "Keala Settle": {
@@ -12486,6 +12648,7 @@ var actorMap = {
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "Willow (1988)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
@@ -12494,6 +12657,7 @@ var actorMap = {
     "Keri Russell": {
         "movies": [
             "Mission: Impossible III (2006)",
+            "Dawn of the Planet of the Apes (2014)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -12630,6 +12794,7 @@ var actorMap = {
     },
     "Kevin Pollak": {
         "movies": [
+            "Willow (1988)",
             "A Few Good Men (1992)"
         ]
     },
@@ -12711,6 +12876,13 @@ var actorMap = {
             "Star Trek VI: The Undiscovered Country (1991)"
         ]
     },
+    "Kim Hunter": {
+        "movies": [
+            "Planet of the Apes (1968)",
+            "Beneath the Planet of the Apes (1970)",
+            "Escape from the Planet of the Apes (1971)"
+        ]
+    },
     "Kim Kardashian": {
         "movies": [
             "Ocean's 8 (2018)"
@@ -12790,6 +12962,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dawn of the Planet of the Apes (2014)",
             "X-Men: Apocalypse (2016)",
             "Deadpool 2 (2018)",
             "Dark Phoenix (2019)",
@@ -12799,6 +12972,7 @@ var actorMap = {
     "Kris Kristofferson": {
         "movies": [
             "Blade (1998)",
+            "Planet of the Apes (2001)",
             "Blade II (2002)",
             "Blade: Trinity (2004)",
             "He's Just Not That into You (2009)"
@@ -13058,6 +13232,7 @@ var actorMap = {
         ],
         "movies": [
             "Jurassic Park (1993)",
+            "Jurassic Park III (2001)",
             "Wild (2014)",
             "Star Wars: The Last Jedi (2017)",
             "Marriage Story (2019)",
@@ -13123,6 +13298,11 @@ var actorMap = {
     "Lauren Cohan": {
         "movies": [
             "Batman v Superman: Dawn of Justice (2016)"
+        ]
+    },
+    "Lauren Lapkus": {
+        "movies": [
+            "Jurassic World (2015)"
         ]
     },
     "Lauren Ridloff": {
@@ -13415,6 +13595,11 @@ var actorMap = {
             "Little Shop of Horrors (1986)"
         ]
     },
+    "Lew Ayres": {
+        "movies": [
+            "Battle for the Planet of the Apes (1973)"
+        ]
+    },
     "Lewis MacDougall": {
         "movies": [
             "A Monster Calls (2016)"
@@ -13545,6 +13730,13 @@ var actorMap = {
         "movies": [
             "Men in Black (1997)",
             "Dogma (1999)"
+        ]
+    },
+    "Linda Harrison": {
+        "movies": [
+            "Planet of the Apes (1968)",
+            "Beneath the Planet of the Apes (1970)",
+            "Planet of the Apes (2001)"
         ]
     },
     "Linda Hunt": {
@@ -13882,6 +14074,7 @@ var actorMap = {
     },
     "M. Emmet Walsh": {
         "movies": [
+            "Escape from the Planet of the Apes (1971)",
             "Knives Out (2019)"
         ]
     },
@@ -14433,6 +14626,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Planet of the Apes (2001)",
             "Ted (2012)",
             "2 Guns (2013)",
             "Transformers: Age of Extinction (2014)",
@@ -14896,6 +15090,12 @@ var actorMap = {
     "Maura Tierney": {
         "movies": [
             "Primal Fear (1996)"
+        ]
+    },
+    "Maurice Evans": {
+        "movies": [
+            "Planet of the Apes (1968)",
+            "Beneath the Planet of the Apes (1970)"
         ]
     },
     "Max Charles": {
@@ -15387,6 +15587,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Planet of the Apes (2001)",
             "Daredevil (2003)",
             "Sin City (2005)",
             "Kung Fu Panda (2008)",
@@ -15526,6 +15727,11 @@ var actorMap = {
         "movies": [
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "The Dark Knight (2008)"
+        ]
+    },
+    "Michael Jeter": {
+        "movies": [
+            "Jurassic Park III (2001)"
         ]
     },
     "Michael Jordan": {
@@ -16268,6 +16474,14 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Natalie Trundy": {
+        "movies": [
+            "Beneath the Planet of the Apes (1970)",
+            "Escape from the Planet of the Apes (1971)",
+            "Conquest of the Planet of the Apes (1972)",
+            "Battle for the Planet of the Apes (1973)"
+        ]
+    },
     "Natalie Wood": {
         "movies": [
             "West Side Story (1961)"
@@ -16449,6 +16663,11 @@ var actorMap = {
             "The Lego Movie (2014)",
             "Bad Times at the El Royale (2018)",
             "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
+    "Nick Robinson": {
+        "movies": [
+            "Jurassic World (2015)"
         ]
     },
     "Nick Stahl": {
@@ -16797,6 +17016,7 @@ var actorMap = {
     "Omar Sy": {
         "movies": [
             "X-Men: Days of Future Past (2014)",
+            "Jurassic World (2015)",
             "Transformers: The Last Knight (2017)"
         ]
     },
@@ -17096,6 +17316,11 @@ var actorMap = {
             "Bridesmaids (2011)"
         ]
     },
+    "Paul Freeman": {
+        "movies": [
+            "Raiders of the Lost Ark (1981)"
+        ]
+    },
     "Paul Giamatti": {
         "suppNoms": [
             {
@@ -17105,6 +17330,7 @@ var actorMap = {
         ],
         "movies": [
             "Saving Private Ryan (1998)",
+            "Planet of the Apes (2001)",
             "Robots (2005)",
             "Rock of Ages (2012)",
             "The Amazing Spider-Man 2 (2014)"
@@ -17191,6 +17417,11 @@ var actorMap = {
             "Batman Returns (1992)",
             "Mystery Men (1999)",
             "Blow (2001)"
+        ]
+    },
+    "Paul Richards": {
+        "movies": [
+            "Beneath the Planet of the Apes (1970)"
         ]
     },
     "Paul Rudd": {
@@ -17500,6 +17731,11 @@ var actorMap = {
             "The Hobbit: The Desolation of Smaug (2013)"
         ]
     },
+    "Peter Lorre": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
+        ]
+    },
     "Peter MacNicol": {
         "movies": [
             "Ghostbusters II (1989)"
@@ -17728,6 +17964,11 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Priscilla Lane": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
+        ]
+    },
     "Qin Shaobo": {
         "movies": [
             "Ocean's Eleven (2001)",
@@ -17859,6 +18100,7 @@ var actorMap = {
     },
     "Rafe Spall": {
         "movies": [
+            "Jurassic World: Fallen Kingdom (2018)",
             "Men in Black: International (2019)"
         ]
     },
@@ -18011,6 +18253,7 @@ var actorMap = {
     "Ray Winstone": {
         "movies": [
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Snow White and the Huntsman (2012)",
             "Noah (2014)",
             "Black Widow (2021)"
@@ -18019,6 +18262,11 @@ var actorMap = {
     "Ray Wise": {
         "movies": [
             "Swamp Thing (1982)"
+        ]
+    },
+    "Raymond Massey": {
+        "movies": [
+            "Arsenic and Old Lace (1944)"
         ]
     },
     "Raymond Ochoa": {
@@ -18211,6 +18459,8 @@ var actorMap = {
     },
     "Ricardo Montalb\u00e1n": {
         "movies": [
+            "Escape from the Planet of the Apes (1971)",
+            "Conquest of the Planet of the Apes (1972)",
             "Star Trek II: The Wrath of Khan (1982)"
         ]
     },
@@ -18471,6 +18721,9 @@ var actorMap = {
                 "movie": "Running on Empty",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "Indiana Jones and the Last Crusade (1989)"
         ]
     },
     "Riz Ahmed": {
@@ -18797,6 +19050,10 @@ var actorMap = {
     },
     "Roddy McDowall": {
         "movies": [
+            "Planet of the Apes (1968)",
+            "Escape from the Planet of the Apes (1971)",
+            "Conquest of the Planet of the Apes (1972)",
+            "Battle for the Planet of the Apes (1973)",
             "A Bug's Life (1998)"
         ]
     },
@@ -18865,6 +19122,12 @@ var actorMap = {
     "Ron Silver": {
         "movies": [
             "Timecop (1994)"
+        ]
+    },
+    "Ronald Lacey": {
+        "movies": [
+            "Raiders of the Lost Ark (1981)",
+            "Indiana Jones and the Last Crusade (1989)"
         ]
     },
     "Ronny Chieng": {
@@ -19226,6 +19489,11 @@ var actorMap = {
             "Troy (2004)"
         ]
     },
+    "Sal Mineo": {
+        "movies": [
+            "Escape from the Planet of the Apes (1971)"
+        ]
+    },
     "Sally Field": {
         "leadNoms": [
             {
@@ -19337,6 +19605,7 @@ var actorMap = {
     "Sam Neill": {
         "movies": [
             "Jurassic Park (1993)",
+            "Jurassic Park III (2001)",
             "Wimbledon (2004)",
             "Thor: Ragnarok (2017)"
         ]
@@ -19710,6 +19979,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Indiana Jones and the Last Crusade (1989)",
             "Robin Hood: Prince of Thieves (1991)",
             "The League of Extraordinary Gentlemen (2003)"
         ]
@@ -19969,6 +20239,7 @@ var actorMap = {
         "movies": [
             "Constantine (2005)",
             "Transformers (2007)",
+            "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Transformers: Revenge of the Fallen (2009)",
             "Transformers: Dark of the Moon (2011)"
         ]
@@ -20605,7 +20876,8 @@ var actorMap = {
     },
     "Steve Zahn": {
         "movies": [
-            "Sahara (2005)"
+            "Sahara (2005)",
+            "War for the Planet of the Apes (2017)"
         ]
     },
     "Steven Bauer": {
@@ -20627,6 +20899,7 @@ var actorMap = {
     },
     "Steven Spielberg": {
         "movies": [
+            "Indiana Jones and the Temple of Doom (1984)",
             "Vanilla Sky (2001)",
             "Austin Powers in Goldmember (2002)"
         ]
@@ -20913,6 +21186,11 @@ var actorMap = {
             "Ted (2012)"
         ]
     },
+    "Ted Levine": {
+        "movies": [
+            "Jurassic World: Fallen Kingdom (2018)"
+        ]
+    },
     "Temuera Morrison": {
         "movies": [
             "Barb Wire (1996)",
@@ -20982,8 +21260,11 @@ var actorMap = {
     },
     "Terry Notary": {
         "movies": [
+            "Rise of the Planet of the Apes (2011)",
             "The Hobbit: An Unexpected Journey (2012)",
+            "Dawn of the Planet of the Apes (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
+            "War for the Planet of the Apes (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -21205,6 +21486,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Planet of the Apes (2001)",
             "The Incredible Hulk (2008)",
             "The Hateful Eight (2015)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -21311,15 +21593,18 @@ var actorMap = {
             "The Adventures of Tintin (2011)",
             "Snow White and the Huntsman (2012)",
             "Captain America: The Winter Soldier (2014)",
-            "Atomic Blonde (2017)"
+            "Atomic Blonde (2017)",
+            "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
     "Toby Kebbell": {
         "movies": [
             "Alexander (2004)",
             "The Counselor (2013)",
+            "Dawn of the Planet of the Apes (2014)",
             "Fantastic Four (2015)",
             "A Monster Calls (2016)",
+            "War for the Planet of the Apes (2017)",
             "Bloodshot (2020)"
         ]
     },
@@ -21430,7 +21715,8 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Rise of the Planet of the Apes (2011)"
         ]
     },
     "Tom Hanks": {
@@ -21691,6 +21977,7 @@ var actorMap = {
     "Tony Cox": {
         "movies": [
             "Spaceballs (1987)",
+            "Willow (1988)",
             "Strange Magic (2015)"
         ]
     },
@@ -21802,6 +22089,11 @@ var actorMap = {
             "Superman (1978)"
         ]
     },
+    "Trevor Morgan": {
+        "movies": [
+            "Jurassic Park III (2001)"
+        ]
+    },
     "Trevor Noah": {
         "movies": [
             "Black Panther (2018)"
@@ -21846,6 +22138,7 @@ var actorMap = {
     "Ty Simpkins": {
         "movies": [
             "Iron Man 3 (2013)",
+            "Jurassic World (2015)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -21865,6 +22158,11 @@ var actorMap = {
     "Tyler Hoechlin": {
         "movies": [
             "Road to Perdition (2002)"
+        ]
+    },
+    "Tyler Labine": {
+        "movies": [
+            "Rise of the Planet of the Apes (2011)"
         ]
     },
     "Tyler Mane": {
@@ -21906,7 +22204,8 @@ var actorMap = {
     },
     "T\u00e9a Leoni": {
         "movies": [
-            "A League of Their Own (1992)"
+            "A League of Their Own (1992)",
+            "Jurassic Park III (2001)"
         ]
     },
     "Udo Kier": {
@@ -21936,6 +22235,7 @@ var actorMap = {
     "Val Kilmer": {
         "movies": [
             "Top Gun (1986)",
+            "Willow (1988)",
             "True Romance (1993)",
             "Batman Forever (1995)",
             "The Prince of Egypt (1998)",
@@ -22128,7 +22428,8 @@ var actorMap = {
     },
     "Vincent D'Onofrio": {
         "movies": [
-            "Men in Black (1997)"
+            "Men in Black (1997)",
+            "Jurassic World (2015)"
         ]
     },
     "Vincent Gardenia": {
@@ -22319,6 +22620,7 @@ var actorMap = {
     "Warwick Davis": {
         "movies": [
             "Return of the Jedi (1983)",
+            "Willow (1988)",
             "Leprechaun (1993)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -22583,6 +22885,7 @@ var actorMap = {
             "Ghosts of Mississippi (1996)",
             "Mystery Men (1999)",
             "Magnolia (1999)",
+            "Jurassic Park III (2001)",
             "Cellular (2004)",
             "Sahara (2005)",
             "The Tale of Despereaux (2008)"
@@ -22755,6 +23058,7 @@ var actorMap = {
             "Zombieland (2009)",
             "Now You See Me (2013)",
             "Now You See Me 2 (2016)",
+            "War for the Planet of the Apes (2017)",
             "Solo: A Star Wars Story (2018)",
             "Venom (2018)",
             "Zombieland: Double Tap (2019)",

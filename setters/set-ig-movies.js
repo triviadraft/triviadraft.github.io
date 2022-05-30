@@ -2360,6 +2360,11 @@ var igMovieMap = {
                 "description": "morgue attendant"
             },
             {
+                "actor": "Verne Troyer",
+                "name": "alien son",
+                "description": ""
+            },
+            {
                 "actor": "Tim Blaney",
                 "name": "voice of Frank the Pug",
                 "description": ""
@@ -21377,6 +21382,11 @@ var igMovieMap = {
                 "actor": "Kathleen Kennedy",
                 "name": "person at airport",
                 "description": ""
+            },
+            {
+                "actor": "Dan Aykroyd",
+                "name": "person at airport",
+                "description": ""
             }
         ],
         "minorCast": [
@@ -21392,11 +21402,6 @@ var igMovieMap = {
             },
             {
                 "actor": "Frank Marshall",
-                "name": "person at airport",
-                "description": ""
-            },
-            {
-                "actor": "Dan Aykroyd",
                 "name": "person at airport",
                 "description": ""
             },
@@ -35444,6 +35449,11 @@ var igMovieMap = {
                 "actor": "Kodi Smit-McPhee",
                 "name": "Alexander",
                 "description": "Malcolm's son from a previous marriage and Ellie's stepson"
+            },
+            {
+                "actor": "James Franco",
+                "name": "Will Rodman",
+                "description": ""
             }
         ],
         "supportingCast": [

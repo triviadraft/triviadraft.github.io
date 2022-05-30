@@ -3928,6 +3928,13 @@ var igActorMap = {
             ]
         }
     },
+    "Dan Aykroyd": {
+        "movies": {
+            "Indiana Jones": [
+                "Indiana Jones and the Temple of Doom (1984)"
+            ]
+        }
+    },
     "Dan Castellaneta": {
         "movies": {
             "Marvel": [
@@ -8312,7 +8319,8 @@ var igActorMap = {
                 "The Green Hornet (2011)"
             ],
             "Planet of the Apes": [
-                "Rise of the Planet of the Apes (2011)"
+                "Rise of the Planet of the Apes (2011)",
+                "Dawn of the Planet of the Apes (2014)"
             ]
         }
     },
@@ -19916,6 +19924,9 @@ var igActorMap = {
     },
     "Verne Troyer": {
         "movies": {
+            "Men in Black": [
+                "Men in Black (1997)"
+            ],
             "Wizarding World": [
                 "Harry Potter and the Sorcerer's Stone (2001)"
             ]
