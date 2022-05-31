@@ -46357,6 +46357,21 @@ var movieMap = {
             "Barrymore Family",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Courteney Cox",
+            "David Arquette",
+            "Drew Barrymore",
+            "Henry Winkler",
+            "Jamie Kennedy",
+            "Liev Schreiber",
+            "Linda Blair",
+            "Matthew Lillard",
+            "Neve Campbell",
+            "Roger L. Jackson",
+            "Rose McGowan",
+            "Skeet Ulrich",
+            "Wes Craven"
         ]
     },
     "The Portrait of a Lady (1996)": {

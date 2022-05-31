@@ -4428,6 +4428,11 @@ var actorMap = {
             "Spies Like Us (1985)"
         ]
     },
+    "Courteney Cox": {
+        "movies": [
+            "Scream (1996)"
+        ]
+    },
     "Courtney B. Vance": {
         "movies": [
             "The Mummy (2017)",
@@ -4937,6 +4942,7 @@ var actorMap = {
     },
     "David Arquette": {
         "movies": [
+            "Scream (1996)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -5850,6 +5856,7 @@ var actorMap = {
     "Drew Barrymore": {
         "movies": [
             "Batman Forever (1995)",
+            "Scream (1996)",
             "He's Just Not That into You (2009)"
         ]
     },
@@ -8415,6 +8422,11 @@ var actorMap = {
             "Last Christmas (2019)"
         ]
     },
+    "Henry Winkler": {
+        "movies": [
+            "Scream (1996)"
+        ]
+    },
     "Henry Zaga": {
         "movies": [
             "The New Mutants (2020)"
@@ -9663,6 +9675,7 @@ var actorMap = {
     },
     "Jamie Kennedy": {
         "movies": [
+            "Scream (1996)",
             "As Good as It Gets (1997)",
             "Malibu's Most Wanted (2003)",
             "Son of the Mask (2005)"
@@ -13932,6 +13945,7 @@ var actorMap = {
     },
     "Liev Schreiber": {
         "movies": [
+            "Scream (1996)",
             "Kate & Leopold (2001)",
             "X-Men Origins: Wolverine (2009)",
             "Movie 43 (2013)",
@@ -13995,6 +14009,9 @@ var actorMap = {
                 "movie": "The Exorcist",
                 "year": "1973"
             }
+        ],
+        "movies": [
+            "Scream (1996)"
         ]
     },
     "Linda Cardellini": {
@@ -15338,6 +15355,7 @@ var actorMap = {
     },
     "Matthew Lillard": {
         "movies": [
+            "Scream (1996)",
             "The Perfect Score (2004)"
         ]
     },
@@ -16901,6 +16919,11 @@ var actorMap = {
     "Neil deGrasse Tyson": {
         "movies": [
             "Batman v Superman: Dawn of Justice (2016)"
+        ]
+    },
+    "Neve Campbell": {
+        "movies": [
+            "Scream (1996)"
         ]
     },
     "Nia Long": {
@@ -19439,6 +19462,11 @@ var actorMap = {
             "Mad Money (2008)"
         ]
     },
+    "Roger L. Jackson": {
+        "movies": [
+            "Scream (1996)"
+        ]
+    },
     "Rohan Chand": {
         "movies": [
             "Mowgli: Legend of the Jungle (2018)"
@@ -19588,6 +19616,7 @@ var actorMap = {
     },
     "Rose McGowan": {
         "movies": [
+            "Scream (1996)",
             "Conan the Barbarian (2011)"
         ]
     },
@@ -20840,6 +20869,7 @@ var actorMap = {
     "Skeet Ulrich": {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
+            "Scream (1996)",
             "As Good as It Gets (1997)"
         ]
     },
@@ -23096,6 +23126,11 @@ var actorMap = {
             "Ghost Rider (2007)",
             "Jonah Hex (2010)",
             "Mission: Impossible \u2013 Fallout (2018)"
+        ]
+    },
+    "Wes Craven": {
+        "movies": [
+            "Scream (1996)"
         ]
     },
     "Wes Studi": {
