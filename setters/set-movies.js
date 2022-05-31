@@ -875,6 +875,11 @@ var movieMap = {
         "categories": [
             "Classics",
             "Hepburns"
+        ],
+        "cast": [
+            "Adolphe Menjou",
+            "Douglas Fairbanks Jr.",
+            "Katharine Hepburn"
         ]
     },
     "Lady for a Day (1933)": {
@@ -3611,6 +3616,14 @@ var movieMap = {
             "Classics",
             "Frank Capra",
             "Hepburns"
+        ],
+        "cast": [
+            "Adolphe Menjou",
+            "Angela Lansbury",
+            "Katharine Hepburn",
+            "Lewis Stone",
+            "Spencer Tracy",
+            "Van Johnson"
         ]
     },
     "Melody Time (1948)": {
@@ -10165,6 +10178,13 @@ var movieMap = {
             "Classics",
             "Dramas",
             "Hepburns"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Katharine Hepburn",
+            "Nigel Terry",
+            "Peter O'Toole",
+            "Timothy Dalton"
         ]
     },
     "Yellow Submarine (1968)": {
@@ -53889,6 +53909,27 @@ var movieMap = {
             "Family",
             "Pixar",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Andrew Stanton",
+            "Annie Potts",
+            "Don Rickles",
+            "Estelle Harris",
+            "Jeff Pidgeon",
+            "Jim Varney",
+            "Joan Cusack",
+            "Jodi Benson",
+            "Joe Ranft",
+            "John Morris",
+            "John Ratzenberger",
+            "Jonathan Harris",
+            "Kelsey Grammer",
+            "Laurie Metcalf",
+            "R. Lee Ermey",
+            "Tim Allen",
+            "Tom Hanks",
+            "Wallace Shawn",
+            "Wayne Knight"
         ]
     },
     "Ride with the Devil (1999)": {

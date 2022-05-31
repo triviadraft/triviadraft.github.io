@@ -183,6 +183,12 @@ var actorMap = {
             "Suicide Squad (2016)"
         ]
     },
+    "Adolphe Menjou": {
+        "movies": [
+            "Morning Glory (1933)",
+            "State of the Union (1948)"
+        ]
+    },
     "Adrian Martinez": {
         "movies": [
             "Kick-Ass (2010)",
@@ -961,6 +967,11 @@ var actorMap = {
             "1917 (2019)"
         ]
     },
+    "Andrew Stanton": {
+        "movies": [
+            "Toy Story 2 (1999)"
+        ]
+    },
     "Andy Bean": {
         "movies": [
             "It Chapter Two (2019)"
@@ -1063,6 +1074,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "State of the Union (1948)",
             "The Grinch (2018)"
         ]
     },
@@ -1333,6 +1345,7 @@ var actorMap = {
             "Jumpin' Jack Flash (1986)",
             "Ghostbusters II (1989)",
             "Toy Story (1995)",
+            "Toy Story 2 (1999)",
             "Ghostbusters (2016)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -1399,6 +1412,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Lion in Winter (1968)",
             "Howards End (1992)",
             "Chaplin (1992)",
             "The Remains of the Day (1993)",
@@ -5741,7 +5755,8 @@ var actorMap = {
     },
     "Don Rickles": {
         "movies": [
-            "Toy Story (1995)"
+            "Toy Story (1995)",
+            "Toy Story 2 (1999)"
         ]
     },
     "Don Siegel": {
@@ -5829,6 +5844,7 @@ var actorMap = {
     },
     "Douglas Fairbanks Jr.": {
         "movies": [
+            "Morning Glory (1933)",
             "Gunga Din (1939)"
         ]
     },
@@ -6738,6 +6754,11 @@ var actorMap = {
     "Estella Warren": {
         "movies": [
             "Planet of the Apes (2001)"
+        ]
+    },
+    "Estelle Harris": {
+        "movies": [
+            "Toy Story 2 (1999)"
         ]
     },
     "Ethan Embry": {
@@ -10161,6 +10182,11 @@ var actorMap = {
             "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
+    "Jeff Pidgeon": {
+        "movies": [
+            "Toy Story 2 (1999)"
+        ]
+    },
     "Jeffrey Combs": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)"
@@ -10731,6 +10757,7 @@ var actorMap = {
     "Jim Varney": {
         "movies": [
             "Toy Story (1995)",
+            "Toy Story 2 (1999)",
             "Atlantis: The Lost Empire (2001)"
         ]
     },
@@ -10823,6 +10850,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Toy Story 2 (1999)",
             "The Perks of Being a Wallflower (2012)"
         ]
     },
@@ -10913,6 +10941,7 @@ var actorMap = {
     },
     "Jodi Benson": {
         "movies": [
+            "Toy Story 2 (1999)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -10999,7 +11028,8 @@ var actorMap = {
     },
     "Joe Ranft": {
         "movies": [
-            "A Bug's Life (1998)"
+            "A Bug's Life (1998)",
+            "Toy Story 2 (1999)"
         ]
     },
     "Joe Russo": {
@@ -11337,7 +11367,8 @@ var actorMap = {
     },
     "John Morris": {
         "movies": [
-            "Toy Story (1995)"
+            "Toy Story (1995)",
+            "Toy Story 2 (1999)"
         ]
     },
     "John Mulaney": {
@@ -11367,6 +11398,7 @@ var actorMap = {
             "The Empire Strikes Back (1980)",
             "Toy Story (1995)",
             "A Bug's Life (1998)",
+            "Toy Story 2 (1999)",
             "The Incredibles (2004)",
             "Incredibles 2 (2018)",
             "Onward (2020)"
@@ -11674,7 +11706,8 @@ var actorMap = {
     },
     "Jonathan Harris": {
         "movies": [
-            "A Bug's Life (1998)"
+            "A Bug's Life (1998)",
+            "Toy Story 2 (1999)"
         ]
     },
     "Jonathan Hyde": {
@@ -12572,10 +12605,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Morning Glory (1933)",
             "Little Women (1933)",
             "Bringing Up Baby (1938)",
             "The Philadelphia Story (1940)",
+            "State of the Union (1948)",
             "Guess Who's Coming to Dinner (1967)",
+            "The Lion in Winter (1968)",
             "On Golden Pond (1981)",
             "Love Affair (1994)"
         ]
@@ -12837,6 +12873,7 @@ var actorMap = {
     },
     "Kelsey Grammer": {
         "movies": [
+            "Toy Story 2 (1999)",
             "X-Men: The Last Stand (2006)",
             "X-Men: Days of Future Past (2014)",
             "Think Like a Man Too (2014)",
@@ -13623,7 +13660,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Toy Story (1995)"
+            "Toy Story (1995)",
+            "Toy Story 2 (1999)"
         ]
     },
     "Laverne Cox": {
@@ -13897,6 +13935,11 @@ var actorMap = {
     "Lewis Pullman": {
         "movies": [
             "Bad Times at the El Royale (2018)"
+        ]
+    },
+    "Lewis Stone": {
+        "movies": [
+            "State of the Union (1948)"
         ]
     },
     "Lewis Tan": {
@@ -17119,6 +17162,7 @@ var actorMap = {
     },
     "Nigel Terry": {
         "movies": [
+            "The Lion in Winter (1968)",
             "Troy (2004)"
         ]
     },
@@ -18154,6 +18198,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Lion in Winter (1968)",
             "Supergirl (1984)",
             "Troy (2004)"
         ]
@@ -18373,6 +18418,7 @@ var actorMap = {
         "movies": [
             "Mississippi Burning (1988)",
             "Toy Story (1995)",
+            "Toy Story 2 (1999)",
             "X-Men: The Last Stand (2006)"
         ]
     },
@@ -21023,6 +21069,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "State of the Union (1948)",
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
@@ -21838,6 +21885,7 @@ var actorMap = {
     "Tim Allen": {
         "movies": [
             "Toy Story (1995)",
+            "Toy Story 2 (1999)",
             "Galaxy Quest (1999)",
             "Ralph Breaks the Internet (2018)"
         ]
@@ -21922,6 +21970,7 @@ var actorMap = {
     },
     "Timothy Dalton": {
         "movies": [
+            "The Lion in Winter (1968)",
             "The Tourist (2010)"
         ]
     },
@@ -22182,6 +22231,7 @@ var actorMap = {
             "Forrest Gump (1994)",
             "Toy Story (1995)",
             "Saving Private Ryan (1998)",
+            "Toy Story 2 (1999)",
             "Cast Away (2000)",
             "Road to Perdition (2002)",
             "Catch Me If You Can (2002)",
@@ -22686,6 +22736,11 @@ var actorMap = {
             "The Lighthouse (2019)"
         ]
     },
+    "Van Johnson": {
+        "movies": [
+            "State of the Union (1948)"
+        ]
+    },
     "Vanessa Angel": {
         "movies": [
             "Spies Like Us (1985)",
@@ -23009,6 +23064,7 @@ var actorMap = {
     "Wallace Shawn": {
         "movies": [
             "Toy Story (1995)",
+            "Toy Story 2 (1999)",
             "The Incredibles (2004)",
             "Book Club (2018)",
             "Marriage Story (2019)"
@@ -23093,6 +23149,7 @@ var actorMap = {
         "movies": [
             "Jurassic Park (1993)",
             "Space Jam (1996)",
+            "Toy Story 2 (1999)",
             "Punisher: War Zone (2008)",
             "Kung Fu Panda 3 (2016)"
         ]
