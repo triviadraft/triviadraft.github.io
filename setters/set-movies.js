@@ -1553,6 +1553,13 @@ var movieMap = {
         "categories": [
             "Classics",
             "Hepburns"
+        ],
+        "cast": [
+            "Barry Fitzgerald",
+            "Cary Grant",
+            "Jack Carson",
+            "Katharine Hepburn",
+            "May Robson"
         ]
     },
     "The Adventures of Robin Hood (1938)": {
@@ -1755,6 +1762,14 @@ var movieMap = {
         ],
         "categories": [
             "Classics"
+        ],
+        "cast": [
+            "Cary Grant",
+            "Cecil Kellaway",
+            "Douglas Fairbanks Jr.",
+            "Joan Fontaine",
+            "Sam Jaffe",
+            "Victor McLaglen"
         ]
     },
     "Stagecoach (1939)": {
@@ -1979,6 +1994,12 @@ var movieMap = {
         ],
         "categories": [
             "Classics"
+        ],
+        "cast": [
+            "Cary Grant",
+            "Cliff Edwards",
+            "Ralph Bellamy",
+            "Rosalind Russell"
         ]
     },
     "The Grapes of Wrath (1940)": {
@@ -2193,6 +2214,14 @@ var movieMap = {
             "Classics",
             "Hepburns",
             "James Stewart"
+        ],
+        "cast": [
+            "Cary Grant",
+            "James Stewart",
+            "John Howard",
+            "Katharine Hepburn",
+            "Roland Young",
+            "Ruth Hussey"
         ]
     },
     "Meet John Doe (1941)": {
@@ -2370,6 +2399,15 @@ var movieMap = {
         "categories": [
             "Alfred Hitchcock",
             "Classics"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Cary Grant",
+            "Cedric Hardwicke",
+            "Joan Fontaine",
+            "Leo G. Carroll",
+            "May Whitty",
+            "Nigel Bruce"
         ]
     },
     "Shadow of the Thin Man (1941)": {
@@ -3162,6 +3200,12 @@ var movieMap = {
         "categories": [
             "Alfred Hitchcock",
             "Classics"
+        ],
+        "cast": [
+            "Cary Grant",
+            "Claude Rains",
+            "Ingrid Bergman",
+            "Louis Calhern"
         ]
     },
     "Song of the South (1946)": {
@@ -3453,6 +3497,13 @@ var movieMap = {
         "categories": [
             "Classics",
             "Holiday"
+        ],
+        "cast": [
+            "Cary Grant",
+            "David Niven",
+            "Elsa Lanchester",
+            "Gladys Cooper",
+            "Loretta Young"
         ]
     },
     "A Double Life (1947)": {
@@ -5450,6 +5501,12 @@ var movieMap = {
             "1950s",
             "Alfred Hitchcock",
             "Classics"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Cary Grant",
+            "Grace Kelly",
+            "Jessie Royce Landis"
         ]
     },
     "Love Is a Many-Splendored Thing (1955)": {
@@ -5998,6 +6055,16 @@ var movieMap = {
             "Classics",
             "Courtroom Dramas & Legal Thrillers",
             "Dramas"
+        ],
+        "cast": [
+            "E. G. Marshall",
+            "Ed Begley",
+            "Henry Fonda",
+            "Jack Warden",
+            "John Fiedler",
+            "Joseph Sweeney",
+            "Lee J. Cobb",
+            "Martin Balsam"
         ]
     },
     "The Spirit of St. Louis (1957)": {
@@ -6083,6 +6150,11 @@ var movieMap = {
         "categories": [
             "1950s",
             "Classics"
+        ],
+        "cast": [
+            "Cary Grant",
+            "Deborah Kerr",
+            "Richard Denning"
         ]
     },
     "The Curse of Frankenstein (1957)": {
@@ -6728,6 +6800,15 @@ var movieMap = {
             "1950s",
             "Alfred Hitchcock",
             "Classics"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Cary Grant",
+            "Eva Marie Saint",
+            "James Mason",
+            "Jessie Royce Landis",
+            "Leo G. Carroll",
+            "Martin Landau"
         ]
     },
     "Return of the Fly (1959)": {
@@ -6927,6 +7008,13 @@ var movieMap = {
             "Horror/Thriller",
             "Mystery",
             "Thriller"
+        ],
+        "cast": [
+            "Anthony Perkins",
+            "Janet Leigh",
+            "John Gavin",
+            "Martin Balsam",
+            "Vera Miles"
         ]
     },
     "The Bellboy (1960)": {
@@ -8107,6 +8195,13 @@ var movieMap = {
             "1960s",
             "Classics",
             "Hepburns"
+        ],
+        "cast": [
+            "Audrey Hepburn",
+            "Cary Grant",
+            "George Kennedy",
+            "James Coburn",
+            "Walter Matthau"
         ]
     },
     "4 for Texas (1963)": {
@@ -51134,6 +51229,19 @@ var movieMap = {
             "Mystery",
             "Remakes & Reboots",
             "Thriller"
+        ],
+        "cast": [
+            "Anne Heche",
+            "Flea",
+            "Gus Van Sant",
+            "James Remar",
+            "Julianne Moore",
+            "Philip Baker Hall",
+            "Rita Wilson",
+            "Robert Forster",
+            "Viggo Mortensen",
+            "Vince Vaughn",
+            "William H. Macy"
         ]
     },
     "A Simple Plan (1998)": {
@@ -89587,6 +89695,19 @@ var movieMap = {
             "2010s",
             "Matt & Ben",
             "Steven Soderbergh"
+        ],
+        "cast": [
+            "Bryan Cranston",
+            "Elliott Gould",
+            "Gwyneth Paltrow",
+            "Jennifer Ehle",
+            "John Hawkes",
+            "Jude Law",
+            "Kate Winslet",
+            "Laurence Fishburne",
+            "Marion Cotillard",
+            "Matt Damon",
+            "Sanaa Lathan"
         ]
     },
     "Warrior (2011)": {

@@ -568,6 +568,13 @@ var actorMap = {
             "Captain America: Civil War (2016)"
         ]
     },
+    "Alfred Hitchcock": {
+        "movies": [
+            "Suspicion (1941)",
+            "To Catch a Thief (1955)",
+            "North by Northwest (1959)"
+        ]
+    },
     "Alfred Molina": {
         "movies": [
             "Raiders of the Lost Ark (1981)",
@@ -1270,7 +1277,8 @@ var actorMap = {
     "Anne Heche": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
-            "Six Days, Seven Nights (1998)"
+            "Six Days, Seven Nights (1998)",
+            "Psycho (1998)"
         ]
     },
     "Anne Ramsey": {
@@ -1433,6 +1441,9 @@ var actorMap = {
                 "movie": "Friendly Persuasion",
                 "year": "1956"
             }
+        ],
+        "movies": [
+            "Psycho (1960)"
         ]
     },
     "Anthony Quinn": {
@@ -1604,6 +1615,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Charade (1963)",
             "My Fair Lady (1964)",
             "Wait Until Dark (1967)"
         ]
@@ -1732,6 +1744,11 @@ var actorMap = {
     "Barry Bostwick": {
         "movies": [
             "Incredibles 2 (2018)"
+        ]
+    },
+    "Barry Fitzgerald": {
+        "movies": [
+            "Bringing Up Baby (1938)"
         ]
     },
     "Barry Keoghan": {
@@ -2890,6 +2907,7 @@ var actorMap = {
         ],
         "movies": [
             "Saving Private Ryan (1998)",
+            "Contagion (2011)",
             "John Carter (2012)",
             "Rock of Ages (2012)",
             "Kung Fu Panda 3 (2016)",
@@ -3202,7 +3220,18 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Arsenic and Old Lace (1944)"
+            "Bringing Up Baby (1938)",
+            "Gunga Din (1939)",
+            "His Girl Friday (1940)",
+            "The Philadelphia Story (1940)",
+            "Suspicion (1941)",
+            "Arsenic and Old Lace (1944)",
+            "Notorious (1946)",
+            "The Bishop's Wife (1947)",
+            "To Catch a Thief (1955)",
+            "An Affair to Remember (1957)",
+            "North by Northwest (1959)",
+            "Charade (1963)"
         ]
     },
     "Cary-Hiroyuki Tagawa": {
@@ -3356,12 +3385,18 @@ var actorMap = {
     },
     "Cecil Kellaway": {
         "movies": [
+            "Gunga Din (1939)",
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
     "Cecily Strong": {
         "movies": [
             "Ghostbusters (2016)"
+        ]
+    },
+    "Cedric Hardwicke": {
+        "movies": [
+            "Suspicion (1941)"
         ]
     },
     "Cedric the Entertainer": {
@@ -4083,6 +4118,11 @@ var actorMap = {
             "Battle for the Planet of the Apes (1973)"
         ]
     },
+    "Claude Rains": {
+        "movies": [
+            "Notorious (1946)"
+        ]
+    },
     "Claudia Christian": {
         "movies": [
             "Atlantis: The Lost Empire (2001)"
@@ -4103,6 +4143,11 @@ var actorMap = {
         "movies": [
             "Six Days, Seven Nights (1998)",
             "Blow (2001)"
+        ]
+    },
+    "Cliff Edwards": {
+        "movies": [
+            "His Girl Friday (1940)"
         ]
     },
     "Cliff Robertson": {
@@ -4977,6 +5022,11 @@ var actorMap = {
             "Big (1988)"
         ]
     },
+    "David Niven": {
+        "movies": [
+            "The Bishop's Wife (1947)"
+        ]
+    },
     "David Ogden Stiers": {
         "movies": [
             "Atlantis: The Lost Empire (2001)"
@@ -5127,6 +5177,11 @@ var actorMap = {
     "Dean-Charles Chapman": {
         "movies": [
             "1917 (2019)"
+        ]
+    },
+    "Deborah Kerr": {
+        "movies": [
+            "An Affair to Remember (1957)"
         ]
     },
     "Debra Jo Rupp": {
@@ -5718,6 +5773,11 @@ var actorMap = {
             "Noah (2014)"
         ]
     },
+    "Douglas Fairbanks Jr.": {
+        "movies": [
+            "Gunga Din (1939)"
+        ]
+    },
     "Dougray Scott": {
         "movies": [
             "Mission: Impossible 2 (2000)",
@@ -5828,6 +5888,7 @@ var actorMap = {
     },
     "E. G. Marshall": {
         "movies": [
+            "12 Angry Men (1957)",
             "Superman II (1981)"
         ]
     },
@@ -5839,6 +5900,11 @@ var actorMap = {
     "Ebon Moss-Bachrach": {
         "movies": [
             "The Lake House (2006)"
+        ]
+    },
+    "Ed Begley": {
+        "movies": [
+            "12 Angry Men (1957)"
         ]
     },
     "Ed Begley Jr.": {
@@ -6310,12 +6376,18 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
+            "Contagion (2011)",
             "Ocean's 8 (2018)"
         ]
     },
     "Elon Musk": {
         "movies": [
             "Iron Man 2 (2010)"
+        ]
+    },
+    "Elsa Lanchester": {
+        "movies": [
+            "The Bishop's Wife (1947)"
         ]
     },
     "Elton John": {
@@ -6673,6 +6745,7 @@ var actorMap = {
     },
     "Eva Marie Saint": {
         "movies": [
+            "North by Northwest (1959)",
             "Superman Returns (2006)"
         ]
     },
@@ -6874,6 +6947,11 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
+        ]
+    },
+    "Flea": {
+        "movies": [
+            "Psycho (1998)"
         ]
     },
     "Florence Pugh": {
@@ -7498,6 +7576,11 @@ var actorMap = {
             "Rumor Has It (2005)"
         ]
     },
+    "George Kennedy": {
+        "movies": [
+            "Charade (1963)"
+        ]
+    },
     "George Lopez": {
         "movies": [
             "Valentine's Day (2010)"
@@ -7615,6 +7698,7 @@ var actorMap = {
     },
     "Gladys Cooper": {
         "movies": [
+            "The Bishop's Wife (1947)",
             "My Fair Lady (1964)"
         ]
     },
@@ -7725,6 +7809,11 @@ var actorMap = {
             "Shazam! (2019)"
         ]
     },
+    "Grace Kelly": {
+        "movies": [
+            "To Catch a Thief (1955)"
+        ]
+    },
     "Graham Greene": {
         "suppNoms": [
             {
@@ -7799,6 +7888,11 @@ var actorMap = {
             "Dark Shadows (2012)"
         ]
     },
+    "Gus Van Sant": {
+        "movies": [
+            "Psycho (1998)"
+        ]
+    },
     "Guy Pearce": {
         "movies": [
             "The King's Speech (2010)",
@@ -7830,6 +7924,7 @@ var actorMap = {
             "View from the Top (2003)",
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
+            "Contagion (2011)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
             "Mortdecai (2015)",
@@ -8239,6 +8334,9 @@ var actorMap = {
                 "movie": "On Golden Pond",
                 "year": "1981"
             }
+        ],
+        "movies": [
+            "12 Angry Men (1957)"
         ]
     },
     "Henry Gibson": {
@@ -8596,6 +8694,9 @@ var actorMap = {
                 "movie": "Murder on the Orient Express",
                 "year": "1974"
             }
+        ],
+        "movies": [
+            "Notorious (1946)"
         ]
     },
     "Ioan Gruffudd": {
@@ -8779,6 +8880,7 @@ var actorMap = {
     },
     "Jack Carson": {
         "movies": [
+            "Bringing Up Baby (1938)",
             "Arsenic and Old Lace (1944)"
         ]
     },
@@ -8943,6 +9045,11 @@ var actorMap = {
         "movies": [
             "Transformers: Age of Extinction (2014)",
             "Mowgli: Legend of the Jungle (2018)"
+        ]
+    },
+    "Jack Warden": {
+        "movies": [
+            "12 Angry Men (1957)"
         ]
     },
     "Jack Whitehall": {
@@ -9155,6 +9262,9 @@ var actorMap = {
                 "movie": "Affliction",
                 "year": "1998"
             }
+        ],
+        "movies": [
+            "Charade (1963)"
         ]
     },
     "James Corden": {
@@ -9295,6 +9405,11 @@ var actorMap = {
             "A Few Good Men (1992)"
         ]
     },
+    "James Mason": {
+        "movies": [
+            "North by Northwest (1959)"
+        ]
+    },
     "James McAvoy": {
         "movies": [
             "Wimbledon (2004)",
@@ -9342,6 +9457,7 @@ var actorMap = {
     },
     "James Remar": {
         "movies": [
+            "Psycho (1998)",
             "Blade: Trinity (2004)",
             "Red (2010)",
             "Transformers: Dark of the Moon (2011)",
@@ -9382,6 +9498,9 @@ var actorMap = {
                 "movie": "Anatomy of a Murder",
                 "year": "1959"
             }
+        ],
+        "movies": [
+            "The Philadelphia Story (1940)"
         ]
     },
     "James Tolkan": {
@@ -9559,6 +9678,9 @@ var actorMap = {
                 "movie": "Psycho",
                 "year": "1960"
             }
+        ],
+        "movies": [
+            "Psycho (1960)"
         ]
     },
     "Janet McTeer": {
@@ -10027,6 +10149,7 @@ var actorMap = {
     "Jennifer Ehle": {
         "movies": [
             "The King's Speech (2010)",
+            "Contagion (2011)",
             "Zero Dark Thirty (2012)",
             "RoboCop (2014)"
         ]
@@ -10414,6 +10537,12 @@ var actorMap = {
             "Dolittle (2020)"
         ]
     },
+    "Jessie Royce Landis": {
+        "movies": [
+            "To Catch a Thief (1955)",
+            "North by Northwest (1959)"
+        ]
+    },
     "Jiang Wen": {
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
@@ -10593,6 +10722,12 @@ var actorMap = {
         ],
         "movies": [
             "The Perks of Being a Wallflower (2012)"
+        ]
+    },
+    "Joan Fontaine": {
+        "movies": [
+            "Gunga Din (1939)",
+            "Suspicion (1941)"
         ]
     },
     "Joan Plowright": {
@@ -10915,6 +11050,11 @@ var actorMap = {
             "Harry Potter and the Chamber of Secrets (2002)"
         ]
     },
+    "John Fiedler": {
+        "movies": [
+            "12 Angry Men (1957)"
+        ]
+    },
     "John Francis Daley": {
         "movies": [
             "View from the Top (2003)"
@@ -10924,6 +11064,11 @@ var actorMap = {
         "movies": [
             "Jonah Hex (2010)",
             "10 Cloverfield Lane (2016)"
+        ]
+    },
+    "John Gavin": {
+        "movies": [
+            "Psycho (1960)"
         ]
     },
     "John Glover": {
@@ -10949,12 +11094,18 @@ var actorMap = {
             }
         ],
         "movies": [
-            "I Still Know What You Did Last Summer (1998)"
+            "I Still Know What You Did Last Summer (1998)",
+            "Contagion (2011)"
         ]
     },
     "John Heard": {
         "movies": [
             "Big (1988)"
+        ]
+    },
+    "John Howard": {
+        "movies": [
+            "The Philadelphia Story (1940)"
         ]
     },
     "John Hurt": {
@@ -11512,6 +11663,11 @@ var actorMap = {
             "The Lost World: Jurassic Park (1997)"
         ]
     },
+    "Joseph Sweeney": {
+        "movies": [
+            "12 Angry Men (1957)"
+        ]
+    },
     "Josephine Hull": {
         "movies": [
             "Arsenic and Old Lace (1944)"
@@ -11655,6 +11811,7 @@ var actorMap = {
             "Road to Perdition (2002)",
             "The Aviator (2004)",
             "The Holiday (2006)",
+            "Contagion (2011)",
             "Rise of the Guardians (2012)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)",
             "Captain Marvel (2019)"
@@ -11852,6 +12009,7 @@ var actorMap = {
         "movies": [
             "The Fugitive (1993)",
             "The Lost World: Jurassic Park (1997)",
+            "Psycho (1998)",
             "Magnolia (1999)",
             "Kingsman: The Golden Circle (2017)"
         ]
@@ -12252,6 +12410,7 @@ var actorMap = {
             "Eternal Sunshine of the Spotless Mind (2004)",
             "Flushed Away (2006)",
             "The Holiday (2006)",
+            "Contagion (2011)",
             "Movie 43 (2013)"
         ]
     },
@@ -12307,6 +12466,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bringing Up Baby (1938)",
+            "The Philadelphia Story (1940)",
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
@@ -13322,6 +13483,7 @@ var actorMap = {
             "Mission: Impossible III (2006)",
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Contagion (2011)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Ant-Man and the Wasp (2018)"
@@ -13388,6 +13550,11 @@ var actorMap = {
             "The Fifth Element (1997)"
         ]
     },
+    "Lee J. Cobb": {
+        "movies": [
+            "12 Angry Men (1957)"
+        ]
+    },
     "Lee Meriwether": {
         "movies": [
             "Batman (1966)"
@@ -13450,6 +13617,12 @@ var actorMap = {
     "Lennie James": {
         "movies": [
             "Sahara (2005)"
+        ]
+    },
+    "Leo G. Carroll": {
+        "movies": [
+            "Suspicion (1941)",
+            "North by Northwest (1959)"
         ]
     },
     "Leo Howard": {
@@ -13848,6 +14021,11 @@ var actorMap = {
             "For Colored Girls (2010)"
         ]
     },
+    "Loretta Young": {
+        "movies": [
+            "The Bishop's Wife (1947)"
+        ]
+    },
     "Lori Petty": {
         "movies": [
             "A League of Their Own (1992)"
@@ -13882,6 +14060,11 @@ var actorMap = {
     "Louis C.K.": {
         "movies": [
             "Blue Jasmine (2013)"
+        ]
+    },
+    "Louis Calhern": {
+        "movies": [
+            "Notorious (1946)"
         ]
     },
     "Louis Gossett Jr.": {
@@ -14468,6 +14651,7 @@ var actorMap = {
         ],
         "movies": [
             "Nine (2009)",
+            "Contagion (2011)",
             "The Dark Knight Rises (2012)",
             "Dolittle (2020)"
         ]
@@ -14715,6 +14899,12 @@ var actorMap = {
             "Men in Black II (2002)"
         ]
     },
+    "Martin Balsam": {
+        "movies": [
+            "12 Angry Men (1957)",
+            "Psycho (1960)"
+        ]
+    },
     "Martin Brest": {
         "movies": [
             "Spies Like Us (1985)"
@@ -14768,6 +14958,9 @@ var actorMap = {
                 "movie": "Ed Wood",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "North by Northwest (1959)"
         ]
     },
     "Martin Lawrence": {
@@ -14936,6 +15129,7 @@ var actorMap = {
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
+            "Contagion (2011)",
             "We Bought a Zoo (2011)",
             "Thor: Ragnarok (2017)",
             "Deadpool 2 (2018)"
@@ -15147,6 +15341,16 @@ var actorMap = {
     "Maximiliano Hern\u00e1ndez": {
         "movies": [
             "Thor (2011)"
+        ]
+    },
+    "May Robson": {
+        "movies": [
+            "Bringing Up Baby (1938)"
+        ]
+    },
+    "May Whitty": {
+        "movies": [
+            "Suspicion (1941)"
         ]
     },
     "Maya Erskine": {
@@ -16754,6 +16958,11 @@ var actorMap = {
             "G-Force (2009)"
         ]
     },
+    "Nigel Bruce": {
+        "movies": [
+            "Suspicion (1941)"
+        ]
+    },
     "Nigel Hawthorne": {
         "leadNoms": [
             {
@@ -17871,6 +18080,7 @@ var actorMap = {
     "Philip Baker Hall": {
         "movies": [
             "Ghostbusters II (1989)",
+            "Psycho (1998)",
             "Magnolia (1999)",
             "Zodiac (2007)"
         ]
@@ -18122,6 +18332,11 @@ var actorMap = {
             "Juno (2007)",
             "Monsters vs. Aliens (2009)",
             "Transformers: Revenge of the Fallen (2009)"
+        ]
+    },
+    "Ralph Bellamy": {
+        "movies": [
+            "His Girl Friday (1940)"
         ]
     },
     "Ralph Fiennes": {
@@ -18511,6 +18726,11 @@ var actorMap = {
             "Wait Until Dark (1967)"
         ]
     },
+    "Richard Denning": {
+        "movies": [
+            "An Affair to Remember (1957)"
+        ]
+    },
     "Richard Donner": {
         "movies": [
             "Superman II (1981)"
@@ -18715,6 +18935,11 @@ var actorMap = {
             "West Side Story (1961)"
         ]
     },
+    "Rita Wilson": {
+        "movies": [
+            "Psycho (1998)"
+        ]
+    },
     "River Phoenix": {
         "suppNoms": [
             {
@@ -18916,6 +19141,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Psycho (1998)",
             "Firewall (2006)"
         ]
     },
@@ -19086,6 +19312,11 @@ var actorMap = {
             "Mowgli: Legend of the Jungle (2018)"
         ]
     },
+    "Roland Young": {
+        "movies": [
+            "The Philadelphia Story (1940)"
+        ]
+    },
     "Roman Griffin Davis": {
         "movies": [
             "Jojo Rabbit (2019)"
@@ -19183,6 +19414,11 @@ var actorMap = {
             "The Joy Luck Club (1993)",
             "North (1994)",
             "Just like Heaven (2005)"
+        ]
+    },
+    "Rosalind Russell": {
+        "movies": [
+            "His Girl Friday (1940)"
         ]
     },
     "Rosamund Pike": {
@@ -19395,6 +19631,11 @@ var actorMap = {
             "Batman Begins (2005)"
         ]
     },
+    "Ruth Hussey": {
+        "movies": [
+            "The Philadelphia Story (1940)"
+        ]
+    },
     "Ruth Negga": {
         "leadNoms": [
             {
@@ -19602,6 +19843,11 @@ var actorMap = {
             "Ted (2012)"
         ]
     },
+    "Sam Jaffe": {
+        "movies": [
+            "Gunga Din (1939)"
+        ]
+    },
     "Sam Neill": {
         "movies": [
             "Jurassic Park (1993)",
@@ -19743,6 +19989,7 @@ var actorMap = {
         "movies": [
             "Blade (1998)",
             "The Best Man (1999)",
+            "Contagion (2011)",
             "The Best Man Holiday (2013)",
             "Now You See Me 2 (2016)"
         ]
@@ -22340,6 +22587,11 @@ var actorMap = {
             }
         ]
     },
+    "Vera Miles": {
+        "movies": [
+            "Psycho (1960)"
+        ]
+    },
     "Verne Troyer": {
         "movies": [
             "Men in Black (1997)",
@@ -22368,6 +22620,11 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)"
         ]
     },
+    "Victor McLaglen": {
+        "movies": [
+            "Gunga Din (1939)"
+        ]
+    },
     "Victor Wong": {
         "movies": [
             "Seven Years in Tibet (1997)"
@@ -22394,6 +22651,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Psycho (1998)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
@@ -22414,6 +22672,7 @@ var actorMap = {
     "Vince Vaughn": {
         "movies": [
             "The Lost World: Jurassic Park (1997)",
+            "Psycho (1998)",
             "Made (2001)",
             "Mr. & Mrs. Smith (2005)",
             "Four Christmases (2008)",
@@ -22583,6 +22842,11 @@ var actorMap = {
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)",
             "Star Trek Generations (1994)"
+        ]
+    },
+    "Walter Matthau": {
+        "movies": [
+            "Charade (1963)"
         ]
     },
     "Walton Goggins": {
@@ -22883,6 +23147,7 @@ var actorMap = {
         ],
         "movies": [
             "Ghosts of Mississippi (1996)",
+            "Psycho (1998)",
             "Mystery Men (1999)",
             "Magnolia (1999)",
             "Jurassic Park III (2001)",
