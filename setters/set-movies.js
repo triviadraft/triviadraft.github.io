@@ -955,6 +955,14 @@ var movieMap = {
             "Classics",
             "Hepburns",
             "Period Pieces & Costume Dramas"
+        ],
+        "cast": [
+            "Frances Dee",
+            "Jean Parker",
+            "Joan Bennett",
+            "Katharine Hepburn",
+            "Paul Lukas",
+            "Spring Byington"
         ]
     },
     "Duck Soup (1933)": {
@@ -18635,6 +18643,13 @@ var movieMap = {
             "1980s",
             "Dramas",
             "Hepburns"
+        ],
+        "cast": [
+            "Dabney Coleman",
+            "Doug McKeon",
+            "Henry Fonda",
+            "Jane Fonda",
+            "Katharine Hepburn"
         ]
     },
     "Reds (1981)": {
@@ -40478,6 +40493,17 @@ var movieMap = {
             "Ramis & Reitmans",
             "Romance",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Annette Bening",
+            "Chloe Webb",
+            "Garry Shandling",
+            "Harold Ramis",
+            "Kate Capshaw",
+            "Katharine Hepburn",
+            "Pierce Brosnan",
+            "Ray Charles",
+            "Warren Beatty"
         ]
     },
     "Radioland Murders (1994)": {

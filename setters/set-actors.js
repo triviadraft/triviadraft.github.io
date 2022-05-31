@@ -1313,6 +1313,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Love Affair (1994)",
             "Captain Marvel (2019)"
         ]
     },
@@ -3651,7 +3652,8 @@ var actorMap = {
     },
     "Chloe Webb": {
         "movies": [
-            "Ghostbusters II (1989)"
+            "Ghostbusters II (1989)",
+            "Love Affair (1994)"
         ]
     },
     "Chlo\u00eb Grace Moretz": {
@@ -4525,6 +4527,7 @@ var actorMap = {
     "Dabney Coleman": {
         "movies": [
             "9 to 5 (1980)",
+            "On Golden Pond (1981)",
             "WarGames (1983)"
         ]
     },
@@ -5808,6 +5811,11 @@ var actorMap = {
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Doug McKeon": {
+        "movies": [
+            "On Golden Pond (1981)"
+        ]
+    },
     "Douglas Booth": {
         "movies": [
             "Noah (2014)"
@@ -7061,6 +7069,11 @@ var actorMap = {
             "The Power of the Dog (2021)"
         ]
     },
+    "Frances Dee": {
+        "movies": [
+            "Little Women (1933)"
+        ]
+    },
     "Frances McDormand": {
         "leadNoms": [
             {
@@ -7334,6 +7347,7 @@ var actorMap = {
     },
     "Garry Shandling": {
         "movies": [
+            "Love Affair (1994)",
             "Iron Man 2 (2010)",
             "Captain America: The Winter Soldier (2014)",
             "The Jungle Book (2016)"
@@ -8115,6 +8129,7 @@ var actorMap = {
             "Ghostbusters (1984)",
             "Ghostbusters II (1989)",
             "Groundhog Day (1993)",
+            "Love Affair (1994)",
             "As Good as It Gets (1997)",
             "Orange County (2002)",
             "Knocked Up (2007)"
@@ -8386,7 +8401,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "12 Angry Men (1957)"
+            "12 Angry Men (1957)",
+            "On Golden Pond (1981)"
         ]
     },
     "Henry Gibson": {
@@ -9699,6 +9715,7 @@ var actorMap = {
         ],
         "movies": [
             "9 to 5 (1980)",
+            "On Golden Pond (1981)",
             "This Is Where I Leave You (2014)",
             "Book Club (2018)"
         ]
@@ -10028,6 +10045,11 @@ var actorMap = {
     "Jean Marsh": {
         "movies": [
             "Willow (1988)"
+        ]
+    },
+    "Jean Parker": {
+        "movies": [
+            "Little Women (1933)"
         ]
     },
     "Jean Reno": {
@@ -10753,6 +10775,11 @@ var actorMap = {
                 "movie": "The Crucible",
                 "year": "1996"
             }
+        ]
+    },
+    "Joan Bennett": {
+        "movies": [
+            "Little Women (1933)"
         ]
     },
     "Joan Crawford": {
@@ -12385,7 +12412,8 @@ var actorMap = {
     },
     "Kate Capshaw": {
         "movies": [
-            "Indiana Jones and the Temple of Doom (1984)"
+            "Indiana Jones and the Temple of Doom (1984)",
+            "Love Affair (1994)"
         ]
     },
     "Kate Dickie": {
@@ -12531,9 +12559,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Little Women (1933)",
             "Bringing Up Baby (1938)",
             "The Philadelphia Story (1940)",
-            "Guess Who's Coming to Dinner (1967)"
+            "Guess Who's Coming to Dinner (1967)",
+            "On Golden Pond (1981)",
+            "Love Affair (1994)"
         ]
     },
     "Katharine Houghton": {
@@ -17639,6 +17670,11 @@ var actorMap = {
             "The Breakfast Club (1985)"
         ]
     },
+    "Paul Lukas": {
+        "movies": [
+            "Little Women (1933)"
+        ]
+    },
     "Paul McCartney": {
         "movies": [
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
@@ -18224,6 +18260,7 @@ var actorMap = {
     },
     "Pierce Brosnan": {
         "movies": [
+            "Love Affair (1994)",
             "The Tailor of Panama (2001)"
         ]
     },
@@ -18522,6 +18559,11 @@ var actorMap = {
         "movies": [
             "I Love You, Man (2009)",
             "The Grinch (2018)"
+        ]
+    },
+    "Ray Charles": {
+        "movies": [
+            "Love Affair (1994)"
         ]
     },
     "Ray Fisher": {
@@ -20965,6 +21007,11 @@ var actorMap = {
             "Jungle Fever (1991)"
         ]
     },
+    "Spring Byington": {
+        "movies": [
+            "Little Women (1933)"
+        ]
+    },
     "Stacey Dash": {
         "movies": [
             "View from the Top (2003)"
@@ -22978,6 +23025,9 @@ var actorMap = {
                 "movie": "Bugsy",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Love Affair (1994)"
         ]
     },
     "Warren Oates": {
