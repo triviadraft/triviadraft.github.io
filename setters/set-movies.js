@@ -20489,6 +20489,19 @@ var movieMap = {
             "John Hughes",
             "Ramis & Reitmans",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Anthony Michael Hall",
+            "Beverly D'Angelo",
+            "Brian Doyle-Murray",
+            "Chevy Chase",
+            "Christie Brinkley",
+            "Dana Barron",
+            "Eugene Levy",
+            "Harold Ramis",
+            "Jane Krakowski",
+            "John Candy",
+            "Randy Quaid"
         ]
     },
     "Risky Business (1983)": {
@@ -30696,6 +30709,12 @@ var movieMap = {
             "1980s",
             "Dramas",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Crystal R. Fox",
+            "Dan Aykroyd",
+            "Jessica Tandy",
+            "Morgan Freeman"
         ]
     },
     "Family Business (1989)": {
@@ -36429,6 +36448,16 @@ var movieMap = {
             "Comedies",
             "Ramis & Reitmans",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Andie MacDowell",
+            "Bill Murray",
+            "Brian Doyle-Murray",
+            "Chris Elliott",
+            "Harold Ramis",
+            "Hynden Walch",
+            "Michael Shannon",
+            "Stephen Tobolowsky"
         ]
     },
     "Strictly Ballroom (1993)": {
@@ -48773,6 +48802,24 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Brian Doyle-Murray",
+            "Cuba Gooding Jr.",
+            "Greg Kinnear",
+            "Harold Ramis",
+            "Helen Hunt",
+            "Jack Nicholson",
+            "Jamie Kennedy",
+            "Julie Benz",
+            "Lawrence Kasdan",
+            "Maya Rudolph",
+            "Missi Pyle",
+            "Shane Black",
+            "Shirley Knight",
+            "Skeet Ulrich",
+            "Wood Harris",
+            "Yeardley Smith"
         ]
     },
     "An American Werewolf in Paris (1997)": {
@@ -59342,6 +59389,25 @@ var movieMap = {
             "Marshalls",
             "Ramis & Reitmans",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Ben Stiller",
+            "Catherine O'Hara",
+            "Chevy Chase",
+            "Colin Hanks",
+            "Fran Kranz",
+            "Garry Marshall",
+            "Harold Ramis",
+            "Jack Black",
+            "John Lithgow",
+            "Kevin Kline",
+            "Leslie Mann",
+            "Lily Tomlin",
+            "Lizzy Caplan",
+            "Mike White",
+            "Monica Keena",
+            "Nat Faxon",
+            "Schuyler Fisk"
         ]
     },
     "Snow Dogs (2002)": {
@@ -64142,6 +64208,12 @@ var movieMap = {
             "Bill Murray",
             "Coppolas",
             "Dramas",
+            "Scarlett Johansson"
+        ],
+        "cast": [
+            "Anna Faris",
+            "Bill Murray",
+            "Giovanni Ribisi",
             "Scarlett Johansson"
         ]
     },

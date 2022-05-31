@@ -881,6 +881,7 @@ var actorMap = {
     },
     "Andie MacDowell": {
         "movies": [
+            "Groundhog Day (1993)",
             "Ready or Not (2019)"
         ]
     },
@@ -1165,6 +1166,7 @@ var actorMap = {
     },
     "Anna Faris": {
         "movies": [
+            "Lost in Translation (2003)",
             "Take Me Home Tonight (2011)",
             "What's Your Number? (2011)",
             "Movie 43 (2013)"
@@ -1425,6 +1427,7 @@ var actorMap = {
     },
     "Anthony Michael Hall": {
         "movies": [
+            "National Lampoon's Vacation (1983)",
             "The Breakfast Club (1985)",
             "The Dark Knight (2008)",
             "Foxcatcher (2014)"
@@ -1910,6 +1913,7 @@ var actorMap = {
     "Ben Stiller": {
         "movies": [
             "Mystery Men (1999)",
+            "Orange County (2002)",
             "Tropic Thunder (2008)"
         ]
     },
@@ -2087,7 +2091,8 @@ var actorMap = {
     },
     "Beverly D'Angelo": {
         "movies": [
-            "Annie Hall (1977)"
+            "Annie Hall (1977)",
+            "National Lampoon's Vacation (1983)"
         ]
     },
     "Beverly Todd": {
@@ -2153,7 +2158,9 @@ var actorMap = {
             "Ghostbusters (1984)",
             "Little Shop of Horrors (1986)",
             "Ghostbusters II (1989)",
+            "Groundhog Day (1993)",
             "Space Jam (1996)",
+            "Lost in Translation (2003)",
             "Zombieland (2009)",
             "The Jungle Book (2016)",
             "Ghostbusters (2016)",
@@ -2682,7 +2689,10 @@ var actorMap = {
     },
     "Brian Doyle-Murray": {
         "movies": [
-            "Ghostbusters II (1989)"
+            "National Lampoon's Vacation (1983)",
+            "Ghostbusters II (1989)",
+            "Groundhog Day (1993)",
+            "As Good as It Gets (1997)"
         ]
     },
     "Brian Gleeson": {
@@ -3360,6 +3370,11 @@ var actorMap = {
             "The Tailor of Panama (2001)"
         ]
     },
+    "Catherine O'Hara": {
+        "movies": [
+            "Orange County (2002)"
+        ]
+    },
     "Catherine Zeta-Jones": {
         "suppNoms": [
             {
@@ -3597,9 +3612,11 @@ var actorMap = {
     },
     "Chevy Chase": {
         "movies": [
+            "National Lampoon's Vacation (1983)",
             "Spies Like Us (1985)",
             "Three Amigos (1986)",
-            "Last Action Hero (1993)"
+            "Last Action Hero (1993)",
+            "Orange County (2002)"
         ]
     },
     "Chi McBride": {
@@ -3684,6 +3701,11 @@ var actorMap = {
             "August: Osage County (2013)",
             "The Amazing Spider-Man 2 (2014)",
             "Little Women (2019)"
+        ]
+    },
+    "Chris Elliott": {
+        "movies": [
+            "Groundhog Day (1993)"
         ]
     },
     "Chris Evans": {
@@ -3872,6 +3894,11 @@ var actorMap = {
             "Robin Hood: Prince of Thieves (1991)",
             "True Romance (1993)",
             "Interview with the Vampire (1994)"
+        ]
+    },
+    "Christie Brinkley": {
+        "movies": [
+            "National Lampoon's Vacation (1983)"
         ]
     },
     "Christina Applegate": {
@@ -4275,6 +4302,7 @@ var actorMap = {
     },
     "Colin Hanks": {
         "movies": [
+            "Orange County (2002)",
             "King Kong (2005)"
         ]
     },
@@ -4436,6 +4464,11 @@ var actorMap = {
             "Alice in Wonderland (2010)"
         ]
     },
+    "Crystal R. Fox": {
+        "movies": [
+            "Driving Miss Daisy (1989)"
+        ]
+    },
     "Crystle Stewart": {
         "movies": [
             "Acrimony (2018)"
@@ -4451,7 +4484,8 @@ var actorMap = {
         "movies": [
             "Boyz n the Hood (1991)",
             "A Few Good Men (1992)",
-            "Jerry Maguire (1996)"
+            "Jerry Maguire (1996)",
+            "As Good as It Gets (1997)"
         ]
     },
     "Curtis Armstrong": {
@@ -4554,6 +4588,7 @@ var actorMap = {
             "Ghostbusters (1984)",
             "Spies Like Us (1985)",
             "Ghostbusters II (1989)",
+            "Driving Miss Daisy (1989)",
             "Chaplin (1992)",
             "North (1994)",
             "Ghostbusters (2016)",
@@ -4583,6 +4618,11 @@ var actorMap = {
     "Dan Stevens": {
         "movies": [
             "Beauty and the Beast (2017)"
+        ]
+    },
+    "Dana Barron": {
+        "movies": [
+            "National Lampoon's Vacation (1983)"
         ]
     },
     "Dana Delany": {
@@ -6732,6 +6772,7 @@ var actorMap = {
     "Eugene Levy": {
         "movies": [
             "Heavy Metal (1981)",
+            "National Lampoon's Vacation (1983)",
             "Armed and Dangerous (1986)"
         ]
     },
@@ -7007,6 +7048,7 @@ var actorMap = {
     },
     "Fran Kranz": {
         "movies": [
+            "Orange County (2002)",
             "The Cabin in the Woods (2012)"
         ]
     },
@@ -7286,7 +7328,8 @@ var actorMap = {
     "Garry Marshall": {
         "movies": [
             "A League of Their Own (1992)",
-            "Hocus Pocus (1993)"
+            "Hocus Pocus (1993)",
+            "Orange County (2002)"
         ]
     },
     "Garry Shandling": {
@@ -7692,6 +7735,7 @@ var actorMap = {
     "Giovanni Ribisi": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "Lost in Translation (2003)",
             "Avatar (2009)",
             "Ted (2012)"
         ]
@@ -7857,6 +7901,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "As Good as It Gets (1997)",
             "Mystery Men (1999)",
             "Robots (2005)",
             "Movie 43 (2013)"
@@ -8066,8 +8111,12 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "Heavy Metal (1981)",
+            "National Lampoon's Vacation (1983)",
             "Ghostbusters (1984)",
             "Ghostbusters II (1989)",
+            "Groundhog Day (1993)",
+            "As Good as It Gets (1997)",
+            "Orange County (2002)",
             "Knocked Up (2007)"
         ]
     },
@@ -8235,6 +8284,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "As Good as It Gets (1997)",
             "Cast Away (2000)"
         ]
     },
@@ -8496,6 +8546,7 @@ var actorMap = {
     },
     "Hynden Walch": {
         "movies": [
+            "Groundhog Day (1993)",
             "Jerry Maguire (1996)",
             "Teen Titans Go! To the Movies (2018)"
         ]
@@ -8870,6 +8921,7 @@ var actorMap = {
     "Jack Black": {
         "movies": [
             "I Still Know What You Did Last Summer (1998)",
+            "Orange County (2002)",
             "King Kong (2005)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
@@ -9012,6 +9064,7 @@ var actorMap = {
             "The Witches of Eastwick (1987)",
             "Batman (1989)",
             "A Few Good Men (1992)",
+            "As Good as It Gets (1997)",
             "Something's Gotta Give (2003)",
             "The Bucket List (2007)",
             "How Do You Know (2010)"
@@ -9594,6 +9647,7 @@ var actorMap = {
     },
     "Jamie Kennedy": {
         "movies": [
+            "As Good as It Gets (1997)",
             "Malibu's Most Wanted (2003)",
             "Son of the Mask (2005)"
         ]
@@ -9647,6 +9701,11 @@ var actorMap = {
             "9 to 5 (1980)",
             "This Is Where I Leave You (2014)",
             "Book Club (2018)"
+        ]
+    },
+    "Jane Krakowski": {
+        "movies": [
+            "National Lampoon's Vacation (1983)"
         ]
     },
     "Jane Lynch": {
@@ -10519,6 +10578,9 @@ var actorMap = {
                 "movie": "Fried Green Tomatoes",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Driving Miss Daisy (1989)"
         ]
     },
     "Jessica Williams": {
@@ -11013,6 +11075,7 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "Heavy Metal (1981)",
+            "National Lampoon's Vacation (1983)",
             "Armed and Dangerous (1986)",
             "Little Shop of Horrors (1986)",
             "Spaceballs (1987)"
@@ -11192,6 +11255,7 @@ var actorMap = {
         ],
         "movies": [
             "Terms of Endearment (1983)",
+            "Orange County (2002)",
             "Rise of the Planet of the Apes (2011)",
             "New Year's Eve (2011)"
         ]
@@ -12040,6 +12104,7 @@ var actorMap = {
     },
     "Julie Benz": {
         "movies": [
+            "As Good as It Gets (1997)",
             "Punisher: War Zone (2008)"
         ]
     },
@@ -12915,6 +12980,7 @@ var actorMap = {
         ],
         "movies": [
             "Chaplin (1992)",
+            "Orange County (2002)",
             "The Tale of Despereaux (2008)",
             "No Strings Attached (2011)",
             "Beauty and the Beast (2017)"
@@ -13521,6 +13587,11 @@ var actorMap = {
             "Promising Young Woman (2020)"
         ]
     },
+    "Lawrence Kasdan": {
+        "movies": [
+            "As Good as It Gets (1997)"
+        ]
+    },
     "LeBron James": {
         "movies": [
             "Trainwreck (2015)"
@@ -13729,6 +13800,7 @@ var actorMap = {
     },
     "Leslie Mann": {
         "movies": [
+            "Orange County (2002)",
             "Knocked Up (2007)",
             "The Bling Ring (2013)"
         ]
@@ -13876,6 +13948,7 @@ var actorMap = {
         ],
         "movies": [
             "9 to 5 (1980)",
+            "Orange County (2002)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
@@ -13984,6 +14057,7 @@ var actorMap = {
     },
     "Lizzy Caplan": {
         "movies": [
+            "Orange County (2002)",
             "Now You See Me 2 (2016)"
         ]
     },
@@ -15360,6 +15434,7 @@ var actorMap = {
     },
     "Maya Rudolph": {
         "movies": [
+            "As Good as It Gets (1997)",
             "Bridesmaids (2011)",
             "Big Hero 6 (2014)",
             "Strange Magic (2015)",
@@ -16071,6 +16146,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Groundhog Day (1993)",
             "Vanilla Sky (2001)",
             "Jonah Hex (2010)",
             "Man of Steel (2013)",
@@ -16298,6 +16374,11 @@ var actorMap = {
             "The Help (2011)"
         ]
     },
+    "Mike White": {
+        "movies": [
+            "Orange County (2002)"
+        ]
+    },
     "Mikey Day": {
         "movies": [
             "Little (2019)"
@@ -16423,6 +16504,7 @@ var actorMap = {
     },
     "Missi Pyle": {
         "movies": [
+            "As Good as It Gets (1997)",
             "Nobody's Fool (2018)"
         ]
     },
@@ -16471,6 +16553,11 @@ var actorMap = {
             "The Best Man Holiday (2013)"
         ]
     },
+    "Monica Keena": {
+        "movies": [
+            "Orange County (2002)"
+        ]
+    },
     "Morena Baccarin": {
         "movies": [
             "Deadpool (2016)",
@@ -16504,6 +16591,7 @@ var actorMap = {
         ],
         "movies": [
             "Lean on Me (1989)",
+            "Driving Miss Daisy (1989)",
             "Robin Hood: Prince of Thieves (1991)",
             "Amistad (1997)",
             "Batman Begins (2005)",
@@ -16633,6 +16721,7 @@ var actorMap = {
     },
     "Nat Faxon": {
         "movies": [
+            "Orange County (2002)",
             "Ready or Not (2019)"
         ]
     },
@@ -18415,6 +18504,7 @@ var actorMap = {
     },
     "Randy Quaid": {
         "movies": [
+            "National Lampoon's Vacation (1983)",
             "Days of Thunder (1990)"
         ]
     },
@@ -20130,6 +20220,7 @@ var actorMap = {
         "movies": [
             "North (1994)",
             "Ghost World (2001)",
+            "Lost in Translation (2003)",
             "The Perfect Score (2004)",
             "The Prestige (2006)",
             "The Other Boleyn Girl (2008)",
@@ -20155,6 +20246,11 @@ var actorMap = {
     "Scatman Crothers": {
         "movies": [
             "The Transformers: The Movie (1986)"
+        ]
+    },
+    "Schuyler Fisk": {
+        "movies": [
+            "Orange County (2002)"
         ]
     },
     "Scoot McNairy": {
@@ -20390,6 +20486,11 @@ var actorMap = {
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
+    "Shane Black": {
+        "movies": [
+            "As Good as It Gets (1997)"
+        ]
+    },
     "Shane West": {
         "movies": [
             "Ocean's Eleven (2001)",
@@ -20500,7 +20601,8 @@ var actorMap = {
     },
     "Shirley Knight": {
         "movies": [
-            "Endless Love (1981)"
+            "Endless Love (1981)",
+            "As Good as It Gets (1997)"
         ]
     },
     "Shirley MacLaine": {
@@ -20695,7 +20797,8 @@ var actorMap = {
     },
     "Skeet Ulrich": {
         "movies": [
-            "Teenage Mutant Ninja Turtles (1990)"
+            "Teenage Mutant Ninja Turtles (1990)",
+            "As Good as It Gets (1997)"
         ]
     },
     "Skylar Astin": {
@@ -21042,6 +21145,7 @@ var actorMap = {
     "Stephen Tobolowsky": {
         "movies": [
             "Mississippi Burning (1988)",
+            "Groundhog Day (1993)",
             "Robots (2005)"
         ]
     },
@@ -23285,6 +23389,7 @@ var actorMap = {
     },
     "Wood Harris": {
         "movies": [
+            "As Good as It Gets (1997)",
             "Remember the Titans (2000)",
             "Dredd (2012)",
             "Ant-Man (2015)"
@@ -23373,6 +23478,11 @@ var actorMap = {
     "Yayan Ruhian": {
         "movies": [
             "Star Wars: The Force Awakens (2015)"
+        ]
+    },
+    "Yeardley Smith": {
+        "movies": [
+            "As Good as It Gets (1997)"
         ]
     },
     "Youn Yuh-jung": {
