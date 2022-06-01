@@ -263,6 +263,11 @@ var actorMap = {
             "I Feel Pretty (2018)"
         ]
     },
+    "Akim Tamiroff": {
+        "movies": [
+            "Ocean's 11 (1960)"
+        ]
+    },
     "Akiva Schaffer": {
         "movies": [
             "Hot Rod (2007)"
@@ -442,7 +447,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Terms of Endearment (1983)"
+            "Terms of Endearment (1983)",
+            "Finding Nemo (2003)"
         ]
     },
     "Albert Finney": {
@@ -559,6 +565,11 @@ var actorMap = {
     "Alexander England": {
         "movies": [
             "Alien: Covenant (2017)"
+        ]
+    },
+    "Alexander Gould": {
+        "movies": [
+            "Finding Nemo (2003)"
         ]
     },
     "Alexander Skarsg\u00e5rd": {
@@ -726,6 +737,7 @@ var actorMap = {
         "movies": [
             "Six Days, Seven Nights (1998)",
             "Drop Dead Gorgeous (1999)",
+            "Finding Nemo (2003)",
             "Hairspray (2007)",
             "Juno (2007)",
             "The Help (2011)"
@@ -995,7 +1007,8 @@ var actorMap = {
     },
     "Andrew Stanton": {
         "movies": [
-            "Toy Story 2 (1999)"
+            "Toy Story 2 (1999)",
+            "Finding Nemo (2003)"
         ]
     },
     "Andr\u00e9 the Giant": {
@@ -1133,6 +1146,11 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)",
             "Eternals (2021)"
+        ]
+    },
+    "Angie Dickinson": {
+        "movies": [
+            "Ocean's 11 (1960)"
         ]
     },
     "Angourie Rice": {
@@ -1603,6 +1621,7 @@ var actorMap = {
             "Conan the Destroyer (1984)",
             "The Terminator (1984)",
             "Predator (1987)",
+            "Twins (1988)",
             "Terminator 2: Judgment Day (1991)",
             "Last Action Hero (1993)",
             "Batman & Robin (1997)",
@@ -1818,6 +1837,11 @@ var actorMap = {
     "Barry Fitzgerald": {
         "movies": [
             "Bringing Up Baby (1938)"
+        ]
+    },
+    "Barry Humphries": {
+        "movies": [
+            "Finding Nemo (2003)"
         ]
     },
     "Barry Keoghan": {
@@ -2276,7 +2300,8 @@ var actorMap = {
     "Bill Pullman": {
         "movies": [
             "Spaceballs (1987)",
-            "A League of Their Own (1992)"
+            "A League of Their Own (1992)",
+            "Sleepless in Seattle (1993)"
         ]
     },
     "Bill Skarsg\u00e5rd": {
@@ -2350,7 +2375,8 @@ var actorMap = {
     },
     "Billy Crystal": {
         "movies": [
-            "Hamlet (1996)"
+            "Hamlet (1996)",
+            "Monsters, Inc. (2001)"
         ]
     },
     "Billy Dee Williams": {
@@ -2454,6 +2480,12 @@ var actorMap = {
             "Jurassic Park (1993)"
         ]
     },
+    "Bob Peterson": {
+        "movies": [
+            "Monsters, Inc. (2001)",
+            "Finding Nemo (2003)"
+        ]
+    },
     "Bobb'e J. Thompson": {
         "movies": [
             "Land of the Lost (2009)"
@@ -2501,6 +2533,7 @@ var actorMap = {
             "Jumanji (1995)",
             "Jerry Maguire (1996)",
             "A Bug's Life (1998)",
+            "Monsters, Inc. (2001)",
             "Zootopia (2016)"
         ]
     },
@@ -2556,6 +2589,7 @@ var actorMap = {
     "Brad Garrett": {
         "movies": [
             "A Bug's Life (1998)",
+            "Finding Nemo (2003)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
             "Ralph Breaks the Internet (2018)"
         ]
@@ -2953,7 +2987,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "Bruce Glover": {
@@ -3533,6 +3568,7 @@ var actorMap = {
     },
     "Cesar Romero": {
         "movies": [
+            "Ocean's 11 (1960)",
             "Batman (1966)"
         ]
     },
@@ -3783,6 +3819,7 @@ var actorMap = {
     },
     "Chloe Webb": {
         "movies": [
+            "Twins (1988)",
             "Ghostbusters II (1989)",
             "Love Affair (1994)"
         ]
@@ -4722,7 +4759,8 @@ var actorMap = {
     },
     "Dakota Johnson": {
         "movies": [
-            "Bad Times at the El Royale (2018)"
+            "Bad Times at the El Royale (2018)",
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "Damon Wayans": {
@@ -4975,6 +5013,7 @@ var actorMap = {
     "Danny DeVito": {
         "movies": [
             "Terms of Endearment (1983)",
+            "Twins (1988)",
             "Batman Returns (1992)",
             "Last Action Hero (1993)",
             "Space Jam (1996)",
@@ -5127,6 +5166,11 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "David Caruso": {
+        "movies": [
+            "Twins (1988)"
+        ]
+    },
     "David Cross": {
         "movies": [
             "Men in Black (1997)",
@@ -5185,6 +5229,7 @@ var actorMap = {
     },
     "David Hyde Pierce": {
         "movies": [
+            "Sleepless in Seattle (1993)",
             "A Bug's Life (1998)",
             "Hellboy (2004)"
         ]
@@ -5355,6 +5400,11 @@ var actorMap = {
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
+    "Dean Martin": {
+        "movies": [
+            "Ocean's 11 (1960)"
         ]
     },
     "Dean Norris": {
@@ -6471,7 +6521,8 @@ var actorMap = {
     "Elizabeth Perkins": {
         "movies": [
             "About Last Night (1986)",
-            "Big (1988)"
+            "Big (1988)",
+            "Finding Nemo (2003)"
         ]
     },
     "Elizabeth Taylor": {
@@ -6556,6 +6607,11 @@ var actorMap = {
                 "movie": "The Last Picture Show",
                 "year": "1971"
             }
+        ]
+    },
+    "Ellen DeGeneres": {
+        "movies": [
+            "Finding Nemo (2003)"
         ]
     },
     "Ellen Greene": {
@@ -6829,6 +6885,7 @@ var actorMap = {
     "Eric Bana": {
         "movies": [
             "Black Hawk Down (2001)",
+            "Finding Nemo (2003)",
             "Hulk (2003)",
             "Troy (2004)",
             "The Other Boleyn Girl (2008)",
@@ -7254,6 +7311,7 @@ var actorMap = {
     },
     "Frances Conroy": {
         "movies": [
+            "Sleepless in Seattle (1993)",
             "Catwoman (2004)",
             "The Aviator (2004)",
             "The Tale of Despereaux (2008)",
@@ -7368,11 +7426,17 @@ var actorMap = {
             "Return of the Jedi (1983)",
             "Spies Like Us (1985)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Monsters, Inc. (2001)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Last Jedi (2017)",
             "Knives Out (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Frank Sinatra": {
+        "movies": [
+            "Ocean's 11 (1960)"
         ]
     },
     "Frank Vincent": {
@@ -7501,6 +7565,7 @@ var actorMap = {
     },
     "Gaby Hoffmann": {
         "movies": [
+            "Sleepless in Seattle (1993)",
             "Wild (2014)"
         ]
     },
@@ -7776,6 +7841,7 @@ var actorMap = {
             "Shakespeare in Love (1998)",
             "Mystery Men (1999)",
             "The Tailor of Panama (2001)",
+            "Finding Nemo (2003)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
@@ -8501,6 +8567,7 @@ var actorMap = {
     },
     "Heather Graham": {
         "movies": [
+            "Twins (1988)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "From Hell (2001)",
             "Horns (2014)"
@@ -9579,6 +9646,11 @@ var actorMap = {
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)"
         ]
     },
+    "Jake Roberts": {
+        "movies": [
+            "The Peanut Butter Falcon (2019)"
+        ]
+    },
     "Jake T. Austin": {
         "movies": [
             "New Year's Eve (2011)"
@@ -9622,7 +9694,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Charade (1963)"
+            "Charade (1963)",
+            "Monsters, Inc. (2001)"
         ]
     },
     "James Corden": {
@@ -10211,6 +10284,7 @@ var actorMap = {
     },
     "Jason Reitman": {
         "movies": [
+            "Twins (1988)",
             "Ghostbusters II (1989)"
         ]
     },
@@ -10458,7 +10532,8 @@ var actorMap = {
     },
     "Jeff Pidgeon": {
         "movies": [
-            "Toy Story 2 (1999)"
+            "Toy Story 2 (1999)",
+            "Monsters, Inc. (2001)"
         ]
     },
     "Jeffrey Combs": {
@@ -10649,6 +10724,9 @@ var actorMap = {
                 "movie": "Bullets over Broadway",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "Monsters, Inc. (2001)"
         ]
     },
     "Jenny Slate": {
@@ -11313,7 +11391,8 @@ var actorMap = {
     "Joe Ranft": {
         "movies": [
             "A Bug's Life (1998)",
-            "Toy Story 2 (1999)"
+            "Toy Story 2 (1999)",
+            "Finding Nemo (2003)"
         ]
     },
     "Joe Russo": {
@@ -11370,6 +11449,11 @@ var actorMap = {
             "Spider-Man 2 (2004)",
             "What's Your Number? (2011)",
             "Ted (2012)"
+        ]
+    },
+    "Joey Bishop": {
+        "movies": [
+            "Ocean's 11 (1960)"
         ]
     },
     "Joey King": {
@@ -11507,6 +11591,7 @@ var actorMap = {
     },
     "John Goodman": {
         "movies": [
+            "Monsters, Inc. (2001)",
             "Transformers: Age of Extinction (2014)",
             "10 Cloverfield Lane (2016)",
             "Transformers: The Last Knight (2017)",
@@ -11522,7 +11607,8 @@ var actorMap = {
         ],
         "movies": [
             "I Still Know What You Did Last Summer (1998)",
-            "Contagion (2011)"
+            "Contagion (2011)",
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "John Heard": {
@@ -11698,6 +11784,8 @@ var actorMap = {
             "Toy Story (1995)",
             "A Bug's Life (1998)",
             "Toy Story 2 (1999)",
+            "Monsters, Inc. (2001)",
+            "Finding Nemo (2003)",
             "The Incredibles (2004)",
             "Incredibles 2 (2018)",
             "Onward (2020)"
@@ -11868,7 +11956,8 @@ var actorMap = {
     },
     "Jon Bernthal": {
         "movies": [
-            "Widows (2018)"
+            "Widows (2018)",
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "Jon Bon Jovi": {
@@ -13188,6 +13277,7 @@ var actorMap = {
     },
     "Kelly Preston": {
         "movies": [
+            "Twins (1988)",
             "Waiting to Exhale (1995)",
             "Jerry Maguire (1996)",
             "View from the Top (2003)",
@@ -15606,6 +15696,11 @@ var actorMap = {
             "Ghostbusters II (1989)"
         ]
     },
+    "Mary Gibbs": {
+        "movies": [
+            "Monsters, Inc. (2001)"
+        ]
+    },
     "Mary J. Blige": {
         "suppNoms": [
             {
@@ -15954,6 +16049,7 @@ var actorMap = {
         "movies": [
             "Top Gun (1986)",
             "Armed and Dangerous (1986)",
+            "Sleepless in Seattle (1993)",
             "Kate & Leopold (2001)"
         ]
     },
@@ -16816,6 +16912,11 @@ var actorMap = {
     "Michiel Huisman": {
         "movies": [
             "Wild (2014)"
+        ]
+    },
+    "Mick Foley": {
+        "movies": [
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "Mickey Rourke": {
@@ -18624,6 +18725,11 @@ var actorMap = {
             "The Hobbit: The Desolation of Smaug (2013)"
         ]
     },
+    "Peter Lawford": {
+        "movies": [
+            "Ocean's 11 (1960)"
+        ]
+    },
     "Peter Lorre": {
         "movies": [
             "Arsenic and Old Lace (1944)"
@@ -19655,6 +19761,7 @@ var actorMap = {
     },
     "Rita Wilson": {
         "movies": [
+            "Sleepless in Seattle (1993)",
             "Psycho (1998)"
         ]
     },
@@ -19703,6 +19810,7 @@ var actorMap = {
     },
     "Rob Reiner": {
         "movies": [
+            "Sleepless in Seattle (1993)",
             "The First Wives Club (1996)"
         ]
     },
@@ -20224,7 +20332,8 @@ var actorMap = {
     },
     "Rosie O'Donnell": {
         "movies": [
-            "A League of Their Own (1992)"
+            "A League of Their Own (1992)",
+            "Sleepless in Seattle (1993)"
         ]
     },
     "Rosie Perez": {
@@ -20242,6 +20351,11 @@ var actorMap = {
     "Ross Butler": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Ross Malinger": {
+        "movies": [
+            "Sleepless in Seattle (1993)"
         ]
     },
     "Ross Marquand": {
@@ -20688,6 +20802,11 @@ var actorMap = {
     "Samm Levine": {
         "movies": [
             "Sydney White (2007)"
+        ]
+    },
+    "Sammy Davis Jr.": {
+        "movies": [
+            "Ocean's 11 (1960)"
         ]
     },
     "Samuel L. Jackson": {
@@ -21266,7 +21385,8 @@ var actorMap = {
             "Transformers (2007)",
             "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Transformers: Revenge of the Fallen (2009)",
-            "Transformers: Dark of the Moon (2011)"
+            "Transformers: Dark of the Moon (2011)",
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "Shirley Henderson": {
@@ -21306,6 +21426,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ocean's 11 (1960)",
             "Terms of Endearment (1983)",
             "Rumor Has It (2005)",
             "Valentine's Day (2010)"
@@ -21826,6 +21947,7 @@ var actorMap = {
     },
     "Stephen Root": {
         "movies": [
+            "Finding Nemo (2003)",
             "Mad Money (2008)"
         ]
     },
@@ -21856,6 +21978,7 @@ var actorMap = {
     "Steve Buscemi": {
         "movies": [
             "Ghost World (2001)",
+            "Monsters, Inc. (2001)",
             "G-Force (2009)",
             "Transformers: The Last Knight (2017)"
         ]
@@ -22365,6 +22488,7 @@ var actorMap = {
             "We Bought a Zoo (2011)",
             "John Carter (2012)",
             "Hellboy (2019)",
+            "The Peanut Butter Falcon (2019)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -22804,6 +22928,7 @@ var actorMap = {
         "movies": [
             "Big (1988)",
             "A League of Their Own (1992)",
+            "Sleepless in Seattle (1993)",
             "Forrest Gump (1994)",
             "Toy Story (1995)",
             "Saving Private Ryan (1998)",
@@ -23067,6 +23192,7 @@ var actorMap = {
     },
     "Tony Jay": {
         "movies": [
+            "Twins (1988)",
             "Austin Powers: The Spy Who Shagged Me (1999)"
         ]
     },
@@ -23440,6 +23566,7 @@ var actorMap = {
     },
     "Victor Garber": {
         "movies": [
+            "Sleepless in Seattle (1993)",
             "The First Wives Club (1996)",
             "You Again (2010)",
             "Kung Fu Panda 2 (2011)"
@@ -23942,6 +24069,7 @@ var actorMap = {
             "Mississippi Burning (1988)",
             "Born on the Fourth of July (1989)",
             "Spider-Man (2002)",
+            "Finding Nemo (2003)",
             "Spider-Man 2 (2004)",
             "The Aviator (2004)",
             "Spider-Man 3 (2007)",
@@ -24303,6 +24431,11 @@ var actorMap = {
             "What's Your Number? (2011)",
             "Star Trek Into Darkness (2013)",
             "Star Trek Beyond (2016)"
+        ]
+    },
+    "Zack Gottsagen": {
+        "movies": [
+            "The Peanut Butter Falcon (2019)"
         ]
     },
     "Zack Snyder": {

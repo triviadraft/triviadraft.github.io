@@ -7100,6 +7100,17 @@ var movieMap = {
             "Classics",
             "Crime",
             "Rat Pack"
+        ],
+        "cast": [
+            "Akim Tamiroff",
+            "Angie Dickinson",
+            "Cesar Romero",
+            "Dean Martin",
+            "Frank Sinatra",
+            "Joey Bishop",
+            "Peter Lawford",
+            "Sammy Davis Jr.",
+            "Shirley MacLaine"
         ]
     },
     "The Time Machine (1960)": {
@@ -28955,6 +28966,16 @@ var movieMap = {
             "Comedies",
             "Ramis & Reitmans",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Chloe Webb",
+            "Danny DeVito",
+            "David Caruso",
+            "Heather Graham",
+            "Jason Reitman",
+            "Kelly Preston",
+            "Tony Jay"
         ]
     },
     "Dirty Rotten Scoundrels (1988)": {
@@ -37386,6 +37407,19 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Bill Pullman",
+            "David Hyde Pierce",
+            "Frances Conroy",
+            "Gaby Hoffmann",
+            "Meg Ryan",
+            "Rita Wilson",
+            "Rob Reiner",
+            "Rosie O'Donnell",
+            "Ross Malinger",
+            "Tom Hanks",
+            "Victor Garber"
         ]
     },
     "What's Love Got to Do with It (1993)": {
@@ -58988,6 +59022,19 @@ var movieMap = {
             "2000s",
             "Animated",
             "Pixar"
+        ],
+        "cast": [
+            "Billy Crystal",
+            "Bob Peterson",
+            "Bonnie Hunt",
+            "Frank Oz",
+            "James Coburn",
+            "Jeff Pidgeon",
+            "Jennifer Tilly",
+            "John Goodman",
+            "John Ratzenberger",
+            "Mary Gibbs",
+            "Steve Buscemi"
         ]
     },
     "The Man Who Wasn't There (2001)": {
@@ -63713,6 +63760,23 @@ var movieMap = {
             "2000s",
             "Animated",
             "Pixar"
+        ],
+        "cast": [
+            "Albert Brooks",
+            "Alexander Gould",
+            "Allison Janney",
+            "Andrew Stanton",
+            "Barry Humphries",
+            "Bob Peterson",
+            "Brad Garrett",
+            "Elizabeth Perkins",
+            "Ellen DeGeneres",
+            "Eric Bana",
+            "Geoffrey Rush",
+            "Joe Ranft",
+            "John Ratzenberger",
+            "Stephen Root",
+            "Willem Dafoe"
         ]
     },
     "The Italian Job (2003)": {
@@ -119480,6 +119544,17 @@ var movieMap = {
             "2010s",
             "Dramas",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Bruce Dern",
+            "Dakota Johnson",
+            "Jake Roberts",
+            "John Hawkes",
+            "Jon Bernthal",
+            "Mick Foley",
+            "Shia LaBeouf",
+            "Thomas Haden Church",
+            "Zack Gottsagen"
         ]
     },
     "The Angry Birds Movie 2 (2019)": {
