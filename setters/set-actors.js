@@ -1451,7 +1451,6 @@ var actorMap = {
             "The Remains of the Day (1993)",
             "Amistad (1997)",
             "The Mask of Zorro (1998)",
-            "The Mask of Zorro (1998)",
             "Mission: Impossible 2 (2000)",
             "Alexander (2004)",
             "Thor (2011)",
@@ -1537,8 +1536,6 @@ var actorMap = {
         "movies": [
             "Interview with the Vampire (1994)",
             "The Mask of Zorro (1998)",
-            "The Mask of Zorro (1998)",
-            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)",
             "Dolittle (2020)",
             "Uncharted (2022)"
@@ -3488,12 +3485,10 @@ var actorMap = {
         ],
         "movies": [
             "The Mask of Zorro (1998)",
-            "The Mask of Zorro (1998)",
             "Traffic (2000)",
             "Chicago (2002)",
             "The Terminal (2004)",
             "Ocean's Twelve (2004)",
-            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)",
             "Rock of Ages (2012)",
             "Red 2 (2013)"
@@ -16390,7 +16385,6 @@ var actorMap = {
     },
     "Michael Emerson": {
         "movies": [
-            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)"
         ]
     },
@@ -20251,7 +20245,6 @@ var actorMap = {
         "movies": [
             "A Knight's Tale (2001)",
             "The Legend of Zorro (2005)",
-            "The Legend of Zorro (2005)",
             "The Holiday (2006)",
             "The Tourist (2010)",
             "Hercules (2014)"
@@ -21941,7 +21934,6 @@ var actorMap = {
     "Stuart Wilson": {
         "movies": [
             "Teenage Mutant Ninja Turtles III (1993)",
-            "The Mask of Zorro (1998)",
             "The Mask of Zorro (1998)"
         ]
     },
@@ -22979,9 +22971,7 @@ var actorMap = {
     "Tony Amendola": {
         "movies": [
             "The Mask of Zorro (1998)",
-            "The Mask of Zorro (1998)",
             "Blow (2001)",
-            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)"
         ]
     },

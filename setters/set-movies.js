@@ -50272,14 +50272,9 @@ var movieMap = {
         ],
         "cast": [
             "Anthony Hopkins",
-            "Anthony Hopkins",
-            "Antonio Banderas",
             "Antonio Banderas",
             "Catherine Zeta-Jones",
-            "Catherine Zeta-Jones",
             "Stuart Wilson",
-            "Stuart Wilson",
-            "Tony Amendola",
             "Tony Amendola"
         ]
     },
@@ -71341,15 +71336,10 @@ var movieMap = {
         "cast": [
             "Adri\u00e1n Alonso",
             "Antonio Banderas",
-            "Antonio Banderas",
             "Catherine Zeta-Jones",
-            "Catherine Zeta-Jones",
-            "Michael Emerson",
             "Michael Emerson",
             "Nick Chinlund",
             "Rufus Sewell",
-            "Rufus Sewell",
-            "Tony Amendola",
             "Tony Amendola"
         ]
     },
