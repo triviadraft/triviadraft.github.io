@@ -2517,20 +2517,6 @@ var igActorMap = {
             ]
         }
     },
-    "Byung-Hun Lee": {
-        "movies": {
-            "Terminator": [
-                "Terminator Genisys (2015)"
-            ]
-        }
-    },
-    "Byung-hun Lee": {
-        "movies": {
-            "Red": [
-                "Red 2 (2013)"
-            ]
-        }
-    },
     "C. Thomas Howell": {
         "movies": {
             "Spider-Man": [
@@ -6088,6 +6074,7 @@ var igActorMap = {
     "Flea": {
         "movies": {
             "Back to the Future": [
+                "Back to the Future Part II (1989)",
                 "Back to the Future Part III (1990)"
             ]
         }
@@ -11739,6 +11726,16 @@ var igActorMap = {
                 "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
                 "Pirates of the Caribbean: Dead Man's Chest (2006)",
                 "Pirates of the Caribbean: At World's End (2007)"
+            ]
+        }
+    },
+    "Lee Byung-hun": {
+        "movies": {
+            "Red": [
+                "Red 2 (2013)"
+            ],
+            "Terminator": [
+                "Terminator Genisys (2015)"
             ]
         }
     },

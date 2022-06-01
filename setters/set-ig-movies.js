@@ -14572,7 +14572,7 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Byung-hun Lee",
+                "actor": "Lee Byung-hun",
                 "name": "Han Cho Bai",
                 "description": ""
             },
@@ -23100,6 +23100,11 @@ var igMovieMap = {
             {
                 "actor": "Elijah Wood",
                 "name": "Video Game Boy",
+                "description": ""
+            },
+            {
+                "actor": "Flea",
+                "name": "Douglas J. Needles",
                 "description": ""
             }
         ],
@@ -36340,7 +36345,7 @@ var igMovieMap = {
                 "description": "SFPD police detective"
             },
             {
-                "actor": "Byung-Hun Lee",
+                "actor": "Lee Byung-hun",
                 "name": "Cop / T-1000",
                 "description": "shapeshifting prototypical Terminator composed of mimetic polyalloy"
             }

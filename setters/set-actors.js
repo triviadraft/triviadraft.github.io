@@ -67,6 +67,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Princess Diaries 2: Royal Engagement (2004)",
             "Zombieland (2009)",
             "New Year's Eve (2011)",
             "August: Osage County (2013)",
@@ -83,6 +84,11 @@ var actorMap = {
     "Abraham Attah": {
         "movies": [
             "Spider-Man: Homecoming (2017)"
+        ]
+    },
+    "Adam Baldwin": {
+        "movies": [
+            "Predator 2 (1990)"
         ]
     },
     "Adam Beach": {
@@ -220,12 +226,18 @@ var actorMap = {
         ],
         "movies": [
             "King Kong (2005)",
-            "The Brothers Bloom (2009)"
+            "The Brothers Bloom (2009)",
+            "Predators (2010)"
         ]
     },
     "Adrienne Barbeau": {
         "movies": [
             "Swamp Thing (1982)"
+        ]
+    },
+    "Adri\u00e1n Alonso": {
+        "movies": [
+            "The Legend of Zorro (2005)"
         ]
     },
     "Ahmed Best": {
@@ -298,6 +310,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dick Tracy (1990)",
             "Gigli (2003)",
             "Ocean's Thirteen (2007)"
         ]
@@ -345,6 +358,7 @@ var actorMap = {
         ],
         "movies": [
             "Wait Until Dark (1967)",
+            "The Rocketeer (1991)",
             "North (1994)",
             "Firewall (2006)"
         ]
@@ -542,6 +556,11 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Alexander England": {
+        "movies": [
+            "Alien: Covenant (2017)"
+        ]
+    },
     "Alexander Skarsg\u00e5rd": {
         "movies": [
             "Long Shot (2019)"
@@ -564,6 +583,7 @@ var actorMap = {
             "Atonement (2007)",
             "The Other Boleyn Girl (2008)",
             "John Wick (2014)",
+            "The Predator (2018)",
             "Jojo Rabbit (2019)"
         ]
     },
@@ -616,6 +636,7 @@ var actorMap = {
     },
     "Alice Braga": {
         "movies": [
+            "Predators (2010)",
             "The New Mutants (2020)",
             "The Suicide Squad (2021)"
         ]
@@ -860,6 +881,11 @@ var actorMap = {
             "Chef (2014)"
         ]
     },
+    "Amy Seimetz": {
+        "movies": [
+            "Alien: Covenant (2017)"
+        ]
+    },
     "Amy Yasbeck": {
         "movies": [
             "The Mask (1994)"
@@ -970,6 +996,11 @@ var actorMap = {
     "Andrew Stanton": {
         "movies": [
             "Toy Story 2 (1999)"
+        ]
+    },
+    "Andr\u00e9 the Giant": {
+        "movies": [
+            "Conan the Destroyer (1984)"
         ]
     },
     "Andy Bean": {
@@ -1280,6 +1311,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Princess Diaries (2001)",
+            "The Princess Diaries 2: Royal Engagement (2004)",
             "Bride Wars (2009)",
             "Valentine's Day (2010)",
             "Alice in Wonderland (2010)",
@@ -1418,6 +1451,7 @@ var actorMap = {
             "The Remains of the Day (1993)",
             "Amistad (1997)",
             "The Mask of Zorro (1998)",
+            "The Mask of Zorro (1998)",
             "Mission: Impossible 2 (2000)",
             "Alexander (2004)",
             "Thor (2011)",
@@ -1443,6 +1477,7 @@ var actorMap = {
     "Anthony Michael Hall": {
         "movies": [
             "National Lampoon's Vacation (1983)",
+            "Sixteen Candles (1984)",
             "The Breakfast Club (1985)",
             "The Dark Knight (2008)",
             "Foxcatcher (2014)"
@@ -1476,9 +1511,17 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Anthony Zerbe": {
+        "movies": [
+            "Star Trek: Insurrection (1998)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)"
+        ]
+    },
     "Anton Yelchin": {
         "movies": [
             "Star Trek (2009)",
+            "Terminator Salvation (2009)",
             "Star Trek Into Darkness (2013)",
             "Green Room (2016)",
             "Star Trek Beyond (2016)"
@@ -1494,6 +1537,8 @@ var actorMap = {
         "movies": [
             "Interview with the Vampire (1994)",
             "The Mask of Zorro (1998)",
+            "The Mask of Zorro (1998)",
+            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)",
             "Dolittle (2020)",
             "Uncharted (2022)"
@@ -1557,8 +1602,16 @@ var actorMap = {
     },
     "Arnold Schwarzenegger": {
         "movies": [
+            "Conan the Barbarian (1982)",
+            "Conan the Destroyer (1984)",
+            "The Terminator (1984)",
+            "Predator (1987)",
+            "Terminator 2: Judgment Day (1991)",
             "Last Action Hero (1993)",
-            "Batman & Robin (1997)"
+            "Batman & Robin (1997)",
+            "Terminator 3: Rise of the Machines (2003)",
+            "Terminator Genisys (2015)",
+            "Terminator: Dark Fate (2019)"
         ]
     },
     "Art Carney": {
@@ -1696,6 +1749,7 @@ var actorMap = {
     "B. J. Novak": {
         "movies": [
             "Knocked Up (2007)",
+            "Saving Mr. Banks (2013)",
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
@@ -1972,6 +2026,7 @@ var actorMap = {
     "Benedict Wong": {
         "movies": [
             "Moon (2009)",
+            "Prometheus (2012)",
             "Kick-Ass 2 (2013)",
             "Doctor Strange (2016)",
             "Avengers: Infinity War (2018)",
@@ -2140,6 +2195,7 @@ var actorMap = {
     },
     "Bill Duke": {
         "movies": [
+            "Predator (1987)",
             "X-Men: The Last Stand (2006)"
         ]
     },
@@ -2212,6 +2268,9 @@ var actorMap = {
     "Bill Paxton": {
         "movies": [
             "Stripes (1981)",
+            "The Terminator (1984)",
+            "Aliens (1986)",
+            "Predator 2 (1990)",
             "2 Guns (2013)",
             "Edge of Tomorrow (2014)",
             "The Circle (2017)"
@@ -2271,6 +2330,7 @@ var actorMap = {
     },
     "Billy Campbell": {
         "movies": [
+            "The Rocketeer (1991)",
             "Enough (2002)"
         ]
     },
@@ -2286,6 +2346,7 @@ var actorMap = {
             "Almost Famous (2000)",
             "Mission: Impossible III (2006)",
             "Watchmen (2009)",
+            "Alien: Covenant (2017)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
         ]
@@ -2308,6 +2369,12 @@ var actorMap = {
     "Billy Magnussen": {
         "movies": [
             "Into the Woods (2014)"
+        ]
+    },
+    "Billy Zane": {
+        "movies": [
+            "Back to the Future (1985)",
+            "Back to the Future Part II (1989)"
         ]
     },
     "Biz Markie": {
@@ -2459,7 +2526,8 @@ var actorMap = {
     },
     "Boyd Holbrook": {
         "movies": [
-            "Logan (2017)"
+            "Logan (2017)",
+            "The Predator (2018)"
         ]
     },
     "Brad Bird": {
@@ -2478,6 +2546,7 @@ var actorMap = {
         "movies": [
             "Mississippi Burning (1988)",
             "Jungle Fever (1991)",
+            "Alien Resurrection (1997)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Priest (2011)"
         ]
@@ -2569,7 +2638,8 @@ var actorMap = {
     "Bradley Whitford": {
         "movies": [
             "Kate & Leopold (2001)",
-            "The Cabin in the Woods (2012)"
+            "The Cabin in the Woods (2012)",
+            "Saving Mr. Banks (2013)"
         ]
     },
     "Brandon Lee": {
@@ -2705,6 +2775,7 @@ var actorMap = {
     "Brian Doyle-Murray": {
         "movies": [
             "National Lampoon's Vacation (1983)",
+            "Sixteen Candles (1984)",
             "Ghostbusters II (1989)",
             "Groundhog Day (1993)",
             "As Good as It Gets (1997)"
@@ -2955,6 +3026,7 @@ var actorMap = {
     "Bryce Dallas Howard": {
         "movies": [
             "Spider-Man 3 (2007)",
+            "Terminator Salvation (2009)",
             "The Help (2011)",
             "Jurassic World (2015)",
             "Jurassic World: Fallen Kingdom (2018)"
@@ -3036,11 +3108,6 @@ var actorMap = {
     "Byron Mann": {
         "movies": [
             "Catwoman (2004)"
-        ]
-    },
-    "Byung-hun Lee": {
-        "movies": [
-            "Red 2 (2013)"
         ]
     },
     "B\u00e9r\u00e9nice Bejo": {
@@ -3176,6 +3243,7 @@ var actorMap = {
     "Carl Weathers": {
         "movies": [
             "Rocky (1976)",
+            "Predator (1987)",
             "Think Like a Man Too (2014)"
         ]
     },
@@ -3192,6 +3260,7 @@ var actorMap = {
     "Carmen Ejogo": {
         "movies": [
             "Fantastic Beasts and Where to Find Them (2016)",
+            "Alien: Covenant (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
@@ -3205,6 +3274,12 @@ var actorMap = {
             "Annie Hall (1977)",
             "Jumpin' Jack Flash (1986)",
             "Four Christmases (2008)"
+        ]
+    },
+    "Caroline Goodall": {
+        "movies": [
+            "The Princess Diaries (2001)",
+            "The Princess Diaries 2: Royal Engagement (2004)"
         ]
     },
     "Carrie Coon": {
@@ -3223,6 +3298,19 @@ var actorMap = {
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Carrie Henn": {
+        "movies": [
+            "Aliens (1986)"
+        ]
+    },
+    "Carrie-Anne Moss": {
+        "movies": [
+            "The Matrix (1999)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Cary Elwes": {
@@ -3387,6 +3475,7 @@ var actorMap = {
     },
     "Catherine O'Hara": {
         "movies": [
+            "Dick Tracy (1990)",
             "Orange County (2002)"
         ]
     },
@@ -3399,10 +3488,12 @@ var actorMap = {
         ],
         "movies": [
             "The Mask of Zorro (1998)",
+            "The Mask of Zorro (1998)",
             "Traffic (2000)",
             "Chicago (2002)",
             "The Terminal (2004)",
             "Ocean's Twelve (2004)",
+            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)",
             "Rock of Ages (2012)",
             "Red 2 (2013)"
@@ -3444,6 +3535,11 @@ var actorMap = {
             "Batman (1966)"
         ]
     },
+    "Chad Stahelski": {
+        "movies": [
+            "The Matrix Resurrections (2021)"
+        ]
+    },
     "Chadwick Boseman": {
         "leadNoms": [
             {
@@ -3483,6 +3579,7 @@ var actorMap = {
     },
     "Charles Dance": {
         "movies": [
+            "Alien 3 (1992)",
             "Last Action Hero (1993)",
             "The Imitation Game (2014)",
             "Victor Frankenstein (2015)",
@@ -3490,8 +3587,20 @@ var actorMap = {
             "The King's Man (2021)"
         ]
     },
+    "Charles Durning": {
+        "movies": [
+            "Dick Tracy (1990)"
+        ]
+    },
+    "Charles Fleischer": {
+        "movies": [
+            "Back to the Future Part II (1989)",
+            "Dick Tracy (1990)"
+        ]
+    },
     "Charles S. Dutton": {
         "movies": [
+            "Alien 3 (1992)",
             "Gothika (2003)"
         ]
     },
@@ -3515,6 +3624,11 @@ var actorMap = {
     "Charlie Hunnam": {
         "movies": [
             "The Lost City of Z (2017)"
+        ]
+    },
+    "Charlie Korsmo": {
+        "movies": [
+            "Dick Tracy (1990)"
         ]
     },
     "Charlie Sheen": {
@@ -3544,6 +3658,7 @@ var actorMap = {
         ],
         "movies": [
             "Snow White and the Huntsman (2012)",
+            "Prometheus (2012)",
             "The Huntsman: Winter's War (2016)",
             "Atomic Blonde (2017)",
             "Long Shot (2019)",
@@ -3814,6 +3929,7 @@ var actorMap = {
     },
     "Chris Pine": {
         "movies": [
+            "The Princess Diaries 2: Royal Engagement (2004)",
             "Smokin' Aces (2007)",
             "Star Trek (2009)",
             "This Means War (2012)",
@@ -3901,6 +4017,7 @@ var actorMap = {
             "Batman Begins (2005)",
             "The Prestige (2006)",
             "The Dark Knight (2008)",
+            "Terminator Salvation (2009)",
             "The Dark Knight Rises (2012)",
             "Mowgli: Legend of the Jungle (2018)"
         ]
@@ -3920,6 +4037,11 @@ var actorMap = {
     "Christina Applegate": {
         "movies": [
             "View from the Top (2003)"
+        ]
+    },
+    "Christina Ricci": {
+        "movies": [
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Christine Baranski": {
@@ -3993,6 +4115,9 @@ var actorMap = {
     "Christopher Lloyd": {
         "movies": [
             "Star Trek III: The Search for Spock (1984)",
+            "Back to the Future (1985)",
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)",
             "The Pagemaster (1994)",
             "The Tale of Despereaux (2008)",
             "Sin City: A Dame to Kill For (2014)"
@@ -4122,6 +4247,11 @@ var actorMap = {
             "The King's Speech (2010)"
         ]
     },
+    "Claire Danes": {
+        "movies": [
+            "Terminator 3: Rise of the Machines (2003)"
+        ]
+    },
     "Claire Forlani": {
         "movies": [
             "Mystery Men (1999)"
@@ -4232,6 +4362,7 @@ var actorMap = {
     },
     "Clint Howard": {
         "movies": [
+            "The Rocketeer (1991)",
             "Far and Away (1992)",
             "Barb Wire (1996)",
             "Austin Powers: International Man of Mystery (1997)",
@@ -4287,6 +4418,7 @@ var actorMap = {
             "Minority Report (2002)",
             "Daredevil (2003)",
             "Alexander (2004)",
+            "Saving Mr. Banks (2013)",
             "Fantastic Beasts and Where to Find Them (2016)",
             "Widows (2018)"
         ]
@@ -4366,6 +4498,7 @@ var actorMap = {
         "movies": [
             "Smokin' Aces (2007)",
             "Wanted (2008)",
+            "Terminator Salvation (2009)",
             "New Year's Eve (2011)",
             "Movie 43 (2013)",
             "Now You See Me (2013)",
@@ -4449,6 +4582,7 @@ var actorMap = {
     },
     "Courtney B. Vance": {
         "movies": [
+            "Terminator Genisys (2015)",
             "The Mummy (2017)",
             "Project Power (2020)"
         ]
@@ -4482,6 +4616,7 @@ var actorMap = {
     },
     "Crispin Glover": {
         "movies": [
+            "Back to the Future (1985)",
             "Alice in Wonderland (2010)"
         ]
     },
@@ -4634,6 +4769,7 @@ var actorMap = {
     "Dan Hedaya": {
         "movies": [
             "The First Wives Club (1996)",
+            "Alien Resurrection (1997)",
             "Robots (2005)"
         ]
     },
@@ -4851,6 +4987,7 @@ var actorMap = {
     "Danny Glover": {
         "movies": [
             "Places in the Heart (1984)",
+            "Predator 2 (1990)",
             "The Prince of Egypt (1998)"
         ]
     },
@@ -4869,7 +5006,8 @@ var actorMap = {
             "Land of the Lost (2009)",
             "Due Date (2010)",
             "Kung Fu Panda 2 (2011)",
-            "This Is the End (2013)"
+            "This Is the End (2013)",
+            "Alien: Covenant (2017)"
         ]
     },
     "Danny Pudi": {
@@ -4885,7 +5023,8 @@ var actorMap = {
     },
     "Danny Trejo": {
         "movies": [
-            "Six Days, Seven Nights (1998)"
+            "Six Days, Seven Nights (1998)",
+            "Predators (2010)"
         ]
     },
     "Daphne Zuniga": {
@@ -5216,13 +5355,9 @@ var actorMap = {
             "Star Trek VI: The Undiscovered Country (1991)"
         ]
     },
-    "DeObia Oparei": {
-        "movies": [
-            "Dredd (2012)"
-        ]
-    },
     "Dean Norris": {
         "movies": [
+            "Terminator 2: Judgment Day (1991)",
             "The Firm (1993)",
             "How Do You Know (2010)",
             "The Counselor (2013)",
@@ -5298,7 +5433,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Hateful Eight (2015)"
+            "The Hateful Eight (2015)",
+            "Alien: Covenant (2017)"
         ]
     },
     "Denholm Elliott": {
@@ -5577,7 +5713,13 @@ var actorMap = {
     },
     "Dick Miller": {
         "movies": [
+            "The Terminator (1984)",
             "Batman: Mask of the Phantasm (1993)"
+        ]
+    },
+    "Dick Van Dyke": {
+        "movies": [
+            "Dick Tracy (1990)"
         ]
     },
     "Dick Van Patten": {
@@ -5592,7 +5734,8 @@ var actorMap = {
     },
     "Diego Boneta": {
         "movies": [
-            "Rock of Ages (2012)"
+            "Rock of Ages (2012)",
+            "Terminator: Dark Fate (2019)"
         ]
     },
     "Diego Luna": {
@@ -5914,6 +6057,7 @@ var actorMap = {
         ],
         "movies": [
             "Rain Man (1988)",
+            "Dick Tracy (1990)",
             "Stranger than Fiction (2006)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
@@ -5966,6 +6110,13 @@ var actorMap = {
     "E. L. James": {
         "movies": [
             "Book Club (2018)"
+        ]
+    },
+    "Earl Boen": {
+        "movies": [
+            "The Terminator (1984)",
+            "Terminator 2: Judgment Day (1991)",
+            "Terminator 3: Rise of the Machines (2003)"
         ]
     },
     "Ebon Moss-Bachrach": {
@@ -6129,7 +6280,9 @@ var actorMap = {
     },
     "Edward Furlong": {
         "movies": [
-            "The Green Hornet (2011)"
+            "Terminator 2: Judgment Day (1991)",
+            "The Green Hornet (2011)",
+            "Terminator: Dark Fate (2019)"
         ]
     },
     "Edward James Olmos": {
@@ -6227,6 +6380,7 @@ var actorMap = {
     },
     "Elijah Wood": {
         "movies": [
+            "Back to the Future Part II (1989)",
             "North (1994)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
@@ -6251,7 +6405,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Cocktail (1988)"
+            "Cocktail (1988)",
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)"
         ]
     },
     "Elise Neal": {
@@ -6489,6 +6645,7 @@ var actorMap = {
     },
     "Emilia Clarke": {
         "movies": [
+            "Terminator Genisys (2015)",
             "Solo: A Star Wars Story (2018)",
             "Last Christmas (2019)"
         ]
@@ -6618,6 +6775,7 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
+            "Saving Mr. Banks (2013)",
             "Beauty and the Beast (2017)",
             "Missing Link (2019)",
             "Men in Black: International (2019)",
@@ -6707,7 +6865,8 @@ var actorMap = {
     },
     "Erik von Detten": {
         "movies": [
-            "Toy Story (1995)"
+            "Toy Story (1995)",
+            "The Princess Diaries (2001)"
         ]
     },
     "Erika Christensen": {
@@ -7028,6 +7187,8 @@ var actorMap = {
     },
     "Flea": {
         "movies": [
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)",
             "Psycho (1998)"
         ]
     },
@@ -7312,6 +7473,11 @@ var actorMap = {
             "The Brothers Grimsby (2016)"
         ]
     },
+    "Gabriel Luna": {
+        "movies": [
+            "Terminator: Dark Fate (2019)"
+        ]
+    },
     "Gabriel Macht": {
         "movies": [
             "The Spirit (2008)"
@@ -7399,6 +7565,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Predator 2 (1990)",
             "The Firm (1993)"
         ]
     },
@@ -7486,6 +7653,11 @@ var actorMap = {
         "movies": [
             "Changeling (2008)",
             "Green Lantern (2011)"
+        ]
+    },
+    "Gedde Watanabe": {
+        "movies": [
+            "Sixteen Candles (1984)"
         ]
     },
     "Geena Davis": {
@@ -7735,6 +7907,11 @@ var actorMap = {
             "300: Rise of an Empire (2014)"
         ]
     },
+    "Gerry Lopez": {
+        "movies": [
+            "Conan the Barbarian (1982)"
+        ]
+    },
     "Gia Carides": {
         "movies": [
             "Austin Powers: The Spy Who Shagged Me (1999)"
@@ -7765,6 +7942,12 @@ var actorMap = {
     "Gina Gershon": {
         "movies": [
             "Cocktail (1988)"
+        ]
+    },
+    "Gina Torres": {
+        "movies": [
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)"
         ]
     },
     "Ginnifer Goodwin": {
@@ -7859,6 +8042,18 @@ var actorMap = {
             "Superman (1978)"
         ]
     },
+    "Glenne Headly": {
+        "movies": [
+            "Dick Tracy (1990)",
+            "The Circle (2017)"
+        ]
+    },
+    "Gloria Foster": {
+        "movies": [
+            "The Matrix (1999)",
+            "The Matrix Reloaded (2003)"
+        ]
+    },
     "Gloria Stuart": {
         "suppNoms": [
             {
@@ -7893,6 +8088,11 @@ var actorMap = {
     "Grace Fulton": {
         "movies": [
             "Shazam! (2019)"
+        ]
+    },
+    "Grace Jones": {
+        "movies": [
+            "Conan the Destroyer (1984)"
         ]
     },
     "Grace Kelly": {
@@ -7983,6 +8183,7 @@ var actorMap = {
     "Guy Pearce": {
         "movies": [
             "The King's Speech (2010)",
+            "Prometheus (2012)",
             "Iron Man 3 (2013)",
             "Bloodshot (2020)"
         ]
@@ -8145,6 +8346,8 @@ var actorMap = {
     "Harold Perrineau": {
         "movies": [
             "The Best Man (1999)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "Zero Dark Thirty (2012)",
             "The Best Man Holiday (2013)"
         ]
@@ -8204,6 +8407,8 @@ var actorMap = {
     },
     "Harry Lennix": {
         "movies": [
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "Ray (2004)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
@@ -8308,6 +8513,12 @@ var actorMap = {
             "The First Wives Club (1996)"
         ]
     },
+    "Heather Matarazzo": {
+        "movies": [
+            "The Princess Diaries (2001)",
+            "The Princess Diaries 2: Royal Engagement (2004)"
+        ]
+    },
     "Heidi Klum": {
         "movies": [
             "Ocean's 8 (2018)"
@@ -8391,6 +8602,7 @@ var actorMap = {
             "Corpse Bride (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+            "Terminator Salvation (2009)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
@@ -8400,6 +8612,12 @@ var actorMap = {
             "Les Mis\u00e9rables (2012)",
             "Cinderella (2015)",
             "Ocean's 8 (2018)"
+        ]
+    },
+    "Helmut Bakaitis": {
+        "movies": [
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)"
         ]
     },
     "Henry Cavill": {
@@ -8533,6 +8751,11 @@ var actorMap = {
             "King Kong (2005)"
         ]
     },
+    "Huey Lewis": {
+        "movies": [
+            "Back to the Future (1985)"
+        ]
+    },
     "Hugh Dancy": {
         "movies": [
             "Black Hawk Down (2001)"
@@ -8580,8 +8803,11 @@ var actorMap = {
     },
     "Hugo Weaving": {
         "movies": [
+            "The Matrix (1999)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
             "V for Vendetta (2006)",
             "Transformers (2007)",
@@ -8602,6 +8828,8 @@ var actorMap = {
     },
     "H\u00e9ctor Elizondo": {
         "movies": [
+            "The Princess Diaries (2001)",
+            "The Princess Diaries 2: Royal Engagement (2004)",
             "Valentine's Day (2010)",
             "New Year's Eve (2011)",
             "Mother's Day (2016)",
@@ -8716,6 +8944,7 @@ var actorMap = {
             "The Losers (2010)",
             "Thor (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
+            "Prometheus (2012)",
             "Thor: The Dark World (2013)",
             "Avengers: Age of Ultron (2015)",
             "Zootopia (2016)",
@@ -8925,6 +9154,11 @@ var actorMap = {
             "Spider-Man: No Way Home (2021)"
         ]
     },
+    "J. E. Freeman": {
+        "movies": [
+            "Alien Resurrection (1997)"
+        ]
+    },
     "J. J. Abrams": {
         "movies": [
             "Star Wars: The Force Awakens (2015)",
@@ -8950,6 +9184,7 @@ var actorMap = {
             "Juno (2007)",
             "I Love You, Man (2009)",
             "Whiplash (2014)",
+            "Terminator Genisys (2015)",
             "Kung Fu Panda 3 (2016)",
             "Zootopia (2016)",
             "La La Land (2016)",
@@ -9230,7 +9465,8 @@ var actorMap = {
     },
     "Jacob Tremblay": {
         "movies": [
-            "The Book of Henry (2017)"
+            "The Book of Henry (2017)",
+            "The Predator (2018)"
         ]
     },
     "Jacqueline Obradors": {
@@ -9242,8 +9478,11 @@ var actorMap = {
     "Jada Pinkett Smith": {
         "movies": [
             "Set It Off (1996)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "Collateral (2004)",
-            "Girls Trip (2017)"
+            "Girls Trip (2017)",
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Jaden Smith": {
@@ -9264,6 +9503,7 @@ var actorMap = {
         "movies": [
             "Jack Reacher (2012)",
             "I, Frankenstein (2014)",
+            "Terminator Genisys (2015)",
             "Suicide Squad (2016)",
             "The Suicide Squad (2021)"
         ]
@@ -9288,6 +9528,11 @@ var actorMap = {
         "movies": [
             "Thor (2011)",
             "Thor: The Dark World (2013)"
+        ]
+    },
+    "Jake Busey": {
+        "movies": [
+            "The Predator (2018)"
         ]
     },
     "Jake Gyllenhaal": {
@@ -9356,6 +9601,9 @@ var actorMap = {
                 "movie": "The Godfather",
                 "year": "1972"
             }
+        ],
+        "movies": [
+            "Dick Tracy (1990)"
         ]
     },
     "James Coburn": {
@@ -9430,6 +9678,7 @@ var actorMap = {
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "Conan the Barbarian (1982)",
             "Return of the Jedi (1983)",
             "The Lion King (1994)",
             "Robots (2005)",
@@ -9607,8 +9856,12 @@ var actorMap = {
     },
     "James Tolkan": {
         "movies": [
+            "Back to the Future (1985)",
             "Top Gun (1986)",
             "Armed and Dangerous (1986)",
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)",
+            "Dick Tracy (1990)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -9643,7 +9896,8 @@ var actorMap = {
     },
     "Jami Gertz": {
         "movies": [
-            "Endless Love (1981)"
+            "Endless Love (1981)",
+            "Sixteen Candles (1984)"
         ]
     },
     "Jamie Bell": {
@@ -9707,6 +9961,11 @@ var actorMap = {
             "The Tailor of Panama (2001)",
             "You Again (2010)",
             "Knives Out (2019)"
+        ]
+    },
+    "Jane Alexander": {
+        "movies": [
+            "Terminator Salvation (2009)"
         ]
     },
     "Jane Curtin": {
@@ -9869,7 +10128,8 @@ var actorMap = {
     "Jason Clarke": {
         "movies": [
             "Zero Dark Thirty (2012)",
-            "Dawn of the Planet of the Apes (2014)"
+            "Dawn of the Planet of the Apes (2014)",
+            "Terminator Genisys (2015)"
         ]
     },
     "Jason Drucker": {
@@ -9954,7 +10214,13 @@ var actorMap = {
     "Jason Schwartzman": {
         "movies": [
             "Scott Pilgrim vs. the World (2010)",
+            "Saving Mr. Banks (2013)",
             "Wine Country (2019)"
+        ]
+    },
+    "Jason Scott Lee": {
+        "movies": [
+            "Back to the Future Part II (1989)"
         ]
     },
     "Jason Segel": {
@@ -10253,6 +10519,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Rocketeer (1991)",
             "Hulk (2003)",
             "Inkheart (2009)",
             "He's Just Not That into You (2009)",
@@ -10529,6 +10796,11 @@ var actorMap = {
             "The Power of the Dog (2021)"
         ]
     },
+    "Jesse Ventura": {
+        "movies": [
+            "Predator (1987)"
+        ]
+    },
     "Jesse Williams": {
         "movies": [
             "The Cabin in the Woods (2012)"
@@ -10591,7 +10863,8 @@ var actorMap = {
     },
     "Jessica Henwick": {
         "movies": [
-            "Star Wars: The Force Awakens (2015)"
+            "Star Wars: The Force Awakens (2015)",
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Jessica Lange": {
@@ -10850,6 +11123,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Sixteen Candles (1984)",
             "Toy Story 2 (1999)",
             "The Perks of Being a Wallflower (2012)"
         ]
@@ -10998,6 +11272,7 @@ var actorMap = {
     },
     "Joe Morton": {
         "movies": [
+            "Terminator 2: Judgment Day (1991)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -11007,6 +11282,7 @@ var actorMap = {
         "movies": [
             "Risky Business (1983)",
             "The Fugitive (1993)",
+            "The Matrix (1999)",
             "Daredevil (2003)"
         ]
     },
@@ -11181,6 +11457,11 @@ var actorMap = {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)"
+        ]
+    },
+    "John Cusack": {
+        "movies": [
+            "Sixteen Candles (1984)"
         ]
     },
     "John Fiedler": {
@@ -11411,6 +11692,7 @@ var actorMap = {
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
+            "The Princess Diaries 2: Royal Engagement (2004)",
             "Aquaman (2018)"
         ]
     },
@@ -11630,6 +11912,7 @@ var actorMap = {
     },
     "Jon Polito": {
         "movies": [
+            "The Rocketeer (1991)",
             "The Crow (1994)",
             "The Tailor of Panama (2001)",
             "View from the Top (2003)"
@@ -11702,6 +11985,11 @@ var actorMap = {
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
             "Star Trek: Nemesis (2002)"
+        ]
+    },
+    "Jonathan Groff": {
+        "movies": [
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Jonathan Harris": {
@@ -12172,6 +12460,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Princess Diaries (2001)",
+            "The Princess Diaries 2: Royal Engagement (2004)",
             "Aquaman (2018)"
         ]
     },
@@ -12311,7 +12601,8 @@ var actorMap = {
     },
     "Jussie Smollett": {
         "movies": [
-            "North (1994)"
+            "North (1994)",
+            "Alien: Covenant (2017)"
         ]
     },
     "Justice Smith": {
@@ -12340,6 +12631,9 @@ var actorMap = {
                 "movie": "Kramer vs. Kramer",
                 "year": "1979"
             }
+        ],
+        "movies": [
+            "Sixteen Candles (1984)"
         ]
     },
     "Justin Long": {
@@ -12464,6 +12758,7 @@ var actorMap = {
     },
     "Kate Dickie": {
         "movies": [
+            "Prometheus (2012)",
             "The Witch (2016)"
         ]
     },
@@ -12641,6 +12936,7 @@ var actorMap = {
         "movies": [
             "Michael Clayton (2007)",
             "Fantastic Beasts and Where to Find Them (2016)",
+            "Alien: Covenant (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
@@ -12678,6 +12974,11 @@ var actorMap = {
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
+    "Kathy Baker": {
+        "movies": [
+            "Saving Mr. Banks (2013)"
+        ]
+    },
     "Kathy Bates": {
         "leadNoms": [
             {
@@ -12700,6 +13001,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dick Tracy (1990)",
             "North (1994)",
             "Rumor Has It (2005)",
             "Valentine's Day (2010)"
@@ -12755,15 +13057,20 @@ var actorMap = {
     },
     "Keanu Reeves": {
         "movies": [
+            "The Matrix (1999)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "Something's Gotta Give (2003)",
             "Constantine (2005)",
             "The Lake House (2006)",
-            "John Wick (2014)"
+            "John Wick (2014)",
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Keegan-Michael Key": {
         "movies": [
-            "Due Date (2010)"
+            "Due Date (2010)",
+            "The Predator (2018)"
         ]
     },
     "Keira Knightley": {
@@ -13286,6 +13593,11 @@ var actorMap = {
             "He's Just Not That into You (2009)"
         ]
     },
+    "Kristanna Loken": {
+        "movies": [
+            "Terminator 3: Rise of the Machines (2003)"
+        ]
+    },
     "Kristen Bell": {
         "movies": [
             "Couples Retreat (2009)",
@@ -13443,9 +13755,12 @@ var actorMap = {
     },
     "Lambert Wilson": {
         "movies": [
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "Timeline (2003)",
             "Catwoman (2004)",
-            "Sahara (2005)"
+            "Sahara (2005)",
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Lamorne Morris": {
@@ -13465,7 +13780,9 @@ var actorMap = {
     },
     "Lance Henriksen": {
         "movies": [
-            "Network (1976)"
+            "Network (1976)",
+            "The Terminator (1984)",
+            "Aliens (1986)"
         ]
     },
     "Lance Reddick": {
@@ -13509,6 +13826,12 @@ var actorMap = {
     "Larry King": {
         "movies": [
             "Ghostbusters (1984)"
+        ]
+    },
+    "Larry Miller": {
+        "movies": [
+            "The Princess Diaries (2001)",
+            "The Princess Diaries 2: Royal Engagement (2004)"
         ]
     },
     "Larry Wilmore": {
@@ -13627,9 +13950,13 @@ var actorMap = {
         ],
         "movies": [
             "Boyz n the Hood (1991)",
+            "The Matrix (1999)",
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
             "Mission: Impossible III (2006)",
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Predators (2010)",
             "Contagion (2011)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
@@ -13695,7 +14022,16 @@ var actorMap = {
     "Lea Thompson": {
         "movies": [
             "All the Right Moves (1983)",
-            "Howard the Duck (1986)"
+            "Back to the Future (1985)",
+            "Howard the Duck (1986)",
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)"
+        ]
+    },
+    "Lee Byung-hun": {
+        "movies": [
+            "Red 2 (2013)",
+            "Terminator Genisys (2015)"
         ]
     },
     "Lee Evans": {
@@ -13729,6 +14065,7 @@ var actorMap = {
     },
     "Leigh Whannell": {
         "movies": [
+            "The Matrix Reloaded (2003)",
             "Aquaman (2018)"
         ]
     },
@@ -13739,6 +14076,7 @@ var actorMap = {
     },
     "Leland Orser": {
         "movies": [
+            "Alien Resurrection (1997)",
             "Saving Private Ryan (1998)"
         ]
     },
@@ -14069,6 +14407,14 @@ var actorMap = {
             "Dogma (1999)"
         ]
     },
+    "Linda Hamilton": {
+        "movies": [
+            "The Terminator (1984)",
+            "Terminator 2: Judgment Day (1991)",
+            "Terminator Salvation (2009)",
+            "Terminator: Dark Fate (2019)"
+        ]
+    },
     "Linda Harrison": {
         "movies": [
             "Planet of the Apes (1968)",
@@ -14166,6 +14512,7 @@ var actorMap = {
     },
     "Logan Marshall-Green": {
         "movies": [
+            "Prometheus (2012)",
             "Spider-Man: Homecoming (2017)"
         ]
     },
@@ -14448,6 +14795,11 @@ var actorMap = {
             "The Pagemaster (1994)"
         ]
     },
+    "Mackenzie Davis": {
+        "movies": [
+            "Terminator: Dark Fate (2019)"
+        ]
+    },
     "Macy Gray": {
         "movies": [
             "Spider-Man (2002)",
@@ -14472,6 +14824,7 @@ var actorMap = {
     },
     "Madonna": {
         "movies": [
+            "Dick Tracy (1990)",
             "A League of Their Own (1992)"
         ]
     },
@@ -14570,6 +14923,7 @@ var actorMap = {
         ],
         "movies": [
             "The Curious Case of Benjamin Button (2008)",
+            "Predators (2010)",
             "Hidden Figures (2016)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Eternals (2021)"
@@ -14602,6 +14956,8 @@ var actorMap = {
     },
     "Mako": {
         "movies": [
+            "Conan the Barbarian (1982)",
+            "Conan the Destroyer (1984)",
             "Seven Years in Tibet (1997)",
             "Bulletproof Monk (2003)",
             "TMNT (2007)"
@@ -14626,7 +14982,13 @@ var actorMap = {
     },
     "Mandy Moore": {
         "movies": [
+            "The Princess Diaries (2001)",
             "Ralph Breaks the Internet (2018)"
+        ]
+    },
+    "Mandy Patinkin": {
+        "movies": [
+            "Dick Tracy (1990)"
         ]
     },
     "Manuel Garcia-Rulfo": {
@@ -14678,6 +15040,11 @@ var actorMap = {
             "The First Wives Club (1996)"
         ]
     },
+    "Marcus Chong": {
+        "movies": [
+            "The Matrix (1999)"
+        ]
+    },
     "Mare Winningham": {
         "suppNoms": [
             {
@@ -14689,6 +15056,7 @@ var actorMap = {
     "Margo Martindale": {
         "movies": [
             "Days of Thunder (1990)",
+            "The Rocketeer (1991)",
             "The Firm (1993)",
             "Ghosts of Mississippi (1996)",
             "August: Osage County (2013)",
@@ -15180,6 +15548,11 @@ var actorMap = {
             "The Old Guard (2020)"
         ]
     },
+    "Mary Alice": {
+        "movies": [
+            "The Matrix Revolutions (2003)"
+        ]
+    },
     "Mary Elizabeth Mastrantonio": {
         "suppNoms": [
             {
@@ -15240,6 +15613,7 @@ var actorMap = {
     },
     "Mary Steenburgen": {
         "movies": [
+            "Back to the Future Part III (1990)",
             "Four Christmases (2008)",
             "The Help (2011)",
             "Book Club (2018)",
@@ -15494,6 +15868,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Conan the Barbarian (1982)",
             "Ghostbusters II (1989)",
             "Minority Report (2002)",
             "Star Wars: The Force Awakens (2015)"
@@ -15684,6 +16059,11 @@ var actorMap = {
             "Ralph Breaks the Internet (2018)"
         ]
     },
+    "Melora Hardin": {
+        "movies": [
+            "The Rocketeer (1991)"
+        ]
+    },
     "Mena Suvari": {
         "movies": [
             "Rumor Has It (2005)"
@@ -15867,6 +16247,8 @@ var actorMap = {
     },
     "Michael Biehn": {
         "movies": [
+            "The Terminator (1984)",
+            "Aliens (1986)",
             "Take Me Home Tonight (2011)"
         ]
     },
@@ -16008,6 +16390,7 @@ var actorMap = {
     },
     "Michael Emerson": {
         "movies": [
+            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)"
         ]
     },
@@ -16028,9 +16411,11 @@ var actorMap = {
             "300 (2007)",
             "Jonah Hex (2010)",
             "X-Men: First Class (2011)",
+            "Prometheus (2012)",
             "The Counselor (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
+            "Alien: Covenant (2017)",
             "Dark Phoenix (2019)"
         ]
     },
@@ -16081,12 +16466,21 @@ var actorMap = {
     "Michael Ironside": {
         "movies": [
             "Top Gun (1986)",
-            "Heavy Metal 2000 (2000)"
+            "Heavy Metal 2000 (2000)",
+            "Terminator Salvation (2009)"
         ]
     },
     "Michael J. Fox": {
         "movies": [
+            "Back to the Future (1985)",
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)",
             "Atlantis: The Lost Empire (2001)"
+        ]
+    },
+    "Michael J. Pollard": {
+        "movies": [
+            "Dick Tracy (1990)"
         ]
     },
     "Michael Jackson": {
@@ -16221,6 +16615,11 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)"
         ]
     },
+    "Michael Schoeffling": {
+        "movies": [
+            "Sixteen Candles (1984)"
+        ]
+    },
     "Michael Scholes": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -16265,7 +16664,8 @@ var actorMap = {
         "movies": [
             "Born on the Fourth of July (1989)",
             "Robin Hood: Prince of Thieves (1991)",
-            "The Crow (1994)"
+            "The Crow (1994)",
+            "Alien Resurrection (1997)"
         ]
     },
     "Michael Winslow": {
@@ -16631,12 +17031,19 @@ var actorMap = {
     },
     "Molly Ringwald": {
         "movies": [
+            "Sixteen Candles (1984)",
             "The Breakfast Club (1985)"
         ]
     },
     "Molly Shannon": {
         "movies": [
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Monica Bellucci": {
+        "movies": [
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)"
         ]
     },
     "Monica Calhoun": {
@@ -16648,6 +17055,11 @@ var actorMap = {
     "Monica Keena": {
         "movies": [
             "Orange County (2002)"
+        ]
+    },
+    "Moon Bloodgood": {
+        "movies": [
+            "Terminator Salvation (2009)"
         ]
     },
     "Morena Baccarin": {
@@ -16822,6 +17234,11 @@ var actorMap = {
             "New Year's Eve (2011)"
         ]
     },
+    "Natalia Reyes": {
+        "movies": [
+            "Terminator: Dark Fate (2019)"
+        ]
+    },
     "Natalie Dormer": {
         "movies": [
             "Captain America: The First Avenger (2011)",
@@ -16959,6 +17376,11 @@ var actorMap = {
             "Batman (1966)"
         ]
     },
+    "Neil Patrick Harris": {
+        "movies": [
+            "The Matrix Resurrections (2021)"
+        ]
+    },
     "Neil deGrasse Tyson": {
         "movies": [
             "Batman v Superman: Dawn of Justice (2016)"
@@ -17012,6 +17434,11 @@ var actorMap = {
             "Drumline (2002)"
         ]
     },
+    "Nick Chinlund": {
+        "movies": [
+            "The Legend of Zorro (2005)"
+        ]
+    },
     "Nick Frost": {
         "movies": [
             "The Adventures of Tintin (2011)",
@@ -17062,6 +17489,7 @@ var actorMap = {
     },
     "Nick Stahl": {
         "movies": [
+            "Terminator 3: Rise of the Machines (2003)",
             "Sin City (2005)"
         ]
     },
@@ -17222,11 +17650,23 @@ var actorMap = {
             "Uncharted (2022)"
         ]
     },
+    "Nona Gaye": {
+        "movies": [
+            "The Matrix Reloaded (2003)",
+            "The Matrix Revolutions (2003)",
+            "Crash (2005)"
+        ]
+    },
     "Nonso Anozie": {
         "movies": [
             "Atonement (2007)",
             "Conan the Barbarian (2011)",
             "Cinderella (2015)"
+        ]
+    },
+    "Noomi Rapace": {
+        "movies": [
+            "Prometheus (2012)"
         ]
     },
     "Norbert Weisser": {
@@ -17244,6 +17684,7 @@ var actorMap = {
     },
     "Norman Alden": {
         "movies": [
+            "Back to the Future (1985)",
             "The Transformers: The Movie (1986)"
         ]
     },
@@ -17374,7 +17815,8 @@ var actorMap = {
             "Iron Man 2 (2010)",
             "Mortdecai (2015)",
             "X-Men: Apocalypse (2016)",
-            "Ocean's 8 (2018)"
+            "Ocean's 8 (2018)",
+            "The Predator (2018)"
         ]
     },
     "Olivia Olson": {
@@ -17399,6 +17841,11 @@ var actorMap = {
     "Olivia Williams": {
         "movies": [
             "X-Men: The Last Stand (2006)"
+        ]
+    },
+    "Olivia d'Abo": {
+        "movies": [
+            "Conan the Destroyer (1984)"
         ]
     },
     "Olympia Dukakis": {
@@ -17660,6 +18107,7 @@ var actorMap = {
     "Patrick Wilson": {
         "movies": [
             "Watchmen (2009)",
+            "Prometheus (2012)",
             "Bone Tomahawk (2015)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Aquaman (2018)"
@@ -17704,6 +18152,7 @@ var actorMap = {
     },
     "Paul Dooley": {
         "movies": [
+            "Sixteen Candles (1984)",
             "Hairspray (2007)"
         ]
     },
@@ -17729,6 +18178,7 @@ var actorMap = {
             "Planet of the Apes (2001)",
             "Robots (2005)",
             "Rock of Ages (2012)",
+            "Saving Mr. Banks (2013)",
             "The Amazing Spider-Man 2 (2014)"
         ]
     },
@@ -17810,6 +18260,7 @@ var actorMap = {
     },
     "Paul Reiser": {
         "movies": [
+            "Aliens (1986)",
             "Whiplash (2014)"
         ]
     },
@@ -17867,6 +18318,8 @@ var actorMap = {
     },
     "Paul Sorvino": {
         "movies": [
+            "Dick Tracy (1990)",
+            "The Rocketeer (1991)",
             "The Firm (1993)"
         ]
     },
@@ -17896,9 +18349,15 @@ var actorMap = {
             "Alice in Wonderland (2010)"
         ]
     },
+    "Paul Williams": {
+        "movies": [
+            "The Princess Diaries 2: Royal Engagement (2004)"
+        ]
+    },
     "Paul Winfield": {
         "movies": [
-            "Star Trek II: The Wrath of Khan (1982)"
+            "Star Trek II: The Wrath of Khan (1982)",
+            "The Terminator (1984)"
         ]
     },
     "Paula Abdul": {
@@ -18031,6 +18490,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Alien 3 (1992)",
             "The Lost World: Jurassic Park (1997)",
             "Amistad (1997)"
         ]
@@ -18373,6 +18833,11 @@ var actorMap = {
             "Arsenic and Old Lace (1944)"
         ]
     },
+    "Priyanka Chopra Jonas": {
+        "movies": [
+            "The Matrix Resurrections (2021)"
+        ]
+    },
     "Qin Shaobo": {
         "movies": [
             "Ocean's Eleven (2001)",
@@ -18456,7 +18921,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Blow (2001)"
+            "Blow (2001)",
+            "Saving Mr. Banks (2013)"
         ]
     },
     "Rachel House": {
@@ -18505,6 +18971,7 @@ var actorMap = {
     },
     "Rafe Spall": {
         "movies": [
+            "Prometheus (2012)",
             "Jurassic World: Fallen Kingdom (2018)",
             "Men in Black: International (2019)"
         ]
@@ -18585,6 +19052,7 @@ var actorMap = {
     },
     "Randall Duk Kim": {
         "movies": [
+            "The Matrix Reloaded (2003)",
             "Kung Fu Panda (2008)",
             "John Wick (2014)",
             "Kung Fu Panda 3 (2016)"
@@ -18628,6 +19096,11 @@ var actorMap = {
         "movies": [
             "I Love You, Man (2009)",
             "The Grinch (2018)"
+        ]
+    },
+    "Raven-Symon\u00e9": {
+        "movies": [
+            "The Princess Diaries 2: Royal Engagement (2004)"
         ]
     },
     "Ray Charles": {
@@ -18678,6 +19151,11 @@ var actorMap = {
     "Ray Wise": {
         "movies": [
             "Swamp Thing (1982)"
+        ]
+    },
+    "Raymond Cruz": {
+        "movies": [
+            "Alien Resurrection (1997)"
         ]
     },
     "Raymond Massey": {
@@ -19094,6 +19572,7 @@ var actorMap = {
     "Rick Rossovich": {
         "movies": [
             "Losin' It (1983)",
+            "The Terminator (1984)",
             "Top Gun (1986)"
         ]
     },
@@ -19218,6 +19697,12 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles (1990)",
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "Teenage Mutant Ninja Turtles III (1993)"
+        ]
+    },
+    "Robert Davi": {
+        "movies": [
+            "Die Hard (1988)",
+            "Predator 2 (1990)"
         ]
     },
     "Robert De Niro": {
@@ -19365,6 +19850,7 @@ var actorMap = {
     },
     "Robert Patrick": {
         "movies": [
+            "Terminator 2: Judgment Day (1991)",
             "Last Action Hero (1993)",
             "Walk the Line (2005)",
             "Firewall (2006)"
@@ -19400,6 +19886,11 @@ var actorMap = {
         "movies": [
             "Sin City (2005)",
             "Sin City: A Dame to Kill For (2014)"
+        ]
+    },
+    "Robert Schwartzman": {
+        "movies": [
+            "The Princess Diaries (2001)"
         ]
     },
     "Robert Stack": {
@@ -19546,6 +20037,7 @@ var actorMap = {
     },
     "Ron Perlman": {
         "movies": [
+            "Alien Resurrection (1997)",
             "Blade II (2002)",
             "Star Trek: Nemesis (2002)",
             "Hellboy (2004)",
@@ -19759,6 +20251,7 @@ var actorMap = {
         "movies": [
             "A Knight's Tale (2001)",
             "The Legend of Zorro (2005)",
+            "The Legend of Zorro (2005)",
             "The Holiday (2006)",
             "The Tourist (2010)",
             "Hercules (2014)"
@@ -19853,6 +20346,7 @@ var actorMap = {
     },
     "Ruth Wilson": {
         "movies": [
+            "Saving Mr. Banks (2013)",
             "Locke (2014)"
         ]
     },
@@ -20118,6 +20612,7 @@ var actorMap = {
     },
     "Sam Worthington": {
         "movies": [
+            "Terminator Salvation (2009)",
             "Avatar (2009)"
         ]
     },
@@ -20201,6 +20696,11 @@ var actorMap = {
             "Now You See Me 2 (2016)"
         ]
     },
+    "Sandahl Bergman": {
+        "movies": [
+            "Conan the Barbarian (1982)"
+        ]
+    },
     "Sandra Bullock": {
         "leadNoms": [
             {
@@ -20218,6 +20718,11 @@ var actorMap = {
             "The Lake House (2006)",
             "Gravity (2013)",
             "Ocean's 8 (2018)"
+        ]
+    },
+    "Sandra Oh": {
+        "movies": [
+            "The Princess Diaries (2001)"
         ]
     },
     "Sandy Dennis": {
@@ -20260,6 +20765,14 @@ var actorMap = {
     "Sara Paxton": {
         "movies": [
             "Sydney White (2007)"
+        ]
+    },
+    "Sarah Douglas": {
+        "movies": [
+            "Superman (1978)",
+            "Superman II (1981)",
+            "Conan the Destroyer (1984)",
+            "The Return of Swamp Thing (1989)"
         ]
     },
     "Sarah Jessica Parker": {
@@ -20455,6 +20968,7 @@ var actorMap = {
     },
     "Sean Harris": {
         "movies": [
+            "Prometheus (2012)",
             "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Mission: Impossible \u2013 Fallout (2018)"
         ]
@@ -20583,6 +21097,11 @@ var actorMap = {
             "Long Shot (2019)"
         ]
     },
+    "Seymour Cassel": {
+        "movies": [
+            "Dick Tracy (1990)"
+        ]
+    },
     "Shahadi Wright Joseph": {
         "movies": [
             "Us (2019)"
@@ -20605,6 +21124,7 @@ var actorMap = {
     },
     "Shane Black": {
         "movies": [
+            "Predator (1987)",
             "As Good as It Gets (1997)"
         ]
     },
@@ -20828,7 +21348,10 @@ var actorMap = {
             "Annie Hall (1977)",
             "Alien (1979)",
             "Ghostbusters (1984)",
+            "Aliens (1986)",
             "Ghostbusters II (1989)",
+            "Alien 3 (1992)",
+            "Alien Resurrection (1997)",
             "Galaxy Quest (1999)",
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
@@ -21280,7 +21803,8 @@ var actorMap = {
     },
     "Sterling K. Brown": {
         "movies": [
-            "Black Panther (2018)"
+            "Black Panther (2018)",
+            "The Predator (2018)"
         ]
     },
     "Steve Agee": {
@@ -21417,6 +21941,7 @@ var actorMap = {
     "Stuart Wilson": {
         "movies": [
             "Teenage Mutant Ninja Turtles III (1993)",
+            "The Mask of Zorro (1998)",
             "The Mask of Zorro (1998)"
         ]
     },
@@ -21748,6 +22273,7 @@ var actorMap = {
         "movies": [
             "All the Right Moves (1983)",
             "Places in the Heart (1984)",
+            "The Rocketeer (1991)",
             "Primal Fear (1996)",
             "Ghosts of Mississippi (1996)"
         ]
@@ -21781,6 +22307,13 @@ var actorMap = {
             "Star Wars: The Force Awakens (2015)"
         ]
     },
+    "Thomas F. Wilson": {
+        "movies": [
+            "Back to the Future (1985)",
+            "Back to the Future Part II (1989)",
+            "Back to the Future Part III (1990)"
+        ]
+    },
     "Thomas Haden Church": {
         "suppNoms": [
             {
@@ -21801,7 +22334,8 @@ var actorMap = {
             "The Crow: City of Angels (1996)",
             "Magnolia (1999)",
             "The Punisher (2004)",
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "The Predator (2018)"
         ]
     },
     "Thomas Kretschmann": {
@@ -21971,6 +22505,7 @@ var actorMap = {
     "Timothy Dalton": {
         "movies": [
             "The Lion in Winter (1968)",
+            "The Rocketeer (1991)",
             "The Tourist (2010)"
         ]
     },
@@ -22237,6 +22772,7 @@ var actorMap = {
             "Catch Me If You Can (2002)",
             "The Terminal (2004)",
             "Cloud Atlas (2012)",
+            "Saving Mr. Banks (2013)",
             "The Circle (2017)"
         ]
     },
@@ -22298,7 +22834,8 @@ var actorMap = {
     },
     "Tom Hopper": {
         "movies": [
-            "I Feel Pretty (2018)"
+            "I Feel Pretty (2018)",
+            "Terminator: Dark Fate (2019)"
         ]
     },
     "Tom Hulce": {
@@ -22442,7 +22979,9 @@ var actorMap = {
     "Tony Amendola": {
         "movies": [
             "The Mask of Zorro (1998)",
+            "The Mask of Zorro (1998)",
             "Blow (2001)",
+            "The Legend of Zorro (2005)",
             "The Legend of Zorro (2005)"
         ]
     },
@@ -22528,6 +23067,7 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Spider-Man 3 (2007)",
             "Valentine's Day (2010)",
+            "Predators (2010)",
             "Take Me Home Tonight (2011)"
         ]
     },
@@ -22560,6 +23100,11 @@ var actorMap = {
     "Traylor Howard": {
         "movies": [
             "Son of the Mask (2005)"
+        ]
+    },
+    "Trevante Rhodes": {
+        "movies": [
+            "The Predator (2018)"
         ]
     },
     "Trevor Howard": {
@@ -23088,6 +23633,7 @@ var actorMap = {
     },
     "Walton Goggins": {
         "movies": [
+            "Predators (2010)",
             "Cowboys & Aliens (2011)",
             "The Hateful Eight (2015)",
             "Ant-Man and the Wasp (2018)"
@@ -23113,6 +23659,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dick Tracy (1990)",
             "Love Affair (1994)"
         ]
     },
@@ -23493,6 +24040,11 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Wilt Chamberlain": {
+        "movies": [
+            "Conan the Destroyer (1984)"
+        ]
+    },
     "Winona Ryder": {
         "leadNoms": [
             {
@@ -23507,6 +24059,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Alien Resurrection (1997)",
             "Girl, Interrupted (1999)",
             "Star Trek (2009)"
         ]
@@ -23601,7 +24154,8 @@ var actorMap = {
         "movies": [
             "The Greatest Showman (2017)",
             "Aquaman (2018)",
-            "Us (2019)"
+            "Us (2019)",
+            "The Matrix Resurrections (2021)"
         ]
     },
     "Yalitza Aparicio": {
@@ -23656,7 +24210,8 @@ var actorMap = {
     },
     "Yvonne Strahovski": {
         "movies": [
-            "I, Frankenstein (2014)"
+            "I, Frankenstein (2014)",
+            "The Predator (2018)"
         ]
     },
     "Zac Efron": {

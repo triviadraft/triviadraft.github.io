@@ -16007,6 +16007,7 @@ var movieMap = {
             "Margot Kidder",
             "Marlon Brando",
             "Ned Beatty",
+            "Sarah Douglas",
             "Susannah York",
             "Terence Stamp",
             "Trevor Howard",
@@ -18022,6 +18023,7 @@ var movieMap = {
             "Margot Kidder",
             "Ned Beatty",
             "Richard Donner",
+            "Sarah Douglas",
             "Susannah York",
             "Terence Stamp",
             "Valerie Perrine"
@@ -18989,6 +18991,14 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Gerry Lopez",
+            "James Earl Jones",
+            "Mako",
+            "Max von Sydow",
+            "Sandahl Bergman"
         ]
     },
     "Annie (1982)": {
@@ -21362,6 +21372,18 @@ var movieMap = {
             "Coming of Age",
             "Cusacks",
             "John Hughes"
+        ],
+        "cast": [
+            "Anthony Michael Hall",
+            "Brian Doyle-Murray",
+            "Gedde Watanabe",
+            "Jami Gertz",
+            "Joan Cusack",
+            "John Cusack",
+            "Justin Henry",
+            "Michael Schoeffling",
+            "Molly Ringwald",
+            "Paul Dooley"
         ]
     },
     "Firestarter (1984)": {
@@ -21758,6 +21780,15 @@ var movieMap = {
             "IG Fantasy/Sci-Fi",
             "Sly & Arnie",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Andr\u00e9 the Giant",
+            "Arnold Schwarzenegger",
+            "Grace Jones",
+            "Mako",
+            "Olivia d'Abo",
+            "Sarah Douglas",
+            "Wilt Chamberlain"
         ]
     },
     "Cloak & Dagger (1984)": {
@@ -22160,6 +22191,17 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Bill Paxton",
+            "Dick Miller",
+            "Earl Boen",
+            "Lance Henriksen",
+            "Linda Hamilton",
+            "Michael Biehn",
+            "Paul Winfield",
+            "Rick Rossovich"
         ]
     },
     "A Nightmare on Elm Street (1984)": {
@@ -23170,6 +23212,17 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Modern Classics",
             "Robert Zemeckis"
+        ],
+        "cast": [
+            "Billy Zane",
+            "Christopher Lloyd",
+            "Crispin Glover",
+            "Huey Lewis",
+            "James Tolkan",
+            "Lea Thompson",
+            "Michael J. Fox",
+            "Norman Alden",
+            "Thomas F. Wilson"
         ]
     },
     "Day of the Dead (1985)": {
@@ -24806,6 +24859,14 @@ var movieMap = {
             "Horror/Thriller",
             "Modern Classics",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Bill Paxton",
+            "Carrie Henn",
+            "Lance Henriksen",
+            "Michael Biehn",
+            "Paul Reiser",
+            "Sigourney Weaver"
         ]
     },
     "Vamp (1986)": {
@@ -26170,6 +26231,13 @@ var movieMap = {
             "Horror/Thriller",
             "Sly & Arnie",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Bill Duke",
+            "Carl Weathers",
+            "Jesse Ventura",
+            "Shane Black"
         ]
     },
     "The Witches of Eastwick (1987)": {
@@ -28097,6 +28165,7 @@ var movieMap = {
             "Bonnie Bedelia",
             "Bruce Willis",
             "Reginald VelJohnson",
+            "Robert Davi",
             "William Atherton"
         ]
     },
@@ -29559,7 +29628,8 @@ var movieMap = {
         "cast": [
             "Frank Welker",
             "Heather Locklear",
-            "Louis Jourdan"
+            "Louis Jourdan",
+            "Sarah Douglas"
         ]
     },
     "For Queen and Country (1989)": {
@@ -30661,6 +30731,19 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Robert Zemeckis"
+        ],
+        "cast": [
+            "Billy Zane",
+            "Charles Fleischer",
+            "Christopher Lloyd",
+            "Elijah Wood",
+            "Elisabeth Shue",
+            "Flea",
+            "James Tolkan",
+            "Jason Scott Lee",
+            "Lea Thompson",
+            "Michael J. Fox",
+            "Thomas F. Wilson"
         ]
     },
     "National Lampoon's Christmas Vacation (1989)": {
@@ -31357,6 +31440,16 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Robert Zemeckis"
+        ],
+        "cast": [
+            "Christopher Lloyd",
+            "Elisabeth Shue",
+            "Flea",
+            "James Tolkan",
+            "Lea Thompson",
+            "Mary Steenburgen",
+            "Michael J. Fox",
+            "Thomas F. Wilson"
         ]
     },
     "Total Recall (1990)": {
@@ -31425,6 +31518,25 @@ var movieMap = {
             "Musicians in Film",
             "SCTV Alumni",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Al Pacino",
+            "Catherine O'Hara",
+            "Charles Durning",
+            "Charles Fleischer",
+            "Charlie Korsmo",
+            "Dick Van Dyke",
+            "Dustin Hoffman",
+            "Glenne Headly",
+            "James Caan",
+            "James Tolkan",
+            "Kathy Bates",
+            "Madonna",
+            "Mandy Patinkin",
+            "Michael J. Pollard",
+            "Paul Sorvino",
+            "Seymour Cassel",
+            "Warren Beatty"
         ]
     },
     "Gremlins 2: The New Batch (1990)": {
@@ -32364,6 +32476,13 @@ var movieMap = {
             "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Adam Baldwin",
+            "Bill Paxton",
+            "Danny Glover",
+            "Gary Busey",
+            "Robert Davi"
         ]
     },
     "Three Men and a Little Lady (1990)": {
@@ -33294,6 +33413,18 @@ var movieMap = {
             "IG Fantasy/Sci-Fi",
             "Jennifer Connelly",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Alan Arkin",
+            "Billy Campbell",
+            "Clint Howard",
+            "Jennifer Connelly",
+            "Jon Polito",
+            "Margo Martindale",
+            "Melora Hardin",
+            "Paul Sorvino",
+            "Terry O'Quinn",
+            "Timothy Dalton"
         ]
     },
     "The Naked Gun 2\u00bd: The Smell of Fear (1991)": {
@@ -33338,6 +33469,15 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Dean Norris",
+            "Earl Boen",
+            "Edward Furlong",
+            "Joe Morton",
+            "Linda Hamilton",
+            "Robert Patrick"
         ]
     },
     "Slacker (1991)": {
@@ -34888,6 +35028,12 @@ var movieMap = {
             "David Fincher",
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
+            "Sigourney Weaver"
+        ],
+        "cast": [
+            "Charles Dance",
+            "Charles S. Dutton",
+            "Pete Postlethwaite",
             "Sigourney Weaver"
         ]
     },
@@ -48607,6 +48753,17 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Brad Dourif",
+            "Dan Hedaya",
+            "J. E. Freeman",
+            "Leland Orser",
+            "Michael Wincott",
+            "Raymond Cruz",
+            "Ron Perlman",
+            "Sigourney Weaver",
+            "Winona Ryder"
         ]
     },
     "Flubber (1997)": {
@@ -50115,9 +50272,14 @@ var movieMap = {
         ],
         "cast": [
             "Anthony Hopkins",
+            "Anthony Hopkins",
+            "Antonio Banderas",
             "Antonio Banderas",
             "Catherine Zeta-Jones",
+            "Catherine Zeta-Jones",
             "Stuart Wilson",
+            "Stuart Wilson",
+            "Tony Amendola",
             "Tony Amendola"
         ]
     },
@@ -51473,6 +51635,7 @@ var movieMap = {
             "Star Trek"
         ],
         "cast": [
+            "Anthony Zerbe",
             "Brent Spiner",
             "Donna Murphy",
             "F. Murray Abraham",
@@ -52247,6 +52410,15 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
+        ],
+        "cast": [
+            "Carrie-Anne Moss",
+            "Gloria Foster",
+            "Hugo Weaving",
+            "Joe Pantoliano",
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Marcus Chong"
         ]
     },
     "Following (1999)": {
@@ -58099,6 +58271,18 @@ var movieMap = {
             "Marshalls",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anne Hathaway",
+            "Caroline Goodall",
+            "Erik von Detten",
+            "Heather Matarazzo",
+            "H\u00e9ctor Elizondo",
+            "Julie Andrews",
+            "Larry Miller",
+            "Mandy Moore",
+            "Robert Schwartzman",
+            "Sandra Oh"
         ]
     },
     "American Pie 2 (2001)": {
@@ -63443,6 +63627,24 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
+        ],
+        "cast": [
+            "Anthony Zerbe",
+            "Carrie-Anne Moss",
+            "Gina Torres",
+            "Gloria Foster",
+            "Harold Perrineau",
+            "Harry Lennix",
+            "Helmut Bakaitis",
+            "Hugo Weaving",
+            "Jada Pinkett Smith",
+            "Keanu Reeves",
+            "Lambert Wilson",
+            "Laurence Fishburne",
+            "Leigh Whannell",
+            "Monica Bellucci",
+            "Nona Gaye",
+            "Randall Duk Kim"
         ]
     },
     "Bruce Almighty (2003)": {
@@ -63766,6 +63968,13 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Claire Danes",
+            "Earl Boen",
+            "Kristanna Loken",
+            "Nick Stahl"
         ]
     },
     "Pirates of the Caribbean: The Curse of the Black Pearl (2003)": {
@@ -64800,6 +65009,22 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
+        ],
+        "cast": [
+            "Anthony Zerbe",
+            "Carrie-Anne Moss",
+            "Gina Torres",
+            "Harold Perrineau",
+            "Harry Lennix",
+            "Helmut Bakaitis",
+            "Hugo Weaving",
+            "Jada Pinkett Smith",
+            "Keanu Reeves",
+            "Lambert Wilson",
+            "Laurence Fishburne",
+            "Mary Alice",
+            "Monica Bellucci",
+            "Nona Gaye"
         ]
     },
     "Brother Bear (2003)": {
@@ -67275,6 +67500,19 @@ var movieMap = {
             "Marshalls",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Abigail Breslin",
+            "Anne Hathaway",
+            "Caroline Goodall",
+            "Chris Pine",
+            "Heather Matarazzo",
+            "H\u00e9ctor Elizondo",
+            "John Rhys-Davies",
+            "Julie Andrews",
+            "Larry Miller",
+            "Paul Williams",
+            "Raven-Symon\u00e9"
         ]
     },
     "Alien vs. Predator (2004)": {
@@ -69411,6 +69649,7 @@ var movieMap = {
             "Marina Sirtis",
             "Matt Dillon",
             "Michael Pe\u00f1a",
+            "Nona Gaye",
             "Ryan Phillippe",
             "Sandra Bullock",
             "Shaun Toub",
@@ -71100,10 +71339,17 @@ var movieMap = {
             "Swashbuckling & Pulp Adventure"
         ],
         "cast": [
+            "Adri\u00e1n Alonso",
+            "Antonio Banderas",
             "Antonio Banderas",
             "Catherine Zeta-Jones",
+            "Catherine Zeta-Jones",
             "Michael Emerson",
+            "Michael Emerson",
+            "Nick Chinlund",
             "Rufus Sewell",
+            "Rufus Sewell",
+            "Tony Amendola",
             "Tony Amendola"
         ]
     },
@@ -82697,6 +82943,18 @@ var movieMap = {
             "Action/Adventure",
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Anton Yelchin",
+            "Bryce Dallas Howard",
+            "Christian Bale",
+            "Common",
+            "Helena Bonham Carter",
+            "Jane Alexander",
+            "Linda Hamilton",
+            "Michael Ironside",
+            "Moon Bloodgood",
+            "Sam Worthington"
         ]
     },
     "Dance Flick (2009)": {
@@ -86069,6 +86327,15 @@ var movieMap = {
             "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Adrien Brody",
+            "Alice Braga",
+            "Danny Trejo",
+            "Laurence Fishburne",
+            "Mahershala Ali",
+            "Topher Grace",
+            "Walton Goggins"
         ]
     },
     "The Kids Are All Right (2010)": {
@@ -92343,6 +92610,19 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
             "Scotts"
+        ],
+        "cast": [
+            "Benedict Wong",
+            "Charlize Theron",
+            "Guy Pearce",
+            "Idris Elba",
+            "Kate Dickie",
+            "Logan Marshall-Green",
+            "Michael Fassbender",
+            "Noomi Rapace",
+            "Patrick Wilson",
+            "Rafe Spall",
+            "Sean Harris"
         ]
     },
     "Safety Not Guaranteed (2012)": {
@@ -93183,7 +93463,6 @@ var movieMap = {
             "Remakes & Reboots"
         ],
         "cast": [
-            "DeObia Oparei",
             "Domhnall Gleeson",
             "Karl Urban",
             "Lena Headey",
@@ -95918,11 +96197,11 @@ var movieMap = {
             "Anthony Hopkins",
             "Brian Cox",
             "Bruce Willis",
-            "Byung-hun Lee",
             "Catherine Zeta-Jones",
             "David Thewlis",
             "Helen Mirren",
             "John Malkovich",
+            "Lee Byung-hun",
             "Mary-Louise Parker",
             "Neal McDonough",
             "Steven Berkoff",
@@ -97241,6 +97520,18 @@ var movieMap = {
             "Biopics",
             "Disney",
             "Dramas",
+            "Tom Hanks"
+        ],
+        "cast": [
+            "B. J. Novak",
+            "Bradley Whitford",
+            "Colin Farrell",
+            "Emma Thompson",
+            "Jason Schwartzman",
+            "Kathy Baker",
+            "Paul Giamatti",
+            "Rachel Griffiths",
+            "Ruth Wilson",
             "Tom Hanks"
         ]
     },
@@ -102462,6 +102753,15 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Courtney B. Vance",
+            "Emilia Clarke",
+            "J. K. Simmons",
+            "Jai Courtney",
+            "Jason Clarke",
+            "Lee Byung-hun"
         ]
     },
     "Minions (2015)": {
@@ -109410,6 +109710,7 @@ var movieMap = {
             "Ellar Coltrane",
             "Ellen Wong",
             "Emma Watson",
+            "Glenne Headly",
             "John Boyega",
             "Karen Gillan",
             "Mamoudou Athie",
@@ -109572,6 +109873,17 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
             "Scotts"
+        ],
+        "cast": [
+            "Alexander England",
+            "Amy Seimetz",
+            "Billy Crudup",
+            "Carmen Ejogo",
+            "Danny McBride",
+            "Demi\u00e1n Bichir",
+            "Jussie Smollett",
+            "Katherine Waterston",
+            "Michael Fassbender"
         ]
     },
     "Diary of a Wimpy Kid: The Long Haul (2017)": {
@@ -115102,6 +115414,18 @@ var movieMap = {
             "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Alfie Allen",
+            "Boyd Holbrook",
+            "Jacob Tremblay",
+            "Jake Busey",
+            "Keegan-Michael Key",
+            "Olivia Munn",
+            "Sterling K. Brown",
+            "Thomas Jane",
+            "Trevante Rhodes",
+            "Yvonne Strahovski"
         ]
     },
     "White Boy Rick (2018)": {
@@ -120154,6 +120478,16 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Diego Boneta",
+            "Edward Furlong",
+            "Gabriel Luna",
+            "Linda Hamilton",
+            "Mackenzie Davis",
+            "Natalia Reyes",
+            "Tom Hopper"
         ]
     },
     "The Irishman (2019)": {
@@ -127774,6 +128108,19 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Keanu Reeves",
             "Wachowskis"
+        ],
+        "cast": [
+            "Carrie-Anne Moss",
+            "Chad Stahelski",
+            "Christina Ricci",
+            "Jada Pinkett Smith",
+            "Jessica Henwick",
+            "Jonathan Groff",
+            "Keanu Reeves",
+            "Lambert Wilson",
+            "Neil Patrick Harris",
+            "Priyanka Chopra Jonas",
+            "Yahya Abdul-Mateen II"
         ]
     },
     "A Journal for Jordan (2021)": {
