@@ -2348,6 +2348,11 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Billy Crystal": {
+        "movies": [
+            "Hamlet (1996)"
+        ]
+    },
     "Billy Dee Williams": {
         "movies": [
             "The Empire Strikes Back (1980)",
@@ -2755,6 +2760,7 @@ var actorMap = {
     "Brian Blessed": {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)",
+            "Hamlet (1996)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Alexander (2004)"
         ]
@@ -3678,6 +3684,7 @@ var actorMap = {
         "movies": [
             "Planet of the Apes (1968)",
             "Beneath the Planet of the Apes (1970)",
+            "Hamlet (1996)",
             "Planet of the Apes (2001)"
         ]
     },
@@ -5555,6 +5562,7 @@ var actorMap = {
     },
     "Derek Jacobi": {
         "movies": [
+            "Hamlet (1996)",
             "The King's Speech (2010)",
             "My Week with Marilyn (2011)",
             "Cinderella (2015)",
@@ -8224,6 +8232,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hamlet (1996)",
             "Last Holiday (2006)"
         ]
     },
@@ -8975,6 +8984,7 @@ var actorMap = {
         ],
         "movies": [
             "Shakespeare in Love (1998)",
+            "Chicken Run (2000)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
@@ -9276,6 +9286,9 @@ var actorMap = {
                 "movie": "Mister Roberts",
                 "year": "1955"
             }
+        ],
+        "movies": [
+            "Hamlet (1996)"
         ]
     },
     "Jack McBrayer": {
@@ -11480,6 +11493,11 @@ var actorMap = {
             "Psycho (1960)"
         ]
     },
+    "John Gielgud": {
+        "movies": [
+            "Hamlet (1996)"
+        ]
+    },
     "John Glover": {
         "movies": [
             "Annie Hall (1977)",
@@ -11639,6 +11657,11 @@ var actorMap = {
             "Couples Retreat (2009)",
             "We Bought a Zoo (2011)",
             "The Best Man Holiday (2013)"
+        ]
+    },
+    "John Mills": {
+        "movies": [
+            "Hamlet (1996)"
         ]
     },
     "John Morris": {
@@ -12280,6 +12303,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hamlet (1996)",
             "Shakespeare in Love (1998)",
             "Nine (2009)",
             "My Week with Marilyn (2011)",
@@ -12374,6 +12398,11 @@ var actorMap = {
             "Valentine's Day (2010)",
             "August: Osage County (2013)",
             "Mother's Day (2016)"
+        ]
+    },
+    "Julia Sawalha": {
+        "movies": [
+            "Chicken Run (2000)"
         ]
     },
     "Julian Dennison": {
@@ -12486,6 +12515,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hamlet (1996)",
             "Troy (2004)",
             "Harry Potter and the Prisoner of Azkaban (2004)"
         ]
@@ -12836,6 +12866,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hamlet (1996)",
             "Eternal Sunshine of the Spotless Mind (2004)",
             "Flushed Away (2006)",
             "The Holiday (2006)",
@@ -13240,6 +13271,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hamlet (1996)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Valkyrie (2008)",
             "My Week with Marilyn (2011)",
@@ -15968,6 +16000,11 @@ var actorMap = {
             "Wait Until Dark (1967)"
         ]
     },
+    "Mel Gibson": {
+        "movies": [
+            "Chicken Run (2000)"
+        ]
+    },
     "Mel Rodriguez": {
         "movies": [
             "Onward (2020)"
@@ -16978,6 +17015,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Chicken Run (2000)",
             "Harry Potter and the Goblet of Fire (2005)"
         ]
     },
@@ -19371,6 +19409,7 @@ var actorMap = {
     "Richard Attenborough": {
         "movies": [
             "Jurassic Park (1993)",
+            "Hamlet (1996)",
             "The Lost World: Jurassic Park (1997)"
         ]
     },
@@ -19382,6 +19421,11 @@ var actorMap = {
     "Richard Beymer": {
         "movies": [
             "West Side Story (1961)"
+        ]
+    },
+    "Richard Briers": {
+        "movies": [
+            "Hamlet (1996)"
         ]
     },
     "Richard Brooks": {
@@ -19946,6 +19990,7 @@ var actorMap = {
         ],
         "movies": [
             "Jumanji (1995)",
+            "Hamlet (1996)",
             "Robots (2005)",
             "RV (2006)"
         ]
@@ -20165,6 +20210,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hamlet (1996)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
@@ -20243,6 +20289,7 @@ var actorMap = {
     },
     "Rufus Sewell": {
         "movies": [
+            "Hamlet (1996)",
             "A Knight's Tale (2001)",
             "The Legend of Zorro (2005)",
             "The Holiday (2006)",
@@ -22523,6 +22570,8 @@ var actorMap = {
     },
     "Timothy Spall": {
         "movies": [
+            "Hamlet (1996)",
+            "Chicken Run (2000)",
             "Vanilla Sky (2001)",
             "The Last Samurai (2003)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
@@ -23009,6 +23058,11 @@ var actorMap = {
             "Stranger than Fiction (2006)",
             "The Tale of Despereaux (2008)",
             "Transformers: The Last Knight (2017)"
+        ]
+    },
+    "Tony Haygarth": {
+        "movies": [
+            "Chicken Run (2000)"
         ]
     },
     "Tony Jay": {

@@ -46602,6 +46602,26 @@ var movieMap = {
             "1990s",
             "Dramas",
             "Robin Williams"
+        ],
+        "cast": [
+            "Billy Crystal",
+            "Brian Blessed",
+            "Charlton Heston",
+            "Derek Jacobi",
+            "G\u00e9rard Depardieu",
+            "Jack Lemmon",
+            "John Gielgud",
+            "John Mills",
+            "Judi Dench",
+            "Julie Christie",
+            "Kate Winslet",
+            "Kenneth Branagh",
+            "Richard Attenborough",
+            "Richard Briers",
+            "Robin Williams",
+            "Rosemary Harris",
+            "Rufus Sewell",
+            "Timothy Spall"
         ]
     },
     "Michael (1996)": {
@@ -55520,6 +55540,14 @@ var movieMap = {
             "2000s",
             "Animated",
             "DreamWorks Animation"
+        ],
+        "cast": [
+            "Imelda Staunton",
+            "Julia Sawalha",
+            "Mel Gibson",
+            "Miranda Richardson",
+            "Timothy Spall",
+            "Tony Haygarth"
         ]
     },
     "Me, Myself & Irene (2000)": {
