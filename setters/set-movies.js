@@ -29409,6 +29409,11 @@ var movieMap = {
         "categories": [
             "1980s",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Billy Zane",
+            "Nicole Kidman",
+            "Sam Neill"
         ]
     },
     "Major League (1989)": {
@@ -62656,6 +62661,20 @@ var movieMap = {
             "LGBTQ Cinema",
             "Meryl Streep",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Allison Janney",
+            "Claire Danes",
+            "Ed Harris",
+            "Jeff Daniels",
+            "John C. Reilly",
+            "Julianne Moore",
+            "Margo Martindale",
+            "Meryl Streep",
+            "Miranda Richardson",
+            "Nicole Kidman",
+            "Stephen Dillane",
+            "Toni Collette"
         ]
     },
     "The Pianist (2002)": {
@@ -65765,6 +65784,27 @@ var movieMap = {
             "2000s",
             "Natalie Portman",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Brendan Gleeson",
+            "Charlie Hunnam",
+            "Cillian Murphy",
+            "Donald Sutherland",
+            "Emily Deschanel",
+            "Ethan Suplee",
+            "Giovanni Ribisi",
+            "James Gammon",
+            "James Rebhorn",
+            "Jena Malone",
+            "Jude Law",
+            "Kathy Baker",
+            "Lucas Black",
+            "Natalie Portman",
+            "Nicole Kidman",
+            "Philip Seymour Hoffman",
+            "Ray Winstone",
+            "Ren\u00e9e Zellweger",
+            "Taryn Manning"
         ]
     },
     "Paycheck (2003)": {
@@ -67174,6 +67214,7 @@ var movieMap = {
             "Donna Murphy",
             "Dylan Baker",
             "Elizabeth Banks",
+            "Emily Deschanel",
             "J. K. Simmons",
             "James Franco",
             "Joel McHale",
@@ -73510,6 +73551,17 @@ var movieMap = {
             "Emily Blunt",
             "Meryl Streep",
             "Stanley Tucci"
+        ],
+        "cast": [
+            "Adrian Grenier",
+            "Anne Hathaway",
+            "Emily Blunt",
+            "Gisele B\u00fcndchen",
+            "Meryl Streep",
+            "Simon Baker",
+            "Stanley Tucci",
+            "St\u00e9phanie Szostak",
+            "Tracie Thoms"
         ]
     },
     "A Scanner Darkly (2006)": {

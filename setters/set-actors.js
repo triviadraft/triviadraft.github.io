@@ -195,6 +195,11 @@ var actorMap = {
             "State of the Union (1948)"
         ]
     },
+    "Adrian Grenier": {
+        "movies": [
+            "The Devil Wears Prada (2006)"
+        ]
+    },
     "Adrian Martinez": {
         "movies": [
             "Kick-Ass (2010)",
@@ -737,6 +742,7 @@ var actorMap = {
         "movies": [
             "Six Days, Seven Nights (1998)",
             "Drop Dead Gorgeous (1999)",
+            "The Hours (2002)",
             "Finding Nemo (2003)",
             "Hairspray (2007)",
             "Juno (2007)",
@@ -1331,6 +1337,7 @@ var actorMap = {
         "movies": [
             "The Princess Diaries (2001)",
             "The Princess Diaries 2: Royal Engagement (2004)",
+            "The Devil Wears Prada (2006)",
             "Bride Wars (2009)",
             "Valentine's Day (2010)",
             "Alice in Wonderland (2010)",
@@ -2402,6 +2409,7 @@ var actorMap = {
     "Billy Zane": {
         "movies": [
             "Back to the Future (1985)",
+            "Dead Calm (1989)",
             "Back to the Future Part II (1989)"
         ]
     },
@@ -2746,6 +2754,7 @@ var actorMap = {
         "movies": [
             "Mission: Impossible 2 (2000)",
             "The Tailor of Panama (2001)",
+            "Cold Mountain (2003)",
             "Troy (2004)",
             "Kingdom of Heaven (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
@@ -3660,6 +3669,7 @@ var actorMap = {
     },
     "Charlie Hunnam": {
         "movies": [
+            "Cold Mountain (2003)",
             "The Lost City of Z (2017)"
         ]
     },
@@ -4274,6 +4284,7 @@ var actorMap = {
     },
     "Cillian Murphy": {
         "movies": [
+            "Cold Mountain (2003)",
             "Batman Begins (2005)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
@@ -4288,6 +4299,7 @@ var actorMap = {
     },
     "Claire Danes": {
         "movies": [
+            "The Hours (2002)",
             "Terminator 3: Rise of the Machines (2003)"
         ]
     },
@@ -5984,7 +5996,8 @@ var actorMap = {
     },
     "Donald Sutherland": {
         "movies": [
-            "Invasion of the Body Snatchers (1978)"
+            "Invasion of the Body Snatchers (1978)",
+            "Cold Mountain (2003)"
         ]
     },
     "Donna Dixon": {
@@ -6215,6 +6228,7 @@ var actorMap = {
         "movies": [
             "Places in the Heart (1984)",
             "The Firm (1993)",
+            "The Hours (2002)",
             "A History of Violence (2005)",
             "Gravity (2013)",
             "Mother! (2017)"
@@ -6723,11 +6737,18 @@ var actorMap = {
     },
     "Emily Blunt": {
         "movies": [
+            "The Devil Wears Prada (2006)",
             "Edge of Tomorrow (2014)",
             "Into the Woods (2014)",
             "The Huntsman: Winter's War (2016)",
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Emily Deschanel": {
+        "movies": [
+            "Cold Mountain (2003)",
+            "Spider-Man 2 (2004)"
         ]
     },
     "Emily Ratajkowski": {
@@ -7001,7 +7022,8 @@ var actorMap = {
     "Ethan Suplee": {
         "movies": [
             "Remember the Titans (2000)",
-            "Blow (2001)"
+            "Blow (2001)",
+            "Cold Mountain (2003)"
         ]
     },
     "Ethel Barrymore": {
@@ -8030,8 +8052,14 @@ var actorMap = {
         "movies": [
             "Saving Private Ryan (1998)",
             "Lost in Translation (2003)",
+            "Cold Mountain (2003)",
             "Avatar (2009)",
             "Ted (2012)"
+        ]
+    },
+    "Gisele B\u00fcndchen": {
+        "movies": [
+            "The Devil Wears Prada (2006)"
         ]
     },
     "Gladys Cooper": {
@@ -9797,6 +9825,11 @@ var actorMap = {
             "Dawn of the Planet of the Apes (2014)"
         ]
     },
+    "James Gammon": {
+        "movies": [
+            "Cold Mountain (2003)"
+        ]
+    },
     "James Gandolfini": {
         "movies": [
             "True Romance (1993)",
@@ -9885,6 +9918,11 @@ var actorMap = {
     "James Ransone": {
         "movies": [
             "It Chapter Two (2019)"
+        ]
+    },
+    "James Rebhorn": {
+        "movies": [
+            "Cold Mountain (2003)"
         ]
     },
     "James Remar": {
@@ -10503,6 +10541,7 @@ var actorMap = {
     "Jeff Daniels": {
         "movies": [
             "Terms of Endearment (1983)",
+            "The Hours (2002)",
             "RV (2006)"
         ]
     },
@@ -10572,6 +10611,11 @@ var actorMap = {
         "movies": [
             "Men in Black 3 (2012)",
             "The Lego Batman Movie (2017)"
+        ]
+    },
+    "Jena Malone": {
+        "movies": [
+            "Cold Mountain (2003)"
         ]
     },
     "Jenifer Lewis": {
@@ -11501,6 +11545,7 @@ var actorMap = {
         "movies": [
             "Days of Thunder (1990)",
             "Magnolia (1999)",
+            "The Hours (2002)",
             "Chicago (2002)",
             "The Aviator (2004)",
             "We Need to Talk About Kevin (2011)",
@@ -12341,6 +12386,7 @@ var actorMap = {
         ],
         "movies": [
             "Road to Perdition (2002)",
+            "Cold Mountain (2003)",
             "The Aviator (2004)",
             "The Holiday (2006)",
             "Contagion (2011)",
@@ -12549,6 +12595,7 @@ var actorMap = {
             "The Lost World: Jurassic Park (1997)",
             "Psycho (1998)",
             "Magnolia (1999)",
+            "The Hours (2002)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -13091,6 +13138,7 @@ var actorMap = {
     },
     "Kathy Baker": {
         "movies": [
+            "Cold Mountain (2003)",
             "Saving Mr. Banks (2013)"
         ]
     },
@@ -14714,7 +14762,8 @@ var actorMap = {
     },
     "Lucas Black": {
         "movies": [
-            "Ghosts of Mississippi (1996)"
+            "Ghosts of Mississippi (1996)",
+            "Cold Mountain (2003)"
         ]
     },
     "Lucas Hedges": {
@@ -15176,6 +15225,7 @@ var actorMap = {
             "The Rocketeer (1991)",
             "The Firm (1993)",
             "Ghosts of Mississippi (1996)",
+            "The Hours (2002)",
             "August: Osage County (2013)",
             "Mother's Day (2016)",
             "The Kitchen (2019)"
@@ -16322,6 +16372,8 @@ var actorMap = {
         ],
         "movies": [
             "The Deer Hunter (1978)",
+            "The Hours (2002)",
+            "The Devil Wears Prada (2006)",
             "Lions for Lambs (2007)",
             "Doubt (2008)",
             "August: Osage County (2013)",
@@ -17117,6 +17169,7 @@ var actorMap = {
         ],
         "movies": [
             "Chicken Run (2000)",
+            "The Hours (2002)",
             "Harry Potter and the Goblet of Fire (2005)"
         ]
     },
@@ -17400,6 +17453,7 @@ var actorMap = {
             "L\u00e9on: The Professional (1994)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
+            "Cold Mountain (2003)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "V for Vendetta (2006)",
             "The Other Boleyn Girl (2008)",
@@ -17684,10 +17738,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dead Calm (1989)",
             "Days of Thunder (1990)",
             "Far and Away (1992)",
             "Batman Forever (1995)",
             "Eyes Wide Shut (1999)",
+            "The Hours (2002)",
+            "Cold Mountain (2003)",
             "Nine (2009)",
             "Aquaman (2018)"
         ]
@@ -18905,6 +18962,7 @@ var actorMap = {
         "movies": [
             "Magnolia (1999)",
             "Almost Famous (2000)",
+            "Cold Mountain (2003)",
             "Mission: Impossible III (2006)",
             "Doubt (2008)"
         ]
@@ -19279,6 +19337,7 @@ var actorMap = {
     },
     "Ray Winstone": {
         "movies": [
+            "Cold Mountain (2003)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Snow White and the Huntsman (2012)",
@@ -19458,6 +19517,7 @@ var actorMap = {
             "Dazed and Confused (1993)",
             "Jerry Maguire (1996)",
             "Chicago (2002)",
+            "Cold Mountain (2003)",
             "Monsters vs. Aliens (2009)"
         ]
     },
@@ -20705,6 +20765,7 @@ var actorMap = {
     },
     "Sam Neill": {
         "movies": [
+            "Dead Calm (1989)",
             "Jurassic Park (1993)",
             "Jurassic Park III (2001)",
             "Wimbledon (2004)",
@@ -21523,6 +21584,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Simon Baker": {
+        "movies": [
+            "The Devil Wears Prada (2006)"
+        ]
+    },
     "Simon Chandler": {
         "movies": [
             "The Lord of the Rings (1978)"
@@ -21800,6 +21866,7 @@ var actorMap = {
             "Road to Perdition (2002)",
             "The Terminal (2004)",
             "Robots (2005)",
+            "The Devil Wears Prada (2006)",
             "The Tale of Despereaux (2008)",
             "Captain America: The First Avenger (2011)",
             "Transformers: Age of Extinction (2014)",
@@ -21873,6 +21940,7 @@ var actorMap = {
     },
     "Stephen Dillane": {
         "movies": [
+            "The Hours (2002)",
             "Zero Dark Thirty (2012)"
         ]
     },
@@ -22109,6 +22177,7 @@ var actorMap = {
     },
     "St\u00e9phanie Szostak": {
         "movies": [
+            "The Devil Wears Prada (2006)",
             "We Bought a Zoo (2011)",
             "Iron Man 3 (2013)",
             "R.I.P.D. (2013)"
@@ -22296,6 +22365,7 @@ var actorMap = {
     },
     "Taryn Manning": {
         "movies": [
+            "Cold Mountain (2003)",
             "Hustle & Flow (2005)"
         ]
     },
@@ -23138,6 +23208,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Hours (2002)",
             "Knives Out (2019)",
             "Nightmare Alley (2021)"
         ]
@@ -23258,7 +23329,8 @@ var actorMap = {
     },
     "Tracie Thoms": {
         "movies": [
-            "Rent (2005)"
+            "Rent (2005)",
+            "The Devil Wears Prada (2006)"
         ]
     },
     "Tracy Morgan": {
