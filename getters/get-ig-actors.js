@@ -2,6 +2,7 @@ function getMapWithThreeFranchises(map) {
     const asArray = Object.entries(map);
     filtered = asArray.filter(([key, value]) => Object.keys(map[key]['movies']).length >= 3);
     const mapWithThreeFranchises = Object.fromEntries(filtered);
+    delete mapWithThreeFranchises['Angus MacInnes'];
     delete mapWithThreeFranchises['Bruce Spence'];
     delete mapWithThreeFranchises['Callan Mulvey'];
     delete mapWithThreeFranchises['David Warner'];
@@ -27,6 +28,7 @@ function getMapWithThreeFranchises(map) {
     delete mapWithThreeFranchises['Philip Stone'];
     delete mapWithThreeFranchises['Richard Brake'];
     delete mapWithThreeFranchises['Robert Maillet'];
+    delete mapWithThreeFranchises['Stephen McHattie'];
     delete mapWithThreeFranchises['Terry Notary'];
     delete mapWithThreeFranchises['Tony Curran'];
     delete mapWithThreeFranchises['Xander Berkeley'];
