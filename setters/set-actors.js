@@ -593,6 +593,11 @@ var actorMap = {
             "Finding Nemo (2003)"
         ]
     },
+    "Alexander Ludwig": {
+        "movies": [
+            "The Hunger Games (2012)"
+        ]
+    },
     "Alexander Skarsg\u00e5rd": {
         "movies": [
             "Long Shot (2019)"
@@ -807,6 +812,7 @@ var actorMap = {
     },
     "Amandla Stenberg": {
         "movies": [
+            "The Hunger Games (2012)",
             "The Hate U Give (2018)"
         ]
     },
@@ -4507,6 +4513,9 @@ var actorMap = {
                 "movie": "Million Dollar Baby",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "Unforgiven (1992)"
         ]
     },
     "Clint Howard": {
@@ -6146,7 +6155,8 @@ var actorMap = {
     "Donald Sutherland": {
         "movies": [
             "Invasion of the Body Snatchers (1978)",
-            "Cold Mountain (2003)"
+            "Cold Mountain (2003)",
+            "The Hunger Games (2012)"
         ]
     },
     "Donna Dixon": {
@@ -6668,6 +6678,7 @@ var actorMap = {
             "Catch Me If You Can (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "The Hunger Games (2012)",
             "Movie 43 (2013)",
             "The Lego Movie (2014)",
             "Power Rangers (2017)",
@@ -7518,6 +7529,11 @@ var actorMap = {
             "Little Women (1933)"
         ]
     },
+    "Frances Fisher": {
+        "movies": [
+            "Unforgiven (1992)"
+        ]
+    },
     "Frances McDormand": {
         "leadNoms": [
             {
@@ -8001,6 +8017,7 @@ var actorMap = {
             "Superman II (1981)",
             "Superman IV: The Quest for Peace (1987)",
             "Mississippi Burning (1988)",
+            "Unforgiven (1992)",
             "The Firm (1993)"
         ]
     },
@@ -9408,6 +9425,7 @@ var actorMap = {
     },
     "Isabelle Fuhrman": {
         "movies": [
+            "The Hunger Games (2012)",
             "Cell (2016)"
         ]
     },
@@ -9705,6 +9723,11 @@ var actorMap = {
             "Batman (1989)"
         ]
     },
+    "Jack Quaid": {
+        "movies": [
+            "The Hunger Games (2012)"
+        ]
+    },
     "Jack Reynor": {
         "movies": [
             "Transformers: Age of Extinction (2014)",
@@ -9857,6 +9880,11 @@ var actorMap = {
         "movies": [
             "Thor (2011)",
             "Thor: The Dark World (2013)"
+        ]
+    },
+    "Jaimz Woolvett": {
+        "movies": [
+            "Unforgiven (1992)"
         ]
     },
     "Jake Busey": {
@@ -10982,6 +11010,7 @@ var actorMap = {
         ],
         "movies": [
             "X-Men: First Class (2011)",
+            "The Hunger Games (2012)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
             "Mother! (2017)",
@@ -12604,7 +12633,8 @@ var actorMap = {
     },
     "Josh Hutcherson": {
         "movies": [
-            "RV (2006)"
+            "RV (2006)",
+            "The Hunger Games (2012)"
         ]
     },
     "Josh Lucas": {
@@ -14588,6 +14618,11 @@ var actorMap = {
             "Sahara (2005)"
         ]
     },
+    "Lenny Kravitz": {
+        "movies": [
+            "The Hunger Games (2012)"
+        ]
+    },
     "Leo G. Carroll": {
         "movies": [
             "Suspicion (1941)",
@@ -14728,6 +14763,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Leven Rambin": {
+        "movies": [
+            "The Hunger Games (2012)"
+        ]
+    },
     "Levi Miller": {
         "movies": [
             "A Wrinkle in Time (2018)"
@@ -14776,6 +14816,11 @@ var actorMap = {
     "Liam Aiken": {
         "movies": [
             "Road to Perdition (2002)"
+        ]
+    },
+    "Liam Hemsworth": {
+        "movies": [
+            "The Hunger Games (2012)"
         ]
     },
     "Liam Neeson": {
@@ -17638,6 +17683,7 @@ var actorMap = {
             "Lean on Me (1989)",
             "Driving Miss Daisy (1989)",
             "Robin Hood: Prince of Thieves (1991)",
+            "Unforgiven (1992)",
             "The Shawshank Redemption (1994)",
             "Amistad (1997)",
             "Dreamcatcher (2003)",
@@ -18932,6 +18978,12 @@ var actorMap = {
             "Elizabethtown (2005)"
         ]
     },
+    "Paula Malcomson": {
+        "movies": [
+            "The Green Mile (1999)",
+            "The Hunger Games (2012)"
+        ]
+    },
     "Paula Patton": {
         "movies": [
             "Mission: Impossible \u2013 Ghost Protocol (2011)",
@@ -20082,6 +20134,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Unforgiven (1992)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)"
         ]
@@ -22276,6 +22329,7 @@ var actorMap = {
             "The Devil Wears Prada (2006)",
             "The Tale of Despereaux (2008)",
             "Captain America: The First Avenger (2011)",
+            "The Hunger Games (2012)",
             "Transformers: Age of Extinction (2014)",
             "Beauty and the Beast (2017)",
             "Transformers: The Last Knight (2017)",
@@ -23259,6 +23313,7 @@ var actorMap = {
             "Captain America: The First Avenger (2011)",
             "My Week with Marilyn (2011)",
             "The Adventures of Tintin (2011)",
+            "The Hunger Games (2012)",
             "Snow White and the Huntsman (2012)",
             "Captain America: The Winter Soldier (2014)",
             "Atomic Blonde (2017)",
@@ -24402,6 +24457,7 @@ var actorMap = {
         "movies": [
             "Ghost Rider (2007)",
             "Jonah Hex (2010)",
+            "The Hunger Games (2012)",
             "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
@@ -24708,6 +24764,11 @@ var actorMap = {
             "Austin Powers in Goldmember (2002)"
         ]
     },
+    "Willow Shields": {
+        "movies": [
+            "The Hunger Games (2012)"
+        ]
+    },
     "Wilmer Valderrama": {
         "movies": [
             "Onward (2020)"
@@ -24799,6 +24860,7 @@ var actorMap = {
         "movies": [
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "Zombieland (2009)",
+            "The Hunger Games (2012)",
             "Now You See Me (2013)",
             "Now You See Me 2 (2016)",
             "War for the Planet of the Apes (2017)",

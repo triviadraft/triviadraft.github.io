@@ -35612,6 +35612,14 @@ var movieMap = {
             "Gene Hackman",
             "Morgan Freeman",
             "Westerns"
+        ],
+        "cast": [
+            "Clint Eastwood",
+            "Frances Fisher",
+            "Gene Hackman",
+            "Jaimz Woolvett",
+            "Morgan Freeman",
+            "Richard Harris"
         ]
     },
     "Diggstown (1992)": {
@@ -54421,6 +54429,7 @@ var movieMap = {
             "Michael Clarke Duncan",
             "Michael Jeter",
             "Patricia Clarkson",
+            "Paula Malcomson",
             "Sam Rockwell",
             "Tom Hanks",
             "William Sadler"
@@ -92407,6 +92416,25 @@ var movieMap = {
             "Jennifer Lawrence",
             "Stanley Tucci",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Alexander Ludwig",
+            "Amandla Stenberg",
+            "Donald Sutherland",
+            "Elizabeth Banks",
+            "Isabelle Fuhrman",
+            "Jack Quaid",
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Lenny Kravitz",
+            "Leven Rambin",
+            "Liam Hemsworth",
+            "Paula Malcomson",
+            "Stanley Tucci",
+            "Toby Jones",
+            "Wes Bentley",
+            "Willow Shields",
+            "Woody Harrelson"
         ]
     },
     "The Raid: Redemption (2012)": {
