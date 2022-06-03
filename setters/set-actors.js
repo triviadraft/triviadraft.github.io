@@ -434,6 +434,7 @@ var actorMap = {
     "Alan Tudyk": {
         "movies": [
             "A Knight's Tale (2001)",
+            "Hearts in Atlantis (2001)",
             "Knocked Up (2007)",
             "Transformers: Dark of the Moon (2011)",
             "Wreck-It Ralph (2012)",
@@ -1225,6 +1226,11 @@ var actorMap = {
             "A League of Their Own (1992)"
         ]
     },
+    "Ann Dowd": {
+        "movies": [
+            "Apt Pupil (1998)"
+        ]
+    },
     "Ann Robinson": {
         "movies": [
             "War of the Worlds (2005)"
@@ -1489,6 +1495,7 @@ var actorMap = {
             "Amistad (1997)",
             "The Mask of Zorro (1998)",
             "Mission: Impossible 2 (2000)",
+            "Hearts in Atlantis (2001)",
             "Alexander (2004)",
             "Thor (2011)",
             "Red 2 (2013)",
@@ -1556,6 +1563,7 @@ var actorMap = {
     },
     "Anton Yelchin": {
         "movies": [
+            "Hearts in Atlantis (2001)",
             "Star Trek (2009)",
             "Terminator Salvation (2009)",
             "Star Trek Into Darkness (2013)",
@@ -1877,7 +1885,8 @@ var actorMap = {
     },
     "Barry Pepper": {
         "movies": [
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "The Green Mile (1999)"
         ]
     },
     "Barry Shabaka Henley": {
@@ -2478,6 +2487,7 @@ var actorMap = {
         "movies": [
             "Born on the Fourth of July (1989)",
             "The Shawshank Redemption (1994)",
+            "Dolores Claiborne (1995)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -2558,6 +2568,7 @@ var actorMap = {
             "Jumanji (1995)",
             "Jerry Maguire (1996)",
             "A Bug's Life (1998)",
+            "The Green Mile (1999)",
             "Monsters, Inc. (2001)",
             "Zootopia (2016)"
         ]
@@ -2662,6 +2673,7 @@ var actorMap = {
     },
     "Brad Renfro": {
         "movies": [
+            "Apt Pupil (1998)",
             "Ghost World (2001)"
         ]
     },
@@ -3001,6 +3013,7 @@ var actorMap = {
         ],
         "movies": [
             "Spies Like Us (1985)",
+            "Apt Pupil (1998)",
             "X-Men (2000)",
             "X2 (2003)"
         ]
@@ -4240,6 +4253,7 @@ var actorMap = {
         ],
         "movies": [
             "Star Trek VI: The Undiscovered Country (1991)",
+            "Dolores Claiborne (1995)",
             "Alexander (2004)",
             "The Lake House (2006)",
             "Priest (2011)",
@@ -5323,6 +5337,8 @@ var actorMap = {
     },
     "David Morse": {
         "movies": [
+            "The Green Mile (1999)",
+            "Hearts in Atlantis (2001)",
             "Horns (2014)"
         ]
     },
@@ -5378,6 +5394,7 @@ var actorMap = {
     "David Schwimmer": {
         "movies": [
             "Six Days, Seven Nights (1998)",
+            "Apt Pupil (1998)",
             "John Carter (2012)"
         ]
     },
@@ -5391,6 +5408,7 @@ var actorMap = {
         "movies": [
             "A League of Their Own (1992)",
             "The Firm (1993)",
+            "Dolores Claiborne (1995)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -6078,6 +6096,12 @@ var actorMap = {
             "The Lego Batman Movie (2017)"
         ]
     },
+    "Doug Hutchison": {
+        "movies": [
+            "The Green Mile (1999)",
+            "Punisher: War Zone (2008)"
+        ]
+    },
     "Doug Jones": {
         "movies": [
             "Batman Returns (1992)",
@@ -6483,6 +6507,7 @@ var actorMap = {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
             "Teenage Mutant Ninja Turtles III (1993)",
+            "Apt Pupil (1998)",
             "Zodiac (2007)",
             "The Curious Case of Benjamin Button (2008)",
             "Now You See Me (2013)"
@@ -7777,6 +7802,7 @@ var actorMap = {
         ],
         "movies": [
             "Forrest Gump (1994)",
+            "The Green Mile (1999)",
             "Captain America: The Winter Soldier (2014)"
         ]
     },
@@ -8254,7 +8280,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "North (1994)"
+            "North (1994)",
+            "The Green Mile (1999)"
         ]
     },
     "Graham McTavish": {
@@ -8544,6 +8571,7 @@ var actorMap = {
     "Harry Dean Stanton": {
         "movies": [
             "Alien (1979)",
+            "The Green Mile (1999)",
             "The Avengers (2012)"
         ]
     },
@@ -8891,6 +8919,7 @@ var actorMap = {
     },
     "Hope Davis": {
         "movies": [
+            "Hearts in Atlantis (2001)",
             "Captain America: Civil War (2016)"
         ]
     },
@@ -9052,6 +9081,7 @@ var actorMap = {
         ],
         "movies": [
             "Last Action Hero (1993)",
+            "Apt Pupil (1998)",
             "Gods and Monsters (1998)",
             "X-Men (2000)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
@@ -9804,6 +9834,7 @@ var actorMap = {
         ],
         "movies": [
             "Star Trek: First Contact (1996)",
+            "The Green Mile (1999)",
             "Spider-Man 3 (2007)",
             "Surrogates (2009)",
             "Big Hero 6 (2014)",
@@ -10778,6 +10809,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dolores Claiborne (1995)",
             "Road to Perdition (2002)",
             "Kill Your Darlings (2013)",
             "The Hateful Eight (2015)"
@@ -11481,6 +11513,7 @@ var actorMap = {
     "Joe Morton": {
         "movies": [
             "Terminator 2: Judgment Day (1991)",
+            "Apt Pupil (1998)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -11622,6 +11655,7 @@ var actorMap = {
         ],
         "movies": [
             "Days of Thunder (1990)",
+            "Dolores Claiborne (1995)",
             "Magnolia (1999)",
             "The Hours (2002)",
             "Chicago (2002)",
@@ -12418,6 +12452,7 @@ var actorMap = {
     },
     "Joshua Jackson": {
         "movies": [
+            "Apt Pupil (1998)",
             "Cruel Intentions (1999)",
             "Ocean's Eleven (2001)"
         ]
@@ -13252,6 +13287,7 @@ var actorMap = {
             "Dick Tracy (1990)",
             "Misery (1990)",
             "North (1994)",
+            "Dolores Claiborne (1995)",
             "Rumor Has It (2005)",
             "Valentine's Day (2010)"
         ]
@@ -16619,6 +16655,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Green Mile (1999)",
             "Planet of the Apes (2001)",
             "Daredevil (2003)",
             "Sin City (2005)",
@@ -16774,6 +16811,7 @@ var actorMap = {
     },
     "Michael Jeter": {
         "movies": [
+            "The Green Mile (1999)",
             "Jurassic Park III (2001)"
         ]
     },
@@ -17099,6 +17137,11 @@ var actorMap = {
         "movies": [
             "Traffic (2000)",
             "Iron Man 3 (2013)"
+        ]
+    },
+    "Mika Boorem": {
+        "movies": [
+            "Hearts in Atlantis (2001)"
         ]
     },
     "Mike Binder": {
@@ -18347,6 +18390,7 @@ var actorMap = {
         ],
         "movies": [
             "Jumanji (1995)",
+            "The Green Mile (1999)",
             "Vicky Cristina Barcelona (2008)"
         ]
     },
@@ -20925,6 +20969,7 @@ var actorMap = {
         ],
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
+            "The Green Mile (1999)",
             "Galaxy Quest (1999)",
             "Made (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
@@ -23132,6 +23177,7 @@ var actorMap = {
             "Toy Story (1995)",
             "Saving Private Ryan (1998)",
             "Toy Story 2 (1999)",
+            "The Green Mile (1999)",
             "Cast Away (2000)",
             "Road to Perdition (2002)",
             "Catch Me If You Can (2002)",
@@ -24381,6 +24427,7 @@ var actorMap = {
     "William Sadler": {
         "movies": [
             "The Shawshank Redemption (1994)",
+            "The Green Mile (1999)",
             "Iron Man 3 (2013)"
         ]
     },

@@ -41900,6 +41900,14 @@ var movieMap = {
             "Horror/Thriller",
             "Stephen King",
             "Thriller"
+        ],
+        "cast": [
+            "Bob Gunton",
+            "Christopher Plummer",
+            "David Strathairn",
+            "Jennifer Jason Leigh",
+            "John C. Reilly",
+            "Kathy Bates"
         ]
     },
     "Major Payne (1995)": {
@@ -51143,6 +51151,16 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Ann Dowd",
+            "Brad Renfro",
+            "Bruce Davison",
+            "David Schwimmer",
+            "Elias Koteas",
+            "Ian McKellen",
+            "Joe Morton",
+            "Joshua Jackson"
         ]
     },
     "Life Is Beautiful (1998)": {
@@ -54378,6 +54396,22 @@ var movieMap = {
             "Dramas",
             "Stephen King",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Barry Pepper",
+            "Bonnie Hunt",
+            "David Morse",
+            "Doug Hutchison",
+            "Gary Sinise",
+            "Graham Greene",
+            "Harry Dean Stanton",
+            "James Cromwell",
+            "Michael Clarke Duncan",
+            "Michael Jeter",
+            "Patricia Clarkson",
+            "Sam Rockwell",
+            "Tom Hanks",
+            "William Sadler"
         ]
     },
     "Anna and the King (1999)": {
@@ -58786,6 +58820,14 @@ var movieMap = {
         "categories": [
             "2000s",
             "Stephen King"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Anthony Hopkins",
+            "Anton Yelchin",
+            "David Morse",
+            "Hope Davis",
+            "Mika Boorem"
         ]
     },
     "Zoolander (2001)": {
@@ -81791,6 +81833,7 @@ var movieMap = {
         ],
         "cast": [
             "Dominic West",
+            "Doug Hutchison",
             "Julie Benz",
             "Ray Stevenson",
             "T. J. Storm",
