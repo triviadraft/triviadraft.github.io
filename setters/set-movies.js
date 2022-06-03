@@ -32619,6 +32619,13 @@ var movieMap = {
             "Horror/Thriller",
             "Stephen King",
             "Thriller"
+        ],
+        "cast": [
+            "J. T. Walsh",
+            "James Caan",
+            "Kathy Bates",
+            "Lauren Bacall",
+            "Richard Farnsworth"
         ]
     },
     "The Grifters (1990)": {
@@ -37146,6 +37153,13 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Amy Madigan",
+            "Beth Grant",
+            "Julie Harris",
+            "Michael Rooker",
+            "Timothy Hutton"
         ]
     },
     "Who's the Man? (1993)": {
@@ -37987,6 +38001,13 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Amanda Plummer",
+            "Bonnie Bedelia",
+            "Ed Harris",
+            "J. T. Walsh",
+            "Max von Sydow"
         ]
     },
     "Son of the Pink Panther (1993)": {
@@ -40507,6 +40528,14 @@ var movieMap = {
             "Modern Classics",
             "Morgan Freeman",
             "Stephen King"
+        ],
+        "cast": [
+            "Bob Gunton",
+            "Clancy Brown",
+            "James Whitmore",
+            "Morgan Freeman",
+            "Tim Robbins",
+            "William Sadler"
         ]
     },
     "Ed Wood (1994)": {
@@ -129037,6 +129066,18 @@ var movieMap = {
         "categories": [
             "2020s",
             "Jamie Lee Curtis"
+        ],
+        "cast": [
+            "Dan Kwan",
+            "Daniel Scheinert",
+            "Harry Shum Jr.",
+            "James Hong",
+            "Jamie Lee Curtis",
+            "Jenny Slate",
+            "Ke Huy Quan",
+            "Michelle Yeoh",
+            "Randy Newman",
+            "Stephanie Hsu"
         ]
     },
     "The Lost City (2022)": {
@@ -129058,6 +129099,17 @@ var movieMap = {
         "categories": [
             "2020s",
             "Brad Pitt & George Clooney"
+        ],
+        "cast": [
+            "Adam Nee",
+            "Bowen Yang",
+            "Brad Pitt",
+            "Channing Tatum",
+            "Da'Vine Joy Randolph",
+            "Daniel Radcliffe",
+            "Oscar Nunez",
+            "Sandra Bullock",
+            "Stephen Lang"
         ]
     },
     "Moonshot (2022)": {

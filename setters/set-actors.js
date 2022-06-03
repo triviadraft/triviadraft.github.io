@@ -156,6 +156,11 @@ var actorMap = {
             "Jumanji (1995)"
         ]
     },
+    "Adam Nee": {
+        "movies": [
+            "The Lost City (2022)"
+        ]
+    },
     "Adam Pally": {
         "movies": [
             "Iron Man 3 (2013)"
@@ -773,6 +778,11 @@ var actorMap = {
             "Something's Gotta Give (2003)"
         ]
     },
+    "Amanda Plummer": {
+        "movies": [
+            "Needful Things (1993)"
+        ]
+    },
     "Amanda Seyfried": {
         "suppNoms": [
             {
@@ -864,7 +874,8 @@ var actorMap = {
     },
     "Amy Madigan": {
         "movies": [
-            "Places in the Heart (1984)"
+            "Places in the Heart (1984)",
+            "The Dark Half (1993)"
         ]
     },
     "Amy Poehler": {
@@ -2117,7 +2128,8 @@ var actorMap = {
     },
     "Beth Grant": {
         "movies": [
-            "Rain Man (1988)"
+            "Rain Man (1988)",
+            "The Dark Half (1993)"
         ]
     },
     "Bette Davis": {
@@ -2465,6 +2477,7 @@ var actorMap = {
     "Bob Gunton": {
         "movies": [
             "Born on the Fourth of July (1989)",
+            "The Shawshank Redemption (1994)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -2535,7 +2548,8 @@ var actorMap = {
     },
     "Bonnie Bedelia": {
         "movies": [
-            "Die Hard (1988)"
+            "Die Hard (1988)",
+            "Needful Things (1993)"
         ]
     },
     "Bonnie Hunt": {
@@ -2568,6 +2582,11 @@ var actorMap = {
     "Boris Kodjoe": {
         "movies": [
             "Surrogates (2009)"
+        ]
+    },
+    "Bowen Yang": {
+        "movies": [
+            "The Lost City (2022)"
         ]
     },
     "Boyd Holbrook": {
@@ -2637,7 +2656,8 @@ var actorMap = {
             "Ocean's Thirteen (2007)",
             "The Curious Case of Benjamin Button (2008)",
             "The Counselor (2013)",
-            "Deadpool 2 (2018)"
+            "Deadpool 2 (2018)",
+            "The Lost City (2022)"
         ]
     },
     "Brad Renfro": {
@@ -3612,7 +3632,8 @@ var actorMap = {
             "The Hateful Eight (2015)",
             "The Lego Batman Movie (2017)",
             "Kingsman: The Golden Circle (2017)",
-            "The Lego Movie 2: The Second Part (2019)"
+            "The Lego Movie 2: The Second Part (2019)",
+            "The Lost City (2022)"
         ]
     },
     "Charlayne Woodard": {
@@ -4313,6 +4334,7 @@ var actorMap = {
     },
     "Clancy Brown": {
         "movies": [
+            "The Shawshank Redemption (1994)",
             "Green Lantern (2011)",
             "Cowboys & Aliens (2011)",
             "Thor: Ragnarok (2017)",
@@ -4734,6 +4756,11 @@ var actorMap = {
             "Hustle & Flow (2005)"
         ]
     },
+    "Da'Vine Joy Randolph": {
+        "movies": [
+            "The Lost City (2022)"
+        ]
+    },
     "Dabney Coleman": {
         "movies": [
             "9 to 5 (1980)",
@@ -4828,6 +4855,11 @@ var actorMap = {
             "The First Wives Club (1996)",
             "Alien Resurrection (1997)",
             "Robots (2005)"
+        ]
+    },
+    "Dan Kwan": {
+        "movies": [
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Dan Stevens": {
@@ -4983,12 +5015,18 @@ var actorMap = {
             "Trainwreck (2015)",
             "Victor Frankenstein (2015)",
             "Now You See Me 2 (2016)",
-            "Swiss Army Man (2016)"
+            "Swiss Army Man (2016)",
+            "The Lost City (2022)"
         ]
     },
     "Daniel Roebuck": {
         "movies": [
             "The Fugitive (1993)"
+        ]
+    },
+    "Daniel Scheinert": {
+        "movies": [
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Daniela Melchior": {
@@ -6238,6 +6276,7 @@ var actorMap = {
         "movies": [
             "Places in the Heart (1984)",
             "The Firm (1993)",
+            "Needful Things (1993)",
             "The Hours (2002)",
             "A History of Violence (2005)",
             "Gravity (2013)",
@@ -8534,6 +8573,11 @@ var actorMap = {
             "The Old Guard (2020)"
         ]
     },
+    "Harry Shum Jr.": {
+        "movies": [
+            "Everything Everywhere All at Once (2022)"
+        ]
+    },
     "Harry Styles": {
         "movies": [
             "Eternals (2021)"
@@ -9307,6 +9351,12 @@ var actorMap = {
             "Spider-Man: No Way Home (2021)"
         ]
     },
+    "J. T. Walsh": {
+        "movies": [
+            "Misery (1990)",
+            "Needful Things (1993)"
+        ]
+    },
     "JD McCrary": {
         "movies": [
             "Little (2019)"
@@ -9722,7 +9772,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Dick Tracy (1990)"
+            "Dick Tracy (1990)",
+            "Misery (1990)"
         ]
     },
     "James Coburn": {
@@ -9857,7 +9908,8 @@ var actorMap = {
             "Kung Fu Panda (2008)",
             "Kung Fu Panda 2 (2011)",
             "R.I.P.D. (2013)",
-            "Kung Fu Panda 3 (2016)"
+            "Kung Fu Panda 3 (2016)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "James Jude Courtney": {
@@ -10003,7 +10055,8 @@ var actorMap = {
     "James Whitmore": {
         "movies": [
             "Them! (1954)",
-            "Planet of the Apes (1968)"
+            "Planet of the Apes (1968)",
+            "The Shawshank Redemption (1994)"
         ]
     },
     "James Woods": {
@@ -10090,7 +10143,8 @@ var actorMap = {
         "movies": [
             "The Tailor of Panama (2001)",
             "You Again (2010)",
-            "Knives Out (2019)"
+            "Knives Out (2019)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Jane Alexander": {
@@ -10794,7 +10848,8 @@ var actorMap = {
             "This Means War (2012)",
             "Zootopia (2016)",
             "The Lego Batman Movie (2017)",
-            "Venom (2018)"
+            "Venom (2018)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Jeremy Davies": {
@@ -12691,6 +12746,11 @@ var actorMap = {
             "Marriage Story (2019)"
         ]
     },
+    "Julie Harris": {
+        "movies": [
+            "The Dark Half (1993)"
+        ]
+    },
     "Julie Strain": {
         "movies": [
             "Heavy Metal 2000 (2000)"
@@ -13190,6 +13250,7 @@ var actorMap = {
         ],
         "movies": [
             "Dick Tracy (1990)",
+            "Misery (1990)",
             "North (1994)",
             "Rumor Has It (2005)",
             "Valentine's Day (2010)"
@@ -13235,7 +13296,8 @@ var actorMap = {
     },
     "Ke Huy Quan": {
         "movies": [
-            "Indiana Jones and the Temple of Doom (1984)"
+            "Indiana Jones and the Temple of Doom (1984)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Keala Settle": {
@@ -14116,6 +14178,9 @@ var actorMap = {
                 "movie": "The Mirror Has Two Faces",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "Misery (1990)"
         ]
     },
     "Lauren Cohan": {
@@ -16075,6 +16140,7 @@ var actorMap = {
         "movies": [
             "Conan the Barbarian (1982)",
             "Ghostbusters II (1989)",
+            "Needful Things (1993)",
             "Minority Report (2002)",
             "Star Wars: The Force Awakens (2015)"
         ]
@@ -16817,6 +16883,7 @@ var actorMap = {
         "movies": [
             "Mississippi Burning (1988)",
             "Days of Thunder (1990)",
+            "The Dark Half (1993)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "The Suicide Squad (2021)"
@@ -16991,7 +17058,8 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Last Christmas (2019)",
-            "Shang-Chi and the Legend of the Ten Rings (2021)"
+            "Shang-Chi and the Legend of the Ten Rings (2021)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Michiel Huisman": {
@@ -17321,6 +17389,7 @@ var actorMap = {
             "Lean on Me (1989)",
             "Driving Miss Daisy (1989)",
             "Robin Hood: Prince of Thieves (1991)",
+            "The Shawshank Redemption (1994)",
             "Amistad (1997)",
             "Batman Begins (2005)",
             "War of the Worlds (2005)",
@@ -18163,6 +18232,11 @@ var actorMap = {
             "Star Wars: The Last Jedi (2017)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Oscar Nunez": {
+        "movies": [
+            "The Lost City (2022)"
         ]
     },
     "Ossie Davis": {
@@ -19309,7 +19383,8 @@ var actorMap = {
     },
     "Randy Newman": {
         "movies": [
-            "Three Amigos (1986)"
+            "Three Amigos (1986)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Randy Quaid": {
@@ -19702,6 +19777,9 @@ var actorMap = {
                 "movie": "Comes a Horseman",
                 "year": "1978"
             }
+        ],
+        "movies": [
+            "Misery (1990)"
         ]
     },
     "Richard Gere": {
@@ -20981,7 +21059,8 @@ var actorMap = {
             "Crash (2005)",
             "The Lake House (2006)",
             "Gravity (2013)",
-            "Ocean's 8 (2018)"
+            "Ocean's 8 (2018)",
+            "The Lost City (2022)"
         ]
     },
     "Sandra Oh": {
@@ -21958,7 +22037,8 @@ var actorMap = {
     },
     "Stephanie Hsu": {
         "movies": [
-            "Shang-Chi and the Legend of the Ten Rings (2021)"
+            "Shang-Chi and the Legend of the Ten Rings (2021)",
+            "Everything Everywhere All at Once (2022)"
         ]
     },
     "Stephen Amell": {
@@ -22027,7 +22107,8 @@ var actorMap = {
     "Stephen Lang": {
         "movies": [
             "Avatar (2009)",
-            "Conan the Barbarian (2011)"
+            "Conan the Barbarian (2011)",
+            "The Lost City (2022)"
         ]
     },
     "Stephen McFeely": {
@@ -22762,6 +22843,7 @@ var actorMap = {
             "Top Gun (1986)",
             "Howard the Duck (1986)",
             "Jungle Fever (1991)",
+            "The Shawshank Redemption (1994)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "War of the Worlds (2005)",
             "Green Lantern (2011)"
@@ -22797,6 +22879,7 @@ var actorMap = {
         ],
         "movies": [
             "Taps (1981)",
+            "The Dark Half (1993)",
             "Last Holiday (2006)"
         ]
     },
@@ -24297,6 +24380,7 @@ var actorMap = {
     },
     "William Sadler": {
         "movies": [
+            "The Shawshank Redemption (1994)",
             "Iron Man 3 (2013)"
         ]
     },
