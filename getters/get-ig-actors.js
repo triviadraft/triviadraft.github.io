@@ -29,6 +29,7 @@ function getMapWithThreeFranchises(map) {
     delete mapWithThreeFranchises['Terry Notary'];
     delete mapWithThreeFranchises['Tony Curran'];
     delete mapWithThreeFranchises['Xander Berkeley'];
+    delete mapWithThreeFranchises['William Hootkins'];
     return mapWithThreeFranchises;
 }
 
