@@ -13,12 +13,18 @@ function getMapWithThreeFranchises(map) {
     delete mapWithThreeFranchises['Glenn Morshower'];
     delete mapWithThreeFranchises['Holt McCallany'];
     delete mapWithThreeFranchises['James Arnold Taylor'];
+    delete mapWithThreeFranchises['Jason Flemyng'];
     delete mapWithThreeFranchises['Karel Roden'];
+    delete mapWithThreeFranchises['Kenny Baker'];
     delete mapWithThreeFranchises['Lee Arenberg'];
     delete mapWithThreeFranchises['Marton Csokas'];
     delete mapWithThreeFranchises['Michael Massee'];
+    delete mapWithThreeFranchises['Nathaniel Lees'];
+    delete mapWithThreeFranchises['Pat Roach'];
     delete mapWithThreeFranchises['Robert Maillet'];
     delete mapWithThreeFranchises['Terry Notary'];
+    delete mapWithThreeFranchises['Tony Curran'];
+    delete mapWithThreeFranchises['Xander Berkeley'];
     return mapWithThreeFranchises;
 }
 
