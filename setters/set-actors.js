@@ -923,7 +923,8 @@ var actorMap = {
     },
     "Amy Seimetz": {
         "movies": [
-            "Alien: Covenant (2017)"
+            "Alien: Covenant (2017)",
+            "Pet Sematary (2019)"
         ]
     },
     "Amy Yasbeck": {
@@ -1439,7 +1440,8 @@ var actorMap = {
     },
     "Ansel Elgort": {
         "movies": [
-            "Carrie (2013)"
+            "Carrie (2013)",
+            "West Side Story (2021)"
         ]
     },
     "Anthony Anderson": {
@@ -1471,6 +1473,7 @@ var actorMap = {
     "Anthony Edwards": {
         "movies": [
             "Top Gun (1986)",
+            "Pet Sematary Two (1992)",
             "Zodiac (2007)"
         ]
     },
@@ -1631,6 +1634,9 @@ var actorMap = {
                 "movie": "West Side Story",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "West Side Story (2021)"
         ]
     },
     "Ariana Grande": {
@@ -1791,6 +1797,11 @@ var actorMap = {
     "Avan Jogia": {
         "movies": [
             "Zombieland: Double Tap (2019)"
+        ]
+    },
+    "Avery Whitted": {
+        "movies": [
+            "In the Tall Grass (2019)"
         ]
     },
     "Awkwafina": {
@@ -2929,8 +2940,10 @@ var actorMap = {
     },
     "Brian d'Arcy James": {
         "movies": [
+            "1922 (2017)",
             "Dark Phoenix (2019)",
-            "The Kitchen (2019)"
+            "The Kitchen (2019)",
+            "West Side Story (2021)"
         ]
     },
     "Brianna Hildebrand": {
@@ -3071,7 +3084,8 @@ var actorMap = {
             "Star Trek (2009)",
             "Star Trek Into Darkness (2013)",
             "Kingsman: The Golden Circle (2017)",
-            "Gerald's Game (2017)"
+            "Gerald's Game (2017)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Bruce McGill": {
@@ -3320,7 +3334,8 @@ var actorMap = {
         "movies": [
             "The Witches of Eastwick (1987)",
             "Men in Black (1997)",
-            "Gerald's Game (2017)"
+            "Gerald's Game (2017)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Carey Mulligan": {
@@ -3341,6 +3356,11 @@ var actorMap = {
     "Carice van Houten": {
         "movies": [
             "Valkyrie (2008)"
+        ]
+    },
+    "Carl Lumbly": {
+        "movies": [
+            "Doctor Sleep (2019)"
         ]
     },
     "Carl Reiner": {
@@ -4383,6 +4403,7 @@ var actorMap = {
     },
     "Clancy Brown": {
         "movies": [
+            "Pet Sematary Two (1992)",
             "The Shawshank Redemption (1994)",
             "Green Lantern (2011)",
             "Cowboys & Aliens (2011)",
@@ -4441,7 +4462,8 @@ var actorMap = {
     "Cliff Curtis": {
         "movies": [
             "Six Days, Seven Nights (1998)",
-            "Blow (2001)"
+            "Blow (2001)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Cliff Edwards": {
@@ -4696,7 +4718,8 @@ var actorMap = {
     "Corey Stoll": {
         "movies": [
             "This Is Where I Leave You (2014)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "West Side Story (2021)"
         ]
     },
     "Costa-Gavras": {
@@ -4856,6 +4879,11 @@ var actorMap = {
         "movies": [
             "Bad Times at the El Royale (2018)",
             "The Peanut Butter Falcon (2019)"
+        ]
+    },
+    "Dale Midkiff": {
+        "movies": [
+            "Pet Sematary (1989)"
         ]
     },
     "Damian Lewis": {
@@ -5153,7 +5181,8 @@ var actorMap = {
     },
     "Danny Lloyd": {
         "movies": [
-            "The Shining (1980)"
+            "The Shining (1980)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Danny McBride": {
@@ -5248,6 +5277,11 @@ var actorMap = {
     "David Alan Grier": {
         "movies": [
             "Jumanji (1995)"
+        ]
+    },
+    "David Alvarez": {
+        "movies": [
+            "West Side Story (2021)"
         ]
     },
     "David Arquette": {
@@ -5635,6 +5669,11 @@ var actorMap = {
         "movies": [
             "Michael Clayton (2007)",
             "Changeling (2008)"
+        ]
+    },
+    "Denise Crosby": {
+        "movies": [
+            "Pet Sematary (1989)"
         ]
     },
     "Denise Richards": {
@@ -6289,6 +6328,11 @@ var actorMap = {
             "Bumblebee (2018)"
         ]
     },
+    "Dylan Schmid": {
+        "movies": [
+            "1922 (2017)"
+        ]
+    },
     "E. G. Marshall": {
         "movies": [
             "12 Angry Men (1957)",
@@ -6471,6 +6515,7 @@ var actorMap = {
     "Edward Furlong": {
         "movies": [
             "Terminator 2: Judgment Day (1991)",
+            "Pet Sematary Two (1992)",
             "The Green Hornet (2011)",
             "Terminator: Dark Fate (2019)"
         ]
@@ -6856,7 +6901,8 @@ var actorMap = {
     },
     "Emily Alyn Lind": {
         "movies": [
-            "Movie 43 (2013)"
+            "Movie 43 (2013)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Emily Blunt": {
@@ -7261,6 +7307,7 @@ var actorMap = {
             "Mortdecai (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Beauty and the Beast (2017)",
+            "Doctor Sleep (2019)",
             "Star Wars: The Rise of Skywalker (2019)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
@@ -7626,6 +7673,11 @@ var actorMap = {
         "movies": [
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
+        ]
+    },
+    "Fred Gwynne": {
+        "movies": [
+            "Pet Sematary (1989)"
         ]
     },
     "Fred Melamed": {
@@ -8621,6 +8673,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Harrison Gilbertson": {
+        "movies": [
+            "In the Tall Grass (2019)"
+        ]
+    },
     "Harry Dean Stanton": {
         "movies": [
             "Alien (1979)",
@@ -8897,7 +8954,8 @@ var actorMap = {
     },
     "Henry Thomas": {
         "movies": [
-            "Gerald's Game (2017)"
+            "Gerald's Game (2017)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Henry Winkler": {
@@ -9736,7 +9794,8 @@ var actorMap = {
     "Jacob Tremblay": {
         "movies": [
             "The Book of Henry (2017)",
-            "The Predator (2018)"
+            "The Predator (2018)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Jacqueline Obradors": {
@@ -10396,6 +10455,12 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Jared Rushton": {
+        "movies": [
+            "Big (1988)",
+            "Pet Sematary Two (1992)"
+        ]
+    },
     "Jasmine Cephas Jones": {
         "movies": [
             "Marriage Story (2019)"
@@ -10420,7 +10485,8 @@ var actorMap = {
         "movies": [
             "Zero Dark Thirty (2012)",
             "Dawn of the Planet of the Apes (2014)",
-            "Terminator Genisys (2015)"
+            "Terminator Genisys (2015)",
+            "Pet Sematary (2019)"
         ]
     },
     "Jason Drucker": {
@@ -11954,7 +12020,8 @@ var actorMap = {
             "Terms of Endearment (1983)",
             "Orange County (2002)",
             "Rise of the Planet of the Apes (2011)",
-            "New Year's Eve (2011)"
+            "New Year's Eve (2011)",
+            "Pet Sematary (2019)"
         ]
     },
     "John Mahoney": {
@@ -12458,6 +12525,11 @@ var actorMap = {
     "Josephine Hull": {
         "movies": [
             "Arsenic and Old Lace (1944)"
+        ]
+    },
+    "Josh Andr\u00e9s Rivera": {
+        "movies": [
+            "West Side Story (2021)"
         ]
     },
     "Josh Brener": {
@@ -14096,6 +14168,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Kyliegh Curran": {
+        "movies": [
+            "Doctor Sleep (2019)"
+        ]
+    },
     "Kyra Sedgwick": {
         "movies": [
             "Born on the Fourth of July (1989)",
@@ -14395,6 +14472,11 @@ var actorMap = {
     "Lawrence Kasdan": {
         "movies": [
             "As Good as It Gets (1997)"
+        ]
+    },
+    "Laysla De Oliveira": {
+        "movies": [
+            "In the Tall Grass (2019)"
         ]
     },
     "LeBron James": {
@@ -15207,7 +15289,8 @@ var actorMap = {
     },
     "Maddie Ziegler": {
         "movies": [
-            "The Book of Henry (2017)"
+            "The Book of Henry (2017)",
+            "West Side Story (2021)"
         ]
     },
     "Madeline Kahn": {
@@ -17281,6 +17364,11 @@ var actorMap = {
             "Girls Trip (2017)"
         ]
     },
+    "Mike Faist": {
+        "movies": [
+            "West Side Story (2021)"
+        ]
+    },
     "Mike Judge": {
         "movies": [
             "R.I.P.D. (2013)"
@@ -17475,6 +17563,11 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "The Lion King (1994)"
+        ]
+    },
+    "Molly Parker": {
+        "movies": [
+            "1922 (2017)"
         ]
     },
     "Molly Ringwald": {
@@ -17808,7 +17901,8 @@ var actorMap = {
             "Minority Report (2002)",
             "Timeline (2003)",
             "Captain America: The First Avenger (2011)",
-            "Red 2 (2013)"
+            "Red 2 (2013)",
+            "1922 (2017)"
         ]
     },
     "Ned Beatty": {
@@ -18576,7 +18670,8 @@ var actorMap = {
             "Prometheus (2012)",
             "Bone Tomahawk (2015)",
             "Batman v Superman: Dawn of Justice (2016)",
-            "Aquaman (2018)"
+            "Aquaman (2018)",
+            "In the Tall Grass (2019)"
         ]
     },
     "Patton Oswalt": {
@@ -19443,6 +19538,11 @@ var actorMap = {
             "Black Widow (2021)"
         ]
     },
+    "Rachel Zegler": {
+        "movies": [
+            "West Side Story (2021)"
+        ]
+    },
     "Radha Mitchell": {
         "movies": [
             "Surrogates (2009)"
@@ -19666,7 +19766,8 @@ var actorMap = {
             "The Greatest Showman (2017)",
             "Mission: Impossible \u2013 Fallout (2018)",
             "The Kid Who Would Be King (2019)",
-            "Men in Black: International (2019)"
+            "Men in Black: International (2019)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Rebecca Hall": {
@@ -20104,7 +20205,8 @@ var actorMap = {
     },
     "Rita Moreno": {
         "movies": [
-            "West Side Story (1961)"
+            "West Side Story (1961)",
+            "West Side Story (2021)"
         ]
     },
     "Rita Wilson": {
@@ -22281,6 +22383,7 @@ var actorMap = {
     },
     "Stephen King": {
         "movies": [
+            "Pet Sematary (1989)",
             "Fever Pitch (2005)",
             "Stuck in Love (2013)",
             "It Chapter Two (2019)"
@@ -22880,6 +22983,7 @@ var actorMap = {
             "The Punisher (2004)",
             "The Mist (2007)",
             "Scott Pilgrim vs. the World (2010)",
+            "1922 (2017)",
             "The Predator (2018)"
         ]
     },
@@ -24848,7 +24952,8 @@ var actorMap = {
     },
     "Zahn McClarnon": {
         "movies": [
-            "Bone Tomahawk (2015)"
+            "Bone Tomahawk (2015)",
+            "Doctor Sleep (2019)"
         ]
     },
     "Zayn Malik": {

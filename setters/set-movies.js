@@ -27963,6 +27963,7 @@ var movieMap = {
             "David Moscow",
             "Debra Jo Rupp",
             "Elizabeth Perkins",
+            "Jared Rushton",
             "John Heard",
             "Jon Lovitz",
             "Mercedes Ruehl",
@@ -29607,6 +29608,12 @@ var movieMap = {
             "1980s",
             "Horror",
             "Horror/Thriller",
+            "Stephen King"
+        ],
+        "cast": [
+            "Dale Midkiff",
+            "Denise Crosby",
+            "Fred Gwynne",
             "Stephen King"
         ]
     },
@@ -35709,6 +35716,12 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Anthony Edwards",
+            "Clancy Brown",
+            "Edward Furlong",
+            "Jared Rushton"
         ]
     },
     "Twin Peaks: Fire Walk with Me (1992)": {
@@ -112194,6 +112207,13 @@ var movieMap = {
             "2010s",
             "Stephen King",
             "Streaming"
+        ],
+        "cast": [
+            "Brian d'Arcy James",
+            "Dylan Schmid",
+            "Molly Parker",
+            "Neal McDonough",
+            "Thomas Jane"
         ]
     },
     "Boo 2! A Madea Halloween (2017)": {
@@ -118579,6 +118599,11 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Amy Seimetz",
+            "Jason Clarke",
+            "John Lithgow"
         ]
     },
     "Shazam! (2019)": {
@@ -120563,6 +120588,12 @@ var movieMap = {
             "2010s",
             "Stephen King",
             "Streaming"
+        ],
+        "cast": [
+            "Avery Whitted",
+            "Harrison Gilbertson",
+            "Laysla De Oliveira",
+            "Patrick Wilson"
         ]
     },
     "Joker (2019)": {
@@ -121191,6 +121222,20 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Bruce Greenwood",
+            "Carel Struycken",
+            "Carl Lumbly",
+            "Cliff Curtis",
+            "Danny Lloyd",
+            "Emily Alyn Lind",
+            "Ewan McGregor",
+            "Henry Thomas",
+            "Jacob Tremblay",
+            "Kyliegh Curran",
+            "Rebecca Ferguson",
+            "Zahn McClarnon"
         ]
     },
     "Honey Boy (2019)": {
@@ -128522,6 +128567,18 @@ var movieMap = {
             "Musicals",
             "Remakes & Reboots",
             "Steven Spielberg"
+        ],
+        "cast": [
+            "Ansel Elgort",
+            "Ariana DeBose",
+            "Brian d'Arcy James",
+            "Corey Stoll",
+            "David Alvarez",
+            "Josh Andr\u00e9s Rivera",
+            "Maddie Ziegler",
+            "Mike Faist",
+            "Rachel Zegler",
+            "Rita Moreno"
         ]
     },
     "Mother/Android (2021)": {
