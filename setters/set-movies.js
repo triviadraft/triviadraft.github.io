@@ -97813,6 +97813,26 @@ var movieMap = {
             "Jennifer Lawrence",
             "Stanley Tucci",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Alan Ritchson",
+            "Amanda Plummer",
+            "Donald Sutherland",
+            "Elizabeth Banks",
+            "Jeffrey Wright",
+            "Jena Malone",
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Lenny Kravitz",
+            "Liam Hemsworth",
+            "Lynn Cohen",
+            "Paula Malcomson",
+            "Philip Seymour Hoffman",
+            "Sam Claflin",
+            "Stanley Tucci",
+            "Toby Jones",
+            "Willow Shields",
+            "Woody Harrelson"
         ]
     },
     "Frozen (2013)": {
@@ -101341,6 +101361,25 @@ var movieMap = {
             "Jennifer Lawrence",
             "Stanley Tucci",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Donald Sutherland",
+            "Elden Henson",
+            "Elizabeth Banks",
+            "Jeffrey Wright",
+            "Jena Malone",
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Julianne Moore",
+            "Liam Hemsworth",
+            "Mahershala Ali",
+            "Natalie Dormer",
+            "Philip Seymour Hoffman",
+            "Sam Claflin",
+            "Sarita Choudhury",
+            "Stanley Tucci",
+            "Willow Shields",
+            "Woody Harrelson"
         ]
     },
     "Horrible Bosses 2 (2014)": {
@@ -104781,6 +104820,26 @@ var movieMap = {
             "Jennifer Lawrence",
             "Stanley Tucci",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Donald Sutherland",
+            "Elden Henson",
+            "Elizabeth Banks",
+            "Gwendoline Christie",
+            "Jeffrey Wright",
+            "Jena Malone",
+            "Jennifer Lawrence",
+            "Josh Hutcherson",
+            "Julianne Moore",
+            "Liam Hemsworth",
+            "Mahershala Ali",
+            "Natalie Dormer",
+            "Paula Malcomson",
+            "Philip Seymour Hoffman",
+            "Sam Claflin",
+            "Stanley Tucci",
+            "Willow Shields",
+            "Woody Harrelson"
         ]
     },
     "The Night Before (2015)": {
@@ -117640,6 +117699,15 @@ var movieMap = {
             "Frat Pack",
             "Musicians in Film",
             "Robert Zemeckis"
+        ],
+        "cast": [
+            "Diane Kruger",
+            "Eiza Gonz\u00e1lez",
+            "Gwendoline Christie",
+            "Janelle Mon\u00e1e",
+            "Leslie Mann",
+            "Merritt Wever",
+            "Steve Carell"
         ]
     },
     "Holmes & Watson (2018)": {

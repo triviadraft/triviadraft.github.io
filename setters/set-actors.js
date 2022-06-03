@@ -427,6 +427,7 @@ var actorMap = {
     },
     "Alan Ritchson": {
         "movies": [
+            "The Hunger Games: Catching Fire (2013)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
@@ -796,7 +797,8 @@ var actorMap = {
     },
     "Amanda Plummer": {
         "movies": [
-            "Needful Things (1993)"
+            "Needful Things (1993)",
+            "The Hunger Games: Catching Fire (2013)"
         ]
     },
     "Amanda Seyfried": {
@@ -5867,7 +5869,8 @@ var actorMap = {
     },
     "Diane Kruger": {
         "movies": [
-            "Troy (2004)"
+            "Troy (2004)",
+            "Welcome to Marwen (2018)"
         ]
     },
     "Diane Ladd": {
@@ -6156,7 +6159,10 @@ var actorMap = {
         "movies": [
             "Invasion of the Body Snatchers (1978)",
             "Cold Mountain (2003)",
-            "The Hunger Games (2012)"
+            "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Donna Dixon": {
@@ -6589,7 +6595,14 @@ var actorMap = {
     },
     "Eiza Gonz\u00e1lez": {
         "movies": [
+            "Welcome to Marwen (2018)",
             "Bloodshot (2020)"
+        ]
+    },
+    "Elden Henson": {
+        "movies": [
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Elena Anaya": {
@@ -6680,7 +6693,10 @@ var actorMap = {
             "Spider-Man 3 (2007)",
             "The Hunger Games (2012)",
             "Movie 43 (2013)",
+            "The Hunger Games: Catching Fire (2013)",
             "The Lego Movie (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Power Rangers (2017)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
@@ -8490,8 +8506,10 @@ var actorMap = {
     },
     "Gwendoline Christie": {
         "movies": [
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Star Wars: The Force Awakens (2015)",
-            "Star Wars: The Last Jedi (2017)"
+            "Star Wars: The Last Jedi (2017)",
+            "Welcome to Marwen (2018)"
         ]
     },
     "Gwyneth Paltrow": {
@@ -10411,7 +10429,8 @@ var actorMap = {
     },
     "Janelle Mon\u00e1e": {
         "movies": [
-            "Hidden Figures (2016)"
+            "Hidden Figures (2016)",
+            "Welcome to Marwen (2018)"
         ]
     },
     "Janet Jackson": {
@@ -10876,6 +10895,9 @@ var actorMap = {
     },
     "Jeffrey Wright": {
         "movies": [
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "The Batman (2022)"
         ]
     },
@@ -10887,7 +10909,10 @@ var actorMap = {
     },
     "Jena Malone": {
         "movies": [
-            "Cold Mountain (2003)"
+            "Cold Mountain (2003)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Jenifer Lewis": {
@@ -11011,7 +11036,10 @@ var actorMap = {
         "movies": [
             "X-Men: First Class (2011)",
             "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
             "X-Men: Days of Future Past (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "X-Men: Apocalypse (2016)",
             "Mother! (2017)",
             "Dark Phoenix (2019)",
@@ -12634,7 +12662,10 @@ var actorMap = {
     "Josh Hutcherson": {
         "movies": [
             "RV (2006)",
-            "The Hunger Games (2012)"
+            "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Josh Lucas": {
@@ -12911,6 +12942,8 @@ var actorMap = {
             "Magnolia (1999)",
             "The Hours (2002)",
             "Carrie (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -14620,7 +14653,8 @@ var actorMap = {
     },
     "Lenny Kravitz": {
         "movies": [
-            "The Hunger Games (2012)"
+            "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)"
         ]
     },
     "Leo G. Carroll": {
@@ -14735,7 +14769,8 @@ var actorMap = {
         "movies": [
             "Orange County (2002)",
             "Knocked Up (2007)",
-            "The Bling Ring (2013)"
+            "The Bling Ring (2013)",
+            "Welcome to Marwen (2018)"
         ]
     },
     "Leslie Odom Jr.": {
@@ -14820,7 +14855,10 @@ var actorMap = {
     },
     "Liam Hemsworth": {
         "movies": [
-            "The Hunger Games (2012)"
+            "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Liam Neeson": {
@@ -15259,6 +15297,11 @@ var actorMap = {
             "Kick-Ass 2 (2013)"
         ]
     },
+    "Lynn Cohen": {
+        "movies": [
+            "The Hunger Games: Catching Fire (2013)"
+        ]
+    },
     "Lynn Collins": {
         "movies": [
             "13 Going on 30 (2004)",
@@ -15451,6 +15494,8 @@ var actorMap = {
         "movies": [
             "The Curious Case of Benjamin Button (2008)",
             "Predators (2010)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Hidden Figures (2016)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Eternals (2021)"
@@ -16654,6 +16699,7 @@ var actorMap = {
         "movies": [
             "Michael Clayton (2007)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+            "Welcome to Marwen (2018)",
             "Marriage Story (2019)"
         ]
     },
@@ -17833,7 +17879,9 @@ var actorMap = {
         "movies": [
             "Captain America: The First Avenger (2011)",
             "Rush (2013)",
-            "The Counselor (2013)"
+            "The Counselor (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Natalie Portman": {
@@ -18981,7 +19029,9 @@ var actorMap = {
     "Paula Malcomson": {
         "movies": [
             "The Green Mile (1999)",
-            "The Hunger Games (2012)"
+            "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Paula Patton": {
@@ -19389,7 +19439,10 @@ var actorMap = {
             "Almost Famous (2000)",
             "Cold Mountain (2003)",
             "Mission: Impossible III (2006)",
-            "Doubt (2008)"
+            "Doubt (2008)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Phoebe Waller-Bridge": {
@@ -21168,6 +21221,9 @@ var actorMap = {
         "movies": [
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Snow White and the Huntsman (2012)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "The Huntsman: Winter's War (2016)"
         ]
     },
@@ -21487,6 +21543,11 @@ var actorMap = {
     "Sarah Wright": {
         "movies": [
             "American Made (2017)"
+        ]
+    },
+    "Sarita Choudhury": {
+        "movies": [
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)"
         ]
     },
     "Sasha Lane": {
@@ -22330,7 +22391,10 @@ var actorMap = {
             "The Tale of Despereaux (2008)",
             "Captain America: The First Avenger (2011)",
             "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
             "Transformers: Age of Extinction (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Beauty and the Beast (2017)",
             "Transformers: The Last Knight (2017)",
             "The King's Man (2021)"
@@ -22528,7 +22592,8 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
-            "Foxcatcher (2014)"
+            "Foxcatcher (2014)",
+            "Welcome to Marwen (2018)"
         ]
     },
     "Steve Coogan": {
@@ -23315,6 +23380,7 @@ var actorMap = {
             "The Adventures of Tintin (2011)",
             "The Hunger Games (2012)",
             "Snow White and the Huntsman (2012)",
+            "The Hunger Games: Catching Fire (2013)",
             "Captain America: The Winter Soldier (2014)",
             "Atomic Blonde (2017)",
             "Jurassic World: Fallen Kingdom (2018)"
@@ -24766,7 +24832,10 @@ var actorMap = {
     },
     "Willow Shields": {
         "movies": [
-            "The Hunger Games (2012)"
+            "The Hunger Games (2012)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
     "Wilmer Valderrama": {
@@ -24862,6 +24931,9 @@ var actorMap = {
             "Zombieland (2009)",
             "The Hunger Games (2012)",
             "Now You See Me (2013)",
+            "The Hunger Games: Catching Fire (2013)",
+            "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
+            "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Now You See Me 2 (2016)",
             "War for the Planet of the Apes (2017)",
             "Solo: A Star Wars Story (2018)",
