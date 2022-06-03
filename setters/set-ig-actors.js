@@ -284,6 +284,13 @@ var igActorMap = {
             ]
         }
     },
+    "Akie Kotabe": {
+        "movies": {
+            "Batman": [
+                "The Batman (2022)"
+            ]
+        }
+    },
     "Akira Akbar": {
         "movies": {
             "MCU": [
@@ -878,6 +885,9 @@ var igActorMap = {
                 "Star Wars: The Force Awakens (2015)",
                 "Star Wars: The Last Jedi (2017)",
                 "Star Wars: The Rise of Skywalker (2019)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -1427,6 +1437,9 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Eternals (2021)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -3616,6 +3629,9 @@ var igActorMap = {
             ],
             "Wizarding World": [
                 "Fantastic Beasts and Where to Find Them (2016)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -8751,6 +8767,13 @@ var igActorMap = {
             ]
         }
     },
+    "Jayme Lawson": {
+        "movies": {
+            "Batman": [
+                "The Batman (2022)"
+            ]
+        }
+    },
     "Jean Marsh": {
         "movies": {
             "Willow (1988)": [
@@ -8864,6 +8887,13 @@ var igActorMap = {
             "Back to the Future": [
                 "Back to the Future Part II (1989)",
                 "Back to the Future Part III (1990)"
+            ]
+        }
+    },
+    "Jeffrey Wright": {
+        "movies": {
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -9826,6 +9856,9 @@ var igActorMap = {
                 "Transformers: Revenge of the Fallen (2009)",
                 "Transformers: Dark of the Moon (2011)",
                 "Transformers: The Last Knight (2017)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -12272,6 +12305,13 @@ var igActorMap = {
         "movies": {
             "Snowpiercer (2014)": [
                 "Snowpiercer (2014)"
+            ]
+        }
+    },
+    "Luke Roberts": {
+        "movies": {
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -15154,6 +15194,9 @@ var igActorMap = {
         "movies": {
             "Cowboys & Aliens (2011)": [
                 "Cowboys & Aliens (2011)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -15620,6 +15663,9 @@ var igActorMap = {
         "movies": {
             "DC": [
                 "Green Lantern (2011)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -16741,6 +16787,9 @@ var igActorMap = {
         "movies": {
             "Wizarding World": [
                 "Harry Potter and the Goblet of Fire (2005)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -17173,6 +17222,13 @@ var igActorMap = {
             ]
         }
     },
+    "Rupert Penry-Jones": {
+        "movies": {
+            "Batman": [
+                "The Batman (2022)"
+            ]
+        }
+    },
     "Russell Crowe": {
         "movies": {
             "DCEU": [
@@ -17498,6 +17554,16 @@ var igActorMap = {
             ],
             "Red Sonja (1985)": [
                 "Red Sonja (1985)"
+            ]
+        }
+    },
+    "Sandra Dickinson": {
+        "movies": {
+            "Superman": [
+                "Supergirl (1984)"
+            ],
+            "Batman": [
+                "The Batman (2022)"
             ]
         }
     },
@@ -20687,7 +20753,8 @@ var igActorMap = {
                 "Mad Max: Fury Road (2015)"
             ],
             "Batman": [
-                "The Lego Batman Movie (2017)"
+                "The Lego Batman Movie (2017)",
+                "The Batman (2022)"
             ],
             "Wizarding World": [
                 "Fantastic Beasts: The Crimes of Grindelwald (2018)"

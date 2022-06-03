@@ -17060,6 +17060,13 @@ var movieMap = {
             "Horror/Thriller",
             "Jack Nicholson",
             "Stephen King"
+        ],
+        "cast": [
+            "Danny Lloyd",
+            "Jack Nicholson",
+            "Scatman Crothers",
+            "Shelley Duvall",
+            "Tony Burton"
         ]
     },
     "Bronco Billy (1980)": {
@@ -25086,6 +25093,15 @@ var movieMap = {
             "Cusacks",
             "Dramas",
             "Stephen King"
+        ],
+        "cast": [
+            "Corey Feldman",
+            "Jerry O'Connell",
+            "John Cusack",
+            "Kiefer Sutherland",
+            "Richard Dreyfuss",
+            "River Phoenix",
+            "Wil Wheaton"
         ]
     },
     "The Transformers: The Movie (1986)": {
@@ -26152,6 +26168,27 @@ var movieMap = {
             "Coppolas"
         ]
     },
+    "Ishtar (1987)": {
+        "title": "Ishtar",
+        "year": "1987",
+        "synopsis": "Bad lounge singers Chuck and Lyle book a gig in a Moroccan hotel. They become pawns in a fight between the CIA, an emir, and rebels like Shirra.",
+        "directors": [
+            "Elaine May"
+        ],
+        "leads": [
+            "Dustin Hoffman",
+            "Warren Beatty",
+            "Isabelle Adjani"
+        ],
+        "music": [
+            "Bahjawa",
+            "Dave Grusin",
+            "Paul Williams"
+        ],
+        "categories": [
+            "1980s"
+        ]
+    },
     "Beverly Hills Cop II (1987)": {
         "title": "Beverly Hills Cop II",
         "year": "1987",
@@ -27011,6 +27048,16 @@ var movieMap = {
             "Sly & Arnie",
             "Stephen King",
             "Thriller"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Jesse Ventura",
+            "Jim Brown",
+            "Kurt Fuller",
+            "Mar\u00eda Conchita Alonso",
+            "Mick Fleetwood",
+            "Rodger Bumpass",
+            "Yaphet Kotto"
         ]
     },
     "Teen Wolf Too (1987)": {
@@ -27526,6 +27573,25 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comedies"
+        ]
+    },
+    "Biloxi Blues (1988)": {
+        "title": "Biloxi Blues",
+        "year": "1988",
+        "synopsis": "During World War II, Jewish teenager Eugene is drafted into the Army. In Mississippi, he becomes a private trained by the unkind Sergeant Toomey.",
+        "directors": [
+            "Mike Nichols"
+        ],
+        "leads": [
+            "Matthew Broderick",
+            "Christopher Walken",
+            "Casey Siemaszko"
+        ],
+        "music": [
+            "Georges Delerue"
+        ],
+        "categories": [
+            "1980s"
         ]
     },
     "Johnny Be Good (1988)": {
@@ -32508,6 +32574,7 @@ var movieMap = {
             "Bill Paxton",
             "Danny Glover",
             "Gary Busey",
+            "Mar\u00eda Conchita Alonso",
             "Robert Davi"
         ]
     },
@@ -35004,6 +35071,27 @@ var movieMap = {
         ],
         "music": [
             "Trevor Jones"
+        ],
+        "categories": [
+            "1990s"
+        ]
+    },
+    "One False Move (1992)": {
+        "title": "One False Move",
+        "year": "1992",
+        "synopsis": "Star City police chief Dale waits for criminals Ray, Pluto, and Fantasia to arrive. He works with two LAPD detectives to find and stop the murderers.",
+        "directors": [
+            "Carl Franklin"
+        ],
+        "leads": [
+            "Bill Paxton",
+            "Cynda Williams",
+            "Billy Bob Thornton"
+        ],
+        "music": [
+            "Peter Haycock",
+            "Derek Holt",
+            "Terry Plumeri"
         ],
         "categories": [
             "1990s"
@@ -82280,6 +82368,27 @@ var movieMap = {
             "Animated"
         ]
     },
+    "Fanboys (2009)": {
+        "title": "Fanboys",
+        "year": "2009",
+        "synopsis": "In 1999, Star Wars fans head to Skywalker Ranch so their dying friend Linus can see a screening of The Phantom Menace before it is released to all.",
+        "directors": [
+            "Kyle Newman"
+        ],
+        "leads": [
+            "Jay Baruchel",
+            "Dan Fogler",
+            "Sam Huntington"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ],
+        "categories": [
+            "2000s",
+            "Frat Pack",
+            "Kevin Smith"
+        ]
+    },
     "He's Just Not That into You (2009)": {
         "title": "He's Just Not That into You",
         "year": "2009",
@@ -88006,6 +88115,26 @@ var movieMap = {
             "Tony Shalhoub"
         ]
     },
+    "Rabbit Hole (2010)": {
+        "title": "Rabbit Hole",
+        "year": "2010",
+        "synopsis": "Eight months since their four-year-old son Danny was killed in a car accident, Becca and Howie are still grieving. Becca meets with teen driver Jason.",
+        "directors": [
+            "John Cameron Mitchell"
+        ],
+        "leads": [
+            "Nicole Kidman",
+            "Aaron Eckhart",
+            "Dianne Wiest"
+        ],
+        "music": [
+            "Anton Sanko"
+        ],
+        "categories": [
+            "2010s",
+            "Nicole Kidman"
+        ]
+    },
     "Tron: Legacy (2010)": {
         "title": "Tron: Legacy",
         "year": "2010",
@@ -92799,7 +92928,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Musicals",
-            "Tom Cruise"
+            "Tom Cruise",
+            "Wrestlers in Film"
         ],
         "cast": [
             "Alec Baldwin",
@@ -94954,6 +95084,26 @@ var movieMap = {
             "Comedies"
         ]
     },
+    "Side Effects (2013)": {
+        "title": "Side Effects",
+        "year": "2013",
+        "synopsis": "After her husband Martin completes a prison stay, Emily takes a drug recommended by psychiatrist Jonathan. She kills Martin while she sleepwalks.",
+        "directors": [
+            "Steven Soderbergh"
+        ],
+        "leads": [
+            "Jude Law",
+            "Rooney Mara",
+            "Catherine Zeta-Jones"
+        ],
+        "music": [
+            "Thomas Newman"
+        ],
+        "categories": [
+            "2010s",
+            "Steven Soderbergh"
+        ]
+    },
     "A Good Day to Die Hard (2013)": {
         "title": "A Good Day to Die Hard",
         "year": "2013",
@@ -95239,7 +95389,7 @@ var movieMap = {
         "leads": [
             "Dwayne Johnson",
             "Jonathan Pryce",
-            "Byung-hun Lee"
+            "Lee Byung-hun"
         ],
         "music": [
             "Henry Jackman"
@@ -96585,7 +96735,7 @@ var movieMap = {
         "leads": [
             "Dane Cook",
             "Stacy Keach",
-            "Priyanka Chopra"
+            "Priyanka Chopra Jonas"
         ],
         "music": [
             "Mark Mancina"
@@ -98234,6 +98384,25 @@ var movieMap = {
             "2010s",
             "Jennifer Connelly",
             "Will Smith"
+        ]
+    },
+    "3 Days to Kill (2014)": {
+        "title": "3 Days to Kill",
+        "year": "2014",
+        "synopsis": "Dying CIA agent Ethan tries to reconnect with his wife Christine and daughter Zooey. He is offered an experimental drug if he completes one last job.",
+        "directors": [
+            "McG"
+        ],
+        "leads": [
+            "Kevin Costner",
+            "Amber Heard",
+            "Hailee Steinfeld"
+        ],
+        "music": [
+            "Guillaume Roussel"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Pompeii (2014)": {
@@ -100638,6 +100807,25 @@ var movieMap = {
             "Willem Dafoe"
         ]
     },
+    "Laggies (2014)": {
+        "title": "Laggies",
+        "year": "2014",
+        "synopsis": "In Seattle, after a boyfriend proposes, 28-year-old Megan panics and hides out in the house of new teenage friend Annika and her single father Craig.",
+        "directors": [
+            "Lynn Shelton"
+        ],
+        "leads": [
+            "Keira Knightley",
+            "Chlo\u00eb Grace Moretz",
+            "Sam Rockwell"
+        ],
+        "music": [
+            "Benjamin Gibbard"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Ouija (2014)": {
         "title": "Ouija",
         "year": "2014",
@@ -100908,7 +101096,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Brat Pack",
-            "Frat Pack"
+            "Frat Pack",
+            "Wrestlers in Film"
         ],
         "cast": [
             "Anthony Michael Hall",
@@ -101585,6 +101774,25 @@ var movieMap = {
             "2010s",
             "Family",
             "Nicole Kidman"
+        ]
+    },
+    "Son of a Gun (2015)": {
+        "title": "Son of a Gun",
+        "year": "2015",
+        "synopsis": "In Australia, 19-year-old JR befriends charismatic Scottish robber Brendan in prison. After helping a breakout, he joins Brendan's gang in a gold heist.",
+        "directors": [
+            "Julius Avery"
+        ],
+        "leads": [
+            "Ewan McGregor",
+            "Brenton Thwaites",
+            "Alicia Vikander"
+        ],
+        "music": [
+            "Jed Kurzel"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "The Wedding Ringer (2015)": {
@@ -103239,6 +103447,27 @@ var movieMap = {
             "Animated"
         ]
     },
+    "Dark Places (2015)": {
+        "title": "Dark Places",
+        "year": "2015",
+        "synopsis": "In Kansas, 8-year-old Libby finds her mother and sisters murdered, apparently by her brother Ben. 30 years later, she revisits the killings with a club.",
+        "directors": [
+            "Gilles Paquet-Brenner"
+        ],
+        "leads": [
+            "Charlize Theron",
+            "Nicholas Hoult",
+            "Chlo\u00eb Grace Moretz"
+        ],
+        "music": [
+            "BT",
+            "Gregory Tripi"
+        ],
+        "categories": [
+            "2010s",
+            "Charlize Theron"
+        ]
+    },
     "Fantastic Four (2015)": {
         "title": "Fantastic Four",
         "year": "2015",
@@ -104066,6 +104295,25 @@ var movieMap = {
             "2010s",
             "Bill Murray",
             "Bruce Willis"
+        ]
+    },
+    "The Last Witch Hunter (2015)": {
+        "title": "The Last Witch Hunter",
+        "year": "2015",
+        "synopsis": "Immortal hunter Kaulder must stop a witch plague from ravaging the entire world. He teams up with bar owner Chloe and the new 37th Dolan to fight.",
+        "directors": [
+            "Breck Eisner"
+        ],
+        "leads": [
+            "Vin Diesel",
+            "Elijah Wood",
+            "Rose Leslie"
+        ],
+        "music": [
+            "Steve Jablonsky"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Burnt (2015)": {
@@ -105113,6 +105361,26 @@ var movieMap = {
             "Horror/Thriller"
         ]
     },
+    "Regression (2016)": {
+        "title": "Regression",
+        "year": "2016",
+        "synopsis": "In 1990 Minnesota, detective Bruce and professor Kenneth uncover evidence of a satanic cult while investigating 17-year-old Angela's terrifying past.",
+        "directors": [
+            "Alejandro Amen\u00e1bar"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Emma Watson",
+            "David Thewlis"
+        ],
+        "music": [
+            "Roque Ba\u00f1os"
+        ],
+        "categories": [
+            "2010s",
+            "Emmas"
+        ]
+    },
     "Deadpool (2016)": {
         "title": "Deadpool",
         "year": "2016",
@@ -105487,6 +105755,25 @@ var movieMap = {
         "categories": [
             "2010s",
             "Queen Latifah"
+        ]
+    },
+    "Krisha (2016)": {
+        "title": "Krisha",
+        "year": "2016",
+        "synopsis": "A woman in her sixties with a history of addiction tells her relatives she is sober and desires to visit for Thanksgiving after one decade. She relapses.",
+        "directors": [
+            "Trey Edward Shults"
+        ],
+        "leads": [
+            "Krisha Fairchild",
+            "Robyn Fairchild",
+            "Bill Wise"
+        ],
+        "music": [
+            "Brian McOmber"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Midnight Special (2016)": {
@@ -119517,6 +119804,26 @@ var movieMap = {
             "Streaming"
         ]
     },
+    "Dora and the Lost City of Gold (2019)": {
+        "title": "Dora and the Lost City of Gold",
+        "year": "2019",
+        "synopsis": "16-year-old daughter of jungle explorers Dora has to stay in L.A. As she adjusts to her first school, a mercenary team capture and bring them to Peru.",
+        "directors": [
+            "James Bobin"
+        ],
+        "leads": [
+            "Isabela Moner",
+            "Eugenio Derbez",
+            "Michael Pe\u00f1a"
+        ],
+        "music": [
+            "John Debney",
+            "Germaine Franco"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "Scary Stories to Tell in the Dark (2019)": {
         "title": "Scary Stories to Tell in the Dark",
         "year": "2019",
@@ -119543,7 +119850,7 @@ var movieMap = {
     "The Kitchen (2019)": {
         "title": "The Kitchen",
         "year": "2019",
-        "synopsis": "In 1978, the wives of Hell's Kitchen gangsters continue to operate their Irish husbands' rackets after they are locked up in prison by the FBI.",
+        "synopsis": "In 1978 New York, Kathy, Ruby, and Claire, wives of Irish mobsters, take over when the FBI arrests their husbands. Chaos and betrayals soon occur.",
         "directors": [
             "Andrea Berloff"
         ],
@@ -128331,8 +128638,93 @@ var movieMap = {
         ],
         "categories": [
             "2020s",
+            "Barrymore Family",
             "Horror",
             "Horror/Thriller"
+        ]
+    },
+    "Sex Appeal (2022)": {
+        "title": "Sex Appeal",
+        "year": "2022",
+        "synopsis": "When her long-distance boyfriend wants to bring their relationship to the next level during a STEM conference, Avery studies love with friend Larson.",
+        "directors": [
+            "Talia Osteen"
+        ],
+        "leads": [
+            "Mika Abdalla",
+            "Jake Short",
+            "Margaret Cho"
+        ],
+        "music": [
+            "Jeffrey Brodsky"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
+        ]
+    },
+    "The Fallout (2022)": {
+        "title": "The Fallout",
+        "year": "2022",
+        "synopsis": "Vada witnesses a high school shooting. While she processes trauma and withdrawal, she connects with two other survivors: Quinton and dancer Mia.",
+        "directors": [
+            "Megan Park"
+        ],
+        "leads": [
+            "Jenna Ortega",
+            "Maddie Ziegler",
+            "Julie Bowen"
+        ],
+        "music": [
+            "Finneas O'Connell"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
+        ]
+    },
+    "Home Team (2022)": {
+        "title": "Home Team",
+        "year": "2022",
+        "synopsis": "In 2012, after New Orleans Saints coach Sean is suspended for a scandal, he begins teaching and mentoring his son's middle school football team.",
+        "directors": [
+            "Charles Kinnane",
+            "Daniel Kinnane"
+        ],
+        "leads": [
+            "Kevin James",
+            "Taylor Lautner",
+            "Rob Schneider"
+        ],
+        "music": [
+            "Rupert Gregson-Williams"
+        ],
+        "categories": [
+            "2020s",
+            "Happy Madison & Adam Sandler",
+            "Streaming"
+        ]
+    },
+    "The Ice Age Adventures of Buck Wild (2022)": {
+        "title": "The Ice Age Adventures of Buck Wild",
+        "year": "2022",
+        "synopsis": "Opossum brothers Crash and Eddie stumble into the Lost World. They join Buck and zorilla Zee in their fight with brilliant, evil Protoceratops Orson.",
+        "directors": [
+            "John C. Donkin"
+        ],
+        "leads": [
+            "Simon Pegg",
+            "Utkarsh Ambudkar",
+            "Justina Machado"
+        ],
+        "music": [
+            "Batu Sener"
+        ],
+        "categories": [
+            "2020s",
+            "Animated",
+            "Cornetto Trio",
+            "Streaming"
         ]
     },
     "Moonfall (2022)": {
@@ -128353,7 +128745,29 @@ var movieMap = {
         ],
         "categories": [
             "2020s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Halle Berry"
+        ]
+    },
+    "Kimi (2022)": {
+        "title": "Kimi",
+        "year": "2022",
+        "synopsis": "In Seattle, Amygdala employee Angela observes data streams from smart speakers. After she sees an assault by a CEO, men attempt to abduct her.",
+        "directors": [
+            "Steven Soderbergh"
+        ],
+        "leads": [
+            "Zo\u00eb Kravitz",
+            "Betsy Brantley",
+            "Rita Wilson"
+        ],
+        "music": [
+            "Cliff Martinez"
+        ],
+        "categories": [
+            "2020s",
+            "Steven Soderbergh",
+            "Streaming"
         ]
     },
     "Death on the Nile (2022)": {
@@ -128375,6 +128789,46 @@ var movieMap = {
             "2020s",
             "Crime",
             "Mystery"
+        ]
+    },
+    "The Sky Is Everywhere (2022)": {
+        "title": "The Sky Is Everywhere",
+        "year": "2022",
+        "synopsis": "Teenage music prodigy Lennie grieves the death of her sister Bailey. She is caught between Toby, a new student, and her sister's sad boyfriend Joe.",
+        "directors": [
+            "Josephine Decker"
+        ],
+        "leads": [
+            "Grace Kaufman",
+            "Jason Segel",
+            "Cherry Jones"
+        ],
+        "music": [
+            "Caroline Shaw"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
+        ]
+    },
+    "Texas Chainsaw Massacre (2022)": {
+        "title": "Texas Chainsaw Massacre",
+        "year": "2022",
+        "synopsis": "Sisters Melody and Lila travel to abandoned town Harlow to auction off old properties. An accident that leaves a friend dead unleashes Leatherface.",
+        "directors": [
+            "David Blue Garcia"
+        ],
+        "leads": [
+            "Sarah Yarkin",
+            "Elsie Fisher",
+            "Mark Burnham"
+        ],
+        "music": [
+            "Colin Stetson"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
         ]
     },
     "Uncharted (2022)": {
@@ -128404,6 +128858,226 @@ var movieMap = {
             "Sophia Ali",
             "Tati Gabrielle",
             "Tom Holland"
+        ]
+    },
+    "A Madea Homecoming (2022)": {
+        "title": "A Madea Homecoming",
+        "year": "2022",
+        "synopsis": "In Atlanta, Madea partakes in her great-grandson Tim's college graduation party. Family secrets are revealed. Much drama erupts. Irish Agnes comes.",
+        "directors": [
+            "Tyler Perry"
+        ],
+        "leads": [
+            "Tyler Perry",
+            "Cassi Davis-Patton",
+            "David Mann"
+        ],
+        "music": [
+            "Philip White"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming",
+            "Tyler Perry"
+        ]
+    },
+    "After Yang (2022)": {
+        "title": "After Yang",
+        "year": "2022",
+        "synopsis": "When Jake and Kyra's adopted robotic son Yang breaks down, Jake attempts to repair him. During his mission, he learns about Yang's previous life.",
+        "directors": [
+            "Kogonada"
+        ],
+        "leads": [
+            "Colin Farrell",
+            "Jodie Turner-Smith",
+            "Justin H. Min"
+        ],
+        "music": [
+            "Aska Matsumiya",
+            "Ryuichi Sakamoto"
+        ],
+        "categories": [
+            "2020s"
+        ]
+    },
+    "Fresh (2022)": {
+        "title": "Fresh",
+        "year": "2022",
+        "synopsis": "Noa begins a relationship with Steve, who invites her to a rich home. She wakes up in captivity and learns he is a butcher who harvests human meat.",
+        "directors": [
+            "Mimi Cave"
+        ],
+        "leads": [
+            "Daisy Edgar-Jones",
+            "Sebastian Stan",
+            "Jonica T. Gibbs"
+        ],
+        "music": [
+            "Alex Somers"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
+        ]
+    },
+    "The Batman (2022)": {
+        "title": "The Batman",
+        "year": "2022",
+        "synopsis": "When the Riddler, a serial killer, begins murdering key political figures in Gotham, Bruce investigates corruption and his family with Selena and Gordon.",
+        "directors": [
+            "Matt Reeves"
+        ],
+        "leads": [
+            "Robert Pattinson",
+            "Zo\u00eb Kravitz",
+            "Paul Dano"
+        ],
+        "music": [
+            "Michael Giacchino"
+        ],
+        "categories": [
+            "2020s",
+            "Batman",
+            "Comic Book",
+            "DC"
+        ],
+        "cast": [
+            "Andy Serkis",
+            "Barry Keoghan",
+            "Colin Farrell",
+            "Jeffrey Wright",
+            "John Turturro",
+            "Paul Dano",
+            "Peter Sarsgaard",
+            "Robert Pattinson",
+            "Zo\u00eb Kravitz"
+        ]
+    },
+    "The Adam Project (2022)": {
+        "title": "The Adam Project",
+        "year": "2022",
+        "synopsis": "As 12-year-old Adam grieves his father Louis and grows distant from his mother Ellie, his future self from 2050 arrives to save his wife. The two meet.",
+        "directors": [
+            "Shawn Levy"
+        ],
+        "leads": [
+            "Ryan Reynolds",
+            "Walker Scobell",
+            "Mark Ruffalo"
+        ],
+        "music": [
+            "Rob Simonsen"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
+        ]
+    },
+    "Turning Red (2022)": {
+        "title": "Turning Red",
+        "year": "2022",
+        "synopsis": "In 2002 Toronto, 13-year-old Meilin learns she will become a big red panda when she is excited. She handles mother Ming and her band-loving friends.",
+        "directors": [
+            "Domee Shi"
+        ],
+        "leads": [
+            "Rosalie Chiang",
+            "Sandra Oh",
+            "Ava Morse"
+        ],
+        "music": [
+            "Ludwig G\u00f6ransson"
+        ],
+        "categories": [
+            "2020s",
+            "Animated",
+            "Pixar",
+            "Streaming"
+        ]
+    },
+    "X (2022)": {
+        "title": "X",
+        "year": "2022",
+        "synopsis": "In 1979 Texas, pornographic actress Maxine and a young team prepare to shoot an adult film. They stay on the farm of Howard and Pearl, old killers.",
+        "directors": [
+            "Ti West"
+        ],
+        "leads": [
+            "Mia Goth",
+            "Jenna Ortega",
+            "Martin Henderson"
+        ],
+        "music": [
+            "Tyler Bates",
+            "Chelsea Wolfe"
+        ],
+        "categories": [
+            "2020s",
+            "Horror",
+            "Horror/Thriller"
+        ]
+    },
+    "Everything Everywhere All at Once (2022)": {
+        "title": "Everything Everywhere All at Once",
+        "year": "2022",
+        "synopsis": "Chinese immigrant Evelyn connects with parallel universe versions of herself to stop her splintered daughter Joy from wrecking the entire multiverse.",
+        "directors": [
+            "Dan Kwan",
+            "Daniel Scheinert"
+        ],
+        "leads": [
+            "Michelle Yeoh",
+            "Stephanie Hsu",
+            "Ke Huy Quan"
+        ],
+        "music": [
+            "Son Lux"
+        ],
+        "categories": [
+            "2020s",
+            "Jamie Lee Curtis"
+        ]
+    },
+    "The Lost City (2022)": {
+        "title": "The Lost City",
+        "year": "2022",
+        "synopsis": "Lonely romance novelist Loretta is on a book tour with her cover model Alan when she is swept up in a kidnapping attempt that lands them in trouble.",
+        "directors": [
+            "Adam Nee",
+            "Aaron Nee"
+        ],
+        "leads": [
+            "Sandra Bullock",
+            "Channing Tatum",
+            "Daniel Radcliffe"
+        ],
+        "music": [
+            "Pinar Toprak"
+        ],
+        "categories": [
+            "2020s",
+            "Brad Pitt & George Clooney"
+        ]
+    },
+    "Moonshot (2022)": {
+        "title": "Moonshot",
+        "year": "2022",
+        "synopsis": "In 2049, space-obsessed barista Walt convinces Sophie, who wants to rejoin her boyfriend, to help him sneak onto a Mars shuttle. They grow closer.",
+        "directors": [
+            "Chris Winterbauer"
+        ],
+        "leads": [
+            "Cole Sprouse",
+            "Lana Condor",
+            "Mason Gooding"
+        ],
+        "music": [
+            "David Boman"
+        ],
+        "categories": [
+            "2020s",
+            "Streaming"
         ]
     }
 }

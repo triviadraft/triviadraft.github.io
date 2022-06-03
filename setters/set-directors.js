@@ -5115,6 +5115,10 @@ var directorMap = {
         {
             "movie": "War for the Planet of the Apes",
             "year": "2017"
+        },
+        {
+            "movie": "The Batman",
+            "year": "2022"
         }
     ],
     "McG": [
@@ -5137,6 +5141,10 @@ var directorMap = {
         {
             "movie": "This Means War",
             "year": "2012"
+        },
+        {
+            "movie": "3 Days to Kill",
+            "year": "2014"
         },
         {
             "movie": "The Babysitter",
@@ -5365,6 +5373,10 @@ var directorMap = {
         {
             "movie": "Heartburn",
             "year": "1986"
+        },
+        {
+            "movie": "Biloxi Blues",
+            "year": "1988"
         },
         {
             "movie": "Working Girl",
@@ -7399,6 +7411,10 @@ var directorMap = {
         {
             "movie": "Free Guy",
             "year": "2021"
+        },
+        {
+            "movie": "The Adam Project",
+            "year": "2022"
         }
     ],
     "Sidney Lumet": [
@@ -7745,6 +7761,10 @@ var directorMap = {
             "year": "2012"
         },
         {
+            "movie": "Side Effects",
+            "year": "2013"
+        },
+        {
             "movie": "Logan Lucky",
             "year": "2017"
         },
@@ -7767,6 +7787,10 @@ var directorMap = {
         {
             "movie": "No Sudden Move",
             "year": "2021"
+        },
+        {
+            "movie": "Kimi",
+            "year": "2022"
         }
     ],
     "Steven Spielberg": [
@@ -8501,6 +8525,14 @@ var directorMap = {
         {
             "movie": "A Madea Family Funeral",
             "year": "2019"
+        },
+        {
+            "movie": "A Fall from Grace",
+            "year": "2020"
+        },
+        {
+            "movie": "A Madea Homecoming",
+            "year": "2022"
         }
     ],
     "Victor Fleming": [

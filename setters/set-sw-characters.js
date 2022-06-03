@@ -5,6 +5,12 @@ var swCharacterMap = {
         "species": "2-1B-series medical droid",
         "actor": "Denny Delk (voice)"
     },
+    "3B6-RA-7": {
+        "name": "3B6-RA-7",
+        "homeworld": "",
+        "species": "RA-7 protocol droid",
+        "actor": ""
+    },
     "4-A7": {
         "name": "4-A7",
         "homeworld": "",
@@ -1619,6 +1625,12 @@ var swCharacterMap = {
         "species": "RA-7 protocol droid",
         "actor": "Nathan Plant"
     },
+    "Koo Millham": {
+        "name": "Koo Millham",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Chelsea Hamill"
+    },
     "Korr Sella": {
         "name": "Korr Sella",
         "homeworld": "Hosnian Prime",
@@ -1780,6 +1792,12 @@ var swCharacterMap = {
         "homeworld": "Ryloth",
         "species": "Twi'lek",
         "actor": "Katie Lucas"
+    },
+    "Lyn Me": {
+        "name": "Lyn Me",
+        "homeworld": "Ryloth",
+        "species": "Twi'lek",
+        "actor": "Dalyn Chew (VI - special)"
     },
     "Lyra Erso": {
         "name": "Lyra Erso",
@@ -2615,11 +2633,23 @@ var swCharacterMap = {
         "species": "",
         "actor": ""
     },
+    "Saile Minnau": {
+        "name": "Saile Minnau",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Nathan Hamill"
+    },
     "Salacious B. Crumb": {
         "name": "Salacious B. Crumb",
         "homeworld": "Kowak",
         "species": "Kowakian monkey-lizard",
         "actor": "Mark Dodson (voice), Tim Rose (puppet)"
+    },
+    "Salaka Kuchimba": {
+        "name": "Salaka Kuchimba",
+        "homeworld": "",
+        "species": "Human",
+        "actor": "Griffin Hamill"
     },
     "Saucer Head": {
         "name": "Saucer Head",
@@ -2799,6 +2829,12 @@ var swCharacterMap = {
         "name": "Sun'il Ei'de",
         "homeworld": "Bith",
         "species": "Bith",
+        "actor": ""
+    },
+    "Sweitt Concorkill": {
+        "name": "Sweitt Concorkill",
+        "homeworld": "",
+        "species": "Vurk",
         "actor": ""
     },
     "Swilla Corey": {

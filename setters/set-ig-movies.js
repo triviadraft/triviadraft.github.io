@@ -8164,6 +8164,152 @@ var igMovieMap = {
             }
         ]
     },
+    "The Batman (2022)": {
+        "title": "The Batman",
+        "year": "2022",
+        "categories": [
+            "Batman",
+            "Comic Book",
+            "DC"
+        ],
+        "franchise": "Batman",
+        "taglines": [
+            "Unmask The Truth"
+        ],
+        "mainCast": [
+            {
+                "actor": "Robert Pattinson",
+                "name": "Bruce Wayne / Batman",
+                "description": "eclusive billionaire who obsessively protects Gotham City as a masked vigilante to cope with his traumatic past"
+            },
+            {
+                "actor": "Zo\u00eb Kravitz",
+                "name": "Selina Kyle / Catwoman",
+                "description": "nightclub waitress, drug dealer, and cat burglar who meets Batman while searching for her missing roommate"
+            },
+            {
+                "actor": "Paul Dano",
+                "name": "Edward Nashton / the Riddler",
+                "description": "forensic accountant who is inspired by Batman to become a serial killer who targets elite Gotham citizens and livestreams his crimes"
+            },
+            {
+                "actor": "Jeffrey Wright",
+                "name": "James Gordon",
+                "description": "ally of Batman in the Gotham City Police Department (GCPD) and the only officer whom Batman trusts"
+            },
+            {
+                "actor": "John Turturro",
+                "name": "Carmine Falcone",
+                "description": "Gotham crime lord and Selina's father"
+            },
+            {
+                "actor": "Peter Sarsgaard",
+                "name": "Gil Colson",
+                "description": "Gotham's district attorney"
+            },
+            {
+                "actor": "Andy Serkis",
+                "name": "Alfred Pennyworth",
+                "description": "Batman's butler and mentor, though they have a strained relationship and rarely speak"
+            },
+            {
+                "actor": "Colin Farrell",
+                "name": "Oswald \"Oz\" Cobblepot / Penguin",
+                "description": "Falcone's chief lieutenant who operates the Iceberg Lounge, the nightclub where Selina works"
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Oscar Novak",
+                "name": "young Bruce Wayne",
+                "description": ""
+            },
+            {
+                "actor": "Joseph Walker",
+                "name": "young Edward Nashton",
+                "description": ""
+            },
+            {
+                "actor": "Gil Perez-Abraham",
+                "name": "Martinez",
+                "description": "GCPD officer"
+            },
+            {
+                "actor": "Peter McDonald",
+                "name": "William Kenzie",
+                "description": "corrupt GCPD officer"
+            },
+            {
+                "actor": "Alex Ferns",
+                "name": "Pete Savage",
+                "description": "GCPD commissioner"
+            },
+            {
+                "actor": "Con O'Neill",
+                "name": "Mackenzie Bock",
+                "description": "GCPD chief"
+            },
+            {
+                "actor": "Charlie Carver",
+                "name": "twin Iceberg Lounge bouncer",
+                "description": ""
+            },
+            {
+                "actor": "Max Carver",
+                "name": "twin Iceberg Lounge bouncer",
+                "description": ""
+            },
+            {
+                "actor": "Hana Hrzic",
+                "name": "Annika Koslov",
+                "description": "Selina's roommate"
+            },
+            {
+                "actor": "Jay Lycurgo",
+                "name": "young gang member",
+                "description": ""
+            },
+            {
+                "actor": "Stella Stocker",
+                "name": "Martha Wayne",
+                "description": "Bruce's mother"
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Jayme Lawson",
+                "name": "Bella Re\u00e1l",
+                "description": "mayoral candidate for Gotham City"
+            },
+            {
+                "actor": "Rupert Penry-Jones",
+                "name": "Don Mitchell Jr.",
+                "description": "Gotham's mayor"
+            },
+            {
+                "actor": "Barry Keoghan",
+                "name": "the Joker",
+                "description": ""
+            },
+            {
+                "actor": "Sandra Dickinson",
+                "name": "Dory",
+                "description": "Bruce's caretaker and housekeeper"
+            },
+            {
+                "actor": "Luke Roberts",
+                "name": "Thomas Wayne",
+                "description": "Bruce's father"
+            }
+        ],
+        "Cast": [
+            {
+                "actor": "Akie Kotabe",
+                "name": "train passenger",
+                "description": ""
+            }
+        ]
+    },
     "The Lord of the Rings (1978)": {
         "title": "The Lord of the Rings",
         "year": "1978",
@@ -8419,6 +8565,11 @@ var igMovieMap = {
                 "description": ""
             },
             {
+                "actor": "Sandra Dickinson",
+                "name": "Pretty Young Lady",
+                "description": ""
+            },
+            {
                 "actor": "Matt Frewer",
                 "name": "Eddie",
                 "description": ""
@@ -8438,11 +8589,6 @@ var igMovieMap = {
             {
                 "actor": "David Healy",
                 "name": "Mr. Danvers",
-                "description": ""
-            },
-            {
-                "actor": "Sandra Dickinson",
-                "name": "Pretty Young Lady",
                 "description": ""
             },
             {

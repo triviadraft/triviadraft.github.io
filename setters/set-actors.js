@@ -1081,7 +1081,8 @@ var actorMap = {
             "Black Panther (2018)",
             "Mowgli: Legend of the Jungle (2018)",
             "Long Shot (2019)",
-            "Star Wars: The Rise of Skywalker (2019)"
+            "Star Wars: The Rise of Skywalker (2019)",
+            "The Batman (2022)"
         ]
     },
     "Ang Lee": {
@@ -1628,6 +1629,7 @@ var actorMap = {
             "Conan the Destroyer (1984)",
             "The Terminator (1984)",
             "Predator (1987)",
+            "The Running Man (1987)",
             "Twins (1988)",
             "Terminator 2: Judgment Day (1991)",
             "Last Action Hero (1993)",
@@ -1853,7 +1855,8 @@ var actorMap = {
     },
     "Barry Keoghan": {
         "movies": [
-            "Eternals (2021)"
+            "Eternals (2021)",
+            "The Batman (2022)"
         ]
     },
     "Barry Levinson": {
@@ -4471,7 +4474,8 @@ var actorMap = {
             "Alexander (2004)",
             "Saving Mr. Banks (2013)",
             "Fantastic Beasts and Where to Find Them (2016)",
-            "Widows (2018)"
+            "Widows (2018)",
+            "The Batman (2022)"
         ]
     },
     "Colin Firth": {
@@ -4606,6 +4610,7 @@ var actorMap = {
     },
     "Corey Feldman": {
         "movies": [
+            "Stand by Me (1986)",
             "Teenage Mutant Ninja Turtles (1990)",
             "Teenage Mutant Ninja Turtles III (1993)"
         ]
@@ -5050,6 +5055,11 @@ var actorMap = {
             "30 Days of Night (2007)",
             "X-Men Origins: Wolverine (2009)",
             "Wonder Woman (2017)"
+        ]
+    },
+    "Danny Lloyd": {
+        "movies": [
+            "The Shining (1980)"
         ]
     },
     "Danny McBride": {
@@ -9447,6 +9457,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Shining (1980)",
             "Terms of Endearment (1983)",
             "The Witches of Eastwick (1987)",
             "Batman (1989)",
@@ -10607,6 +10618,11 @@ var actorMap = {
             "Monsters vs. Aliens (2009)"
         ]
     },
+    "Jeffrey Wright": {
+        "movies": [
+            "The Batman (2022)"
+        ]
+    },
     "Jemaine Clement": {
         "movies": [
             "Men in Black 3 (2012)",
@@ -10874,6 +10890,7 @@ var actorMap = {
     },
     "Jerry O'Connell": {
         "movies": [
+            "Stand by Me (1986)",
             "Jerry Maguire (1996)"
         ]
     },
@@ -10928,7 +10945,8 @@ var actorMap = {
     },
     "Jesse Ventura": {
         "movies": [
-            "Predator (1987)"
+            "Predator (1987)",
+            "The Running Man (1987)"
         ]
     },
     "Jesse Williams": {
@@ -11111,6 +11129,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Cloud Atlas (2012)",
             "Dolittle (2020)"
+        ]
+    },
+    "Jim Brown": {
+        "movies": [
+            "The Running Man (1987)"
         ]
     },
     "Jim Carrey": {
@@ -11598,7 +11621,8 @@ var actorMap = {
     },
     "John Cusack": {
         "movies": [
-            "Sixteen Candles (1984)"
+            "Sixteen Candles (1984)",
+            "Stand by Me (1986)"
         ]
     },
     "John Fiedler": {
@@ -11907,7 +11931,8 @@ var actorMap = {
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
             "Transformers: Dark of the Moon (2011)",
-            "Transformers: The Last Knight (2017)"
+            "Transformers: The Last Knight (2017)",
+            "The Batman (2022)"
         ]
     },
     "John Vernon": {
@@ -13619,6 +13644,7 @@ var actorMap = {
     },
     "Kiefer Sutherland": {
         "movies": [
+            "Stand by Me (1986)",
             "A Few Good Men (1992)",
             "Monsters vs. Aliens (2009)"
         ]
@@ -13838,6 +13864,7 @@ var actorMap = {
     },
     "Kurt Fuller": {
         "movies": [
+            "The Running Man (1987)",
             "Ghostbusters II (1989)",
             "Ray (2004)"
         ]
@@ -15799,6 +15826,12 @@ var actorMap = {
             "Red 2 (2013)"
         ]
     },
+    "Mar\u00eda Conchita Alonso": {
+        "movies": [
+            "The Running Man (1987)",
+            "Predator 2 (1990)"
+        ]
+    },
     "Masi Oka": {
         "movies": [
             "Austin Powers in Goldmember (2002)"
@@ -16964,6 +16997,11 @@ var actorMap = {
     "Michiel Huisman": {
         "movies": [
             "Wild (2014)"
+        ]
+    },
+    "Mick Fleetwood": {
+        "movies": [
+            "The Running Man (1987)"
         ]
     },
     "Mick Foley": {
@@ -18337,7 +18375,8 @@ var actorMap = {
             "Knight and Day (2010)",
             "Cowboys & Aliens (2011)",
             "Prisoners (2013)",
-            "Swiss Army Man (2016)"
+            "Swiss Army Man (2016)",
+            "The Batman (2022)"
         ]
     },
     "Paul Dooley": {
@@ -18869,7 +18908,8 @@ var actorMap = {
         "movies": [
             "Knight and Day (2010)",
             "Green Lantern (2011)",
-            "Blue Jasmine (2013)"
+            "Blue Jasmine (2013)",
+            "The Batman (2022)"
         ]
     },
     "Peter Serafinowicz": {
@@ -19631,6 +19671,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Stand by Me (1986)",
             "Red (2010)",
             "Book Club (2018)",
             "Polar (2019)"
@@ -19833,6 +19874,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Stand by Me (1986)",
             "Indiana Jones and the Last Crusade (1989)"
         ]
     },
@@ -20066,7 +20108,8 @@ var actorMap = {
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
             "The Lost City of Z (2017)",
-            "The Lighthouse (2019)"
+            "The Lighthouse (2019)",
+            "The Batman (2022)"
         ]
     },
     "Robert Prosky": {
@@ -20185,6 +20228,7 @@ var actorMap = {
     "Rodger Bumpass": {
         "movies": [
             "Heavy Metal (1981)",
+            "The Running Man (1987)",
             "A Bug's Life (1998)"
         ]
     },
@@ -21095,6 +21139,7 @@ var actorMap = {
     },
     "Scatman Crothers": {
         "movies": [
+            "The Shining (1980)",
             "The Transformers: The Movie (1986)"
         ]
     },
@@ -21427,7 +21472,8 @@ var actorMap = {
     },
     "Shelley Duvall": {
         "movies": [
-            "Annie Hall (1977)"
+            "Annie Hall (1977)",
+            "The Shining (1980)"
         ]
     },
     "Shelley Long": {
@@ -23223,6 +23269,7 @@ var actorMap = {
     "Tony Burton": {
         "movies": [
             "Rocky (1976)",
+            "The Shining (1980)",
             "Armed and Dangerous (1986)"
         ]
     },
@@ -24027,6 +24074,7 @@ var actorMap = {
     },
     "Wil Wheaton": {
         "movies": [
+            "Stand by Me (1986)",
             "Star Trek: Nemesis (2002)",
             "Star Trek (2009)",
             "Teen Titans Go! To the Movies (2018)"
@@ -24412,7 +24460,8 @@ var actorMap = {
     },
     "Yaphet Kotto": {
         "movies": [
-            "Alien (1979)"
+            "Alien (1979)",
+            "The Running Man (1987)"
         ]
     },
     "Yayan Ruhian": {
@@ -24583,7 +24632,8 @@ var actorMap = {
             "X-Men: First Class (2011)",
             "The Lego Batman Movie (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)",
-            "Spider-Man: Into the Spider-Verse (2018)"
+            "Spider-Man: Into the Spider-Verse (2018)",
+            "The Batman (2022)"
         ]
     },
     "will.i.am": {
