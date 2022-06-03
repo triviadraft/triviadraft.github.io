@@ -107283,6 +107283,12 @@ var movieMap = {
             "Cusacks",
             "Samuel L. Jackson",
             "Stephen King"
+        ],
+        "cast": [
+            "Isabelle Fuhrman",
+            "John Cusack",
+            "Samuel L. Jackson",
+            "Stacy Keach"
         ]
     },
     "Mike and Dave Need Wedding Dates (2016)": {
@@ -111332,6 +111338,17 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Stephen King"
+        ],
+        "cast": [
+            "Abbey Lee",
+            "Claudia Kim",
+            "Dennis Haysbert",
+            "Fran Kranz",
+            "Idris Elba",
+            "Jackie Earle Haley",
+            "Katheryn Winnick",
+            "Matthew McConaughey",
+            "Tom Taylor"
         ]
     },
     "Wind River (2017)": {
@@ -111892,6 +111909,12 @@ var movieMap = {
             "2010s",
             "Stephen King",
             "Streaming"
+        ],
+        "cast": [
+            "Bruce Greenwood",
+            "Carel Struycken",
+            "Carla Gugino",
+            "Henry Thomas"
         ]
     },
     "Lucky (2017)": {

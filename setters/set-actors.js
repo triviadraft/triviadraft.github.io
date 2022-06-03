@@ -31,6 +31,11 @@ var actorMap = {
             "Mother's Day (2016)"
         ]
     },
+    "Abbey Lee": {
+        "movies": [
+            "The Dark Tower (2017)"
+        ]
+    },
     "Abbie Cornish": {
         "movies": [
             "RoboCop (2014)"
@@ -3065,7 +3070,8 @@ var actorMap = {
         "movies": [
             "Star Trek (2009)",
             "Star Trek Into Darkness (2013)",
-            "Kingsman: The Golden Circle (2017)"
+            "Kingsman: The Golden Circle (2017)",
+            "Gerald's Game (2017)"
         ]
     },
     "Bruce McGill": {
@@ -3313,7 +3319,8 @@ var actorMap = {
     "Carel Struycken": {
         "movies": [
             "The Witches of Eastwick (1987)",
-            "Men in Black (1997)"
+            "Men in Black (1997)",
+            "Gerald's Game (2017)"
         ]
     },
     "Carey Mulligan": {
@@ -3357,6 +3364,7 @@ var actorMap = {
             "New Year's Eve (2011)",
             "Man of Steel (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
+            "Gerald's Game (2017)",
             "Zack Snyder's Justice League (2021)"
         ]
     },
@@ -4421,6 +4429,7 @@ var actorMap = {
     "Claudia Kim": {
         "movies": [
             "Avengers: Age of Ultron (2015)",
+            "The Dark Tower (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
@@ -5650,7 +5659,8 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)",
             "Wreck-It Ralph (2012)",
             "Think Like a Man Too (2014)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "The Dark Tower (2017)"
         ]
     },
     "Dennis Hopper": {
@@ -7442,7 +7452,8 @@ var actorMap = {
     "Fran Kranz": {
         "movies": [
             "Orange County (2002)",
-            "The Cabin in the Woods (2012)"
+            "The Cabin in the Woods (2012)",
+            "The Dark Tower (2017)"
         ]
     },
     "Frances Conroy": {
@@ -8884,6 +8895,11 @@ var actorMap = {
             "Last Christmas (2019)"
         ]
     },
+    "Henry Thomas": {
+        "movies": [
+            "Gerald's Game (2017)"
+        ]
+    },
     "Henry Winkler": {
         "movies": [
             "Scream (1996)"
@@ -9175,6 +9191,7 @@ var actorMap = {
             "Zootopia (2016)",
             "The Jungle Book (2016)",
             "Star Trek Beyond (2016)",
+            "The Dark Tower (2017)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
             "The Suicide Squad (2021)"
@@ -9329,6 +9346,11 @@ var actorMap = {
     "Isabelle Allen": {
         "movies": [
             "Les Mis\u00e9rables (2012)"
+        ]
+    },
+    "Isabelle Fuhrman": {
+        "movies": [
+            "Cell (2016)"
         ]
     },
     "Isabelle Huppert": {
@@ -9683,7 +9705,8 @@ var actorMap = {
             "Losin' It (1983)",
             "Watchmen (2009)",
             "Dark Shadows (2012)",
-            "RoboCop (2014)"
+            "RoboCop (2014)",
+            "The Dark Tower (2017)"
         ]
     },
     "Jackie Gleason": {
@@ -11776,7 +11799,8 @@ var actorMap = {
         "movies": [
             "Sixteen Candles (1984)",
             "Stand by Me (1986)",
-            "1408 (2007)"
+            "1408 (2007)",
+            "Cell (2016)"
         ]
     },
     "John Fiedler": {
@@ -13299,6 +13323,7 @@ var actorMap = {
     },
     "Katheryn Winnick": {
         "movies": [
+            "The Dark Tower (2017)",
             "Polar (2019)"
         ]
     },
@@ -16180,7 +16205,8 @@ var actorMap = {
             "Dazed and Confused (1993)",
             "Amistad (1997)",
             "Sahara (2005)",
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "The Dark Tower (2017)"
         ]
     },
     "Matthew Modine": {
@@ -21166,6 +21192,7 @@ var actorMap = {
             "Kingsman: The Secret Service (2015)",
             "Avengers: Age of Ultron (2015)",
             "The Hateful Eight (2015)",
+            "Cell (2016)",
             "Avengers: Infinity War (2018)",
             "Incredibles 2 (2018)",
             "Glass (2019)",
@@ -22124,7 +22151,8 @@ var actorMap = {
     "Stacy Keach": {
         "movies": [
             "Batman: Mask of the Phantasm (1993)",
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "Cell (2016)"
         ]
     },
     "Stanley Holloway": {
@@ -23398,6 +23426,11 @@ var actorMap = {
             "Alien (1979)",
             "Top Gun (1986)",
             "Ted (2012)"
+        ]
+    },
+    "Tom Taylor": {
+        "movies": [
+            "The Dark Tower (2017)"
         ]
     },
     "Tom Waits": {
