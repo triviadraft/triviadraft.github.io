@@ -567,6 +567,11 @@ var actorMap = {
             "The Bucket List (2007)"
         ]
     },
+    "Alexa Davalos": {
+        "movies": [
+            "The Mist (2007)"
+        ]
+    },
     "Alexa PenaVega": {
         "movies": [
             "Ghosts of Mississippi (1996)",
@@ -958,7 +963,8 @@ var actorMap = {
     "Andre Braugher": {
         "movies": [
             "Primal Fear (1996)",
-            "Fantastic Four: Rise of the Silver Surfer (2007)"
+            "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "The Mist (2007)"
         ]
     },
     "Andre Holland": {
@@ -1426,6 +1432,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Ansel Elgort": {
+        "movies": [
+            "Carrie (2013)"
+        ]
+    },
     "Anthony Anderson": {
         "movies": [
             "Malibu's Most Wanted (2003)",
@@ -1503,6 +1514,11 @@ var actorMap = {
             "Noah (2014)",
             "Transformers: The Last Knight (2017)",
             "Thor: Ragnarok (2017)"
+        ]
+    },
+    "Anthony LaPaglia": {
+        "movies": [
+            "A Good Marriage (2014)"
         ]
     },
     "Anthony Mackie": {
@@ -1832,6 +1848,9 @@ var actorMap = {
                 "movie": "The Portrait of a Lady",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "Riding the Bullet (2004)"
         ]
     },
     "Barbra Streisand": {
@@ -1892,7 +1911,8 @@ var actorMap = {
     "Barry Shabaka Henley": {
         "movies": [
             "The Terminal (2004)",
-            "Collateral (2004)"
+            "Collateral (2004)",
+            "Carrie (2013)"
         ]
     },
     "Barry Sonnenfeld": {
@@ -3684,7 +3704,8 @@ var actorMap = {
     "Charles S. Dutton": {
         "movies": [
             "Alien 3 (1992)",
-            "Gothika (2003)"
+            "Gothika (2003)",
+            "Secret Window (2004)"
         ]
     },
     "Charlie Cox": {
@@ -3876,7 +3897,8 @@ var actorMap = {
             "Kick-Ass (2010)",
             "Dark Shadows (2012)",
             "Movie 43 (2013)",
-            "Kick-Ass 2 (2013)"
+            "Kick-Ass 2 (2013)",
+            "Carrie (2013)"
         ]
     },
     "Chlo\u00eb Sevigny": {
@@ -4000,6 +4022,11 @@ var actorMap = {
         "movies": [
             "Bridesmaids (2011)",
             "Thor: The Dark World (2013)"
+        ]
+    },
+    "Chris Owen": {
+        "movies": [
+            "The Mist (2007)"
         ]
     },
     "Chris Parnell": {
@@ -4417,6 +4444,7 @@ var actorMap = {
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Riding the Bullet (2004)",
             "Spider-Man 3 (2007)"
         ]
     },
@@ -4821,6 +4849,11 @@ var actorMap = {
             "The Peanut Butter Falcon (2019)"
         ]
     },
+    "Damian Lewis": {
+        "movies": [
+            "Dreamcatcher (2003)"
+        ]
+    },
     "Damon Wayans": {
         "movies": [
             "Last Action Hero (1993)"
@@ -5211,6 +5244,7 @@ var actorMap = {
     "David Arquette": {
         "movies": [
             "Scream (1996)",
+            "Riding the Bullet (2004)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -6077,6 +6111,11 @@ var actorMap = {
             "Spider-Man 2 (2004)"
         ]
     },
+    "Donnie Wahlberg": {
+        "movies": [
+            "Dreamcatcher (2003)"
+        ]
+    },
     "Donnie Yen": {
         "movies": [
             "Blade II (2002)",
@@ -6154,6 +6193,7 @@ var actorMap = {
         "movies": [
             "Batman Forever (1995)",
             "Scream (1996)",
+            "Fever Pitch (2005)",
             "He's Just Not That into You (2009)"
         ]
     },
@@ -7649,6 +7689,7 @@ var actorMap = {
     "Gabriella Wilde": {
         "movies": [
             "The Three Musketeers (2011)",
+            "Carrie (2013)",
             "Wonder Woman 1984 (2020)"
         ]
     },
@@ -8319,7 +8360,8 @@ var actorMap = {
             "As Good as It Gets (1997)",
             "Mystery Men (1999)",
             "Robots (2005)",
-            "Movie 43 (2013)"
+            "Movie 43 (2013)",
+            "Stuck in Love (2013)"
         ]
     },
     "Gregory Hines": {
@@ -9219,6 +9261,12 @@ var actorMap = {
             "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
+    "Ione Skye": {
+        "movies": [
+            "Fever Pitch (2005)",
+            "Zodiac (2007)"
+        ]
+    },
     "Irene Bedard": {
         "movies": [
             "Ralph Breaks the Internet (2018)"
@@ -9299,6 +9347,11 @@ var actorMap = {
     "Isaiah Mustafa": {
         "movies": [
             "It Chapter Two (2019)"
+        ]
+    },
+    "Isiah Whitlock Jr.": {
+        "movies": [
+            "1408 (2007)"
         ]
     },
     "Isla Fisher": {
@@ -10377,6 +10430,7 @@ var actorMap = {
             "Dogma (1999)",
             "Almost Famous (2000)",
             "Vanilla Sky (2001)",
+            "Dreamcatcher (2003)",
             "The Incredibles (2004)"
         ]
     },
@@ -10751,6 +10805,7 @@ var actorMap = {
             "Hulk (2003)",
             "Inkheart (2009)",
             "He's Just Not That into You (2009)",
+            "Stuck in Love (2013)",
             "Noah (2014)",
             "Spider-Man: Homecoming (2017)"
         ]
@@ -11287,7 +11342,8 @@ var actorMap = {
     },
     "Jimmy Fallon": {
         "movies": [
-            "Almost Famous (2000)"
+            "Almost Famous (2000)",
+            "Fever Pitch (2005)"
         ]
     },
     "Jimmy Kimmel": {
@@ -11305,6 +11361,11 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "JoBeth Williams": {
+        "movies": [
+            "Fever Pitch (2005)"
         ]
     },
     "JoJo": {
@@ -11328,6 +11389,9 @@ var actorMap = {
                 "movie": "The Crucible",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "A Good Marriage (2014)"
         ]
     },
     "Joan Bennett": {
@@ -11711,7 +11775,8 @@ var actorMap = {
     "John Cusack": {
         "movies": [
             "Sixteen Candles (1984)",
-            "Stand by Me (1986)"
+            "Stand by Me (1986)",
+            "1408 (2007)"
         ]
     },
     "John Fiedler": {
@@ -12017,6 +12082,7 @@ var actorMap = {
         "movies": [
             "The Color of Money (1986)",
             "Jungle Fever (1991)",
+            "Secret Window (2004)",
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
             "Transformers: Dark of the Moon (2011)",
@@ -12071,6 +12137,7 @@ var actorMap = {
             "Blow (2001)",
             "From Hell (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "Secret Window (2004)",
             "Corpse Bride (2005)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
@@ -12268,6 +12335,11 @@ var actorMap = {
         "movies": [
             "Jumanji (1995)",
             "The Tailor of Panama (2001)"
+        ]
+    },
+    "Jonathan Jackson": {
+        "movies": [
+            "Riding the Bullet (2004)"
         ]
     },
     "Jonathan Lipnicki": {
@@ -12589,6 +12661,7 @@ var actorMap = {
         "movies": [
             "13 Going on 30 (2004)",
             "Elizabethtown (2005)",
+            "Carrie (2013)",
             "Dawn of the Planet of the Apes (2014)",
             "Jurassic World (2015)",
             "Ant-Man (2015)",
@@ -12711,6 +12784,7 @@ var actorMap = {
             "Psycho (1998)",
             "Magnolia (1999)",
             "The Hours (2002)",
+            "Carrie (2013)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -12940,7 +13014,8 @@ var actorMap = {
     "KaDee Strickland": {
         "movies": [
             "Girl, Interrupted (1999)",
-            "Something's Gotta Give (2003)"
+            "Something's Gotta Give (2003)",
+            "Fever Pitch (2005)"
         ]
     },
     "Kal Penn": {
@@ -13892,6 +13967,7 @@ var actorMap = {
             "Couples Retreat (2009)",
             "You Again (2010)",
             "Movie 43 (2013)",
+            "Stuck in Love (2013)",
             "Zootopia (2016)",
             "Teen Titans Go! To the Movies (2018)",
             "Ralph Breaks the Internet (2018)"
@@ -13899,7 +13975,8 @@ var actorMap = {
     },
     "Kristen Connolly": {
         "movies": [
-            "The Cabin in the Woods (2012)"
+            "The Cabin in the Woods (2012)",
+            "A Good Marriage (2014)"
         ]
     },
     "Kristen Schaal": {
@@ -14269,7 +14346,8 @@ var actorMap = {
     },
     "Laurie Holden": {
         "movies": [
-            "Fantastic Four (2005)"
+            "Fantastic Four (2005)",
+            "The Mist (2007)"
         ]
     },
     "Laurie Metcalf": {
@@ -14650,7 +14728,8 @@ var actorMap = {
     },
     "Lily Collins": {
         "movies": [
-            "Priest (2011)"
+            "Priest (2011)",
+            "Stuck in Love (2013)"
         ]
     },
     "Lily James": {
@@ -14800,6 +14879,7 @@ var actorMap = {
         "movies": [
             "The Three Musketeers (2011)",
             "The Perks of Being a Wallflower (2012)",
+            "Stuck in Love (2013)",
             "Noah (2014)"
         ]
     },
@@ -15331,7 +15411,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The First Wives Club (1996)"
+            "The First Wives Club (1996)",
+            "The Mist (2007)"
         ]
     },
     "Marcus Chong": {
@@ -15396,6 +15477,7 @@ var actorMap = {
     },
     "Maria Bello": {
         "movies": [
+            "Secret Window (2004)",
             "A History of Violence (2005)",
             "Prisoners (2013)"
         ]
@@ -15897,6 +15979,11 @@ var actorMap = {
             "Sweet Home Alabama (2002)"
         ]
     },
+    "Mary McCormack": {
+        "movies": [
+            "1408 (2007)"
+        ]
+    },
     "Mary McDonnell": {
         "leadNoms": [
             {
@@ -15990,11 +16077,6 @@ var actorMap = {
         "movies": [
             "The Outsiders (1983)",
             "Crash (2005)"
-        ]
-    },
-    "Matt Frewer": {
-        "movies": [
-            "Supergirl (1984)"
         ]
     },
     "Matt Lanter": {
@@ -16346,6 +16428,11 @@ var actorMap = {
         "movies": [
             "Oblivion (2013)",
             "Prisoners (2013)"
+        ]
+    },
+    "Melissa McBride": {
+        "movies": [
+            "The Mist (2007)"
         ]
     },
     "Melissa McCarthy": {
@@ -17434,6 +17521,7 @@ var actorMap = {
             "Robin Hood: Prince of Thieves (1991)",
             "The Shawshank Redemption (1994)",
             "Amistad (1997)",
+            "Dreamcatcher (2003)",
             "Batman Begins (2005)",
             "War of the Worlds (2005)",
             "The Bucket List (2007)",
@@ -17567,7 +17655,8 @@ var actorMap = {
     },
     "Nat Wolff": {
         "movies": [
-            "New Year's Eve (2011)"
+            "New Year's Eve (2011)",
+            "Stuck in Love (2013)"
         ]
     },
     "Natalia Reyes": {
@@ -17658,6 +17747,11 @@ var actorMap = {
             "Saving Private Ryan (1998)",
             "Guardians of the Galaxy (2014)",
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Nathan Gamble": {
+        "movies": [
+            "The Mist (2007)"
         ]
     },
     "Nathan Jones": {
@@ -19168,6 +19262,11 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Portia Doubleday": {
+        "movies": [
+            "Carrie (2013)"
         ]
     },
     "Post Malone": {
@@ -20989,6 +21088,7 @@ var actorMap = {
     },
     "Sam Witwer": {
         "movies": [
+            "The Mist (2007)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -21053,6 +21153,7 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Incredibles (2004)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "1408 (2007)",
             "Iron Man (2008)",
             "Star Wars: The Clone Wars (2008)",
             "The Spirit (2008)",
@@ -21788,6 +21889,7 @@ var actorMap = {
         "movies": [
             "Forrest Gump (1994)",
             "Men in Black (1997)",
+            "Fever Pitch (2005)",
             "We Need to Talk About Kevin (2011)"
         ]
     },
@@ -21942,6 +22044,11 @@ var actorMap = {
         "movies": [
             "X-Men: Apocalypse (2016)",
             "Dark Phoenix (2019)"
+        ]
+    },
+    "Spencer Breslin": {
+        "movies": [
+            "Stuck in Love (2013)"
         ]
     },
     "Spencer Fox": {
@@ -22146,6 +22253,8 @@ var actorMap = {
     },
     "Stephen King": {
         "movies": [
+            "Fever Pitch (2005)",
+            "Stuck in Love (2013)",
             "It Chapter Two (2019)"
         ]
     },
@@ -22153,6 +22262,7 @@ var actorMap = {
         "movies": [
             "Avatar (2009)",
             "Conan the Barbarian (2011)",
+            "A Good Marriage (2014)",
             "The Lost City (2022)"
         ]
     },
@@ -22738,7 +22848,9 @@ var actorMap = {
         "movies": [
             "The Crow: City of Angels (1996)",
             "Magnolia (1999)",
+            "Dreamcatcher (2003)",
             "The Punisher (2004)",
+            "The Mist (2007)",
             "Scott Pilgrim vs. the World (2010)",
             "The Predator (2018)"
         ]
@@ -22925,12 +23037,14 @@ var actorMap = {
         "movies": [
             "Taps (1981)",
             "The Dark Half (1993)",
+            "Secret Window (2004)",
             "Last Holiday (2006)"
         ]
     },
     "Timothy Olyphant": {
         "movies": [
             "The First Wives Club (1996)",
+            "Dreamcatcher (2003)",
             "This Is Where I Leave You (2014)",
             "Mother's Day (2016)",
             "Missing Link (2019)"
@@ -23009,6 +23123,7 @@ var actorMap = {
     "Toby Jones": {
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
+            "The Mist (2007)",
             "Captain America: The First Avenger (2011)",
             "My Week with Marilyn (2011)",
             "The Adventures of Tintin (2011)",
@@ -23274,7 +23389,8 @@ var actorMap = {
             "Born on the Fourth of July (1989)",
             "True Romance (1993)",
             "Saving Private Ryan (1998)",
-            "Black Hawk Down (2001)"
+            "Black Hawk Down (2001)",
+            "Dreamcatcher (2003)"
         ]
     },
     "Tom Skerritt": {
@@ -23465,6 +23581,7 @@ var actorMap = {
             "Men in Black (1997)",
             "Galaxy Quest (1999)",
             "Men in Black II (2002)",
+            "1408 (2007)",
             "How Do You Know (2010)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
@@ -24428,6 +24545,7 @@ var actorMap = {
         "movies": [
             "The Shawshank Redemption (1994)",
             "The Green Mile (1999)",
+            "The Mist (2007)",
             "Iron Man 3 (2013)"
         ]
     },

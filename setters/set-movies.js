@@ -22329,7 +22329,6 @@ var movieMap = {
         "cast": [
             "Faye Dunaway",
             "Helen Slater",
-            "Matt Frewer",
             "Mia Farrow",
             "Peter O'Toole"
         ]
@@ -63349,6 +63348,15 @@ var movieMap = {
             "Horror/Thriller",
             "Morgan Freeman",
             "Stephen King"
+        ],
+        "cast": [
+            "Damian Lewis",
+            "Donnie Wahlberg",
+            "Jason Lee",
+            "Morgan Freeman",
+            "Thomas Jane",
+            "Timothy Olyphant",
+            "Tom Sizemore"
         ]
     },
     "Piglet's Big Movie (2003)": {
@@ -66409,6 +66417,13 @@ var movieMap = {
             "Horror/Thriller",
             "Stephen King",
             "Thriller"
+        ],
+        "cast": [
+            "Charles S. Dutton",
+            "John Turturro",
+            "Johnny Depp",
+            "Maria Bello",
+            "Timothy Hutton"
         ]
     },
     "Dawn of the Dead (2004)": {
@@ -68223,6 +68238,12 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Barbara Hershey",
+            "Cliff Robertson",
+            "David Arquette",
+            "Jonathan Jackson"
         ]
     },
     "Shall We Dance? (2004)": {
@@ -69725,6 +69746,15 @@ var movieMap = {
             "2000s",
             "Barrymore Family",
             "Sports",
+            "Stephen King"
+        ],
+        "cast": [
+            "Drew Barrymore",
+            "Ione Skye",
+            "Jimmy Fallon",
+            "JoBeth Williams",
+            "KaDee Strickland",
+            "Siobhan Fallon Hogan",
             "Stephen King"
         ]
     },
@@ -76037,6 +76067,7 @@ var movieMap = {
             "Dermot Mulroney",
             "Donal Logue",
             "Elias Koteas",
+            "Ione Skye",
             "Jake Gyllenhaal",
             "Jimmi Simpson",
             "John Carroll Lynch",
@@ -76954,6 +76985,13 @@ var movieMap = {
             "Horror/Thriller",
             "Samuel L. Jackson",
             "Stephen King"
+        ],
+        "cast": [
+            "Isiah Whitlock Jr.",
+            "John Cusack",
+            "Mary McCormack",
+            "Samuel L. Jackson",
+            "Tony Shalhoub"
         ]
     },
     "Evan Almighty (2007)": {
@@ -78580,6 +78618,19 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Alexa Davalos",
+            "Andre Braugher",
+            "Chris Owen",
+            "Laurie Holden",
+            "Marcia Gay Harden",
+            "Melissa McBride",
+            "Nathan Gamble",
+            "Sam Witwer",
+            "Thomas Jane",
+            "Toby Jones",
+            "William Sadler"
         ]
     },
     "This Christmas (2007)": {
@@ -96353,6 +96404,16 @@ var movieMap = {
             "2010s",
             "Jennifer Connelly",
             "Stephen King"
+        ],
+        "cast": [
+            "Greg Kinnear",
+            "Jennifer Connelly",
+            "Kristen Bell",
+            "Lily Collins",
+            "Logan Lerman",
+            "Nat Wolff",
+            "Spencer Breslin",
+            "Stephen King"
         ]
     },
     "The Way, Way Back (2013)": {
@@ -97296,6 +97357,15 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Stephen King"
+        ],
+        "cast": [
+            "Ansel Elgort",
+            "Barry Shabaka Henley",
+            "Chlo\u00eb Grace Moretz",
+            "Gabriella Wilde",
+            "Judy Greer",
+            "Julianne Moore",
+            "Portia Doubleday"
         ]
     },
     "Chinese Zodiac (2013)": {
@@ -100601,6 +100671,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "Stephen King"
+        ],
+        "cast": [
+            "Anthony LaPaglia",
+            "Joan Allen",
+            "Kristen Connolly",
+            "Stephen Lang"
         ]
     },
     "Annabelle (2014)": {
