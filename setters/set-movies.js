@@ -13696,6 +13696,17 @@ var movieMap = {
             "Jack Nicholson",
             "Musicals",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Ann-Margret",
+            "Elton John",
+            "Jack Nicholson",
+            "John Entwistle",
+            "Keith Moon",
+            "Oliver Reed",
+            "Pete Townshend",
+            "Roger Daltrey",
+            "Tina Turner"
         ]
     },
     "The Passenger (1975)": {
@@ -44408,6 +44419,14 @@ var movieMap = {
             "1990s",
             "Horror/Thriller",
             "Julia Roberts"
+        ],
+        "cast": [
+            "Ciar\u00e1n Hinds",
+            "Glenn Close",
+            "John Malkovich",
+            "Julia Roberts",
+            "Michael Gambon",
+            "Michael Sheen"
         ]
     },
     "Rumble in the Bronx (1996)": {
@@ -51087,6 +51106,18 @@ var movieMap = {
             "Eddie Murphy",
             "Musicians in Film",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Betty White",
+            "Eddie Murphy",
+            "Eric McCormack",
+            "Eugene Levy",
+            "Florence Henderson",
+            "James Brown",
+            "Jeff Goldblum",
+            "Jon Cryer",
+            "Kelly Preston",
+            "Robert Loggia"
         ]
     },
     "Beloved (1998)": {
@@ -69050,6 +69081,15 @@ var movieMap = {
         "categories": [
             "2000s",
             "Musicals"
+        ],
+        "cast": [
+            "Ciar\u00e1n Hinds",
+            "Emmy Rossum",
+            "Gerard Butler",
+            "Kevin McNally",
+            "Minnie Driver",
+            "Miranda Richardson",
+            "Patrick Wilson"
         ]
     },
     "In Good Company (2004)": {
@@ -101171,6 +101211,13 @@ var movieMap = {
             "Gyllenhaals",
             "Horror/Thriller",
             "Thriller"
+        ],
+        "cast": [
+            "Ann Cusack",
+            "Bill Paxton",
+            "Jake Gyllenhaal",
+            "Rene Russo",
+            "Riz Ahmed"
         ]
     },
     "Interstellar (2014)": {

@@ -1243,7 +1243,8 @@ var actorMap = {
     },
     "Ann Cusack": {
         "movies": [
-            "A League of Their Own (1992)"
+            "A League of Their Own (1992)",
+            "Nightcrawler (2014)"
         ]
     },
     "Ann Dowd": {
@@ -1262,6 +1263,11 @@ var actorMap = {
                 "movie": "The Whales of August",
                 "year": "1987"
             }
+        ]
+    },
+    "Ann-Margret": {
+        "movies": [
+            "Tommy (1975)"
         ]
     },
     "Anna Camp": {
@@ -2252,6 +2258,7 @@ var actorMap = {
     },
     "Betty White": {
         "movies": [
+            "Holy Man (1998)",
             "You Again (2010)"
         ]
     },
@@ -2369,6 +2376,7 @@ var actorMap = {
             "Predator 2 (1990)",
             "2 Guns (2013)",
             "Edge of Tomorrow (2014)",
+            "Nightcrawler (2014)",
             "The Circle (2017)"
         ]
     },
@@ -4367,7 +4375,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mary Reilly (1996)",
             "Road to Perdition (2002)",
+            "The Phantom of the Opera (2004)",
             "The Tale of Despereaux (2008)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "The Woman in Black (2012)",
@@ -6477,6 +6487,9 @@ var actorMap = {
                 "movie": "Dreamgirls",
                 "year": "2006"
             }
+        ],
+        "movies": [
+            "Holy Man (1998)"
         ]
     },
     "Eddie Redmayne": {
@@ -6888,6 +6901,7 @@ var actorMap = {
     },
     "Elton John": {
         "movies": [
+            "Tommy (1975)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -7095,6 +7109,11 @@ var actorMap = {
             }
         ]
     },
+    "Emmy Rossum": {
+        "movies": [
+            "The Phantom of the Opera (2004)"
+        ]
+    },
     "Eric Allan Kramer": {
         "movies": [
             "True Romance (1993)"
@@ -7119,6 +7138,11 @@ var actorMap = {
     "Eric Idle": {
         "movies": [
             "The Transformers: The Movie (1986)"
+        ]
+    },
+    "Eric McCormack": {
+        "movies": [
+            "Holy Man (1998)"
         ]
     },
     "Eric Roberts": {
@@ -7247,7 +7271,8 @@ var actorMap = {
         "movies": [
             "Heavy Metal (1981)",
             "National Lampoon's Vacation (1983)",
-            "Armed and Dangerous (1986)"
+            "Armed and Dangerous (1986)",
+            "Holy Man (1998)"
         ]
     },
     "Eva Green": {
@@ -7470,6 +7495,11 @@ var actorMap = {
             "Back to the Future Part II (1989)",
             "Back to the Future Part III (1990)",
             "Psycho (1998)"
+        ]
+    },
+    "Florence Henderson": {
+        "movies": [
+            "Holy Man (1998)"
         ]
     },
     "Florence Pugh": {
@@ -8205,6 +8235,7 @@ var actorMap = {
     "Gerard Butler": {
         "movies": [
             "Timeline (2003)",
+            "The Phantom of the Opera (2004)",
             "300 (2007)",
             "Movie 43 (2013)",
             "300: Rise of an Empire (2014)"
@@ -8343,6 +8374,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mary Reilly (1996)",
             "Guardians of the Galaxy (2014)"
         ]
     },
@@ -9706,6 +9738,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Tommy (1975)",
             "The Shining (1980)",
             "Terms of Endearment (1983)",
             "The Witches of Eastwick (1987)",
@@ -9920,6 +9953,7 @@ var actorMap = {
         "movies": [
             "Zodiac (2007)",
             "Prisoners (2013)",
+            "Nightcrawler (2014)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -9973,6 +10007,11 @@ var actorMap = {
         "movies": [
             "Traffic (2000)",
             "Catch Me If You Can (2002)"
+        ]
+    },
+    "James Brown": {
+        "movies": [
+            "Holy Man (1998)"
         ]
     },
     "James Caan": {
@@ -10848,6 +10887,7 @@ var actorMap = {
             "Invasion of the Body Snatchers (1978)",
             "Jurassic Park (1993)",
             "The Lost World: Jurassic Park (1997)",
+            "Holy Man (1998)",
             "The Prince of Egypt (1998)",
             "Mortdecai (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)",
@@ -11926,6 +11966,11 @@ var actorMap = {
             "Cell (2016)"
         ]
     },
+    "John Entwistle": {
+        "movies": [
+            "Tommy (1975)"
+        ]
+    },
     "John Fiedler": {
         "movies": [
             "12 Angry Men (1957)"
@@ -12100,6 +12145,7 @@ var actorMap = {
         ],
         "movies": [
             "Places in the Heart (1984)",
+            "Mary Reilly (1996)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Changeling (2008)",
             "Jonah Hex (2010)",
@@ -12342,6 +12388,7 @@ var actorMap = {
     "Jon Cryer": {
         "movies": [
             "Superman IV: The Quest for Peace (1987)",
+            "Holy Man (1998)",
             "Due Date (2010)"
         ]
     },
@@ -12873,6 +12920,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mary Reilly (1996)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Valentine's Day (2010)",
@@ -13639,6 +13687,11 @@ var actorMap = {
             "21 Bridges (2019)"
         ]
     },
+    "Keith Moon": {
+        "movies": [
+            "Tommy (1975)"
+        ]
+    },
     "Keith Richards": {
         "movies": [
             "Pirates of the Caribbean: At World's End (2007)",
@@ -13686,6 +13739,7 @@ var actorMap = {
             "Twins (1988)",
             "Waiting to Exhale (1995)",
             "Jerry Maguire (1996)",
+            "Holy Man (1998)",
             "View from the Top (2003)",
             "Sky High (2005)"
         ]
@@ -13915,6 +13969,7 @@ var actorMap = {
     "Kevin McNally": {
         "movies": [
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
+            "The Phantom of the Opera (2004)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Valkyrie (2008)",
@@ -17023,6 +17078,7 @@ var actorMap = {
     },
     "Michael Gambon": {
         "movies": [
+            "Mary Reilly (1996)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
@@ -17251,6 +17307,7 @@ var actorMap = {
     },
     "Michael Sheen": {
         "movies": [
+            "Mary Reilly (1996)",
             "Timeline (2003)",
             "Kingdom of Heaven (2005)",
             "Alice in Wonderland (2010)",
@@ -17577,6 +17634,9 @@ var actorMap = {
                 "movie": "Good Will Hunting",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "The Phantom of the Opera (2004)"
         ]
     },
     "Mira Sorvino": {
@@ -17611,6 +17671,7 @@ var actorMap = {
         "movies": [
             "Chicken Run (2000)",
             "The Hours (2002)",
+            "The Phantom of the Opera (2004)",
             "Harry Potter and the Goblet of Fire (2005)"
         ]
     },
@@ -18426,6 +18487,11 @@ var actorMap = {
             "Chef (2014)"
         ]
     },
+    "Oliver Reed": {
+        "movies": [
+            "Tommy (1975)"
+        ]
+    },
     "Oliver Stone": {
         "movies": [
             "Alexander (2004)"
@@ -18760,6 +18826,7 @@ var actorMap = {
     },
     "Patrick Wilson": {
         "movies": [
+            "The Phantom of the Opera (2004)",
             "Watchmen (2009)",
             "Prometheus (2012)",
             "Bone Tomahawk (2015)",
@@ -19157,6 +19224,11 @@ var actorMap = {
             "Alien 3 (1992)",
             "The Lost World: Jurassic Park (1997)",
             "Amistad (1997)"
+        ]
+    },
+    "Pete Townshend": {
+        "movies": [
+            "Tommy (1975)"
         ]
     },
     "Peter Berg": {
@@ -19979,6 +20051,7 @@ var actorMap = {
         "movies": [
             "Thor (2011)",
             "Thor: The Dark World (2013)",
+            "Nightcrawler (2014)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -20341,6 +20414,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Nightcrawler (2014)",
             "Rogue One: A Star Wars Story (2016)",
             "Venom (2018)"
         ]
@@ -20548,7 +20622,8 @@ var actorMap = {
     "Robert Loggia": {
         "movies": [
             "Armed and Dangerous (1986)",
-            "Big (1988)"
+            "Big (1988)",
+            "Holy Man (1998)"
         ]
     },
     "Robert Patrick": {
@@ -20703,6 +20778,11 @@ var actorMap = {
     "Roger Cross": {
         "movies": [
             "Mad Money (2008)"
+        ]
+    },
+    "Roger Daltrey": {
+        "movies": [
+            "Tommy (1975)"
         ]
     },
     "Roger L. Jackson": {
@@ -23336,6 +23416,7 @@ var actorMap = {
     },
     "Tina Turner": {
         "movies": [
+            "Tommy (1975)",
             "Last Action Hero (1993)"
         ]
     },
