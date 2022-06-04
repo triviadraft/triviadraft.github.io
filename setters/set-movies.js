@@ -8588,6 +8588,21 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Musicals"
+        ],
+        "cast": [
+            "Alan Napier",
+            "Betty Lou Gerson",
+            "David Tomlinson",
+            "Dick Van Dyke",
+            "Elsa Lanchester",
+            "Glynis Johns",
+            "Hermione Baddeley",
+            "Jane Darwell",
+            "Julie Andrews",
+            "Karen Dotrice",
+            "Matthew Garber",
+            "Richard M. Sherman",
+            "Robert B. Sherman"
         ]
     },
     "Godzilla vs. the Thing (1964)": {
@@ -38483,6 +38498,17 @@ var movieMap = {
             "1990s",
             "Frat Pack",
             "Sports"
+        ],
+        "cast": [
+            "Charles S. Dutton",
+            "Jason Miller",
+            "Jon Favreau",
+            "Lili Taylor",
+            "Ned Beatty",
+            "Robert Prosky",
+            "Rudy Ruettiger",
+            "Sean Astin",
+            "Vince Vaughn"
         ]
     },
     "The Beverly Hillbillies (1993)": {
@@ -39067,6 +39093,25 @@ var movieMap = {
             "Biopics",
             "Kurt Russell",
             "Westerns"
+        ],
+        "cast": [
+            "Bill Paxton",
+            "Billy Bob Thornton",
+            "Billy Zane",
+            "Charlton Heston",
+            "Dana Delany",
+            "John Corbett",
+            "Kurt Russell",
+            "Michael Biehn",
+            "Michael Rooker",
+            "Paula Malcomson",
+            "Powers Boothe",
+            "Robert Mitchum",
+            "Sam Elliott",
+            "Stephen Lang",
+            "Terry O'Quinn",
+            "Thomas Haden Church",
+            "Val Kilmer"
         ]
     },
     "In the Name of the Father (1993)": {
@@ -44185,6 +44230,22 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Quentin Tarantino & Robert Rodriguez"
+        ],
+        "cast": [
+            "Cheech Marin",
+            "Danny Trejo",
+            "Ernest Liu",
+            "Fred Williamson",
+            "George Clooney",
+            "Harvey Keitel",
+            "John Hawkes",
+            "John Saxon",
+            "Juliette Lewis",
+            "Kelly Preston",
+            "Michael Parks",
+            "Quentin Tarantino",
+            "Salma Hayek",
+            "Tom Savini as Sex Machine"
         ]
     },
     "Black Sheep (1996)": {
@@ -66696,6 +66757,16 @@ var movieMap = {
             "2000s",
             "Dwayne Johnson",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Ashley Scott",
+            "Cobie Smulders",
+            "Dwayne Johnson",
+            "Johnny Knoxville",
+            "Kevin Durand",
+            "Khleo Thomas",
+            "Michael Bowen",
+            "Neal McDonough"
         ]
     },
     "Johnson Family Vacation (2004)": {
@@ -70700,6 +70771,21 @@ var movieMap = {
             "Frat Pack",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Bradley Cooper",
+            "Christopher Walken",
+            "Dwight Yoakam",
+            "Ellen Albertini Dow",
+            "Henry Gibson",
+            "Isla Fisher",
+            "Jane Seymour",
+            "John McCain",
+            "Owen Wilson",
+            "Rachel McAdams",
+            "Rebecca de Mornay",
+            "Vince Vaughn",
+            "Will Ferrell"
         ]
     },
     "Bad News Bears (2005)": {
@@ -93859,6 +93945,17 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Ben Barnes",
+            "Bradley Cooper",
+            "Dennis Quaid",
+            "J. K. Simmons",
+            "Jeremy Irons",
+            "John Hannah",
+            "Michael McKean",
+            "Olivia Wilde",
+            "Zoe Saldana"
         ]
     },
     "Resident Evil: Retribution (2012)": {
@@ -97810,6 +97907,17 @@ var movieMap = {
         "categories": [
             "2010s",
             "Frat Pack"
+        ],
+        "cast": [
+            "Bill Maher",
+            "Bobby Moynihan",
+            "Britt Robertson",
+            "Chris Pratt",
+            "Cobie Smulders",
+            "Jack Reynor",
+            "Jay Leno",
+            "Jessica Williams",
+            "Vince Vaughn"
         ]
     },
     "Philomena (2013)": {
@@ -105674,6 +105782,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "Emmas"
+        ],
+        "cast": [
+            "David Dencik",
+            "David Thewlis",
+            "Emma Watson",
+            "Ethan Hawke"
         ]
     },
     "Deadpool (2016)": {
@@ -106853,6 +106967,24 @@ var movieMap = {
             "Disney",
             "Family",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Andrew Scott",
+            "Anne Hathaway",
+            "Ed Speleers",
+            "Helena Bonham Carter",
+            "Johnny Depp",
+            "Lindsay Duncan",
+            "Louis Ashbourne Serkis",
+            "Matt Lucas",
+            "Mia Wasikowska",
+            "Michael Sheen",
+            "Rhys Ifans",
+            "Richard Armitage",
+            "Sacha Baron Cohen",
+            "Stephen Fry",
+            "Timothy Spall"
         ]
     },
     "The Do-Over (2016)": {
@@ -117624,6 +117756,21 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Meryl Streep",
             "Musicals"
+        ],
+        "cast": [
+            "Angela Lansbury",
+            "Ben Whishaw",
+            "Chris O'Dowd",
+            "Colin Firth",
+            "David Warner",
+            "Dick Van Dyke",
+            "Emily Blunt",
+            "Emily Mortimer",
+            "Julie Walters",
+            "Lin-Manuel Miranda",
+            "Mark Addy",
+            "Meryl Streep",
+            "Pixie Davies"
         ]
     },
     "Aquaman (2018)": {
@@ -127195,6 +127342,14 @@ var movieMap = {
             "Dwayne Johnson",
             "Emily Blunt",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "\u00c9dgar Ram\u00edrez",
+            "Emily Blunt",
+            "Jack Whitehall",
+            "Jesse Plemons",
+            "Paul Giamatti"
         ]
     },
     "The Green Knight (2021)": {
