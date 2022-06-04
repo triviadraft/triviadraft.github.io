@@ -1,7 +1,10 @@
 function getMapWithThreeMovies(map) {
     const asArray = Object.entries(map);
     filtered = asArray.filter(([key, value]) => 'movies' in map[key] && map[key]['movies'].length >= 9);
-    return Object.fromEntries(filtered);
+    const mapWithThreeMovies = Object.fromEntries(filtered);
+    delete mapWithThreeMovies['Anthony Daniels'];
+    delete mapWithThreeMovies['John Ratzenberger'];
+    return mapWithThreeMovies;
 }
 
 function reset() {
