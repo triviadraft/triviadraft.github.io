@@ -204,6 +204,45 @@ def generate_jsons():
                         }
                         actor_dict[name]['suppNoms'].append(supp_movie_dict)
 
+    with open(r'python/csv/Oscars - Actor Wins.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            name = row['Name']
+            if row['Lead']:
+                actor_dict[name]['leadWins'] = []
+
+                lead_movie_names = row['Lead'].split('), ')
+                for movie_name in lead_movie_names:
+                    if movie_name.endswith(')'):
+                        lead_movie_dict = {
+                            'movie': movie_name[:-7],
+                            'year': movie_name[len(movie_name)-5:len(movie_name)-1],
+                        }
+                        actor_dict[name]['leadWins'].append(lead_movie_dict)
+                    else:
+                        lead_movie_dict = {
+                            'movie': movie_name[:-6],
+                            'year': movie_name[len(movie_name)-4:len(movie_name)],
+                        }
+                        actor_dict[name]['leadWins'].append(lead_movie_dict)
+            if row['Supporting']:
+                actor_dict[name]['suppWins'] = []
+
+                supp_movie_names = row['Supporting'].split('), ')
+                for movie_name in supp_movie_names:
+                    if movie_name.endswith(')'):
+                        supp_movie_dict = {
+                            'movie': movie_name[:-7],
+                            'year': movie_name[len(movie_name)-5:len(movie_name)-1],
+                        }
+                        actor_dict[name]['suppWins'].append(supp_movie_dict)
+                    else:
+                        supp_movie_dict = {
+                            'movie': movie_name[:-6],
+                            'year': movie_name[len(movie_name)-4:len(movie_name)],
+                        }
+                        actor_dict[name]['suppWins'].append(supp_movie_dict)
+
     with open(r'python/csv/actordata - casts.csv', encoding='utf-8') as csvf:
         csvReader = csv.DictReader(csvf)
 

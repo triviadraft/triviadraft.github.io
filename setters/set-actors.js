@@ -239,6 +239,12 @@ var actorMap = {
                 "year": "2002"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Pianist",
+                "year": "2002"
+            }
+        ],
         "movies": [
             "King Kong (2005)",
             "The Brothers Bloom (2009)",
@@ -329,6 +335,12 @@ var actorMap = {
                 "year": "2019"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Scent of a Woman",
+                "year": "1992"
+            }
+        ],
         "movies": [
             "Dick Tracy (1990)",
             "Gigli (2003)",
@@ -374,6 +386,12 @@ var actorMap = {
             {
                 "movie": "Argo",
                 "year": "2012"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Little Miss Sunshine",
+                "year": "2006"
             }
         ],
         "movies": [
@@ -553,6 +571,12 @@ var actorMap = {
                 "year": "1988"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Bridge on the River Kwai",
+                "year": "1957"
+            }
+        ],
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
@@ -723,6 +747,12 @@ var actorMap = {
                 "year": "2015"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Danish Girl",
+                "year": "2015"
+            }
+        ],
         "movies": [
             "Ex Machina (2015)"
         ]
@@ -758,6 +788,12 @@ var actorMap = {
     },
     "Allison Janney": {
         "suppNoms": [
+            {
+                "movie": "I, Tonya",
+                "year": "2017"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "I, Tonya",
                 "year": "2017"
@@ -1178,6 +1214,12 @@ var actorMap = {
                 "year": "1999"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Girl, Interrupted",
+                "year": "1999"
+            }
+        ],
         "movies": [
             "Girl, Interrupted (1999)",
             "Alexander (2004)",
@@ -1242,6 +1284,12 @@ var actorMap = {
             {
                 "movie": "Enemies, A Love Story",
                 "year": "1989"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Prizzi\u2019s Honor",
+                "year": "1985"
             }
         ]
     },
@@ -1317,6 +1365,12 @@ var actorMap = {
                 "year": "1993"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Piano",
+                "year": "1993"
+            }
+        ],
         "movies": [
             "Amistad (1997)",
             "X-Men (2000)",
@@ -1377,6 +1431,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "Les Mis\u00e9rables",
+                "year": "2012"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Les Mis\u00e9rables",
                 "year": "2012"
@@ -1525,6 +1585,16 @@ var actorMap = {
                 "year": "2019"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Silence of the Lambs",
+                "year": "1991"
+            },
+            {
+                "movie": "The Father",
+                "year": "2021"
+            }
+        ],
         "movies": [
             "The Lion in Winter (1968)",
             "Howards End (1992)",
@@ -1649,6 +1719,12 @@ var actorMap = {
     },
     "Ariana DeBose": {
         "suppNoms": [
+            {
+                "movie": "West Side Story",
+                "year": "2021"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "West Side Story",
                 "year": "2021"
@@ -1780,6 +1856,12 @@ var actorMap = {
                 "year": "1967"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Roman Holiday",
+                "year": "1953"
+            }
+        ],
         "movies": [
             "Charade (1963)",
             "My Fair Lady (1964)",
@@ -1902,6 +1984,12 @@ var actorMap = {
             {
                 "movie": "The Way We Were",
                 "year": "1973"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Funny Girl",
+                "year": "1968"
             }
         ]
     },
@@ -2057,6 +2145,12 @@ var actorMap = {
                 "year": "2001"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Gandhi",
+                "year": "1982"
+            }
+        ],
         "movies": [
             "Iron Man 3 (2013)",
             "The Jungle Book (2016)",
@@ -2159,6 +2253,12 @@ var actorMap = {
                 "year": "2003"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Traffic",
+                "year": "2000"
+            }
+        ],
         "movies": [
             "Traffic (2000)",
             "Sin City (2005)",
@@ -2244,6 +2344,16 @@ var actorMap = {
             {
                 "movie": "What Ever Happened to Baby Jane?",
                 "year": "1962"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Dangerous",
+                "year": "1935"
+            },
+            {
+                "movie": "Jezebel",
+                "year": "1938"
             }
         ]
     },
@@ -2730,6 +2840,12 @@ var actorMap = {
                 "year": "2019"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Once Upon a Time in Hollywood",
+                "year": "2019"
+            }
+        ],
         "movies": [
             "True Romance (1993)",
             "Interview with the Vampire (1994)",
@@ -2848,6 +2964,12 @@ var actorMap = {
     },
     "Brenda Fricker": {
         "suppNoms": [
+            {
+                "movie": "My Left Foot: The Story of Christy Brown",
+                "year": "1989"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "My Left Foot: The Story of Christy Brown",
                 "year": "1989"
@@ -3005,6 +3127,12 @@ var actorMap = {
     },
     "Brie Larson": {
         "leadNoms": [
+            {
+                "movie": "Room",
+                "year": "2015"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Room",
                 "year": "2015"
@@ -3538,6 +3666,12 @@ var actorMap = {
                 "year": "2007"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Manchester by the Sea",
+                "year": "2016"
+            }
+        ],
         "movies": [
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
@@ -3588,6 +3722,18 @@ var actorMap = {
             {
                 "movie": "I'm Not There",
                 "year": "2007"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Blue Jasmine",
+                "year": "2013"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "The Aviator",
+                "year": "2004"
             }
         ],
         "movies": [
@@ -3653,6 +3799,12 @@ var actorMap = {
     },
     "Catherine Zeta-Jones": {
         "suppNoms": [
+            {
+                "movie": "Chicago",
+                "year": "2002"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Chicago",
                 "year": "2002"
@@ -3831,6 +3983,12 @@ var actorMap = {
                 "year": "2019"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Monster",
+                "year": "2003"
+            }
+        ],
         "movies": [
             "Snow White and the Huntsman (2012)",
             "Prometheus (2012)",
@@ -3850,6 +4008,12 @@ var actorMap = {
     },
     "Charlton Heston": {
         "leadNoms": [
+            {
+                "movie": "Ben-Hur",
+                "year": "1959"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Ben-Hur",
                 "year": "1959"
@@ -3899,6 +4063,12 @@ var actorMap = {
             {
                 "movie": "Silkwood",
                 "year": "1983"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Moonstruck",
+                "year": "1987"
             }
         ],
         "movies": [
@@ -4003,6 +4173,12 @@ var actorMap = {
     },
     "Chris Cooper": {
         "suppNoms": [
+            {
+                "movie": "Adaptation",
+                "year": "2002"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Adaptation",
                 "year": "2002"
@@ -4200,6 +4376,12 @@ var actorMap = {
                 "year": "2015"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Fighter",
+                "year": "2010"
+            }
+        ],
         "movies": [
             "Batman Begins (2005)",
             "The Prestige (2006)",
@@ -4250,6 +4432,16 @@ var actorMap = {
     },
     "Christoph Waltz": {
         "suppNoms": [
+            {
+                "movie": "Inglourious Basterds",
+                "year": "2009"
+            },
+            {
+                "movie": "Django Unchained",
+                "year": "2012"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Inglourious Basterds",
                 "year": "2009"
@@ -4352,6 +4544,12 @@ var actorMap = {
                 "year": "2017"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Beginners",
+                "year": "2011"
+            }
+        ],
         "movies": [
             "Star Trek VI: The Undiscovered Country (1991)",
             "Dolores Claiborne (1995)",
@@ -4379,6 +4577,12 @@ var actorMap = {
             {
                 "movie": "Catch Me If You Can",
                 "year": "2002"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "The Deer Hunter",
+                "year": "1978"
             }
         ],
         "movies": [
@@ -4638,6 +4842,12 @@ var actorMap = {
                 "year": "2010"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The King's Speech",
+                "year": "2010"
+            }
+        ],
         "movies": [
             "Shakespeare in Love (1998)",
             "Love Actually (2003)",
@@ -4839,6 +5049,12 @@ var actorMap = {
     },
     "Cuba Gooding Jr.": {
         "suppNoms": [
+            {
+                "movie": "Jerry Maguire",
+                "year": "1996"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Jerry Maguire",
                 "year": "1996"
@@ -5091,6 +5307,20 @@ var actorMap = {
                 "year": "2017"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "My Left Foot: The Story of Christy Brown",
+                "year": "1989"
+            },
+            {
+                "movie": "There Will Be Blood",
+                "year": "2007"
+            },
+            {
+                "movie": "Lincoln",
+                "year": "2012"
+            }
+        ],
         "movies": [
             "Nine (2009)"
         ]
@@ -5116,6 +5346,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "Judas and the Black Messiah",
+                "year": "2021"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Judas and the Black Messiah",
                 "year": "2021"
@@ -5830,6 +6066,18 @@ var actorMap = {
                 "year": "1989"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Training Day",
+                "year": "2001"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Glory",
+                "year": "1989"
+            }
+        ],
         "movies": [
             "Remember the Titans (2000)",
             "2 Guns (2013)",
@@ -5918,6 +6166,12 @@ var actorMap = {
                 "year": "2003"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Annie Hall",
+                "year": "1977"
+            }
+        ],
         "movies": [
             "Annie Hall (1977)",
             "The First Wives Club (1996)",
@@ -5981,6 +6235,16 @@ var actorMap = {
             {
                 "movie": "Parenthood",
                 "year": "1989"
+            },
+            {
+                "movie": "Bullets over Broadway",
+                "year": "1994"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Hannah and Her Sisters",
+                "year": "1986"
             },
             {
                 "movie": "Bullets over Broadway",
@@ -6359,6 +6623,16 @@ var actorMap = {
                 "year": "1997"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Kramer vs. Kramer",
+                "year": "1979"
+            },
+            {
+                "movie": "Rain Man",
+                "year": "1988"
+            }
+        ],
         "movies": [
             "Rain Man (1988)",
             "Dick Tracy (1990)",
@@ -6560,6 +6834,12 @@ var actorMap = {
             {
                 "movie": "The Danish Girl",
                 "year": "2015"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Theory of Everything",
+                "year": "2014"
             }
         ],
         "movies": [
@@ -6830,6 +7110,16 @@ var actorMap = {
                 "year": "1966"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Butterfield 8",
+                "year": "1960"
+            },
+            {
+                "movie": "Who's Afraid of Virginia Woolf?",
+                "year": "1966"
+            }
+        ],
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
         ]
@@ -6893,6 +7183,12 @@ var actorMap = {
             {
                 "movie": "The Last Picture Show",
                 "year": "1971"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Alice Doesn't Live Here Anymore",
+                "year": "1974"
             }
         ]
     },
@@ -7096,6 +7392,12 @@ var actorMap = {
                 "year": "2018"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "La La Land",
+                "year": "2016"
+            }
+        ],
         "movies": [
             "Zombieland (2009)",
             "The Help (2011)",
@@ -7127,6 +7429,12 @@ var actorMap = {
             {
                 "movie": "In the Name of the Father",
                 "year": "1993"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Howards End",
+                "year": "1992"
             }
         ],
         "movies": [
@@ -7345,6 +7653,12 @@ var actorMap = {
             {
                 "movie": "Pinky",
                 "year": "1949"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "None but the Lonely Heart",
+                "year": "1944"
             }
         ]
     },
@@ -7623,6 +7937,12 @@ var actorMap = {
                 "year": "2006"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Last King of Scotland",
+                "year": "2006"
+            }
+        ],
         "movies": [
             "The Color of Money (1986)",
             "Rogue One: A Star Wars Story (2016)",
@@ -7688,6 +8008,20 @@ var actorMap = {
             {
                 "movie": "North Country",
                 "year": "2005"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Fargo",
+                "year": "1996"
+            },
+            {
+                "movie": "Three Billboards Outside Ebbing, Missouri",
+                "year": "2017"
+            },
+            {
+                "movie": "Nomadland",
+                "year": "2020"
             }
         ],
         "movies": [
@@ -8007,6 +8341,16 @@ var actorMap = {
                 "movie": "High Noon",
                 "year": "1952"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "Sergeant York",
+                "year": "1941"
+            },
+            {
+                "movie": "High Noon",
+                "year": "1952"
+            }
         ]
     },
     "Gary Oldman": {
@@ -8022,6 +8366,12 @@ var actorMap = {
             {
                 "movie": "Mank",
                 "year": "2020"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Darkest Hour",
+                "year": "2017"
             }
         ],
         "movies": [
@@ -8090,6 +8440,12 @@ var actorMap = {
                 "year": "1988"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Accidental Tourist",
+                "year": "1988"
+            }
+        ],
         "movies": [
             "A League of Their Own (1992)"
         ]
@@ -8144,6 +8500,18 @@ var actorMap = {
                 "year": "1992"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The French Connection",
+                "year": "1971"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Unforgiven",
+                "year": "1992"
+            }
+        ],
         "movies": [
             "Superman (1978)",
             "Superman II (1981)",
@@ -8185,6 +8553,12 @@ var actorMap = {
             {
                 "movie": "The King's Speech",
                 "year": "2010"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Shine",
+                "year": "1996"
             }
         ],
         "movies": [
@@ -8233,6 +8607,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "Syriana",
+                "year": "2005"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Syriana",
                 "year": "2005"
@@ -8421,6 +8801,16 @@ var actorMap = {
                 "movie": "Hedda",
                 "year": "1975"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "Women in Love",
+                "year": "1970"
+            },
+            {
+                "movie": "A Touch of Class",
+                "year": "1973"
+            }
         ]
     },
     "Glenn Close": {
@@ -8509,6 +8899,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "Cactus Flower",
+                "year": "1969"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Cactus Flower",
                 "year": "1969"
@@ -8643,6 +9039,12 @@ var actorMap = {
                 "year": "1998"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Shakespeare in Love",
+                "year": "1998"
+            }
+        ],
         "movies": [
             "Shakespeare in Love (1998)",
             "Austin Powers in Goldmember (2002)",
@@ -8716,6 +9118,12 @@ var actorMap = {
     },
     "Halle Berry": {
         "leadNoms": [
+            {
+                "movie": "Monster's Ball",
+                "year": "2001"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Monster's Ball",
                 "year": "2001"
@@ -8897,6 +9305,12 @@ var actorMap = {
                 "movie": "Gone with the Wind",
                 "year": "1939"
             }
+        ],
+        "suppWins": [
+            {
+                "movie": "Gone with the Wind",
+                "year": "1939"
+            }
         ]
     },
     "Hayden Christensen": {
@@ -8931,6 +9345,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "The Dark Knight",
+                "year": "2008"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "The Dark Knight",
                 "year": "2008"
@@ -8990,6 +9410,12 @@ var actorMap = {
                 "year": "2012"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "As Good as It Gets",
+                "year": "1997"
+            }
+        ],
         "movies": [
             "As Good as It Gets (1997)",
             "Cast Away (2000)"
@@ -9021,6 +9447,12 @@ var actorMap = {
             {
                 "movie": "Gosford Park",
                 "year": "2001"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Queen",
+                "year": "2006"
             }
         ],
         "movies": [
@@ -9100,6 +9532,12 @@ var actorMap = {
                 "year": "1981"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "On Golden Pond",
+                "year": "1981"
+            }
+        ],
         "movies": [
             "12 Angry Men (1957)",
             "On Golden Pond (1981)"
@@ -9153,6 +9591,16 @@ var actorMap = {
                 "year": "2004"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Boys Don't Cry",
+                "year": "1999"
+            },
+            {
+                "movie": "Million Dollar Baby",
+                "year": "2004"
+            }
+        ],
         "movies": [
             "New Year's Eve (2011)"
         ]
@@ -9193,6 +9641,12 @@ var actorMap = {
             {
                 "movie": "Thirteen",
                 "year": "2003"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Piano",
+                "year": "1993"
             }
         ],
         "movies": [
@@ -9494,6 +9948,22 @@ var actorMap = {
                 "year": "1974"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Gaslight",
+                "year": "1944"
+            },
+            {
+                "movie": "Anastasia",
+                "year": "1956"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Murder on the Orient Express",
+                "year": "1974"
+            }
+        ],
         "movies": [
             "Notorious (1946)"
         ]
@@ -9664,6 +10134,12 @@ var actorMap = {
                 "year": "2021"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Whiplash",
+                "year": "2014"
+            }
+        ],
         "movies": [
             "The First Wives Club (1996)",
             "Spider-Man (2002)",
@@ -9777,6 +10253,18 @@ var actorMap = {
                 "year": "1955"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Save the Tiger",
+                "year": "1973"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Mister Roberts",
+                "year": "1955"
+            }
+        ],
         "movies": [
             "Hamlet (1996)"
         ]
@@ -9841,6 +10329,22 @@ var actorMap = {
                 "year": "1992"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "One Flew Over the Cuckoo\u2019s Nest",
+                "year": "1975"
+            },
+            {
+                "movie": "As Good as It Gets",
+                "year": "1997"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Terms of Endearment",
+                "year": "1983"
+            }
+        ],
         "movies": [
             "Tommy (1975)",
             "The Shining (1980)",
@@ -9869,6 +10373,12 @@ var actorMap = {
                 "movie": "Shane",
                 "year": "1953"
             },
+            {
+                "movie": "City Slickers",
+                "year": "1991"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "City Slickers",
                 "year": "1991"
@@ -10139,6 +10649,12 @@ var actorMap = {
                 "year": "1998"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Affliction",
+                "year": "1998"
+            }
+        ],
         "movies": [
             "Charade (1963)",
             "Monsters, Inc. (2001)"
@@ -10389,6 +10905,12 @@ var actorMap = {
                 "year": "1959"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Philadelphia Story",
+                "year": "1940"
+            }
+        ],
         "movies": [
             "The Philadelphia Story (1940)"
         ]
@@ -10478,6 +11000,12 @@ var actorMap = {
                 "year": "2004"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Ray",
+                "year": "2004"
+            }
+        ],
         "movies": [
             "Collateral (2004)",
             "Ray (2004)",
@@ -10550,6 +11078,16 @@ var actorMap = {
             {
                 "movie": "On Golden Pond",
                 "year": "1981"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Klute",
+                "year": "1971"
+            },
+            {
+                "movie": "Coming Home",
+                "year": "1978"
             }
         ],
         "movies": [
@@ -10645,6 +11183,12 @@ var actorMap = {
     },
     "Jared Leto": {
         "suppNoms": [
+            {
+                "movie": "Dallas Buyers Club",
+                "year": "2013"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Dallas Buyers Club",
                 "year": "2013"
@@ -10829,6 +11373,12 @@ var actorMap = {
                 "year": "2007"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "No Country for Old Men",
+                "year": "2007"
+            }
+        ],
         "movies": [
             "Collateral (2004)",
             "Vicky Cristina Barcelona (2008)",
@@ -10907,6 +11457,12 @@ var actorMap = {
                 "movie": "The Artist",
                 "year": "2011"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Artist",
+                "year": "2011"
+            }
         ]
     },
     "Jean Marsh": {
@@ -10976,6 +11532,12 @@ var actorMap = {
             {
                 "movie": "Hell or High Water",
                 "year": "2016"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Crazy Heart",
+                "year": "2009"
             }
         ],
         "movies": [
@@ -11104,6 +11666,12 @@ var actorMap = {
                 "year": "2001"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "A Beautiful Mind",
+                "year": "2001"
+            }
+        ],
         "movies": [
             "The Rocketeer (1991)",
             "Hulk (2003)",
@@ -11156,6 +11724,12 @@ var actorMap = {
                 "year": "2006"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Dreamgirls",
+                "year": "2006"
+            }
+        ],
         "movies": [
             "The Secret Life of Bees (2008)"
         ]
@@ -11193,6 +11767,12 @@ var actorMap = {
             {
                 "movie": "American Hustle",
                 "year": "2013"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Silver Linings Playbook",
+                "year": "2012"
             }
         ],
         "movies": [
@@ -11262,6 +11842,12 @@ var actorMap = {
     },
     "Jeremy Irons": {
         "leadNoms": [
+            {
+                "movie": "Reversal of Fortune",
+                "year": "1990"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Reversal of Fortune",
                 "year": "1990"
@@ -11447,6 +12033,12 @@ var actorMap = {
                 "year": "2011"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Eyes of Tammy Faye",
+                "year": "2021"
+            }
+        ],
         "movies": [
             "The Help (2011)",
             "Zero Dark Thirty (2012)",
@@ -11495,6 +12087,18 @@ var actorMap = {
                 "movie": "Tootsie",
                 "year": "1982"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "Blue Sky",
+                "year": "1994"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Tootsie",
+                "year": "1982"
+            }
         ]
     },
     "Jessica Rothe": {
@@ -11511,6 +12115,12 @@ var actorMap = {
             {
                 "movie": "Fried Green Tomatoes",
                 "year": "1991"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Driving Miss Daisy",
+                "year": "1989"
             }
         ],
         "movies": [
@@ -11566,6 +12176,12 @@ var actorMap = {
     },
     "Jim Broadbent": {
         "suppNoms": [
+            {
+                "movie": "Iris",
+                "year": "2001"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Iris",
                 "year": "2001"
@@ -11724,6 +12340,12 @@ var actorMap = {
                 "movie": "Sudden Fear",
                 "year": "1952"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "Mildred Pierce",
+                "year": "1945"
+            }
         ]
     },
     "Joan Cusack": {
@@ -11800,6 +12422,12 @@ var actorMap = {
                 "movie": "Mr. and Mrs. Bridge",
                 "year": "1990"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Three Faces of Eve",
+                "year": "1957"
+            }
         ]
     },
     "Joaquin Phoenix": {
@@ -11821,6 +12449,12 @@ var actorMap = {
             {
                 "movie": "Gladiator",
                 "year": "2000"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Joker",
+                "year": "2019"
             }
         ],
         "movies": [
@@ -11858,6 +12492,16 @@ var actorMap = {
             {
                 "movie": "Taxi Driver",
                 "year": "1976"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Accused",
+                "year": "1988"
+            },
+            {
+                "movie": "The Silence of the Lambs",
+                "year": "1991"
             }
         ]
     },
@@ -11915,6 +12559,12 @@ var actorMap = {
             {
                 "movie": "The Irishman",
                 "year": "2019"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Goodfellas",
+                "year": "1990"
             }
         ]
     },
@@ -12445,6 +13095,12 @@ var actorMap = {
                 "movie": "True Grit",
                 "year": "1969"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "True Grit",
+                "year": "1969"
+            }
         ]
     },
     "John Williams": {
@@ -12619,6 +13275,12 @@ var actorMap = {
             {
                 "movie": "Ali",
                 "year": "2001"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Coming Home",
+                "year": "1978"
             }
         ],
         "movies": [
@@ -12977,6 +13639,12 @@ var actorMap = {
                 "year": "2021"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Shakespeare in Love",
+                "year": "1998"
+            }
+        ],
         "movies": [
             "Hamlet (1996)",
             "Shakespeare in Love (1998)",
@@ -13068,6 +13736,12 @@ var actorMap = {
                 "year": "2013"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Erin Brockovich",
+                "year": "2000"
+            }
+        ],
         "movies": [
             "Mary Reilly (1996)",
             "Ocean's Eleven (2001)",
@@ -13132,6 +13806,12 @@ var actorMap = {
                 "year": "2002"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Still Alice",
+                "year": "2014"
+            }
+        ],
         "movies": [
             "The Fugitive (1993)",
             "The Lost World: Jurassic Park (1997)",
@@ -13164,6 +13844,12 @@ var actorMap = {
                 "year": "1982"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Mary Poppins",
+                "year": "1964"
+            }
+        ],
         "movies": [
             "Mary Poppins (1964)",
             "The Princess Diaries (2001)",
@@ -13194,6 +13880,12 @@ var actorMap = {
             {
                 "movie": "Away from Her",
                 "year": "2007"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Darling",
+                "year": "1965"
             }
         ],
         "movies": [
@@ -13263,6 +13955,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "The English Patient",
+                "year": "1996"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "The English Patient",
                 "year": "1996"
@@ -13560,6 +14258,12 @@ var actorMap = {
                 "year": "2015"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Reader",
+                "year": "2008"
+            }
+        ],
         "movies": [
             "Hamlet (1996)",
             "Eternal Sunshine of the Spotless Mind (2004)",
@@ -13606,6 +14310,24 @@ var actorMap = {
             {
                 "movie": "Long Day's Journey into Night",
                 "year": "1962"
+            },
+            {
+                "movie": "Guess Who's Coming to Dinner",
+                "year": "1967"
+            },
+            {
+                "movie": "The Lion In Winter",
+                "year": "1968"
+            },
+            {
+                "movie": "On Golden Pond",
+                "year": "1981"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Morning Glory",
+                "year": "1933"
             },
             {
                 "movie": "Guess Who's Coming to Dinner",
@@ -13721,6 +14443,12 @@ var actorMap = {
             {
                 "movie": "Richard Jewell",
                 "year": "2019"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Misery",
+                "year": "1990"
             }
         ],
         "movies": [
@@ -14102,6 +14830,12 @@ var actorMap = {
                 "year": "1988"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "A Fish Called Wanda",
+                "year": "1988"
+            }
+        ],
         "movies": [
             "Chaplin (1992)",
             "Orange County (2002)",
@@ -14172,6 +14906,18 @@ var actorMap = {
                 "year": "1995"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "American Beauty",
+                "year": "1999"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "The Usual Suspects",
+                "year": "1995"
+            }
+        ],
         "movies": [
             "A Bug's Life (1998)",
             "Austin Powers in Goldmember (2002)",
@@ -14219,6 +14965,12 @@ var actorMap = {
     },
     "Kim Basinger": {
         "suppNoms": [
+            {
+                "movie": "L.A. Confidential",
+                "year": "1997"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "L.A. Confidential",
                 "year": "1997"
@@ -14613,6 +15365,12 @@ var actorMap = {
                 "year": "2019"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Marriage Story",
+                "year": "2019"
+            }
+        ],
         "movies": [
             "Jurassic Park (1993)",
             "Jurassic Park III (2001)",
@@ -14946,6 +15704,12 @@ var actorMap = {
                 "year": "1993"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Revenant",
+                "year": "2015"
+            }
+        ],
         "movies": [
             "Catch Me If You Can (2002)",
             "The Aviator (2004)",
@@ -15213,6 +15977,12 @@ var actorMap = {
                 "year": "1983"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Year of Living Dangerously",
+                "year": "1983"
+            }
+        ],
         "movies": [
             "Stranger than Fiction (2006)",
             "Solo: A Star Wars Story (2018)"
@@ -15248,6 +16018,12 @@ var actorMap = {
     },
     "Lionel Barrymore": {
         "leadNoms": [
+            {
+                "movie": "A Free Soul",
+                "year": "1931"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "A Free Soul",
                 "year": "1931"
@@ -15500,6 +16276,12 @@ var actorMap = {
                 "year": "2013"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "12 Years a Slave",
+                "year": "2013"
+            }
+        ],
         "movies": [
             "Star Wars: The Force Awakens (2015)",
             "The Jungle Book (2016)",
@@ -15693,6 +16475,18 @@ var actorMap = {
                 "year": "2001"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Prime of Miss Jean Brodie",
+                "year": "1969"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "California Suite",
+                "year": "1978"
+            }
+        ],
         "movies": [
             "The First Wives Club (1996)",
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -15706,6 +16500,16 @@ var actorMap = {
     },
     "Mahershala Ali": {
         "suppNoms": [
+            {
+                "movie": "Moonlight",
+                "year": "2016"
+            },
+            {
+                "movie": "Green Book",
+                "year": "2018"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Moonlight",
                 "year": "2016"
@@ -15830,6 +16634,12 @@ var actorMap = {
             {
                 "movie": "Mystic River",
                 "year": "2003"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Pollock",
+                "year": "2000"
             }
         ],
         "movies": [
@@ -15981,6 +16791,12 @@ var actorMap = {
                 "year": "2014"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "La Vie en rose",
+                "year": "2007"
+            }
+        ],
         "movies": [
             "Nine (2009)",
             "Contagion (2011)",
@@ -16001,6 +16817,12 @@ var actorMap = {
             {
                 "movie": "The Wrestler",
                 "year": "2008"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "My Cousin Vinny",
+                "year": "1992"
             }
         ],
         "movies": [
@@ -16114,6 +16936,12 @@ var actorMap = {
                 "year": "2015"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Bridge of Spies",
+                "year": "2015"
+            }
+        ],
         "movies": [
             "The Other Boleyn Girl (2008)",
             "Ready Player One (2018)",
@@ -16168,6 +16996,12 @@ var actorMap = {
                 "movie": "Children of a Lesser God",
                 "year": "1986"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "Children of a Lesser God",
+                "year": "1986"
+            }
         ]
     },
     "Marley Shelton": {
@@ -16210,6 +17044,16 @@ var actorMap = {
             {
                 "movie": "A Dry White Season",
                 "year": "1989"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "On the Waterfront",
+                "year": "1954"
+            },
+            {
+                "movie": "The Godfather",
+                "year": "1972"
             }
         ],
         "movies": [
@@ -16287,6 +17131,12 @@ var actorMap = {
                 "movie": "Crimes and Misdemeanors",
                 "year": "1989"
             },
+            {
+                "movie": "Ed Wood",
+                "year": "1994"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Ed Wood",
                 "year": "1994"
@@ -16605,6 +17455,12 @@ var actorMap = {
                 "year": "2013"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Dallas Buyers Club",
+                "year": "2013"
+            }
+        ],
         "movies": [
             "Dazed and Confused (1993)",
             "Amistad (1997)",
@@ -16855,6 +17711,12 @@ var actorMap = {
                 "year": "2010"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Fighter",
+                "year": "2010"
+            }
+        ],
         "movies": [
             "Oblivion (2013)",
             "Prisoners (2013)"
@@ -16906,6 +17768,12 @@ var actorMap = {
     },
     "Mercedes Ruehl": {
         "suppNoms": [
+            {
+                "movie": "The Fisher King",
+                "year": "1991"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "The Fisher King",
                 "year": "1991"
@@ -17023,6 +17891,22 @@ var actorMap = {
                 "year": "2014"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Sophie's Choice",
+                "year": "1982"
+            },
+            {
+                "movie": "The Iron Lady",
+                "year": "2011"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Kramer vs. Kramer",
+                "year": "1979"
+            }
+        ],
         "movies": [
             "The Deer Hunter (1978)",
             "The Hours (2002)",
@@ -17138,6 +18022,16 @@ var actorMap = {
                 "year": "1999"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Hannah and Her Sisters",
+                "year": "1986"
+            },
+            {
+                "movie": "The Cider House Rules",
+                "year": "1999"
+            }
+        ],
         "movies": [
             "Austin Powers in Goldmember (2002)",
             "Batman Begins (2005)",
@@ -17206,6 +18100,12 @@ var actorMap = {
     },
     "Michael Douglas": {
         "leadNoms": [
+            {
+                "movie": "Wall Street",
+                "year": "1987"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Wall Street",
                 "year": "1987"
@@ -17833,6 +18733,12 @@ var actorMap = {
                 "movie": "Mighty Aphrodite",
                 "year": "1995"
             }
+        ],
+        "suppWins": [
+            {
+                "movie": "Mighty Aphrodite",
+                "year": "1995"
+            }
         ]
     },
     "Miranda Otto": {
@@ -17893,6 +18799,12 @@ var actorMap = {
     },
     "Mo'Nique": {
         "suppNoms": [
+            {
+                "movie": "Precious: Based on the Novel 'Push' by Sapphire",
+                "year": "2009"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Precious: Based on the Novel 'Push' by Sapphire",
                 "year": "2009"
@@ -17969,6 +18881,12 @@ var actorMap = {
                 "movie": "Street Smart",
                 "year": "1987"
             },
+            {
+                "movie": "Million Dollar Baby",
+                "year": "2004"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Million Dollar Baby",
                 "year": "2004"
@@ -18148,6 +19066,12 @@ var actorMap = {
             {
                 "movie": "Closer",
                 "year": "2004"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Black Swan",
+                "year": "2010"
             }
         ],
         "movies": [
@@ -18411,6 +19335,12 @@ var actorMap = {
                 "year": "2002"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Leaving Las Vegas",
+                "year": "1995"
+            }
+        ],
         "movies": [
             "The Outsiders (1983)",
             "Ghost Rider (2007)",
@@ -18444,6 +19374,12 @@ var actorMap = {
             {
                 "movie": "Lion",
                 "year": "2016"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Hours",
+                "year": "2002"
             }
         ],
         "movies": [
@@ -18634,6 +19570,12 @@ var actorMap = {
                 "year": "2017"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Help",
+                "year": "2011"
+            }
+        ],
         "movies": [
             "Spider-Man (2002)",
             "The Help (2011)",
@@ -18704,6 +19646,12 @@ var actorMap = {
                 "year": "2021"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Favourite",
+                "year": "2018"
+            }
+        ],
         "movies": [
             "Locke (2014)",
             "Murder on the Orient Express (2017)"
@@ -18755,6 +19703,12 @@ var actorMap = {
     },
     "Olympia Dukakis": {
         "suppNoms": [
+            {
+                "movie": "Moonstruck",
+                "year": "1987"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Moonstruck",
                 "year": "1987"
@@ -18938,6 +19892,12 @@ var actorMap = {
     },
     "Patricia Arquette": {
         "suppNoms": [
+            {
+                "movie": "Boyhood",
+                "year": "2014"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Boyhood",
                 "year": "2014"
@@ -19159,6 +20119,12 @@ var actorMap = {
                 "year": "2002"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "The Color of Money",
+                "year": "1986"
+            }
+        ],
         "movies": [
             "The Hustler (1961)",
             "The Color of Money (1986)",
@@ -19224,6 +20190,12 @@ var actorMap = {
             {
                 "movie": "Quiz Show",
                 "year": "1994"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "A Man for All Seasons",
+                "year": "1966"
             }
         ]
     },
@@ -19368,6 +20340,12 @@ var actorMap = {
             {
                 "movie": "Nine",
                 "year": "2009"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "Vicky Cristina Barcelona",
+                "year": "2008"
             }
         ],
         "movies": [
@@ -19700,6 +20678,12 @@ var actorMap = {
                 "year": "2012"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Capote",
+                "year": "2005"
+            }
+        ],
         "movies": [
             "Magnolia (1999)",
             "Almost Famous (2000)",
@@ -19915,6 +20899,12 @@ var actorMap = {
                 "year": "2018"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Constant Gardener",
+                "year": "2005"
+            }
+        ],
         "movies": [
             "Constantine (2005)",
             "The Brothers Bloom (2009)",
@@ -20003,6 +20993,12 @@ var actorMap = {
     },
     "Rami Malek": {
         "leadNoms": [
+            {
+                "movie": "Bohemian Rhapsody",
+                "year": "2018"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Bohemian Rhapsody",
                 "year": "2018"
@@ -20194,6 +21190,12 @@ var actorMap = {
                 "year": "2014"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Walk the Line",
+                "year": "2005"
+            }
+        ],
         "movies": [
             "Cruel Intentions (1999)",
             "Sweet Home Alabama (2002)",
@@ -20229,6 +21231,12 @@ var actorMap = {
     },
     "Regina King": {
         "suppNoms": [
+            {
+                "movie": "If Beale Street Could Talk",
+                "year": "2018"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "If Beale Street Could Talk",
                 "year": "2018"
@@ -20282,6 +21290,18 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "Cold Mountain",
+                "year": "2003"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Judy",
+                "year": "2019"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Cold Mountain",
                 "year": "2003"
@@ -20404,6 +21424,12 @@ var actorMap = {
             {
                 "movie": "Mr. Holland's Opus",
                 "year": "1995"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Goodbye Girl",
+                "year": "1977"
             }
         ],
         "movies": [
@@ -20738,6 +21764,18 @@ var actorMap = {
                 "year": "2012"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Raging Bull",
+                "year": "1980"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "The Godfather Part II",
+                "year": "1974"
+            }
+        ],
         "movies": [
             "The Deer Hunter (1978)",
             "New Year's Eve (2011)",
@@ -20808,6 +21846,12 @@ var actorMap = {
             {
                 "movie": "The Judge",
                 "year": "2014"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Tender Mercies",
+                "year": "1983"
             }
         ],
         "movies": [
@@ -20929,6 +21973,12 @@ var actorMap = {
                 "movie": "Life Is Beautiful",
                 "year": "1998"
             }
+        ],
+        "leadWins": [
+            {
+                "movie": "Life Is Beautiful",
+                "year": "1998"
+            }
         ]
     },
     "Robin Curtis": {
@@ -20953,6 +22003,12 @@ var actorMap = {
             }
         ],
         "suppNoms": [
+            {
+                "movie": "Good Will Hunting",
+                "year": "1997"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Good Will Hunting",
                 "year": "1997"
@@ -21332,6 +22388,12 @@ var actorMap = {
                 "year": "2001"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Gladiator",
+                "year": "2000"
+            }
+        ],
         "movies": [
             "Les Mis\u00e9rables (2012)",
             "Man of Steel (2013)",
@@ -21481,6 +22543,16 @@ var actorMap = {
                 "year": "2012"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Norma Rae",
+                "year": "1979"
+            },
+            {
+                "movie": "Places in the Heart",
+                "year": "1984"
+            }
+        ],
         "movies": [
             "Places in the Heart (1984)",
             "Forrest Gump (1994)",
@@ -21620,6 +22692,12 @@ var actorMap = {
                 "year": "2018"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Three Billboards Outside Ebbing, Missouri",
+                "year": "2017"
+            }
+        ],
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
             "The Green Mile (1999)",
@@ -21753,6 +22831,12 @@ var actorMap = {
             {
                 "movie": "Gravity",
                 "year": "2013"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "The Blind Side",
+                "year": "2009"
             }
         ],
         "movies": [
@@ -22002,6 +23086,12 @@ var actorMap = {
                 "year": "1987"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "The Untouchables",
+                "year": "1987"
+            }
+        ],
         "movies": [
             "Indiana Jones and the Last Crusade (1989)",
             "Robin Hood: Prince of Thieves (1991)",
@@ -22048,6 +23138,16 @@ var actorMap = {
                 "movie": "I Am Sam",
                 "year": "2001"
             },
+            {
+                "movie": "Mystic River",
+                "year": "2003"
+            },
+            {
+                "movie": "Milk",
+                "year": "2008"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Mystic River",
                 "year": "2003"
@@ -22318,6 +23418,12 @@ var actorMap = {
                 "year": "1983"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Terms of Endearment",
+                "year": "1983"
+            }
+        ],
         "movies": [
             "Ocean's 11 (1960)",
             "Terms of Endearment (1983)",
@@ -22354,6 +23460,12 @@ var actorMap = {
                 "movie": "The Defiant Ones",
                 "year": "1958"
             },
+            {
+                "movie": "Lilies of the Field",
+                "year": "1963"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Lilies of the Field",
                 "year": "1963"
@@ -22479,6 +23591,12 @@ var actorMap = {
             {
                 "movie": "In the Bedroom",
                 "year": "2001"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Coal Miner's Daughter",
+                "year": "1980"
             }
         ],
         "movies": [
@@ -22654,6 +23772,16 @@ var actorMap = {
             {
                 "movie": "Guess Who's Coming to Dinner",
                 "year": "1967"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Captains Courageous",
+                "year": "1937"
+            },
+            {
+                "movie": "Boys Town",
+                "year": "1938"
             }
         ],
         "movies": [
@@ -23058,6 +24186,12 @@ var actorMap = {
                 "movie": "The Client",
                 "year": "1994"
             },
+            {
+                "movie": "Dead Man Walking",
+                "year": "1995"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Dead Man Walking",
                 "year": "1995"
@@ -23492,6 +24626,12 @@ var actorMap = {
                 "year": "2007"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Michael Clayton",
+                "year": "2007"
+            }
+        ],
         "movies": [
             "Vanilla Sky (2001)",
             "Constantine (2005)",
@@ -23569,6 +24709,12 @@ var actorMap = {
                 "year": "2003"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Mystic River",
+                "year": "2003"
+            }
+        ],
         "movies": [
             "Top Gun (1986)",
             "Howard the Duck (1986)",
@@ -23602,6 +24748,12 @@ var actorMap = {
     },
     "Timothy Hutton": {
         "suppNoms": [
+            {
+                "movie": "Ordinary People",
+                "year": "1980"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "Ordinary People",
                 "year": "1980"
@@ -23861,6 +25013,16 @@ var actorMap = {
                 "year": "2019"
             }
         ],
+        "leadWins": [
+            {
+                "movie": "Philadelphia",
+                "year": "1993"
+            },
+            {
+                "movie": "Forrest Gump",
+                "year": "1994"
+            }
+        ],
         "movies": [
             "Big (1988)",
             "A League of Their Own (1992)",
@@ -24052,6 +25214,12 @@ var actorMap = {
             {
                 "movie": "Lincoln",
                 "year": "2012"
+            }
+        ],
+        "suppWins": [
+            {
+                "movie": "The Fugitive",
+                "year": "1993"
             }
         ],
         "movies": [
@@ -24251,6 +25419,12 @@ var actorMap = {
     },
     "Troy Kotsur": {
         "suppNoms": [
+            {
+                "movie": "CODA",
+                "year": "2021"
+            }
+        ],
+        "suppWins": [
             {
                 "movie": "CODA",
                 "year": "2021"
@@ -24470,6 +25644,12 @@ var actorMap = {
                 "year": "1992"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Julia",
+                "year": "1977"
+            }
+        ],
         "movies": [
             "Howards End (1992)",
             "Mission: Impossible (1996)",
@@ -24674,6 +25854,12 @@ var actorMap = {
                 "year": "2016"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Fences",
+                "year": "2016"
+            }
+        ],
         "movies": [
             "Traffic (2000)",
             "Kate & Leopold (2001)",
@@ -24708,6 +25894,16 @@ var actorMap = {
     },
     "Vivien Leigh": {
         "leadNoms": [
+            {
+                "movie": "Gone with the Wind",
+                "year": "1939"
+            },
+            {
+                "movie": "A Streetcar Named Desire",
+                "year": "1951"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "Gone with the Wind",
                 "year": "1939"
@@ -24897,6 +26093,12 @@ var actorMap = {
                 "year": "1990"
             }
         ],
+        "suppWins": [
+            {
+                "movie": "Ghost",
+                "year": "1990"
+            }
+        ],
         "movies": [
             "Jumpin' Jack Flash (1986)",
             "The Lion King (1994)",
@@ -24986,6 +26188,12 @@ var actorMap = {
                 "movie": "The Pursuit of Happyness",
                 "year": "2006"
             },
+            {
+                "movie": "King Richard",
+                "year": "2021"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "King Richard",
                 "year": "2021"
@@ -25104,6 +26312,12 @@ var actorMap = {
             {
                 "movie": "A History of Violence",
                 "year": "2005"
+            }
+        ],
+        "leadWins": [
+            {
+                "movie": "Kiss of the Spider Woman",
+                "year": "1985"
             }
         ],
         "movies": [
@@ -25334,6 +26548,12 @@ var actorMap = {
                 "movie": "Minari",
                 "year": "2020"
             }
+        ],
+        "suppWins": [
+            {
+                "movie": "Minari",
+                "year": "2020"
+            }
         ]
     },
     "Yu Rongguang": {
@@ -25343,6 +26563,12 @@ var actorMap = {
     },
     "Yul Brynner": {
         "leadNoms": [
+            {
+                "movie": "The King and I",
+                "year": "1956"
+            }
+        ],
+        "leadWins": [
             {
                 "movie": "The King and I",
                 "year": "1956"
