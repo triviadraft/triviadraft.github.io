@@ -60701,6 +60701,16 @@ var movieMap = {
             "Dramas",
             "Matt & Ben",
             "Samuel L. Jackson"
+        ],
+        "cast": [
+            "Amanda Peet",
+            "Ben Affleck",
+            "Dylan Baker",
+            "Richard Jenkins",
+            "Samuel L. Jackson",
+            "Sydney Pollack",
+            "Toni Collette",
+            "William Hurt"
         ]
     },
     "Frailty (2002)": {
@@ -70346,6 +70356,14 @@ var movieMap = {
             "Musicians in Film",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Adam Scott",
+            "Jane Fonda",
+            "Jennifer Lopez",
+            "Michael Vartan",
+            "Wanda Sykes",
+            "Will Arnett"
         ]
     },
     "Unleashed (2005)": {

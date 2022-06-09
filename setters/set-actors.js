@@ -181,6 +181,7 @@ var actorMap = {
     "Adam Scott": {
         "movies": [
             "The Aviator (2004)",
+            "Monster-in-Law (2005)",
             "Knocked Up (2007)"
         ]
     },
@@ -843,6 +844,7 @@ var actorMap = {
     },
     "Amanda Peet": {
         "movies": [
+            "Changing Lanes (2002)",
             "Something's Gotta Give (2003)"
         ]
     },
@@ -2131,6 +2133,7 @@ var actorMap = {
             "Dazed and Confused (1993)",
             "Shakespeare in Love (1998)",
             "Dogma (1999)",
+            "Changing Lanes (2002)",
             "Daredevil (2003)",
             "Gigli (2003)",
             "Smokin' Aces (2007)",
@@ -6780,6 +6783,7 @@ var actorMap = {
     "Dylan Baker": {
         "movies": [
             "The Tailor of Panama (2001)",
+            "Changing Lanes (2002)",
             "Road to Perdition (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)"
@@ -11254,6 +11258,7 @@ var actorMap = {
         "movies": [
             "9 to 5 (1980)",
             "On Golden Pond (1981)",
+            "Monster-in-Law (2005)",
             "This Is Where I Leave You (2014)",
             "Book Club (2018)"
         ]
@@ -11954,7 +11959,8 @@ var actorMap = {
     "Jennifer Lopez": {
         "movies": [
             "Enough (2002)",
-            "Gigli (2003)"
+            "Gigli (2003)",
+            "Monster-in-Law (2005)"
         ]
     },
     "Jennifer Love Hewitt": {
@@ -18648,6 +18654,11 @@ var actorMap = {
             "Doctor Strange (2016)"
         ]
     },
+    "Michael Vartan": {
+        "movies": [
+            "Monster-in-Law (2005)"
+        ]
+    },
     "Michael Wincott": {
         "movies": [
             "Born on the Fourth of July (1989)",
@@ -21825,6 +21836,7 @@ var actorMap = {
         ],
         "movies": [
             "The Witches of Eastwick (1987)",
+            "Changing Lanes (2002)",
             "Rumor Has It (2005)",
             "The Tale of Despereaux (2008)",
             "The Cabin in the Woods (2012)",
@@ -23106,6 +23118,7 @@ var actorMap = {
             "True Romance (1993)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Unbreakable (2000)",
+            "Changing Lanes (2002)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Incredibles (2004)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
@@ -24550,6 +24563,7 @@ var actorMap = {
     "Sydney Pollack": {
         "movies": [
             "Eyes Wide Shut (1999)",
+            "Changing Lanes (2002)",
             "Michael Clayton (2007)"
         ]
     },
@@ -25615,6 +25629,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Changing Lanes (2002)",
             "The Hours (2002)",
             "Knives Out (2019)",
             "Nightmare Alley (2021)"
@@ -26341,6 +26356,11 @@ var actorMap = {
             "Ant-Man and the Wasp (2018)"
         ]
     },
+    "Wanda Sykes": {
+        "movies": [
+            "Monster-in-Law (2005)"
+        ]
+    },
     "Warren Beatty": {
         "leadNoms": [
             {
@@ -26506,6 +26526,7 @@ var actorMap = {
     },
     "Will Arnett": {
         "movies": [
+            "Monster-in-Law (2005)",
             "RV (2006)",
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)",
@@ -26701,6 +26722,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Changing Lanes (2002)",
             "A History of Violence (2005)",
             "The Incredible Hulk (2008)",
             "Captain America: Civil War (2016)",
