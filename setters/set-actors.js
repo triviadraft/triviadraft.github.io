@@ -8232,18 +8232,13 @@ var actorMap = {
     },
     "Frank Welker": {
         "movies": [
-            "Star Trek III: The Search for Spock (1984)",
             "The Transformers: The Movie (1986)",
-            "The Return of Swamp Thing (1989)",
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "The Pagemaster (1994)",
-            "TMNT (2007)",
             "Transformers: Revenge of the Fallen (2009)",
-            "Alice in Wonderland (2010)",
             "Transformers: Dark of the Moon (2011)",
             "Transformers: Age of Extinction (2014)",
-            "Transformers: The Last Knight (2017)",
-            "The Grinch (2018)"
+            "Transformers: The Last Knight (2017)"
         ]
     },
     "Frank Whaley": {

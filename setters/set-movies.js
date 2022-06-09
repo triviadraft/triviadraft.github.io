@@ -21595,7 +21595,6 @@ var movieMap = {
         "cast": [
             "Christopher Lloyd",
             "DeForest Kelley",
-            "Frank Welker",
             "George Takei",
             "James Doohan",
             "John Larroquette",
@@ -29778,7 +29777,6 @@ var movieMap = {
             "Horror/Thriller"
         ],
         "cast": [
-            "Frank Welker",
             "Heather Locklear",
             "Louis Jourdan",
             "Sarah Douglas"
@@ -76533,7 +76531,6 @@ var movieMap = {
         ],
         "cast": [
             "Chris Evans",
-            "Frank Welker",
             "James Arnold Taylor",
             "Kevin Smith",
             "Laurence Fishburne",
@@ -85992,7 +85989,6 @@ var movieMap = {
             "Christopher Lee",
             "Crispin Glover",
             "Frances de la Tour",
-            "Frank Welker",
             "Helena Bonham Carter",
             "Imelda Staunton",
             "Jim Carter",
@@ -117377,7 +117373,6 @@ var movieMap = {
         "cast": [
             "Angela Lansbury",
             "Benedict Cumberbatch",
-            "Frank Welker",
             "Kenan Thompson",
             "Pharrell Williams",
             "Rashida Jones"
