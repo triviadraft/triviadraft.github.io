@@ -33,7 +33,8 @@ var actorMap = {
     },
     "Abbey Lee": {
         "movies": [
-            "The Dark Tower (2017)"
+            "The Dark Tower (2017)",
+            "Old (2021)"
         ]
     },
     "Abbie Cornish": {
@@ -153,7 +154,8 @@ var actorMap = {
     "Adam Goldberg": {
         "movies": [
             "Dazed and Confused (1993)",
-            "Saving Private Ryan (1998)"
+            "Saving Private Ryan (1998)",
+            "D\u00e9j\u00e0 Vu (2006)"
         ]
     },
     "Adam Hann-Byrd": {
@@ -195,6 +197,7 @@ var actorMap = {
     },
     "Adewale Akinnuoye-Agbaje": {
         "movies": [
+            "The Mummy Returns (2001)",
             "Thor: The Dark World (2013)",
             "Suicide Squad (2016)"
         ]
@@ -597,6 +600,11 @@ var actorMap = {
     "Alex Trebek": {
         "movies": [
             "The Bucket List (2007)"
+        ]
+    },
+    "Alex Wolff": {
+        "movies": [
+            "Old (2021)"
         ]
     },
     "Alexa Davalos": {
@@ -1014,6 +1022,7 @@ var actorMap = {
     },
     "Andre Braugher": {
         "movies": [
+            "Glory (1989)",
             "Primal Fear (1996)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "The Mist (2007)"
@@ -1022,6 +1031,12 @@ var actorMap = {
     "Andre Holland": {
         "movies": [
             "A Wrinkle in Time (2018)"
+        ]
+    },
+    "Andre Ward": {
+        "movies": [
+            "Creed (2015)",
+            "Creed II (2018)"
         ]
     },
     "Andrea Martin": {
@@ -1530,6 +1545,11 @@ var actorMap = {
             "Transformers (2007)"
         ]
     },
+    "Anthony Bellew": {
+        "movies": [
+            "Creed (2015)"
+        ]
+    },
     "Anthony Daniels": {
         "movies": [
             "Star Wars (1977)",
@@ -1667,6 +1687,11 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Anthony Wong": {
+        "movies": [
+            "The Mummy: Tomb of the Dragon Emperor (2008)"
+        ]
+    },
     "Anthony Zerbe": {
         "movies": [
             "Star Trek: Insurrection (1998)",
@@ -1697,6 +1722,11 @@ var actorMap = {
             "The Legend of Zorro (2005)",
             "Dolittle (2020)",
             "Uncharted (2022)"
+        ]
+    },
+    "Antonio Tarver": {
+        "movies": [
+            "Rocky Balboa (2006)"
         ]
     },
     "Anya Taylor-Joy": {
@@ -1756,6 +1786,11 @@ var actorMap = {
             "Amistad (1997)"
         ]
     },
+    "Armand Assante": {
+        "movies": [
+            "American Gangster (2007)"
+        ]
+    },
     "Armin Mueller-Stahl": {
         "suppNoms": [
             {
@@ -1778,6 +1813,12 @@ var actorMap = {
             "Terminator 3: Rise of the Machines (2003)",
             "Terminator Genisys (2015)",
             "Terminator: Dark Fate (2019)"
+        ]
+    },
+    "Arnold Vosloo": {
+        "movies": [
+            "The Mummy (1999)",
+            "The Mummy Returns (2001)"
         ]
     },
     "Art Carney": {
@@ -1913,6 +1954,7 @@ var actorMap = {
     "Awkwafina": {
         "movies": [
             "Ocean's 8 (2018)",
+            "Crazy Rich Asians (2018)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
@@ -2232,6 +2274,7 @@ var actorMap = {
     },
     "Benedict Wong": {
         "movies": [
+            "Sunshine (2007)",
             "Moon (2009)",
             "Prometheus (2012)",
             "Kick-Ass 2 (2013)",
@@ -2282,6 +2325,7 @@ var actorMap = {
     },
     "Bernard Hill": {
         "movies": [
+            "The Scorpion King (2002)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Gothika (2003)",
             "The Lord of the Rings: The Return of the King (2003)",
@@ -2485,6 +2529,7 @@ var actorMap = {
     },
     "Bill Nunn": {
         "movies": [
+            "He Got Game (1998)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)"
@@ -2668,6 +2713,7 @@ var actorMap = {
     },
     "Bob Gunton": {
         "movies": [
+            "Glory (1989)",
             "Born on the Fourth of July (1989)",
             "The Shawshank Redemption (1994)",
             "Dolores Claiborne (1995)",
@@ -2979,7 +3025,10 @@ var actorMap = {
     "Brendan Fraser": {
         "movies": [
             "Gods and Monsters (1998)",
+            "The Mummy (1999)",
+            "The Mummy Returns (2001)",
             "Crash (2005)",
+            "The Mummy: Tomb of the Dragon Emperor (2008)",
             "Inkheart (2009)"
         ]
     },
@@ -3147,6 +3196,12 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Brigitte Nielsen": {
+        "movies": [
+            "Rocky IV (1985)",
+            "Creed II (2018)"
+        ]
+    },
     "Brion James": {
         "movies": [
             "The Fifth Element (1997)"
@@ -3250,6 +3305,7 @@ var actorMap = {
     },
     "Bruce Greenwood": {
         "movies": [
+            "D\u00e9j\u00e0 Vu (2006)",
             "Star Trek (2009)",
             "Star Trek Into Darkness (2013)",
             "Kingsman: The Golden Circle (2017)",
@@ -3342,7 +3398,10 @@ var actorMap = {
         ],
         "movies": [
             "Batman (1966)",
-            "Rocky (1976)"
+            "Rocky (1976)",
+            "Rocky II (1979)",
+            "Rocky III (1982)",
+            "Rocky V (1990)"
         ]
     },
     "Burn Gorman": {
@@ -3378,7 +3437,12 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Rocky (1976)"
+            "Rocky (1976)",
+            "Rocky II (1979)",
+            "Rocky III (1982)",
+            "Rocky IV (1985)",
+            "Rocky V (1990)",
+            "Rocky Balboa (2006)"
         ]
     },
     "Busy Philipps": {
@@ -3542,6 +3606,9 @@ var actorMap = {
     "Carl Weathers": {
         "movies": [
             "Rocky (1976)",
+            "Rocky II (1979)",
+            "Rocky III (1982)",
+            "Rocky IV (1985)",
             "Predator (1987)",
             "Think Like a Man Too (2014)"
         ]
@@ -3549,6 +3616,7 @@ var actorMap = {
     "Carla Gugino": {
         "movies": [
             "Sin City (2005)",
+            "American Gangster (2007)",
             "Watchmen (2009)",
             "New Year's Eve (2011)",
             "Man of Steel (2013)",
@@ -3615,6 +3683,7 @@ var actorMap = {
     },
     "Cary Elwes": {
         "movies": [
+            "Glory (1989)",
             "Days of Thunder (1990)",
             "No Strings Attached (2011)",
             "New Year's Eve (2011)",
@@ -3878,6 +3947,11 @@ var actorMap = {
             "21 Bridges (2019)"
         ]
     },
+    "Chang Chen": {
+        "movies": [
+            "Crouching Tiger, Hidden Dragon (2000)"
+        ]
+    },
     "Channing Tatum": {
         "movies": [
             "This Is the End (2013)",
@@ -4052,6 +4126,11 @@ var actorMap = {
             "This Means War (2012)"
         ]
     },
+    "Cheng Pei-pei": {
+        "movies": [
+            "Crouching Tiger, Hidden Dragon (2000)"
+        ]
+    },
     "Cher": {
         "leadNoms": [
             {
@@ -4122,7 +4201,9 @@ var actorMap = {
         "movies": [
             "Amistad (1997)",
             "Love Actually (2003)",
+            "Inside Man (2006)",
             "Talk to Me (2007)",
+            "American Gangster (2007)",
             "Doctor Strange (2016)",
             "The Old Guard (2020)"
         ]
@@ -4162,6 +4243,7 @@ var actorMap = {
     },
     "Chow Yun-fat": {
         "movies": [
+            "Crouching Tiger, Hidden Dragon (2000)",
             "Bulletproof Monk (2003)",
             "Pirates of the Caribbean: At World's End (2007)"
         ]
@@ -4202,6 +4284,7 @@ var actorMap = {
             "Fantastic Four (2005)",
             "TMNT (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
+            "Sunshine (2007)",
             "The Losers (2010)",
             "Scott Pilgrim vs. the World (2010)",
             "Captain America: The First Avenger (2011)",
@@ -4276,6 +4359,12 @@ var actorMap = {
     "Chris Owen": {
         "movies": [
             "The Mist (2007)"
+        ]
+    },
+    "Chris Pang": {
+        "movies": [
+            "I, Frankenstein (2014)",
+            "Crazy Rich Asians (2018)"
         ]
     },
     "Chris Parnell": {
@@ -4554,6 +4643,7 @@ var actorMap = {
             "Star Trek VI: The Undiscovered Country (1991)",
             "Dolores Claiborne (1995)",
             "Alexander (2004)",
+            "Inside Man (2006)",
             "The Lake House (2006)",
             "Priest (2011)",
             "Knives Out (2019)"
@@ -4632,6 +4722,7 @@ var actorMap = {
         "movies": [
             "Cold Mountain (2003)",
             "Batman Begins (2005)",
+            "Sunshine (2007)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
             "In the Heart of the Sea (2015)",
@@ -4716,6 +4807,7 @@ var actorMap = {
         "movies": [
             "Six Days, Seven Nights (1998)",
             "Blow (2001)",
+            "Sunshine (2007)",
             "Doctor Sleep (2019)"
         ]
     },
@@ -4784,7 +4876,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "Inside Man (2006)"
         ]
     },
     "Cloris Leachman": {
@@ -4912,6 +5005,7 @@ var actorMap = {
     "Common": {
         "movies": [
             "Smokin' Aces (2007)",
+            "American Gangster (2007)",
             "Wanted (2008)",
             "Terminator Salvation (2009)",
             "New Year's Eve (2011)",
@@ -4948,6 +5042,11 @@ var actorMap = {
         "movies": [
             "Monsters vs. Aliens (2009)",
             "Kung Fu Panda 2 (2011)"
+        ]
+    },
+    "Constance Wu": {
+        "movies": [
+            "Crazy Rich Asians (2018)"
         ]
     },
     "Cooper Andrews": {
@@ -5064,7 +5163,8 @@ var actorMap = {
             "Boyz n the Hood (1991)",
             "A Few Good Men (1992)",
             "Jerry Maguire (1996)",
-            "As Good as It Gets (1997)"
+            "As Good as It Gets (1997)",
+            "American Gangster (2007)"
         ]
     },
     "Curtis Armstrong": {
@@ -5518,7 +5618,8 @@ var actorMap = {
     },
     "Daryl Mitchell": {
         "movies": [
-            "Galaxy Quest (1999)"
+            "Galaxy Quest (1999)",
+            "Inside Man (2006)"
         ]
     },
     "Daryl Sabara": {
@@ -6079,7 +6180,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Glory (1989)",
+            "He Got Game (1998)",
             "Remember the Titans (2000)",
+            "Inside Man (2006)",
+            "D\u00e9j\u00e0 Vu (2006)",
+            "American Gangster (2007)",
             "2 Guns (2013)",
             "Fences (2016)"
         ]
@@ -6329,6 +6435,8 @@ var actorMap = {
     },
     "Dolph Lundgren": {
         "movies": [
+            "Rocky IV (1985)",
+            "Creed II (2018)",
             "Aquaman (2018)"
         ]
     },
@@ -6647,6 +6755,8 @@ var actorMap = {
     },
     "Dwayne Johnson": {
         "movies": [
+            "The Mummy Returns (2001)",
+            "The Scorpion King (2002)",
             "Walking Tall (2004)",
             "You Again (2010)",
             "Hercules (2014)",
@@ -6953,6 +7063,7 @@ var actorMap = {
     },
     "Elden Henson": {
         "movies": [
+            "D\u00e9j\u00e0 Vu (2006)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
@@ -7034,7 +7145,8 @@ var actorMap = {
     },
     "Eliza Scanlen": {
         "movies": [
-            "Little Women (2019)"
+            "Little Women (2019)",
+            "Old (2021)"
         ]
     },
     "Elizabeth Banks": {
@@ -7141,6 +7253,7 @@ var actorMap = {
     },
     "Elle Fanning": {
         "movies": [
+            "D\u00e9j\u00e0 Vu (2006)",
             "The Curious Case of Benjamin Button (2008)",
             "We Bought a Zoo (2011)"
         ]
@@ -7274,7 +7387,8 @@ var actorMap = {
     "Embeth Davidtz": {
         "movies": [
             "The Amazing Spider-Man (2012)",
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "Old (2021)"
         ]
     },
     "Emerald Fennell": {
@@ -7916,6 +8030,7 @@ var actorMap = {
     },
     "Florian Munteanu": {
         "movies": [
+            "Creed II (2018)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
@@ -8183,6 +8298,11 @@ var actorMap = {
             "From Dusk till Dawn (1996)"
         ]
     },
+    "Freddie Boath": {
+        "movies": [
+            "The Mummy Returns (2001)"
+        ]
+    },
     "Freddie Prinze Jr.": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
@@ -8249,6 +8369,11 @@ var actorMap = {
         "movies": [
             "Sleepless in Seattle (1993)",
             "Wild (2014)"
+        ]
+    },
+    "Gael Garc\u00eda Bernal": {
+        "movies": [
+            "Old (2021)"
         ]
     },
     "Gal Gadot": {
@@ -8459,6 +8584,7 @@ var actorMap = {
         "movies": [
             "Fantastic Beasts and Where to Find Them (2016)",
             "Transformers: The Last Knight (2017)",
+            "Crazy Rich Asians (2018)",
             "Captain Marvel (2019)",
             "Eternals (2021)"
         ]
@@ -8697,6 +8823,11 @@ var actorMap = {
             "The Impossible (2012)",
             "A Monster Calls (2016)",
             "Jurassic World: Fallen Kingdom (2018)"
+        ]
+    },
+    "Geraldine Hughes": {
+        "movies": [
+            "Rocky Balboa (2006)"
         ]
     },
     "Gerard Butler": {
@@ -8946,7 +9077,13 @@ var actorMap = {
             "The Hobbit: An Unexpected Journey (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
+            "Creed (2015)",
             "Aquaman (2018)"
+        ]
+    },
+    "Grant Heslov": {
+        "movies": [
+            "The Scorpion King (2002)"
         ]
     },
     "Greg Cipes": {
@@ -9009,6 +9146,11 @@ var actorMap = {
     "Gus Van Sant": {
         "movies": [
             "Psycho (1998)"
+        ]
+    },
+    "Gustaf Hammarsten": {
+        "movies": [
+            "Old (2021)"
         ]
     },
     "Guy Pearce": {
@@ -9280,6 +9422,7 @@ var actorMap = {
     },
     "Harry Shum Jr.": {
         "movies": [
+            "Crazy Rich Asians (2018)",
             "Everything Everywhere All at Once (2022)"
         ]
     },
@@ -9551,6 +9694,7 @@ var actorMap = {
     },
     "Henry Golding": {
         "movies": [
+            "Crazy Rich Asians (2018)",
             "Last Christmas (2019)"
         ]
     },
@@ -9613,6 +9757,7 @@ var actorMap = {
     "Hiroyuki Sanada": {
         "movies": [
             "The Last Samurai (2003)",
+            "Sunshine (2007)",
             "Mr. Holmes (2015)",
             "Avengers: Endgame (2019)"
         ]
@@ -9740,6 +9885,11 @@ var actorMap = {
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
+    "Hulk Hogan": {
+        "movies": [
+            "Rocky III (1982)"
+        ]
+    },
     "Hynden Walch": {
         "movies": [
             "Groundhog Day (1993)",
@@ -9863,6 +10013,7 @@ var actorMap = {
     "Idris Elba": {
         "movies": [
             "Daddy's Little Girls (2007)",
+            "American Gangster (2007)",
             "The Losers (2010)",
             "Thor (2011)",
             "Ghost Rider: Spirit of Vengeance (2012)",
@@ -10853,6 +11004,7 @@ var actorMap = {
     },
     "James Ransone": {
         "movies": [
+            "Inside Man (2006)",
             "It Chapter Two (2019)"
         ]
     },
@@ -11034,6 +11186,7 @@ var actorMap = {
     },
     "Jane Alexander": {
         "movies": [
+            "Glory (1989)",
             "Terminator Salvation (2009)"
         ]
     },
@@ -11698,6 +11851,7 @@ var actorMap = {
     },
     "Jennifer Esposito": {
         "movies": [
+            "He Got Game (1998)",
             "Crash (2005)"
         ]
     },
@@ -12150,6 +12304,11 @@ var actorMap = {
             "North by Northwest (1959)"
         ]
     },
+    "Jet Li": {
+        "movies": [
+            "The Mummy: Tomb of the Dragon Emperor (2008)"
+        ]
+    },
     "Jiang Wen": {
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
@@ -12202,7 +12361,8 @@ var actorMap = {
     },
     "Jim Brown": {
         "movies": [
-            "The Running Man (1987)"
+            "The Running Man (1987)",
+            "He Got Game (1998)"
         ]
     },
     "Jim Carrey": {
@@ -12219,6 +12379,11 @@ var actorMap = {
             "Shakespeare in Love (1998)",
             "Alice in Wonderland (2010)",
             "Transformers: The Last Knight (2017)"
+        ]
+    },
+    "Jim Caviezel": {
+        "movies": [
+            "D\u00e9j\u00e0 Vu (2006)"
         ]
     },
     "Jim Cummings": {
@@ -12280,6 +12445,7 @@ var actorMap = {
     },
     "Jimmy O. Yang": {
         "movies": [
+            "Crazy Rich Asians (2018)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
     },
@@ -12503,6 +12669,9 @@ var actorMap = {
                 "movie": "The Silence of the Lambs",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "Inside Man (2006)"
         ]
     },
     "Joe Anderson": {
@@ -12533,6 +12702,7 @@ var actorMap = {
         "movies": [
             "Terminator 2: Judgment Day (1991)",
             "Apt Pupil (1998)",
+            "American Gangster (2007)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -12585,6 +12755,7 @@ var actorMap = {
     "Joe Spinell": {
         "movies": [
             "Rocky (1976)",
+            "Rocky II (1979)",
             "Losin' It (1983)"
         ]
     },
@@ -12795,6 +12966,9 @@ var actorMap = {
     },
     "John Hannah": {
         "movies": [
+            "The Mummy (1999)",
+            "The Mummy Returns (2001)",
+            "The Mummy: Tomb of the Dragon Emperor (2008)",
             "The Words (2012)"
         ]
     },
@@ -12808,6 +12982,7 @@ var actorMap = {
         "movies": [
             "From Dusk till Dawn (1996)",
             "I Still Know What You Did Last Summer (1998)",
+            "American Gangster (2007)",
             "Contagion (2011)",
             "The Peanut Butter Falcon (2019)"
         ]
@@ -12977,6 +13152,7 @@ var actorMap = {
     "John Ortiz": {
         "movies": [
             "Amistad (1997)",
+            "American Gangster (2007)",
             "Blackhat (2015)",
             "Bumblebee (2018)"
         ]
@@ -13072,6 +13248,7 @@ var actorMap = {
         "movies": [
             "The Color of Money (1986)",
             "Jungle Fever (1991)",
+            "He Got Game (1998)",
             "Secret Window (2004)",
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
@@ -13248,7 +13425,8 @@ var actorMap = {
             "The Rocketeer (1991)",
             "The Crow (1994)",
             "The Tailor of Panama (2001)",
-            "View from the Top (2003)"
+            "View from the Top (2003)",
+            "American Gangster (2007)"
         ]
     },
     "Jon Seda": {
@@ -13340,6 +13518,7 @@ var actorMap = {
     "Jonathan Hyde": {
         "movies": [
             "Jumanji (1995)",
+            "The Mummy (1999)",
             "The Tailor of Panama (2001)"
         ]
     },
@@ -13460,6 +13639,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "American Gangster (2007)",
             "Jonah Hex (2010)",
             "Men in Black 3 (2012)",
             "Guardians of the Galaxy (2014)",
@@ -14072,7 +14252,8 @@ var actorMap = {
         "movies": [
             "Girl, Interrupted (1999)",
             "Something's Gotta Give (2003)",
-            "Fever Pitch (2005)"
+            "Fever Pitch (2005)",
+            "American Gangster (2007)"
         ]
     },
     "Kal Penn": {
@@ -14600,6 +14781,11 @@ var actorMap = {
             "Horns (2014)"
         ]
     },
+    "Kelly Hu": {
+        "movies": [
+            "The Scorpion King (2002)"
+        ]
+    },
     "Kelly Macdonald": {
         "movies": [
             "The Hitchhiker's Guide to the Galaxy (2005)",
@@ -14659,14 +14845,17 @@ var actorMap = {
             "Knocked Up (2007)",
             "Couples Retreat (2009)",
             "Transformers: Dark of the Moon (2011)",
+            "Crazy Rich Asians (2018)",
             "Avengers: Endgame (2019)"
         ]
     },
     "Ken Leung": {
         "movies": [
             "Vanilla Sky (2001)",
+            "Inside Man (2006)",
             "X-Men: The Last Stand (2006)",
-            "Star Wars: The Force Awakens (2015)"
+            "Star Wars: The Force Awakens (2015)",
+            "Old (2021)"
         ]
     },
     "Ken Watanabe": {
@@ -14766,6 +14955,7 @@ var actorMap = {
     },
     "Kevin Connolly": {
         "movies": [
+            "Rocky V (1990)",
             "He's Just Not That into You (2009)"
         ]
     },
@@ -14984,6 +15174,12 @@ var actorMap = {
     "Kim Cattrall": {
         "movies": [
             "Star Trek VI: The Undiscovered Country (1991)"
+        ]
+    },
+    "Kim Director": {
+        "movies": [
+            "He Got Game (1998)",
+            "Inside Man (2006)"
         ]
     },
     "Kim Hunter": {
@@ -15672,6 +15868,7 @@ var actorMap = {
     },
     "Leonard Roberts": {
         "movies": [
+            "He Got Game (1998)",
             "Drumline (2002)"
         ]
     },
@@ -15837,6 +16034,11 @@ var actorMap = {
             "Road to Perdition (2002)"
         ]
     },
+    "Liam Cunningham": {
+        "movies": [
+            "The Mummy: Tomb of the Dragon Emperor (2008)"
+        ]
+    },
     "Liam Hemsworth": {
         "movies": [
             "The Hunger Games (2012)",
@@ -15875,6 +16077,7 @@ var actorMap = {
             "Kate & Leopold (2001)",
             "X-Men Origins: Wolverine (2009)",
             "Movie 43 (2013)",
+            "Creed (2015)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Don't Look Up (2021)"
         ]
@@ -16033,6 +16236,11 @@ var actorMap = {
     "Lisa Kudrow": {
         "movies": [
             "Long Shot (2019)"
+        ]
+    },
+    "Lisa Lu": {
+        "movies": [
+            "Crazy Rich Asians (2018)"
         ]
     },
     "Little Richard": {
@@ -16243,6 +16451,11 @@ var actorMap = {
             "Beauty and the Beast (2017)"
         ]
     },
+    "Luke Ford": {
+        "movies": [
+            "The Mummy: Tomb of the Dragon Emperor (2008)"
+        ]
+    },
     "Luke Goss": {
         "movies": [
             "Blade II (2002)",
@@ -16352,7 +16565,8 @@ var actorMap = {
         "movies": [
             "Unbreakable (2000)",
             "Split (2017)",
-            "Glass (2019)"
+            "Glass (2019)",
+            "Old (2021)"
         ]
     },
     "MC Hammer": {
@@ -16711,6 +16925,7 @@ var actorMap = {
         "movies": [
             "Secret Window (2004)",
             "A History of Violence (2005)",
+            "The Mummy: Tomb of the Dragon Emperor (2008)",
             "Prisoners (2013)"
         ]
     },
@@ -16881,6 +17096,7 @@ var actorMap = {
     },
     "Mark Margolis": {
         "movies": [
+            "Glory (1989)",
             "The Tailor of Panama (2001)",
             "Noah (2014)"
         ]
@@ -16950,6 +17166,7 @@ var actorMap = {
     },
     "Mark Strong": {
         "movies": [
+            "Sunshine (2007)",
             "Kick-Ass (2010)",
             "Green Lantern (2011)",
             "John Carter (2012)",
@@ -17395,6 +17612,7 @@ var actorMap = {
     "Matthew Broderick": {
         "movies": [
             "WarGames (1983)",
+            "Glory (1989)",
             "The Lion King (1994)",
             "The Producers (2005)",
             "The Tale of Despereaux (2008)",
@@ -17961,7 +18179,9 @@ var actorMap = {
     "Michael B. Jordan": {
         "movies": [
             "Fantastic Four (2015)",
-            "Black Panther (2018)"
+            "Creed (2015)",
+            "Black Panther (2018)",
+            "Creed II (2018)"
         ]
     },
     "Michael Biehn": {
@@ -18073,6 +18293,7 @@ var actorMap = {
         "movies": [
             "The Green Mile (1999)",
             "Planet of the Apes (2001)",
+            "The Scorpion King (2002)",
             "Daredevil (2003)",
             "Sin City (2005)",
             "Kung Fu Panda (2008)",
@@ -18525,8 +18746,12 @@ var actorMap = {
     },
     "Michelle Yeoh": {
         "movies": [
+            "Crouching Tiger, Hidden Dragon (2000)",
+            "Sunshine (2007)",
+            "The Mummy: Tomb of the Dragon Emperor (2008)",
             "Kung Fu Panda 2 (2011)",
             "Guardians of the Galaxy Vol. 2 (2017)",
+            "Crazy Rich Asians (2018)",
             "Last Christmas (2019)",
             "Shang-Chi and the Legend of the Ten Rings (2021)",
             "Everything Everywhere All at Once (2022)"
@@ -18677,6 +18902,7 @@ var actorMap = {
             "Chaplin (1992)",
             "Dazed and Confused (1993)",
             "The Fifth Element (1997)",
+            "He Got Game (1998)",
             "The Three Musketeers (2011)",
             "Hellboy (2019)"
         ]
@@ -18685,6 +18911,12 @@ var actorMap = {
         "movies": [
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)"
+        ]
+    },
+    "Milo Ventimiglia": {
+        "movies": [
+            "Rocky Balboa (2006)",
+            "Creed II (2018)"
         ]
     },
     "Mimi Rogers": {
@@ -18895,6 +19127,7 @@ var actorMap = {
         "movies": [
             "Lean on Me (1989)",
             "Driving Miss Daisy (1989)",
+            "Glory (1989)",
             "Robin Hood: Prince of Thieves (1991)",
             "Unforgiven (1992)",
             "The Shawshank Redemption (1994)",
@@ -18927,6 +19160,11 @@ var actorMap = {
         "movies": [
             "Monster's Ball (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)"
+        ]
+    },
+    "Mr. T": {
+        "movies": [
+            "Rocky III (1982)"
         ]
     },
     "Muggsy Bogues": {
@@ -19178,7 +19416,8 @@ var actorMap = {
             "Network (1976)",
             "Superman (1978)",
             "Superman II (1981)",
-            "Rudy (1993)"
+            "Rudy (1993)",
+            "He Got Game (1998)"
         ]
     },
     "Neel Sethi": {
@@ -19530,7 +19769,8 @@ var actorMap = {
     },
     "Norman Reedus": {
         "movies": [
-            "Blade II (2002)"
+            "Blade II (2002)",
+            "American Gangster (2007)"
         ]
     },
     "Numan Acar": {
@@ -19583,6 +19823,12 @@ var actorMap = {
             "Hidden Figures (2016)",
             "Dolittle (2020)",
             "Onward (2020)"
+        ]
+    },
+    "Oded Fehr": {
+        "movies": [
+            "The Mummy (1999)",
+            "The Mummy Returns (2001)"
         ]
     },
     "Odette Yustman": {
@@ -19918,6 +20164,16 @@ var actorMap = {
             "Jumanji (1995)",
             "The Green Mile (1999)",
             "Vicky Cristina Barcelona (2008)"
+        ]
+    },
+    "Patricia Vel\u00e1squez": {
+        "movies": [
+            "The Mummy Returns (2001)"
+        ]
+    },
+    "Patricia Vel\u00e1squez ": {
+        "movies": [
+            "The Mummy (1999)"
         ]
     },
     "Patrick Dempsey": {
@@ -20269,6 +20525,7 @@ var actorMap = {
     },
     "Paula Patton": {
         "movies": [
+            "D\u00e9j\u00e0 Vu (2006)",
             "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "2 Guns (2013)",
             "About Last Night (2014)"
@@ -20453,6 +20710,11 @@ var actorMap = {
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "X-Men: Days of Future Past (2014)",
             "Avengers: Infinity War (2018)"
+        ]
+    },
+    "Peter Facinelli": {
+        "movies": [
+            "The Scorpion King (2002)"
         ]
     },
     "Peter Falk": {
@@ -20702,7 +20964,9 @@ var actorMap = {
     },
     "Phylicia Rashad": {
         "movies": [
-            "For Colored Girls (2010)"
+            "For Colored Girls (2010)",
+            "Creed (2015)",
+            "Creed II (2018)"
         ]
     },
     "Phyllis Diller": {
@@ -20834,6 +21098,7 @@ var actorMap = {
     },
     "RZA": {
         "movies": [
+            "American Gangster (2007)",
             "Due Date (2010)"
         ]
     },
@@ -20906,6 +21171,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Mummy (1999)",
+            "The Mummy Returns (2001)",
             "Constantine (2005)",
             "The Brothers Bloom (2009)",
             "Black Widow (2021)"
@@ -21060,6 +21327,11 @@ var actorMap = {
     "Raven-Symon\u00e9": {
         "movies": [
             "The Princess Diaries 2: Royal Engagement (2004)"
+        ]
+    },
+    "Ray Allen": {
+        "movies": [
+            "He Got Game (1998)"
         ]
     },
     "Ray Charles": {
@@ -21263,6 +21535,7 @@ var actorMap = {
     },
     "Remy Hii": {
         "movies": [
+            "Crazy Rich Asians (2018)",
             "Spider-Man: Far From Home (2019)"
         ]
     },
@@ -21469,6 +21742,11 @@ var actorMap = {
             "Misery (1990)"
         ]
     },
+    "Richard Gant": {
+        "movies": [
+            "Rocky V (1990)"
+        ]
+    },
     "Richard Gere": {
         "movies": [
             "Primal Fear (1996)",
@@ -21575,6 +21853,11 @@ var actorMap = {
             "The Lost World: Jurassic Park (1997)",
             "Ray (2004)",
             "Man of Steel (2013)"
+        ]
+    },
+    "Rick Fox": {
+        "movies": [
+            "He Got Game (1998)"
         ]
     },
     "Rick Moranis": {
@@ -22057,7 +22340,8 @@ var actorMap = {
     },
     "Roger Bart": {
         "movies": [
-            "The Producers (2005)"
+            "The Producers (2005)",
+            "American Gangster (2007)"
         ]
     },
     "Roger Cross": {
@@ -22132,6 +22416,7 @@ var actorMap = {
     },
     "Ronny Chieng": {
         "movies": [
+            "Crazy Rich Asians (2018)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
@@ -22204,6 +22489,7 @@ var actorMap = {
     },
     "Rosario Dawson": {
         "movies": [
+            "He Got Game (1998)",
             "Men in Black II (2002)",
             "Alexander (2004)",
             "Sin City (2005)",
@@ -22217,6 +22503,7 @@ var actorMap = {
         "movies": [
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Troy (2004)",
+            "Sunshine (2007)",
             "Bridesmaids (2011)",
             "X-Men: First Class (2011)",
             "This Is Where I Leave You (2014)",
@@ -22312,7 +22599,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Jungle Fever (1991)"
+            "Jungle Fever (1991)",
+            "American Gangster (2007)"
         ]
     },
     "Ruby O. Fee": {
@@ -22337,7 +22625,8 @@ var actorMap = {
             "The Legend of Zorro (2005)",
             "The Holiday (2006)",
             "The Tourist (2010)",
-            "Hercules (2014)"
+            "Hercules (2014)",
+            "Old (2021)"
         ]
     },
     "Rupert Evans": {
@@ -22395,6 +22684,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "American Gangster (2007)",
             "Les Mis\u00e9rables (2012)",
             "Man of Steel (2013)",
             "Noah (2014)",
@@ -22404,7 +22694,8 @@ var actorMap = {
     "Russell Hornsby": {
         "movies": [
             "Fences (2016)",
-            "The Hate U Give (2018)"
+            "The Hate U Give (2018)",
+            "Creed II (2018)"
         ]
     },
     "Russell Peters": {
@@ -22519,6 +22810,11 @@ var actorMap = {
     "Saffron Burrows": {
         "movies": [
             "Troy (2004)"
+        ]
+    },
+    "Sage Stallone": {
+        "movies": [
+            "Rocky V (1990)"
         ]
     },
     "Sal Mineo": {
@@ -23665,7 +23961,8 @@ var actorMap = {
     "Sonoya Mizuno": {
         "movies": [
             "Ex Machina (2015)",
-            "La La Land (2016)"
+            "La La Land (2016)",
+            "Crazy Rich Asians (2018)"
         ]
     },
     "Sophia Ali": {
@@ -24102,6 +24399,11 @@ var actorMap = {
             "Red 2 (2013)"
         ]
     },
+    "Steven Brand": {
+        "movies": [
+            "The Scorpion King (2002)"
+        ]
+    },
     "Steven Soderbergh": {
         "movies": [
             "Ocean's Eleven (2001)"
@@ -24243,13 +24545,27 @@ var actorMap = {
         ],
         "movies": [
             "Rocky (1976)",
+            "Rocky II (1979)",
+            "Rocky III (1982)",
+            "Rocky IV (1985)",
+            "Rocky V (1990)",
+            "Rocky Balboa (2006)",
+            "Creed (2015)",
             "Guardians of the Galaxy Vol. 2 (2017)",
+            "Creed II (2018)",
             "The Suicide Squad (2021)"
         ]
     },
     "T. J. Storm": {
         "movies": [
             "Punisher: War Zone (2008)"
+        ]
+    },
+    "T.I.": {
+        "movies": [
+            "American Gangster (2007)",
+            "Ant-Man (2015)",
+            "Ant-Man and the Wasp (2018)"
         ]
     },
     "T.J. Miller": {
@@ -24297,7 +24613,11 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Rocky (1976)"
+            "Rocky (1976)",
+            "Rocky II (1979)",
+            "Rocky III (1982)",
+            "Rocky IV (1985)",
+            "Rocky V (1990)"
         ]
     },
     "Tammy Blanchard": {
@@ -24406,6 +24726,7 @@ var actorMap = {
     },
     "Ted Levine": {
         "movies": [
+            "American Gangster (2007)",
             "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
@@ -24500,7 +24821,9 @@ var actorMap = {
     "Tessa Thompson": {
         "movies": [
             "For Colored Girls (2010)",
+            "Creed (2015)",
             "Thor: Ragnarok (2017)",
+            "Creed II (2018)",
             "Avengers: Endgame (2019)",
             "Men in Black: International (2019)"
         ]
@@ -24588,6 +24911,7 @@ var actorMap = {
     "Thomasin McKenzie": {
         "movies": [
             "Jojo Rabbit (2019)",
+            "Old (2021)",
             "The Power of the Dog (2021)"
         ]
     },
@@ -24813,12 +25137,6 @@ var actorMap = {
         "movies": [
             "Tommy (1975)",
             "Last Action Hero (1993)"
-        ]
-    },
-    "Tip \"T.I.\" Harris": {
-        "movies": [
-            "Ant-Man (2015)",
-            "Ant-Man and the Wasp (2018)"
         ]
     },
     "Tisha Campbell": {
@@ -25123,7 +25441,7 @@ var actorMap = {
             "Last Action Hero (1993)"
         ]
     },
-    "Tom Savini as Sex Machine": {
+    "Tom Savini": {
         "movies": [
             "From Dusk till Dawn (1996)"
         ]
@@ -25241,6 +25559,11 @@ var actorMap = {
             "Zootopia (2016)"
         ]
     },
+    "Tommy Morrison": {
+        "movies": [
+            "Rocky V (1990)"
+        ]
+    },
     "Tone Bell": {
         "movies": [
             "Little (2019)"
@@ -25269,8 +25592,13 @@ var actorMap = {
     "Tony Burton": {
         "movies": [
             "Rocky (1976)",
+            "Rocky II (1979)",
             "The Shining (1980)",
-            "Armed and Dangerous (1986)"
+            "Rocky III (1982)",
+            "Rocky IV (1985)",
+            "Armed and Dangerous (1986)",
+            "Rocky V (1990)",
+            "Rocky Balboa (2006)"
         ]
     },
     "Tony Cox": {
@@ -25417,6 +25745,11 @@ var actorMap = {
             "Blade: Trinity (2004)"
         ]
     },
+    "Troy Garity": {
+        "movies": [
+            "Sunshine (2007)"
+        ]
+    },
     "Troy Kotsur": {
         "suppNoms": [
             {
@@ -25559,7 +25892,8 @@ var actorMap = {
             "Tombstone (1993)",
             "Batman Forever (1995)",
             "The Prince of Egypt (1998)",
-            "Alexander (2004)"
+            "Alexander (2004)",
+            "D\u00e9j\u00e0 Vu (2006)"
         ]
     },
     "Valeria Golino": {
@@ -25695,6 +26029,11 @@ var actorMap = {
         "movies": [
             "Star Wars: The Last Jedi (2017)",
             "The Old Guard (2020)"
+        ]
+    },
+    "Vicky Krieps": {
+        "movies": [
+            "Old (2021)"
         ]
     },
     "Victor Garber": {
@@ -26239,6 +26578,7 @@ var actorMap = {
             "Finding Nemo (2003)",
             "Spider-Man 2 (2004)",
             "The Aviator (2004)",
+            "Inside Man (2006)",
             "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "John Wick (2014)",
@@ -26443,7 +26783,9 @@ var actorMap = {
             "As Good as It Gets (1997)",
             "Remember the Titans (2000)",
             "Dredd (2012)",
-            "Ant-Man (2015)"
+            "Ant-Man (2015)",
+            "Creed (2015)",
+            "Creed II (2018)"
         ]
     },
     "Woody Allen": {
@@ -26661,6 +27003,11 @@ var actorMap = {
             "Joker (2019)"
         ]
     },
+    "Zelda Harris": {
+        "movies": [
+            "He Got Game (1998)"
+        ]
+    },
     "Zendaya": {
         "movies": [
             "Spider-Man: Homecoming (2017)",
@@ -26671,6 +27018,7 @@ var actorMap = {
     },
     "Zhang Ziyi": {
         "movies": [
+            "Crouching Tiger, Hidden Dragon (2000)",
             "TMNT (2007)"
         ]
     },

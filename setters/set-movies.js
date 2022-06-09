@@ -16375,6 +16375,15 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Burgess Meredith",
+            "Burt Young",
+            "Carl Weathers",
+            "Joe Spinell",
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Tony Burton"
         ]
     },
     "Escape from Alcatraz (1979)": {
@@ -19130,6 +19139,16 @@ var movieMap = {
             "Sly & Arnie",
             "Sports",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Burgess Meredith",
+            "Burt Young",
+            "Carl Weathers",
+            "Hulk Hogan",
+            "Mr. T",
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Tony Burton"
         ]
     },
     "Poltergeist (1982)": {
@@ -23939,6 +23958,15 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Brigitte Nielsen",
+            "Burt Young",
+            "Carl Weathers",
+            "Dolph Lundgren",
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Tony Burton"
         ]
     },
     "Young Sherlock Holmes (1985)": {
@@ -30998,6 +31026,16 @@ var movieMap = {
             "Denzel Washington",
             "Dramas",
             "Morgan Freeman"
+        ],
+        "cast": [
+            "Andre Braugher",
+            "Bob Gunton",
+            "Cary Elwes",
+            "Denzel Washington",
+            "Jane Alexander",
+            "Mark Margolis",
+            "Matthew Broderick",
+            "Morgan Freeman"
         ]
     },
     "The Wizard (1989)": {
@@ -32553,6 +32591,17 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Burgess Meredith",
+            "Burt Young",
+            "Kevin Connolly",
+            "Richard Gant",
+            "Sage Stallone",
+            "Sylvester Stallone",
+            "Talia Shire",
+            "Tommy Morrison",
+            "Tony Burton"
         ]
     },
     "The Rescuers Down Under (1990)": {
@@ -44245,7 +44294,7 @@ var movieMap = {
             "Michael Parks",
             "Quentin Tarantino",
             "Salma Hayek",
-            "Tom Savini as Sex Machine"
+            "Tom Savini"
         ]
     },
     "Black Sheep (1996)": {
@@ -50052,6 +50101,21 @@ var movieMap = {
             "Denzel Washington",
             "Spike Lee",
             "Sports"
+        ],
+        "cast": [
+            "Bill Nunn",
+            "Denzel Washington",
+            "Jennifer Esposito",
+            "Jim Brown",
+            "John Turturro",
+            "Kim Director",
+            "Leonard Roberts",
+            "Milla Jovovich",
+            "Ned Beatty",
+            "Ray Allen",
+            "Rick Fox",
+            "Rosario Dawson",
+            "Zelda Harris"
         ]
     },
     "Deep Impact (1998)": {
@@ -52913,6 +52977,15 @@ var movieMap = {
             "1990s",
             "Action/Adventure",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Arnold Vosloo",
+            "Brendan Fraser",
+            "John Hannah",
+            "Jonathan Hyde",
+            "Oded Fehr",
+            "Patricia Vel\u00e1squez ",
+            "Rachel Weisz"
         ]
     },
     "A Midsummer Night's Dream (1999)": {
@@ -56961,6 +57034,13 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Martial Arts"
+        ],
+        "cast": [
+            "Chang Chen",
+            "Cheng Pei-pei",
+            "Chow Yun-fat",
+            "Michelle Yeoh",
+            "Zhang Ziyi"
         ]
     },
     "Dungeons & Dragons (2000)": {
@@ -57879,6 +57959,17 @@ var movieMap = {
             "Dwayne Johnson",
             "Fantasy/Sci-Fi",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Adewale Akinnuoye-Agbaje",
+            "Arnold Vosloo",
+            "Brendan Fraser",
+            "Dwayne Johnson",
+            "Freddie Boath",
+            "John Hannah",
+            "Oded Fehr",
+            "Patricia Vel\u00e1squez",
+            "Rachel Weisz"
         ]
     },
     "A Knight's Tale (2001)": {
@@ -60698,6 +60789,15 @@ var movieMap = {
             "Dwayne Johnson",
             "Fantasy/Sci-Fi",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Bernard Hill",
+            "Dwayne Johnson",
+            "Grant Heslov",
+            "Kelly Hu",
+            "Michael Clarke Duncan",
+            "Peter Facinelli",
+            "Steven Brand"
         ]
     },
     "Jason X (2002)": {
@@ -73075,6 +73175,18 @@ var movieMap = {
             "Dramas",
             "Jodie Foster",
             "Spike Lee"
+        ],
+        "cast": [
+            "Chiwetel Ejiofor",
+            "Christopher Plummer",
+            "Clive Owen",
+            "Daryl Mitchell",
+            "Denzel Washington",
+            "James Ransone",
+            "Jodie Foster",
+            "Ken Leung",
+            "Kim Director",
+            "Willem Dafoe"
         ]
     },
     "Basic Instinct 2 (2006)": {
@@ -75307,6 +75419,16 @@ var movieMap = {
             "Action/Adventure",
             "Denzel Washington",
             "Scotts"
+        ],
+        "cast": [
+            "Adam Goldberg",
+            "Bruce Greenwood",
+            "Denzel Washington",
+            "Elden Henson",
+            "Elle Fanning",
+            "Jim Caviezel",
+            "Paula Patton",
+            "Val Kilmer"
         ]
     },
     "Tenacious D in The Pick of Destiny (2006)": {
@@ -75620,6 +75742,14 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Antonio Tarver",
+            "Burt Young",
+            "Geraldine Hughes",
+            "Milo Ventimiglia",
+            "Sylvester Stallone",
+            "Tony Burton"
         ]
     },
     "Venus (2006)": {
@@ -77449,6 +77579,17 @@ var movieMap = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Benedict Wong",
+            "Chris Evans",
+            "Cillian Murphy",
+            "Cliff Curtis",
+            "Hiroyuki Sanada",
+            "Mark Strong",
+            "Michelle Yeoh",
+            "Rose Byrne",
+            "Troy Garity"
         ]
     },
     "I Know Who Killed Me (2007)": {
@@ -78451,6 +78592,28 @@ var movieMap = {
             "Crime",
             "Denzel Washington",
             "Scotts"
+        ],
+        "cast": [
+            "Armand Assante",
+            "Carla Gugino",
+            "Chiwetel Ejiofor",
+            "Common",
+            "Cuba Gooding Jr.",
+            "Denzel Washington",
+            "Idris Elba",
+            "Joe Morton",
+            "John Hawkes",
+            "John Ortiz",
+            "Jon Polito",
+            "Josh Brolin",
+            "KaDee Strickland",
+            "Norman Reedus",
+            "Roger Bart",
+            "Ruby Dee",
+            "Russell Crowe",
+            "RZA",
+            "T.I.",
+            "Ted Levine"
         ]
     },
     "Bee Movie (2007)": {
@@ -80813,6 +80976,16 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Anthony Wong",
+            "Brendan Fraser",
+            "Jet Li",
+            "John Hannah",
+            "Liam Cunningham",
+            "Luke Ford",
+            "Maria Bello",
+            "Michelle Yeoh"
         ]
     },
     "Pineapple Express (2008)": {
@@ -98514,6 +98687,7 @@ var movieMap = {
         "cast": [
             "Aaron Eckhart",
             "Bill Nighy",
+            "Chris Pang",
             "Jai Courtney",
             "Miranda Otto",
             "Yvonne Strahovski"
@@ -103593,7 +103767,7 @@ var movieMap = {
             "Michael Pe\u00f1a",
             "Paul Rudd",
             "Sebastian Stan",
-            "Tip \"T.I.\" Harris",
+            "T.I.",
             "Tom Kenny",
             "Wood Harris"
         ]
@@ -105042,6 +105216,17 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Andre Ward",
+            "Anthony Bellew",
+            "Graham McTavish",
+            "Liev Schreiber",
+            "Michael B. Jordan",
+            "Phylicia Rashad",
+            "Sylvester Stallone",
+            "Tessa Thompson",
+            "Wood Harris"
         ]
     },
     "The Good Dinosaur (2015)": {
@@ -115497,8 +115682,8 @@ var movieMap = {
             "Michelle Pfeiffer",
             "Paul Rudd",
             "Randall Park",
+            "T.I.",
             "Tim Heidecker",
-            "Tip \"T.I.\" Harris",
             "Walton Goggins"
         ]
     },
@@ -116010,6 +116195,21 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Awkwafina",
+            "Chris Pang",
+            "Constance Wu",
+            "Gemma Chan",
+            "Harry Shum Jr.",
+            "Henry Golding",
+            "Jimmy O. Yang",
+            "Ken Jeong",
+            "Lisa Lu",
+            "Michelle Yeoh",
+            "Remy Hii",
+            "Ronny Chieng",
+            "Sonoya Mizuno"
         ]
     },
     "Mile 22 (2018)": {
@@ -117361,6 +117561,19 @@ var movieMap = {
             "Rocky",
             "Sly & Arnie",
             "Sports"
+        ],
+        "cast": [
+            "Andre Ward",
+            "Brigitte Nielsen",
+            "Dolph Lundgren",
+            "Florian Munteanu",
+            "Michael B. Jordan",
+            "Milo Ventimiglia",
+            "Phylicia Rashad",
+            "Russell Hornsby",
+            "Sylvester Stallone",
+            "Tessa Thompson",
+            "Wood Harris"
         ]
     },
     "Ralph Breaks the Internet (2018)": {
@@ -127280,6 +127493,19 @@ var movieMap = {
         "categories": [
             "2020s",
             "M. Night Shyamalan"
+        ],
+        "cast": [
+            "Abbey Lee",
+            "Alex Wolff",
+            "Eliza Scanlen",
+            "Embeth Davidtz",
+            "Gael Garc\u00eda Bernal",
+            "Gustaf Hammarsten",
+            "Ken Leung",
+            "M. Night Shyamalan",
+            "Rufus Sewell",
+            "Thomasin McKenzie",
+            "Vicky Krieps"
         ]
     },
     "Snake Eyes: G.I. Joe Origins (2021)": {
