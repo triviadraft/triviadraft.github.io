@@ -16787,6 +16787,13 @@ var movieMap = {
             "1970s",
             "Courtroom Dramas & Legal Thrillers",
             "Meryl Streep"
+        ],
+        "cast": [
+            "Dustin Hoffman",
+            "Jane Alexander",
+            "JoBeth Williams",
+            "Justin Henry",
+            "Meryl Streep"
         ]
     },
     "All That Jazz (1979)": {
@@ -58269,6 +58276,15 @@ var movieMap = {
             "Black Cinema",
             "John Singleton",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Adrienne-Joi Johnson",
+            "Mo'Nique",
+            "Omar Gooding",
+            "Snoop Dogg",
+            "Taraji P. Henson",
+            "Tyrese Gibson",
+            "Ving Rhames"
         ]
     },
     "A.I. Artificial Intelligence (2001)": {
@@ -78710,6 +78726,17 @@ var movieMap = {
             "Coen Brothers",
             "Crime",
             "Dramas"
+        ],
+        "cast": [
+            "Beth Grant",
+            "Garret Dillahunt",
+            "Javier Bardem",
+            "Josh Brolin",
+            "Kelly Macdonald",
+            "Stephen Root",
+            "Tess Harper",
+            "Tommy Lee Jones",
+            "Woody Harrelson"
         ]
     },
     "P2 (2007)": {
@@ -85913,6 +85940,19 @@ var movieMap = {
             "Leonardo DiCaprio",
             "Martin Scorsese",
             "Thriller"
+        ],
+        "cast": [
+            "Ben Kingsley",
+            "Elias Koteas",
+            "Emily Mortimer",
+            "Jackie Earle Haley",
+            "John Carroll Lynch",
+            "Leonardo DiCaprio",
+            "Mark Ruffalo",
+            "Max von Sydow",
+            "Michelle Williams",
+            "Patricia Clarkson",
+            "Ted Levine"
         ]
     },
     "Cop Out (2010)": {
