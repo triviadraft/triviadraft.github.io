@@ -1,4 +1,9 @@
 var actorMap = {
+    "A. J. Cook": {
+        "movies": [
+            "The Virgin Suicides (2000)"
+        ]
+    },
     "Aaron Eckhart": {
         "movies": [
             "The Dark Knight (2008)",
@@ -773,6 +778,7 @@ var actorMap = {
     },
     "Alicia Witt": {
         "movies": [
+            "Dune (1984)",
             "Vanilla Sky (2001)",
             "Last Holiday (2006)"
         ]
@@ -928,6 +934,7 @@ var actorMap = {
             "Catch Me If You Can (2002)",
             "Doubt (2008)",
             "Man of Steel (2013)",
+            "Her (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -1445,6 +1452,11 @@ var actorMap = {
             }
         ]
     },
+    "Anne Bancroft": {
+        "movies": [
+            "The Graduate (1967)"
+        ]
+    },
     "Anne Hathaway": {
         "leadNoms": [
             {
@@ -1624,6 +1636,7 @@ var actorMap = {
         ],
         "movies": [
             "The Lion in Winter (1968)",
+            "The Silence of the Lambs (1991)",
             "Howards End (1992)",
             "Chaplin (1992)",
             "The Remains of the Day (1993)",
@@ -2055,6 +2068,7 @@ var actorMap = {
     },
     "Barry Bostwick": {
         "movies": [
+            "The Rocky Horror Picture Show (1975)",
             "Incredibles 2 (2018)"
         ]
     },
@@ -2490,6 +2504,7 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
+            "Her (2013)",
             "Trainwreck (2015)",
             "Power Rangers (2017)",
             "Ralph Breaks the Internet (2018)",
@@ -2860,6 +2875,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dune (1984)",
             "Mississippi Burning (1988)",
             "Jungle Fever (1991)",
             "Alien Resurrection (1997)",
@@ -3061,6 +3077,7 @@ var actorMap = {
             "Star Trek Generations (1994)",
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
+            "I Am Sam (2001)",
             "Star Trek: Nemesis (2002)",
             "The Aviator (2004)"
         ]
@@ -3107,7 +3124,8 @@ var actorMap = {
             "Zodiac (2007)",
             "Red (2010)",
             "Rise of the Planet of the Apes (2011)",
-            "Red 2 (2013)"
+            "Red 2 (2013)",
+            "Her (2013)"
         ]
     },
     "Brian Doyle-Murray": {
@@ -3388,6 +3406,11 @@ var actorMap = {
             "The Help (2011)",
             "Jurassic World (2015)",
             "Jurassic World: Fallen Kingdom (2018)"
+        ]
+    },
+    "Buck Henry": {
+        "movies": [
+            "The Graduate (1967)"
         ]
     },
     "Bud Cort": {
@@ -3959,7 +3982,8 @@ var actorMap = {
     },
     "Chang Chen": {
         "movies": [
-            "Crouching Tiger, Hidden Dragon (2000)"
+            "Crouching Tiger, Hidden Dragon (2000)",
+            "Dune (2021)"
         ]
     },
     "Channing Tatum": {
@@ -4004,6 +4028,11 @@ var actorMap = {
         "movies": [
             "Back to the Future Part II (1989)",
             "Dick Tracy (1990)"
+        ]
+    },
+    "Charles Gray": {
+        "movies": [
+            "The Rocky Horror Picture Show (1975)"
         ]
     },
     "Charles S. Dutton": {
@@ -4088,6 +4117,9 @@ var actorMap = {
                 "movie": "45 Years",
                 "year": "2015"
             }
+        ],
+        "movies": [
+            "Dune (2021)"
         ]
     },
     "Charlton Heston": {
@@ -4412,6 +4444,7 @@ var actorMap = {
             "Zero Dark Thirty (2012)",
             "Movie 43 (2013)",
             "Delivery Man (2013)",
+            "Her (2013)",
             "The Lego Movie (2014)",
             "Guardians of the Galaxy (2014)",
             "Jurassic World (2015)",
@@ -5243,6 +5276,7 @@ var actorMap = {
     },
     "Dakota Fanning": {
         "movies": [
+            "I Am Sam (2001)",
             "Sweet Home Alabama (2002)",
             "War of the Worlds (2005)",
             "The Secret Life of Bees (2008)",
@@ -5558,6 +5592,7 @@ var actorMap = {
             "Batman Returns (1992)",
             "Last Action Hero (1993)",
             "Space Jam (1996)",
+            "The Virgin Suicides (2000)",
             "Austin Powers in Goldmember (2002)"
         ]
     },
@@ -5648,7 +5683,8 @@ var actorMap = {
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Dune (2021)"
         ]
     },
     "Dave Chapman": {
@@ -5744,7 +5780,8 @@ var actorMap = {
             "Prisoners (2013)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)",
-            "The Suicide Squad (2021)"
+            "The Suicide Squad (2021)",
+            "Dune (2021)"
         ]
     },
     "David Dencik": {
@@ -5814,6 +5851,11 @@ var actorMap = {
     "David Leitch": {
         "movies": [
             "Deadpool 2 (2018)"
+        ]
+    },
+    "David Lynch": {
+        "movies": [
+            "Dune (1984)"
         ]
     },
     "David Morrissey": {
@@ -5993,6 +6035,9 @@ var actorMap = {
                 "movie": "Married to the Mob",
                 "year": "1988"
             }
+        ],
+        "movies": [
+            "Dune (1984)"
         ]
     },
     "Dean-Charles Chapman": {
@@ -6368,6 +6413,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "I Am Sam (2001)",
             "Robots (2005)"
         ]
     },
@@ -6646,6 +6692,7 @@ var actorMap = {
     "Doug Hutchison": {
         "movies": [
             "The Green Mile (1999)",
+            "I Am Sam (2001)",
             "Punisher: War Zone (2008)"
         ]
     },
@@ -6752,6 +6799,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Graduate (1967)",
             "Kramer vs. Kramer (1979)",
             "Rain Man (1988)",
             "Dick Tracy (1990)",
@@ -7251,6 +7299,7 @@ var actorMap = {
     },
     "Elizabeth Wilson": {
         "movies": [
+            "The Graduate (1967)",
             "9 to 5 (1980)"
         ]
     },
@@ -7266,6 +7315,7 @@ var actorMap = {
     },
     "Elle Fanning": {
         "movies": [
+            "I Am Sam (2001)",
             "D\u00e9j\u00e0 Vu (2006)",
             "The Curious Case of Benjamin Button (2008)",
             "We Bought a Zoo (2011)"
@@ -8176,6 +8226,11 @@ var actorMap = {
             "Dolittle (2020)"
         ]
     },
+    "Francesca Annis": {
+        "movies": [
+            "Dune (1984)"
+        ]
+    },
     "Franco Nero": {
         "movies": [
             "The Lost City of Z (2017)"
@@ -8267,7 +8322,8 @@ var actorMap = {
     },
     "Frankie Faison": {
         "movies": [
-            "Mississippi Burning (1988)"
+            "Mississippi Burning (1988)",
+            "The Silence of the Lambs (1991)"
         ]
     },
     "Fran\u00e7ois Chau": {
@@ -8711,6 +8767,11 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
+    "George A. Romero": {
+        "movies": [
+            "The Silence of the Lambs (1991)"
+        ]
+    },
     "George C. Scott": {
         "movies": [
             "The Hustler (1961)",
@@ -8902,6 +8963,7 @@ var actorMap = {
     "Giovanni Ribisi": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "The Virgin Suicides (2000)",
             "Lost in Translation (2003)",
             "Cold Mountain (2003)",
             "Avatar (2009)",
@@ -9468,6 +9530,7 @@ var actorMap = {
     },
     "Hayden Christensen": {
         "movies": [
+            "The Virgin Suicides (2000)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -10437,6 +10500,11 @@ var actorMap = {
             "Ralph Breaks the Internet (2018)"
         ]
     },
+    "Jack Nance": {
+        "movies": [
+            "Dune (1984)"
+        ]
+    },
     "Jack Nicholson": {
         "leadNoms": [
             {
@@ -11116,7 +11184,8 @@ var actorMap = {
         ],
         "movies": [
             "Chaplin (1992)",
-            "Ghosts of Mississippi (1996)"
+            "Ghosts of Mississippi (1996)",
+            "The Virgin Suicides (2000)"
         ]
     },
     "Jami Gertz": {
@@ -11468,7 +11537,8 @@ var actorMap = {
             "Justice League (2017)",
             "Aquaman (2018)",
             "The Lego Movie 2: The Second Part (2019)",
-            "Zack Snyder's Justice League (2021)"
+            "Zack Snyder's Justice League (2021)",
+            "Dune (2021)"
         ]
     },
     "Jason Patric": {
@@ -11551,7 +11621,8 @@ var actorMap = {
             "Vicky Cristina Barcelona (2008)",
             "The Counselor (2013)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
-            "Mother! (2017)"
+            "Mother! (2017)",
+            "Dune (2021)"
         ]
     },
     "Jay Baruchel": {
@@ -12641,6 +12712,7 @@ var actorMap = {
         ],
         "movies": [
             "Walk the Line (2005)",
+            "Her (2013)",
             "Joker (2019)"
         ]
     },
@@ -12687,6 +12759,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Silence of the Lambs (1991)",
             "Inside Man (2006)"
         ]
     },
@@ -13573,6 +13646,11 @@ var actorMap = {
             "The Lion King (1994)"
         ]
     },
+    "Jonathan Tucker": {
+        "movies": [
+            "The Virgin Suicides (2000)"
+        ]
+    },
     "Jonny Lee Miller": {
         "movies": [
             "Dark Shadows (2012)"
@@ -13665,7 +13743,8 @@ var actorMap = {
             "Avengers: Age of Ultron (2015)",
             "Avengers: Infinity War (2018)",
             "Deadpool 2 (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Dune (2021)"
         ]
     },
     "Josh Dallas": {
@@ -13693,6 +13772,7 @@ var actorMap = {
     },
     "Josh Hartnett": {
         "movies": [
+            "The Virgin Suicides (2000)",
             "Black Hawk Down (2001)",
             "Sin City (2005)",
             "30 Days of Night (2007)"
@@ -13740,6 +13820,11 @@ var actorMap = {
             "Apt Pupil (1998)",
             "Cruel Intentions (1999)",
             "Ocean's Eleven (2001)"
+        ]
+    },
+    "Jos\u00e9 Ferrer": {
+        "movies": [
+            "Dune (1984)"
         ]
     },
     "Jovan Adepo": {
@@ -14349,6 +14434,11 @@ var actorMap = {
             "What Men Want (2019)"
         ]
     },
+    "Kasi Lemmons": {
+        "movies": [
+            "The Silence of the Lambs (1991)"
+        ]
+    },
     "Kat Dennings": {
         "movies": [
             "Thor (2011)",
@@ -14559,6 +14649,11 @@ var actorMap = {
             "Guess Who's Coming to Dinner (1967)"
         ]
     },
+    "Katharine Ross": {
+        "movies": [
+            "The Graduate (1967)"
+        ]
+    },
     "Katherine Heigl": {
         "movies": [
             "Knocked Up (2007)",
@@ -14608,6 +14703,11 @@ var actorMap = {
         ],
         "movies": [
             "Horns (2014)"
+        ]
+    },
+    "Kathleen Turner": {
+        "movies": [
+            "The Virgin Suicides (2000)"
         ]
     },
     "Kathryn Hahn": {
@@ -15257,6 +15357,7 @@ var actorMap = {
             "Interview with the Vampire (1994)",
             "Jumanji (1995)",
             "Drop Dead Gorgeous (1999)",
+            "The Virgin Suicides (2000)",
             "Spider-Man (2002)",
             "Eternal Sunshine of the Spotless Mind (2004)",
             "Spider-Man 2 (2004)",
@@ -15346,6 +15447,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Bridesmaids (2011)",
+            "Her (2013)",
             "Ghostbusters (2016)",
             "Mother! (2017)",
             "Wonder Woman 1984 (2020)"
@@ -15412,6 +15514,11 @@ var actorMap = {
             "King Kong (2005)",
             "Zero Dark Thirty (2012)",
             "Carol (2015)"
+        ]
+    },
+    "Kyle MacLachlan": {
+        "movies": [
+            "Dune (1984)"
         ]
     },
     "Kylie Jenner": {
@@ -15590,6 +15697,7 @@ var actorMap = {
         "movies": [
             "Jurassic Park (1993)",
             "Jurassic Park III (2001)",
+            "I Am Sam (2001)",
             "Wild (2014)",
             "Star Wars: The Last Jedi (2017)",
             "Marriage Story (2019)",
@@ -16208,6 +16316,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dune (1984)",
             "Stranger than Fiction (2006)",
             "Solo: A Star Wars Story (2018)"
         ]
@@ -16320,6 +16429,7 @@ var actorMap = {
     "Loretta Devine": {
         "movies": [
             "Waiting to Exhale (1995)",
+            "I Am Sam (2001)",
             "Crash (2005)",
             "For Colored Girls (2010)"
         ]
@@ -17513,6 +17623,7 @@ var actorMap = {
     "Mary Steenburgen": {
         "movies": [
             "Back to the Future Part III (1990)",
+            "I Am Sam (2001)",
             "Four Christmases (2008)",
             "The Help (2011)",
             "Book Club (2018)",
@@ -17599,6 +17710,12 @@ var actorMap = {
     "Matt Lauer": {
         "movies": [
             "Land of the Lost (2009)"
+        ]
+    },
+    "Matt Letscher": {
+        "movies": [
+            "The Mask of Zorro (1998)",
+            "Her (2013)"
         ]
     },
     "Matt Long": {
@@ -17783,6 +17900,7 @@ var actorMap = {
         ],
         "movies": [
             "Conan the Barbarian (1982)",
+            "Dune (1984)",
             "Ghostbusters II (1989)",
             "Needful Things (1993)",
             "Minority Report (2002)",
@@ -17837,6 +17955,11 @@ var actorMap = {
             "Think Like a Man (2012)",
             "Think Like a Man Too (2014)",
             "Shazam! (2019)"
+        ]
+    },
+    "Meat Loaf": {
+        "movies": [
+            "The Rocky Horror Picture Show (1975)"
         ]
     },
     "Meg Ryan": {
@@ -18724,6 +18847,7 @@ var actorMap = {
             "The Witches of Eastwick (1987)",
             "Batman Returns (1992)",
             "The Prince of Egypt (1998)",
+            "I Am Sam (2001)",
             "Hairspray (2007)",
             "New Year's Eve (2011)",
             "Dark Shadows (2012)",
@@ -18767,6 +18891,7 @@ var actorMap = {
         ],
         "movies": [
             "Shutter Island (2010)",
+            "Blue Valentine (2010)",
             "My Week with Marilyn (2011)",
             "The Greatest Showman (2017)",
             "I Feel Pretty (2018)",
@@ -18888,6 +19013,7 @@ var actorMap = {
     },
     "Mike Vogel": {
         "movies": [
+            "Blue Valentine (2010)",
             "The Help (2011)"
         ]
     },
@@ -19207,7 +19333,8 @@ var actorMap = {
     },
     "Murray Hamilton": {
         "movies": [
-            "The Hustler (1961)"
+            "The Hustler (1961)",
+            "The Graduate (1967)"
         ]
     },
     "Muse Watson": {
@@ -19476,6 +19603,11 @@ var actorMap = {
     "Neil deGrasse Tyson": {
         "movies": [
             "Batman v Superman: Dawn of Justice (2016)"
+        ]
+    },
+    "Nell Campbell": {
+        "movies": [
+            "The Rocky Horror Picture Show (1975)"
         ]
     },
     "Neve Campbell": {
@@ -19967,6 +20099,7 @@ var actorMap = {
             "Cowboys & Aliens (2011)",
             "The Words (2012)",
             "Rush (2013)",
+            "Her (2013)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -20077,7 +20210,8 @@ var actorMap = {
             "X-Men: Apocalypse (2016)",
             "Star Wars: The Last Jedi (2017)",
             "Spider-Man: Into the Spider-Verse (2018)",
-            "Star Wars: The Rise of Skywalker (2019)"
+            "Star Wars: The Rise of Skywalker (2019)",
+            "Dune (2021)"
         ]
     },
     "Oscar Nunez": {
@@ -20205,6 +20339,11 @@ var actorMap = {
             "Shutter Island (2010)"
         ]
     },
+    "Patricia Quinn": {
+        "movies": [
+            "The Rocky Horror Picture Show (1975)"
+        ]
+    },
     "Patricia Vel\u00e1squez": {
         "movies": [
             "The Mummy Returns (2001)"
@@ -20240,6 +20379,7 @@ var actorMap = {
     },
     "Patrick Stewart": {
         "movies": [
+            "Dune (1984)",
             "Star Trek Generations (1994)",
             "The Pagemaster (1994)",
             "Star Trek: First Contact (1996)",
@@ -21050,7 +21190,8 @@ var actorMap = {
     },
     "Portia Doubleday": {
         "movies": [
-            "Carrie (2013)"
+            "Carrie (2013)",
+            "Her (2013)"
         ]
     },
     "Post Malone": {
@@ -21457,7 +21598,8 @@ var actorMap = {
             "Mission: Impossible \u2013 Fallout (2018)",
             "The Kid Who Would Be King (2019)",
             "Men in Black: International (2019)",
-            "Doctor Sleep (2019)"
+            "Doctor Sleep (2019)",
+            "Dune (2021)"
         ]
     },
     "Rebecca Hall": {
@@ -21745,6 +21887,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Graduate (1967)",
             "Stand by Me (1986)",
             "Red (2010)",
             "Book Club (2018)",
@@ -21870,6 +22013,11 @@ var actorMap = {
             "Eternals (2021)"
         ]
     },
+    "Richard O'Brien": {
+        "movies": [
+            "The Rocky Horror Picture Show (1975)"
+        ]
+    },
     "Richard Pryor": {
         "movies": [
             "Superman III (1983)"
@@ -21891,6 +22039,7 @@ var actorMap = {
     "Richard Schiff": {
         "movies": [
             "The Lost World: Jurassic Park (1997)",
+            "I Am Sam (2001)",
             "Ray (2004)",
             "Man of Steel (2013)"
         ]
@@ -22265,6 +22414,7 @@ var actorMap = {
     },
     "Robert Schwartzman": {
         "movies": [
+            "The Virgin Suicides (2000)",
             "The Princess Diaries (2001)"
         ]
     },
@@ -22479,6 +22629,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Her (2013)",
             "Carol (2015)",
             "Nightmare Alley (2021)"
         ]
@@ -22507,6 +22658,7 @@ var actorMap = {
         "movies": [
             "The Joy Luck Club (1993)",
             "North (1994)",
+            "I Am Sam (2001)",
             "Just like Heaven (2005)"
         ]
     },
@@ -22783,6 +22935,7 @@ var actorMap = {
         ],
         "movies": [
             "Remember the Titans (2000)",
+            "Blue Valentine (2010)",
             "La La Land (2016)"
         ]
     },
@@ -23330,6 +23483,7 @@ var actorMap = {
             "Iron Man 2 (2010)",
             "We Bought a Zoo (2011)",
             "The Avengers (2012)",
+            "Her (2013)",
             "Captain America: The Winter Soldier (2014)",
             "Chef (2014)",
             "Avengers: Age of Ultron (2015)",
@@ -23383,6 +23537,12 @@ var actorMap = {
     "Scott Eastwood": {
         "movies": [
             "Suicide Squad (2016)"
+        ]
+    },
+    "Scott Glenn": {
+        "movies": [
+            "The Silence of the Lambs (1991)",
+            "The Virgin Suicides (2000)"
         ]
     },
     "Scott Menville": {
@@ -23496,12 +23656,14 @@ var actorMap = {
         ],
         "movies": [
             "Taps (1981)",
+            "I Am Sam (2001)",
             "Tropic Thunder (2008)"
         ]
     },
     "Sean Young": {
         "movies": [
             "Stripes (1981)",
+            "Dune (1984)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -24134,6 +24296,11 @@ var actorMap = {
             "Glass (2019)"
         ]
     },
+    "Spike Jonze": {
+        "movies": [
+            "Her (2013)"
+        ]
+    },
     "Spike Lee": {
         "movies": [
             "Jungle Fever (1991)"
@@ -24207,7 +24374,8 @@ var actorMap = {
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
             "Cinderella (2015)",
-            "Avengers: Age of Ultron (2015)"
+            "Avengers: Age of Ultron (2015)",
+            "Dune (2021)"
         ]
     },
     "Stephan James": {
@@ -24309,7 +24477,8 @@ var actorMap = {
     },
     "Stephen McKinley Henderson": {
         "movies": [
-            "Fences (2016)"
+            "Fences (2016)",
+            "Dune (2021)"
         ]
     },
     "Stephen Merchant": {
@@ -24467,6 +24636,11 @@ var actorMap = {
             }
         ]
     },
+    "Sting": {
+        "movies": [
+            "Dune (1984)"
+        ]
+    },
     "Stockard Channing": {
         "leadNoms": [
             {
@@ -24543,6 +24717,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Rocky Horror Picture Show (1975)",
             "The Witches of Eastwick (1987)",
             "Elizabethtown (2005)",
             "Cloud Atlas (2012)"
@@ -24771,6 +24946,7 @@ var actorMap = {
     },
     "Ted Levine": {
         "movies": [
+            "The Silence of the Lambs (1991)",
             "American Gangster (2007)",
             "Shutter Island (2010)",
             "Jurassic World: Fallen Kingdom (2018)"
@@ -25051,6 +25227,7 @@ var actorMap = {
     },
     "Tim Curry": {
         "movies": [
+            "The Rocky Horror Picture Show (1975)",
             "Legend (1986)"
         ]
     },
@@ -25175,6 +25352,7 @@ var actorMap = {
         ],
         "movies": [
             "Little Women (2019)",
+            "Dune (2021)",
             "Don't Look Up (2021)"
         ]
     },
@@ -26276,6 +26454,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dune (1984)",
             "Ghosts of Mississippi (1996)",
             "Firewall (2006)"
         ]
@@ -26660,6 +26839,11 @@ var actorMap = {
     "William Dafoe": {
         "movies": [
             "Murder on the Orient Express (2017)"
+        ]
+    },
+    "William Daniels": {
+        "movies": [
+            "The Graduate (1967)"
         ]
     },
     "William Fichtner": {
@@ -27076,6 +27260,7 @@ var actorMap = {
             "Spider-Man: Homecoming (2017)",
             "The Greatest Showman (2017)",
             "Spider-Man: Far From Home (2019)",
+            "Dune (2021)",
             "Spider-Man: No Way Home (2021)"
         ]
     },

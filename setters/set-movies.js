@@ -9783,6 +9783,16 @@ var movieMap = {
             "1960s",
             "Classics",
             "Coming of Age"
+        ],
+        "cast": [
+            "Anne Bancroft",
+            "Buck Henry",
+            "Dustin Hoffman",
+            "Elizabeth Wilson",
+            "Katharine Ross",
+            "Murray Hamilton",
+            "Richard Dreyfuss",
+            "William Daniels"
         ]
     },
     "The Good, the Bad and the Ugly (1967)": {
@@ -14033,6 +14043,16 @@ var movieMap = {
             "1970s",
             "Musicals",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Barry Bostwick",
+            "Charles Gray",
+            "Meat Loaf",
+            "Nell Campbell",
+            "Patricia Quinn",
+            "Richard O'Brien",
+            "Susan Sarandon",
+            "Tim Curry"
         ]
     },
     "Walking Tall Part 2 (1975)": {
@@ -22427,6 +22447,22 @@ var movieMap = {
             "1980s",
             "David Lynch",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Alicia Witt",
+            "Brad Dourif",
+            "David Lynch",
+            "Dean Stockwell",
+            "Francesca Annis",
+            "Jack Nance",
+            "Jos\u00e9 Ferrer",
+            "Kyle MacLachlan",
+            "Linda Hunt",
+            "Max von Sydow",
+            "Patrick Stewart",
+            "Sean Young",
+            "Sting",
+            "Virginia Madsen"
         ]
     },
     "Nineteen Eighty-Four (1984)": {
@@ -33077,6 +33113,15 @@ var movieMap = {
             "Horror/Thriller",
             "Jodie Foster",
             "Thriller"
+        ],
+        "cast": [
+            "Anthony Hopkins",
+            "Frankie Faison",
+            "George A. Romero",
+            "Jodie Foster",
+            "Kasi Lemmons",
+            "Scott Glenn",
+            "Ted Levine"
         ]
     },
     "Nothing but Trouble (1991)": {
@@ -50627,6 +50672,7 @@ var movieMap = {
             "Anthony Hopkins",
             "Antonio Banderas",
             "Catherine Zeta-Jones",
+            "Matt Letscher",
             "Stuart Wilson",
             "Tony Amendola"
         ]
@@ -55566,6 +55612,19 @@ var movieMap = {
         "categories": [
             "2000s",
             "Coppolas"
+        ],
+        "cast": [
+            "A. J. Cook",
+            "Danny DeVito",
+            "Giovanni Ribisi",
+            "Hayden Christensen",
+            "James Woods",
+            "Jonathan Tucker",
+            "Josh Hartnett",
+            "Kathleen Turner",
+            "Kirsten Dunst",
+            "Robert Schwartzman",
+            "Scott Glenn"
         ]
     },
     "U-571 (2000)": {
@@ -60083,6 +60142,20 @@ var movieMap = {
             "2000s",
             "Dramas",
             "Michelle Pfeiffer"
+        ],
+        "cast": [
+            "Brent Spiner",
+            "Dakota Fanning",
+            "Dianne Wiest",
+            "Doug Hutchison",
+            "Elle Fanning",
+            "Laura Dern",
+            "Loretta Devine",
+            "Mary Steenburgen",
+            "Michelle Pfeiffer",
+            "Richard Schiff",
+            "Rosalind Chao",
+            "Sean Penn"
         ]
     },
     "Orange County (2002)": {
@@ -88784,6 +88857,11 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Michelle Williams",
+            "Mike Vogel",
+            "Ryan Gosling"
         ]
     },
     "The Way Back (2010)": {
@@ -98481,6 +98559,20 @@ var movieMap = {
             "Amy Adams",
             "Dramas",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Amy Adams",
+            "Bill Hader",
+            "Brian Cox",
+            "Chris Pratt",
+            "Joaquin Phoenix",
+            "Kristen Wiig",
+            "Matt Letscher",
+            "Olivia Wilde",
+            "Portia Doubleday",
+            "Rooney Mara",
+            "Scarlett Johansson",
+            "Spike Jonze"
         ]
     },
     "47 Ronin (2013)": {
@@ -128390,6 +128482,21 @@ var movieMap = {
             "2020s",
             "Fantasy/Sci-Fi",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Chang Chen",
+            "Charlotte Rampling",
+            "Dave Bautista",
+            "David Dastmalchian",
+            "Jason Momoa",
+            "Javier Bardem",
+            "Josh Brolin",
+            "Oscar Isaac",
+            "Rebecca Ferguson",
+            "Stellan Skarsg\u00e5rd",
+            "Stephen McKinley Henderson",
+            "Timoth\u00e9e Chalamet",
+            "Zendaya"
         ]
     },
     "The French Dispatch of the Liberty, Kansas Evening Sun (2021)": {
