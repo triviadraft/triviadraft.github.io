@@ -19751,6 +19751,15 @@ var movieMap = {
             "1980s",
             "Comedies",
             "Eddie Murphy"
+        ],
+        "cast": [
+            "Annette O'Toole",
+            "Brion James",
+            "David Patrick Kelly",
+            "Eddie Murphy",
+            "James Remar",
+            "Jonathan Banks",
+            "Nick Nolte"
         ]
     },
     "Gandhi (1982)": {
@@ -20475,6 +20484,7 @@ var movieMap = {
             "Superman"
         ],
         "cast": [
+            "Annette O'Toole",
             "Christopher Reeve",
             "Jackie Cooper",
             "Margot Kidder",
@@ -48689,6 +48699,17 @@ var movieMap = {
             "Horror/Thriller",
             "Mystery",
             "Thriller"
+        ],
+        "cast": [
+            "Armin Mueller-Stahl",
+            "Carroll Baker",
+            "Deborah Kara Unger",
+            "James Rebhorn",
+            "Mark Boone Junior",
+            "Michael Douglas",
+            "Sean Penn",
+            "Spike Jonze",
+            "Tommy Flanagan"
         ]
     },
     "In & Out (1997)": {
@@ -56982,6 +57003,21 @@ var movieMap = {
             "Barrymore Family",
             "Bill Murray",
             "Frat Pack"
+        ],
+        "cast": [
+            "Bill Murray",
+            "Cameron Diaz",
+            "Crispin Glover",
+            "Drew Barrymore",
+            "John Forsythe",
+            "LL Cool J",
+            "Lucy Liu",
+            "Luke Wilson",
+            "Matt LeBlanc",
+            "Melissa McCarthy",
+            "Sam Rockwell",
+            "Tim Curry",
+            "Tom Green"
         ]
     },
     "The Legend of Bagger Vance (2000)": {
@@ -64647,6 +64683,33 @@ var movieMap = {
             "Brat Pack",
             "Bruce Willis",
             "Frat Pack"
+        ],
+        "cast": [
+            "Ashley Olsen",
+            "Bam Margera",
+            "Bernie Mac",
+            "Bruce Willis",
+            "Cameron Diaz",
+            "Carrie Fisher",
+            "Chris Pontius",
+            "Crispin Glover",
+            "Demi Moore",
+            "Drew Barrymore",
+            "Jaclyn Smith",
+            "John Cleese",
+            "John Forsythe",
+            "Justin Theroux",
+            "Lucy Liu",
+            "Luke Wilson",
+            "Mary-Kate Olsen",
+            "Matt LeBlanc",
+            "Melissa McCarthy",
+            "Pink",
+            "Robert Forster",
+            "Robert Patrick",
+            "Rodrigo Santoro",
+            "Shia LaBeouf",
+            "Tommy Flanagan"
         ]
     },
     "Legally Blonde 2: Red, White & Blonde (2003)": {
@@ -111166,13 +111229,22 @@ var movieMap = {
         ],
         "cast": [
             "Angus Macfadyen",
+            "Angus Macfadyen",
+            "Charlie Hunnam",
             "Charlie Hunnam",
             "Daniel Huttlestone",
+            "Daniel Huttlestone",
+            "Franco Nero",
             "Franco Nero",
             "Harry Melling",
+            "Harry Melling",
+            "Ian McDiarmid",
             "Ian McDiarmid",
             "Robert Pattinson",
+            "Robert Pattinson",
             "Sienna Miller",
+            "Sienna Miller",
+            "Tom Holland",
             "Tom Holland"
         ]
     },
@@ -121427,6 +121499,21 @@ var movieMap = {
             "Dramas",
             "Jennifer Lopez",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Cardi B",
+            "Constance Wu",
+            "Devin Ratray",
+            "Frank Whaley",
+            "Jennifer Lopez",
+            "Julia Stiles",
+            "Keke Palmer",
+            "Lili Reinhart",
+            "Lizzo",
+            "Madeline Brewer",
+            "Mercedes Ruehl",
+            "Usher",
+            "Wai Ching Ho"
         ]
     },
     "3 from Hell (2019)": {
@@ -122467,6 +122554,28 @@ var movieMap = {
             "2010s",
             "Action/Adventure",
             "Comedies"
+        ],
+        "cast": [
+            "Aly Raisman",
+            "Chloe Kim",
+            "Chris Pang",
+            "Danica Patrick",
+            "Djimon Hounsou",
+            "Elizabeth Banks",
+            "Ella Balinska",
+            "Hailee Steinfeld",
+            "Jaclyn Smith",
+            "Jonathan Tucker",
+            "Kristen Stewart",
+            "Laverne Cox",
+            "Lili Reinhart",
+            "Michael Strahan",
+            "Naomi Scott",
+            "Nat Faxon",
+            "Noah Centineo",
+            "Patrick Stewart",
+            "Ronda Rousey",
+            "Sam Claflin"
         ]
     },
     "Ford v Ferrari (2019)": {

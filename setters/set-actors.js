@@ -853,6 +853,11 @@ var actorMap = {
             "X-Men: Apocalypse (2016)"
         ]
     },
+    "Aly Raisman": {
+        "movies": [
+            "Charlie's Angels (2019)"
+        ]
+    },
     "Alyssa Milano": {
         "movies": [
             "New Year's Eve (2011)"
@@ -1307,6 +1312,7 @@ var actorMap = {
     "Angus Macfadyen": {
         "movies": [
             "We Bought a Zoo (2011)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)"
         ]
     },
@@ -1563,6 +1569,12 @@ var actorMap = {
         "movies": [
             "Love Affair (1994)",
             "Captain Marvel (2019)"
+        ]
+    },
+    "Annette O'Toole": {
+        "movies": [
+            "48 Hrs. (1982)",
+            "Superman III (1983)"
         ]
     },
     "Annie Burkin": {
@@ -1853,6 +1865,9 @@ var actorMap = {
                 "movie": "Shine",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "The Game (1997)"
         ]
     },
     "Arnold Schwarzenegger": {
@@ -1901,6 +1916,11 @@ var actorMap = {
         "movies": [
             "Star Wars: The Clone Wars (2008)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Ashley Olsen": {
+        "movies": [
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "Ashley Scott": {
@@ -2056,6 +2076,11 @@ var actorMap = {
         "movies": [
             "Crash (2005)",
             "Mission: Impossible III (2006)"
+        ]
+    },
+    "Bam Margera": {
+        "movies": [
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "Barbara Babcock": {
@@ -2396,6 +2421,7 @@ var actorMap = {
     "Bernie Mac": {
         "movies": [
             "Ocean's Eleven (2001)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
             "Transformers (2007)"
@@ -2569,6 +2595,7 @@ var actorMap = {
             "Ghostbusters II (1989)",
             "Groundhog Day (1993)",
             "Space Jam (1996)",
+            "Charlie's Angels (2000)",
             "Lost in Translation (2003)",
             "Zombieland (2009)",
             "The Jungle Book (2016)",
@@ -3285,6 +3312,7 @@ var actorMap = {
     },
     "Brion James": {
         "movies": [
+            "48 Hrs. (1982)",
             "The Fifth Element (1997)"
         ]
     },
@@ -3407,6 +3435,7 @@ var actorMap = {
             "North (1994)",
             "The Fifth Element (1997)",
             "Unbreakable (2000)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Ocean's Twelve (2004)",
             "Sin City (2005)",
             "Surrogates (2009)",
@@ -3621,8 +3650,10 @@ var actorMap = {
     "Cameron Diaz": {
         "movies": [
             "The Mask (1994)",
+            "Charlie's Angels (2000)",
             "Vanilla Sky (2001)",
             "Minority Report (2002)",
+            "Charlie's Angels: Full Throttle (2003)",
             "The Holiday (2006)",
             "Knight and Day (2010)",
             "The Green Hornet (2011)",
@@ -3655,6 +3686,7 @@ var actorMap = {
     },
     "Cardi B": {
         "movies": [
+            "Hustlers (2019)",
             "F9 (2021)"
         ]
     },
@@ -3762,6 +3794,7 @@ var actorMap = {
             "Hook (1991)",
             "This Is My Life (1992)",
             "Austin Powers: International Man of Mystery (1997)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -3778,6 +3811,11 @@ var actorMap = {
             "The Matrix Reloaded (2003)",
             "The Matrix Revolutions (2003)",
             "The Matrix Resurrections (2021)"
+        ]
+    },
+    "Carroll Baker": {
+        "movies": [
+            "The Game (1997)"
         ]
     },
     "Cary Elwes": {
@@ -4131,6 +4169,7 @@ var actorMap = {
     "Charlie Hunnam": {
         "movies": [
             "Cold Mountain (2003)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)"
         ]
     },
@@ -4323,6 +4362,11 @@ var actorMap = {
             "The Old Guard (2020)"
         ]
     },
+    "Chloe Kim": {
+        "movies": [
+            "Charlie's Angels (2019)"
+        ]
+    },
     "Chloe Webb": {
         "movies": [
             "Twins (1988)",
@@ -4480,7 +4524,8 @@ var actorMap = {
     "Chris Pang": {
         "movies": [
             "I, Frankenstein (2014)",
-            "Crazy Rich Asians (2018)"
+            "Crazy Rich Asians (2018)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Chris Parnell": {
@@ -4508,6 +4553,11 @@ var actorMap = {
             "A Wrinkle in Time (2018)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Wonder Woman 1984 (2020)"
+        ]
+    },
+    "Chris Pontius": {
+        "movies": [
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "Chris Pratt": {
@@ -5174,7 +5224,8 @@ var actorMap = {
     },
     "Constance Wu": {
         "movies": [
-            "Crazy Rich Asians (2018)"
+            "Crazy Rich Asians (2018)",
+            "Hustlers (2019)"
         ]
     },
     "Cooper Andrews": {
@@ -5261,6 +5312,8 @@ var actorMap = {
     "Crispin Glover": {
         "movies": [
             "Back to the Future (1985)",
+            "Charlie's Angels (2000)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Alice in Wonderland (2010)"
         ]
     },
@@ -5487,6 +5540,11 @@ var actorMap = {
             "X-Men: The Last Stand (2006)"
         ]
     },
+    "Danica Patrick": {
+        "movies": [
+            "Charlie's Angels (2019)"
+        ]
+    },
     "Daniel Br\u00fchl": {
         "movies": [
             "Rush (2013)",
@@ -5566,6 +5624,7 @@ var actorMap = {
         "movies": [
             "Les Mis\u00e9rables (2012)",
             "Into the Woods (2014)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)"
         ]
     },
@@ -6004,6 +6063,7 @@ var actorMap = {
     },
     "David Patrick Kelly": {
         "movies": [
+            "48 Hrs. (1982)",
             "The Crow (1994)",
             "John Wick (2014)"
         ]
@@ -6154,6 +6214,11 @@ var actorMap = {
             "1917 (2019)"
         ]
     },
+    "Deborah Kara Unger": {
+        "movies": [
+            "The Game (1997)"
+        ]
+    },
     "Deborah Kerr": {
         "movies": [
             "An Affair to Remember (1957)"
@@ -6199,7 +6264,8 @@ var actorMap = {
     "Demi Moore": {
         "movies": [
             "About Last Night (1986)",
-            "A Few Good Men (1992)"
+            "A Few Good Men (1992)",
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "Demi\u00e1n Bichir": {
@@ -6391,7 +6457,8 @@ var actorMap = {
     "Devin Ratray": {
         "movies": [
             "Surrogates (2009)",
-            "R.I.P.D. (2013)"
+            "R.I.P.D. (2013)",
+            "Hustlers (2019)"
         ]
     },
     "Devon Aoki": {
@@ -6592,6 +6659,7 @@ var actorMap = {
             "Aquaman (2018)",
             "Captain Marvel (2019)",
             "Shazam! (2019)",
+            "Charlie's Angels (2019)",
             "A Quiet Place Part II (2021)",
             "The King's Man (2021)"
         ]
@@ -6868,6 +6936,8 @@ var actorMap = {
         "movies": [
             "Batman Forever (1995)",
             "Scream (1996)",
+            "Charlie's Angels (2000)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Fever Pitch (2005)",
             "He's Just Not That into You (2009)"
         ]
@@ -7126,6 +7196,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "48 Hrs. (1982)",
             "Holy Man (1998)"
         ]
     },
@@ -7365,7 +7436,8 @@ var actorMap = {
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
             "Power Rangers (2017)",
-            "The Lego Movie 2: The Second Part (2019)"
+            "The Lego Movie 2: The Second Part (2019)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Elizabeth Debicki": {
@@ -7443,6 +7515,11 @@ var actorMap = {
         "movies": [
             "The Graduate (1967)",
             "9 to 5 (1980)"
+        ]
+    },
+    "Ella Balinska": {
+        "movies": [
+            "Charlie's Angels (2019)"
         ]
     },
     "Ella Jay Basco": {
@@ -8390,6 +8467,7 @@ var actorMap = {
     },
     "Franco Nero": {
         "movies": [
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)"
         ]
     },
@@ -8469,7 +8547,8 @@ var actorMap = {
     },
     "Frank Whaley": {
         "movies": [
-            "Born on the Fourth of July (1989)"
+            "Born on the Fourth of July (1989)",
+            "Hustlers (2019)"
         ]
     },
     "Franka Potente": {
@@ -9475,7 +9554,8 @@ var actorMap = {
         ],
         "movies": [
             "Spider-Man: Into the Spider-Verse (2018)",
-            "Bumblebee (2018)"
+            "Bumblebee (2018)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Hal Holbrook": {
@@ -9664,6 +9744,7 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "The Old Guard (2020)"
         ]
@@ -10215,6 +10296,7 @@ var actorMap = {
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -10905,6 +10987,12 @@ var actorMap = {
             "The Book of Henry (2017)"
         ]
     },
+    "Jaclyn Smith": {
+        "movies": [
+            "Charlie's Angels: Full Throttle (2003)",
+            "Charlie's Angels (2019)"
+        ]
+    },
     "Jacob Batalon": {
         "movies": [
             "Spider-Man: Homecoming (2017)",
@@ -11297,11 +11385,13 @@ var actorMap = {
     },
     "James Rebhorn": {
         "movies": [
+            "The Game (1997)",
             "Cold Mountain (2003)"
         ]
     },
     "James Remar": {
         "movies": [
+            "48 Hrs. (1982)",
             "Psycho (1998)",
             "2 Fast 2 Furious (2003)",
             "Blade: Trinity (2004)",
@@ -12254,7 +12344,8 @@ var actorMap = {
         "movies": [
             "Enough (2002)",
             "Gigli (2003)",
-            "Monster-in-Law (2005)"
+            "Monster-in-Law (2005)",
+            "Hustlers (2019)"
         ]
     },
     "Jennifer Love Hewitt": {
@@ -13244,7 +13335,8 @@ var actorMap = {
     "John Cleese": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
-            "Harry Potter and the Chamber of Secrets (2002)"
+            "Harry Potter and the Chamber of Secrets (2002)",
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "John Corbett": {
@@ -13268,6 +13360,12 @@ var actorMap = {
     "John Fiedler": {
         "movies": [
             "12 Angry Men (1957)"
+        ]
+    },
+    "John Forsythe": {
+        "movies": [
+            "Charlie's Angels (2000)",
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "John Francis Daley": {
@@ -13840,6 +13938,7 @@ var actorMap = {
     },
     "Jonathan Banks": {
         "movies": [
+            "48 Hrs. (1982)",
             "Armed and Dangerous (1986)",
             "Incredibles 2 (2018)"
         ]
@@ -13906,7 +14005,8 @@ var actorMap = {
     },
     "Jonathan Tucker": {
         "movies": [
-            "The Virgin Suicides (2000)"
+            "The Virgin Suicides (2000)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Jonny Lee Miller": {
@@ -14318,6 +14418,11 @@ var actorMap = {
             "Chicken Run (2000)"
         ]
     },
+    "Julia Stiles": {
+        "movies": [
+            "Hustlers (2019)"
+        ]
+    },
     "Julian Dennison": {
         "movies": [
             "Deadpool 2 (2018)"
@@ -14626,6 +14731,7 @@ var actorMap = {
     },
     "Justin Theroux": {
         "movies": [
+            "Charlie's Angels: Full Throttle (2003)",
             "Tropic Thunder (2008)",
             "Star Wars: The Last Jedi (2017)",
             "Bumblebee (2018)",
@@ -15169,6 +15275,11 @@ var actorMap = {
         "movies": [
             "Pirates of the Caribbean: At World's End (2007)",
             "Pirates of the Caribbean: On Stranger Tides (2011)"
+        ]
+    },
+    "Keke Palmer": {
+        "movies": [
+            "Hustlers (2019)"
         ]
     },
     "Kel Mitchell": {
@@ -15735,7 +15846,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Snow White and the Huntsman (2012)"
+            "Snow White and the Huntsman (2012)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Kristen Wiig": {
@@ -15853,6 +15965,7 @@ var actorMap = {
     },
     "LL Cool J": {
         "movies": [
+            "Charlie's Angels (2000)",
             "Last Holiday (2006)"
         ]
     },
@@ -16145,6 +16258,7 @@ var actorMap = {
     },
     "Laverne Cox": {
         "movies": [
+            "Charlie's Angels (2019)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -16535,6 +16649,12 @@ var actorMap = {
             "Long Shot (2019)"
         ]
     },
+    "Lili Reinhart": {
+        "movies": [
+            "Hustlers (2019)",
+            "Charlie's Angels (2019)"
+        ]
+    },
     "Lili Taylor": {
         "movies": [
             "Born on the Fourth of July (1989)",
@@ -16711,6 +16831,11 @@ var actorMap = {
             "The Woman in Black (2012)"
         ]
     },
+    "Lizzo": {
+        "movies": [
+            "Hustlers (2019)"
+        ]
+    },
     "Lizzy Caplan": {
         "movies": [
             "Orange County (2002)",
@@ -16856,7 +16981,9 @@ var actorMap = {
     "Lucy Liu": {
         "movies": [
             "Jerry Maguire (1996)",
+            "Charlie's Angels (2000)",
             "Chicago (2002)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Kung Fu Panda (2008)",
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)"
@@ -16938,6 +17065,8 @@ var actorMap = {
     },
     "Luke Wilson": {
         "movies": [
+            "Charlie's Angels (2000)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Zombieland: Double Tap (2019)"
         ]
     },
@@ -17070,6 +17199,11 @@ var actorMap = {
         "movies": [
             "The Book of Henry (2017)",
             "West Side Story (2021)"
+        ]
+    },
+    "Madeline Brewer": {
+        "movies": [
+            "Hustlers (2019)"
         ]
     },
     "Madeline Kahn": {
@@ -17533,6 +17667,7 @@ var actorMap = {
     },
     "Mark Boone Junior": {
         "movies": [
+            "The Game (1997)",
             "2 Fast 2 Furious (2003)",
             "Batman Begins (2005)",
             "30 Days of Night (2007)"
@@ -17980,6 +18115,11 @@ var actorMap = {
             "Nightmare Alley (2021)"
         ]
     },
+    "Mary-Kate Olsen": {
+        "movies": [
+            "Charlie's Angels: Full Throttle (2003)"
+        ]
+    },
     "Mary-Louise Parker": {
         "movies": [
             "Red (2010)",
@@ -18060,6 +18200,12 @@ var actorMap = {
     "Matt Lauer": {
         "movies": [
             "Land of the Lost (2009)"
+        ]
+    },
+    "Matt LeBlanc": {
+        "movies": [
+            "Charlie's Angels (2000)",
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "Matt Letscher": {
@@ -18466,6 +18612,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Charlie's Angels (2000)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Bridesmaids (2011)",
             "Ghostbusters (2016)",
             "The Kitchen (2019)"
@@ -18506,7 +18654,8 @@ var actorMap = {
         ],
         "movies": [
             "Big (1988)",
-            "Last Action Hero (1993)"
+            "Last Action Hero (1993)",
+            "Hustlers (2019)"
         ]
     },
     "Meredith Anne Bull": {
@@ -18843,6 +18992,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Game (1997)",
             "Traffic (2000)",
             "Ghosts of Girlfriends Past (2009)",
             "Ant-Man (2015)",
@@ -19145,6 +19295,11 @@ var actorMap = {
             "Alice in Wonderland (2010)",
             "Alice Through the Looking Glass (2016)",
             "Dolittle (2020)"
+        ]
+    },
+    "Michael Strahan": {
+        "movies": [
+            "Charlie's Angels (2019)"
         ]
     },
     "Michael Stuhlbarg": {
@@ -19766,7 +19921,8 @@ var actorMap = {
     },
     "Naomi Scott": {
         "movies": [
-            "Power Rangers (2017)"
+            "Power Rangers (2017)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Naomi Watts": {
@@ -19815,7 +19971,8 @@ var actorMap = {
     "Nat Faxon": {
         "movies": [
             "Orange County (2002)",
-            "Ready or Not (2019)"
+            "Ready or Not (2019)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Nat Wolff": {
@@ -20105,6 +20262,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "48 Hrs. (1982)",
             "Hulk (2003)",
             "Tropic Thunder (2008)",
             "Noah (2014)"
@@ -20264,6 +20422,11 @@ var actorMap = {
     "Nina Dobrev": {
         "movies": [
             "The Perks of Being a Wallflower (2012)"
+        ]
+    },
+    "Noah Centineo": {
+        "movies": [
+            "Charlie's Angels (2019)"
         ]
     },
     "Noah Emmerich": {
@@ -20832,7 +20995,8 @@ var actorMap = {
             "A Million Ways to Die in the West (2014)",
             "Green Room (2016)",
             "Logan (2017)",
-            "The Kid Who Would Be King (2019)"
+            "The Kid Who Would Be King (2019)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Patrick Swayze": {
@@ -21612,6 +21776,11 @@ var actorMap = {
     "Pilou Asb\u00e6k": {
         "movies": [
             "Uncharted (2022)"
+        ]
+    },
+    "Pink": {
+        "movies": [
+            "Charlie's Angels: Full Throttle (2003)"
         ]
     },
     "Piper Laurie": {
@@ -22820,6 +22989,7 @@ var actorMap = {
         ],
         "movies": [
             "Psycho (1998)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Firewall (2006)",
             "Ghosts of Girlfriends Past (2009)"
         ]
@@ -22856,6 +23026,7 @@ var actorMap = {
         "movies": [
             "Terminator 2: Judgment Day (1991)",
             "Last Action Hero (1993)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Walk the Line (2005)",
             "Firewall (2006)"
         ]
@@ -22863,6 +23034,7 @@ var actorMap = {
     "Robert Pattinson": {
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "The Lighthouse (2019)",
             "The Batman (2022)"
@@ -23006,6 +23178,7 @@ var actorMap = {
     },
     "Rodrigo Santoro": {
         "movies": [
+            "Charlie's Angels: Full Throttle (2003)",
             "Love Actually (2003)",
             "300 (2007)",
             "300: Rise of an Empire (2014)",
@@ -23095,7 +23268,8 @@ var actorMap = {
     },
     "Ronda Rousey": {
         "movies": [
-            "Furious 7 (2015)"
+            "Furious 7 (2015)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Ronny Chieng": {
@@ -23598,7 +23772,8 @@ var actorMap = {
             "The Hunger Games: Catching Fire (2013)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
-            "The Huntsman: Winter's War (2016)"
+            "The Huntsman: Winter's War (2016)",
+            "Charlie's Angels (2019)"
         ]
     },
     "Sam Elliott": {
@@ -23688,6 +23863,7 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles (1990)",
             "The Green Mile (1999)",
             "Galaxy Quest (1999)",
+            "Charlie's Angels (2000)",
             "Made (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Moon (2009)",
@@ -24169,6 +24345,7 @@ var actorMap = {
         ],
         "movies": [
             "Taps (1981)",
+            "The Game (1997)",
             "I Am Sam (2001)",
             "Tropic Thunder (2008)"
         ]
@@ -24397,6 +24574,7 @@ var actorMap = {
     },
     "Shia LaBeouf": {
         "movies": [
+            "Charlie's Angels: Full Throttle (2003)",
             "Constantine (2005)",
             "Transformers (2007)",
             "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
@@ -24508,6 +24686,7 @@ var actorMap = {
     "Sienna Miller": {
         "movies": [
             "Foxcatcher (2014)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "21 Bridges (2019)"
         ]
@@ -24829,6 +25008,7 @@ var actorMap = {
     },
     "Spike Jonze": {
         "movies": [
+            "The Game (1997)",
             "Her (2013)"
         ]
     },
@@ -25798,7 +25978,8 @@ var actorMap = {
     "Tim Curry": {
         "movies": [
             "The Rocky Horror Picture Show (1975)",
-            "Legend (1986)"
+            "Legend (1986)",
+            "Charlie's Angels (2000)"
         ]
     },
     "Tim Heidecker": {
@@ -26102,6 +26283,11 @@ var actorMap = {
             "Rise of the Planet of the Apes (2011)"
         ]
     },
+    "Tom Green": {
+        "movies": [
+            "Charlie's Angels (2000)"
+        ]
+    },
     "Tom Hanks": {
         "leadNoms": [
             {
@@ -26194,6 +26380,7 @@ var actorMap = {
             "Locke (2014)",
             "In the Heart of the Sea (2015)",
             "Captain America: Civil War (2016)",
+            "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "Spider-Man: Homecoming (2017)",
             "Avengers: Infinity War (2018)",
@@ -26304,6 +26491,8 @@ var actorMap = {
     },
     "Tommy Flanagan": {
         "movies": [
+            "The Game (1997)",
+            "Charlie's Angels: Full Throttle (2003)",
             "Sin City (2005)",
             "Smokin' Aces (2007)",
             "Guardians of the Galaxy Vol. 2 (2017)"
@@ -26698,7 +26887,8 @@ var actorMap = {
     },
     "Usher": {
         "movies": [
-            "Incredibles 2 (2018)"
+            "Incredibles 2 (2018)",
+            "Hustlers (2019)"
         ]
     },
     "Val Kilmer": {
@@ -27095,6 +27285,11 @@ var actorMap = {
     "Vondie Curtis Hall": {
         "movies": [
             "Talk to Me (2007)"
+        ]
+    },
+    "Wai Ching Ho": {
+        "movies": [
+            "Hustlers (2019)"
         ]
     },
     "Walker Scobell": {
