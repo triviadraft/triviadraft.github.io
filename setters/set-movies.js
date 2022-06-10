@@ -15347,6 +15347,15 @@ var movieMap = {
             "1970s",
             "Disney",
             "Family"
+        ],
+        "cast": [
+            "Helen Reddy",
+            "Jim Backus",
+            "Jim Dale",
+            "Mickey Rooney",
+            "Red Buttons",
+            "Sean Marshall",
+            "Shelley Winters"
         ]
     },
     "The Turning Point (1977)": {
@@ -68193,6 +68202,20 @@ var movieMap = {
             "Horror/Thriller",
             "M. Night Shyamalan",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Adrien Brody",
+            "Brendan Gleeson",
+            "Bryce Dallas Howard",
+            "Cherry Jones",
+            "Fran Kranz",
+            "Jesse Eisenberg",
+            "Joaquin Phoenix",
+            "Judy Greer",
+            "M. Night Shyamalan",
+            "Michael Pitt",
+            "Sigourney Weaver",
+            "William Hurt"
         ]
     },
     "Collateral (2004)": {
@@ -74442,6 +74465,16 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Horror/Thriller",
             "M. Night Shyamalan"
+        ],
+        "cast": [
+            "Bob Balaban",
+            "Bryce Dallas Howard",
+            "David Ogden Stiers",
+            "Jared Harris",
+            "Jeffrey Wright",
+            "M. Night Shyamalan",
+            "Paul Giamatti",
+            "Sarita Choudhury"
         ]
     },
     "Monster House (2006)": {
@@ -91341,6 +91374,15 @@ var movieMap = {
             "Frat Pack",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anjelica Huston",
+            "Anna Kendrick",
+            "Bryce Dallas Howard",
+            "Joseph Gordon-Levitt",
+            "Philip Baker Hall",
+            "Seth Rogen",
+            "Sugar Lyn Beard"
         ]
     },
     "Take Shelter (2011)": {
@@ -108612,6 +108654,15 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Paul Newman & Robert Redford"
+        ],
+        "cast": [
+            "Bryce Dallas Howard",
+            "Isiah Whitlock Jr.",
+            "Karl Urban",
+            "Oakes Fegley",
+            "Oona Laurence",
+            "Robert Redford",
+            "Wes Bentley"
         ]
     },
     "Sausage Party (2016)": {

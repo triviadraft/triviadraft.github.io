@@ -260,6 +260,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Village (2004)",
             "King Kong (2005)",
             "The Brothers Bloom (2009)",
             "Predators (2010)"
@@ -1341,6 +1342,9 @@ var actorMap = {
                 "movie": "Prizzi\u2019s Honor",
                 "year": "1985"
             }
+        ],
+        "movies": [
+            "50/50 (2011)"
         ]
     },
     "Ann Cusack": {
@@ -1405,6 +1409,7 @@ var actorMap = {
         ],
         "movies": [
             "Scott Pilgrim vs. the World (2010)",
+            "50/50 (2011)",
             "Into the Woods (2014)"
         ]
     },
@@ -2762,7 +2767,8 @@ var actorMap = {
     },
     "Bob Balaban": {
         "movies": [
-            "Ghost World (2001)"
+            "Ghost World (2001)",
+            "Lady in the Water (2006)"
         ]
     },
     "Bob Gunton": {
@@ -3102,6 +3108,7 @@ var actorMap = {
             "The Tailor of Panama (2001)",
             "Cold Mountain (2003)",
             "Troy (2004)",
+            "The Village (2004)",
             "Kingdom of Heaven (2005)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
@@ -3440,10 +3447,14 @@ var actorMap = {
     },
     "Bryce Dallas Howard": {
         "movies": [
+            "The Village (2004)",
+            "Lady in the Water (2006)",
             "Spider-Man 3 (2007)",
             "Terminator Salvation (2009)",
             "The Help (2011)",
+            "50/50 (2011)",
             "Jurassic World (2015)",
+            "Pete's Dragon (2016)",
             "Jurassic World: Fallen Kingdom (2018)"
         ]
     },
@@ -4251,6 +4262,7 @@ var actorMap = {
     },
     "Cherry Jones": {
         "movies": [
+            "The Village (2004)",
             "Ocean's Twelve (2004)",
             "New Year's Eve (2011)",
             "Wine Country (2019)"
@@ -5964,7 +5976,8 @@ var actorMap = {
     },
     "David Ogden Stiers": {
         "movies": [
-            "Atlantis: The Lost Empire (2001)"
+            "Atlantis: The Lost Empire (2001)",
+            "Lady in the Water (2006)"
         ]
     },
     "David Oyelowo": {
@@ -8264,6 +8277,7 @@ var actorMap = {
     "Fran Kranz": {
         "movies": [
             "Orange County (2002)",
+            "The Village (2004)",
             "The Cabin in the Woods (2012)",
             "The Dark Tower (2017)"
         ]
@@ -9831,6 +9845,11 @@ var actorMap = {
             "F9 (2021)"
         ]
     },
+    "Helen Reddy": {
+        "movies": [
+            "Pete's Dragon (1977)"
+        ]
+    },
     "Helen Slater": {
         "movies": [
             "Supergirl (1984)"
@@ -10458,7 +10477,8 @@ var actorMap = {
     },
     "Isiah Whitlock Jr.": {
         "movies": [
-            "1408 (2007)"
+            "1408 (2007)",
+            "Pete's Dragon (2016)"
         ]
     },
     "Isla Fisher": {
@@ -11589,6 +11609,7 @@ var actorMap = {
     "Jared Harris": {
         "movies": [
             "Ocean's Twelve (2004)",
+            "Lady in the Water (2006)",
             "The Curious Case of Benjamin Button (2008)"
         ]
     },
@@ -12039,6 +12060,7 @@ var actorMap = {
     },
     "Jeffrey Wright": {
         "movies": [
+            "Lady in the Water (2006)",
             "The Hunger Games: Catching Fire (2013)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
@@ -12372,6 +12394,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Village (2004)",
             "Zombieland (2009)",
             "Now You See Me (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
@@ -12593,6 +12616,11 @@ var actorMap = {
             "Bridesmaids (2011)"
         ]
     },
+    "Jim Backus": {
+        "movies": [
+            "Pete's Dragon (1977)"
+        ]
+    },
     "Jim Belushi": {
         "movies": [
             "About Last Night (1986)",
@@ -12659,6 +12687,11 @@ var actorMap = {
         "movies": [
             "The Lion King (1994)",
             "The Pagemaster (1994)"
+        ]
+    },
+    "Jim Dale": {
+        "movies": [
+            "Pete's Dragon (1977)"
         ]
     },
     "Jim O'Heir": {
@@ -12904,6 +12937,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Village (2004)",
             "Walk the Line (2005)",
             "Her (2013)",
             "Joker (2019)"
@@ -13909,6 +13943,7 @@ var actorMap = {
     "Joseph Gordon-Levitt": {
         "movies": [
             "The Brothers Bloom (2009)",
+            "50/50 (2011)",
             "The Dark Knight Rises (2012)",
             "Sin City: A Dame to Kill For (2014)",
             "Star Wars: The Last Jedi (2017)",
@@ -14185,6 +14220,7 @@ var actorMap = {
     "Judy Greer": {
         "movies": [
             "13 Going on 30 (2004)",
+            "The Village (2004)",
             "Elizabethtown (2005)",
             "Carrie (2013)",
             "Dawn of the Planet of the Apes (2014)",
@@ -14656,6 +14692,7 @@ var actorMap = {
             "Dredd (2012)",
             "Star Trek Into Darkness (2013)",
             "Star Trek Beyond (2016)",
+            "Pete's Dragon (2016)",
             "Thor: Ragnarok (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -16967,6 +17004,8 @@ var actorMap = {
     "M. Night Shyamalan": {
         "movies": [
             "Unbreakable (2000)",
+            "The Village (2004)",
+            "Lady in the Water (2006)",
             "Split (2017)",
             "Glass (2019)",
             "Old (2021)"
@@ -19008,6 +19047,11 @@ var actorMap = {
             "Ant-Man and the Wasp (2018)"
         ]
     },
+    "Michael Pitt": {
+        "movies": [
+            "The Village (2004)"
+        ]
+    },
     "Michael Rapaport": {
         "movies": [
             "True Romance (1993)",
@@ -19233,6 +19277,11 @@ var actorMap = {
     "Mick Foley": {
         "movies": [
             "The Peanut Butter Falcon (2019)"
+        ]
+    },
+    "Mickey Rooney": {
+        "movies": [
+            "Pete's Dragon (1977)"
         ]
     },
     "Mickey Rourke": {
@@ -20297,6 +20346,11 @@ var actorMap = {
             "Black Widow (2021)"
         ]
     },
+    "Oakes Fegley": {
+        "movies": [
+            "Pete's Dragon (2016)"
+        ]
+    },
     "Octavia Spencer": {
         "suppNoms": [
             {
@@ -20486,6 +20540,11 @@ var actorMap = {
     "Omri Katz": {
         "movies": [
             "Hocus Pocus (1993)"
+        ]
+    },
+    "Oona Laurence": {
+        "movies": [
+            "Pete's Dragon (2016)"
         ]
     },
     "Ophelia Lovibond": {
@@ -20833,6 +20892,7 @@ var actorMap = {
             "Saving Private Ryan (1998)",
             "Planet of the Apes (2001)",
             "Robots (2005)",
+            "Lady in the Water (2006)",
             "Rock of Ages (2012)",
             "Saving Mr. Banks (2013)",
             "The Amazing Spider-Man 2 (2014)",
@@ -21447,7 +21507,8 @@ var actorMap = {
             "Ghostbusters II (1989)",
             "Psycho (1998)",
             "Magnolia (1999)",
-            "Zodiac (2007)"
+            "Zodiac (2007)",
+            "50/50 (2011)"
         ]
     },
     "Philip Kaufman": {
@@ -21987,6 +22048,11 @@ var actorMap = {
             "Bridesmaids (2011)",
             "The Brothers Grimsby (2016)",
             "Jojo Rabbit (2019)"
+        ]
+    },
+    "Red Buttons": {
+        "movies": [
+            "Pete's Dragon (1977)"
         ]
     },
     "Reese Witherspoon": {
@@ -22786,6 +22852,7 @@ var actorMap = {
         "movies": [
             "Lions for Lambs (2007)",
             "Captain America: The Winter Soldier (2014)",
+            "Pete's Dragon (2016)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -23842,6 +23909,7 @@ var actorMap = {
     },
     "Sarita Choudhury": {
         "movies": [
+            "Lady in the Water (2006)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)"
         ]
     },
@@ -24021,6 +24089,11 @@ var actorMap = {
             "The Bucket List (2007)"
         ]
     },
+    "Sean Marshall": {
+        "movies": [
+            "Pete's Dragon (1977)"
+        ]
+    },
     "Sean Patrick Thomas": {
         "movies": [
             "Conspiracy Theory (1997)",
@@ -24149,6 +24222,7 @@ var actorMap = {
             "Monsters vs. Aliens (2009)",
             "The Green Hornet (2011)",
             "Kung Fu Panda 2 (2011)",
+            "50/50 (2011)",
             "This Is the End (2013)",
             "Kung Fu Panda 3 (2016)",
             "Long Shot (2019)"
@@ -24274,6 +24348,11 @@ var actorMap = {
     "Shelley Long": {
         "movies": [
             "Losin' It (1983)"
+        ]
+    },
+    "Shelley Winters": {
+        "movies": [
+            "Pete's Dragon (1977)"
         ]
     },
     "Sherri Shepherd": {
@@ -24429,6 +24508,7 @@ var actorMap = {
             "Alien 3 (1992)",
             "Alien Resurrection (1997)",
             "Galaxy Quest (1999)",
+            "The Village (2004)",
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
             "You Again (2010)",
@@ -25101,6 +25181,11 @@ var actorMap = {
             "We Bought a Zoo (2011)",
             "Iron Man 3 (2013)",
             "R.I.P.D. (2013)"
+        ]
+    },
+    "Sugar Lyn Beard": {
+        "movies": [
+            "50/50 (2011)"
         ]
     },
     "Sullivan Stapleton": {
@@ -27107,6 +27192,7 @@ var actorMap = {
             "Ghost Rider (2007)",
             "Jonah Hex (2010)",
             "The Hunger Games (2012)",
+            "Pete's Dragon (2016)",
             "Mission: Impossible \u2013 Fallout (2018)"
         ]
     },
@@ -27386,6 +27472,7 @@ var actorMap = {
         "movies": [
             "Michael (1996)",
             "Changing Lanes (2002)",
+            "The Village (2004)",
             "A History of Violence (2005)",
             "The Incredible Hulk (2008)",
             "Captain America: Civil War (2016)",
