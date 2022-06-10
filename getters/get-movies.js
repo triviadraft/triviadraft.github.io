@@ -16,8 +16,9 @@ function reset() {
     for (const movie of movies) {
         var title = movieMap[movie]['title'];
         var year = movieMap[movie]['year'];
-        var questionTypes = ['year','synopsis','actors'];
+        var questionTypes = ['year','synopsis', 'synopsis', 'actors', 'actors'];
         if (movieMap[movie]['directors'][0] in directorMap) {
+            questionTypes.push('director');
             questionTypes.push('director');
         }
         var questionType = randomItem(questionTypes);
