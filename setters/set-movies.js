@@ -58437,6 +58437,17 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Fast & Furious"
+        ],
+        "cast": [
+            "Ja Rule",
+            "Jordana Brewster",
+            "Matt Schulze",
+            "Michelle Rodriguez",
+            "Paul Walker",
+            "Rick Yune",
+            "Rob Cohen",
+            "Ted Levine",
+            "Vin Diesel"
         ]
     },
     "Baby Boy (2001)": {
@@ -60787,6 +60798,7 @@ var movieMap = {
             "Kris Kristofferson",
             "Leonor Varela",
             "Luke Goss",
+            "Matt Schulze",
             "Norman Reedus",
             "Ron Perlman",
             "Thomas Kretschmann",
@@ -64445,6 +64457,17 @@ var movieMap = {
             "Action/Adventure",
             "Fast & Furious",
             "John Singleton"
+        ],
+        "cast": [
+            "Cole Hauser",
+            "Devon Aoki",
+            "Eva Mendes",
+            "James Remar",
+            "Ludacris",
+            "Mark Boone Junior",
+            "Michael Ealy",
+            "Paul Walker",
+            "Tyrese Gibson"
         ]
     },
     "Whale Rider (2003)": {
@@ -74143,6 +74166,16 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Fast & Furious"
+        ],
+        "cast": [
+            "Bow Wow",
+            "Brian Tee",
+            "Leonardo Nam",
+            "Lucas Black",
+            "Nathalie Kelley",
+            "Sonny Chiba",
+            "Sung Kang",
+            "Vin Diesel"
         ]
     },
     "The Lake House (2006)": {
@@ -83556,6 +83589,21 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Fast & Furious"
+        ],
+        "cast": [
+            "Brandon T. Jackson",
+            "Don Omar",
+            "Gal Gadot",
+            "Greg Cipes",
+            "John Ortiz",
+            "Jordana Brewster",
+            "Michelle Rodriguez",
+            "Neil Brown Jr.",
+            "Paul Walker",
+            "Shea Whigham",
+            "Sung Kang",
+            "Tego Calder\u00f3n",
+            "Vin Diesel"
         ]
     },
     "Observe and Report (2009)": {
@@ -89889,6 +89937,22 @@ var movieMap = {
             "Dwayne Johnson",
             "Fast & Furious",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Don Omar",
+            "Dwayne Johnson",
+            "Elsa Pataky",
+            "Eva Mendes",
+            "Gal Gadot",
+            "Joaquim de Almeida",
+            "Jordana Brewster",
+            "Ludacris",
+            "Matt Schulze",
+            "Paul Walker",
+            "Sung Kang",
+            "Tego Calder\u00f3n",
+            "Tyrese Gibson",
+            "Vin Diesel"
         ]
     },
     "Prom (2011)": {
@@ -96625,6 +96689,25 @@ var movieMap = {
             "Dwayne Johnson",
             "Fast & Furious",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Dwayne Johnson",
+            "Elsa Pataky",
+            "Gal Gadot",
+            "Gina Carano",
+            "Jason Statham",
+            "Joe Taslim",
+            "John Ortiz",
+            "Jordana Brewster",
+            "Ludacris",
+            "Luke Evans",
+            "Michelle Rodriguez",
+            "Paul Walker",
+            "Rita Ora",
+            "Shea Whigham",
+            "Sung Kang",
+            "Tyrese Gibson",
+            "Vin Diesel"
         ]
     },
     "After Earth (2013)": {
@@ -103383,6 +103466,27 @@ var movieMap = {
             "Fast & Furious",
             "Kurt Russell",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Ali Fazal",
+            "Djimon Hounsou",
+            "Dwayne Johnson",
+            "Elsa Pataky",
+            "Iggy Azalea",
+            "Jason Statham",
+            "Jordana Brewster",
+            "Kurt Russell",
+            "Lucas Black",
+            "Ludacris",
+            "Luke Evans",
+            "Michelle Rodriguez",
+            "Nathalie Emmanuel",
+            "Paul Walker",
+            "Ronda Rousey",
+            "T-Pain",
+            "Tony Jaa",
+            "Tyrese Gibson",
+            "Vin Diesel"
         ]
     },
     "Ex Machina (2015)": {
@@ -110949,6 +111053,24 @@ var movieMap = {
             "Fast & Furious",
             "Kurt Russell",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "Don Omar",
+            "Dwayne Johnson",
+            "Elsa Pataky",
+            "Helen Mirren",
+            "Jason Statham",
+            "Kristofer Hivju",
+            "Kurt Russell",
+            "Ludacris",
+            "Luke Evans",
+            "Michelle Rodriguez",
+            "Nathalie Emmanuel",
+            "Scott Eastwood",
+            "Tego Calder\u00f3n",
+            "Tyrese Gibson",
+            "Vin Diesel"
         ]
     },
     "The Lost City of Z (2017)": {
@@ -120758,6 +120880,21 @@ var movieMap = {
             "Fast & Furious",
             "Kevin Hart",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Cliff Curtis",
+            "David Leitch",
+            "Dwayne Johnson",
+            "Eddie Marsan",
+            "Eiza Gonz\u00e1lez",
+            "Helen Mirren",
+            "Idris Elba",
+            "Jason Statham",
+            "Kevin Hart",
+            "Rob Delaney",
+            "Roman Reigns",
+            "Ryan Reynolds",
+            "Vanessa Kirby"
         ]
     },
     "Luce (2019)": {
@@ -127417,6 +127554,28 @@ var movieMap = {
             "Kurt Russell",
             "Musicians in Film",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Anna Sawai",
+            "Bow Wow",
+            "Cardi B",
+            "Charlize Theron",
+            "Don Omar",
+            "Helen Mirren",
+            "Jason Statham",
+            "John Cena",
+            "Jordana Brewster",
+            "Kurt Russell",
+            "Lucas Black",
+            "Ludacris",
+            "Michael Rooker",
+            "Michelle Rodriguez",
+            "Nathalie Emmanuel",
+            "Shea Whigham",
+            "Sung Kang",
+            "Thue Ersted Rasmussen",
+            "Tyrese Gibson",
+            "Vin Diesel"
         ]
     },
     "False Positive (2021)": {

@@ -716,6 +716,11 @@ var actorMap = {
             "Captain Marvel (2019)"
         ]
     },
+    "Ali Fazal": {
+        "movies": [
+            "Furious 7 (2015)"
+        ]
+    },
     "Ali Wong": {
         "movies": [
             "Ralph Breaks the Internet (2018)",
@@ -1430,6 +1435,11 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)"
+        ]
+    },
+    "Anna Sawai": {
+        "movies": [
+            "F9 (2021)"
         ]
     },
     "Anna Walton": {
@@ -2871,6 +2881,12 @@ var actorMap = {
             "Surrogates (2009)"
         ]
     },
+    "Bow Wow": {
+        "movies": [
+            "The Fast and the Furious: Tokyo Drift (2006)",
+            "F9 (2021)"
+        ]
+    },
     "Bowen Yang": {
         "movies": [
             "The Lost City (2022)"
@@ -3019,7 +3035,8 @@ var actorMap = {
     },
     "Brandon T. Jackson": {
         "movies": [
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "Fast & Furious (2009)"
         ]
     },
     "Brandy Norwood": {
@@ -3179,6 +3196,7 @@ var actorMap = {
     "Brian Tee": {
         "movies": [
             "Austin Powers in Goldmember (2002)",
+            "The Fast and the Furious: Tokyo Drift (2006)",
             "Jurassic World (2015)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
@@ -3615,6 +3633,11 @@ var actorMap = {
     "Cara Delevingne": {
         "movies": [
             "Suicide Squad (2016)"
+        ]
+    },
+    "Cardi B": {
+        "movies": [
+            "F9 (2021)"
         ]
     },
     "Carel Struycken": {
@@ -4134,9 +4157,11 @@ var actorMap = {
             "Prometheus (2012)",
             "A Million Ways to Die in the West (2014)",
             "The Huntsman: Winter's War (2016)",
+            "The Fate of the Furious (2017)",
             "Atomic Blonde (2017)",
             "Long Shot (2019)",
-            "The Old Guard (2020)"
+            "The Old Guard (2020)",
+            "F9 (2021)"
         ]
     },
     "Charlotte Rampling": {
@@ -4882,6 +4907,7 @@ var actorMap = {
             "Six Days, Seven Nights (1998)",
             "Blow (2001)",
             "Sunshine (2007)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Doctor Sleep (2019)"
         ]
     },
@@ -4985,7 +5011,8 @@ var actorMap = {
     },
     "Cole Hauser": {
         "movies": [
-            "Dazed and Confused (1993)"
+            "Dazed and Confused (1993)",
+            "2 Fast 2 Furious (2003)"
         ]
     },
     "Colin Farrell": {
@@ -5904,7 +5931,8 @@ var actorMap = {
     },
     "David Leitch": {
         "movies": [
-            "Deadpool 2 (2018)"
+            "Deadpool 2 (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)"
         ]
     },
     "David Lynch": {
@@ -6341,6 +6369,7 @@ var actorMap = {
     },
     "Devon Aoki": {
         "movies": [
+            "2 Fast 2 Furious (2003)",
             "Sin City (2005)"
         ]
     },
@@ -6532,6 +6561,7 @@ var actorMap = {
             "Amistad (1997)",
             "Constantine (2005)",
             "Guardians of the Galaxy (2014)",
+            "Furious 7 (2015)",
             "Aquaman (2018)",
             "Captain Marvel (2019)",
             "Shazam! (2019)",
@@ -6664,6 +6694,14 @@ var actorMap = {
     "Don Novello": {
         "movies": [
             "Atlantis: The Lost Empire (2001)"
+        ]
+    },
+    "Don Omar": {
+        "movies": [
+            "Fast & Furious (2009)",
+            "Fast Five (2011)",
+            "The Fate of the Furious (2017)",
+            "F9 (2021)"
         ]
     },
     "Don Rickles": {
@@ -6874,7 +6912,12 @@ var actorMap = {
             "The Scorpion King (2002)",
             "Walking Tall (2004)",
             "You Again (2010)",
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
             "Hercules (2014)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Jungle Cruise (2021)"
         ]
     },
@@ -7044,7 +7087,8 @@ var actorMap = {
             "Snow White and the Huntsman (2012)",
             "Atomic Blonde (2017)",
             "Deadpool 2 (2018)",
-            "Mowgli: Legend of the Jungle (2018)"
+            "Mowgli: Legend of the Jungle (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)"
         ]
     },
     "Eddie Murphy": {
@@ -7182,6 +7226,7 @@ var actorMap = {
     "Eiza Gonz\u00e1lez": {
         "movies": [
             "Welcome to Marwen (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Bloodshot (2020)"
         ]
     },
@@ -7505,6 +7550,14 @@ var actorMap = {
         "movies": [
             "The Bishop's Wife (1947)",
             "Mary Poppins (1964)"
+        ]
+    },
+    "Elsa Pataky": {
+        "movies": [
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)"
         ]
     },
     "Elton John": {
@@ -7936,9 +7989,11 @@ var actorMap = {
     },
     "Eva Mendes": {
         "movies": [
+            "2 Fast 2 Furious (2003)",
             "Ghost Rider (2007)",
             "Knocked Up (2007)",
-            "The Spirit (2008)"
+            "The Spirit (2008)",
+            "Fast Five (2011)"
         ]
     },
     "Evan Alex": {
@@ -8517,7 +8572,10 @@ var actorMap = {
     },
     "Gal Gadot": {
         "movies": [
+            "Fast & Furious (2009)",
             "Knight and Day (2010)",
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Wonder Woman (2017)",
             "Justice League (2017)",
@@ -9021,6 +9079,7 @@ var actorMap = {
     },
     "Gina Carano": {
         "movies": [
+            "Fast & Furious 6 (2013)",
             "Deadpool (2016)"
         ]
     },
@@ -9244,6 +9303,7 @@ var actorMap = {
     },
     "Greg Cipes": {
         "movies": [
+            "Fast & Furious (2009)",
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
@@ -9765,7 +9825,10 @@ var actorMap = {
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Inkheart (2009)",
             "Red (2010)",
-            "Red 2 (2013)"
+            "Red 2 (2013)",
+            "The Fate of the Furious (2017)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
+            "F9 (2021)"
         ]
     },
     "Helen Slater": {
@@ -10193,7 +10256,13 @@ var actorMap = {
             "The Dark Tower (2017)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "The Suicide Squad (2021)"
+        ]
+    },
+    "Iggy Azalea": {
+        "movies": [
+            "Furious 7 (2015)"
         ]
     },
     "Iggy Pop": {
@@ -10489,6 +10558,11 @@ var actorMap = {
     "JD McCrary": {
         "movies": [
             "Little (2019)"
+        ]
+    },
+    "Ja Rule": {
+        "movies": [
+            "The Fast and the Furious (2001)"
         ]
     },
     "Jack Black": {
@@ -11194,6 +11268,7 @@ var actorMap = {
     "James Remar": {
         "movies": [
             "Psycho (1998)",
+            "2 Fast 2 Furious (2003)",
             "Blade: Trinity (2004)",
             "Red (2010)",
             "Transformers: Dark of the Moon (2011)",
@@ -11681,7 +11756,12 @@ var actorMap = {
     "Jason Statham": {
         "movies": [
             "Collateral (2004)",
-            "Cellular (2004)"
+            "Cellular (2004)",
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
+            "F9 (2021)"
         ]
     },
     "Jason Sudeikis": {
@@ -12791,6 +12871,11 @@ var actorMap = {
             }
         ]
     },
+    "Joaquim de Almeida": {
+        "movies": [
+            "Fast Five (2011)"
+        ]
+    },
     "Joaquin Phoenix": {
         "leadNoms": [
             {
@@ -12958,6 +13043,7 @@ var actorMap = {
     },
     "Joe Taslim": {
         "movies": [
+            "Fast & Furious 6 (2013)",
             "Star Trek Beyond (2016)"
         ]
     },
@@ -13092,6 +13178,7 @@ var actorMap = {
             "Trainwreck (2015)",
             "Bumblebee (2018)",
             "Dolittle (2020)",
+            "F9 (2021)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -13358,6 +13445,8 @@ var actorMap = {
         "movies": [
             "Amistad (1997)",
             "American Gangster (2007)",
+            "Fast & Furious (2009)",
+            "Fast & Furious 6 (2013)",
             "Blackhat (2015)",
             "Bumblebee (2018)"
         ]
@@ -13784,6 +13873,16 @@ var actorMap = {
     "Jordan Peele": {
         "movies": [
             "Us (2019)"
+        ]
+    },
+    "Jordana Brewster": {
+        "movies": [
+            "The Fast and the Furious (2001)",
+            "Fast & Furious (2009)",
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)",
+            "F9 (2021)"
         ]
     },
     "Jorge Lendeborg Jr.": {
@@ -15265,7 +15364,8 @@ var actorMap = {
             "Think Like a Man (2012)",
             "This Is the End (2013)",
             "About Last Night (2014)",
-            "Think Like a Man Too (2014)"
+            "Think Like a Man Too (2014)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)"
         ]
     },
     "Kevin Heffernan": {
@@ -15620,6 +15720,11 @@ var actorMap = {
             "The Other Boleyn Girl (2008)"
         ]
     },
+    "Kristofer Hivju": {
+        "movies": [
+            "The Fate of the Furious (2017)"
+        ]
+    },
     "Kumail Nanjiani": {
         "movies": [
             "Men in Black: International (2019)",
@@ -15640,9 +15745,12 @@ var actorMap = {
             "Forrest Gump (1994)",
             "Vanilla Sky (2001)",
             "Sky High (2005)",
+            "Furious 7 (2015)",
             "Bone Tomahawk (2015)",
             "The Hateful Eight (2015)",
-            "Guardians of the Galaxy Vol. 2 (2017)"
+            "The Fate of the Furious (2017)",
+            "Guardians of the Galaxy Vol. 2 (2017)",
+            "F9 (2021)"
         ]
     },
     "Kurtwood Smith": {
@@ -16186,6 +16294,7 @@ var actorMap = {
     "Leonardo Nam": {
         "movies": [
             "The Perfect Score (2004)",
+            "The Fast and the Furious: Tokyo Drift (2006)",
             "He's Just Not That into You (2009)"
         ]
     },
@@ -16646,7 +16755,10 @@ var actorMap = {
     "Lucas Black": {
         "movies": [
             "Ghosts of Mississippi (1996)",
-            "Cold Mountain (2003)"
+            "Cold Mountain (2003)",
+            "The Fast and the Furious: Tokyo Drift (2006)",
+            "Furious 7 (2015)",
+            "F9 (2021)"
         ]
     },
     "Lucas Hedges": {
@@ -16692,10 +16804,16 @@ var actorMap = {
     },
     "Ludacris": {
         "movies": [
+            "2 Fast 2 Furious (2003)",
             "Crash (2005)",
             "Hustle & Flow (2005)",
             "No Strings Attached (2011)",
-            "New Year's Eve (2011)"
+            "Fast Five (2011)",
+            "New Year's Eve (2011)",
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
+            "F9 (2021)"
         ]
     },
     "Ludi Lin": {
@@ -16723,9 +16841,12 @@ var actorMap = {
     "Luke Evans": {
         "movies": [
             "The Three Musketeers (2011)",
+            "Fast & Furious 6 (2013)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "The Hobbit: The Battle of the Five Armies (2014)",
-            "Beauty and the Beast (2017)"
+            "Furious 7 (2015)",
+            "Beauty and the Beast (2017)",
+            "The Fate of the Furious (2017)"
         ]
     },
     "Luke Ford": {
@@ -17344,6 +17465,7 @@ var actorMap = {
     },
     "Mark Boone Junior": {
         "movies": [
+            "2 Fast 2 Furious (2003)",
             "Batman Begins (2005)",
             "30 Days of Night (2007)"
         ]
@@ -17896,6 +18018,13 @@ var actorMap = {
         "movies": [
             "The Aviator (2004)",
             "Last Holiday (2006)"
+        ]
+    },
+    "Matt Schulze": {
+        "movies": [
+            "The Fast and the Furious (2001)",
+            "Blade II (2002)",
+            "Fast Five (2011)"
         ]
     },
     "Matt Walsh": {
@@ -18652,6 +18781,7 @@ var actorMap = {
     },
     "Michael Ealy": {
         "movies": [
+            "2 Fast 2 Furious (2003)",
             "For Colored Girls (2010)",
             "Think Like a Man (2012)",
             "About Last Night (2014)",
@@ -18892,6 +19022,7 @@ var actorMap = {
             "Tombstone (1993)",
             "Guardians of the Galaxy (2014)",
             "Guardians of the Galaxy Vol. 2 (2017)",
+            "F9 (2021)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -19030,8 +19161,14 @@ var actorMap = {
     },
     "Michelle Rodriguez": {
         "movies": [
+            "The Fast and the Furious (2001)",
+            "Fast & Furious (2009)",
             "Avatar (2009)",
-            "Widows (2018)"
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
+            "Widows (2018)",
+            "F9 (2021)"
         ]
     },
     "Michelle Trachtenberg": {
@@ -19697,6 +19834,18 @@ var actorMap = {
             "Zootopia (2016)"
         ]
     },
+    "Nathalie Emmanuel": {
+        "movies": [
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
+            "F9 (2021)"
+        ]
+    },
+    "Nathalie Kelley": {
+        "movies": [
+            "The Fast and the Furious: Tokyo Drift (2006)"
+        ]
+    },
     "Nathan Fillion": {
         "movies": [
             "Saving Private Ryan (1998)",
@@ -19754,6 +19903,11 @@ var actorMap = {
     "Neel Sethi": {
         "movies": [
             "The Jungle Book (2016)"
+        ]
+    },
+    "Neil Brown Jr.": {
+        "movies": [
+            "Fast & Furious (2009)"
         ]
     },
     "Neil Casey": {
@@ -20845,7 +20999,13 @@ var actorMap = {
     },
     "Paul Walker": {
         "movies": [
-            "Timeline (2003)"
+            "The Fast and the Furious (2001)",
+            "2 Fast 2 Furious (2003)",
+            "Timeline (2003)",
+            "Fast & Furious (2009)",
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)"
         ]
     },
     "Paul Walter Hauser": {
@@ -22264,6 +22424,11 @@ var actorMap = {
             "Top Gun (1986)"
         ]
     },
+    "Rick Yune": {
+        "movies": [
+            "The Fast and the Furious (2001)"
+        ]
+    },
     "Ricki Lake": {
         "movies": [
             "Hairspray (2007)"
@@ -22304,6 +22469,11 @@ var actorMap = {
             "West Side Story (2021)"
         ]
     },
+    "Rita Ora": {
+        "movies": [
+            "Fast & Furious 6 (2013)"
+        ]
+    },
     "Rita Wilson": {
         "movies": [
             "Sleepless in Seattle (1993)",
@@ -22336,9 +22506,15 @@ var actorMap = {
             "Venom (2018)"
         ]
     },
+    "Rob Cohen": {
+        "movies": [
+            "The Fast and the Furious (2001)"
+        ]
+    },
     "Rob Delaney": {
         "movies": [
             "Deadpool 2 (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Last Christmas (2019)"
         ]
     },
@@ -22772,6 +22948,11 @@ var actorMap = {
             "Jojo Rabbit (2019)"
         ]
     },
+    "Roman Reigns": {
+        "movies": [
+            "Fast & Furious Presents: Hobbs & Shaw (2019)"
+        ]
+    },
     "Romany Malco": {
         "movies": [
             "Think Like a Man (2012)",
@@ -22810,6 +22991,11 @@ var actorMap = {
         "movies": [
             "Raiders of the Lost Ark (1981)",
             "Indiana Jones and the Last Crusade (1989)"
+        ]
+    },
+    "Ronda Rousey": {
+        "movies": [
+            "Furious 7 (2015)"
         ]
     },
     "Ronny Chieng": {
@@ -23180,7 +23366,8 @@ var actorMap = {
             "R.I.P.D. (2013)",
             "A Million Ways to Die in the West (2014)",
             "Deadpool (2016)",
-            "Deadpool 2 (2018)"
+            "Deadpool 2 (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)"
         ]
     },
     "Ryan Seacrest": {
@@ -23753,7 +23940,8 @@ var actorMap = {
     },
     "Scott Eastwood": {
         "movies": [
-            "Suicide Squad (2016)"
+            "Suicide Squad (2016)",
+            "The Fate of the Furious (2017)"
         ]
     },
     "Scott Glenn": {
@@ -24069,9 +24257,12 @@ var actorMap = {
     },
     "Shea Whigham": {
         "movies": [
+            "Fast & Furious (2009)",
+            "Fast & Furious 6 (2013)",
             "Star Trek Beyond (2016)",
             "Bad Times at the El Royale (2018)",
-            "Joker (2019)"
+            "Joker (2019)",
+            "F9 (2021)"
         ]
     },
     "Shelley Duvall": {
@@ -24380,6 +24571,11 @@ var actorMap = {
         "movies": [
             "New Year's Eve (2011)",
             "Chef (2014)"
+        ]
+    },
+    "Sonny Chiba": {
+        "movies": [
+            "The Fast and the Furious: Tokyo Drift (2006)"
         ]
     },
     "Sonoya Mizuno": {
@@ -24912,6 +25108,15 @@ var actorMap = {
             "300: Rise of an Empire (2014)"
         ]
     },
+    "Sung Kang": {
+        "movies": [
+            "The Fast and the Furious: Tokyo Drift (2006)",
+            "Fast & Furious (2009)",
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
+            "F9 (2021)"
+        ]
+    },
     "Susan Sarandon": {
         "leadNoms": [
             {
@@ -24999,6 +25204,11 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Creed II (2018)",
             "The Suicide Squad (2021)"
+        ]
+    },
+    "T-Pain": {
+        "movies": [
+            "Furious 7 (2015)"
         ]
     },
     "T. J. Storm": {
@@ -25173,9 +25383,17 @@ var actorMap = {
     "Ted Levine": {
         "movies": [
             "The Silence of the Lambs (1991)",
+            "The Fast and the Furious (2001)",
             "American Gangster (2007)",
             "Shutter Island (2010)",
             "Jurassic World: Fallen Kingdom (2018)"
+        ]
+    },
+    "Tego Calder\u00f3n": {
+        "movies": [
+            "Fast & Furious (2009)",
+            "Fast Five (2011)",
+            "The Fate of the Furious (2017)"
         ]
     },
     "Temuera Morrison": {
@@ -25373,6 +25591,11 @@ var actorMap = {
         "movies": [
             "Hocus Pocus (1993)",
             "Ghost World (2001)"
+        ]
+    },
+    "Thue Ersted Rasmussen": {
+        "movies": [
+            "F9 (2021)"
         ]
     },
     "Tiffany Haddish": {
@@ -26097,6 +26320,11 @@ var actorMap = {
             "Chicken Run (2000)"
         ]
     },
+    "Tony Jaa": {
+        "movies": [
+            "Furious 7 (2015)"
+        ]
+    },
     "Tony Jay": {
         "movies": [
             "Twins (1988)",
@@ -26312,9 +26540,15 @@ var actorMap = {
     "Tyrese Gibson": {
         "movies": [
             "Baby Boy (2001)",
+            "2 Fast 2 Furious (2003)",
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
-            "Transformers: Dark of the Moon (2011)"
+            "Fast Five (2011)",
+            "Transformers: Dark of the Moon (2011)",
+            "Fast & Furious 6 (2013)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
+            "F9 (2021)"
         ]
     },
     "T\u00e9a Leoni": {
@@ -26404,7 +26638,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Mission: Impossible \u2013 Fallout (2018)"
+            "Mission: Impossible \u2013 Fallout (2018)",
+            "Fast & Furious Presents: Hobbs & Shaw (2019)"
         ]
     },
     "Vanessa Lee Chester": {
@@ -26549,12 +26784,20 @@ var actorMap = {
     "Vin Diesel": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "The Fast and the Furious (2001)",
+            "The Fast and the Furious: Tokyo Drift (2006)",
+            "Fast & Furious (2009)",
+            "Fast Five (2011)",
+            "Fast & Furious 6 (2013)",
             "Guardians of the Galaxy (2014)",
+            "Furious 7 (2015)",
+            "The Fate of the Furious (2017)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
             "Ralph Breaks the Internet (2018)",
             "Avengers: Endgame (2019)",
-            "Bloodshot (2020)"
+            "Bloodshot (2020)",
+            "F9 (2021)"
         ]
     },
     "Vince Vaughn": {
