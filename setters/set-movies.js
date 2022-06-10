@@ -57341,6 +57341,15 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comedies"
+        ],
+        "cast": [
+            "Andy Dick",
+            "Ashton Kutcher",
+            "Brent Spiner",
+            "David Herman",
+            "Jennifer Garner",
+            "Kristy Swanson",
+            "Seann William Scott"
         ]
     },
     "Pollock (2000)": {
@@ -83789,6 +83798,18 @@ var movieMap = {
             "Emmas",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anne Archer",
+            "Breckin Meyer",
+            "Christina Milian",
+            "Emma Stone",
+            "Jennifer Garner",
+            "Lacey Chabert",
+            "Logan Miller",
+            "Matthew McConaughey",
+            "Michael Douglas",
+            "Robert Forster"
         ]
     },
     "X-Men Origins: Wolverine (2009)": {
@@ -130268,6 +130289,14 @@ var movieMap = {
         "categories": [
             "2020s",
             "Streaming"
+        ],
+        "cast": [
+            "Catherine Keener",
+            "Jennifer Garner",
+            "Mark Ruffalo",
+            "Ryan Reynolds",
+            "Walker Scobell",
+            "Zoe Saldana"
         ]
     },
     "Turning Red (2022)": {

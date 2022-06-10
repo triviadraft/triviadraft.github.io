@@ -1151,6 +1151,7 @@ var actorMap = {
     },
     "Andy Dick": {
         "movies": [
+            "Dude, Where's My Car? (2000)",
             "Knocked Up (2007)"
         ]
     },
@@ -1481,6 +1482,9 @@ var actorMap = {
                 "movie": "Fatal Attraction",
                 "year": "1987"
             }
+        ],
+        "movies": [
+            "Ghosts of Girlfriends Past (2009)"
         ]
     },
     "Anne Bancroft": {
@@ -1911,6 +1915,7 @@ var actorMap = {
     },
     "Ashton Kutcher": {
         "movies": [
+            "Dude, Where's My Car? (2000)",
             "Valentine's Day (2010)",
             "No Strings Attached (2011)",
             "New Year's Eve (2011)"
@@ -3052,7 +3057,8 @@ var actorMap = {
     },
     "Breckin Meyer": {
         "movies": [
-            "Kate & Leopold (2001)"
+            "Kate & Leopold (2001)",
+            "Ghosts of Girlfriends Past (2009)"
         ]
     },
     "Brenda Blethyn": {
@@ -3122,6 +3128,7 @@ var actorMap = {
             "Star Trek Generations (1994)",
             "Star Trek: First Contact (1996)",
             "Star Trek: Insurrection (1998)",
+            "Dude, Where's My Car? (2000)",
             "I Am Sam (2001)",
             "Star Trek: Nemesis (2002)",
             "The Aviator (2004)"
@@ -3944,7 +3951,8 @@ var actorMap = {
         ],
         "movies": [
             "About Last Night (1986)",
-            "Incredibles 2 (2018)"
+            "Incredibles 2 (2018)",
+            "The Adam Project (2022)"
         ]
     },
     "Catherine McCormack": {
@@ -4604,6 +4612,11 @@ var actorMap = {
     "Christina Applegate": {
         "movies": [
             "View from the Top (2003)"
+        ]
+    },
+    "Christina Milian": {
+        "movies": [
+            "Ghosts of Girlfriends Past (2009)"
         ]
     },
     "Christina Ricci": {
@@ -5914,7 +5927,8 @@ var actorMap = {
     },
     "David Herman": {
         "movies": [
-            "Born on the Fourth of July (1989)"
+            "Born on the Fourth of July (1989)",
+            "Dude, Where's My Car? (2000)"
         ]
     },
     "David Hyde Pierce": {
@@ -7714,6 +7728,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Ghosts of Girlfriends Past (2009)",
             "Zombieland (2009)",
             "The Help (2011)",
             "The Amazing Spider-Man (2012)",
@@ -12147,13 +12162,16 @@ var actorMap = {
     },
     "Jennifer Garner": {
         "movies": [
+            "Dude, Where's My Car? (2000)",
             "Catch Me If You Can (2002)",
             "Daredevil (2003)",
             "13 Going on 30 (2004)",
             "Elektra (2005)",
             "Juno (2007)",
+            "Ghosts of Girlfriends Past (2009)",
             "Valentine's Day (2010)",
-            "Mother's Day (2016)"
+            "Mother's Day (2016)",
+            "The Adam Project (2022)"
         ]
     },
     "Jennifer Holland": {
@@ -15762,6 +15780,11 @@ var actorMap = {
             "The Fate of the Furious (2017)"
         ]
     },
+    "Kristy Swanson": {
+        "movies": [
+            "Dude, Where's My Car? (2000)"
+        ]
+    },
     "Kumail Nanjiani": {
         "movies": [
             "Men in Black: International (2019)",
@@ -15831,6 +15854,11 @@ var actorMap = {
     "LL Cool J": {
         "movies": [
             "Last Holiday (2006)"
+        ]
+    },
+    "Lacey Chabert": {
+        "movies": [
+            "Ghosts of Girlfriends Past (2009)"
         ]
     },
     "Lady Gaga": {
@@ -16710,6 +16738,7 @@ var actorMap = {
     },
     "Logan Miller": {
         "movies": [
+            "Ghosts of Girlfriends Past (2009)",
             "The Bling Ring (2013)"
         ]
     },
@@ -17590,7 +17619,8 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Captain Marvel (2019)",
             "Avengers: Endgame (2019)",
-            "Shang-Chi and the Legend of the Ten Rings (2021)"
+            "Shang-Chi and the Legend of the Ten Rings (2021)",
+            "The Adam Project (2022)"
         ]
     },
     "Mark Rylance": {
@@ -18150,6 +18180,7 @@ var actorMap = {
             "Amistad (1997)",
             "Sahara (2005)",
             "Tropic Thunder (2008)",
+            "Ghosts of Girlfriends Past (2009)",
             "The Dark Tower (2017)"
         ]
     },
@@ -18813,6 +18844,7 @@ var actorMap = {
         ],
         "movies": [
             "Traffic (2000)",
+            "Ghosts of Girlfriends Past (2009)",
             "Ant-Man (2015)",
             "Ant-Man and the Wasp (2018)",
             "Avengers: Endgame (2019)"
@@ -22788,7 +22820,8 @@ var actorMap = {
         ],
         "movies": [
             "Psycho (1998)",
-            "Firewall (2006)"
+            "Firewall (2006)",
+            "Ghosts of Girlfriends Past (2009)"
         ]
     },
     "Robert Guillaume": {
@@ -23434,7 +23467,8 @@ var actorMap = {
             "A Million Ways to Die in the West (2014)",
             "Deadpool (2016)",
             "Deadpool 2 (2018)",
-            "Fast & Furious Presents: Hobbs & Shaw (2019)"
+            "Fast & Furious Presents: Hobbs & Shaw (2019)",
+            "The Adam Project (2022)"
         ]
     },
     "Ryan Seacrest": {
@@ -24148,6 +24182,7 @@ var actorMap = {
     },
     "Seann William Scott": {
         "movies": [
+            "Dude, Where's My Car? (2000)",
             "Bulletproof Monk (2003)",
             "Movie 43 (2013)"
         ]
@@ -27062,6 +27097,11 @@ var actorMap = {
             "Talk to Me (2007)"
         ]
     },
+    "Walker Scobell": {
+        "movies": [
+            "The Adam Project (2022)"
+        ]
+    },
     "Wallace Shawn": {
         "movies": [
             "Toy Story (1995)",
@@ -27851,7 +27891,8 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
             "Missing Link (2019)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "The Adam Project (2022)"
         ]
     },
     "Zoey Deutch": {
