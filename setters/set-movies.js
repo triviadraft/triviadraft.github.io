@@ -20661,6 +20661,7 @@ var movieMap = {
         "cast": [
             "Curtis Armstrong",
             "Joe Pantoliano",
+            "Kevin Anderson",
             "Rebecca De Mornay",
             "Tom Cruise"
         ]
@@ -20977,6 +20978,7 @@ var movieMap = {
             "Jack Nicholson",
             "Jeff Daniels",
             "John Lithgow",
+            "Mary Kay Place",
             "Mary Kay Place",
             "Shirley MacLaine"
         ]
@@ -33069,6 +33071,11 @@ var movieMap = {
         "categories": [
             "1990s",
             "Julia Roberts"
+        ],
+        "cast": [
+            "Julia Roberts",
+            "Kevin Anderson",
+            "Patrick Bergin"
         ]
     },
     "The NeverEnding Story II: The Next Chapter (1991)": {
@@ -34548,6 +34555,24 @@ var movieMap = {
             "Julia Roberts",
             "Robin Williams",
             "Steven Spielberg"
+        ],
+        "cast": [
+            "Bob Hoskins",
+            "Caroline Goodall",
+            "Carrie Fisher",
+            "Charlie Korsmo",
+            "Dante Basco",
+            "David Crosby",
+            "Dustin Hoffman",
+            "George Lucas",
+            "Glenn Close",
+            "Gwyneth Paltrow",
+            "Jimmy Buffett",
+            "Julia Roberts",
+            "Maggie Smith",
+            "Phil Collins",
+            "Robin Williams",
+            "Tony Burton"
         ]
     },
     "Bugsy (1991)": {
@@ -34870,6 +34895,16 @@ var movieMap = {
         "categories": [
             "1990s",
             "Nora Ephron"
+        ],
+        "cast": [
+            "Carrie Fisher",
+            "Dan Aykroyd",
+            "Estelle Harris",
+            "Gaby Hoffmann",
+            "Joy Behar",
+            "Julie Kavner",
+            "Kathy Najimy",
+            "Samantha Mathis"
         ]
     },
     "Memoirs of an Invisible Man (1992)": {
@@ -41491,6 +41526,23 @@ var movieMap = {
             "Happy Madison & Adam Sandler",
             "Holiday",
             "Nora Ephron"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Anthony LaPaglia",
+            "Christine Cavanaugh",
+            "Garry Shandling",
+            "Haley Joel Osment",
+            "Joely Fisher",
+            "Juliette Lewis",
+            "Liev Schreiber",
+            "Madeline Kahn",
+            "Parker Posey",
+            "Rita Wilson",
+            "Rob Reiner",
+            "Robert Klein",
+            "Steve Martin",
+            "Victor Garber"
         ]
     },
     "Richie Rich (1994)": {
@@ -46864,6 +46916,16 @@ var movieMap = {
             "1990s",
             "Brad Pitt & George Clooney",
             "Michelle Pfeiffer"
+        ],
+        "cast": [
+            "Alex D. Linz",
+            "Amanda Peet",
+            "Charles Durning",
+            "Ellen Greene",
+            "George Clooney",
+            "Holland Taylor",
+            "Mae Whitman",
+            "Michelle Pfeiffer"
         ]
     },
     "Scream (1996)": {
@@ -47005,6 +47067,16 @@ var movieMap = {
         "categories": [
             "1990s",
             "Nora Ephron"
+        ],
+        "cast": [
+            "Andie MacDowell",
+            "Bob Hoskins",
+            "Carla Gugino",
+            "Joey Lauren Adams",
+            "John Travolta",
+            "Richard Schiff",
+            "Teri Garr",
+            "William Hurt"
         ]
     },
     "The Evening Star (1996)": {
@@ -48358,6 +48430,12 @@ var movieMap = {
             "Julia Roberts",
             "Richard Donner",
             "Thriller"
+        ],
+        "cast": [
+            "Julia Roberts",
+            "Mel Gibson",
+            "Patrick Stewart",
+            "Sean Patrick Thomas"
         ]
     },
     "Cop Land (1997)": {
@@ -52124,6 +52202,16 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Dabney Coleman",
+            "Dave Chappelle",
+            "Greg Kinnear",
+            "Heather Burns",
+            "Meg Ryan",
+            "Parker Posey",
+            "Steve Zahn",
+            "Tom Hanks"
         ]
     },
     "The Thin Red Line (1998)": {
@@ -52230,6 +52318,14 @@ var movieMap = {
             "Dramas",
             "Ed Harris",
             "Julia Roberts"
+        ],
+        "cast": [
+            "Ed Harris",
+            "Jena Malone",
+            "Julia Roberts",
+            "Liam Aiken",
+            "Lynn Whitfield",
+            "Susan Sarandon"
         ]
     },
     "The Faculty (1998)": {
@@ -54811,6 +54907,7 @@ var movieMap = {
             "KaDee Strickland",
             "Kurtwood Smith",
             "Mary Kay Place",
+            "Mary Kay Place",
             "Vanessa Redgrave",
             "Whoopi Goldberg",
             "Winona Ryder"
@@ -55122,6 +55219,15 @@ var movieMap = {
             "2000s",
             "Meg Ryan",
             "Nora Ephron"
+        ],
+        "cast": [
+            "Cloris Leachman",
+            "Diane Keaton",
+            "Edie McClurg",
+            "Lisa Kudrow",
+            "Meg Ryan",
+            "Tracee Ellis Ross",
+            "Walter Matthau"
         ]
     },
     "Pitch Black (2000)": {
@@ -55766,6 +55872,13 @@ var movieMap = {
         ],
         "categories": [
             "2000s"
+        ],
+        "cast": [
+            "Danny DeVito",
+            "Dave Chappelle",
+            "Elaine Stritch",
+            "Norm Macdonald",
+            "Sarah Silverman"
         ]
     },
     "Dinosaur (2000)": {
@@ -56826,6 +56939,17 @@ var movieMap = {
         "categories": [
             "2000s",
             "Nora Ephron"
+        ],
+        "cast": [
+            "Bill Pullman",
+            "Daryl Mitchell",
+            "Ed O'Neill",
+            "John Travolta",
+            "Lisa Kudrow",
+            "Michael Moore",
+            "Michael Rapaport",
+            "Richard Schiff",
+            "Tim Roth"
         ]
     },
     "Charlie's Angels (2000)": {
@@ -62159,6 +62283,7 @@ var movieMap = {
             "Jean Smart",
             "Josh Lucas",
             "Mary Kay Place",
+            "Mary Kay Place",
             "Melanie Lynskey",
             "Patrick Dempsey",
             "Reese Witherspoon",
@@ -67059,6 +67184,7 @@ var movieMap = {
             "Laura Harring",
             "Rebecca Romijn",
             "Roy Scheider",
+            "Samantha Mathis",
             "Thomas Jane",
             "Will Patton"
         ]
@@ -70432,6 +70558,7 @@ var movieMap = {
         ],
         "cast": [
             "Adam Scott",
+            "Elaine Stritch",
             "Jane Fonda",
             "Jennifer Lopez",
             "Michael Vartan",
@@ -70818,6 +70945,25 @@ var movieMap = {
             "Nora Ephron",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Amy Sedaris",
+            "Conan O'Brien",
+            "David Alan Grier",
+            "Ed McMahon",
+            "Heather Burns",
+            "James Lipton",
+            "Jason Schwartzman",
+            "Kate Walsh",
+            "Kristin Chenoweth",
+            "Michael Caine",
+            "Nick Lachey",
+            "Nicole Kidman",
+            "Richard Kind",
+            "Shirley MacLaine",
+            "Stephen Colbert",
+            "Steve Carell",
+            "Will Ferrell"
         ]
     },
     "Land of the Dead (2005)": {
@@ -84426,6 +84572,14 @@ var movieMap = {
             "Amy Adams",
             "Meryl Streep",
             "Nora Ephron",
+            "Stanley Tucci"
+        ],
+        "cast": [
+            "Amy Adams",
+            "Chris Messina",
+            "Jane Lynch",
+            "Mary Kay Place",
+            "Meryl Streep",
             "Stanley Tucci"
         ]
     },
@@ -99946,6 +100100,26 @@ var movieMap = {
             "Charlize Theron",
             "Comedies",
             "Westerns"
+        ],
+        "cast": [
+            "Alex Borstein",
+            "Amanda Seyfried",
+            "Bill Maher",
+            "Charlize Theron",
+            "Christopher Lloyd",
+            "Ewan McGregor",
+            "Gilbert Gottfried",
+            "Giovanni Ribisi",
+            "Jamie Foxx",
+            "John Michael Higgins",
+            "Liam Neeson",
+            "Mae Whitman",
+            "Neil Patrick Harris",
+            "Patrick Stewart",
+            "Ryan Reynolds",
+            "Sarah Silverman",
+            "Seth MacFarlane",
+            "Wes Studi"
         ]
     },
     "Maleficent (2014)": {

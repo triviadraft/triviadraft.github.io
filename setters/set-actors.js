@@ -183,6 +183,11 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Adam Sandler": {
+        "movies": [
+            "Mixed Nuts (1994)"
+        ]
+    },
     "Adam Scott": {
         "movies": [
             "The Aviator (2004)",
@@ -605,7 +610,13 @@ var actorMap = {
     "Alex Borstein": {
         "movies": [
             "Catwoman (2004)",
-            "Ted (2012)"
+            "Ted (2012)",
+            "A Million Ways to Die in the West (2014)"
+        ]
+    },
+    "Alex D. Linz": {
+        "movies": [
+            "One Fine Day (1996)"
         ]
     },
     "Alex Trebek": {
@@ -850,6 +861,7 @@ var actorMap = {
     },
     "Amanda Peet": {
         "movies": [
+            "One Fine Day (1996)",
             "Changing Lanes (2002)",
             "Something's Gotta Give (2003)"
         ]
@@ -868,7 +880,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Les Mis\u00e9rables (2012)"
+            "Les Mis\u00e9rables (2012)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "Amandla Stenberg": {
@@ -933,6 +946,7 @@ var actorMap = {
             "Drop Dead Gorgeous (1999)",
             "Catch Me If You Can (2002)",
             "Doubt (2008)",
+            "Julie & Julia (2009)",
             "Man of Steel (2013)",
             "Her (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
@@ -986,6 +1000,7 @@ var actorMap = {
     "Amy Sedaris": {
         "movies": [
             "Six Days, Seven Nights (1998)",
+            "Bewitched (2005)",
             "Chef (2014)"
         ]
     },
@@ -1023,6 +1038,7 @@ var actorMap = {
     "Andie MacDowell": {
         "movies": [
             "Groundhog Day (1993)",
+            "Michael (1996)",
             "Ready or Not (2019)"
         ]
     },
@@ -1655,6 +1671,7 @@ var actorMap = {
     },
     "Anthony LaPaglia": {
         "movies": [
+            "Mixed Nuts (1994)",
             "A Good Marriage (2014)"
         ]
     },
@@ -2514,7 +2531,8 @@ var actorMap = {
     "Bill Maher": {
         "movies": [
             "Iron Man 3 (2013)",
-            "Delivery Man (2013)"
+            "Delivery Man (2013)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "Bill Murray": {
@@ -2583,7 +2601,8 @@ var actorMap = {
         "movies": [
             "Spaceballs (1987)",
             "A League of Their Own (1992)",
-            "Sleepless in Seattle (1993)"
+            "Sleepless in Seattle (1993)",
+            "Lucky Numbers (2000)"
         ]
     },
     "Bill Skarsg\u00e5rd": {
@@ -2752,6 +2771,8 @@ var actorMap = {
     },
     "Bob Hoskins": {
         "movies": [
+            "Hook (1991)",
+            "Michael (1996)",
             "Son of the Mask (2005)",
             "Snow White and the Huntsman (2012)"
         ]
@@ -3648,6 +3669,7 @@ var actorMap = {
     },
     "Carla Gugino": {
         "movies": [
+            "Michael (1996)",
             "Sin City (2005)",
             "American Gangster (2007)",
             "Watchmen (2009)",
@@ -3679,6 +3701,7 @@ var actorMap = {
     },
     "Caroline Goodall": {
         "movies": [
+            "Hook (1991)",
             "The Princess Diaries (2001)",
             "The Princess Diaries 2: Royal Engagement (2004)"
         ]
@@ -3695,6 +3718,8 @@ var actorMap = {
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "Hook (1991)",
+            "This Is My Life (1992)",
             "Austin Powers: International Man of Mystery (1997)",
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
@@ -4021,7 +4046,8 @@ var actorMap = {
     },
     "Charles Durning": {
         "movies": [
-            "Dick Tracy (1990)"
+            "Dick Tracy (1990)",
+            "One Fine Day (1996)"
         ]
     },
     "Charles Fleischer": {
@@ -4068,7 +4094,8 @@ var actorMap = {
     },
     "Charlie Korsmo": {
         "movies": [
-            "Dick Tracy (1990)"
+            "Dick Tracy (1990)",
+            "Hook (1991)"
         ]
     },
     "Charlie Sheen": {
@@ -4105,6 +4132,7 @@ var actorMap = {
         "movies": [
             "Snow White and the Huntsman (2012)",
             "Prometheus (2012)",
+            "A Million Ways to Die in the West (2014)",
             "The Huntsman: Winter's War (2016)",
             "Atomic Blonde (2017)",
             "Long Shot (2019)",
@@ -4377,6 +4405,7 @@ var actorMap = {
     "Chris Messina": {
         "movies": [
             "Vicky Cristina Barcelona (2008)",
+            "Julie & Julia (2009)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
     },
@@ -4554,6 +4583,7 @@ var actorMap = {
     },
     "Christine Cavanaugh": {
         "movies": [
+            "Mixed Nuts (1994)",
             "Jerry Maguire (1996)"
         ]
     },
@@ -4631,6 +4661,7 @@ var actorMap = {
             "Back to the Future Part III (1990)",
             "The Pagemaster (1994)",
             "The Tale of Despereaux (2008)",
+            "A Million Ways to Die in the West (2014)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -4925,6 +4956,7 @@ var actorMap = {
     },
     "Cloris Leachman": {
         "movies": [
+            "Hanging Up (2000)",
             "Sky High (2005)",
             "You Again (2010)"
         ]
@@ -5063,6 +5095,7 @@ var actorMap = {
     "Conan O'Brien": {
         "movies": [
             "Vanilla Sky (2001)",
+            "Bewitched (2005)",
             "Now You See Me (2013)",
             "The Lego Batman Movie (2017)"
         ]
@@ -5253,7 +5286,8 @@ var actorMap = {
         "movies": [
             "9 to 5 (1980)",
             "On Golden Pond (1981)",
-            "WarGames (1983)"
+            "WarGames (1983)",
+            "You've Got Mail (1998)"
         ]
     },
     "Dacre Montgomery": {
@@ -5329,6 +5363,7 @@ var actorMap = {
             "Spies Like Us (1985)",
             "Ghostbusters II (1989)",
             "Driving Miss Daisy (1989)",
+            "This Is My Life (1992)",
             "Chaplin (1992)",
             "North (1994)",
             "Ghostbusters (2016)",
@@ -5593,6 +5628,7 @@ var actorMap = {
             "Last Action Hero (1993)",
             "Space Jam (1996)",
             "The Virgin Suicides (2000)",
+            "Screwed (2000)",
             "Austin Powers in Goldmember (2002)"
         ]
     },
@@ -5651,6 +5687,11 @@ var actorMap = {
             "Predators (2010)"
         ]
     },
+    "Dante Basco": {
+        "movies": [
+            "Hook (1991)"
+        ]
+    },
     "Daphne Zuniga": {
         "movies": [
             "Spaceballs (1987)"
@@ -5664,6 +5705,7 @@ var actorMap = {
     "Daryl Mitchell": {
         "movies": [
             "Galaxy Quest (1999)",
+            "Lucky Numbers (2000)",
             "Inside Man (2006)"
         ]
     },
@@ -5692,6 +5734,12 @@ var actorMap = {
             "Star Wars: The Force Awakens (2015)"
         ]
     },
+    "Dave Chappelle": {
+        "movies": [
+            "You've Got Mail (1998)",
+            "Screwed (2000)"
+        ]
+    },
     "Dave Filoni": {
         "movies": [
             "Rogue One: A Star Wars Story (2016)"
@@ -5716,7 +5764,8 @@ var actorMap = {
     },
     "David Alan Grier": {
         "movies": [
-            "Jumanji (1995)"
+            "Jumanji (1995)",
+            "Bewitched (2005)"
         ]
     },
     "David Alvarez": {
@@ -5760,6 +5809,11 @@ var actorMap = {
     "David Caruso": {
         "movies": [
             "Twins (1988)"
+        ]
+    },
+    "David Crosby": {
+        "movies": [
+            "Hook (1991)"
         ]
     },
     "David Cross": {
@@ -6336,6 +6390,7 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "The First Wives Club (1996)",
+            "Hanging Up (2000)",
             "Something's Gotta Give (2003)",
             "Mad Money (2008)",
             "Book Club (2018)"
@@ -6803,6 +6858,7 @@ var actorMap = {
             "Kramer vs. Kramer (1979)",
             "Rain Man (1988)",
             "Dick Tracy (1990)",
+            "Hook (1991)",
             "Stranger than Fiction (2006)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
@@ -6919,6 +6975,7 @@ var actorMap = {
             "Places in the Heart (1984)",
             "The Firm (1993)",
             "Needful Things (1993)",
+            "Stepmom (1998)",
             "The Hours (2002)",
             "A History of Violence (2005)",
             "Gravity (2013)",
@@ -6930,8 +6987,14 @@ var actorMap = {
             "Monsters vs. Aliens (2009)"
         ]
     },
+    "Ed McMahon": {
+        "movies": [
+            "Bewitched (2005)"
+        ]
+    },
     "Ed O'Neill": {
         "movies": [
+            "Lucky Numbers (2000)",
             "Wreck-It Ralph (2012)",
             "Ralph Breaks the Internet (2018)"
         ]
@@ -7036,6 +7099,7 @@ var actorMap = {
         "movies": [
             "Carrie (1976)",
             "A Bug's Life (1998)",
+            "Hanging Up (2000)",
             "Wreck-It Ralph (2012)"
         ]
     },
@@ -7119,6 +7183,12 @@ var actorMap = {
         "movies": [
             "Welcome to Marwen (2018)",
             "Bloodshot (2020)"
+        ]
+    },
+    "Elaine Stritch": {
+        "movies": [
+            "Screwed (2000)",
+            "Monster-in-Law (2005)"
         ]
     },
     "Elden Henson": {
@@ -7376,7 +7446,8 @@ var actorMap = {
     "Ellen Greene": {
         "movies": [
             "Little Shop of Horrors (1986)",
-            "L\u00e9on: The Professional (1994)"
+            "L\u00e9on: The Professional (1994)",
+            "One Fine Day (1996)"
         ]
     },
     "Ellen Pompeo": {
@@ -7783,6 +7854,7 @@ var actorMap = {
     },
     "Estelle Harris": {
         "movies": [
+            "This Is My Life (1992)",
             "Toy Story 2 (1999)"
         ]
     },
@@ -7929,6 +8001,7 @@ var actorMap = {
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "The Impossible (2012)",
             "August: Osage County (2013)",
+            "A Million Ways to Die in the West (2014)",
             "Mortdecai (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Beauty and the Beast (2017)",
@@ -8432,6 +8505,7 @@ var actorMap = {
     },
     "Gaby Hoffmann": {
         "movies": [
+            "This Is My Life (1992)",
             "Sleepless in Seattle (1993)",
             "Wild (2014)"
         ]
@@ -8483,6 +8557,7 @@ var actorMap = {
     "Garry Shandling": {
         "movies": [
             "Love Affair (1994)",
+            "Mixed Nuts (1994)",
             "Iron Man 2 (2010)",
             "Captain America: The Winter Soldier (2014)",
             "The Jungle Book (2016)"
@@ -8817,6 +8892,7 @@ var actorMap = {
         ],
         "movies": [
             "From Dusk till Dawn (1996)",
+            "One Fine Day (1996)",
             "Batman & Robin (1997)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
@@ -8843,6 +8919,7 @@ var actorMap = {
     "George Lucas": {
         "movies": [
             "Indiana Jones and the Temple of Doom (1984)",
+            "Hook (1991)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)"
         ]
     },
@@ -8937,6 +9014,11 @@ var actorMap = {
             "Transformers: The Last Knight (2017)"
         ]
     },
+    "Gilbert Gottfried": {
+        "movies": [
+            "A Million Ways to Die in the West (2014)"
+        ]
+    },
     "Gina Carano": {
         "movies": [
             "Deadpool (2016)"
@@ -8967,7 +9049,8 @@ var actorMap = {
             "Lost in Translation (2003)",
             "Cold Mountain (2003)",
             "Avatar (2009)",
-            "Ted (2012)"
+            "Ted (2012)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "Gisele B\u00fcndchen": {
@@ -9054,6 +9137,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hook (1991)",
             "Mary Reilly (1996)",
             "Guardians of the Galaxy (2014)"
         ]
@@ -9183,6 +9267,7 @@ var actorMap = {
         ],
         "movies": [
             "As Good as It Gets (1997)",
+            "You've Got Mail (1998)",
             "Mystery Men (1999)",
             "Robots (2005)",
             "Movie 43 (2013)",
@@ -9260,6 +9345,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hook (1991)",
             "Shakespeare in Love (1998)",
             "Austin Powers in Goldmember (2002)",
             "View from the Top (2003)",
@@ -9322,7 +9408,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Forrest Gump (1994)"
+            "Forrest Gump (1994)",
+            "Mixed Nuts (1994)"
         ]
     },
     "Haley Lu Richardson": {
@@ -9580,6 +9667,8 @@ var actorMap = {
     },
     "Heather Burns": {
         "movies": [
+            "You've Got Mail (1998)",
+            "Bewitched (2005)",
             "What's Your Number? (2011)"
         ]
     },
@@ -9833,6 +9922,11 @@ var actorMap = {
             "Sunshine (2007)",
             "Mr. Holmes (2015)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Holland Taylor": {
+        "movies": [
+            "One Fine Day (1996)"
         ]
     },
     "Holliday Grainger": {
@@ -11020,6 +11114,11 @@ var actorMap = {
             "Far and Away (1992)"
         ]
     },
+    "James Lipton": {
+        "movies": [
+            "Bewitched (2005)"
+        ]
+    },
     "James Marsden": {
         "movies": [
             "X-Men (2000)",
@@ -11244,6 +11343,7 @@ var actorMap = {
             "Valentine's Day (2010)",
             "Due Date (2010)",
             "The Amazing Spider-Man 2 (2014)",
+            "A Million Ways to Die in the West (2014)",
             "Project Power (2020)",
             "Spider-Man: No Way Home (2021)"
         ]
@@ -11340,6 +11440,7 @@ var actorMap = {
     "Jane Lynch": {
         "movies": [
             "The Fugitive (1993)",
+            "Julie & Julia (2009)",
             "Wreck-It Ralph (2012)",
             "Ralph Breaks the Internet (2018)"
         ]
@@ -11559,6 +11660,7 @@ var actorMap = {
     },
     "Jason Schwartzman": {
         "movies": [
+            "Bewitched (2005)",
             "Scott Pilgrim vs. the World (2010)",
             "Saving Mr. Banks (2013)",
             "Wine Country (2019)"
@@ -11871,6 +11973,7 @@ var actorMap = {
     },
     "Jena Malone": {
         "movies": [
+            "Stepmom (1998)",
             "Cold Mountain (2003)",
             "The Hunger Games: Catching Fire (2013)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
@@ -12518,6 +12621,11 @@ var actorMap = {
             "Movie 43 (2013)"
         ]
     },
+    "Jimmy Buffett": {
+        "movies": [
+            "Hook (1991)"
+        ]
+    },
     "Jimmy Fallon": {
         "movies": [
             "Almost Famous (2000)",
@@ -12891,6 +12999,11 @@ var actorMap = {
             "Ted (2012)"
         ]
     },
+    "Joely Fisher": {
+        "movies": [
+            "Mixed Nuts (1994)"
+        ]
+    },
     "Joey Bishop": {
         "movies": [
             "Ocean's 11 (1960)"
@@ -12904,7 +13017,8 @@ var actorMap = {
     },
     "Joey Lauren Adams": {
         "movies": [
-            "Dazed and Confused (1993)"
+            "Dazed and Confused (1993)",
+            "Michael (1996)"
         ]
     },
     "John Alexander": {
@@ -13215,7 +13329,8 @@ var actorMap = {
             "Blade: Trinity (2004)",
             "Couples Retreat (2009)",
             "We Bought a Zoo (2011)",
-            "The Best Man Holiday (2013)"
+            "The Best Man Holiday (2013)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "John Mills": {
@@ -13329,6 +13444,8 @@ var actorMap = {
         ],
         "movies": [
             "Carrie (1976)",
+            "Michael (1996)",
+            "Lucky Numbers (2000)",
             "Austin Powers in Goldmember (2002)",
             "The Punisher (2004)",
             "Hairspray (2007)"
@@ -13838,6 +13955,11 @@ var actorMap = {
             "Shazam! (2019)"
         ]
     },
+    "Joy Behar": {
+        "movies": [
+            "This Is My Life (1992)"
+        ]
+    },
     "Joy Bryant": {
         "movies": [
             "Spider-Man 2 (2004)",
@@ -14026,7 +14148,11 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Sleeping with the Enemy (1991)",
+            "Hook (1991)",
             "Mary Reilly (1996)",
+            "Conspiracy Theory (1997)",
+            "Stepmom (1998)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Valentine's Day (2010)",
@@ -14192,6 +14318,11 @@ var actorMap = {
             "The Dark Half (1993)"
         ]
     },
+    "Julie Kavner": {
+        "movies": [
+            "This Is My Life (1992)"
+        ]
+    },
     "Julie Strain": {
         "movies": [
             "Heavy Metal 2000 (2000)"
@@ -14258,6 +14389,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mixed Nuts (1994)",
             "From Dusk till Dawn (1996)",
             "Enough (2002)",
             "Due Date (2010)",
@@ -14511,6 +14643,7 @@ var actorMap = {
     },
     "Kate Walsh": {
         "movies": [
+            "Bewitched (2005)",
             "The Perks of Being a Wallflower (2012)",
             "Girls Trip (2017)"
         ]
@@ -14762,6 +14895,7 @@ var actorMap = {
     },
     "Kathy Najimy": {
         "movies": [
+            "This Is My Life (1992)",
             "Hocus Pocus (1993)"
         ]
     },
@@ -15064,6 +15198,12 @@ var actorMap = {
             "Fantastic Four (2005)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "For Colored Girls (2010)"
+        ]
+    },
+    "Kevin Anderson": {
+        "movies": [
+            "Risky Business (1983)",
+            "Sleeping with the Enemy (1991)"
         ]
     },
     "Kevin Bacon": {
@@ -15455,6 +15595,7 @@ var actorMap = {
     },
     "Kristin Chenoweth": {
         "movies": [
+            "Bewitched (2005)",
             "RV (2006)",
             "Stranger than Fiction (2006)",
             "Four Christmases (2008)",
@@ -16160,6 +16301,7 @@ var actorMap = {
     },
     "Liam Aiken": {
         "movies": [
+            "Stepmom (1998)",
             "Road to Perdition (2002)"
         ]
     },
@@ -16193,6 +16335,7 @@ var actorMap = {
             "The Chronicles of Narnia: The Voyage of the Dawn Treader (2010)",
             "The Dark Knight Rises (2012)",
             "The Lego Movie (2014)",
+            "A Million Ways to Die in the West (2014)",
             "The Huntsman: Winter's War (2016)",
             "A Monster Calls (2016)",
             "Widows (2018)",
@@ -16202,6 +16345,7 @@ var actorMap = {
     },
     "Liev Schreiber": {
         "movies": [
+            "Mixed Nuts (1994)",
             "Scream (1996)",
             "Kate & Leopold (2001)",
             "X-Men Origins: Wolverine (2009)",
@@ -16365,6 +16509,8 @@ var actorMap = {
     },
     "Lisa Kudrow": {
         "movies": [
+            "Hanging Up (2000)",
+            "Lucky Numbers (2000)",
             "Long Shot (2019)"
         ]
     },
@@ -16676,6 +16822,11 @@ var actorMap = {
             "Gods and Monsters (1998)"
         ]
     },
+    "Lynn Whitfield": {
+        "movies": [
+            "Stepmom (1998)"
+        ]
+    },
     "Lyriq Bent": {
         "movies": [
             "Acrimony (2018)"
@@ -16734,6 +16885,7 @@ var actorMap = {
     },
     "Madeline Kahn": {
         "movies": [
+            "Mixed Nuts (1994)",
             "A Bug's Life (1998)"
         ]
     },
@@ -16759,8 +16911,10 @@ var actorMap = {
     },
     "Mae Whitman": {
         "movies": [
+            "One Fine Day (1996)",
             "Scott Pilgrim vs. the World (2010)",
-            "The Perks of Being a Wallflower (2012)"
+            "The Perks of Being a Wallflower (2012)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "Magda Szubanski": {
@@ -16833,6 +16987,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hook (1991)",
             "The First Wives Club (1996)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
@@ -17597,8 +17752,12 @@ var actorMap = {
     "Mary Kay Place": {
         "movies": [
             "Terms of Endearment (1983)",
+            "Terms of Endearment (1983)",
             "Girl, Interrupted (1999)",
-            "Sweet Home Alabama (2002)"
+            "Girl, Interrupted (1999)",
+            "Sweet Home Alabama (2002)",
+            "Sweet Home Alabama (2002)",
+            "Julie & Julia (2009)"
         ]
     },
     "Mary McCormack": {
@@ -17967,6 +18126,8 @@ var actorMap = {
             "Top Gun (1986)",
             "Armed and Dangerous (1986)",
             "Sleepless in Seattle (1993)",
+            "You've Got Mail (1998)",
+            "Hanging Up (2000)",
             "Kate & Leopold (2001)"
         ]
     },
@@ -18015,6 +18176,7 @@ var actorMap = {
     },
     "Mel Gibson": {
         "movies": [
+            "Conspiracy Theory (1997)",
             "Chicken Run (2000)"
         ]
     },
@@ -18278,6 +18440,7 @@ var actorMap = {
             "The Devil Wears Prada (2006)",
             "Lions for Lambs (2007)",
             "Doubt (2008)",
+            "Julie & Julia (2009)",
             "August: Osage County (2013)",
             "Into the Woods (2014)",
             "Mary Poppins Returns (2018)",
@@ -18402,6 +18565,7 @@ var actorMap = {
         "movies": [
             "Austin Powers in Goldmember (2002)",
             "Batman Begins (2005)",
+            "Bewitched (2005)",
             "The Prestige (2006)",
             "The Dark Knight (2008)",
             "The Dark Knight Rises (2012)",
@@ -18676,6 +18840,11 @@ var actorMap = {
             "The Words (2012)"
         ]
     },
+    "Michael Moore": {
+        "movies": [
+            "Lucky Numbers (2000)"
+        ]
+    },
     "Michael Murphy": {
         "movies": [
             "Batman Returns (1992)",
@@ -18711,7 +18880,8 @@ var actorMap = {
     },
     "Michael Rapaport": {
         "movies": [
-            "True Romance (1993)"
+            "True Romance (1993)",
+            "Lucky Numbers (2000)"
         ]
     },
     "Michael Rooker": {
@@ -18846,6 +19016,7 @@ var actorMap = {
         "movies": [
             "The Witches of Eastwick (1987)",
             "Batman Returns (1992)",
+            "One Fine Day (1996)",
             "The Prince of Egypt (1998)",
             "I Am Sam (2001)",
             "Hairspray (2007)",
@@ -19597,6 +19768,7 @@ var actorMap = {
     },
     "Neil Patrick Harris": {
         "movies": [
+            "A Million Ways to Die in the West (2014)",
             "The Matrix Resurrections (2021)"
         ]
     },
@@ -19673,6 +19845,11 @@ var actorMap = {
     "Nick Kroll": {
         "movies": [
             "I Love You, Man (2009)"
+        ]
+    },
+    "Nick Lachey": {
+        "movies": [
+            "Bewitched (2005)"
         ]
     },
     "Nick Nolte": {
@@ -19794,6 +19971,7 @@ var actorMap = {
             "Eyes Wide Shut (1999)",
             "The Hours (2002)",
             "Cold Mountain (2003)",
+            "Bewitched (2005)",
             "Nine (2009)",
             "Aquaman (2018)"
         ]
@@ -19911,6 +20089,11 @@ var actorMap = {
     "Norbert Weisser": {
         "movies": [
             "Hocus Pocus (1993)"
+        ]
+    },
+    "Norm Macdonald": {
+        "movies": [
+            "Screwed (2000)"
         ]
     },
     "Norma Aleandro": {
@@ -20291,6 +20474,8 @@ var actorMap = {
     "Parker Posey": {
         "movies": [
             "Dazed and Confused (1993)",
+            "Mixed Nuts (1994)",
+            "You've Got Mail (1998)",
             "Blade: Trinity (2004)",
             "Superman Returns (2006)"
         ]
@@ -20354,6 +20539,11 @@ var actorMap = {
             "The Mummy (1999)"
         ]
     },
+    "Patrick Bergin": {
+        "movies": [
+            "Sleeping with the Enemy (1991)"
+        ]
+    },
     "Patrick Dempsey": {
         "movies": [
             "Sweet Home Alabama (2002)",
@@ -20383,6 +20573,7 @@ var actorMap = {
             "Star Trek Generations (1994)",
             "The Pagemaster (1994)",
             "Star Trek: First Contact (1996)",
+            "Conspiracy Theory (1997)",
             "Star Trek: Insurrection (1998)",
             "The Prince of Egypt (1998)",
             "X-Men (2000)",
@@ -20393,6 +20584,7 @@ var actorMap = {
             "X-Men Origins: Wolverine (2009)",
             "Ted (2012)",
             "X-Men: Days of Future Past (2014)",
+            "A Million Ways to Die in the West (2014)",
             "Green Room (2016)",
             "Logan (2017)",
             "The Kid Who Would Be King (2019)"
@@ -21071,6 +21263,11 @@ var actorMap = {
     "Phil Brown": {
         "movies": [
             "Star Wars (1977)"
+        ]
+    },
+    "Phil Collins": {
+        "movies": [
+            "Hook (1991)"
         ]
     },
     "Phil Hartman": {
@@ -21998,6 +22195,7 @@ var actorMap = {
     "Richard Kind": {
         "movies": [
             "A Bug's Life (1998)",
+            "Bewitched (2005)",
             "The Producers (2005)"
         ]
     },
@@ -22038,7 +22236,9 @@ var actorMap = {
     },
     "Richard Schiff": {
         "movies": [
+            "Michael (1996)",
             "The Lost World: Jurassic Park (1997)",
+            "Lucky Numbers (2000)",
             "I Am Sam (2001)",
             "Ray (2004)",
             "Man of Steel (2013)"
@@ -22107,6 +22307,7 @@ var actorMap = {
     "Rita Wilson": {
         "movies": [
             "Sleepless in Seattle (1993)",
+            "Mixed Nuts (1994)",
             "Psycho (1998)"
         ]
     },
@@ -22158,6 +22359,7 @@ var actorMap = {
     "Rob Reiner": {
         "movies": [
             "Sleepless in Seattle (1993)",
+            "Mixed Nuts (1994)",
             "The First Wives Club (1996)"
         ]
     },
@@ -22358,6 +22560,11 @@ var actorMap = {
             "2 Guns (2013)"
         ]
     },
+    "Robert Klein": {
+        "movies": [
+            "Mixed Nuts (1994)"
+        ]
+    },
     "Robert Loggia": {
         "movies": [
             "Armed and Dangerous (1986)",
@@ -22488,6 +22695,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Hook (1991)",
             "Jumanji (1995)",
             "Hamlet (1996)",
             "Robots (2005)",
@@ -22970,6 +23178,7 @@ var actorMap = {
             "Green Lantern (2011)",
             "Ted (2012)",
             "R.I.P.D. (2013)",
+            "A Million Ways to Die in the West (2014)",
             "Deadpool (2016)",
             "Deadpool 2 (2018)"
         ]
@@ -23224,6 +23433,12 @@ var actorMap = {
             "Les Mis\u00e9rables (2012)"
         ]
     },
+    "Samantha Mathis": {
+        "movies": [
+            "This Is My Life (1992)",
+            "The Punisher (2004)"
+        ]
+    },
     "Samantha Morton": {
         "leadNoms": [
             {
@@ -23418,8 +23633,10 @@ var actorMap = {
     },
     "Sarah Silverman": {
         "movies": [
+            "Screwed (2000)",
             "Rent (2005)",
             "Wreck-It Ralph (2012)",
+            "A Million Ways to Die in the West (2014)",
             "The Book of Henry (2017)",
             "Ralph Breaks the Internet (2018)",
             "Don't Look Up (2021)"
@@ -23618,6 +23835,7 @@ var actorMap = {
     },
     "Sean Patrick Thomas": {
         "movies": [
+            "Conspiracy Theory (1997)",
             "Cruel Intentions (1999)"
         ]
     },
@@ -23726,7 +23944,8 @@ var actorMap = {
         "movies": [
             "Hellboy II: The Golden Army (2008)",
             "Ted (2012)",
-            "Movie 43 (2013)"
+            "Movie 43 (2013)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "Seth Meyers": {
@@ -23926,6 +24145,7 @@ var actorMap = {
         "movies": [
             "Ocean's 11 (1960)",
             "Terms of Endearment (1983)",
+            "Bewitched (2005)",
             "Rumor Has It (2005)",
             "Valentine's Day (2010)"
         ]
@@ -24341,6 +24561,7 @@ var actorMap = {
             "Robots (2005)",
             "The Devil Wears Prada (2006)",
             "The Tale of Despereaux (2008)",
+            "Julie & Julia (2009)",
             "Captain America: The First Avenger (2011)",
             "The Hunger Games (2012)",
             "The Hunger Games: Catching Fire (2013)",
@@ -24406,6 +24627,7 @@ var actorMap = {
     },
     "Stephen Colbert": {
         "movies": [
+            "Bewitched (2005)",
             "Monsters vs. Aliens (2009)",
             "The Hobbit: The Desolation of Smaug (2013)"
         ]
@@ -24547,6 +24769,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bewitched (2005)",
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
             "Foxcatcher (2014)",
@@ -24582,6 +24805,7 @@ var actorMap = {
         "movies": [
             "Three Amigos (1986)",
             "Little Shop of Horrors (1986)",
+            "Mixed Nuts (1994)",
             "The Prince of Egypt (1998)"
         ]
     },
@@ -24595,6 +24819,7 @@ var actorMap = {
     },
     "Steve Zahn": {
         "movies": [
+            "You've Got Mail (1998)",
             "Sahara (2005)",
             "War for the Planet of the Apes (2017)"
         ]
@@ -24719,6 +24944,7 @@ var actorMap = {
         "movies": [
             "The Rocky Horror Picture Show (1975)",
             "The Witches of Eastwick (1987)",
+            "Stepmom (1998)",
             "Elizabethtown (2005)",
             "Cloud Atlas (2012)"
         ]
@@ -24980,6 +25206,7 @@ var actorMap = {
     },
     "Teri Garr": {
         "movies": [
+            "Michael (1996)",
             "Ghost World (2001)"
         ]
     },
@@ -25285,6 +25512,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Lucky Numbers (2000)",
             "Planet of the Apes (2001)",
             "The Incredible Hulk (2008)",
             "The Hateful Eight (2015)",
@@ -25577,6 +25805,7 @@ var actorMap = {
             "Forrest Gump (1994)",
             "Toy Story (1995)",
             "Saving Private Ryan (1998)",
+            "You've Got Mail (1998)",
             "Toy Story 2 (1999)",
             "The Green Mile (1999)",
             "Cast Away (2000)",
@@ -25829,6 +26058,7 @@ var actorMap = {
             "Rocky IV (1985)",
             "Armed and Dangerous (1986)",
             "Rocky V (1990)",
+            "Hook (1991)",
             "Rocky Balboa (2006)"
         ]
     },
@@ -25921,6 +26151,7 @@ var actorMap = {
     },
     "Tracee Ellis Ross": {
         "movies": [
+            "Hanging Up (2000)",
             "Daddy's Little Girls (2007)",
             "Little (2019)"
         ]
@@ -26271,6 +26502,7 @@ var actorMap = {
     "Victor Garber": {
         "movies": [
             "Sleepless in Seattle (1993)",
+            "Mixed Nuts (1994)",
             "The First Wives Club (1996)",
             "You Again (2010)",
             "Kung Fu Panda 2 (2011)"
@@ -26524,7 +26756,8 @@ var actorMap = {
     },
     "Walter Matthau": {
         "movies": [
-            "Charade (1963)"
+            "Charade (1963)",
+            "Hanging Up (2000)"
         ]
     },
     "Walton Goggins": {
@@ -26641,7 +26874,8 @@ var actorMap = {
     },
     "Wes Studi": {
         "movies": [
-            "Mystery Men (1999)"
+            "Mystery Men (1999)",
+            "A Million Ways to Die in the West (2014)"
         ]
     },
     "Wesley Snipes": {
@@ -26725,6 +26959,7 @@ var actorMap = {
         "movies": [
             "Austin Powers: International Man of Mystery (1997)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
+            "Bewitched (2005)",
             "Wedding Crashers (2005)",
             "The Producers (2005)",
             "Stranger than Fiction (2006)",
@@ -26906,6 +27141,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Michael (1996)",
             "Changing Lanes (2002)",
             "A History of Violence (2005)",
             "The Incredible Hulk (2008)",
