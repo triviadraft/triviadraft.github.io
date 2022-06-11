@@ -4778,7 +4778,7 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Kelsey Chow",
+                "actor": "Kelsey Asbille",
                 "name": "Sally Avril",
                 "description": ""
             },
@@ -5219,6 +5219,72 @@ var igMovieMap = {
             "The hero. The fugitive. The warrior. The survivor. The legend.",
             "The fight of his life will be for his own.",
             "When enemies rise... when immortality ends... the ultimate battle begins."
+        ],
+        "mainCast": [
+            {
+                "actor": "Hugh Jackman",
+                "name": "Logan / Wolverine",
+                "description": ""
+            },
+            {
+                "actor": "Hiroyuki Sanada",
+                "name": "Shingen Yashida",
+                "description": ""
+            },
+            {
+                "actor": "Famke Janssen",
+                "name": "Jean Grey",
+                "description": ""
+            },
+            {
+                "actor": "Patrick Stewart",
+                "name": "Charles Xavier / Professor X",
+                "description": ""
+            },
+            {
+                "actor": "Ian McKellen",
+                "name": "Erik Lehnsherr / Magneto",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Tao Okamoto",
+                "name": "Mariko Yashida",
+                "description": ""
+            },
+            {
+                "actor": "Rila Fukushima",
+                "name": "Yukio",
+                "description": ""
+            },
+            {
+                "actor": "Will Yun Lee",
+                "name": "Kenuichio Harada",
+                "description": ""
+            },
+            {
+                "actor": "Svetlana Khodchenkova",
+                "name": "Dr. Green / Viper",
+                "description": ""
+            },
+            {
+                "actor": "Haruhiko Yamanouchi",
+                "name": "Ichir\u014d Yashida / the Silver Samurai",
+                "description": ""
+            },
+            {
+                "actor": "Brian Tee",
+                "name": "Noburo Mori",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Ken Yamamura",
+                "name": "young Ichir\u014d Yashida",
+                "description": ""
+            }
         ]
     },
     "The Amazing Spider-Man 2 (2014)": {
@@ -16037,7 +16103,7 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Tip \"T.I.\" Harris",
+                "actor": "T.I.",
                 "name": "Dave",
                 "description": ""
             },
@@ -17366,7 +17432,7 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Tip \"T.I.\" Harris",
+                "actor": "T.I.",
                 "name": "Dave",
                 "description": ""
             },
@@ -20532,6 +20598,11 @@ var igMovieMap = {
                 "description": ""
             },
             {
+                "actor": "Richard O'Brien",
+                "name": "Fico",
+                "description": ""
+            },
+            {
                 "actor": "Philip Stone",
                 "name": "Zogi the High Priest",
                 "description": ""
@@ -20563,11 +20634,6 @@ var igMovieMap = {
             }
         ],
         "minorCast": [
-            {
-                "actor": "Richard O'Brien",
-                "name": "Fico",
-                "description": ""
-            },
             {
                 "actor": "John Osborne",
                 "name": "Arborian Priest",
@@ -37812,7 +37878,7 @@ var igMovieMap = {
         ],
         "supportingCast": [
             {
-                "actor": "Isabela Moner",
+                "actor": "Isabela Merced",
                 "name": "Izabella",
                 "description": "street-wise tomboy who was orphaned by the Battle of Chicago in Dark of the Moon and now lives in the city ruins with Sqweeks and Canopy, her only friends, until meeting Cade"
             },

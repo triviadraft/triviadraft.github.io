@@ -7779,6 +7779,12 @@ var movieMap = {
             "Horror/Thriller",
             "Rat Pack",
             "Thriller"
+        ],
+        "cast": [
+            "Angela Lansbury",
+            "Frank Sinatra",
+            "Janet Leigh",
+            "Laurence Harvey"
         ]
     },
     "What Ever Happened to Baby Jane? (1962)": {
@@ -31729,6 +31735,14 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Dean Norris",
+            "Michael Ironside",
+            "Rachel Ticotin",
+            "Ronny Cox",
+            "Sharon Stone"
         ]
     },
     "Another 48 Hrs. (1990)": {
@@ -44017,6 +44031,16 @@ var movieMap = {
             "1990s",
             "Dramas",
             "Period Pieces & Costume Dramas"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Emma Thompson",
+            "Gemma Jones",
+            "Hugh Grant",
+            "Hugh Laurie",
+            "Imelda Staunton",
+            "Kate Winslet",
+            "Tom Wilkinson"
         ]
     },
     "Heat (1995)": {
@@ -46208,6 +46232,17 @@ var movieMap = {
             "1990s",
             "Biopics",
             "Julia Roberts"
+        ],
+        "cast": [
+            "Aidan Quinn",
+            "Alan Rickman",
+            "Brendan Gleeson",
+            "Charles Dance",
+            "Ian Hart",
+            "Jonathan Rhys Meyers",
+            "Julia Roberts",
+            "Liam Neeson",
+            "Stephen Rea"
         ]
     },
     "The Ghost and the Darkness (1996)": {
@@ -50402,6 +50437,7 @@ var movieMap = {
         ],
         "cast": [
             "Hank Azaria",
+            "Harry Shearer",
             "Jean Reno",
             "Kevin Dunn",
             "Maria Pitillo",
@@ -50519,6 +50555,16 @@ var movieMap = {
             "Ed Harris",
             "Jim Carrey",
             "Modern Classics"
+        ],
+        "cast": [
+            "Ed Harris",
+            "Harry Shearer",
+            "Holland Taylor",
+            "Jim Carrey",
+            "Laura Linney",
+            "Natascha McElhone",
+            "Noah Emmerich",
+            "Paul Giamatti"
         ]
     },
     "Can't Hardly Wait (1998)": {
@@ -60873,6 +60919,18 @@ var movieMap = {
             "Eddie Murphy",
             "Musicians in Film",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Alex Borstein",
+            "Eddie Murphy",
+            "Frankie Faison",
+            "Johnnie Cochran",
+            "Joy Bryant",
+            "Mos Def",
+            "Rachael Harris",
+            "Rene Russo",
+            "Robert De Niro",
+            "William Shatner"
         ]
     },
     "Y tu mam\u00e1 tambi\u00e9n (2002)": {
@@ -62983,6 +63041,13 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Remakes & Reboots",
             "Steven Soderbergh",
+            "Viola Davis"
+        ],
+        "cast": [
+            "George Clooney",
+            "Jeremy Davies",
+            "John Cho",
+            "Natascha McElhone",
             "Viola Davis"
         ]
     },
@@ -68332,6 +68397,24 @@ var movieMap = {
             "Horror/Thriller",
             "Meryl Streep",
             "Thriller"
+        ],
+        "cast": [
+            "Al Franken",
+            "Ann Dowd",
+            "Anthony Mackie",
+            "Dean Stockwell",
+            "Denzel Washington",
+            "Gayle King",
+            "Jeffrey Wright",
+            "Jon Voight",
+            "Kimberly Elise",
+            "Liev Schreiber",
+            "Meryl Streep",
+            "Miguel Ferrer",
+            "Pablo Schreiber",
+            "Sidney Lumet",
+            "Ted Levine",
+            "Vera Farmiga"
         ]
     },
     "The Village (2004)": {
@@ -76152,6 +76235,21 @@ var movieMap = {
             "Eddie Murphy",
             "Musicals",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Anika Noni Rose",
+            "Beyonc\u00e9",
+            "Danny Glover",
+            "Eddie Murphy",
+            "Jaleel White",
+            "Jamie Foxx",
+            "Jennifer Hudson",
+            "John Krasinski",
+            "John Lithgow",
+            "Keith Robinson",
+            "Loretta Devine",
+            "Sharon Leal",
+            "Yvette Nicole Brown"
         ]
     },
     "Eragon (2006)": {
@@ -94500,6 +94598,16 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Bill Nighy",
+            "Bokeem Woodbine",
+            "Bryan Cranston",
+            "Colin Farrell",
+            "Jessica Biel",
+            "John Cho",
+            "Kate Beckinsale",
+            "Will Yun Lee"
         ]
     },
     "Hope Springs (2012)": {
@@ -97733,6 +97841,18 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Marvel",
             "X-Men"
+        ],
+        "cast": [
+            "Brian Tee",
+            "Famke Janssen",
+            "Hiroyuki Sanada",
+            "Hugh Jackman",
+            "Ian McKellen",
+            "Patrick Stewart",
+            "Rila Fukushima",
+            "Svetlana Khodchenkova",
+            "Tao Okamoto",
+            "Will Yun Lee"
         ]
     },
     "The Smurfs 2 (2013)": {
@@ -97968,6 +98088,30 @@ var movieMap = {
             "Black Cinema",
             "Dramas",
             "Robin Williams"
+        ],
+        "cast": [
+            "Alan Rickman",
+            "Alex Pettyfer",
+            "Aml Ameen",
+            "Colman Domingo",
+            "Cuba Gooding Jr.",
+            "Danny Strong",
+            "David Oyelowo",
+            "Elijah Kelley",
+            "Forest Whitaker",
+            "James Marsden",
+            "Jane Fonda",
+            "Jesse Williams",
+            "John Cusack",
+            "Lenny Kravitz",
+            "Liev Schreiber",
+            "Mariah Carey",
+            "Minka Kelly",
+            "Nelsan Ellis",
+            "Oprah Winfrey",
+            "Robin Williams",
+            "Terrence Howard",
+            "Vanessa Redgrave"
         ]
     },
     "The Mortal Instruments: City of Bones (2013)": {
@@ -107271,7 +107415,8 @@ var movieMap = {
             "Neil deGrasse Tyson",
             "Patrick Wilson",
             "Ray Fisher",
-            "Scoot McNairy"
+            "Scoot McNairy",
+            "Tao Okamoto"
         ]
     },
     "My Big Fat Greek Wedding 2 (2016)": {
@@ -117241,6 +117386,11 @@ var movieMap = {
         "categories": [
             "2010s",
             "Mystery"
+        ],
+        "cast": [
+            "Debra Messing",
+            "John Cho",
+            "Michelle La"
         ]
     },
     "Peppermint (2018)": {
@@ -118351,6 +118501,19 @@ var movieMap = {
             "Comedies",
             "Cusacks",
             "Octavia Spencer"
+        ],
+        "cast": [
+            "Iliza Shlesinger",
+            "Isabela Merced",
+            "Joan Cusack",
+            "Julie Hagerty",
+            "Margo Martindale",
+            "Mark Wahlberg",
+            "Michael O'Keefe",
+            "Octavia Spencer",
+            "Rose Byrne",
+            "Tig Notaro",
+            "Tom Segura"
         ]
     },
     "The Princess Switch (2018)": {

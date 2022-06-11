@@ -2234,6 +2234,9 @@ var igActorMap = {
     },
     "Brian Tee": {
         "movies": {
+            "X-Men": [
+                "The Wolverine (2013)"
+            ],
             "Jurassic Park": [
                 "Jurassic World (2015)"
             ],
@@ -6010,6 +6013,7 @@ var igActorMap = {
                 "X-Men (2000)",
                 "X2 (2003)",
                 "X-Men: The Last Stand (2006)",
+                "The Wolverine (2013)",
                 "X-Men: Days of Future Past (2014)"
             ]
         }
@@ -7296,6 +7300,13 @@ var igActorMap = {
             ]
         }
     },
+    "Haruhiko Yamanouchi": {
+        "movies": {
+            "X-Men": [
+                "The Wolverine (2013)"
+            ]
+        }
+    },
     "Harvey Jason": {
         "movies": {
             "Jurassic Park": [
@@ -7485,6 +7496,9 @@ var igActorMap = {
     },
     "Hiroyuki Sanada": {
         "movies": {
+            "X-Men": [
+                "The Wolverine (2013)"
+            ],
             "MCU": [
                 "Avengers: Endgame (2019)"
             ]
@@ -7543,6 +7557,7 @@ var igActorMap = {
                 "X-Men: The Last Stand (2006)",
                 "X-Men Origins: Wolverine (2009)",
                 "X-Men: First Class (2011)",
+                "The Wolverine (2013)",
                 "X-Men: Days of Future Past (2014)",
                 "X-Men: Apocalypse (2016)",
                 "Logan (2017)"
@@ -7676,6 +7691,7 @@ var igActorMap = {
                 "X-Men (2000)",
                 "X2 (2003)",
                 "X-Men: The Last Stand (2006)",
+                "The Wolverine (2013)",
                 "X-Men: Days of Future Past (2014)"
             ],
             "Middle-earth": [
@@ -7861,7 +7877,7 @@ var igActorMap = {
             ]
         }
     },
-    "Isabela Moner": {
+    "Isabela Merced": {
         "movies": {
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
@@ -10926,7 +10942,7 @@ var igActorMap = {
             ]
         }
     },
-    "Kelsey Chow": {
+    "Kelsey Asbille": {
         "movies": {
             "Spider-Man": [
                 "The Amazing Spider-Man (2012)"
@@ -15126,6 +15142,7 @@ var igActorMap = {
                 "X2 (2003)",
                 "X-Men: The Last Stand (2006)",
                 "X-Men Origins: Wolverine (2009)",
+                "The Wolverine (2013)",
                 "X-Men: Days of Future Past (2014)",
                 "Logan (2017)"
             ],
@@ -16460,6 +16477,13 @@ var igActorMap = {
             ]
         }
     },
+    "Richard O'Brien": {
+        "movies": {
+            "Flash Gordon (1980)": [
+                "Flash Gordon (1980)"
+            ]
+        }
+    },
     "Richard Pryor": {
         "movies": {
             "Superman": [
@@ -16537,6 +16561,13 @@ var igActorMap = {
         "movies": {
             "Batman": [
                 "The Lego Batman Movie (2017)"
+            ]
+        }
+    },
+    "Rila Fukushima": {
+        "movies": {
+            "X-Men": [
+                "The Wolverine (2013)"
             ]
         }
     },
@@ -18705,6 +18736,13 @@ var igActorMap = {
             ]
         }
     },
+    "Svetlana Khodchenkova": {
+        "movies": {
+            "X-Men": [
+                "The Wolverine (2013)"
+            ]
+        }
+    },
     "Sylvester McCoy": {
         "movies": {
             "Middle-earth": [
@@ -18731,6 +18769,14 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Punisher: War Zone (2008)"
+            ]
+        }
+    },
+    "T.I.": {
+        "movies": {
+            "MCU": [
+                "Ant-Man (2015)",
+                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -18800,6 +18846,9 @@ var igActorMap = {
     },
     "Tao Okamoto": {
         "movies": {
+            "X-Men": [
+                "The Wolverine (2013)"
+            ],
             "DCEU": [
                 "Batman v Superman: Dawn of Justice (2016)"
             ]
@@ -19253,14 +19302,6 @@ var igActorMap = {
         "movies": {
             "The Rocketeer (1991)": [
                 "The Rocketeer (1991)"
-            ]
-        }
-    },
-    "Tip \"T.I.\" Harris": {
-        "movies": {
-            "MCU": [
-                "Ant-Man (2015)",
-                "Ant-Man and the Wasp (2018)"
             ]
         }
     },
@@ -20360,6 +20401,9 @@ var igActorMap = {
         "movies": {
             "Marvel": [
                 "Elektra (2005)"
+            ],
+            "X-Men": [
+                "The Wolverine (2013)"
             ]
         }
     },
