@@ -187,7 +187,8 @@ var actorMap = {
     },
     "Adam Sandler": {
         "movies": [
-            "Mixed Nuts (1994)"
+            "Mixed Nuts (1994)",
+            "The Waterboy (1998)"
         ]
     },
     "Adam Scott": {
@@ -366,6 +367,7 @@ var actorMap = {
         ],
         "movies": [
             "Dick Tracy (1990)",
+            "Insomnia (2002)",
             "Gigli (2003)",
             "Ocean's Thirteen (2007)"
         ]
@@ -830,6 +832,11 @@ var actorMap = {
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
+    "Allen Covert": {
+        "movies": [
+            "The Waterboy (1998)"
+        ]
+    },
     "Allison Janney": {
         "suppNoms": [
             {
@@ -857,6 +864,7 @@ var actorMap = {
         "movies": [
             "WarGames (1983)",
             "The Breakfast Club (1985)",
+            "St. Elmo's Fire (1985)",
             "X-Men: Apocalypse (2016)"
         ]
     },
@@ -1056,6 +1064,7 @@ var actorMap = {
     },
     "Andie MacDowell": {
         "movies": [
+            "St. Elmo's Fire (1985)",
             "Groundhog Day (1993)",
             "Michael (1996)",
             "Ready or Not (2019)"
@@ -1135,6 +1144,7 @@ var actorMap = {
     },
     "Andrew McCarthy": {
         "movies": [
+            "St. Elmo's Fire (1985)",
             "The Joy Luck Club (1993)"
         ]
     },
@@ -2570,6 +2580,11 @@ var actorMap = {
             "Austin Powers in Goldmember (2002)"
         ]
     },
+    "Big Show": {
+        "movies": [
+            "The Waterboy (1998)"
+        ]
+    },
     "Bill Burr": {
         "movies": [
             "Date Night (2010)"
@@ -2806,7 +2821,9 @@ var actorMap = {
     },
     "Blake Clark": {
         "movies": [
-            "The Mask (1994)"
+            "St. Elmo's Fire (1985)",
+            "The Mask (1994)",
+            "The Waterboy (1998)"
         ]
     },
     "Blake Lively": {
@@ -2882,6 +2899,7 @@ var actorMap = {
     },
     "Bobb'e J. Thompson": {
         "movies": [
+            "Fred Claus (2007)",
             "Land of the Lost (2009)"
         ]
     },
@@ -5116,6 +5134,7 @@ var actorMap = {
             "Far and Away (1992)",
             "Barb Wire (1996)",
             "Austin Powers: International Man of Mystery (1997)",
+            "The Waterboy (1998)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "Austin Powers in Goldmember (2002)",
             "Solo: A Star Wars Story (2018)"
@@ -6359,6 +6378,7 @@ var actorMap = {
     },
     "Demi Moore": {
         "movies": [
+            "St. Elmo's Fire (1985)",
             "About Last Night (1986)",
             "A Few Good Men (1992)",
             "Charlie's Angels: Full Throttle (2003)"
@@ -7146,6 +7166,7 @@ var actorMap = {
     },
     "Dylan Minnette": {
         "movies": [
+            "Fred Claus (2007)",
             "Prisoners (2013)"
         ]
     },
@@ -7540,6 +7561,7 @@ var actorMap = {
             "Catch Me If You Can (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "Fred Claus (2007)",
             "Definitely, Maybe (2008)",
             "The Hunger Games (2012)",
             "Movie 43 (2013)",
@@ -7818,6 +7840,7 @@ var actorMap = {
         "movies": [
             "The Outsiders (1983)",
             "The Breakfast Club (1985)",
+            "St. Elmo's Fire (1985)",
             "Mission: Impossible (1996)"
         ]
     },
@@ -8322,6 +8345,7 @@ var actorMap = {
     },
     "Fairuza Balk": {
         "movies": [
+            "The Waterboy (1998)",
             "Almost Famous (2000)"
         ]
     },
@@ -8594,6 +8618,11 @@ var actorMap = {
         "movies": [
             "The Lost City of Z (2017)",
             "The Lost City of Z (2017)"
+        ]
+    },
+    "Frank Coraci": {
+        "movies": [
+            "The Waterboy (1998)"
         ]
     },
     "Frank Darabont": {
@@ -10195,7 +10224,8 @@ var actorMap = {
     },
     "Henry Winkler": {
         "movies": [
-            "Scream (1996)"
+            "Scream (1996)",
+            "The Waterboy (1998)"
         ]
     },
     "Henry Zaga": {
@@ -10235,6 +10265,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Insomnia (2002)",
             "New Year's Eve (2011)"
         ]
     },
@@ -12312,6 +12343,7 @@ var actorMap = {
     },
     "Jeffrey Dean Morgan": {
         "movies": [
+            "Fred Claus (2007)",
             "Watchmen (2009)",
             "The Losers (2010)",
             "Jonah Hex (2010)",
@@ -12668,6 +12700,11 @@ var actorMap = {
         "movies": [
             "Stand by Me (1986)",
             "Jerry Maguire (1996)"
+        ]
+    },
+    "Jerry Reed": {
+        "movies": [
+            "The Waterboy (1998)"
         ]
     },
     "Jerry Springer": {
@@ -13768,6 +13805,7 @@ var actorMap = {
     "John Michael Higgins": {
         "movies": [
             "Blade: Trinity (2004)",
+            "Fred Claus (2007)",
             "Couples Retreat (2009)",
             "We Bought a Zoo (2011)",
             "The Best Man Holiday (2013)",
@@ -14183,6 +14221,7 @@ var actorMap = {
     },
     "Jonathan Jackson": {
         "movies": [
+            "Insomnia (2002)",
             "Riding the Bullet (2004)"
         ]
     },
@@ -14433,6 +14472,7 @@ var actorMap = {
     "Judd Nelson": {
         "movies": [
             "The Breakfast Club (1985)",
+            "St. Elmo's Fire (1985)",
             "The Transformers: The Movie (1986)",
             "Steel (1997)"
         ]
@@ -15375,8 +15415,10 @@ var actorMap = {
             "Misery (1990)",
             "North (1994)",
             "Dolores Claiborne (1995)",
+            "The Waterboy (1998)",
             "Rumor Has It (2005)",
             "Failure to Launch (2006)",
+            "Fred Claus (2007)",
             "Valentine's Day (2010)"
         ]
     },
@@ -15883,6 +15925,7 @@ var actorMap = {
             "A Bug's Life (1998)",
             "Austin Powers in Goldmember (2002)",
             "Superman Returns (2006)",
+            "Fred Claus (2007)",
             "Moon (2009)"
         ]
     },
@@ -16885,6 +16928,11 @@ var actorMap = {
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
+    "Liam James": {
+        "movies": [
+            "Fred Claus (2007)"
+        ]
+    },
     "Liam Neeson": {
         "leadNoms": [
             {
@@ -17286,6 +17334,7 @@ var actorMap = {
             "2 Fast 2 Furious (2003)",
             "Crash (2005)",
             "Hustle & Flow (2005)",
+            "Fred Claus (2007)",
             "No Strings Attached (2011)",
             "Fast Five (2011)",
             "New Year's Eve (2011)",
@@ -17774,6 +17823,9 @@ var actorMap = {
                 "movie": "Georgia",
                 "year": "1995"
             }
+        ],
+        "movies": [
+            "St. Elmo's Fire (1985)"
         ]
     },
     "Margo Martindale": {
@@ -18205,7 +18257,8 @@ var actorMap = {
     "Martin Balsam": {
         "movies": [
             "12 Angry Men (1957)",
-            "Psycho (1960)"
+            "Psycho (1960)",
+            "St. Elmo's Fire (1985)"
         ]
     },
     "Martin Brest": {
@@ -18215,6 +18268,7 @@ var actorMap = {
     },
     "Martin Donovan": {
         "movies": [
+            "Insomnia (2002)",
             "Ant-Man (2015)"
         ]
     },
@@ -18662,7 +18716,8 @@ var actorMap = {
     },
     "Maura Tierney": {
         "movies": [
-            "Primal Fear (1996)"
+            "Primal Fear (1996)",
+            "Insomnia (2002)"
         ]
     },
     "Maurice Evans": {
@@ -20013,7 +20068,8 @@ var actorMap = {
             "Chicken Run (2000)",
             "The Hours (2002)",
             "The Phantom of the Opera (2004)",
-            "Harry Potter and the Goblet of Fire (2005)"
+            "Harry Potter and the Goblet of Fire (2005)",
+            "Fred Claus (2007)"
         ]
     },
     "Miriam Margolyes": {
@@ -21411,6 +21467,7 @@ var actorMap = {
     "Paul Dooley": {
         "movies": [
             "Sixteen Candles (1984)",
+            "Insomnia (2002)",
             "Hairspray (2007)"
         ]
     },
@@ -21436,6 +21493,7 @@ var actorMap = {
             "Planet of the Apes (2001)",
             "Robots (2005)",
             "Lady in the Water (2006)",
+            "Fred Claus (2007)",
             "Rock of Ages (2012)",
             "Saving Mr. Banks (2013)",
             "The Amazing Spider-Man 2 (2014)",
@@ -22326,6 +22384,7 @@ var actorMap = {
             "The Mummy (1999)",
             "The Mummy Returns (2001)",
             "Constantine (2005)",
+            "Fred Claus (2007)",
             "Definitely, Maybe (2008)",
             "The Brothers Bloom (2009)",
             "Black Widow (2021)"
@@ -23164,6 +23223,7 @@ var actorMap = {
     "Rob Lowe": {
         "movies": [
             "The Outsiders (1983)",
+            "St. Elmo's Fire (1985)",
             "About Last Night (1986)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "Austin Powers in Goldmember (2002)",
@@ -23180,6 +23240,11 @@ var actorMap = {
             "Sleepless in Seattle (1993)",
             "Mixed Nuts (1994)",
             "The First Wives Club (1996)"
+        ]
+    },
+    "Rob Schneider": {
+        "movies": [
+            "The Waterboy (1998)"
         ]
     },
     "Rob Zombie": {
@@ -23524,6 +23589,7 @@ var actorMap = {
             "Hook (1991)",
             "Jumanji (1995)",
             "Hamlet (1996)",
+            "Insomnia (2002)",
             "Robots (2005)",
             "RV (2006)"
         ]
@@ -25519,7 +25585,8 @@ var actorMap = {
     },
     "Stephen Baldwin": {
         "movies": [
-            "Born on the Fourth of July (1989)"
+            "Born on the Fourth of July (1989)",
+            "Fred Claus (2007)"
         ]
     },
     "Stephen Colbert": {
@@ -27560,6 +27627,7 @@ var actorMap = {
             "Made (2001)",
             "Mr. & Mrs. Smith (2005)",
             "Wedding Crashers (2005)",
+            "Fred Claus (2007)",
             "Four Christmases (2008)",
             "Couples Retreat (2009)",
             "Delivery Man (2013)"

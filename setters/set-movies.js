@@ -23333,6 +23333,18 @@ var movieMap = {
             "Dramas",
             "Romance",
             "Sheens"
+        ],
+        "cast": [
+            "Ally Sheedy",
+            "Andie MacDowell",
+            "Andrew McCarthy",
+            "Blake Clark",
+            "Demi Moore",
+            "Emilio Estevez",
+            "Judd Nelson",
+            "Mare Winningham",
+            "Martin Balsam",
+            "Rob Lowe"
         ]
     },
     "Back to the Future (1985)": {
@@ -51748,6 +51760,19 @@ var movieMap = {
             "Happy Madison & Adam Sandler",
             "Sports",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Allen Covert",
+            "Big Show",
+            "Blake Clark",
+            "Clint Howard",
+            "Fairuza Balk",
+            "Frank Coraci",
+            "Henry Winkler",
+            "Jerry Reed",
+            "Kathy Bates",
+            "Rob Schneider"
         ]
     },
     "Velvet Goldmine (1998)": {
@@ -61369,6 +61394,15 @@ var movieMap = {
             "Horror/Thriller",
             "Robin Williams",
             "Thriller"
+        ],
+        "cast": [
+            "Al Pacino",
+            "Hilary Swank",
+            "Jonathan Jackson",
+            "Martin Donovan",
+            "Maura Tierney",
+            "Paul Dooley",
+            "Robin Williams"
         ]
     },
     "Spirit: Stallion of the Cimarron (2002)": {
@@ -79120,6 +79154,22 @@ var movieMap = {
             "Comedies",
             "Frat Pack",
             "Holiday"
+        ],
+        "cast": [
+            "Bobb'e J. Thompson",
+            "Dylan Minnette",
+            "Elizabeth Banks",
+            "Jeffrey Dean Morgan",
+            "John Michael Higgins",
+            "Kathy Bates",
+            "Kevin Spacey",
+            "Liam James",
+            "Ludacris",
+            "Miranda Richardson",
+            "Paul Giamatti",
+            "Rachel Weisz",
+            "Stephen Baldwin",
+            "Vince Vaughn"
         ]
     },
     "Lions for Lambs (2007)": {
