@@ -20446,6 +20446,19 @@ var movieMap = {
             "Comedies",
             "Eddie Murphy",
             "Jamie Lee Curtis"
+        ],
+        "cast": [
+            "Al Franken",
+            "Dan Aykroyd",
+            "Denholm Elliott",
+            "Don Ameche",
+            "Eddie Murphy",
+            "Frank Oz",
+            "Giancarlo Esposito",
+            "Jamie Lee Curtis",
+            "Jim Belushi",
+            "Paul Gleason",
+            "Ralph Bellamy"
         ]
     },
     "Octopussy (1983)": {

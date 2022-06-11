@@ -321,6 +321,7 @@ var actorMap = {
     },
     "Al Franken": {
         "movies": [
+            "Trading Places (1983)",
             "The Manchurian Candidate (2004)"
         ]
     },
@@ -5602,6 +5603,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Trading Places (1983)",
             "Indiana Jones and the Temple of Doom (1984)",
             "Ghostbusters (1984)",
             "Spies Like Us (1985)",
@@ -6449,6 +6451,7 @@ var actorMap = {
     "Denholm Elliott": {
         "movies": [
             "Raiders of the Lost Ark (1981)",
+            "Trading Places (1983)",
             "Indiana Jones and the Last Crusade (1989)"
         ]
     },
@@ -6912,6 +6915,11 @@ var actorMap = {
     "Dominique McElligott": {
         "movies": [
             "Moon (2009)"
+        ]
+    },
+    "Don Ameche": {
+        "movies": [
+            "Trading Places (1983)"
         ]
     },
     "Don Cheadle": {
@@ -7378,6 +7386,7 @@ var actorMap = {
         ],
         "movies": [
             "48 Hrs. (1982)",
+            "Trading Places (1983)",
             "Holy Man (1998)",
             "Showtime (2002)",
             "Dreamgirls (2006)"
@@ -8725,6 +8734,7 @@ var actorMap = {
         "movies": [
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)",
+            "Trading Places (1983)",
             "Spies Like Us (1985)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Monsters, Inc. (2001)",
@@ -9403,6 +9413,7 @@ var actorMap = {
     },
     "Giancarlo Esposito": {
         "movies": [
+            "Trading Places (1983)",
             "Waiting to Exhale (1995)",
             "Last Holiday (2006)",
             "The Jungle Book (2016)"
@@ -11849,6 +11860,7 @@ var actorMap = {
     "Jamie Lee Curtis": {
         "movies": [
             "Halloween (1978)",
+            "Trading Places (1983)",
             "The Tailor of Panama (2001)",
             "You Again (2010)",
             "Knives Out (2019)",
@@ -13054,6 +13066,7 @@ var actorMap = {
     },
     "Jim Belushi": {
         "movies": [
+            "Trading Places (1983)",
             "About Last Night (1986)",
             "Jumpin' Jack Flash (1986)",
             "Little Shop of Horrors (1986)",
@@ -21674,6 +21687,7 @@ var actorMap = {
     },
     "Paul Gleason": {
         "movies": [
+            "Trading Places (1983)",
             "The Breakfast Club (1985)"
         ]
     },
@@ -22607,7 +22621,8 @@ var actorMap = {
     },
     "Ralph Bellamy": {
         "movies": [
-            "His Girl Friday (1940)"
+            "His Girl Friday (1940)",
+            "Trading Places (1983)"
         ]
     },
     "Ralph Fiennes": {
