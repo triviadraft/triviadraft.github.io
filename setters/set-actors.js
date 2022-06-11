@@ -622,7 +622,8 @@ var actorMap = {
     },
     "Alex Trebek": {
         "movies": [
-            "The Bucket List (2007)"
+            "The Bucket List (2007)",
+            "Free Guy (2021)"
         ]
     },
     "Alex Wolff": {
@@ -1462,6 +1463,11 @@ var actorMap = {
     "Anna Wintour": {
         "movies": [
             "Ocean's 8 (2018)"
+        ]
+    },
+    "AnnaSophia Robb": {
+        "movies": [
+            "Charlie and the Chocolate Factory (2005)"
         ]
     },
     "Annabella Sciorra": {
@@ -4100,6 +4106,7 @@ var actorMap = {
             "The Lego Batman Movie (2017)",
             "Kingsman: The Golden Circle (2017)",
             "The Lego Movie 2: The Second Part (2019)",
+            "Free Guy (2021)",
             "The Lost City (2022)"
         ]
     },
@@ -4459,6 +4466,7 @@ var actorMap = {
             "Captain Marvel (2019)",
             "Avengers: Endgame (2019)",
             "Knives Out (2019)",
+            "Free Guy (2021)",
             "Don't Look Up (2021)"
         ]
     },
@@ -4745,6 +4753,7 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Lord of the Rings: The Two Towers (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
+            "Charlie and the Chocolate Factory (2005)",
             "Corpse Bride (2005)",
             "Star Wars: The Clone Wars (2008)",
             "Alice in Wonderland (2010)",
@@ -5745,6 +5754,7 @@ var actorMap = {
     },
     "Danny Elfman": {
         "movies": [
+            "Charlie and the Chocolate Factory (2005)",
             "Corpse Bride (2005)"
         ]
     },
@@ -5995,6 +6005,11 @@ var actorMap = {
             "Sleepless in Seattle (1993)",
             "A Bug's Life (1998)",
             "Hellboy (2004)"
+        ]
+    },
+    "David Kelly": {
+        "movies": [
+            "Charlie and the Chocolate Factory (2005)"
         ]
     },
     "David Koechner": {
@@ -6254,6 +6269,11 @@ var actorMap = {
             "G-Force (2009)",
             "The Suicide Squad (2021)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
+        ]
+    },
+    "Deep Roy": {
+        "movies": [
+            "Charlie and the Chocolate Factory (2005)"
         ]
     },
     "Delroy Lindo": {
@@ -6755,6 +6775,7 @@ var actorMap = {
         ],
         "movies": [
             "Traffic (2000)",
+            "Swordfish (2001)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Crash (2005)",
@@ -7015,7 +7036,8 @@ var actorMap = {
             "Furious 7 (2015)",
             "The Fate of the Furious (2017)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
-            "Jungle Cruise (2021)"
+            "Jungle Cruise (2021)",
+            "Free Guy (2021)"
         ]
     },
     "Dwight Yoakam": {
@@ -7313,6 +7335,7 @@ var actorMap = {
     },
     "Eileen Essell": {
         "movies": [
+            "Charlie and the Chocolate Factory (2005)",
             "The Producers (2005)"
         ]
     },
@@ -8604,6 +8627,11 @@ var actorMap = {
             "The Mummy Returns (2001)"
         ]
     },
+    "Freddie Highmore": {
+        "movies": [
+            "Charlie and the Chocolate Factory (2005)"
+        ]
+    },
     "Freddie Prinze Jr.": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
@@ -8960,11 +8988,19 @@ var actorMap = {
                 "movie": "The Producers",
                 "year": "1968"
             }
+        ],
+        "movies": [
+            "Willy Wonka & the Chocolate Factory (1971)"
         ]
     },
     "Genesis Rodriguez": {
         "movies": [
             "Big Hero 6 (2014)"
+        ]
+    },
+    "Geoffrey Holder": {
+        "movies": [
+            "Charlie and the Chocolate Factory (2005)"
         ]
     },
     "Geoffrey Rush": {
@@ -9602,6 +9638,7 @@ var actorMap = {
         "movies": [
             "Jungle Fever (1991)",
             "X-Men (2000)",
+            "Swordfish (2001)",
             "Monster's Ball (2001)",
             "X2 (2003)",
             "Gothika (2003)",
@@ -9967,6 +10004,7 @@ var actorMap = {
         "movies": [
             "Howards End (1992)",
             "Planet of the Apes (2001)",
+            "Charlie and the Chocolate Factory (2005)",
             "Corpse Bride (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
@@ -10188,6 +10226,7 @@ var actorMap = {
         ],
         "movies": [
             "X-Men (2000)",
+            "Swordfish (2001)",
             "Kate & Leopold (2001)",
             "X2 (2003)",
             "Van Helsing (2004)",
@@ -10204,7 +10243,8 @@ var actorMap = {
             "X-Men: Apocalypse (2016)",
             "Logan (2017)",
             "The Greatest Showman (2017)",
-            "Missing Link (2019)"
+            "Missing Link (2019)",
+            "Free Guy (2021)"
         ]
     },
     "Hugh Laurie": {
@@ -10680,6 +10720,11 @@ var actorMap = {
     "Ja Rule": {
         "movies": [
             "The Fast and the Furious (2001)"
+        ]
+    },
+    "Jack Albertson": {
+        "movies": [
+            "Willy Wonka & the Chocolate Factory (1971)"
         ]
     },
     "Jack Black": {
@@ -11254,7 +11299,8 @@ var actorMap = {
     },
     "James Fox": {
         "movies": [
-            "The Remains of the Day (1993)"
+            "The Remains of the Day (1993)",
+            "Charlie and the Chocolate Factory (2005)"
         ]
     },
     "James Franciscus": {
@@ -13060,7 +13106,8 @@ var actorMap = {
     },
     "Jodie Comer": {
         "movies": [
-            "Star Wars: The Rise of Skywalker (2019)"
+            "Star Wars: The Rise of Skywalker (2019)",
+            "Free Guy (2021)"
         ]
     },
     "Jodie Foster": {
@@ -13113,6 +13160,11 @@ var actorMap = {
     "Joe Cornish": {
         "movies": [
             "Star Wars: The Last Jedi (2017)"
+        ]
+    },
+    "Joe Keery": {
+        "movies": [
+            "Free Guy (2021)"
         ]
     },
     "Joe Manganiello": {
@@ -13481,7 +13533,8 @@ var actorMap = {
             "The Holiday (2006)",
             "Monsters vs. Aliens (2009)",
             "A Quiet Place (2018)",
-            "A Quiet Place Part II (2021)"
+            "A Quiet Place Part II (2021)",
+            "Free Guy (2021)"
         ]
     },
     "John Landis": {
@@ -13685,6 +13738,7 @@ var actorMap = {
             "Carrie (1976)",
             "Michael (1996)",
             "Lucky Numbers (2000)",
+            "Swordfish (2001)",
             "Austin Powers in Goldmember (2002)",
             "The Punisher (2004)",
             "Hairspray (2007)"
@@ -13757,6 +13811,7 @@ var actorMap = {
             "From Hell (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
             "Secret Window (2004)",
+            "Charlie and the Chocolate Factory (2005)",
             "Corpse Bride (2005)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
@@ -14559,6 +14614,11 @@ var actorMap = {
             "Hamlet (1996)",
             "Troy (2004)",
             "Harry Potter and the Prisoner of Azkaban (2004)"
+        ]
+    },
+    "Julie Dawn Cole": {
+        "movies": [
+            "Willy Wonka & the Chocolate Factory (1971)"
         ]
     },
     "Julie Delpy": {
@@ -16055,6 +16115,11 @@ var actorMap = {
             "Men in Black II (2002)"
         ]
     },
+    "Lara Spencer": {
+        "movies": [
+            "Free Guy (2021)"
+        ]
+    },
     "Larenz Tate": {
         "movies": [
             "Ray (2004)",
@@ -16428,6 +16493,11 @@ var actorMap = {
             "Drumline (2002)"
         ]
     },
+    "Leonard Stone": {
+        "movies": [
+            "Willy Wonka & the Chocolate Factory (1971)"
+        ]
+    },
     "Leonardo DiCaprio": {
         "leadNoms": [
             {
@@ -16641,6 +16711,11 @@ var actorMap = {
             "Creed (2015)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Don't Look Up (2021)"
+        ]
+    },
+    "Lil Rel Howery": {
+        "movies": [
+            "Free Guy (2021)"
         ]
     },
     "Lil Yachty": {
@@ -19711,6 +19786,7 @@ var actorMap = {
     "Missi Pyle": {
         "movies": [
             "As Good as It Gets (1997)",
+            "Charlie and the Chocolate Factory (2005)",
             "Nobody's Fool (2018)"
         ]
     },
@@ -20449,6 +20525,7 @@ var actorMap = {
         "movies": [
             "Almost Famous (2000)",
             "Vanilla Sky (2001)",
+            "Charlie and the Chocolate Factory (2005)",
             "Edge of Tomorrow (2014)"
         ]
     },
@@ -21623,6 +21700,11 @@ var actorMap = {
             "The Lion in Winter (1968)",
             "Supergirl (1984)",
             "Troy (2004)"
+        ]
+    },
+    "Peter Ostrum": {
+        "movies": [
+            "Willy Wonka & the Chocolate Factory (1971)"
         ]
     },
     "Peter Riegert": {
@@ -23446,6 +23528,11 @@ var actorMap = {
             "A Wrinkle in Time (2018)"
         ]
     },
+    "Roy Kinnear": {
+        "movies": [
+            "Willy Wonka & the Chocolate Factory (1971)"
+        ]
+    },
     "Roy Scheider": {
         "movies": [
             "The Punisher (2004)"
@@ -23642,6 +23729,7 @@ var actorMap = {
             "Deadpool (2016)",
             "Deadpool 2 (2018)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
+            "Free Guy (2021)",
             "The Adam Project (2022)"
         ]
     },
@@ -23875,6 +23963,7 @@ var actorMap = {
     },
     "Sam Shepard": {
         "movies": [
+            "Swordfish (2001)",
             "Black Hawk Down (2001)",
             "August: Osage County (2013)",
             "Midnight Special (2016)"
@@ -25546,7 +25635,8 @@ var actorMap = {
             "Thor: Ragnarok (2017)",
             "Avengers: Endgame (2019)",
             "Jojo Rabbit (2019)",
-            "The Suicide Squad (2021)"
+            "The Suicide Squad (2021)",
+            "Free Guy (2021)"
         ]
     },
     "Taissa Farmiga": {
@@ -26111,7 +26201,8 @@ var actorMap = {
     "Tina Fey": {
         "movies": [
             "This Is Where I Leave You (2014)",
-            "Wine Country (2019)"
+            "Wine Country (2019)",
+            "Free Guy (2021)"
         ]
     },
     "Tina Turner": {
@@ -26891,6 +26982,11 @@ var actorMap = {
             "Hustlers (2019)"
         ]
     },
+    "Utkarsh Ambudkar": {
+        "movies": [
+            "Free Guy (2021)"
+        ]
+    },
     "Val Kilmer": {
         "movies": [
             "Top Gun (1986)",
@@ -27187,6 +27283,7 @@ var actorMap = {
     },
     "Vinnie Jones": {
         "movies": [
+            "Swordfish (2001)",
             "X-Men: The Last Stand (2006)"
         ]
     },

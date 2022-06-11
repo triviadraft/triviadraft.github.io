@@ -11433,6 +11433,14 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Musicals"
+        ],
+        "cast": [
+            "Gene Wilder",
+            "Jack Albertson",
+            "Julie Dawn Cole",
+            "Leonard Stone",
+            "Peter Ostrum",
+            "Roy Kinnear"
         ]
     },
     "The French Connection (1971)": {
@@ -58375,6 +58383,14 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Halle Berry"
+        ],
+        "cast": [
+            "Don Cheadle",
+            "Halle Berry",
+            "Hugh Jackman",
+            "John Travolta",
+            "Sam Shepard",
+            "Vinnie Jones"
         ]
     },
     "Atlantis: The Lost Empire (2001)": {
@@ -71217,6 +71233,21 @@ var movieMap = {
             "Family",
             "Fantasy/Sci-Fi",
             "Tim Burton"
+        ],
+        "cast": [
+            "AnnaSophia Robb",
+            "Christopher Lee",
+            "Danny Elfman",
+            "David Kelly",
+            "Deep Roy",
+            "Eileen Essell",
+            "Freddie Highmore",
+            "Geoffrey Holder",
+            "Helena Bonham Carter",
+            "James Fox",
+            "Johnny Depp",
+            "Missi Pyle",
+            "Noah Taylor"
         ]
     },
     "Wedding Crashers (2005)": {
@@ -128633,6 +128664,22 @@ var movieMap = {
             "2020s",
             "Dwayne Johnson",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Alex Trebek",
+            "Channing Tatum",
+            "Chris Evans",
+            "Dwayne Johnson",
+            "Hugh Jackman",
+            "Jodie Comer",
+            "Joe Keery",
+            "John Krasinski",
+            "Lara Spencer",
+            "Lil Rel Howery",
+            "Ryan Reynolds",
+            "Taika Waititi",
+            "Tina Fey",
+            "Utkarsh Ambudkar"
         ]
     },
     "Nightbooks (2021)": {
