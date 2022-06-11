@@ -229,6 +229,7 @@ var actorMap = {
     "Adrian Martinez": {
         "movies": [
             "Kick-Ass (2010)",
+            "American Hustle (2013)",
             "I Feel Pretty (2018)"
         ]
     },
@@ -607,7 +608,8 @@ var actorMap = {
     },
     "Alessandro Nivola": {
         "movies": [
-            "Jurassic Park III (2001)"
+            "Jurassic Park III (2001)",
+            "American Hustle (2013)"
         ]
     },
     "Alex Borstein": {
@@ -723,7 +725,8 @@ var actorMap = {
     },
     "Ali Fazal": {
         "movies": [
-            "Furious 7 (2015)"
+            "Furious 7 (2015)",
+            "Death on the Nile (2022)"
         ]
     },
     "Ali Wong": {
@@ -963,6 +966,7 @@ var actorMap = {
             "Doubt (2008)",
             "Julie & Julia (2009)",
             "Man of Steel (2013)",
+            "American Hustle (2013)",
             "Her (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
@@ -1578,7 +1582,8 @@ var actorMap = {
         ],
         "movies": [
             "Love Affair (1994)",
-            "Captain Marvel (2019)"
+            "Captain Marvel (2019)",
+            "Death on the Nile (2022)"
         ]
     },
     "Annette O'Toole": {
@@ -1812,6 +1817,11 @@ var actorMap = {
             "Rocky Balboa (2006)"
         ]
     },
+    "Anupam Kher": {
+        "movies": [
+            "Silver Linings Playbook (2012)"
+        ]
+    },
     "Anya Taylor-Joy": {
         "movies": [
             "The Witch (2016)",
@@ -1827,6 +1837,7 @@ var actorMap = {
     },
     "Ari Graynor": {
         "movies": [
+            "Date Night (2010)",
             "What's Your Number? (2011)"
         ]
     },
@@ -1874,6 +1885,11 @@ var actorMap = {
             "American Gangster (2007)"
         ]
     },
+    "Armie Hammer": {
+        "movies": [
+            "Death on the Nile (2022)"
+        ]
+    },
     "Armin Mueller-Stahl": {
         "suppNoms": [
             {
@@ -1882,6 +1898,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Shine (1996)",
             "The Game (1997)"
         ]
     },
@@ -2553,6 +2570,11 @@ var actorMap = {
             "Austin Powers in Goldmember (2002)"
         ]
     },
+    "Bill Burr": {
+        "movies": [
+            "Date Night (2010)"
+        ]
+    },
     "Bill Camp": {
         "movies": [
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
@@ -3053,10 +3075,14 @@ var actorMap = {
         ],
         "movies": [
             "Wedding Crashers (2005)",
+            "Failure to Launch (2006)",
             "He's Just Not That into You (2009)",
             "Valentine's Day (2010)",
             "The Words (2012)",
+            "Silver Linings Playbook (2012)",
+            "American Hustle (2013)",
             "Guardians of the Galaxy (2014)",
+            "American Sniper (2014)",
             "10 Cloverfield Lane (2016)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
@@ -4469,6 +4495,11 @@ var actorMap = {
             "Little Women (2019)"
         ]
     },
+    "Chris Diamantopoulos": {
+        "movies": [
+            "Red Notice (2021)"
+        ]
+    },
     "Chris Elliott": {
         "movies": [
             "Groundhog Day (1993)"
@@ -4637,7 +4668,8 @@ var actorMap = {
     },
     "Chris Tucker": {
         "movies": [
-            "The Fifth Element (1997)"
+            "The Fifth Element (1997)",
+            "Silver Linings Playbook (2012)"
         ]
     },
     "Chris Wedge": {
@@ -4683,6 +4715,7 @@ var actorMap = {
             "The Dark Knight (2008)",
             "Terminator Salvation (2009)",
             "The Dark Knight Rises (2012)",
+            "American Hustle (2013)",
             "Mowgli: Legend of the Jungle (2018)"
         ]
     },
@@ -5197,7 +5230,8 @@ var actorMap = {
     },
     "Colleen Camp": {
         "movies": [
-            "Four Christmases (2008)"
+            "Four Christmases (2008)",
+            "American Hustle (2013)"
         ]
     },
     "Colm Feore": {
@@ -5230,6 +5264,7 @@ var actorMap = {
             "American Gangster (2007)",
             "Wanted (2008)",
             "Terminator Salvation (2009)",
+            "Date Night (2010)",
             "New Year's Eve (2011)",
             "Movie 43 (2013)",
             "Now You See Me (2013)",
@@ -6219,7 +6254,8 @@ var actorMap = {
     "Dawn French": {
         "movies": [
             "Harry Potter and the Prisoner of Azkaban (2004)",
-            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
+            "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
+            "Death on the Nile (2022)"
         ]
     },
     "Dax Shepard": {
@@ -7084,7 +7120,8 @@ var actorMap = {
             "The Fate of the Furious (2017)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Jungle Cruise (2021)",
-            "Free Guy (2021)"
+            "Free Guy (2021)",
+            "Red Notice (2021)"
         ]
     },
     "Dwight Yoakam": {
@@ -7217,7 +7254,8 @@ var actorMap = {
     },
     "Ed Sheeran": {
         "movies": [
-            "Star Wars: The Rise of Skywalker (2019)"
+            "Star Wars: The Rise of Skywalker (2019)",
+            "Red Notice (2021)"
         ]
     },
     "Ed Skrein": {
@@ -7850,6 +7888,11 @@ var actorMap = {
         "movies": [
             "Chef (2014)",
             "The Jungle Book (2016)"
+        ]
+    },
+    "Emma Mackey": {
+        "movies": [
+            "Death on the Nile (2022)"
         ]
     },
     "Emma Roberts": {
@@ -8768,6 +8811,7 @@ var actorMap = {
     "Gal Gadot": {
         "movies": [
             "Fast & Furious (2009)",
+            "Date Night (2010)",
             "Knight and Day (2010)",
             "Fast Five (2011)",
             "Fast & Furious 6 (2013)",
@@ -8777,7 +8821,9 @@ var actorMap = {
             "Justice League (2017)",
             "Ralph Breaks the Internet (2018)",
             "Wonder Woman 1984 (2020)",
-            "Zack Snyder's Justice League (2021)"
+            "Zack Snyder's Justice League (2021)",
+            "Red Notice (2021)",
+            "Death on the Nile (2022)"
         ]
     },
     "Gareth Edwards": {
@@ -9091,6 +9137,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Shine (1996)",
             "Shakespeare in Love (1998)",
             "Mystery Men (1999)",
             "The Tailor of Panama (2001)",
@@ -10718,6 +10765,7 @@ var actorMap = {
     },
     "J. B. Smoove": {
         "movies": [
+            "Date Night (2010)",
             "We Bought a Zoo (2011)",
             "Movie 43 (2013)",
             "Spider-Man: Far From Home (2019)",
@@ -10835,7 +10883,8 @@ var actorMap = {
     },
     "Jack Huston": {
         "movies": [
-            "Kill Your Darlings (2013)"
+            "Kill Your Darlings (2013)",
+            "American Hustle (2013)"
         ]
     },
     "Jack Lemmon": {
@@ -11050,6 +11099,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Silver Linings Playbook (2012)",
             "Widows (2018)"
         ]
     },
@@ -11390,6 +11440,7 @@ var actorMap = {
             "The Holiday (2006)",
             "Spider-Man 3 (2007)",
             "Knocked Up (2007)",
+            "Date Night (2010)",
             "The Green Hornet (2011)",
             "Rise of the Planet of the Apes (2011)",
             "This Is the End (2013)",
@@ -12453,7 +12504,9 @@ var actorMap = {
         "movies": [
             "X-Men: First Class (2011)",
             "The Hunger Games (2012)",
+            "Silver Linings Playbook (2012)",
             "The Hunger Games: Catching Fire (2013)",
+            "American Hustle (2013)",
             "X-Men: Days of Future Past (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
@@ -12482,6 +12535,11 @@ var actorMap = {
         "movies": [
             "Mr. & Mrs. Smith (2005)",
             "Star Trek (2009)"
+        ]
+    },
+    "Jennifer Saunders": {
+        "movies": [
+            "Death on the Nile (2022)"
         ]
     },
     "Jennifer Tilly": {
@@ -12575,6 +12633,7 @@ var actorMap = {
             "Thor (2011)",
             "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "The Avengers (2012)",
+            "American Hustle (2013)",
             "Avengers: Age of Ultron (2015)",
             "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Captain America: Civil War (2016)",
@@ -12960,7 +13019,8 @@ var actorMap = {
     },
     "Jimmi Simpson": {
         "movies": [
-            "Zodiac (2007)"
+            "Zodiac (2007)",
+            "Date Night (2010)"
         ]
     },
     "Jimmy Bennett": {
@@ -13525,6 +13585,7 @@ var actorMap = {
     },
     "John Gielgud": {
         "movies": [
+            "Shine (1996)",
             "Hamlet (1996)"
         ]
     },
@@ -13739,6 +13800,7 @@ var actorMap = {
             "Amistad (1997)",
             "American Gangster (2007)",
             "Fast & Furious (2009)",
+            "Silver Linings Playbook (2012)",
             "Fast & Furious 6 (2013)",
             "Blackhat (2015)",
             "Kong: Skull Island (2017)",
@@ -13949,6 +14011,7 @@ var actorMap = {
     },
     "Jon Bernthal": {
         "movies": [
+            "Date Night (2010)",
             "Wind River (2017)",
             "Widows (2018)",
             "The Peanut Butter Falcon (2019)"
@@ -14571,6 +14634,7 @@ var actorMap = {
     },
     "Julia Stiles": {
         "movies": [
+            "Silver Linings Playbook (2012)",
             "Hustlers (2019)"
         ]
     },
@@ -14857,7 +14921,8 @@ var actorMap = {
     },
     "Justin Bartha": {
         "movies": [
-            "Gigli (2003)"
+            "Gigli (2003)",
+            "Failure to Launch (2006)"
         ]
     },
     "Justin Chatwin": {
@@ -15233,6 +15298,7 @@ var actorMap = {
     },
     "Katheryn Winnick": {
         "movies": [
+            "Failure to Launch (2006)",
             "The Dark Tower (2017)",
             "Polar (2019)"
         ]
@@ -15310,6 +15376,7 @@ var actorMap = {
             "North (1994)",
             "Dolores Claiborne (1995)",
             "Rumor Has It (2005)",
+            "Failure to Launch (2006)",
             "Valentine's Day (2010)"
         ]
     },
@@ -15594,7 +15661,8 @@ var actorMap = {
             "Valkyrie (2008)",
             "My Week with Marilyn (2011)",
             "Murder on the Orient Express (2017)",
-            "Avengers: Infinity War (2018)"
+            "Avengers: Infinity War (2018)",
+            "Death on the Nile (2022)"
         ]
     },
     "Kenneth McMillan": {
@@ -16030,6 +16098,7 @@ var actorMap = {
     "Kristen Wiig": {
         "movies": [
             "Knocked Up (2007)",
+            "Date Night (2010)",
             "Bridesmaids (2011)",
             "Her (2013)",
             "Ghostbusters (2016)",
@@ -16115,6 +16184,11 @@ var actorMap = {
             "Carol (2015)",
             "Godzilla: King of the Monsters (2019)",
             "Godzilla vs. Kong (2021)"
+        ]
+    },
+    "Kyle Gallner": {
+        "movies": [
+            "American Sniper (2014)"
         ]
     },
     "Kyle MacLachlan": {
@@ -16532,6 +16606,11 @@ var actorMap = {
             "Aquaman (2018)"
         ]
     },
+    "Leighton Meester": {
+        "movies": [
+            "Date Night (2010)"
+        ]
+    },
     "Lela Rochon": {
         "movies": [
             "Waiting to Exhale (1995)"
@@ -16617,7 +16696,8 @@ var actorMap = {
     "Leonard Roberts": {
         "movies": [
             "He Got Game (1998)",
-            "Drumline (2002)"
+            "Drumline (2002)",
+            "American Sniper (2014)"
         ]
     },
     "Leonard Stone": {
@@ -16732,7 +16812,8 @@ var actorMap = {
             "Black Panther (2018)",
             "Ready Player One (2018)",
             "Avengers: Infinity War (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Death on the Nile (2022)"
         ]
     },
     "Leven Rambin": {
@@ -17123,7 +17204,8 @@ var actorMap = {
     },
     "Louis C.K.": {
         "movies": [
-            "Blue Jasmine (2013)"
+            "Blue Jasmine (2013)",
+            "American Hustle (2013)"
         ]
     },
     "Louis Calhern": {
@@ -17257,6 +17339,11 @@ var actorMap = {
             "Hellboy II: The Golden Army (2008)"
         ]
     },
+    "Luke Grimes": {
+        "movies": [
+            "American Sniper (2014)"
+        ]
+    },
     "Luke Hemsworth": {
         "movies": [
             "Thor: Ragnarok (2017)"
@@ -17339,6 +17426,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Shine (1996)",
             "Gods and Monsters (1998)"
         ]
     },
@@ -17950,6 +18038,7 @@ var actorMap = {
             "Zodiac (2007)",
             "The Brothers Bloom (2009)",
             "Shutter Island (2010)",
+            "Date Night (2010)",
             "The Avengers (2012)",
             "Iron Man 3 (2013)",
             "Now You See Me (2013)",
@@ -18008,6 +18097,7 @@ var actorMap = {
         ],
         "movies": [
             "Planet of the Apes (2001)",
+            "Date Night (2010)",
             "Ted (2012)",
             "2 Guns (2013)",
             "Transformers: Age of Extinction (2014)",
@@ -18538,6 +18628,7 @@ var actorMap = {
             "Dazed and Confused (1993)",
             "Amistad (1997)",
             "Sahara (2005)",
+            "Failure to Launch (2006)",
             "Tropic Thunder (2008)",
             "Ghosts of Girlfriends Past (2009)",
             "The Dark Tower (2017)"
@@ -18583,7 +18674,8 @@ var actorMap = {
     "Max Charles": {
         "movies": [
             "The Amazing Spider-Man (2012)",
-            "The Amazing Spider-Man 2 (2014)"
+            "The Amazing Spider-Man 2 (2014)",
+            "American Sniper (2014)"
         ]
     },
     "Max Greenfield": {
@@ -19439,6 +19531,7 @@ var actorMap = {
         "movies": [
             "Crash (2005)",
             "Lions for Lambs (2007)",
+            "American Hustle (2013)",
             "Ant-Man (2015)",
             "A Wrinkle in Time (2018)",
             "Ant-Man and the Wasp (2018)"
@@ -19793,6 +19886,7 @@ var actorMap = {
     },
     "Mila Kunis": {
         "movies": [
+            "Date Night (2010)",
             "Ted (2012)"
         ]
     },
@@ -20484,7 +20578,8 @@ var actorMap = {
     },
     "Nick Kroll": {
         "movies": [
-            "I Love You, Man (2009)"
+            "I Love You, Man (2009)",
+            "Date Night (2010)"
         ]
     },
     "Nick Lachey": {
@@ -20696,6 +20791,7 @@ var actorMap = {
     },
     "Noah Taylor": {
         "movies": [
+            "Shine (1996)",
             "Almost Famous (2000)",
             "Vanilla Sky (2001)",
             "Charlie and the Chocolate Factory (2005)",
@@ -20912,6 +21008,7 @@ var actorMap = {
     },
     "Olivia Munn": {
         "movies": [
+            "Date Night (2010)",
             "Iron Man 2 (2010)",
             "Mortdecai (2015)",
             "X-Men: Apocalypse (2016)",
@@ -21275,6 +21372,7 @@ var actorMap = {
         "movies": [
             "Magnolia (1999)",
             "Blade: Trinity (2004)",
+            "Failure to Launch (2006)",
             "Keeping Up with the Joneses (2016)",
             "The Circle (2017)",
             "Teen Titans Go! To the Movies (2018)",
@@ -22406,6 +22504,7 @@ var actorMap = {
         "movies": [
             "Blow (2001)",
             "Smokin' Aces (2007)",
+            "Date Night (2010)",
             "Sin City: A Dame to Kill For (2014)",
             "Marriage Story (2019)"
         ]
@@ -23014,6 +23113,12 @@ var actorMap = {
             "Psycho (1998)"
         ]
     },
+    "Ritu Arya": {
+        "movies": [
+            "Last Christmas (2019)",
+            "Red Notice (2021)"
+        ]
+    },
     "River Phoenix": {
         "suppNoms": [
             {
@@ -23042,6 +23147,11 @@ var actorMap = {
     "Rob Cohen": {
         "movies": [
             "The Fast and the Furious (2001)"
+        ]
+    },
+    "Rob Corddry": {
+        "movies": [
+            "Failure to Launch (2006)"
         ]
     },
     "Rob Delaney": {
@@ -23162,6 +23272,8 @@ var actorMap = {
         "movies": [
             "The Deer Hunter (1978)",
             "New Year's Eve (2011)",
+            "Silver Linings Playbook (2012)",
+            "American Hustle (2013)",
             "Joker (2019)"
         ]
     },
@@ -23637,6 +23749,11 @@ var actorMap = {
             "X-Men: Apocalypse (2016)"
         ]
     },
+    "Rose Leslie": {
+        "movies": [
+            "Death on the Nile (2022)"
+        ]
+    },
     "Rose McGowan": {
         "movies": [
             "Scream (1996)",
@@ -23792,7 +23909,8 @@ var actorMap = {
     },
     "Russell Brand": {
         "movies": [
-            "Rock of Ages (2012)"
+            "Rock of Ages (2012)",
+            "Death on the Nile (2022)"
         ]
     },
     "Russell Crowe": {
@@ -23917,6 +24035,7 @@ var actorMap = {
             "Deadpool 2 (2018)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Free Guy (2021)",
+            "Red Notice (2021)",
             "The Adam Project (2022)"
         ]
     },
@@ -24355,6 +24474,7 @@ var actorMap = {
         "movies": [
             "Hocus Pocus (1993)",
             "The First Wives Club (1996)",
+            "Failure to Launch (2006)",
             "New Year's Eve (2011)"
         ]
     },
@@ -24416,6 +24536,7 @@ var actorMap = {
     "Sa\u00efd Taghmaoui": {
         "movies": [
             "Conan the Barbarian (2011)",
+            "American Hustle (2013)",
             "Wonder Woman (2017)"
         ]
     },
@@ -24824,7 +24945,9 @@ var actorMap = {
     "Shea Whigham": {
         "movies": [
             "Fast & Furious (2009)",
+            "Silver Linings Playbook (2012)",
             "Fast & Furious 6 (2013)",
+            "American Hustle (2013)",
             "Star Trek Beyond (2016)",
             "Kong: Skull Island (2017)",
             "Bad Times at the El Royale (2018)",
@@ -24967,6 +25090,7 @@ var actorMap = {
     "Sienna Miller": {
         "movies": [
             "Foxcatcher (2014)",
+            "American Sniper (2014)",
             "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "21 Bridges (2019)"
@@ -25208,7 +25332,8 @@ var actorMap = {
         ],
         "movies": [
             "The Secret Life of Bees (2008)",
-            "Hellboy (2019)"
+            "Hellboy (2019)",
+            "Death on the Nile (2022)"
         ]
     },
     "Sophie Turner": {
@@ -25505,7 +25630,8 @@ var actorMap = {
         "movies": [
             "Mississippi Burning (1988)",
             "Groundhog Day (1993)",
-            "Robots (2005)"
+            "Robots (2005)",
+            "Failure to Launch (2006)"
         ]
     },
     "Sterling Hayden": {
@@ -25544,6 +25670,7 @@ var actorMap = {
             "Bewitched (2005)",
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
+            "Date Night (2010)",
             "Foxcatcher (2014)",
             "Welcome to Marwen (2018)"
         ]
@@ -25889,6 +26016,7 @@ var actorMap = {
             "Smokin' Aces (2007)",
             "Talk to Me (2007)",
             "The Curious Case of Benjamin Button (2008)",
+            "Date Night (2010)",
             "The Karate Kid (2010)",
             "Think Like a Man (2012)",
             "Think Like a Man Too (2014)",
@@ -26034,6 +26162,11 @@ var actorMap = {
         "movies": [
             "Think Like a Man (2012)",
             "Think Like a Man Too (2014)"
+        ]
+    },
+    "Terry Bradshaw": {
+        "movies": [
+            "Failure to Launch (2006)"
         ]
     },
     "Terry Crews": {
@@ -26404,6 +26537,7 @@ var actorMap = {
     },
     "Tina Fey": {
         "movies": [
+            "Date Night (2010)",
             "This Is Where I Leave You (2014)",
             "Wine Country (2019)",
             "Free Guy (2021)"
@@ -26491,7 +26625,8 @@ var actorMap = {
     },
     "Tom Bateman": {
         "movies": [
-            "Murder on the Orient Express (2017)"
+            "Murder on the Orient Express (2017)",
+            "Death on the Nile (2022)"
         ]
     },
     "Tom Berenger": {
@@ -27960,6 +28095,7 @@ var actorMap = {
             "Crash (2005)",
             "Mr. & Mrs. Smith (2005)",
             "The Dark Knight (2008)",
+            "Date Night (2010)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
@@ -28409,7 +28545,8 @@ var actorMap = {
     "Zooey Deschanel": {
         "movies": [
             "Almost Famous (2000)",
-            "The Hitchhiker's Guide to the Galaxy (2005)"
+            "The Hitchhiker's Guide to the Galaxy (2005)",
+            "Failure to Launch (2006)"
         ]
     },
     "Zo\u00eb Bell": {
@@ -28429,7 +28566,8 @@ var actorMap = {
     },
     "will.i.am": {
         "movies": [
-            "X-Men Origins: Wolverine (2009)"
+            "X-Men Origins: Wolverine (2009)",
+            "Date Night (2010)"
         ]
     },
     "\u00c9dgar Ram\u00edrez": {

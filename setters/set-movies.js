@@ -46604,6 +46604,13 @@ var movieMap = {
         "categories": [
             "1990s",
             "Biopics"
+        ],
+        "cast": [
+            "Armin Mueller-Stahl",
+            "Geoffrey Rush",
+            "John Gielgud",
+            "Lynn Redgrave",
+            "Noah Taylor"
         ]
     },
     "Star Trek: First Contact (1996)": {
@@ -73432,6 +73439,19 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Bradley Cooper",
+            "Justin Bartha",
+            "Katheryn Winnick",
+            "Kathy Bates",
+            "Matthew McConaughey",
+            "Patton Oswalt",
+            "Rob Corddry",
+            "Sarah Jessica Parker",
+            "Stephen Tobolowsky",
+            "Terry Bradshaw",
+            "Zooey Deschanel"
         ]
     },
     "The Hills Have Eyes (2006)": {
@@ -86822,6 +86842,29 @@ var movieMap = {
             "2010s",
             "Comedies",
             "Frat Pack"
+        ],
+        "cast": [
+            "Ari Graynor",
+            "Bill Burr",
+            "Common",
+            "Gal Gadot",
+            "J. B. Smoove",
+            "James Franco",
+            "Jimmi Simpson",
+            "Jon Bernthal",
+            "Kristen Wiig",
+            "Leighton Meester",
+            "Mark Ruffalo",
+            "Mark Wahlberg",
+            "Mila Kunis",
+            "Nick Kroll",
+            "Olivia Munn",
+            "Ray Liotta",
+            "Steve Carell",
+            "Taraji P. Henson",
+            "Tina Fey",
+            "will.i.am",
+            "William Fichtner"
         ]
     },
     "Death at a Funeral (2010)": {
@@ -95387,6 +95430,17 @@ var movieMap = {
             "Robert De Niro & Joe Pesci",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Anupam Kher",
+            "Bradley Cooper",
+            "Chris Tucker",
+            "Jacki Weaver",
+            "Jennifer Lawrence",
+            "John Ortiz",
+            "Julia Stiles",
+            "Robert De Niro",
+            "Shea Whigham"
         ]
     },
     "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)": {
@@ -98894,6 +98948,22 @@ var movieMap = {
             "Crime",
             "Jennifer Lawrence",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Adrian Martinez",
+            "Alessandro Nivola",
+            "Amy Adams",
+            "Bradley Cooper",
+            "Christian Bale",
+            "Colleen Camp",
+            "Jack Huston",
+            "Jennifer Lawrence",
+            "Jeremy Renner",
+            "Louis C.K.",
+            "Michael Pe\u00f1a",
+            "Robert De Niro",
+            "Sa\u00efd Taghmaoui",
+            "Shea Whigham"
         ]
     },
     "Saving Mr. Banks (2013)": {
@@ -102725,6 +102795,14 @@ var movieMap = {
             "Biopics",
             "Clint Eastwood",
             "Eastwoods"
+        ],
+        "cast": [
+            "Bradley Cooper",
+            "Kyle Gallner",
+            "Leonard Roberts",
+            "Luke Grimes",
+            "Max Charles",
+            "Sienna Miller"
         ]
     },
     "Big Eyes (2014)": {
@@ -122602,6 +122680,7 @@ var movieMap = {
             "Henry Golding",
             "Michelle Yeoh",
             "Peter Serafinowicz",
+            "Ritu Arya",
             "Rob Delaney"
         ]
     },
@@ -129403,6 +129482,14 @@ var movieMap = {
             "Dwayne Johnson",
             "Streaming",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Chris Diamantopoulos",
+            "Dwayne Johnson",
+            "Ed Sheeran",
+            "Gal Gadot",
+            "Ritu Arya",
+            "Ryan Reynolds"
         ]
     },
     "Spencer (2021)": {
@@ -130419,6 +130506,21 @@ var movieMap = {
             "2020s",
             "Crime",
             "Mystery"
+        ],
+        "cast": [
+            "Ali Fazal",
+            "Annette Bening",
+            "Armie Hammer",
+            "Dawn French",
+            "Emma Mackey",
+            "Gal Gadot",
+            "Jennifer Saunders",
+            "Kenneth Branagh",
+            "Letitia Wright",
+            "Rose Leslie",
+            "Russell Brand",
+            "Sophie Okonedo",
+            "Tom Bateman"
         ]
     },
     "The Sky Is Everywhere (2022)": {
