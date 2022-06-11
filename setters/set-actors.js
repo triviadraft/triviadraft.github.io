@@ -697,6 +697,11 @@ var actorMap = {
             "Sin City (2005)"
         ]
     },
+    "Alexis Dziena": {
+        "movies": [
+            "When in Rome (2010)"
+        ]
+    },
     "Alfie Allen": {
         "movies": [
             "Atonement (2007)",
@@ -710,7 +715,8 @@ var actorMap = {
         "movies": [
             "Primal Fear (1996)",
             "Star Trek: First Contact (1996)",
-            "Captain America: Civil War (2016)"
+            "Captain America: Civil War (2016)",
+            "The Lion King (2019)"
         ]
     },
     "Alfred Hitchcock": {
@@ -1021,6 +1027,7 @@ var actorMap = {
     },
     "Amy Poehler": {
         "movies": [
+            "Blades of Glory (2007)",
             "Horton Hears a Who! (2008)",
             "Monsters vs. Aliens (2009)",
             "Wine Country (2019)"
@@ -1049,7 +1056,8 @@ var actorMap = {
         "movies": [
             "Six Days, Seven Nights (1998)",
             "Bewitched (2005)",
-            "Chef (2014)"
+            "Chef (2014)",
+            "The Lion King (2019)"
         ]
     },
     "Amy Seimetz": {
@@ -1218,6 +1226,11 @@ var actorMap = {
     "Andy Muschietti": {
         "movies": [
             "It Chapter Two (2019)"
+        ]
+    },
+    "Andy Richter": {
+        "movies": [
+            "Blades of Glory (2007)"
         ]
     },
     "Andy Samberg": {
@@ -1392,6 +1405,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "When in Rome (2010)",
             "50/50 (2011)"
         ]
     },
@@ -1984,6 +1998,11 @@ var actorMap = {
         "movies": [
             "Star Wars: The Clone Wars (2008)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Ashley Judd": {
+        "movies": [
+            "Someone like You (2001)"
         ]
     },
     "Ashley Olsen": {
@@ -2604,7 +2623,8 @@ var actorMap = {
     "Beyonc\u00e9": {
         "movies": [
             "Austin Powers in Goldmember (2002)",
-            "Dreamgirls (2006)"
+            "Dreamgirls (2006)",
+            "The Lion King (2019)"
         ]
     },
     "Big Show": {
@@ -2818,6 +2838,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Billy Eichner": {
+        "movies": [
+            "The Lion King (2019)"
+        ]
+    },
     "Billy Idol": {
         "movies": [
             "Heavy Metal 2000 (2000)"
@@ -2947,6 +2972,7 @@ var actorMap = {
     },
     "Bobby Moynihan": {
         "movies": [
+            "When in Rome (2010)",
             "Delivery Man (2013)",
             "The Book of Henry (2017)"
         ]
@@ -4001,6 +4027,11 @@ var actorMap = {
             "Project Power (2020)"
         ]
     },
+    "Casper Van Dien": {
+        "movies": [
+            "Sleepy Hollow (1999)"
+        ]
+    },
     "Catalina Sandino Moreno": {
         "leadNoms": [
             {
@@ -4195,6 +4226,11 @@ var actorMap = {
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
             "21 Bridges (2019)"
+        ]
+    },
+    "Chance the Rapper": {
+        "movies": [
+            "The Lion King (2019)"
         ]
     },
     "Chang Chen": {
@@ -4474,6 +4510,7 @@ var actorMap = {
             "Talk to Me (2007)",
             "American Gangster (2007)",
             "Doctor Strange (2016)",
+            "The Lion King (2019)",
             "The Old Guard (2020)"
         ]
     },
@@ -4495,7 +4532,8 @@ var actorMap = {
             "Dark Shadows (2012)",
             "Movie 43 (2013)",
             "Kick-Ass 2 (2013)",
-            "Carrie (2013)"
+            "Carrie (2013)",
+            "If I Stay (2014)"
         ]
     },
     "Chlo\u00eb Sevigny": {
@@ -4794,6 +4832,7 @@ var actorMap = {
     },
     "Christina Ricci": {
         "movies": [
+            "Sleepy Hollow (1999)",
             "The Matrix Resurrections (2021)"
         ]
     },
@@ -4869,6 +4908,7 @@ var actorMap = {
     },
     "Christopher Lee": {
         "movies": [
+            "Sleepy Hollow (1999)",
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "The Lord of the Rings: The Two Towers (2002)",
@@ -4983,6 +5023,7 @@ var actorMap = {
             "The Deer Hunter (1978)",
             "Batman Returns (1992)",
             "True Romance (1993)",
+            "Sleepy Hollow (1999)",
             "Catch Me If You Can (2002)",
             "Gigli (2003)",
             "Wedding Crashers (2005)",
@@ -5283,6 +5324,7 @@ var actorMap = {
     },
     "Colleen Camp": {
         "movies": [
+            "Someone like You (2001)",
             "Four Christmases (2008)",
             "American Hustle (2013)"
         ]
@@ -5439,6 +5481,7 @@ var actorMap = {
             "All the Right Moves (1983)",
             "Ghosts of Mississippi (1996)",
             "The Incredibles (2004)",
+            "Blades of Glory (2007)",
             "Book Club (2018)",
             "Incredibles 2 (2018)"
         ]
@@ -5881,7 +5924,8 @@ var actorMap = {
             "Space Jam (1996)",
             "The Virgin Suicides (2000)",
             "Screwed (2000)",
-            "Austin Powers in Goldmember (2002)"
+            "Austin Powers in Goldmember (2002)",
+            "When in Rome (2010)"
         ]
     },
     "Danny Elfman": {
@@ -6324,6 +6368,7 @@ var actorMap = {
     "Dax Shepard": {
         "movies": [
             "Knocked Up (2007)",
+            "When in Rome (2010)",
             "This Is Where I Leave You (2014)"
         ]
     },
@@ -6948,6 +6993,7 @@ var actorMap = {
     },
     "Don Johnson": {
         "movies": [
+            "When in Rome (2010)",
             "Book Club (2018)",
             "Knives Out (2019)"
         ]
@@ -7006,7 +7052,8 @@ var actorMap = {
     "Donald Glover": {
         "movies": [
             "Spider-Man: Homecoming (2017)",
-            "Solo: A Star Wars Story (2018)"
+            "Solo: A Star Wars Story (2018)",
+            "The Lion King (2019)"
         ]
     },
     "Donald Pleasence": {
@@ -7503,6 +7550,11 @@ var actorMap = {
             "Batman: Mask of the Phantasm (1993)"
         ]
     },
+    "Efren Ramirez": {
+        "movies": [
+            "When in Rome (2010)"
+        ]
+    },
     "Eileen Essell": {
         "movies": [
             "Charlie and the Chocolate Factory (2005)",
@@ -7748,6 +7800,7 @@ var actorMap = {
     "Ellen Barkin": {
         "movies": [
             "Drop Dead Gorgeous (1999)",
+            "Someone like You (2001)",
             "Ocean's Thirteen (2007)"
         ]
     },
@@ -8112,6 +8165,11 @@ var actorMap = {
     "Eric Allan Kramer": {
         "movies": [
             "True Romance (1993)"
+        ]
+    },
+    "Eric Andr\u00e9": {
+        "movies": [
+            "The Lion King (2019)"
         ]
     },
     "Eric Bana": {
@@ -8520,6 +8578,15 @@ var actorMap = {
     "Florence Henderson": {
         "movies": [
             "Holy Man (1998)"
+        ]
+    },
+    "Florence Kasumba": {
+        "movies": [
+            "Captain America: Civil War (2016)",
+            "Wonder Woman (2017)",
+            "Black Panther (2018)",
+            "Avengers: Infinity War (2018)",
+            "The Lion King (2019)"
         ]
     },
     "Florence Pugh": {
@@ -9688,6 +9755,7 @@ var actorMap = {
             "As Good as It Gets (1997)",
             "You've Got Mail (1998)",
             "Mystery Men (1999)",
+            "Someone like You (2001)",
             "Robots (2005)",
             "Movie 43 (2013)",
             "Stuck in Love (2013)"
@@ -9696,6 +9764,12 @@ var actorMap = {
     "Gregory Hines": {
         "movies": [
             "Waiting to Exhale (1995)"
+        ]
+    },
+    "Gregory Peck": {
+        "movies": [
+            "Cape Fear (1962)",
+            "Cape Fear (1991)"
         ]
     },
     "Greta Gerwig": {
@@ -10455,6 +10529,7 @@ var actorMap = {
         ],
         "movies": [
             "X-Men (2000)",
+            "Someone like You (2001)",
             "Swordfish (2001)",
             "Kate & Leopold (2001)",
             "X2 (2003)",
@@ -10566,6 +10641,7 @@ var actorMap = {
         "movies": [
             "Return of the Jedi (1983)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Sleepy Hollow (1999)",
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "The Lost City of Z (2017)",
@@ -10958,7 +11034,8 @@ var actorMap = {
     },
     "JD McCrary": {
         "movies": [
-            "Little (2019)"
+            "Little (2019)",
+            "The Lion King (2019)"
         ]
     },
     "Ja Rule": {
@@ -11013,6 +11090,11 @@ var actorMap = {
         "movies": [
             "Kill Your Darlings (2013)",
             "American Hustle (2013)"
+        ]
+    },
+    "Jack Kruschen": {
+        "movies": [
+            "Cape Fear (1962)"
         ]
     },
     "Jack Lemmon": {
@@ -11546,6 +11628,7 @@ var actorMap = {
             "Robots (2005)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Rogue One: A Star Wars Story (2016)",
+            "The Lion King (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -11798,6 +11881,11 @@ var actorMap = {
             "King Kong (2005)",
             "The Adventures of Tintin (2011)",
             "Fantastic Four (2015)"
+        ]
+    },
+    "Jamie Blackley": {
+        "movies": [
+            "If I Stay (2014)"
         ]
     },
     "Jamie Campbell Bower": {
@@ -12464,7 +12552,8 @@ var actorMap = {
     },
     "Jeffrey Jones": {
         "movies": [
-            "Howard the Duck (1986)"
+            "Howard the Duck (1986)",
+            "Sleepy Hollow (1999)"
         ]
     },
     "Jeffrey Tambor": {
@@ -12511,6 +12600,11 @@ var actorMap = {
     "Jenna Coleman": {
         "movies": [
             "Captain America: The First Avenger (2011)"
+        ]
+    },
+    "Jenna Fischer": {
+        "movies": [
+            "Blades of Glory (2007)"
         ]
     },
     "Jennifer Aniston": {
@@ -12988,6 +13082,9 @@ var actorMap = {
                 "movie": "Tootsie",
                 "year": "1982"
             }
+        ],
+        "movies": [
+            "Cape Fear (1991)"
         ]
     },
     "Jessica Rothe": {
@@ -13831,7 +13928,8 @@ var actorMap = {
     "John Kani": {
         "movies": [
             "Captain America: Civil War (2016)",
-            "Black Panther (2018)"
+            "Black Panther (2018)",
+            "The Lion King (2019)"
         ]
     },
     "John Krasinski": {
@@ -13952,6 +14050,11 @@ var actorMap = {
     "John Noble": {
         "movies": [
             "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
+    "John Oliver": {
+        "movies": [
+            "The Lion King (2019)"
         ]
     },
     "John Ortiz": {
@@ -14124,6 +14227,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Sleepy Hollow (1999)",
             "Blow (2001)",
             "From Hell (2001)",
             "Pirates of the Caribbean: The Curse of the Black Pearl (2003)",
@@ -14228,7 +14332,9 @@ var actorMap = {
     },
     "Jon Heder": {
         "movies": [
-            "Just like Heaven (2005)"
+            "Just like Heaven (2005)",
+            "Blades of Glory (2007)",
+            "When in Rome (2010)"
         ]
     },
     "Jon Lovitz": {
@@ -14505,6 +14611,7 @@ var actorMap = {
         "movies": [
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
+            "When in Rome (2010)",
             "Transformers: Dark of the Moon (2011)",
             "New Year's Eve (2011)",
             "Movie 43 (2013)",
@@ -14568,6 +14675,11 @@ var actorMap = {
             "Apt Pupil (1998)",
             "Cruel Intentions (1999)",
             "Ocean's Eleven (2001)"
+        ]
+    },
+    "Joshua Leonard": {
+        "movies": [
+            "If I Stay (2014)"
         ]
     },
     "Jos\u00e9 Ferrer": {
@@ -14970,7 +15082,8 @@ var actorMap = {
     },
     "Julie Kavner": {
         "movies": [
-            "This Is My Life (1992)"
+            "This Is My Life (1992)",
+            "Someone like You (2001)"
         ]
     },
     "Julie Strain": {
@@ -15042,6 +15155,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Cape Fear (1991)",
             "Mixed Nuts (1994)",
             "From Dusk till Dawn (1996)",
             "Enough (2002)",
@@ -15287,6 +15401,7 @@ var actorMap = {
     },
     "Kate Micucci": {
         "movies": [
+            "When in Rome (2010)",
             "The Lego Batman Movie (2017)"
         ]
     },
@@ -15625,7 +15740,8 @@ var actorMap = {
     "Keegan-Michael Key": {
         "movies": [
             "Due Date (2010)",
-            "The Predator (2018)"
+            "The Predator (2018)",
+            "The Lion King (2019)"
         ]
     },
     "Keira Knightley": {
@@ -16246,6 +16362,7 @@ var actorMap = {
     "Kristen Bell": {
         "movies": [
             "Couples Retreat (2009)",
+            "When in Rome (2010)",
             "You Again (2010)",
             "Movie 43 (2013)",
             "Stuck in Love (2013)",
@@ -16262,7 +16379,8 @@ var actorMap = {
     },
     "Kristen Schaal": {
         "movies": [
-            "Kate & Leopold (2001)"
+            "Kate & Leopold (2001)",
+            "When in Rome (2010)"
         ]
     },
     "Kristen Stewart": {
@@ -16323,6 +16441,11 @@ var actorMap = {
     "Kristy Swanson": {
         "movies": [
             "Dude, Where's My Car? (2000)"
+        ]
+    },
+    "Krysten Ritter": {
+        "movies": [
+            "Someone like You (2001)"
         ]
     },
     "Kumail Nanjiani": {
@@ -16776,6 +16899,7 @@ var actorMap = {
     },
     "Lee Pace": {
         "movies": [
+            "When in Rome (2010)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "Guardians of the Galaxy (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
@@ -17368,6 +17492,11 @@ var actorMap = {
             "The Bishop's Wife (1947)"
         ]
     },
+    "Lori Martin": {
+        "movies": [
+            "Cape Fear (1962)"
+        ]
+    },
     "Lori Petty": {
         "movies": [
             "A League of Their Own (1992)"
@@ -17557,6 +17686,7 @@ var actorMap = {
         "movies": [
             "Charlie's Angels (2000)",
             "Charlie's Angels: Full Throttle (2003)",
+            "Blades of Glory (2007)",
             "Zombieland: Double Tap (2019)"
         ]
     },
@@ -18149,6 +18279,7 @@ var actorMap = {
         ],
         "movies": [
             "Chaplin (1992)",
+            "Someone like You (2001)",
             "Trainwreck (2015)",
             "Captain America: Civil War (2016)",
             "Spider-Man: Homecoming (2017)",
@@ -18411,7 +18542,9 @@ var actorMap = {
         "movies": [
             "12 Angry Men (1957)",
             "Psycho (1960)",
-            "St. Elmo's Fire (1985)"
+            "Cape Fear (1962)",
+            "St. Elmo's Fire (1985)",
+            "Cape Fear (1991)"
         ]
     },
     "Martin Brest": {
@@ -18476,7 +18609,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "North by Northwest (1959)"
+            "North by Northwest (1959)",
+            "Sleepy Hollow (1999)"
         ]
     },
     "Martin Lawrence": {
@@ -19557,6 +19691,7 @@ var actorMap = {
     "Michael Gambon": {
         "movies": [
             "Mary Reilly (1996)",
+            "Sleepy Hollow (1999)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
@@ -19584,6 +19719,7 @@ var actorMap = {
             "Batman Returns (1992)",
             "Batman Forever (1995)",
             "Batman & Robin (1997)",
+            "Sleepy Hollow (1999)",
             "Corpse Bride (2005)",
             "Alice in Wonderland (2010)"
         ]
@@ -20232,11 +20368,18 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Sleepy Hollow (1999)",
             "Chicken Run (2000)",
             "The Hours (2002)",
             "The Phantom of the Opera (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Fred Claus (2007)"
+        ]
+    },
+    "Mireille Enos": {
+        "movies": [
+            "Someone like You (2001)",
+            "If I Stay (2014)"
         ]
     },
     "Miriam Margolyes": {
@@ -20462,6 +20605,11 @@ var actorMap = {
     "Nancy Cartwright": {
         "movies": [
             "Godzilla (1998)"
+        ]
+    },
+    "Nancy Kerrigan": {
+        "movies": [
+            "Blades of Glory (2007)"
         ]
     },
     "Nancy Kyes": {
@@ -20841,6 +20989,7 @@ var actorMap = {
         ],
         "movies": [
             "48 Hrs. (1982)",
+            "Cape Fear (1991)",
             "Hulk (2003)",
             "Tropic Thunder (2008)",
             "Noah (2014)"
@@ -20868,7 +21017,8 @@ var actorMap = {
     },
     "Nick Swardson": {
         "movies": [
-            "Malibu's Most Wanted (2003)"
+            "Malibu's Most Wanted (2003)",
+            "Blades of Glory (2007)"
         ]
     },
     "Nicola Peltz": {
@@ -22396,6 +22546,11 @@ var actorMap = {
             "Mary Poppins Returns (2018)"
         ]
     },
+    "Polly Bergen": {
+        "movies": [
+            "Cape Fear (1962)"
+        ]
+    },
     "Pom Klementieff": {
         "movies": [
             "Guardians of the Galaxy Vol. 2 (2017)",
@@ -22764,6 +22919,7 @@ var actorMap = {
     "Ray Park": {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
+            "Sleepy Hollow (1999)",
             "X-Men (2000)",
             "Solo: A Star Wars Story (2018)"
         ]
@@ -23174,6 +23330,7 @@ var actorMap = {
     },
     "Richard Griffiths": {
         "movies": [
+            "Sleepy Hollow (1999)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
@@ -23409,7 +23566,8 @@ var actorMap = {
     },
     "Rob Corddry": {
         "movies": [
-            "Failure to Launch (2006)"
+            "Failure to Launch (2006)",
+            "Blades of Glory (2007)"
         ]
     },
     "Rob Delaney": {
@@ -23535,6 +23693,7 @@ var actorMap = {
         ],
         "movies": [
             "The Deer Hunter (1978)",
+            "Cape Fear (1991)",
             "Showtime (2002)",
             "New Year's Eve (2011)",
             "Silver Linings Playbook (2012)",
@@ -23662,6 +23821,8 @@ var actorMap = {
     },
     "Robert Mitchum": {
         "movies": [
+            "Cape Fear (1962)",
+            "Cape Fear (1991)",
             "Tombstone (1993)"
         ]
     },
@@ -23873,6 +24034,7 @@ var actorMap = {
     },
     "Romany Malco": {
         "movies": [
+            "Blades of Glory (2007)",
             "Think Like a Man (2012)",
             "Think Like a Man Too (2014)"
         ]
@@ -25107,7 +25269,8 @@ var actorMap = {
             "50/50 (2011)",
             "This Is the End (2013)",
             "Kung Fu Panda 3 (2016)",
-            "Long Shot (2019)"
+            "Long Shot (2019)",
+            "The Lion King (2019)"
         ]
     },
     "Seymour Cassel": {
@@ -25117,7 +25280,8 @@ var actorMap = {
     },
     "Shahadi Wright Joseph": {
         "movies": [
-            "Us (2019)"
+            "Us (2019)",
+            "The Lion King (2019)"
         ]
     },
     "Shailene Woodley": {
@@ -25160,6 +25324,7 @@ var actorMap = {
     "Shaquille O'Neal": {
         "movies": [
             "Steel (1997)",
+            "When in Rome (2010)",
             "The Lego Movie (2014)",
             "What Men Want (2019)"
         ]
@@ -25716,6 +25881,7 @@ var actorMap = {
     "Stacy Keach": {
         "movies": [
             "Batman: Mask of the Phantasm (1993)",
+            "If I Stay (2014)",
             "Sin City: A Dame to Kill For (2014)",
             "Cell (2016)"
         ]
@@ -26400,6 +26566,11 @@ var actorMap = {
             "Fast & Furious (2009)",
             "Fast Five (2011)",
             "The Fate of the Furious (2017)"
+        ]
+    },
+    "Telly Savalas": {
+        "movies": [
+            "Cape Fear (1962)"
         ]
     },
     "Temuera Morrison": {
@@ -27353,6 +27524,7 @@ var actorMap = {
     },
     "Tony Goldwyn": {
         "movies": [
+            "Someone like You (2001)",
             "The Last Samurai (2003)"
         ]
     },
@@ -28259,10 +28431,12 @@ var actorMap = {
         "movies": [
             "Monster-in-Law (2005)",
             "RV (2006)",
+            "Blades of Glory (2007)",
             "Hot Rod (2007)",
             "Horton Hears a Who! (2008)",
             "Monsters vs. Aliens (2009)",
             "G-Force (2009)",
+            "When in Rome (2010)",
             "Jonah Hex (2010)",
             "The Lego Movie (2014)",
             "Teenage Mutant Ninja Turtles (2014)",
@@ -28281,6 +28455,7 @@ var actorMap = {
             "Wedding Crashers (2005)",
             "The Producers (2005)",
             "Stranger than Fiction (2006)",
+            "Blades of Glory (2007)",
             "Land of the Lost (2009)",
             "The Lego Movie (2014)",
             "The Lego Movie 2: The Second Part (2019)"
@@ -28398,7 +28573,8 @@ var actorMap = {
     },
     "William Daniels": {
         "movies": [
-            "The Graduate (1967)"
+            "The Graduate (1967)",
+            "Blades of Glory (2007)"
         ]
     },
     "William Fichtner": {
@@ -28406,6 +28582,7 @@ var actorMap = {
             "Black Hawk Down (2001)",
             "Crash (2005)",
             "Mr. & Mrs. Smith (2005)",
+            "Blades of Glory (2007)",
             "The Dark Knight (2008)",
             "Date Night (2010)",
             "Teenage Mutant Ninja Turtles (2014)"

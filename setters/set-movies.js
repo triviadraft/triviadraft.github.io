@@ -7644,6 +7644,15 @@ var movieMap = {
             "Classics",
             "Horror/Thriller",
             "Thriller"
+        ],
+        "cast": [
+            "Gregory Peck",
+            "Jack Kruschen",
+            "Lori Martin",
+            "Martin Balsam",
+            "Polly Bergen",
+            "Robert Mitchum",
+            "Telly Savalas"
         ]
     },
     "The Man Who Shot Liberty Valance (1962)": {
@@ -34486,6 +34495,15 @@ var movieMap = {
             "Remakes & Reboots",
             "Robert De Niro & Joe Pesci",
             "Thriller"
+        ],
+        "cast": [
+            "Gregory Peck",
+            "Jessica Lange",
+            "Juliette Lewis",
+            "Martin Balsam",
+            "Nick Nolte",
+            "Robert De Niro",
+            "Robert Mitchum"
         ]
     },
     "An American Tail: Fievel Goes West (1991)": {
@@ -54687,6 +54705,21 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Tim Burton"
+        ],
+        "cast": [
+            "Casper Van Dien",
+            "Christina Ricci",
+            "Christopher Lee",
+            "Christopher Walken",
+            "Ian McDiarmid",
+            "Jeffrey Jones",
+            "Johnny Depp",
+            "Martin Landau",
+            "Michael Gambon",
+            "Michael Gough",
+            "Miranda Richardson",
+            "Ray Park",
+            "Richard Griffiths"
         ]
     },
     "The World Is Not Enough (1999)": {
@@ -58098,6 +58131,18 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Ashley Judd",
+            "Colleen Camp",
+            "Ellen Barkin",
+            "Greg Kinnear",
+            "Hugh Jackman",
+            "Julie Kavner",
+            "Krysten Ritter",
+            "Marisa Tomei",
+            "Mireille Enos",
+            "Tony Goldwyn"
         ]
     },
     "Spy Kids (2001)": {
@@ -77173,6 +77218,22 @@ var movieMap = {
             "2000s",
             "Frat Pack",
             "Sports"
+        ],
+        "cast": [
+            "Amy Poehler",
+            "Andy Richter",
+            "Craig T. Nelson",
+            "Jenna Fischer",
+            "Jon Heder",
+            "Luke Wilson",
+            "Nancy Kerrigan",
+            "Nick Swardson",
+            "Rob Corddry",
+            "Romany Malco",
+            "Will Arnett",
+            "Will Ferrell",
+            "William Daniels",
+            "William Fichtner"
         ]
     },
     "Meet the Robinsons (2007)": {
@@ -86467,6 +86528,23 @@ var movieMap = {
             "Comedies",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Alexis Dziena",
+            "Anjelica Huston",
+            "Bobby Moynihan",
+            "Danny DeVito",
+            "Dax Shepard",
+            "Don Johnson",
+            "Efren Ramirez",
+            "Jon Heder",
+            "Josh Duhamel",
+            "Kate Micucci",
+            "Kristen Bell",
+            "Kristen Schaal",
+            "Lee Pace",
+            "Shaquille O'Neal",
+            "Will Arnett"
         ]
     },
     "From Paris with Love (2010)": {
@@ -101572,6 +101650,13 @@ var movieMap = {
         "categories": [
             "2010s",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Chlo\u00eb Grace Moretz",
+            "Jamie Blackley",
+            "Joshua Leonard",
+            "Mireille Enos",
+            "Stacy Keach"
         ]
     },
     "Sin City: A Dame to Kill For (2014)": {
@@ -107925,6 +108010,7 @@ var movieMap = {
             "Don Cheadle",
             "Elizabeth Olsen",
             "Emily VanCamp",
+            "Florence Kasumba",
             "Frank Grillo",
             "Hope Davis",
             "Jeremy Renner",
@@ -112084,6 +112170,7 @@ var movieMap = {
             "David Thewlis",
             "Elena Anaya",
             "Ewen Bremner",
+            "Florence Kasumba",
             "Gal Gadot",
             "Robin Wright",
             "Sa\u00efd Taghmaoui",
@@ -115047,6 +115134,7 @@ var movieMap = {
             "Danai Gurira",
             "Daniel Kaluuya",
             "Denzel Whitaker",
+            "Florence Kasumba",
             "Forest Whitaker",
             "John Kani",
             "Letitia Wright",
@@ -115880,6 +115968,7 @@ var movieMap = {
             "Dave Bautista",
             "Don Cheadle",
             "Elizabeth Olsen",
+            "Florence Kasumba",
             "Gwyneth Paltrow",
             "Idris Elba",
             "Jacob Batalon",
@@ -121416,6 +121505,24 @@ var movieMap = {
             "Family",
             "Frat Pack",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Alfre Woodard",
+            "Amy Sedaris",
+            "Beyonc\u00e9",
+            "Billy Eichner",
+            "Chance the Rapper",
+            "Chiwetel Ejiofor",
+            "Donald Glover",
+            "Eric Andr\u00e9",
+            "Florence Kasumba",
+            "James Earl Jones",
+            "JD McCrary",
+            "John Kani",
+            "John Oliver",
+            "Keegan-Michael Key",
+            "Seth Rogen",
+            "Shahadi Wright Joseph"
         ]
     },
     "Honeyland (2019)": {
