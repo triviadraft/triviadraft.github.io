@@ -15961,6 +15961,14 @@ var movieMap = {
             "Horror/Thriller",
             "Jamie Lee Curtis",
             "John Carpenter"
+        ],
+        "cast": [
+            "Donald Pleasence",
+            "Jamie Lee Curtis",
+            "Kyle Richards",
+            "Nancy Kyes",
+            "Nick Castle",
+            "P. J. Soles"
         ]
     },
     "Watership Down (1978)": {
@@ -19381,6 +19389,11 @@ var movieMap = {
             "Horror/Thriller",
             "John Carpenter",
             "Kurt Russell"
+        ],
+        "cast": [
+            "Keith David",
+            "Kurt Russell",
+            "Wilford Brimley"
         ]
     },
     "The Secret of NIMH (1982)": {
@@ -50367,6 +50380,16 @@ var movieMap = {
             "1990s",
             "Fantasy/Sci-Fi",
             "Monster"
+        ],
+        "cast": [
+            "Hank Azaria",
+            "Jean Reno",
+            "Kevin Dunn",
+            "Maria Pitillo",
+            "Matthew Broderick",
+            "Michael Lerner",
+            "Nancy Cartwright",
+            "Richard Gant"
         ]
     },
     "Fear and Loathing in Las Vegas (1998)": {
@@ -53169,7 +53192,7 @@ var movieMap = {
             "John Hannah",
             "Jonathan Hyde",
             "Oded Fehr",
-            "Patricia Vel\u00e1squez ",
+            "Patricia Vel\u00e1squez",
             "Rachel Weisz"
         ]
     },
@@ -80079,6 +80102,15 @@ var movieMap = {
             "Dramas",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Abigail Breslin",
+            "Derek Luke",
+            "Elizabeth Banks",
+            "Isla Fisher",
+            "Kevin Kline",
+            "Rachel Weisz",
+            "Ryan Reynolds"
         ]
     },
     "Jumper (2008)": {
@@ -81765,6 +81797,15 @@ var movieMap = {
             "2000s",
             "Ed Harris",
             "Westerns"
+        ],
+        "cast": [
+            "Ed Harris",
+            "Jeremy Irons",
+            "Lance Henriksen",
+            "Makenzie Vega",
+            "Ren\u00e9e Zellweger",
+            "Timothy Spall",
+            "Viggo Mortensen"
         ]
     },
     "Ghost Town (2008)": {
@@ -91788,6 +91829,15 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Brady Corbet",
+            "Christopher Abbott",
+            "Elizabeth Olsen",
+            "Hugh Dancy",
+            "John Hawkes",
+            "Julia Garner",
+            "Sarah Paulson"
         ]
     },
     "Paranormal Activity 3 (2011)": {
@@ -94137,6 +94187,7 @@ var movieMap = {
             "Embeth Davidtz",
             "Emma Stone",
             "Irrfan Khan",
+            "Kelsey Asbille",
             "Martin Sheen",
             "Max Charles",
             "Rhys Ifans",
@@ -98331,15 +98382,26 @@ var movieMap = {
         ],
         "cast": [
             "Brad Pitt",
+            "Brad Pitt",
+            "Cameron Diaz",
             "Cameron Diaz",
             "Dean Norris",
+            "Dean Norris",
+            "\u00c9dgar Ram\u00edrez",
             "\u00c9dgar Ram\u00edrez",
             "Javier Bardem",
+            "Javier Bardem",
+            "John Leguizamo",
             "John Leguizamo",
             "Michael Fassbender",
+            "Michael Fassbender",
+            "Natalie Dormer",
             "Natalie Dormer",
             "Pen\u00e9lope Cruz",
+            "Pen\u00e9lope Cruz",
             "Rosie Perez",
+            "Rosie Perez",
+            "Toby Kebbell",
             "Toby Kebbell"
         ]
     },
@@ -100221,6 +100283,18 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Monster"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "Bryan Cranston",
+            "CJ Adams",
+            "David Strathairn",
+            "Elizabeth Olsen",
+            "Juliette Binoche",
+            "Ken Watanabe",
+            "Richard T. Jones",
+            "Sally Hawkins",
+            "T. J. Storm"
         ]
     },
     "Million Dollar Arm (2014)": {
@@ -109354,6 +109428,15 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ],
+        "cast": [
+            "Gal Gadot",
+            "Isla Fisher",
+            "Jon Hamm",
+            "Kevin Dunn",
+            "Matt Walsh",
+            "Patton Oswalt",
+            "Zach Galifianakis"
         ]
     },
     "Moonlight (2016)": {
@@ -110805,6 +110888,27 @@ var movieMap = {
             "Monster",
             "Remakes & Reboots",
             "Samuel L. Jackson"
+        ],
+        "cast": [
+            "Brie Larson",
+            "Corey Hawkins",
+            "Erin Moriarty",
+            "Jason Mitchell",
+            "Jing Tian",
+            "John C. Reilly",
+            "John Goodman",
+            "John Ortiz",
+            "Miyavi",
+            "Mois\u00e9s Arias",
+            "Nick Robinson",
+            "Richard Jenkins",
+            "Samuel L. Jackson",
+            "Shea Whigham",
+            "Terry Notary",
+            "Thomas Mann",
+            "Thomas Middleditch",
+            "Toby Kebbell",
+            "Tom Hiddleston"
         ]
     },
     "Beauty and the Beast (2017)": {
@@ -112453,6 +112557,16 @@ var movieMap = {
             "Horror/Thriller",
             "Mystery",
             "Thriller"
+        ],
+        "cast": [
+            "Elizabeth Olsen",
+            "Gil Birmingham",
+            "Graham Greene",
+            "Jeremy Renner",
+            "Jon Bernthal",
+            "Julia Jones",
+            "Kelsey Asbille",
+            "Martin Sensmeier"
         ]
     },
     "Annabelle: Creation (2017)": {
@@ -116134,6 +116248,20 @@ var movieMap = {
         "categories": [
             "2010s",
             "Comedies"
+        ],
+        "cast": [
+            "Annabelle Wallis",
+            "Brian Dennehy",
+            "Ed Helms",
+            "Hannibal Buress",
+            "Isla Fisher",
+            "Jake Johnson",
+            "Jeremy Renner",
+            "Jon Hamm",
+            "Leslie Bibb",
+            "Lil Rel Howery",
+            "Rashida Jones",
+            "Thomas Middleditch"
         ]
     },
     "Jurassic World: Fallen Kingdom (2018)": {
@@ -120439,6 +120567,22 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Monster"
+        ],
+        "cast": [
+            "Anthony Ramos",
+            "Bradley Whitford",
+            "Charles Dance",
+            "David Strathairn",
+            "Joe Morton",
+            "Ken Watanabe",
+            "Kyle Chandler",
+            "Millie Bobby Brown",
+            "O'Shea Jackson Jr.",
+            "Sally Hawkins",
+            "T. J. Storm",
+            "Thomas Middleditch",
+            "Vera Farmiga",
+            "Zhang Ziyi"
         ]
     },
     "Ma (2019)": {
@@ -127196,6 +127340,19 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Monster"
+        ],
+        "cast": [
+            "Alexander Skarsg\u00e5rd",
+            "Brian Tyree Henry",
+            "Demi\u00e1n Bichir",
+            "Eiza Gonz\u00e1lez",
+            "Julian Dennison",
+            "Kaylee Hottle",
+            "Kyle Chandler",
+            "Lance Reddick",
+            "Millie Bobby Brown",
+            "Rebecca Hall",
+            "Ronny Chieng"
         ]
     },
     "Concrete Cowboy (2021)": {

@@ -25,6 +25,7 @@ var actorMap = {
             "Kick-Ass (2010)",
             "Kick-Ass 2 (2013)",
             "Captain America: The Winter Soldier (2014)",
+            "Godzilla (2014)",
             "Avengers: Age of Ultron (2015)",
             "The King's Man (2021)"
         ]
@@ -79,6 +80,7 @@ var actorMap = {
         ],
         "movies": [
             "The Princess Diaries 2: Royal Engagement (2004)",
+            "Definitely, Maybe (2008)",
             "Zombieland (2009)",
             "New Year's Eve (2011)",
             "August: Osage County (2013)",
@@ -659,7 +661,8 @@ var actorMap = {
     },
     "Alexander Skarsg\u00e5rd": {
         "movies": [
-            "Long Shot (2019)"
+            "Long Shot (2019)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Alexandra Shipp": {
@@ -1480,7 +1483,8 @@ var actorMap = {
         "movies": [
             "X-Men: First Class (2011)",
             "The Brothers Grimsby (2016)",
-            "The Mummy (2017)"
+            "The Mummy (2017)",
+            "Tag (2018)"
         ]
     },
     "Annabeth Gish": {
@@ -1753,6 +1757,11 @@ var actorMap = {
         "movies": [
             "Jungle Fever (1991)",
             "Last Action Hero (1993)"
+        ]
+    },
+    "Anthony Ramos": {
+        "movies": [
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "Anthony Rapp": {
@@ -3010,6 +3019,7 @@ var actorMap = {
             "Ocean's Thirteen (2007)",
             "The Curious Case of Benjamin Button (2008)",
             "The Counselor (2013)",
+            "The Counselor (2013)",
             "Deadpool 2 (2018)",
             "The Lost City (2022)"
         ]
@@ -3063,7 +3073,13 @@ var actorMap = {
         "movies": [
             "Kate & Leopold (2001)",
             "The Cabin in the Woods (2012)",
-            "Saving Mr. Banks (2013)"
+            "Saving Mr. Banks (2013)",
+            "Godzilla: King of the Monsters (2019)"
+        ]
+    },
+    "Brady Corbet": {
+        "movies": [
+            "Martha Marcy May Marlene (2011)"
         ]
     },
     "Brandon Lee": {
@@ -3213,6 +3229,11 @@ var actorMap = {
             "Her (2013)"
         ]
     },
+    "Brian Dennehy": {
+        "movies": [
+            "Tag (2018)"
+        ]
+    },
     "Brian Doyle-Murray": {
         "movies": [
             "National Lampoon's Vacation (1983)",
@@ -3260,6 +3281,7 @@ var actorMap = {
             "Widows (2018)",
             "Spider-Man: Into the Spider-Verse (2018)",
             "Joker (2019)",
+            "Godzilla vs. Kong (2021)",
             "Eternals (2021)"
         ]
     },
@@ -3305,6 +3327,7 @@ var actorMap = {
             "13 Going on 30 (2004)",
             "Scott Pilgrim vs. the World (2010)",
             "Trainwreck (2015)",
+            "Kong: Skull Island (2017)",
             "Captain Marvel (2019)",
             "Avengers: Endgame (2019)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -3470,6 +3493,7 @@ var actorMap = {
             "Contagion (2011)",
             "John Carter (2012)",
             "Rock of Ages (2012)",
+            "Godzilla (2014)",
             "Kung Fu Panda 3 (2016)",
             "Power Rangers (2017)"
         ]
@@ -3608,6 +3632,11 @@ var actorMap = {
             "The Amazing Spider-Man (2012)"
         ]
     },
+    "CJ Adams": {
+        "movies": [
+            "Godzilla (2014)"
+        ]
+    },
     "Cailee Spaeny": {
         "movies": [
             "Bad Times at the El Royale (2018)"
@@ -3663,6 +3692,7 @@ var actorMap = {
             "The Holiday (2006)",
             "Knight and Day (2010)",
             "The Green Hornet (2011)",
+            "The Counselor (2013)",
             "The Counselor (2013)"
         ]
     },
@@ -4128,6 +4158,7 @@ var actorMap = {
             "The Imitation Game (2014)",
             "Victor Frankenstein (2015)",
             "Ghostbusters (2016)",
+            "Godzilla: King of the Monsters (2019)",
             "The King's Man (2021)"
         ]
     },
@@ -4726,6 +4757,11 @@ var actorMap = {
             "The Three Musketeers (2011)"
         ]
     },
+    "Christopher Abbott": {
+        "movies": [
+            "Martha Marcy May Marlene (2011)"
+        ]
+    },
     "Christopher Eccleston": {
         "movies": [
             "Thor: The Dark World (2013)"
@@ -5264,7 +5300,8 @@ var actorMap = {
     },
     "Corey Hawkins": {
         "movies": [
-            "Iron Man 3 (2013)"
+            "Iron Man 3 (2013)",
+            "Kong: Skull Island (2017)"
         ]
     },
     "Corey Stoll": {
@@ -6121,6 +6158,8 @@ var actorMap = {
             "A League of Their Own (1992)",
             "The Firm (1993)",
             "Dolores Claiborne (1995)",
+            "Godzilla (2014)",
+            "Godzilla: King of the Monsters (2019)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -6210,6 +6249,7 @@ var actorMap = {
             "The Firm (1993)",
             "How Do You Know (2010)",
             "The Counselor (2013)",
+            "The Counselor (2013)",
             "The Book of Henry (2017)"
         ]
     },
@@ -6297,7 +6337,8 @@ var actorMap = {
         ],
         "movies": [
             "The Hateful Eight (2015)",
-            "Alien: Covenant (2017)"
+            "Alien: Covenant (2017)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Denholm Elliott": {
@@ -6457,6 +6498,7 @@ var actorMap = {
     "Derek Luke": {
         "movies": [
             "Lions for Lambs (2007)",
+            "Definitely, Maybe (2008)",
             "Captain America: The First Avenger (2011)"
         ]
     },
@@ -6853,6 +6895,11 @@ var actorMap = {
             "Solo: A Star Wars Story (2018)"
         ]
     },
+    "Donald Pleasence": {
+        "movies": [
+            "Halloween (1978)"
+        ]
+    },
     "Donald Sutherland": {
         "movies": [
             "Invasion of the Body Snatchers (1978)",
@@ -7140,13 +7187,15 @@ var actorMap = {
             "Stepmom (1998)",
             "The Hours (2002)",
             "A History of Violence (2005)",
+            "Appaloosa (2008)",
             "Gravity (2013)",
             "Mother! (2017)"
         ]
     },
     "Ed Helms": {
         "movies": [
-            "Monsters vs. Aliens (2009)"
+            "Monsters vs. Aliens (2009)",
+            "Tag (2018)"
         ]
     },
     "Ed McMahon": {
@@ -7348,7 +7397,8 @@ var actorMap = {
         "movies": [
             "Welcome to Marwen (2018)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
-            "Bloodshot (2020)"
+            "Bloodshot (2020)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Elaine Stritch": {
@@ -7452,6 +7502,7 @@ var actorMap = {
             "Catch Me If You Can (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
+            "Definitely, Maybe (2008)",
             "The Hunger Games (2012)",
             "Movie 43 (2013)",
             "The Hunger Games: Catching Fire (2013)",
@@ -7482,10 +7533,13 @@ var actorMap = {
     },
     "Elizabeth Olsen": {
         "movies": [
+            "Martha Marcy May Marlene (2011)",
             "Kill Your Darlings (2013)",
             "Captain America: The Winter Soldier (2014)",
+            "Godzilla (2014)",
             "Avengers: Age of Ultron (2015)",
             "Captain America: Civil War (2016)",
+            "Wind River (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -7991,6 +8045,11 @@ var actorMap = {
     "Erin Kellyman": {
         "movies": [
             "Solo: A Star Wars Story (2018)"
+        ]
+    },
+    "Erin Moriarty": {
+        "movies": [
+            "Kong: Skull Island (2017)"
         ]
     },
     "Ernest Borgnine": {
@@ -8713,6 +8772,7 @@ var actorMap = {
             "Fast Five (2011)",
             "Fast & Furious 6 (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
+            "Keeping Up with the Joneses (2016)",
             "Wonder Woman (2017)",
             "Justice League (2017)",
             "Ralph Breaks the Internet (2018)",
@@ -9213,7 +9273,8 @@ var actorMap = {
     },
     "Gil Birmingham": {
         "movies": [
-            "Transformers: The Last Knight (2017)"
+            "Transformers: The Last Knight (2017)",
+            "Wind River (2017)"
         ]
     },
     "Gilbert Gottfried": {
@@ -9428,7 +9489,8 @@ var actorMap = {
         ],
         "movies": [
             "North (1994)",
-            "The Green Mile (1999)"
+            "The Green Mile (1999)",
+            "Wind River (2017)"
         ]
     },
     "Graham McTavish": {
@@ -9665,6 +9727,7 @@ var actorMap = {
     },
     "Hank Azaria": {
         "movies": [
+            "Godzilla (1998)",
             "Mystery Men (1999)"
         ]
     },
@@ -9688,6 +9751,7 @@ var actorMap = {
     "Hannibal Buress": {
         "movies": [
             "Spider-Man: Homecoming (2017)",
+            "Tag (2018)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -10207,7 +10271,8 @@ var actorMap = {
     },
     "Hugh Dancy": {
         "movies": [
-            "Black Hawk Down (2001)"
+            "Black Hawk Down (2001)",
+            "Martha Marcy May Marlene (2011)"
         ]
     },
     "Hugh Grant": {
@@ -10622,10 +10687,13 @@ var actorMap = {
         "movies": [
             "Wedding Crashers (2005)",
             "Hot Rod (2007)",
+            "Definitely, Maybe (2008)",
             "Horton Hears a Who! (2008)",
             "Rise of the Guardians (2012)",
             "Now You See Me (2013)",
-            "The Brothers Grimsby (2016)"
+            "The Brothers Grimsby (2016)",
+            "Keeping Up with the Joneses (2016)",
+            "Tag (2018)"
         ]
     },
     "Israel Broussard": {
@@ -11144,6 +11212,7 @@ var actorMap = {
             "No Strings Attached (2011)",
             "Jurassic World (2015)",
             "The Mummy (2017)",
+            "Tag (2018)",
             "Spider-Man: Into the Spider-Verse (2018)"
         ]
     },
@@ -11604,6 +11673,7 @@ var actorMap = {
     },
     "Jamie Lee Curtis": {
         "movies": [
+            "Halloween (1978)",
             "The Tailor of Panama (2001)",
             "You Again (2010)",
             "Knives Out (2019)",
@@ -11878,6 +11948,11 @@ var actorMap = {
             "Rudy (1993)"
         ]
     },
+    "Jason Mitchell": {
+        "movies": [
+            "Kong: Skull Island (2017)"
+        ]
+    },
     "Jason Momoa": {
         "movies": [
             "Conan the Barbarian (2011)",
@@ -11973,6 +12048,7 @@ var actorMap = {
             "Collateral (2004)",
             "No Country for Old Men (2007)",
             "Vicky Cristina Barcelona (2008)",
+            "The Counselor (2013)",
             "The Counselor (2013)",
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)",
             "Mother! (2017)",
@@ -12071,6 +12147,7 @@ var actorMap = {
         "movies": [
             "L\u00e9on: The Professional (1994)",
             "Mission: Impossible (1996)",
+            "Godzilla (1998)",
             "Flushed Away (2006)",
             "Couples Retreat (2009)"
         ]
@@ -12456,6 +12533,7 @@ var actorMap = {
         "movies": [
             "The Lion King (1994)",
             "Kingdom of Heaven (2005)",
+            "Appaloosa (2008)",
             "The Words (2012)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
@@ -12500,6 +12578,8 @@ var actorMap = {
             "Avengers: Age of Ultron (2015)",
             "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Captain America: Civil War (2016)",
+            "Wind River (2017)",
+            "Tag (2018)",
             "Avengers: Endgame (2019)",
             "Black Widow (2021)"
         ]
@@ -12918,6 +12998,11 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Jing Tian": {
+        "movies": [
+            "Kong: Skull Island (2017)"
+        ]
+    },
     "JoBeth Williams": {
         "movies": [
             "Kramer vs. Kramer (1979)",
@@ -13182,6 +13267,7 @@ var actorMap = {
             "American Gangster (2007)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
+            "Godzilla: King of the Monsters (2019)",
             "Zack Snyder's Justice League (2021)"
         ]
     },
@@ -13343,6 +13429,7 @@ var actorMap = {
             "We Need to Talk About Kevin (2011)",
             "Wreck-It Ralph (2012)",
             "Guardians of the Galaxy (2014)",
+            "Kong: Skull Island (2017)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -13453,6 +13540,7 @@ var actorMap = {
             "Monsters, Inc. (2001)",
             "Transformers: Age of Extinction (2014)",
             "10 Cloverfield Lane (2016)",
+            "Kong: Skull Island (2017)",
             "Transformers: The Last Knight (2017)",
             "Atomic Blonde (2017)"
         ]
@@ -13477,6 +13565,7 @@ var actorMap = {
             "I Still Know What You Did Last Summer (1998)",
             "American Gangster (2007)",
             "Contagion (2011)",
+            "Martha Marcy May Marlene (2011)",
             "The Peanut Butter Falcon (2019)"
         ]
     },
@@ -13557,6 +13646,7 @@ var actorMap = {
     "John Leguizamo": {
         "movies": [
             "Kick-Ass 2 (2013)",
+            "The Counselor (2013)",
             "The Counselor (2013)",
             "Chef (2014)",
             "John Wick (2014)"
@@ -13651,6 +13741,7 @@ var actorMap = {
             "Fast & Furious (2009)",
             "Fast & Furious 6 (2013)",
             "Blackhat (2015)",
+            "Kong: Skull Island (2017)",
             "Bumblebee (2018)"
         ]
     },
@@ -13858,6 +13949,7 @@ var actorMap = {
     },
     "Jon Bernthal": {
         "movies": [
+            "Wind River (2017)",
             "Widows (2018)",
             "The Peanut Butter Falcon (2019)"
         ]
@@ -13902,6 +13994,8 @@ var actorMap = {
     "Jon Hamm": {
         "movies": [
             "Bridesmaids (2011)",
+            "Keeping Up with the Joneses (2016)",
+            "Tag (2018)",
             "Bad Times at the El Royale (2018)"
         ]
     },
@@ -14405,13 +14499,15 @@ var actorMap = {
     },
     "Julia Garner": {
         "movies": [
+            "Martha Marcy May Marlene (2011)",
             "The Perks of Being a Wallflower (2012)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
     "Julia Jones": {
         "movies": [
-            "Jonah Hex (2010)"
+            "Jonah Hex (2010)",
+            "Wind River (2017)"
         ]
     },
     "Julia Louis-Dreyfus": {
@@ -14480,7 +14576,8 @@ var actorMap = {
     },
     "Julian Dennison": {
         "movies": [
-            "Deadpool 2 (2018)"
+            "Deadpool 2 (2018)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Julian Glover": {
@@ -14697,6 +14794,9 @@ var actorMap = {
                 "movie": "The English Patient",
                 "year": "1996"
             }
+        ],
+        "movies": [
+            "Godzilla (2014)"
         ]
     },
     "Juliette Lewis": {
@@ -15247,6 +15347,11 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Men Tell No Tales (2017)"
         ]
     },
+    "Kaylee Hottle": {
+        "movies": [
+            "Godzilla vs. Kong (2021)"
+        ]
+    },
     "Kayvan Novak": {
         "movies": [
             "Men in Black: International (2019)"
@@ -15320,6 +15425,7 @@ var actorMap = {
     },
     "Keith David": {
         "movies": [
+            "The Thing (1982)",
             "Crash (2005)",
             "Mr. & Mrs. Smith (2005)",
             "Cloud Atlas (2012)",
@@ -15405,6 +15511,12 @@ var actorMap = {
             "Think Like a Man (2012)"
         ]
     },
+    "Kelsey Asbille": {
+        "movies": [
+            "The Amazing Spider-Man (2012)",
+            "Wind River (2017)"
+        ]
+    },
     "Kelsey Grammer": {
         "movies": [
             "Toy Story 2 (1999)",
@@ -15447,8 +15559,10 @@ var actorMap = {
         "movies": [
             "The Last Samurai (2003)",
             "Batman Begins (2005)",
+            "Godzilla (2014)",
             "Transformers: Age of Extinction (2014)",
-            "Transformers: The Last Knight (2017)"
+            "Transformers: The Last Knight (2017)",
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "Kenan Thompson": {
@@ -15570,11 +15684,13 @@ var actorMap = {
             "Mississippi Burning (1988)",
             "Ghostbusters II (1989)",
             "Chaplin (1992)",
+            "Godzilla (1998)",
             "Transformers (2007)",
             "Lions for Lambs (2007)",
             "Vicky Cristina Barcelona (2008)",
             "Transformers: Revenge of the Fallen (2009)",
-            "Transformers: Dark of the Moon (2011)"
+            "Transformers: Dark of the Moon (2011)",
+            "Keeping Up with the Joneses (2016)"
         ]
     },
     "Kevin Durand": {
@@ -15615,6 +15731,7 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "Orange County (2002)",
+            "Definitely, Maybe (2008)",
             "The Tale of Despereaux (2008)",
             "No Strings Attached (2011)",
             "Beauty and the Beast (2017)"
@@ -15973,6 +16090,7 @@ var actorMap = {
     },
     "Kurt Russell": {
         "movies": [
+            "The Thing (1982)",
             "Tombstone (1993)",
             "Forrest Gump (1994)",
             "Vanilla Sky (2001)",
@@ -15994,12 +16112,19 @@ var actorMap = {
         "movies": [
             "King Kong (2005)",
             "Zero Dark Thirty (2012)",
-            "Carol (2015)"
+            "Carol (2015)",
+            "Godzilla: King of the Monsters (2019)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Kyle MacLachlan": {
         "movies": [
             "Dune (1984)"
+        ]
+    },
+    "Kyle Richards": {
+        "movies": [
+            "Halloween (1978)"
         ]
     },
     "Kylie Jenner": {
@@ -16096,13 +16221,15 @@ var actorMap = {
         "movies": [
             "Network (1976)",
             "The Terminator (1984)",
-            "Aliens (1986)"
+            "Aliens (1986)",
+            "Appaloosa (2008)"
         ]
     },
     "Lance Reddick": {
         "movies": [
             "Jonah Hex (2010)",
-            "John Wick (2014)"
+            "John Wick (2014)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Langston Fishburne": {
@@ -16565,7 +16692,8 @@ var actorMap = {
         "movies": [
             "Iron Man (2008)",
             "Iron Man 2 (2010)",
-            "Movie 43 (2013)"
+            "Movie 43 (2013)",
+            "Tag (2018)"
         ]
     },
     "Leslie Jones": {
@@ -16715,6 +16843,7 @@ var actorMap = {
     },
     "Lil Rel Howery": {
         "movies": [
+            "Tag (2018)",
             "Free Guy (2021)"
         ]
     },
@@ -17449,7 +17578,8 @@ var actorMap = {
     },
     "Makenzie Vega": {
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "Appaloosa (2008)"
         ]
     },
     "Mako": {
@@ -17622,7 +17752,8 @@ var actorMap = {
     "Maria Pitillo": {
         "movies": [
             "Chaplin (1992)",
-            "True Romance (1993)"
+            "True Romance (1993)",
+            "Godzilla (1998)"
         ]
     },
     "Maria Shriver": {
@@ -18056,6 +18187,11 @@ var actorMap = {
             "Tropic Thunder (2008)"
         ]
     },
+    "Martin Sensmeier": {
+        "movies": [
+            "Wind River (2017)"
+        ]
+    },
     "Martin Sheen": {
         "movies": [
             "Catch Me If You Can (2002)",
@@ -18323,6 +18459,7 @@ var actorMap = {
             "Ted (2012)",
             "Movie 43 (2013)",
             "Ghostbusters (2016)",
+            "Keeping Up with the Joneses (2016)",
             "Widows (2018)"
         ]
     },
@@ -18331,6 +18468,7 @@ var actorMap = {
             "WarGames (1983)",
             "Glory (1989)",
             "The Lion King (1994)",
+            "Godzilla (1998)",
             "The Producers (2005)",
             "The Tale of Despereaux (2008)",
             "New Year's Eve (2011)",
@@ -19108,6 +19246,7 @@ var actorMap = {
             "X-Men: First Class (2011)",
             "Prometheus (2012)",
             "The Counselor (2013)",
+            "The Counselor (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
             "Alien: Covenant (2017)",
@@ -19239,6 +19378,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Godzilla (1998)",
             "X-Men: Days of Future Past (2014)"
         ]
     },
@@ -19688,6 +19828,12 @@ var actorMap = {
             "A Quiet Place Part II (2021)"
         ]
     },
+    "Millie Bobby Brown": {
+        "movies": [
+            "Godzilla: King of the Monsters (2019)",
+            "Godzilla vs. Kong (2021)"
+        ]
+    },
     "Milo Ventimiglia": {
         "movies": [
             "Rocky Balboa (2006)",
@@ -19805,6 +19951,11 @@ var actorMap = {
             "TMNT (2007)"
         ]
     },
+    "Miyavi": {
+        "movies": [
+            "Kong: Skull Island (2017)"
+        ]
+    },
     "Mo'Nique": {
         "suppNoms": [
             {
@@ -19826,6 +19977,11 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "The Lion King (1994)"
+        ]
+    },
+    "Mois\u00e9s Arias": {
+        "movies": [
+            "Kong: Skull Island (2017)"
         ]
     },
     "Molly Parker": {
@@ -19985,6 +20141,16 @@ var actorMap = {
             "Carrie (1976)"
         ]
     },
+    "Nancy Cartwright": {
+        "movies": [
+            "Godzilla (1998)"
+        ]
+    },
+    "Nancy Kyes": {
+        "movies": [
+            "Halloween (1978)"
+        ]
+    },
     "Nancy Travis": {
         "movies": [
             "Chaplin (1992)"
@@ -20066,6 +20232,7 @@ var actorMap = {
         "movies": [
             "Captain America: The First Avenger (2011)",
             "Rush (2013)",
+            "The Counselor (2013)",
             "The Counselor (2013)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
@@ -20298,6 +20465,11 @@ var actorMap = {
             "Drumline (2002)"
         ]
     },
+    "Nick Castle": {
+        "movies": [
+            "Halloween (1978)"
+        ]
+    },
     "Nick Chinlund": {
         "movies": [
             "The Legend of Zorro (2005)"
@@ -20354,7 +20526,8 @@ var actorMap = {
     },
     "Nick Robinson": {
         "movies": [
-            "Jurassic World (2015)"
+            "Jurassic World (2015)",
+            "Kong: Skull Island (2017)"
         ]
     },
     "Nick Stahl": {
@@ -20610,7 +20783,8 @@ var actorMap = {
     },
     "O'Shea Jackson Jr.": {
         "movies": [
-            "Long Shot (2019)"
+            "Long Shot (2019)",
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "O-T Fagbenle": {
@@ -20917,6 +21091,7 @@ var actorMap = {
     "P. J. Soles": {
         "movies": [
             "Carrie (1976)",
+            "Halloween (1978)",
             "Stripes (1981)"
         ]
     },
@@ -21016,12 +21191,8 @@ var actorMap = {
     },
     "Patricia Vel\u00e1squez": {
         "movies": [
+            "The Mummy (1999)",
             "The Mummy Returns (2001)"
-        ]
-    },
-    "Patricia Vel\u00e1squez ": {
-        "movies": [
-            "The Mummy (1999)"
         ]
     },
     "Patrick Bergin": {
@@ -21104,6 +21275,7 @@ var actorMap = {
         "movies": [
             "Magnolia (1999)",
             "Blade: Trinity (2004)",
+            "Keeping Up with the Joneses (2016)",
             "The Circle (2017)",
             "Teen Titans Go! To the Movies (2018)",
             "Eternals (2021)"
@@ -21478,6 +21650,7 @@ var actorMap = {
             "G-Force (2009)",
             "Nine (2009)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "The Counselor (2013)",
             "The Counselor (2013)",
             "The Brothers Grimsby (2016)",
             "Murder on the Orient Express (2017)"
@@ -22055,6 +22228,7 @@ var actorMap = {
             "The Mummy (1999)",
             "The Mummy Returns (2001)",
             "Constantine (2005)",
+            "Definitely, Maybe (2008)",
             "The Brothers Bloom (2009)",
             "Black Widow (2021)"
         ]
@@ -22202,6 +22376,7 @@ var actorMap = {
     "Rashida Jones": {
         "movies": [
             "I Love You, Man (2009)",
+            "Tag (2018)",
             "The Grinch (2018)"
         ]
     },
@@ -22307,7 +22482,8 @@ var actorMap = {
         "movies": [
             "The Prestige (2006)",
             "Vicky Cristina Barcelona (2008)",
-            "Iron Man 3 (2013)"
+            "Iron Man 3 (2013)",
+            "Godzilla vs. Kong (2021)"
         ]
     },
     "Rebecca Romijn": {
@@ -22472,6 +22648,7 @@ var actorMap = {
             "Jerry Maguire (1996)",
             "Chicago (2002)",
             "Cold Mountain (2003)",
+            "Appaloosa (2008)",
             "Monsters vs. Aliens (2009)"
         ]
     },
@@ -22632,7 +22809,8 @@ var actorMap = {
     },
     "Richard Gant": {
         "movies": [
-            "Rocky V (1990)"
+            "Rocky V (1990)",
+            "Godzilla (1998)"
         ]
     },
     "Richard Gere": {
@@ -22691,6 +22869,7 @@ var actorMap = {
             "The Cabin in the Woods (2012)",
             "Jack Reacher (2012)",
             "Bone Tomahawk (2015)",
+            "Kong: Skull Island (2017)",
             "Nightmare Alley (2021)"
         ]
     },
@@ -22751,6 +22930,11 @@ var actorMap = {
             "I Am Sam (2001)",
             "Ray (2004)",
             "Man of Steel (2013)"
+        ]
+    },
+    "Richard T. Jones": {
+        "movies": [
+            "Godzilla (2014)"
         ]
     },
     "Rick Fox": {
@@ -23357,6 +23541,7 @@ var actorMap = {
     "Ronny Chieng": {
         "movies": [
             "Crazy Rich Asians (2018)",
+            "Godzilla vs. Kong (2021)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
@@ -23497,6 +23682,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Counselor (2013)",
             "The Counselor (2013)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
         ]
@@ -23721,6 +23907,7 @@ var actorMap = {
         "movies": [
             "Blade: Trinity (2004)",
             "Smokin' Aces (2007)",
+            "Definitely, Maybe (2008)",
             "X-Men Origins: Wolverine (2009)",
             "Green Lantern (2011)",
             "Ted (2012)",
@@ -23823,7 +24010,9 @@ var actorMap = {
         ],
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
-            "Blue Jasmine (2013)"
+            "Blue Jasmine (2013)",
+            "Godzilla (2014)",
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "Sally Kirkland": {
@@ -24057,6 +24246,7 @@ var actorMap = {
             "Avengers: Age of Ultron (2015)",
             "The Hateful Eight (2015)",
             "Cell (2016)",
+            "Kong: Skull Island (2017)",
             "Avengers: Infinity War (2018)",
             "Incredibles 2 (2018)",
             "Glass (2019)",
@@ -24178,6 +24368,7 @@ var actorMap = {
     "Sarah Paulson": {
         "movies": [
             "The Spirit (2008)",
+            "Martha Marcy May Marlene (2011)",
             "New Year's Eve (2011)",
             "Carol (2015)",
             "Ocean's 8 (2018)",
@@ -24635,6 +24826,7 @@ var actorMap = {
             "Fast & Furious (2009)",
             "Fast & Furious 6 (2013)",
             "Star Trek Beyond (2016)",
+            "Kong: Skull Island (2017)",
             "Bad Times at the El Royale (2018)",
             "Joker (2019)",
             "F9 (2021)"
@@ -25602,7 +25794,9 @@ var actorMap = {
     },
     "T. J. Storm": {
         "movies": [
-            "Punisher: War Zone (2008)"
+            "Punisher: War Zone (2008)",
+            "Godzilla (2014)",
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "T.I.": {
@@ -25860,6 +26054,7 @@ var actorMap = {
             "The Hobbit: An Unexpected Journey (2012)",
             "Dawn of the Planet of the Apes (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
+            "Kong: Skull Island (2017)",
             "War for the Planet of the Apes (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
@@ -25965,8 +26160,16 @@ var actorMap = {
             "What's Your Number? (2011)"
         ]
     },
+    "Thomas Mann": {
+        "movies": [
+            "Kong: Skull Island (2017)"
+        ]
+    },
     "Thomas Middleditch": {
         "movies": [
+            "Kong: Skull Island (2017)",
+            "Tag (2018)",
+            "Godzilla: King of the Monsters (2019)",
             "Zombieland: Double Tap (2019)"
         ]
     },
@@ -26178,6 +26381,7 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+            "Appaloosa (2008)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Alice in Wonderland (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
@@ -26256,9 +26460,11 @@ var actorMap = {
         "movies": [
             "Alexander (2004)",
             "The Counselor (2013)",
+            "The Counselor (2013)",
             "Dawn of the Planet of the Apes (2014)",
             "Fantastic Four (2015)",
             "A Monster Calls (2016)",
+            "Kong: Skull Island (2017)",
             "War for the Planet of the Apes (2017)",
             "Bloodshot (2020)"
         ]
@@ -26460,6 +26666,7 @@ var actorMap = {
             "Thor (2011)",
             "The Avengers (2012)",
             "Thor: The Dark World (2013)",
+            "Kong: Skull Island (2017)",
             "Thor: Ragnarok (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
@@ -27107,6 +27314,9 @@ var actorMap = {
                 "movie": "Up in the Air",
                 "year": "2009"
             }
+        ],
+        "movies": [
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "Vera Miles": {
@@ -27184,7 +27394,8 @@ var actorMap = {
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)",
-            "A History of Violence (2005)"
+            "A History of Violence (2005)",
+            "Appaloosa (2008)"
         ]
     },
     "Vin Diesel": {
@@ -27595,6 +27806,7 @@ var actorMap = {
     },
     "Wilford Brimley": {
         "movies": [
+            "The Thing (1982)",
             "The Firm (1993)"
         ]
     },
@@ -28086,6 +28298,7 @@ var actorMap = {
             "G-Force (2009)",
             "Due Date (2010)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+            "Keeping Up with the Joneses (2016)",
             "The Lego Batman Movie (2017)",
             "A Wrinkle in Time (2018)",
             "Missing Link (2019)"
@@ -28165,7 +28378,8 @@ var actorMap = {
     "Zhang Ziyi": {
         "movies": [
             "Crouching Tiger, Hidden Dragon (2000)",
-            "TMNT (2007)"
+            "TMNT (2007)",
+            "Godzilla: King of the Monsters (2019)"
         ]
     },
     "Zoe Saldana": {
@@ -28221,6 +28435,7 @@ var actorMap = {
     "\u00c9dgar Ram\u00edrez": {
         "movies": [
             "Zero Dark Thirty (2012)",
+            "The Counselor (2013)",
             "The Counselor (2013)",
             "Jungle Cruise (2021)"
         ]
