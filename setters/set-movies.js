@@ -1040,6 +1040,11 @@ var movieMap = {
             "Frank Capra",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Clark Gable",
+            "Claudette Colbert",
+            "Walter Connolly"
         ]
     },
     "The Thin Man (1934)": {
@@ -1283,6 +1288,14 @@ var movieMap = {
         "categories": [
             "Classics",
             "Frank Capra"
+        ],
+        "cast": [
+            "Douglass Dumbrille",
+            "Gary Cooper",
+            "George Bancroft",
+            "H. B. Warner",
+            "Jean Arthur",
+            "Lionel Stander"
         ]
     },
     "Secret Agent (1936)": {
@@ -1661,6 +1674,17 @@ var movieMap = {
             "Classics",
             "Frank Capra",
             "James Stewart"
+        ],
+        "cast": [
+            "Ann Doran",
+            "Christian Rub",
+            "Edward Arnold",
+            "H. B. Warner",
+            "James Stewart",
+            "Jean Arthur",
+            "Lionel Barrymore",
+            "Mischa Auer",
+            "Spring Byington"
         ]
     },
     "Boys Town (1938)": {
@@ -1916,6 +1940,17 @@ var movieMap = {
             "Dramas",
             "Frank Capra",
             "James Stewart"
+        ],
+        "cast": [
+            "Beulah Bondi",
+            "Claude Rains",
+            "Dick Jones",
+            "Edward Arnold",
+            "H. B. Warner",
+            "Harry Carey",
+            "James Stewart",
+            "Jean Arthur",
+            "Thomas Mitchell"
         ]
     },
     "At the Circus (1939)": {
@@ -23740,6 +23775,16 @@ var movieMap = {
             "1980s",
             "Comedies",
             "John Hughes"
+        ],
+        "cast": [
+            "Beverly D'Angelo",
+            "Chevy Chase",
+            "Dana Hill",
+            "Eric Idle",
+            "Jason Lively",
+            "John Astin",
+            "Robbie Coltrane",
+            "William Zabka"
         ]
     },
     "Fright Night (1985)": {
@@ -53760,6 +53805,15 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Westerns",
             "Will Smith"
+        ],
+        "cast": [
+            "Ian Abercrombie",
+            "Kenneth Branagh",
+            "Kevin Kline",
+            "M. Emmet Walsh",
+            "Salma Hayek",
+            "Ted Levine",
+            "Will Smith"
         ]
     },
     "Summer of Sam (1999)": {
@@ -58300,6 +58354,18 @@ var movieMap = {
             "2000s",
             "Gene Hackman",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Anne Bancroft",
+            "Carrie Fisher",
+            "Gene Hackman",
+            "Jason Lee",
+            "Jeffrey Jones",
+            "Jennifer Love Hewitt",
+            "Ray Liotta",
+            "Sarah Silverman",
+            "Sigourney Weaver",
+            "Zach Galifianakis"
         ]
     },
     "Someone like You (2001)": {
@@ -80046,6 +80112,14 @@ var movieMap = {
             "2000s",
             "Fantasy/Sci-Fi",
             "Will Smith"
+        ],
+        "cast": [
+            "Alice Braga",
+            "Charlie Tahan",
+            "Emma Thompson",
+            "Salli Richardson",
+            "Will Smith",
+            "Willow Smith"
         ]
     },
     "Charlie Wilson's War (2007)": {

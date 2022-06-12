@@ -792,6 +792,7 @@ var actorMap = {
     },
     "Alice Braga": {
         "movies": [
+            "I Am Legend (2007)",
             "Predators (2010)",
             "The New Mutants (2020)",
             "The Suicide Squad (2021)"
@@ -1455,6 +1456,11 @@ var actorMap = {
             "Nightcrawler (2014)"
         ]
     },
+    "Ann Doran": {
+        "movies": [
+            "You Can't Take It with You (1938)"
+        ]
+    },
     "Ann Dowd": {
         "movies": [
             "Apt Pupil (1998)",
@@ -1597,7 +1603,8 @@ var actorMap = {
     },
     "Anne Bancroft": {
         "movies": [
-            "The Graduate (1967)"
+            "The Graduate (1967)",
+            "Heartbreakers (2001)"
         ]
     },
     "Anne Hathaway": {
@@ -2678,10 +2685,16 @@ var actorMap = {
             "You Again (2010)"
         ]
     },
+    "Beulah Bondi": {
+        "movies": [
+            "Mr. Smith Goes to Washington (1939)"
+        ]
+    },
     "Beverly D'Angelo": {
         "movies": [
             "Annie Hall (1977)",
-            "National Lampoon's Vacation (1983)"
+            "National Lampoon's Vacation (1983)",
+            "National Lampoon's European Vacation (1985)"
         ]
     },
     "Beverly Todd": {
@@ -4033,6 +4046,7 @@ var actorMap = {
             "Hook (1991)",
             "This Is My Life (1992)",
             "Austin Powers: International Man of Mystery (1997)",
+            "Heartbreakers (2001)",
             "Charlie's Angels: Full Throttle (2003)",
             "Star Wars: The Force Awakens (2015)",
             "Star Wars: The Last Jedi (2017)",
@@ -4460,6 +4474,7 @@ var actorMap = {
     },
     "Charlie Tahan": {
         "movies": [
+            "I Am Legend (2007)",
             "Blue Jasmine (2013)"
         ]
     },
@@ -4598,6 +4613,7 @@ var actorMap = {
     "Chevy Chase": {
         "movies": [
             "National Lampoon's Vacation (1983)",
+            "National Lampoon's European Vacation (1985)",
             "Spies Like Us (1985)",
             "Three Amigos (1986)",
             "Memoirs of an Invisible Man (1992)",
@@ -4935,6 +4951,11 @@ var actorMap = {
             "Mowgli: Legend of the Jungle (2018)"
         ]
     },
+    "Christian Rub": {
+        "movies": [
+            "You Can't Take It with You (1938)"
+        ]
+    },
     "Christian Slater": {
         "movies": [
             "Robin Hood: Prince of Thieves (1991)",
@@ -5233,6 +5254,11 @@ var actorMap = {
             "Kick-Ass 2 (2013)"
         ]
     },
+    "Clark Gable": {
+        "movies": [
+            "It Happened One Night (1934)"
+        ]
+    },
     "Clark Gregg": {
         "movies": [
             "Magnolia (1999)",
@@ -5256,7 +5282,13 @@ var actorMap = {
     "Claude Rains": {
         "movies": [
             "The Invisible Man (1933)",
+            "Mr. Smith Goes to Washington (1939)",
             "Notorious (1946)"
+        ]
+    },
+    "Claudette Colbert": {
+        "movies": [
+            "It Happened One Night (1934)"
         ]
     },
     "Claudia Christian": {
@@ -5836,6 +5868,11 @@ var actorMap = {
         "movies": [
             "Batman: Mask of the Phantasm (1993)",
             "Tombstone (1993)"
+        ]
+    },
+    "Dana Hill": {
+        "movies": [
+            "National Lampoon's European Vacation (1985)"
         ]
     },
     "Danai Gurira": {
@@ -6987,6 +7024,11 @@ var actorMap = {
             "Forrest Gump (1994)"
         ]
     },
+    "Dick Jones": {
+        "movies": [
+            "Mr. Smith Goes to Washington (1939)"
+        ]
+    },
     "Dick Miller": {
         "movies": [
             "The Terminator (1984)",
@@ -7311,6 +7353,11 @@ var actorMap = {
         "movies": [
             "Morning Glory (1933)",
             "Gunga Din (1939)"
+        ]
+    },
+    "Douglass Dumbrille": {
+        "movies": [
+            "Mr. Deeds Goes to Town (1936)"
         ]
     },
     "Dougray Scott": {
@@ -7677,6 +7724,12 @@ var actorMap = {
     "Edmund Gwenn": {
         "movies": [
             "Them! (1954)"
+        ]
+    },
+    "Edward Arnold": {
+        "movies": [
+            "You Can't Take It with You (1938)",
+            "Mr. Smith Goes to Washington (1939)"
         ]
     },
     "Edward Burns": {
@@ -8311,6 +8364,7 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Stranger than Fiction (2006)",
             "Harry Potter and the Order of the Phoenix (2007)",
+            "I Am Legend (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
             "Saving Mr. Banks (2013)",
@@ -8390,6 +8444,7 @@ var actorMap = {
     },
     "Eric Idle": {
         "movies": [
+            "National Lampoon's European Vacation (1985)",
             "The Transformers: The Movie (1986)"
         ]
     },
@@ -9301,6 +9356,9 @@ var actorMap = {
                 "movie": "High Noon",
                 "year": "1952"
             }
+        ],
+        "movies": [
+            "Mr. Deeds Goes to Town (1936)"
         ]
     },
     "Gary Oldman": {
@@ -9477,6 +9535,7 @@ var actorMap = {
             "Mississippi Burning (1988)",
             "Unforgiven (1992)",
             "The Firm (1993)",
+            "Heartbreakers (2001)",
             "The Royal Tenenbaums (2001)"
         ]
     },
@@ -9547,6 +9606,11 @@ var actorMap = {
     "George A. Romero": {
         "movies": [
             "The Silence of the Lambs (1991)"
+        ]
+    },
+    "George Bancroft": {
+        "movies": [
+            "Mr. Deeds Goes to Town (1936)"
         ]
     },
     "George C. Scott": {
@@ -10108,6 +10172,13 @@ var actorMap = {
             "Last Holiday (2006)"
         ]
     },
+    "H. B. Warner": {
+        "movies": [
+            "Mr. Deeds Goes to Town (1936)",
+            "You Can't Take It with You (1938)",
+            "Mr. Smith Goes to Washington (1939)"
+        ]
+    },
     "Hadley Robinson": {
         "movies": [
             "Little Women (2019)"
@@ -10294,6 +10365,11 @@ var actorMap = {
     "Harrison Gilbertson": {
         "movies": [
             "In the Tall Grass (2019)"
+        ]
+    },
+    "Harry Carey": {
+        "movies": [
+            "Mr. Smith Goes to Washington (1939)"
         ]
     },
     "Harry Dean Stanton": {
@@ -10876,6 +10952,7 @@ var actorMap = {
     "Ian Abercrombie": {
         "movies": [
             "Young Frankenstein (1974)",
+            "Wild Wild West (1999)",
             "Star Wars: The Clone Wars (2008)"
         ]
     },
@@ -12113,6 +12190,8 @@ var actorMap = {
             }
         ],
         "movies": [
+            "You Can't Take It with You (1938)",
+            "Mr. Smith Goes to Washington (1939)",
             "The Philadelphia Story (1940)"
         ]
     },
@@ -12484,9 +12563,15 @@ var actorMap = {
         "movies": [
             "Dogma (1999)",
             "Almost Famous (2000)",
+            "Heartbreakers (2001)",
             "Vanilla Sky (2001)",
             "Dreamcatcher (2003)",
             "The Incredibles (2004)"
+        ]
+    },
+    "Jason Lively": {
+        "movies": [
+            "National Lampoon's European Vacation (1985)"
         ]
     },
     "Jason London": {
@@ -12687,6 +12772,13 @@ var actorMap = {
             "Arsenic and Old Lace (1944)"
         ]
     },
+    "Jean Arthur": {
+        "movies": [
+            "Mr. Deeds Goes to Town (1936)",
+            "You Can't Take It with You (1938)",
+            "Mr. Smith Goes to Washington (1939)"
+        ]
+    },
     "Jean Dujardin": {
         "leadNoms": [
             {
@@ -12850,7 +12942,8 @@ var actorMap = {
     "Jeffrey Jones": {
         "movies": [
             "Howard the Duck (1986)",
-            "Sleepy Hollow (1999)"
+            "Sleepy Hollow (1999)",
+            "Heartbreakers (2001)"
         ]
     },
     "Jeffrey Tambor": {
@@ -13061,6 +13154,7 @@ var actorMap = {
         "movies": [
             "I Know What You Did Last Summer (1997)",
             "I Still Know What You Did Last Summer (1998)",
+            "Heartbreakers (2001)",
             "Tropic Thunder (2008)"
         ]
     },
@@ -14015,7 +14109,8 @@ var actorMap = {
     },
     "John Astin": {
         "movies": [
-            "West Side Story (1961)"
+            "West Side Story (1961)",
+            "National Lampoon's European Vacation (1985)"
         ]
     },
     "John Boyega": {
@@ -16285,6 +16380,7 @@ var actorMap = {
         ],
         "movies": [
             "Hamlet (1996)",
+            "Wild Wild West (1999)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Valkyrie (2008)",
             "My Week with Marilyn (2011)",
@@ -16442,6 +16538,7 @@ var actorMap = {
         "movies": [
             "Silverado (1985)",
             "Chaplin (1992)",
+            "Wild Wild West (1999)",
             "Orange County (2002)",
             "Definitely, Maybe (2008)",
             "The Tale of Despereaux (2008)",
@@ -17769,6 +17866,14 @@ var actorMap = {
                 "movie": "A Free Soul",
                 "year": "1931"
             }
+        ],
+        "movies": [
+            "You Can't Take It with You (1938)"
+        ]
+    },
+    "Lionel Stander": {
+        "movies": [
+            "Mr. Deeds Goes to Town (1936)"
         ]
     },
     "Lisa Kudrow": {
@@ -18169,6 +18274,7 @@ var actorMap = {
     "M. Emmet Walsh": {
         "movies": [
             "Escape from the Planet of the Apes (1971)",
+            "Wild Wild West (1999)",
             "Knives Out (2019)"
         ]
     },
@@ -20808,6 +20914,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
+    "Mischa Auer": {
+        "movies": [
+            "You Can't Take It with You (1938)"
+        ]
+    },
     "Missi Pyle": {
         "movies": [
             "As Good as It Gets (1997)",
@@ -23396,6 +23507,7 @@ var actorMap = {
     },
     "Ray Liotta": {
         "movies": [
+            "Heartbreakers (2001)",
             "Blow (2001)",
             "Smokin' Aces (2007)",
             "Date Night (2010)",
@@ -24110,6 +24222,7 @@ var actorMap = {
     },
     "Robbie Coltrane": {
         "movies": [
+            "National Lampoon's European Vacation (1985)",
             "Message in a Bottle (1999)",
             "From Hell (2001)",
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -25032,6 +25145,11 @@ var actorMap = {
             "Escape from the Planet of the Apes (1971)"
         ]
     },
+    "Salli Richardson": {
+        "movies": [
+            "I Am Legend (2007)"
+        ]
+    },
     "Sally Field": {
         "leadNoms": [
             {
@@ -25103,6 +25221,7 @@ var actorMap = {
         ],
         "movies": [
             "From Dusk till Dawn (1996)",
+            "Wild Wild West (1999)",
             "Dogma (1999)",
             "Traffic (2000)",
             "Eternals (2021)"
@@ -25454,6 +25573,7 @@ var actorMap = {
     "Sarah Silverman": {
         "movies": [
             "Screwed (2000)",
+            "Heartbreakers (2001)",
             "Rent (2005)",
             "Wreck-It Ralph (2012)",
             "A Million Ways to Die in the West (2014)",
@@ -26108,6 +26228,7 @@ var actorMap = {
             "Alien 3 (1992)",
             "Alien Resurrection (1997)",
             "Galaxy Quest (1999)",
+            "Heartbreakers (2001)",
             "The Village (2004)",
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
@@ -26407,7 +26528,8 @@ var actorMap = {
     },
     "Spring Byington": {
         "movies": [
-            "Little Women (1933)"
+            "Little Women (1933)",
+            "You Can't Take It with You (1938)"
         ]
     },
     "Stacey Dash": {
@@ -27102,6 +27224,7 @@ var actorMap = {
     "Ted Levine": {
         "movies": [
             "The Silence of the Lambs (1991)",
+            "Wild Wild West (1999)",
             "The Fast and the Furious (2001)",
             "The Manchurian Candidate (2004)",
             "American Gangster (2007)",
@@ -27327,6 +27450,11 @@ var actorMap = {
             "Tag (2018)",
             "Godzilla: King of the Monsters (2019)",
             "Zombieland: Double Tap (2019)"
+        ]
+    },
+    "Thomas Mitchell": {
+        "movies": [
+            "Mr. Smith Goes to Washington (1939)"
         ]
     },
     "Thomasin McKenzie": {
@@ -28808,6 +28936,11 @@ var actorMap = {
             "Marriage Story (2019)"
         ]
     },
+    "Walter Connolly": {
+        "movies": [
+            "It Happened One Night (1934)"
+        ]
+    },
     "Walter Koenig": {
         "movies": [
             "Star Trek: The Motion Picture (1979)",
@@ -29085,7 +29218,9 @@ var actorMap = {
         ],
         "movies": [
             "Men in Black (1997)",
+            "Wild Wild West (1999)",
             "Men in Black II (2002)",
+            "I Am Legend (2007)",
             "Men in Black 3 (2012)",
             "Suicide Squad (2016)"
         ]
@@ -29277,6 +29412,11 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "William Zabka": {
+        "movies": [
+            "National Lampoon's European Vacation (1985)"
+        ]
+    },
     "Willie Nelson": {
         "movies": [
             "Austin Powers: The Spy Who Shagged Me (1999)",
@@ -29289,6 +29429,11 @@ var actorMap = {
             "The Hunger Games: Catching Fire (2013)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
+        ]
+    },
+    "Willow Smith": {
+        "movies": [
+            "I Am Legend (2007)"
         ]
     },
     "Wilmer Valderrama": {
@@ -29507,6 +29652,7 @@ var actorMap = {
     },
     "Zach Galifianakis": {
         "movies": [
+            "Heartbreakers (2001)",
             "G-Force (2009)",
             "Due Date (2010)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
