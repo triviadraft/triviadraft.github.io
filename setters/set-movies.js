@@ -7973,6 +7973,17 @@ var movieMap = {
             "James Bond",
             "Sean Connery",
             "Spy"
+        ],
+        "cast": [
+            "Anthony Dawson",
+            "Bernard Lee",
+            "Eunice Gayson",
+            "Jack Lord",
+            "Joseph Wiseman",
+            "Lois Maxwell",
+            "Peter Burton",
+            "Sean Connery",
+            "Ursula Andress"
         ]
     },
     "The Nutty Professor (1963)": {
@@ -8490,6 +8501,18 @@ var movieMap = {
             "James Bond",
             "Sean Connery",
             "Spy"
+        ],
+        "cast": [
+            "Anthony Dawson",
+            "Bernard Lee",
+            "Daniela Bianchi",
+            "Desmond Llewelyn",
+            "Eunice Gayson",
+            "Lois Maxwell",
+            "Lotte Lenya",
+            "Pedro Armend\u00e1riz",
+            "Robert Shaw",
+            "Sean Connery"
         ]
     },
     "A Shot in the Dark (1964)": {
@@ -8714,6 +8737,17 @@ var movieMap = {
             "James Bond",
             "Sean Connery",
             "Spy"
+        ],
+        "cast": [
+            "Bernard Lee",
+            "Burt Kwouk",
+            "Cec Linder",
+            "Desmond Llewelyn",
+            "Gert Fr\u00f6be",
+            "Harold Sakata",
+            "Honor Blackman",
+            "Lois Maxwell",
+            "Sean Connery"
         ]
     },
     "The Curse of the Mummy's Tomb (1964)": {
@@ -8971,6 +9005,17 @@ var movieMap = {
             "James Bond",
             "Sean Connery",
             "Spy"
+        ],
+        "cast": [
+            "Adolfo Celi",
+            "Anthony Dawson",
+            "Bernard Lee",
+            "Claudine Auger",
+            "Desmond Llewelyn",
+            "Lois Maxwell",
+            "Luciana Paluzzi",
+            "Rik Van Nutter",
+            "Sean Connery"
         ]
     },
     "Dracula: Prince of Darkness (1966)": {
@@ -9439,6 +9484,23 @@ var movieMap = {
             "James Bond",
             "Spoof",
             "Spy"
+        ],
+        "cast": [
+            "Burt Kwouk",
+            "Caroline Munro",
+            "Charles Boyer",
+            "David Niven",
+            "David Prowse",
+            "Deborah Kerr",
+            "Geraldine Chaplin",
+            "Jacqueline Bisset",
+            "John Huston",
+            "Orson Welles",
+            "Peter O'Toole",
+            "Peter Sellers",
+            "Ursula Andress",
+            "William Holden",
+            "Woody Allen"
         ]
     },
     "For a Few Dollars More (1967)": {
@@ -9508,6 +9570,21 @@ var movieMap = {
             "James Bond",
             "Sean Connery",
             "Spy"
+        ],
+        "cast": [
+            "Akiko Wakabayashi",
+            "Alexander Knox",
+            "Bernard Lee",
+            "Burt Kwouk",
+            "Charles Gray",
+            "Desmond Llewelyn",
+            "Donald Pleasence",
+            "Karin Dor",
+            "Lois Maxwell",
+            "Mie Hama",
+            "Sean Connery",
+            "Teru Shimada",
+            "Tsai Chin"
         ]
     },
     "To Sir, with Love (1967)": {
@@ -10775,6 +10852,19 @@ var movieMap = {
             "Classics",
             "James Bond",
             "Spy"
+        ],
+        "cast": [
+            "Bernard Lee",
+            "Bessie Love",
+            "Catherine Schell",
+            "Desmond Llewelyn",
+            "Diana Rigg",
+            "Gabriele Ferzetti",
+            "George Lazenby",
+            "Ilse Steppat",
+            "Joanna Lumley",
+            "Lois Maxwell",
+            "Telly Savalas"
         ]
     },
     "The Computer Wore Tennis Shoes (1969)": {
@@ -11583,6 +11673,22 @@ var movieMap = {
             "James Bond",
             "Sean Connery",
             "Spy"
+        ],
+        "cast": [
+            "Bernard Lee",
+            "Bruce Cabot",
+            "Bruce Glover",
+            "Cassandra Peterson",
+            "Charles Gray",
+            "Desmond Llewelyn",
+            "Jill St. John",
+            "Jimmy Dean",
+            "Lana Wood",
+            "Lois Maxwell",
+            "Norman Burton",
+            "Putter Smith",
+            "Sean Connery",
+            "Sid Haig"
         ]
     },
     "A Clockwork Orange (1971)": {

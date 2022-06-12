@@ -216,6 +216,11 @@ var actorMap = {
             "Suicide Squad (2016)"
         ]
     },
+    "Adolfo Celi": {
+        "movies": [
+            "Thunderball (1965)"
+        ]
+    },
     "Adolphe Menjou": {
         "movies": [
             "Morning Glory (1933)",
@@ -307,6 +312,11 @@ var actorMap = {
         "movies": [
             "The Amazing Spider-Man 2 (2014)",
             "I Feel Pretty (2018)"
+        ]
+    },
+    "Akiko Wakabayashi": {
+        "movies": [
+            "You Only Live Twice (1967)"
         ]
     },
     "Akim Tamiroff": {
@@ -672,6 +682,11 @@ var actorMap = {
     "Alexander Gould": {
         "movies": [
             "Finding Nemo (2003)"
+        ]
+    },
+    "Alexander Knox": {
+        "movies": [
+            "You Only Live Twice (1967)"
         ]
     },
     "Alexander Ludwig": {
@@ -1698,6 +1713,13 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Anthony Dawson": {
+        "movies": [
+            "Dr. No (1963)",
+            "From Russia with Love (1964)",
+            "Thunderball (1965)"
+        ]
+    },
     "Anthony Edwards": {
         "movies": [
             "Top Gun (1986)",
@@ -2505,6 +2527,17 @@ var actorMap = {
             "Valkyrie (2008)"
         ]
     },
+    "Bernard Lee": {
+        "movies": [
+            "Dr. No (1963)",
+            "From Russia with Love (1964)",
+            "Goldfinger (1964)",
+            "Thunderball (1965)",
+            "You Only Live Twice (1967)",
+            "On Her Majesty's Secret Service (1969)",
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Bernie Mac": {
         "movies": [
             "Ocean's Eleven (2001)",
@@ -2512,6 +2545,11 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
             "Transformers (2007)"
+        ]
+    },
+    "Bessie Love": {
+        "movies": [
+            "On Her Majesty's Secret Service (1969)"
         ]
     },
     "Beth Grant": {
@@ -3497,6 +3535,11 @@ var actorMap = {
             "The Lego Movie 2: The Second Part (2019)"
         ]
     },
+    "Bruce Cabot": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Bruce Campbell": {
         "movies": [
             "Spider-Man (2002)",
@@ -3539,6 +3582,7 @@ var actorMap = {
     },
     "Bruce Glover": {
         "movies": [
+            "Diamonds Are Forever (1971)",
             "Ghost World (2001)"
         ]
     },
@@ -3665,6 +3709,13 @@ var actorMap = {
             "Austin Powers: International Man of Mystery (1997)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "Austin Powers in Goldmember (2002)"
+        ]
+    },
+    "Burt Kwouk": {
+        "movies": [
+            "Goldfinger (1964)",
+            "Casino Royale (1967)",
+            "You Only Live Twice (1967)"
         ]
     },
     "Burt Reynolds": {
@@ -3917,6 +3968,11 @@ var actorMap = {
             "The Princess Diaries 2: Royal Engagement (2004)"
         ]
     },
+    "Caroline Munro": {
+        "movies": [
+            "Casino Royale (1967)"
+        ]
+    },
     "Carrie Coon": {
         "movies": [
             "Avengers: Infinity War (2018)",
@@ -4030,6 +4086,11 @@ var actorMap = {
     "Casper Van Dien": {
         "movies": [
             "Sleepy Hollow (1999)"
+        ]
+    },
+    "Cassandra Peterson": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
         ]
     },
     "Catalina Sandino Moreno": {
@@ -4147,6 +4208,11 @@ var actorMap = {
             "Orange County (2002)"
         ]
     },
+    "Catherine Schell": {
+        "movies": [
+            "On Her Majesty's Secret Service (1969)"
+        ]
+    },
     "Catherine Zeta-Jones": {
         "suppNoms": [
             {
@@ -4174,6 +4240,11 @@ var actorMap = {
     "Cayden Boyd": {
         "movies": [
             "X-Men: The Last Stand (2006)"
+        ]
+    },
+    "Cec Linder": {
+        "movies": [
+            "Goldfinger (1964)"
         ]
     },
     "Cecil Kellaway": {
@@ -4263,6 +4334,11 @@ var actorMap = {
             "Space Jam (1996)"
         ]
     },
+    "Charles Boyer": {
+        "movies": [
+            "Casino Royale (1967)"
+        ]
+    },
     "Charles Dance": {
         "movies": [
             "Alien 3 (1992)",
@@ -4289,6 +4365,8 @@ var actorMap = {
     },
     "Charles Gray": {
         "movies": [
+            "You Only Live Twice (1967)",
+            "Diamonds Are Forever (1971)",
             "The Rocky Horror Picture Show (1975)"
         ]
     },
@@ -5142,6 +5220,11 @@ var actorMap = {
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
+    "Claudine Auger": {
+        "movies": [
+            "Thunderball (1965)"
+        ]
+    },
     "Clea DuVall": {
         "movies": [
             "Girl, Interrupted (1999)"
@@ -5879,6 +5962,11 @@ var actorMap = {
             "Everything Everywhere All at Once (2022)"
         ]
     },
+    "Daniela Bianchi": {
+        "movies": [
+            "From Russia with Love (1964)"
+        ]
+    },
     "Daniela Melchior": {
         "movies": [
             "The Suicide Squad (2021)"
@@ -6237,7 +6325,8 @@ var actorMap = {
     },
     "David Niven": {
         "movies": [
-            "The Bishop's Wife (1947)"
+            "The Bishop's Wife (1947)",
+            "Casino Royale (1967)"
         ]
     },
     "David Ogden Stiers": {
@@ -6277,6 +6366,7 @@ var actorMap = {
     },
     "David Prowse": {
         "movies": [
+            "Casino Royale (1967)",
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
             "Return of the Jedi (1983)"
@@ -6422,7 +6512,8 @@ var actorMap = {
     },
     "Deborah Kerr": {
         "movies": [
-            "An Affair to Remember (1957)"
+            "An Affair to Remember (1957)",
+            "Casino Royale (1967)"
         ]
     },
     "Debra Jo Rupp": {
@@ -6662,6 +6753,16 @@ var actorMap = {
             "August: Osage County (2013)"
         ]
     },
+    "Desmond Llewelyn": {
+        "movies": [
+            "From Russia with Love (1964)",
+            "Goldfinger (1964)",
+            "Thunderball (1965)",
+            "You Only Live Twice (1967)",
+            "On Her Majesty's Secret Service (1969)",
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Dev Patel": {
         "suppNoms": [
             {
@@ -6694,6 +6795,11 @@ var actorMap = {
                 "movie": "Round Midnight",
                 "year": "1986"
             }
+        ]
+    },
+    "Diana Rigg": {
+        "movies": [
+            "On Her Majesty's Secret Service (1969)"
         ]
     },
     "Diana Silvers": {
@@ -7058,6 +7164,7 @@ var actorMap = {
     },
     "Donald Pleasence": {
         "movies": [
+            "You Only Live Twice (1967)",
             "Halloween (1978)"
         ]
     },
@@ -8348,6 +8455,12 @@ var actorMap = {
             "Holy Man (1998)"
         ]
     },
+    "Eunice Gayson": {
+        "movies": [
+            "Dr. No (1963)",
+            "From Russia with Love (1964)"
+        ]
+    },
     "Eva Green": {
         "movies": [
             "Kingdom of Heaven (2005)",
@@ -8947,6 +9060,11 @@ var actorMap = {
             "The Spirit (2008)"
         ]
     },
+    "Gabriele Ferzetti": {
+        "movies": [
+            "On Her Majesty's Secret Service (1969)"
+        ]
+    },
     "Gabriella Wilde": {
         "movies": [
             "The Three Musketeers (2011)",
@@ -9392,6 +9510,11 @@ var actorMap = {
             "Charade (1963)"
         ]
     },
+    "George Lazenby": {
+        "movies": [
+            "On Her Majesty's Secret Service (1969)"
+        ]
+    },
     "George Lopez": {
         "movies": [
             "Valentine's Day (2010)"
@@ -9448,6 +9571,7 @@ var actorMap = {
     },
     "Geraldine Chaplin": {
         "movies": [
+            "Casino Royale (1967)",
             "Chaplin (1992)",
             "The Impossible (2012)",
             "A Monster Calls (2016)",
@@ -9471,6 +9595,11 @@ var actorMap = {
     "Gerry Lopez": {
         "movies": [
             "Conan the Barbarian (1982)"
+        ]
+    },
+    "Gert Fr\u00f6be": {
+        "movies": [
+            "Goldfinger (1964)"
         ]
     },
     "Gia Carides": {
@@ -10010,6 +10139,11 @@ var actorMap = {
             "Knocked Up (2007)"
         ]
     },
+    "Harold Sakata": {
+        "movies": [
+            "Goldfinger (1964)"
+        ]
+    },
     "Harris Dickinson": {
         "movies": [
             "The King's Man (2021)"
@@ -10485,6 +10619,11 @@ var actorMap = {
             "Incredibles 2 (2018)"
         ]
     },
+    "Honor Blackman": {
+        "movies": [
+            "Goldfinger (1964)"
+        ]
+    },
     "Hope Davis": {
         "movies": [
             "Hearts in Atlantis (2001)",
@@ -10749,6 +10888,11 @@ var actorMap = {
     "Iliza Shlesinger": {
         "movies": [
             "Instant Family (2018)"
+        ]
+    },
+    "Ilse Steppat": {
+        "movies": [
+            "On Her Majesty's Secret Service (1969)"
         ]
     },
     "Imelda Staunton": {
@@ -11150,6 +11294,11 @@ var actorMap = {
             "Hamlet (1996)"
         ]
     },
+    "Jack Lord": {
+        "movies": [
+            "Dr. No (1963)"
+        ]
+    },
     "Jack McBrayer": {
         "movies": [
             "Wreck-It Ralph (2012)",
@@ -11380,6 +11529,11 @@ var actorMap = {
             "The Book of Henry (2017)",
             "The Predator (2018)",
             "Doctor Sleep (2019)"
+        ]
+    },
+    "Jacqueline Bisset": {
+        "movies": [
+            "Casino Royale (1967)"
         ]
     },
     "Jacqueline Obradors": {
@@ -13151,6 +13305,11 @@ var actorMap = {
             "Bridesmaids (2011)"
         ]
     },
+    "Jill St. John": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Jillian Bell": {
         "movies": [
             "Bridesmaids (2011)"
@@ -13280,6 +13439,11 @@ var actorMap = {
     "Jimmy Buffett": {
         "movies": [
             "Hook (1991)"
+        ]
+    },
+    "Jimmy Dean": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
         ]
     },
     "Jimmy Fallon": {
@@ -13413,6 +13577,7 @@ var actorMap = {
     },
     "Joanna Lumley": {
         "movies": [
+            "On Her Majesty's Secret Service (1969)",
             "Corpse Bride (2005)"
         ]
     },
@@ -13922,6 +14087,7 @@ var actorMap = {
     },
     "John Huston": {
         "movies": [
+            "Casino Royale (1967)",
             "Battle for the Planet of the Apes (1973)"
         ]
     },
@@ -14563,6 +14729,11 @@ var actorMap = {
     "Joseph Sweeney": {
         "movies": [
             "12 Angry Men (1957)"
+        ]
+    },
+    "Joseph Wiseman": {
+        "movies": [
+            "Dr. No (1963)"
         ]
     },
     "Josephine Hull": {
@@ -15314,6 +15485,11 @@ var actorMap = {
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)"
+        ]
+    },
+    "Karin Dor": {
+        "movies": [
+            "You Only Live Twice (1967)"
         ]
     },
     "Karl Urban": {
@@ -16591,6 +16767,11 @@ var actorMap = {
             "X-Men: Apocalypse (2016)"
         ]
     },
+    "Lana Wood": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Lance Bass": {
         "movies": [
             "Tropic Thunder (2008)"
@@ -17473,6 +17654,17 @@ var actorMap = {
             "The Bling Ring (2013)"
         ]
     },
+    "Lois Maxwell": {
+        "movies": [
+            "Dr. No (1963)",
+            "From Russia with Love (1964)",
+            "Goldfinger (1964)",
+            "Thunderball (1965)",
+            "You Only Live Twice (1967)",
+            "On Her Majesty's Secret Service (1969)",
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Lonette McKee": {
         "movies": [
             "Jungle Fever (1991)"
@@ -17508,6 +17700,11 @@ var actorMap = {
                 "movie": "Goodfellas",
                 "year": "1990"
             }
+        ]
+    },
+    "Lotte Lenya": {
+        "movies": [
+            "From Russia with Love (1964)"
         ]
     },
     "Lou Ferrigno": {
@@ -17579,6 +17776,11 @@ var actorMap = {
             "X-Men: First Class (2011)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)"
+        ]
+    },
+    "Luciana Paluzzi": {
+        "movies": [
+            "Thunderball (1965)"
         ]
     },
     "Lucy Boynton": {
@@ -20149,6 +20351,11 @@ var actorMap = {
             "Marriage Story (2019)"
         ]
     },
+    "Mie Hama": {
+        "movies": [
+            "You Only Live Twice (1967)"
+        ]
+    },
     "Miguel Ferrer": {
         "movies": [
             "Traffic (2000)",
@@ -21245,6 +21452,11 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "Norman Burton": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
+        ]
+    },
     "Norman Reedus": {
         "movies": [
             "Blade II (2002)",
@@ -21527,6 +21739,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Casino Royale (1967)",
             "The Transformers: The Movie (1986)"
         ]
     },
@@ -22078,6 +22291,11 @@ var actorMap = {
             "The Spirit (2008)"
         ]
     },
+    "Pedro Armend\u00e1riz": {
+        "movies": [
+            "From Russia with Love (1964)"
+        ]
+    },
     "Pedro Pascal": {
         "movies": [
             "Kingsman: The Golden Circle (2017)",
@@ -22211,6 +22429,11 @@ var actorMap = {
     "Peter Boyle": {
         "movies": [
             "Monster's Ball (2001)"
+        ]
+    },
+    "Peter Burton": {
+        "movies": [
+            "Dr. No (1963)"
         ]
     },
     "Peter Capaldi": {
@@ -22362,6 +22585,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Casino Royale (1967)",
             "The Lion in Winter (1968)",
             "Supergirl (1984)",
             "Troy (2004)"
@@ -22385,6 +22609,11 @@ var actorMap = {
             "Green Lantern (2011)",
             "Blue Jasmine (2013)",
             "The Batman (2022)"
+        ]
+    },
+    "Peter Sellers": {
+        "movies": [
+            "Casino Royale (1967)"
         ]
     },
     "Peter Serafinowicz": {
@@ -22586,6 +22815,11 @@ var actorMap = {
     "Priyanka Chopra Jonas": {
         "movies": [
             "The Matrix Resurrections (2021)"
+        ]
+    },
+    "Putter Smith": {
+        "movies": [
+            "Diamonds Are Forever (1971)"
         ]
     },
     "Qin Shaobo": {
@@ -23482,6 +23716,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Rik Van Nutter": {
+        "movies": [
+            "Thunderball (1965)"
+        ]
+    },
     "Riki Lindhome": {
         "movies": [
             "The Lego Batman Movie (2017)",
@@ -23875,6 +24114,11 @@ var actorMap = {
         "movies": [
             "The Virgin Suicides (2000)",
             "The Princess Diaries (2001)"
+        ]
+    },
+    "Robert Shaw": {
+        "movies": [
+            "From Russia with Love (1964)"
         ]
     },
     "Robert Stack": {
@@ -25105,6 +25349,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Dr. No (1963)",
+            "From Russia with Love (1964)",
+            "Goldfinger (1964)",
+            "Thunderball (1965)",
+            "You Only Live Twice (1967)",
+            "Diamonds Are Forever (1971)",
             "Indiana Jones and the Last Crusade (1989)",
             "Robin Hood: Prince of Thieves (1991)",
             "The League of Extraordinary Gentlemen (2003)"
@@ -25497,6 +25747,7 @@ var actorMap = {
     },
     "Sid Haig": {
         "movies": [
+            "Diamonds Are Forever (1971)",
             "Bone Tomahawk (2015)"
         ]
     },
@@ -26570,7 +26821,8 @@ var actorMap = {
     },
     "Telly Savalas": {
         "movies": [
-            "Cape Fear (1962)"
+            "Cape Fear (1962)",
+            "On Her Majesty's Secret Service (1969)"
         ]
     },
     "Temuera Morrison": {
@@ -26667,6 +26919,11 @@ var actorMap = {
             "Tombstone (1993)",
             "Primal Fear (1996)",
             "Ghosts of Mississippi (1996)"
+        ]
+    },
+    "Teru Shimada": {
+        "movies": [
+            "You Only Live Twice (1967)"
         ]
     },
     "Tess Harper": {
@@ -27686,6 +27943,7 @@ var actorMap = {
     },
     "Tsai Chin": {
         "movies": [
+            "You Only Live Twice (1967)",
             "The Joy Luck Club (1993)",
             "Now You See Me 2 (2016)",
             "Shang-Chi and the Legend of the Ten Rings (2021)"
@@ -27794,6 +28052,12 @@ var actorMap = {
             "Batman & Robin (1997)",
             "The Producers (2005)",
             "Movie 43 (2013)"
+        ]
+    },
+    "Ursula Andress": {
+        "movies": [
+            "Dr. No (1963)",
+            "Casino Royale (1967)"
         ]
     },
     "Usher": {
@@ -28608,6 +28872,7 @@ var actorMap = {
     },
     "William Holden": {
         "movies": [
+            "Casino Royale (1967)",
             "Network (1976)"
         ]
     },
@@ -28778,6 +29043,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Casino Royale (1967)",
             "Annie Hall (1977)"
         ]
     },
