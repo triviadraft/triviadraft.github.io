@@ -188,7 +188,10 @@ var actorMap = {
     "Adam Sandler": {
         "movies": [
             "Mixed Nuts (1994)",
-            "The Waterboy (1998)"
+            "The Wedding Singer (1998)",
+            "The Waterboy (1998)",
+            "Punch-Drunk Love (2002)",
+            "Just Go with It (2011)"
         ]
     },
     "Adam Scott": {
@@ -574,7 +577,8 @@ var actorMap = {
         "movies": [
             "Jack Reacher: Never Go Back (2016)",
             "Hidden Figures (2016)",
-            "What Men Want (2019)"
+            "What Men Want (2019)",
+            "The Invisible Man (2020)"
         ]
     },
     "Alec Baldwin": {
@@ -707,6 +711,11 @@ var actorMap = {
             "Dark Phoenix (2019)"
         ]
     },
+    "Alexis Arquette": {
+        "movies": [
+            "The Wedding Singer (1998)"
+        ]
+    },
     "Alexis Bledel": {
         "movies": [
             "Sin City (2005)"
@@ -730,6 +739,7 @@ var actorMap = {
         "movies": [
             "Primal Fear (1996)",
             "Star Trek: First Contact (1996)",
+            "12 Years a Slave (2013)",
             "Captain America: Civil War (2016)",
             "The Lion King (2019)"
         ]
@@ -860,6 +870,7 @@ var actorMap = {
     },
     "Alison Pill": {
         "movies": [
+            "Milk (2008)",
             "Scott Pilgrim vs. the World (2010)"
         ]
     },
@@ -871,7 +882,9 @@ var actorMap = {
     },
     "Allen Covert": {
         "movies": [
-            "The Waterboy (1998)"
+            "The Wedding Singer (1998)",
+            "The Waterboy (1998)",
+            "Just Go with It (2011)"
         ]
     },
     "Allison Janney": {
@@ -1210,6 +1223,11 @@ var actorMap = {
         "movies": [
             "Toy Story 2 (1999)",
             "Finding Nemo (2003)"
+        ]
+    },
+    "Andr\u00e9 3000": {
+        "movies": [
+            "Four Brothers (2005)"
         ]
     },
     "Andr\u00e9 the Giant": {
@@ -2194,6 +2212,11 @@ var actorMap = {
             "Mission: Impossible III (2006)"
         ]
     },
+    "Bailee Madison": {
+        "movies": [
+            "Just Go with It (2011)"
+        ]
+    },
     "Bam Margera": {
         "movies": [
             "Charlie's Angels: Full Throttle (2003)"
@@ -2281,6 +2304,7 @@ var actorMap = {
         "movies": [
             "The Terminal (2004)",
             "Collateral (2004)",
+            "Four Brothers (2005)",
             "Carrie (2013)"
         ]
     },
@@ -2459,6 +2483,7 @@ var actorMap = {
             "The Other Boleyn Girl (2008)",
             "The Hobbit: An Unexpected Journey (2012)",
             "Star Trek Into Darkness (2013)",
+            "12 Years a Slave (2013)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "August: Osage County (2013)",
             "The Imitation Game (2014)",
@@ -2685,6 +2710,7 @@ var actorMap = {
     },
     "Bill Camp": {
         "movies": [
+            "12 Years a Slave (2013)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "Midnight Special (2016)",
             "The Kitchen (2019)",
@@ -2892,6 +2918,7 @@ var actorMap = {
     },
     "Billy Idol": {
         "movies": [
+            "The Wedding Singer (1998)",
             "Heavy Metal 2000 (2000)"
         ]
     },
@@ -3162,6 +3189,7 @@ var actorMap = {
             "The Curious Case of Benjamin Button (2008)",
             "The Counselor (2013)",
             "The Counselor (2013)",
+            "12 Years a Slave (2013)",
             "Deadpool 2 (2018)",
             "The Lost City (2022)"
         ]
@@ -3406,6 +3434,7 @@ var actorMap = {
     },
     "Brian Posehn": {
         "movies": [
+            "The Wedding Singer (1998)",
             "Fantastic Four: Rise of the Silver Surfer (2007)"
         ]
     },
@@ -3538,6 +3567,11 @@ var actorMap = {
     "Brooke Shields": {
         "movies": [
             "Endless Love (1981)"
+        ]
+    },
+    "Brooklyn Decker": {
+        "movies": [
+            "Just Go with It (2011)"
         ]
     },
     "Brooklynn Prince": {
@@ -4566,6 +4600,7 @@ var actorMap = {
             "National Lampoon's Vacation (1983)",
             "Spies Like Us (1985)",
             "Three Amigos (1986)",
+            "Memoirs of an Invisible Man (1992)",
             "Last Action Hero (1993)",
             "Orange County (2002)"
         ]
@@ -4595,10 +4630,12 @@ var actorMap = {
         "movies": [
             "Amistad (1997)",
             "Love Actually (2003)",
+            "Four Brothers (2005)",
             "Inside Man (2006)",
             "Talk to Me (2007)",
             "American Gangster (2007)",
             "2012 (2009)",
+            "12 Years a Slave (2013)",
             "Doctor Strange (2016)",
             "The Lion King (2019)",
             "The Old Guard (2020)"
@@ -4941,6 +4978,7 @@ var actorMap = {
     },
     "Christine Taylor": {
         "movies": [
+            "The Wedding Singer (1998)",
             "Tropic Thunder (2008)"
         ]
     },
@@ -5217,6 +5255,7 @@ var actorMap = {
     },
     "Claude Rains": {
         "movies": [
+            "The Invisible Man (1933)",
             "Notorious (1946)"
         ]
     },
@@ -5239,7 +5278,8 @@ var actorMap = {
     },
     "Clea DuVall": {
         "movies": [
-            "Girl, Interrupted (1999)"
+            "Girl, Interrupted (1999)",
+            "Ghosts of Mars (2001)"
         ]
     },
     "Cliff Curtis": {
@@ -6106,6 +6146,11 @@ var actorMap = {
             "The Perfect Score (2004)"
         ]
     },
+    "Daryl Hannah": {
+        "movies": [
+            "Memoirs of an Invisible Man (1992)"
+        ]
+    },
     "Daryl Mitchell": {
         "movies": [
             "Galaxy Quest (1999)",
@@ -6157,6 +6202,7 @@ var actorMap = {
     },
     "Dave Franco": {
         "movies": [
+            "Milk (2008)",
             "Now You See Me (2013)",
             "Now You See Me 2 (2016)"
         ]
@@ -6627,7 +6673,8 @@ var actorMap = {
     "Denis O'Hare": {
         "movies": [
             "Michael Clayton (2007)",
-            "Changeling (2008)"
+            "Changeling (2008)",
+            "Milk (2008)"
         ]
     },
     "Denise Crosby": {
@@ -6972,6 +7019,7 @@ var actorMap = {
     "Diego Luna": {
         "movies": [
             "The Terminal (2004)",
+            "Milk (2008)",
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
@@ -7290,6 +7338,7 @@ var actorMap = {
         "movies": [
             "Batman Forever (1995)",
             "Scream (1996)",
+            "The Wedding Singer (1998)",
             "Charlie's Angels (2000)",
             "Charlie's Angels: Full Throttle (2003)",
             "Fever Pitch (2005)",
@@ -7357,6 +7406,11 @@ var actorMap = {
             "Kung Fu Panda 3 (2016)"
         ]
     },
+    "Dustin Lance Black": {
+        "movies": [
+            "Milk (2008)"
+        ]
+    },
     "Dwayne Johnson": {
         "movies": [
             "The Mummy Returns (2001)",
@@ -7372,6 +7426,16 @@ var actorMap = {
             "Jungle Cruise (2021)",
             "Free Guy (2021)",
             "Red Notice (2021)"
+        ]
+    },
+    "Dwight Frye": {
+        "movies": [
+            "The Invisible Man (1933)"
+        ]
+    },
+    "Dwight Henry": {
+        "movies": [
+            "12 Years a Slave (2013)"
         ]
     },
     "Dwight Yoakam": {
@@ -7763,7 +7827,8 @@ var actorMap = {
         "movies": [
             "Girl, Interrupted (1999)",
             "Us (2019)",
-            "The Kitchen (2019)"
+            "The Kitchen (2019)",
+            "The Invisible Man (2020)"
         ]
     },
     "Elisabeth Shue": {
@@ -7921,6 +7986,8 @@ var actorMap = {
     },
     "Ellen Albertini Dow": {
         "movies": [
+            "Memoirs of an Invisible Man (1992)",
+            "The Wedding Singer (1998)",
             "Wedding Crashers (2005)"
         ]
     },
@@ -8072,6 +8139,11 @@ var actorMap = {
             "Last Holiday (2006)"
         ]
     },
+    "Emile Hirsch": {
+        "movies": [
+            "Milk (2008)"
+        ]
+    },
     "Emilia Clarke": {
         "movies": [
             "Terminator Genisys (2015)",
@@ -8145,6 +8217,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Punch-Drunk Love (2002)",
             "Corpse Bride (2005)",
             "The Theory of Everything (2014)",
             "Kingsman: The Golden Circle (2017)"
@@ -8701,6 +8774,11 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)"
         ]
     },
+    "Fionnula Flanagan": {
+        "movies": [
+            "Four Brothers (2005)"
+        ]
+    },
     "Flea": {
         "movies": [
             "Back to the Future Part II (1989)",
@@ -9138,12 +9216,14 @@ var actorMap = {
     "Garret Dillahunt": {
         "movies": [
             "No Country for Old Men (2007)",
+            "12 Years a Slave (2013)",
             "Widows (2018)"
         ]
     },
     "Garrett Hedlund": {
         "movies": [
-            "Troy (2004)"
+            "Troy (2004)",
+            "Four Brothers (2005)"
         ]
     },
     "Garrett Morris": {
@@ -9803,6 +9883,9 @@ var actorMap = {
                 "movie": "Titanic",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "The Invisible Man (1933)"
         ]
     },
     "Glynis Johns": {
@@ -9934,6 +10017,11 @@ var actorMap = {
     "Griffin Dunne": {
         "movies": [
             "Ocean's 8 (2018)"
+        ]
+    },
+    "Griffin Gluck": {
+        "movies": [
+            "Just Go with It (2011)"
         ]
     },
     "Gugu Mbatha-Raw": {
@@ -10170,6 +10258,11 @@ var actorMap = {
             "Goldfinger (1964)"
         ]
     },
+    "Harriet Dyer": {
+        "movies": [
+            "The Invisible Man (2020)"
+        ]
+    },
     "Harris Dickinson": {
         "movies": [
             "The King's Man (2021)"
@@ -10367,6 +10460,11 @@ var actorMap = {
             "Ocean's 8 (2018)"
         ]
     },
+    "Heidi Montag": {
+        "movies": [
+            "Just Go with It (2011)"
+        ]
+    },
     "Helen Hunt": {
         "leadNoms": [
             {
@@ -10538,6 +10636,11 @@ var actorMap = {
         "movies": [
             "Gerald's Game (2017)",
             "Doctor Sleep (2019)"
+        ]
+    },
+    "Henry Travers": {
+        "movies": [
+            "The Invisible Man (1933)"
         ]
     },
     "Henry Winkler": {
@@ -10863,7 +10966,8 @@ var actorMap = {
     },
     "Ice Cube": {
         "movies": [
-            "Boyz n the Hood (1991)"
+            "Boyz n the Hood (1991)",
+            "Ghosts of Mars (2001)"
         ]
     },
     "Idina Menzel": {
@@ -11839,6 +11943,7 @@ var actorMap = {
             "The Holiday (2006)",
             "Spider-Man 3 (2007)",
             "Knocked Up (2007)",
+            "Milk (2008)",
             "Date Night (2010)",
             "The Green Hornet (2011)",
             "Rise of the Planet of the Apes (2011)",
@@ -12464,6 +12569,7 @@ var actorMap = {
     },
     "Jason Statham": {
         "movies": [
+            "Ghosts of Mars (2001)",
             "Collateral (2004)",
             "Cellular (2004)",
             "Fast & Furious 6 (2013)",
@@ -12803,6 +12909,7 @@ var actorMap = {
             "Leprechaun (1993)",
             "Rumor Has It (2005)",
             "He's Just Not That into You (2009)",
+            "Just Go with It (2011)",
             "Mother's Day (2016)"
         ]
     },
@@ -13956,6 +14063,11 @@ var actorMap = {
             "Spaceballs (1987)"
         ]
     },
+    "John Carpenter": {
+        "movies": [
+            "Memoirs of an Invisible Man (1992)"
+        ]
+    },
     "John Carroll Lynch": {
         "movies": [
             "Gothika (2003)",
@@ -14551,6 +14663,7 @@ var actorMap = {
             "Big (1988)",
             "A League of Their Own (1992)",
             "North (1994)",
+            "The Wedding Singer (1998)",
             "The Producers (2005)",
             "Mother's Day (2016)"
         ]
@@ -14802,6 +14915,7 @@ var actorMap = {
         "movies": [
             "American Gangster (2007)",
             "No Country for Old Men (2007)",
+            "Milk (2008)",
             "Jonah Hex (2010)",
             "Men in Black 3 (2012)",
             "Guardians of the Galaxy (2014)",
@@ -15957,6 +16071,7 @@ var actorMap = {
     "Keegan-Michael Key": {
         "movies": [
             "Due Date (2010)",
+            "Just Go with It (2011)",
             "The Predator (2018)",
             "The Lion King (2019)"
         ]
@@ -16366,6 +16481,12 @@ var actorMap = {
             "The Punisher (2004)",
             "Rock of Ages (2012)",
             "John Wick (2014)"
+        ]
+    },
+    "Kevin Nealon": {
+        "movies": [
+            "The Wedding Singer (1998)",
+            "Just Go with It (2011)"
         ]
     },
     "Kevin Pollak": {
@@ -17901,7 +18022,8 @@ var actorMap = {
     },
     "Luis Guzm\u00e1n": {
         "movies": [
-            "Traffic (2000)"
+            "Traffic (2000)",
+            "Punch-Drunk Love (2002)"
         ]
     },
     "Lukas Haas": {
@@ -17976,6 +18098,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "12 Years a Slave (2013)",
             "Star Wars: The Force Awakens (2015)",
             "The Jungle Book (2016)",
             "Star Wars: The Last Jedi (2017)",
@@ -18034,6 +18157,7 @@ var actorMap = {
     },
     "Lyriq Bent": {
         "movies": [
+            "Four Brothers (2005)",
             "Acrimony (2018)"
         ]
     },
@@ -18701,6 +18825,7 @@ var actorMap = {
         ],
         "movies": [
             "Planet of the Apes (2001)",
+            "Four Brothers (2005)",
             "Date Night (2010)",
             "Ted (2012)",
             "2 Guns (2013)",
@@ -19189,6 +19314,11 @@ var actorMap = {
     "Matthew Garber": {
         "movies": [
             "Mary Poppins (1964)"
+        ]
+    },
+    "Matthew Glave": {
+        "movies": [
+            "The Wedding Singer (1998)"
         ]
     },
     "Matthew Goode": {
@@ -19892,6 +20022,11 @@ var actorMap = {
             "Surrogates (2009)"
         ]
     },
+    "Michael Dorman": {
+        "movies": [
+            "The Invisible Man (2020)"
+        ]
+    },
     "Michael Dorn": {
         "movies": [
             "Star Trek VI: The Undiscovered Country (1991)",
@@ -19957,6 +20092,7 @@ var actorMap = {
             "Prometheus (2012)",
             "The Counselor (2013)",
             "The Counselor (2013)",
+            "12 Years a Slave (2013)",
             "X-Men: Days of Future Past (2014)",
             "X-Men: Apocalypse (2016)",
             "Alien: Covenant (2017)",
@@ -20056,6 +20192,7 @@ var actorMap = {
     "Michael K. Williams": {
         "movies": [
             "The Incredible Hulk (2008)",
+            "12 Years a Slave (2013)",
             "RoboCop (2014)",
             "Ghostbusters (2016)"
         ]
@@ -20115,6 +20252,7 @@ var actorMap = {
     "Michael McKean": {
         "movies": [
             "Jumpin' Jack Flash (1986)",
+            "Memoirs of an Invisible Man (1992)",
             "The Producers (2005)",
             "The Words (2012)"
         ]
@@ -20598,6 +20736,7 @@ var actorMap = {
     },
     "Minka Kelly": {
         "movies": [
+            "Just Go with It (2011)",
             "Lee Daniels' The Butler (2013)"
         ]
     },
@@ -21040,6 +21179,11 @@ var actorMap = {
             "Solaris (2002)"
         ]
     },
+    "Natasha Henstridge": {
+        "movies": [
+            "Ghosts of Mars (2001)"
+        ]
+    },
     "Natasha Liu Bordizzo": {
         "movies": [
             "The Greatest Showman (2017)"
@@ -21299,7 +21443,8 @@ var actorMap = {
     "Nick Swardson": {
         "movies": [
             "Malibu's Most Wanted (2003)",
-            "Blades of Glory (2007)"
+            "Blades of Glory (2007)",
+            "Just Go with It (2011)"
         ]
     },
     "Nicola Peltz": {
@@ -21376,6 +21521,7 @@ var actorMap = {
             "Cold Mountain (2003)",
             "Bewitched (2005)",
             "Nine (2009)",
+            "Just Go with It (2011)",
             "Aquaman (2018)"
         ]
     },
@@ -21615,7 +21761,8 @@ var actorMap = {
     },
     "Oliver Jackson-Cohen": {
         "movies": [
-            "What's Your Number? (2011)"
+            "What's Your Number? (2011)",
+            "The Invisible Man (2020)"
         ]
     },
     "Oliver Phelps": {
@@ -21896,6 +22043,11 @@ var actorMap = {
             "Harry Potter and the Prisoner of Azkaban (2004)"
         ]
     },
+    "Pam Grier": {
+        "movies": [
+            "Ghosts of Mars (2001)"
+        ]
+    },
     "Pamela Adlon": {
         "movies": [
             "Bumblebee (2018)"
@@ -22095,6 +22247,7 @@ var actorMap = {
             "Knight and Day (2010)",
             "Cowboys & Aliens (2011)",
             "Prisoners (2013)",
+            "12 Years a Slave (2013)",
             "Swiss Army Man (2016)",
             "The Batman (2022)"
         ]
@@ -22131,6 +22284,7 @@ var actorMap = {
             "Lady in the Water (2006)",
             "Fred Claus (2007)",
             "Rock of Ages (2012)",
+            "12 Years a Slave (2013)",
             "Saving Mr. Banks (2013)",
             "The Amazing Spider-Man 2 (2014)",
             "Jungle Cruise (2021)"
@@ -22807,6 +22961,7 @@ var actorMap = {
         "movies": [
             "Magnolia (1999)",
             "Almost Famous (2000)",
+            "Punch-Drunk Love (2002)",
             "Cold Mountain (2003)",
             "Mission: Impossible III (2006)",
             "Doubt (2008)",
@@ -22960,6 +23115,9 @@ var actorMap = {
                 "movie": "Beasts of the Southern Wild",
                 "year": "2012"
             }
+        ],
+        "movies": [
+            "12 Years a Slave (2013)"
         ]
     },
     "R. Lee Ermey": {
@@ -22994,6 +23152,7 @@ var actorMap = {
     },
     "Rachel Dratch": {
         "movies": [
+            "Just Go with It (2011)",
             "Little (2019)",
             "Wine Country (2019)"
         ]
@@ -23979,6 +24138,11 @@ var actorMap = {
             "Mary Poppins (1964)"
         ]
     },
+    "Robert Carradine": {
+        "movies": [
+            "Ghosts of Mars (2001)"
+        ]
+    },
     "Robert Davi": {
         "movies": [
             "Die Hard (1988)",
@@ -24219,6 +24383,12 @@ var actorMap = {
     "Robert Shaw": {
         "movies": [
             "From Russia with Love (1964)"
+        ]
+    },
+    "Robert Smigel": {
+        "movies": [
+            "The Wedding Singer (1998)",
+            "Punch-Drunk Love (2002)"
         ]
     },
     "Robert Stack": {
@@ -24478,6 +24648,7 @@ var actorMap = {
     },
     "Rosalind Chao": {
         "movies": [
+            "Memoirs of an Invisible Man (1992)",
             "The Joy Luck Club (1993)",
             "North (1994)",
             "I Am Sam (2001)",
@@ -24939,6 +25110,7 @@ var actorMap = {
     },
     "Sam Anderson": {
         "movies": [
+            "Memoirs of an Invisible Man (1992)",
             "Forrest Gump (1994)"
         ]
     },
@@ -24995,6 +25167,7 @@ var actorMap = {
     "Sam Neill": {
         "movies": [
             "Dead Calm (1989)",
+            "Memoirs of an Invisible Man (1992)",
             "Jurassic Park (1993)",
             "Jurassic Park III (2001)",
             "Wimbledon (2004)",
@@ -25272,6 +25445,7 @@ var actorMap = {
             "The Spirit (2008)",
             "Martha Marcy May Marlene (2011)",
             "New Year's Eve (2011)",
+            "12 Years a Slave (2013)",
             "Carol (2015)",
             "Ocean's 8 (2018)",
             "Glass (2019)"
@@ -25375,6 +25549,7 @@ var actorMap = {
     },
     "Scoot McNairy": {
         "movies": [
+            "12 Years a Slave (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "A Quiet Place Part II (2021)"
         ]
@@ -25537,7 +25712,8 @@ var actorMap = {
             "Taps (1981)",
             "The Game (1997)",
             "I Am Sam (2001)",
-            "Tropic Thunder (2008)"
+            "Tropic Thunder (2008)",
+            "Milk (2008)"
         ]
     },
     "Sean Young": {
@@ -26073,6 +26249,7 @@ var actorMap = {
     },
     "Sof\u00eda Vergara": {
         "movies": [
+            "Four Brothers (2005)",
             "New Year's Eve (2011)",
             "Chef (2014)"
         ]
@@ -26437,6 +26614,7 @@ var actorMap = {
     "Stephen Tobolowsky": {
         "movies": [
             "Mississippi Burning (1988)",
+            "Memoirs of an Invisible Man (1992)",
             "Groundhog Day (1993)",
             "Robots (2005)",
             "Failure to Launch (2006)"
@@ -26461,6 +26639,7 @@ var actorMap = {
     },
     "Steve Buscemi": {
         "movies": [
+            "The Wedding Singer (1998)",
             "Ghost World (2001)",
             "Monsters, Inc. (2001)",
             "G-Force (2009)",
@@ -26548,6 +26727,11 @@ var actorMap = {
             "The Scorpion King (2002)"
         ]
     },
+    "Steven Brill": {
+        "movies": [
+            "The Wedding Singer (1998)"
+        ]
+    },
     "Steven Soderbergh": {
         "movies": [
             "Ocean's Eleven (2001)"
@@ -26586,7 +26770,9 @@ var actorMap = {
     },
     "Storm Reid": {
         "movies": [
+            "12 Years a Slave (2013)",
             "A Wrinkle in Time (2018)",
+            "The Invisible Man (2020)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -26832,6 +27018,7 @@ var actorMap = {
         "movies": [
             "Baby Boy (2001)",
             "Hustle & Flow (2005)",
+            "Four Brothers (2005)",
             "Smokin' Aces (2007)",
             "Talk to Me (2007)",
             "The Curious Case of Benjamin Button (2008)",
@@ -26847,6 +27034,7 @@ var actorMap = {
     },
     "Taran Killam": {
         "movies": [
+            "12 Years a Slave (2013)",
             "Teenage Mutant Ninja Turtles (2014)"
         ]
     },
@@ -26979,6 +27167,7 @@ var actorMap = {
             "Ray (2004)",
             "Crash (2005)",
             "Hustle & Flow (2005)",
+            "Four Brothers (2005)",
             "Iron Man (2008)",
             "Movie 43 (2013)",
             "Lee Daniels' The Butler (2013)",
@@ -28141,6 +28330,7 @@ var actorMap = {
         "movies": [
             "Baby Boy (2001)",
             "2 Fast 2 Furious (2003)",
+            "Four Brothers (2005)",
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
             "Fast Five (2011)",
@@ -28356,6 +28546,7 @@ var actorMap = {
             "Sleepless in Seattle (1993)",
             "Mixed Nuts (1994)",
             "The First Wives Club (1996)",
+            "Milk (2008)",
             "You Again (2010)",
             "Kung Fu Panda 2 (2011)"
         ]
@@ -28990,6 +29181,11 @@ var actorMap = {
             "Cellular (2004)",
             "Sahara (2005)",
             "The Tale of Despereaux (2008)"
+        ]
+    },
+    "William Harrigan": {
+        "movies": [
+            "The Invisible Man (1933)"
         ]
     },
     "William Holden": {

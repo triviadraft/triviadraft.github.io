@@ -939,6 +939,13 @@ var movieMap = {
         "categories": [
             "Classics",
             "Monster"
+        ],
+        "cast": [
+            "Claude Rains",
+            "Dwight Frye",
+            "Gloria Stuart",
+            "Henry Travers",
+            "William Harrigan"
         ]
     },
     "Little Women (1933)": {
@@ -35157,6 +35164,17 @@ var movieMap = {
         "categories": [
             "1990s",
             "John Carpenter"
+        ],
+        "cast": [
+            "Chevy Chase",
+            "Daryl Hannah",
+            "Ellen Albertini Dow",
+            "John Carpenter",
+            "Michael McKean",
+            "Rosalind Chao",
+            "Sam Anderson",
+            "Sam Neill",
+            "Stephen Tobolowsky"
         ]
     },
     "The Lawnmower Man (1992)": {
@@ -50158,6 +50176,22 @@ var movieMap = {
             "Musicians in Film",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Alexis Arquette",
+            "Allen Covert",
+            "Billy Idol",
+            "Brian Posehn",
+            "Christine Taylor",
+            "Drew Barrymore",
+            "Ellen Albertini Dow",
+            "Jon Lovitz",
+            "Kevin Nealon",
+            "Matthew Glave",
+            "Robert Smigel",
+            "Steve Buscemi",
+            "Steven Brill"
         ]
     },
     "Dark City (1998)": {
@@ -59428,6 +59462,14 @@ var movieMap = {
             "Horror/Thriller",
             "Ice Cube",
             "John Carpenter"
+        ],
+        "cast": [
+            "Clea DuVall",
+            "Ice Cube",
+            "Jason Statham",
+            "Natasha Henstridge",
+            "Pam Grier",
+            "Robert Carradine"
         ]
     },
     "Jay and Silent Bob Strike Back (2001)": {
@@ -62858,6 +62900,13 @@ var movieMap = {
             "Happy Madison & Adam Sandler",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Emily Watson",
+            "Luis Guzm\u00e1n",
+            "Philip Seymour Hoffman",
+            "Robert Smigel"
         ]
     },
     "The Transporter (2002)": {
@@ -71927,6 +71976,19 @@ var movieMap = {
             "2000s",
             "Crime",
             "John Singleton"
+        ],
+        "cast": [
+            "Andr\u00e9 3000",
+            "Barry Shabaka Henley",
+            "Chiwetel Ejiofor",
+            "Fionnula Flanagan",
+            "Garrett Hedlund",
+            "Lyriq Bent",
+            "Mark Wahlberg",
+            "Sof\u00eda Vergara",
+            "Taraji P. Henson",
+            "Terrence Howard",
+            "Tyrese Gibson"
         ]
     },
     "Red Eye (2005)": {
@@ -83011,6 +83073,18 @@ var movieMap = {
             "2000s",
             "Biopics",
             "LGBTQ Cinema"
+        ],
+        "cast": [
+            "Alison Pill",
+            "Dave Franco",
+            "Denis O'Hare",
+            "Diego Luna",
+            "Dustin Lance Black",
+            "Emile Hirsch",
+            "James Franco",
+            "Josh Brolin",
+            "Sean Penn",
+            "Victor Garber"
         ]
     },
     "Transporter 3 (2008)": {
@@ -89952,6 +90026,21 @@ var movieMap = {
             "Remakes & Reboots",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Allen Covert",
+            "Bailee Madison",
+            "Brooklyn Decker",
+            "Griffin Gluck",
+            "Heidi Montag",
+            "Jennifer Aniston",
+            "Keegan-Michael Key",
+            "Kevin Nealon",
+            "Minka Kelly",
+            "Nick Swardson",
+            "Nicole Kidman",
+            "Rachel Dratch"
         ]
     },
     "The Eagle (2011)": {
@@ -99082,6 +99171,25 @@ var movieMap = {
         "categories": [
             "2010s",
             "Brad Pitt & George Clooney"
+        ],
+        "cast": [
+            "Alfre Woodard",
+            "Benedict Cumberbatch",
+            "Bill Camp",
+            "Brad Pitt",
+            "Chiwetel Ejiofor",
+            "Dwight Henry",
+            "Garret Dillahunt",
+            "Lupita Nyong'o",
+            "Michael Fassbender",
+            "Michael K. Williams",
+            "Paul Dano",
+            "Paul Giamatti",
+            "Quvenzhan\u00e9 Wallis",
+            "Sarah Paulson",
+            "Scoot McNairy",
+            "Storm Reid",
+            "Taran Killam"
         ]
     },
     "Thor: The Dark World (2013)": {
@@ -124634,6 +124742,14 @@ var movieMap = {
             "2020s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Aldis Hodge",
+            "Elisabeth Moss",
+            "Harriet Dyer",
+            "Michael Dorman",
+            "Oliver Jackson-Cohen",
+            "Storm Reid"
         ]
     },
     "First Cow (2020)": {
