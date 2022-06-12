@@ -926,7 +926,8 @@ var actorMap = {
         "movies": [
             "One Fine Day (1996)",
             "Changing Lanes (2002)",
-            "Something's Gotta Give (2003)"
+            "Something's Gotta Give (2003)",
+            "2012 (2009)"
         ]
     },
     "Amanda Plummer": {
@@ -945,6 +946,11 @@ var actorMap = {
         "movies": [
             "Les Mis\u00e9rables (2012)",
             "A Million Ways to Die in the West (2014)"
+        ]
+    },
+    "Amanda Wyss": {
+        "movies": [
+            "Silverado (1985)"
         ]
     },
     "Amandla Stenberg": {
@@ -1420,6 +1426,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Royal Tenenbaums (2001)",
             "When in Rome (2010)",
             "50/50 (2011)"
         ]
@@ -2424,6 +2431,7 @@ var actorMap = {
     "Ben Stiller": {
         "movies": [
             "Mystery Men (1999)",
+            "The Royal Tenenbaums (2001)",
             "Orange County (2002)",
             "Tropic Thunder (2008)"
         ]
@@ -2733,6 +2741,7 @@ var actorMap = {
             "Groundhog Day (1993)",
             "Space Jam (1996)",
             "Charlie's Angels (2000)",
+            "The Royal Tenenbaums (2001)",
             "Lost in Translation (2003)",
             "Zombieland (2009)",
             "The Jungle Book (2016)",
@@ -3369,6 +3378,7 @@ var actorMap = {
     },
     "Brian Dennehy": {
         "movies": [
+            "Silverado (1985)",
             "Tag (2018)"
         ]
     },
@@ -3481,6 +3491,7 @@ var actorMap = {
     "Brion James": {
         "movies": [
             "48 Hrs. (1982)",
+            "Silverado (1985)",
             "The Fifth Element (1997)"
         ]
     },
@@ -4587,6 +4598,7 @@ var actorMap = {
             "Inside Man (2006)",
             "Talk to Me (2007)",
             "American Gangster (2007)",
+            "2012 (2009)",
             "Doctor Strange (2016)",
             "The Lion King (2019)",
             "The Old Guard (2020)"
@@ -5311,6 +5323,7 @@ var actorMap = {
     },
     "Cloris Leachman": {
         "movies": [
+            "Young Frankenstein (1974)",
             "Hanging Up (2000)",
             "Sky High (2005)",
             "You Again (2010)"
@@ -5536,7 +5549,8 @@ var actorMap = {
     },
     "Courteney Cox": {
         "movies": [
-            "Scream (1996)"
+            "Scream (1996)",
+            "Scream 2 (1997)"
         ]
     },
     "Courtney B. Vance": {
@@ -6025,9 +6039,12 @@ var actorMap = {
     "Danny Glover": {
         "movies": [
             "Places in the Heart (1984)",
+            "Silverado (1985)",
             "Predator 2 (1990)",
             "The Prince of Egypt (1998)",
-            "Dreamgirls (2006)"
+            "The Royal Tenenbaums (2001)",
+            "Dreamgirls (2006)",
+            "2012 (2009)"
         ]
     },
     "Danny Huston": {
@@ -6163,6 +6180,7 @@ var actorMap = {
     "David Arquette": {
         "movies": [
             "Scream (1996)",
+            "Scream 2 (1997)",
             "Riding the Bullet (2004)",
             "Bone Tomahawk (2015)"
         ]
@@ -7358,6 +7376,7 @@ var actorMap = {
     },
     "Dwight Yoakam": {
         "movies": [
+            "Panic Room (2002)",
             "Wedding Crashers (2005)",
             "Four Christmases (2008)"
         ]
@@ -7762,6 +7781,7 @@ var actorMap = {
     },
     "Elise Neal": {
         "movies": [
+            "Scream 2 (1997)",
             "Hustle & Flow (2005)",
             "Logan (2017)"
         ]
@@ -8751,6 +8771,7 @@ var actorMap = {
         ],
         "movies": [
             "The Color of Money (1986)",
+            "Panic Room (2002)",
             "Lee Daniels' The Butler (2013)",
             "Rogue One: A Star Wars Story (2016)",
             "Black Panther (2018)"
@@ -9369,12 +9390,14 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Young Frankenstein (1974)",
             "Superman (1978)",
             "Superman II (1981)",
             "Superman IV: The Quest for Peace (1987)",
             "Mississippi Burning (1988)",
             "Unforgiven (1992)",
-            "The Firm (1993)"
+            "The Firm (1993)",
+            "The Royal Tenenbaums (2001)"
         ]
     },
     "Gene Wilder": {
@@ -9385,7 +9408,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Willy Wonka & the Chocolate Factory (1971)"
+            "Willy Wonka & the Chocolate Factory (1971)",
+            "Young Frankenstein (1974)"
         ]
     },
     "Genesis Rodriguez": {
@@ -9534,7 +9558,8 @@ var actorMap = {
     },
     "George Segal": {
         "movies": [
-            "Who's Afraid of Virginia Woolf? (1966)"
+            "Who's Afraid of Virginia Woolf? (1966)",
+            "2012 (2009)"
         ]
     },
     "George Takei": {
@@ -9969,6 +9994,7 @@ var actorMap = {
         "movies": [
             "Hook (1991)",
             "Shakespeare in Love (1998)",
+            "The Royal Tenenbaums (2001)",
             "Austin Powers in Goldmember (2002)",
             "View from the Top (2003)",
             "Iron Man (2008)",
@@ -10313,6 +10339,7 @@ var actorMap = {
     "Heather Graham": {
         "movies": [
             "Twins (1988)",
+            "Scream 2 (1997)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "From Hell (2001)",
             "Horns (2014)"
@@ -10745,6 +10772,7 @@ var actorMap = {
     },
     "Ian Abercrombie": {
         "movies": [
+            "Young Frankenstein (1974)",
             "Star Wars: The Clone Wars (2008)"
         ]
     },
@@ -11545,6 +11573,7 @@ var actorMap = {
     "Jada Pinkett Smith": {
         "movies": [
             "Set It Off (1996)",
+            "Scream 2 (1997)",
             "The Matrix Reloaded (2003)",
             "The Matrix Revolutions (2003)",
             "Collateral (2004)",
@@ -12094,6 +12123,7 @@ var actorMap = {
     "Jamie Kennedy": {
         "movies": [
             "Scream (1996)",
+            "Scream 2 (1997)",
             "As Good as It Gets (1997)",
             "Malibu's Most Wanted (2003)",
             "Son of the Mask (2005)"
@@ -12280,6 +12310,7 @@ var actorMap = {
         ],
         "movies": [
             "Girl, Interrupted (1999)",
+            "Panic Room (2002)",
             "Alexander (2004)",
             "Suicide Squad (2016)",
             "Zack Snyder's Justice League (2021)"
@@ -12659,6 +12690,11 @@ var actorMap = {
             "Superman (1978)"
         ]
     },
+    "Jeff Fahey": {
+        "movies": [
+            "Silverado (1985)"
+        ]
+    },
     "Jeff Garlin": {
         "movies": [
             "Austin Powers: The Spy Who Shagged Me (1999)",
@@ -12669,6 +12705,7 @@ var actorMap = {
         "movies": [
             "Annie Hall (1977)",
             "Invasion of the Body Snatchers (1978)",
+            "Silverado (1985)",
             "Jurassic Park (1993)",
             "The Lost World: Jurassic Park (1997)",
             "Holy Man (1998)",
@@ -13057,7 +13094,8 @@ var actorMap = {
     "Jerry O'Connell": {
         "movies": [
             "Stand by Me (1986)",
-            "Jerry Maguire (1996)"
+            "Jerry Maguire (1996)",
+            "Scream 2 (1997)"
         ]
     },
     "Jerry Reed": {
@@ -13702,6 +13740,7 @@ var actorMap = {
         ],
         "movies": [
             "The Silence of the Lambs (1991)",
+            "Panic Room (2002)",
             "Inside Man (2006)"
         ]
     },
@@ -13950,6 +13989,7 @@ var actorMap = {
     },
     "John Cleese": {
         "movies": [
+            "Silverado (1985)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Charlie's Angels: Full Throttle (2003)"
@@ -13965,6 +14005,7 @@ var actorMap = {
             "Sixteen Candles (1984)",
             "Stand by Me (1986)",
             "1408 (2007)",
+            "2012 (2009)",
             "Lee Daniels' The Butler (2013)",
             "Cell (2016)"
         ]
@@ -16137,6 +16178,11 @@ var actorMap = {
             "Death on the Nile (2022)"
         ]
     },
+    "Kenneth Mars": {
+        "movies": [
+            "Young Frankenstein (1974)"
+        ]
+    },
     "Kenneth McMillan": {
         "movies": [
             "Armed and Dangerous (1986)"
@@ -16211,6 +16257,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Silverado (1985)",
             "Robin Hood: Prince of Thieves (1991)",
             "Message in a Bottle (1999)",
             "Rumor Has It (2005)",
@@ -16255,6 +16302,15 @@ var actorMap = {
             "Sky High (2005)"
         ]
     },
+    "Kevin J. O'Connor": {
+        "movies": [
+            "Amistad (1997)",
+            "Gods and Monsters (1998)",
+            "The Mummy (1999)",
+            "Van Helsing (2004)",
+            "Widows (2018)"
+        ]
+    },
     "Kevin Kline": {
         "suppNoms": [
             {
@@ -16269,6 +16325,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Silverado (1985)",
             "Chaplin (1992)",
             "Orange County (2002)",
             "Definitely, Maybe (2008)",
@@ -16567,6 +16624,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Panic Room (2002)",
             "Snow White and the Huntsman (2012)",
             "Charlie's Angels (2019)"
         ]
@@ -17011,6 +17069,7 @@ var actorMap = {
         ],
         "movies": [
             "Toy Story (1995)",
+            "Scream 2 (1997)",
             "Toy Story 2 (1999)"
         ]
     },
@@ -17381,7 +17440,8 @@ var actorMap = {
     },
     "Liam James": {
         "movies": [
-            "Fred Claus (2007)"
+            "Fred Claus (2007)",
+            "2012 (2009)"
         ]
     },
     "Liam Neeson": {
@@ -17414,6 +17474,7 @@ var actorMap = {
         "movies": [
             "Mixed Nuts (1994)",
             "Scream (1996)",
+            "Scream 2 (1997)",
             "Kate & Leopold (2001)",
             "The Manchurian Candidate (2004)",
             "X-Men Origins: Wolverine (2009)",
@@ -17542,6 +17603,7 @@ var actorMap = {
         ],
         "movies": [
             "Dune (1984)",
+            "Silverado (1985)",
             "Stranger than Fiction (2006)",
             "Solo: A Star Wars Story (2018)"
         ]
@@ -17597,6 +17659,7 @@ var actorMap = {
     },
     "Lisa Lu": {
         "movies": [
+            "2012 (2009)",
             "Crazy Rich Asians (2018)"
         ]
     },
@@ -17886,7 +17949,9 @@ var actorMap = {
     },
     "Luke Wilson": {
         "movies": [
+            "Scream 2 (1997)",
             "Charlie's Angels (2000)",
+            "The Royal Tenenbaums (2001)",
             "Charlie's Angels: Full Throttle (2003)",
             "Blades of Glory (2007)",
             "Zombieland: Double Tap (2019)"
@@ -17963,6 +18028,7 @@ var actorMap = {
     },
     "Lynn Whitfield": {
         "movies": [
+            "Silverado (1985)",
             "Stepmom (1998)"
         ]
     },
@@ -18031,6 +18097,7 @@ var actorMap = {
     },
     "Madeline Kahn": {
         "movies": [
+            "Young Frankenstein (1974)",
             "Mixed Nuts (1994)",
             "A Bug's Life (1998)"
         ]
@@ -18865,6 +18932,11 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Marty Feldman": {
+        "movies": [
+            "Young Frankenstein (1974)"
+        ]
+    },
     "Marwan Kenzari": {
         "movies": [
             "The Mummy (2017)",
@@ -19358,6 +19430,7 @@ var actorMap = {
     },
     "Mel Brooks": {
         "movies": [
+            "Young Frankenstein (1974)",
             "Spaceballs (1987)",
             "Robots (2005)",
             "The Producers (2005)"
@@ -21103,7 +21176,8 @@ var actorMap = {
     },
     "Neve Campbell": {
         "movies": [
-            "Scream (1996)"
+            "Scream (1996)",
+            "Scream 2 (1997)"
         ]
     },
     "Nia Long": {
@@ -21558,6 +21632,7 @@ var actorMap = {
     },
     "Oliver Platt": {
         "movies": [
+            "2012 (2009)",
             "X-Men: First Class (2011)",
             "Chef (2014)"
         ]
@@ -21658,6 +21733,11 @@ var actorMap = {
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ]
+    },
+    "Omar Epps": {
+        "movies": [
+            "Scream 2 (1997)"
         ]
     },
     "Omar Gooding": {
@@ -21771,6 +21851,7 @@ var actorMap = {
     },
     "Owen Wilson": {
         "movies": [
+            "The Royal Tenenbaums (2001)",
             "Wedding Crashers (2005)",
             "How Do You Know (2010)"
         ]
@@ -21892,6 +21973,13 @@ var actorMap = {
         "movies": [
             "The Mummy (1999)",
             "The Mummy Returns (2001)"
+        ]
+    },
+    "Patrick Bauchau": {
+        "movies": [
+            "Panic Room (2002)",
+            "Ray (2004)",
+            "2012 (2009)"
         ]
     },
     "Patrick Bergin": {
@@ -22428,6 +22516,7 @@ var actorMap = {
     },
     "Peter Boyle": {
         "movies": [
+            "Young Frankenstein (1974)",
             "Monster's Ball (2001)"
         ]
     },
@@ -22792,6 +22881,11 @@ var actorMap = {
         "movies": [
             "Carrie (2013)",
             "Her (2013)"
+        ]
+    },
+    "Portia de Rossi": {
+        "movies": [
+            "Scream 2 (1997)"
         ]
     },
     "Post Malone": {
@@ -23591,6 +23685,11 @@ var actorMap = {
             "Harry Potter and the Chamber of Secrets (2002)"
         ]
     },
+    "Richard Haydn": {
+        "movies": [
+            "Young Frankenstein (1974)"
+        ]
+    },
     "Richard Jenkins": {
         "leadNoms": [
             {
@@ -23605,6 +23704,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Silverado (1985)",
             "The Witches of Eastwick (1987)",
             "Changing Lanes (2002)",
             "Rumor Has It (2005)",
@@ -24253,7 +24353,8 @@ var actorMap = {
     },
     "Roger L. Jackson": {
         "movies": [
-            "Scream (1996)"
+            "Scream (1996)",
+            "Scream 2 (1997)"
         ]
     },
     "Rohan Chand": {
@@ -24398,6 +24499,11 @@ var actorMap = {
         "movies": [
             "Surrogates (2009)",
             "Jack Reacher (2012)"
+        ]
+    },
+    "Rosanna Arquette": {
+        "movies": [
+            "Silverado (1985)"
         ]
     },
     "Rosario Dawson": {
@@ -25156,6 +25262,7 @@ var actorMap = {
     "Sarah Michelle Gellar": {
         "movies": [
             "I Know What You Did Last Summer (1997)",
+            "Scream 2 (1997)",
             "Cruel Intentions (1999)",
             "TMNT (2007)"
         ]
@@ -25300,6 +25407,7 @@ var actorMap = {
     },
     "Scott Glenn": {
         "movies": [
+            "Silverado (1985)",
             "The Silence of the Lambs (1991)",
             "The Virgin Suicides (2000)"
         ]
@@ -25525,7 +25633,8 @@ var actorMap = {
     },
     "Seymour Cassel": {
         "movies": [
-            "Dick Tracy (1990)"
+            "Dick Tracy (1990)",
+            "The Royal Tenenbaums (2001)"
         ]
     },
     "Shahadi Wright Joseph": {
@@ -26853,6 +26962,7 @@ var actorMap = {
     },
     "Teri Garr": {
         "movies": [
+            "Young Frankenstein (1974)",
             "Michael (1996)",
             "Ghost World (2001)"
         ]
@@ -26946,6 +27056,7 @@ var actorMap = {
             "Interview with the Vampire (1994)",
             "Mission: Impossible 2 (2000)",
             "Crash (2005)",
+            "2012 (2009)",
             "For Colored Girls (2010)",
             "Solo: A Star Wars Story (2018)"
         ]
@@ -27227,6 +27338,7 @@ var actorMap = {
     "Timothy Olyphant": {
         "movies": [
             "The First Wives Club (1996)",
+            "Scream 2 (1997)",
             "Dreamcatcher (2003)",
             "This Is Where I Leave You (2014)",
             "Mother's Day (2016)",
@@ -27585,6 +27697,11 @@ var actorMap = {
             "Teen Titans Go! To the Movies (2018)"
         ]
     },
+    "Tom McCarthy": {
+        "movies": [
+            "2012 (2009)"
+        ]
+    },
     "Tom Noonan": {
         "movies": [
             "Last Action Hero (1993)"
@@ -27852,6 +27969,11 @@ var actorMap = {
             "Valentine's Day (2010)",
             "Predators (2010)",
             "Take Me Home Tonight (2011)"
+        ]
+    },
+    "Tori Spelling": {
+        "movies": [
+            "Scream 2 (1997)"
         ]
     },
     "Tracee Ellis Ross": {
@@ -29068,6 +29190,7 @@ var actorMap = {
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "No Country for Old Men (2007)",
             "Zombieland (2009)",
+            "2012 (2009)",
             "The Hunger Games (2012)",
             "Now You See Me (2013)",
             "The Hunger Games: Catching Fire (2013)",

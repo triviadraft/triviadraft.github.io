@@ -13680,6 +13680,19 @@ var movieMap = {
             "Mel Brooks",
             "Monster",
             "Spoof"
+        ],
+        "cast": [
+            "Cloris Leachman",
+            "Gene Hackman",
+            "Gene Wilder",
+            "Ian Abercrombie",
+            "Kenneth Mars",
+            "Madeline Kahn",
+            "Marty Feldman",
+            "Mel Brooks",
+            "Peter Boyle",
+            "Richard Haydn",
+            "Teri Garr"
         ]
     },
     "Black Christmas (1974)": {
@@ -23601,6 +23614,22 @@ var movieMap = {
         "categories": [
             "1980s",
             "Westerns"
+        ],
+        "cast": [
+            "Amanda Wyss",
+            "Brian Dennehy",
+            "Brion James",
+            "Danny Glover",
+            "Jeff Fahey",
+            "Jeff Goldblum",
+            "John Cleese",
+            "Kevin Costner",
+            "Kevin Kline",
+            "Linda Hunt",
+            "Lynn Whitfield",
+            "Richard Jenkins",
+            "Rosanna Arquette",
+            "Scott Glenn"
         ]
     },
     "Explorers (1985)": {
@@ -49542,6 +49571,7 @@ var movieMap = {
             "Djimon Hounsou",
             "Jeremy Northam",
             "John Ortiz",
+            "Kevin J. O'Connor",
             "Matthew McConaughey",
             "Morgan Freeman",
             "Nigel Hawthorne",
@@ -49615,6 +49645,25 @@ var movieMap = {
             "Frat Pack",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Courteney Cox",
+            "David Arquette",
+            "Elise Neal",
+            "Heather Graham",
+            "Jada Pinkett Smith",
+            "Jamie Kennedy",
+            "Jerry O'Connell",
+            "Laurie Metcalf",
+            "Liev Schreiber",
+            "Luke Wilson",
+            "Neve Campbell",
+            "Omar Epps",
+            "Portia de Rossi",
+            "Roger L. Jackson",
+            "Sarah Michelle Gellar",
+            "Timothy Olyphant",
+            "Tori Spelling"
         ]
     },
     "The Apostle (1997)": {
@@ -51876,6 +51925,7 @@ var movieMap = {
         "cast": [
             "Brendan Fraser",
             "Ian McKellen",
+            "Kevin J. O'Connor",
             "Lynn Redgrave",
             "Martin Ferrero"
         ]
@@ -53406,6 +53456,7 @@ var movieMap = {
             "Brendan Fraser",
             "John Hannah",
             "Jonathan Hyde",
+            "Kevin J. O'Connor",
             "Oded Fehr",
             "Patricia Vel\u00e1squez",
             "Rachel Weisz"
@@ -60257,6 +60308,17 @@ var movieMap = {
             "Coming of Age",
             "Frat Pack",
             "Gene Hackman"
+        ],
+        "cast": [
+            "Anjelica Huston",
+            "Ben Stiller",
+            "Bill Murray",
+            "Danny Glover",
+            "Gene Hackman",
+            "Gwyneth Paltrow",
+            "Luke Wilson",
+            "Owen Wilson",
+            "Seymour Cassel"
         ]
     },
     "Vanilla Sky (2001)": {
@@ -61195,6 +61257,14 @@ var movieMap = {
             "Horror/Thriller",
             "Jodie Foster",
             "Thriller"
+        ],
+        "cast": [
+            "Dwight Yoakam",
+            "Forest Whitaker",
+            "Jared Leto",
+            "Jodie Foster",
+            "Kristen Stewart",
+            "Patrick Bauchau"
         ]
     },
     "The Rookie (2002)": {
@@ -67786,6 +67856,7 @@ var movieMap = {
             "Elena Anaya",
             "Hugh Jackman",
             "Kate Beckinsale",
+            "Kevin J. O'Connor",
             "Richard Roxburgh",
             "Robbie Coltrane"
         ]
@@ -69304,6 +69375,7 @@ var movieMap = {
             "Kerry Washington",
             "Kurt Fuller",
             "Larenz Tate",
+            "Patrick Bauchau",
             "Regina King",
             "Richard Schiff",
             "Terrence Howard",
@@ -85943,6 +86015,20 @@ var movieMap = {
         "categories": [
             "2000s",
             "Cusacks"
+        ],
+        "cast": [
+            "Amanda Peet",
+            "Chiwetel Ejiofor",
+            "Danny Glover",
+            "George Segal",
+            "John Cusack",
+            "Liam James",
+            "Lisa Lu",
+            "Oliver Platt",
+            "Patrick Bauchau",
+            "Thandiwe Newton",
+            "Tom McCarthy",
+            "Woody Harrelson"
         ]
     },
     "Fantastic Mr. Fox (2009)": {
@@ -118774,6 +118860,7 @@ var movieMap = {
             "Garret Dillahunt",
             "Jacki Weaver",
             "Jon Bernthal",
+            "Kevin J. O'Connor",
             "Liam Neeson",
             "Lukas Haas",
             "Manuel Garcia-Rulfo",
