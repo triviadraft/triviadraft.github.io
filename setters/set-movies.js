@@ -13840,6 +13840,15 @@ var movieMap = {
         ],
         "categories": [
             "1970s"
+        ],
+        "cast": [
+            "Carrie Fisher",
+            "Goldie Hawn",
+            "Jack Warden",
+            "Julie Christie",
+            "Lee Grant",
+            "Tony Bill",
+            "Warren Beatty"
         ]
     },
     "The Stepford Wives (1975)": {
@@ -18682,6 +18691,13 @@ var movieMap = {
             "1980s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "David Naughton",
+            "Frank Oz",
+            "Griffin Dunne",
+            "Jenny Agutter",
+            "John Landis"
         ]
     },
     "Body Heat (1981)": {
@@ -22837,6 +22853,12 @@ var movieMap = {
             "1980s",
             "Coen Brothers",
             "Frances McDormand"
+        ],
+        "cast": [
+            "Dan Hedaya",
+            "Frances McDormand",
+            "John Getz",
+            "M. Emmet Walsh"
         ]
     },
     "Fandango (1985)": {
@@ -29625,6 +29647,14 @@ var movieMap = {
         "categories": [
             "1980s",
             "Comedies",
+            "Tom Hanks"
+        ],
+        "cast": [
+            "Bruce Dern",
+            "Carrie Fisher",
+            "Corey Feldman",
+            "Dick Miller",
+            "Henry Gibson",
             "Tom Hanks"
         ]
     },
@@ -47634,6 +47664,19 @@ var movieMap = {
             "Eastwoods",
             "Ed Harris",
             "Gene Hackman"
+        ],
+        "cast": [
+            "Clint Eastwood",
+            "Dennis Haysbert",
+            "E. G. Marshall",
+            "Ed Harris",
+            "Gene Hackman",
+            "Judy Davis",
+            "Laura Linney",
+            "Mark Margolis",
+            "Melora Hardin",
+            "Richard Jenkins",
+            "Scott Glenn"
         ]
     },
     "Fools Rush In (1997)": {
@@ -51707,6 +51750,19 @@ var movieMap = {
             "Jennifer Lopez",
             "Musicians in Film",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Anne Bancroft",
+            "Christopher Walken",
+            "Dan Aykroyd",
+            "Danny Glover",
+            "Gene Hackman",
+            "Jane Curtin",
+            "Jennifer Lopez",
+            "John Mahoney",
+            "Sharon Stone",
+            "Sylvester Stallone",
+            "Woody Allen"
         ]
     },
     "What Dreams May Come (1998)": {
@@ -67905,6 +67961,19 @@ var movieMap = {
             "Comedies",
             "Coming of Age",
             "SNL & Lorne Michaels"
+        ],
+        "cast": [
+            "Amanda Seyfried",
+            "Amy Poehler",
+            "Ana Gasteyer",
+            "Daniel Franzese",
+            "Jonathan Bennett",
+            "Lacey Chabert",
+            "Lindsay Lohan",
+            "Lizzy Caplan",
+            "Rachel McAdams",
+            "Tim Meadows",
+            "Tina Fey"
         ]
     },
     "New York Minute (2004)": {
@@ -69936,6 +70005,17 @@ var movieMap = {
             "Eastwoods",
             "Morgan Freeman",
             "Sports"
+        ],
+        "cast": [
+            "Anthony Mackie",
+            "Clint Eastwood",
+            "Hilary Swank",
+            "Jay Baruchel",
+            "Margo Martindale",
+            "Michael Pe\u00f1a",
+            "Mike Colter",
+            "Morgan Freeman",
+            "Riki Lindhome"
         ]
     },
     "Beyond the Sea (2004)": {
@@ -72931,6 +73011,15 @@ var movieMap = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Dax Shepard",
+            "Derek Mears",
+            "Frank Oz",
+            "Jonah Bobo",
+            "Josh Hutcherson",
+            "Kristen Stewart",
+            "Tim Robbins"
         ]
     },
     "Harry Potter and the Goblet of Fire (2005)": {
@@ -74752,6 +74841,34 @@ var movieMap = {
             "Paul Newman & Robert Redford",
             "Pixar",
             "Tom Hanks"
+        ],
+        "cast": [
+            "Billy Crystal",
+            "Bob Costas",
+            "Bonnie Hunt",
+            "Cheech Marin",
+            "Dave Foley",
+            "Edie McClurg",
+            "Elissa Knight",
+            "George Carlin",
+            "Jay Leno",
+            "Jenifer Lewis",
+            "Jeremy Piven",
+            "Joe Ranft",
+            "John Goodman",
+            "John Ratzenberger",
+            "Katherine Helmond",
+            "Larry the Cable Guy",
+            "Lou Romano",
+            "Michael Keaton",
+            "Owen Wilson",
+            "Paul Dooley",
+            "Paul Newman",
+            "Richard Kind",
+            "Richard Petty",
+            "Tim Allen",
+            "Tom Hanks",
+            "Tony Shalhoub"
         ]
     },
     "Garfield: A Tail of Two Kitties (2006)": {
@@ -78309,6 +78426,20 @@ var movieMap = {
             "2000s",
             "Animated",
             "Pixar"
+        ],
+        "cast": [
+            "Brad Bird",
+            "Brad Garrett",
+            "Brian Dennehy",
+            "Ian Holm",
+            "James Remar",
+            "Janeane Garofalo",
+            "John Ratzenberger",
+            "Lou Romano",
+            "Patton Oswalt",
+            "Peter O'Toole",
+            "Peter Sohn",
+            "Will Arnett"
         ]
     },
     "License to Wed (2007)": {
@@ -81674,6 +81805,15 @@ var movieMap = {
             "Animated",
             "Pixar",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Fred Willard",
+            "Jeff Garlin",
+            "John Ratzenberger",
+            "Kathy Najimy",
+            "Sigourney Weaver"
         ]
     },
     "Wanted (2008)": {
@@ -84803,6 +84943,16 @@ var movieMap = {
             "2000s",
             "Animated",
             "Pixar"
+        ],
+        "cast": [
+            "Bob Peterson",
+            "Christopher Plummer",
+            "Delroy Lindo",
+            "Ed Asner",
+            "John Ratzenberger",
+            "Jordan Nagai",
+            "Josh Cooley",
+            "Pete Docter"
         ]
     },
     "Land of the Lost (2009)": {
@@ -88015,6 +88165,31 @@ var movieMap = {
             "Pixar",
             "Tom Hanks",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Blake Clark",
+            "Bonnie Hunt",
+            "Don Rickles",
+            "Emily Hahn",
+            "Erik von Detten",
+            "Estelle Harris",
+            "Jeff Garlin",
+            "Jeff Pidgeon",
+            "Joan Cusack",
+            "Jodi Benson",
+            "John Morris",
+            "John Ratzenberger",
+            "Kristen Schaal",
+            "Laurie Metcalf",
+            "Michael Keaton",
+            "Ned Beatty",
+            "R. Lee Ermey",
+            "Richard Kind",
+            "Tim Allen",
+            "Timothy Dalton",
+            "Tom Hanks",
+            "Wallace Shawn",
+            "Whoopi Goldberg"
         ]
     },
     "Knight and Day (2010)": {
@@ -88831,6 +89006,17 @@ var movieMap = {
             "Crime",
             "Dramas",
             "Matt & Ben"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Blake Lively",
+            "Chris Cooper",
+            "Jeremy Renner",
+            "Jon Hamm",
+            "Pete Postlethwaite",
+            "Rebecca Hall",
+            "Titus Welliver",
+            "Victor Garber"
         ]
     },
     "Buried (2010)": {
@@ -91563,6 +91749,7 @@ var movieMap = {
             "Hayley Atwell",
             "Hugo Weaving",
             "Jenna Coleman",
+            "Kenneth Choi",
             "Laura Haddock",
             "Natalie Dormer",
             "Neal McDonough",
@@ -94250,6 +94437,7 @@ var movieMap = {
             "Cobie Smulders",
             "Gwyneth Paltrow",
             "Harry Dean Stanton",
+            "Jenny Agutter",
             "Jeremy Renner",
             "Mark Ruffalo",
             "Paul Bettany",
@@ -96609,6 +96797,15 @@ var movieMap = {
         "categories": [
             "2010s",
             "Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Derek Mears",
+            "Famke Janssen",
+            "Gemma Arterton",
+            "Jeremy Renner",
+            "Joanna Kulig",
+            "Peter Stormare",
+            "Thomas Mann"
         ]
     },
     "Movie 43 (2013)": {
@@ -97469,6 +97666,7 @@ var movieMap = {
             "Leonard Nimoy",
             "Nolan North",
             "Peter Weller",
+            "Ser'Darius Blain",
             "Simon Pegg",
             "Zachary Quinto",
             "Zoe Saldana"
@@ -99520,6 +99718,17 @@ var movieMap = {
             "2010s",
             "Samuel L. Jackson",
             "Spike Lee"
+        ],
+        "cast": [
+            "Elizabeth Olsen",
+            "James Ransone",
+            "Josh Brolin",
+            "Lance Reddick",
+            "Michael Imperioli",
+            "Pom Klementieff",
+            "Rami Malek",
+            "Samuel L. Jackson",
+            "Sharlto Copley"
         ]
     },
     "Inside Llewyn Davis (2013)": {
@@ -99868,6 +100077,28 @@ var movieMap = {
             "Leonardo DiCaprio",
             "Margot Robbie",
             "Martin Scorsese"
+        ],
+        "cast": [
+            "Aya Cash",
+            "Cristin Milioti",
+            "Ethan Suplee",
+            "Jake Hoffman",
+            "Jean Dujardin",
+            "Joanna Lumley",
+            "Jon Bernthal",
+            "Jon Favreau",
+            "Jonah Hill",
+            "Jordan Belfort",
+            "Kenneth Choi",
+            "Kyle Chandler",
+            "Leonardo DiCaprio",
+            "Margot Robbie",
+            "Matthew McConaughey",
+            "P. J. Byrne",
+            "Rob Reiner",
+            "Shea Whigham",
+            "Spike Jonze",
+            "Thomas Middleditch"
         ]
     },
     "August: Osage County (2013)": {
@@ -100647,6 +100878,7 @@ var movieMap = {
             "Gary Sinise",
             "Georges St-Pierre",
             "Hayley Atwell",
+            "Jenny Agutter",
             "Joe Russo",
             "Robert Redford",
             "Samuel L. Jackson",
@@ -100719,6 +100951,13 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Annalise Basso",
+            "Brenton Thwaites",
+            "Karen Gillan",
+            "Katee Sackhoff",
+            "Rory Cochrane"
         ]
     },
     "Only Lovers Left Alive (2014)": {
@@ -112974,6 +113213,7 @@ var movieMap = {
             "Jennifer Connelly",
             "Jon Favreau",
             "Jorge Lendeborg Jr.",
+            "Kenneth Choi",
             "Laura Harrier",
             "Logan Marshall-Green",
             "Marisa Tomei",
@@ -114983,6 +115223,24 @@ var movieMap = {
             "Kevin Hart",
             "Musicians in Film",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Alex Wolff",
+            "Bobby Cannavale",
+            "Colin Hanks",
+            "Dwayne Johnson",
+            "Jack Black",
+            "Karen Gillan",
+            "Kevin Hart",
+            "Madison Iseman",
+            "Marc Evan Jackson",
+            "Missi Pyle",
+            "Morgan Turner",
+            "Nick Jonas",
+            "Rhys Darby",
+            "Rohan Chand",
+            "Ser'Darius Blain",
+            "Tim Matheson"
         ]
     },
     "The Greatest Showman (2017)": {
@@ -115164,6 +115422,13 @@ var movieMap = {
         "categories": [
             "2010s",
             "Scotts"
+        ],
+        "cast": [
+            "Charlie Plummer",
+            "Christopher Plummer",
+            "Mark Wahlberg",
+            "Michelle Williams",
+            "Timothy Hutton"
         ]
     },
     "Molly's Game (2017)": {
@@ -123918,6 +124183,26 @@ var movieMap = {
             "Kevin Hart",
             "Musicians in Film",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Alex Wolff",
+            "Awkwafina",
+            "Bebe Neuwirth",
+            "Colin Hanks",
+            "Dania Ramirez",
+            "Danny DeVito",
+            "Danny Glover",
+            "Dwayne Johnson",
+            "Jack Black",
+            "Karen Gillan",
+            "Kevin Hart",
+            "Lamorne Morris",
+            "Madison Iseman",
+            "Morgan Turner",
+            "Nick Jonas",
+            "Rhys Darby",
+            "Rory McCann",
+            "Ser'Darius Blain"
         ]
     },
     "Richard Jewell (2019)": {
@@ -124182,6 +124467,17 @@ var movieMap = {
         "categories": [
             "2010s",
             "Animated",
+            "Will Smith"
+        ],
+        "cast": [
+            "Ben Mendelsohn",
+            "DJ Khaled",
+            "Karen Gillan",
+            "Masi Oka",
+            "Rachel Brosnahan",
+            "Rashida Jones",
+            "Reba McEntire",
+            "Tom Holland",
             "Will Smith"
         ]
     },
