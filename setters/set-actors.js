@@ -191,14 +191,16 @@ var actorMap = {
             "The Wedding Singer (1998)",
             "The Waterboy (1998)",
             "Punch-Drunk Love (2002)",
-            "Just Go with It (2011)"
+            "Just Go with It (2011)",
+            "Jack and Jill (2011)"
         ]
     },
     "Adam Scott": {
         "movies": [
             "The Aviator (2004)",
             "Monster-in-Law (2005)",
-            "Knocked Up (2007)"
+            "Knocked Up (2007)",
+            "The Guilt Trip (2012)"
         ]
     },
     "Adam Shankman": {
@@ -227,6 +229,7 @@ var actorMap = {
     "Adolphe Menjou": {
         "movies": [
             "Morning Glory (1933)",
+            "A Star Is Born (1937)",
             "State of the Union (1948)"
         ]
     },
@@ -389,7 +392,8 @@ var actorMap = {
             "Dick Tracy (1990)",
             "Insomnia (2002)",
             "Gigli (2003)",
-            "Ocean's Thirteen (2007)"
+            "Ocean's Thirteen (2007)",
+            "Jack and Jill (2011)"
         ]
     },
     "Al Roker": {
@@ -524,6 +528,11 @@ var actorMap = {
             "Dogma (1999)"
         ]
     },
+    "Alanna Ubach": {
+        "movies": [
+            "Meet the Fockers (2004)"
+        ]
+    },
     "Albert Brooks": {
         "suppNoms": [
             {
@@ -596,7 +605,8 @@ var actorMap = {
             "Rise of the Guardians (2012)",
             "Blue Jasmine (2013)",
             "Mission: Impossible \u2013 Rogue Nation (2015)",
-            "Mission: Impossible \u2013 Fallout (2018)"
+            "Mission: Impossible \u2013 Fallout (2018)",
+            "A Star Is Born (2018)"
         ]
     },
     "Alec Guinness": {
@@ -887,7 +897,8 @@ var actorMap = {
         "movies": [
             "The Wedding Singer (1998)",
             "The Waterboy (1998)",
-            "Just Go with It (2011)"
+            "Just Go with It (2011)",
+            "Jack and Jill (2011)"
         ]
     },
     "Allison Janney": {
@@ -1049,6 +1060,7 @@ var actorMap = {
     "Amy Irving": {
         "movies": [
             "Carrie (1976)",
+            "Yentl (1983)",
             "Traffic (2000)"
         ]
     },
@@ -1184,7 +1196,8 @@ var actorMap = {
     },
     "Andrew Dice Clay": {
         "movies": [
-            "Blue Jasmine (2013)"
+            "Blue Jasmine (2013)",
+            "A Star Is Born (2018)"
         ]
     },
     "Andrew Garfield": {
@@ -1386,6 +1399,11 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)",
             "Kung Fu Panda 3 (2016)",
             "Eternals (2021)"
+        ]
+    },
+    "Angelo Badalamenti": {
+        "movies": [
+            "Mulholland Drive (2001)"
         ]
     },
     "Angie Dickinson": {
@@ -1614,8 +1632,14 @@ var actorMap = {
     "Anne Bancroft": {
         "movies": [
             "The Graduate (1967)",
+            "The Elephant Man (1980)",
             "Antz (1998)",
             "Heartbreakers (2001)"
+        ]
+    },
+    "Anne Francis": {
+        "movies": [
+            "Funny Girl (1968)"
         ]
     },
     "Anne Hathaway": {
@@ -1811,6 +1835,7 @@ var actorMap = {
         ],
         "movies": [
             "The Lion in Winter (1968)",
+            "The Elephant Man (1980)",
             "The Silence of the Lambs (1991)",
             "Howards End (1992)",
             "Chaplin (1992)",
@@ -1881,6 +1906,7 @@ var actorMap = {
     },
     "Anthony Ramos": {
         "movies": [
+            "A Star Is Born (2018)",
             "Godzilla: King of the Monsters (2019)"
         ]
     },
@@ -1953,7 +1979,8 @@ var actorMap = {
     "Ari Graynor": {
         "movies": [
             "Date Night (2010)",
-            "What's Your Number? (2011)"
+            "What's Your Number? (2011)",
+            "The Guilt Trip (2012)"
         ]
     },
     "Ariana DeBose": {
@@ -2242,6 +2269,11 @@ var actorMap = {
             "Just Go with It (2011)"
         ]
     },
+    "Balthazar Getty": {
+        "movies": [
+            "Lost Highway (1997)"
+        ]
+    },
     "Bam Margera": {
         "movies": [
             "Charlie's Angels: Full Throttle (2003)"
@@ -2279,6 +2311,21 @@ var actorMap = {
                 "movie": "Funny Girl",
                 "year": "1968"
             }
+        ],
+        "movies": [
+            "Funny Girl (1968)",
+            "Hello, Dolly! (1969)",
+            "What's Up, Doc? (1972)",
+            "The Way We Were (1973)",
+            "Funny Lady (1975)",
+            "A Star Is Born (1976)",
+            "Yentl (1983)",
+            "Nuts (1987)",
+            "The Prince of Tides (1991)",
+            "The Mirror Has Two Faces (1996)",
+            "Meet the Fockers (2004)",
+            "Little Fockers (2010)",
+            "The Guilt Trip (2012)"
         ]
     },
     "Barkhad Abdi": {
@@ -2488,9 +2535,12 @@ var actorMap = {
     "Ben Stiller": {
         "movies": [
             "Mystery Men (1999)",
+            "Meet the Parents (2000)",
             "The Royal Tenenbaums (2001)",
             "Orange County (2002)",
-            "Tropic Thunder (2008)"
+            "Meet the Fockers (2004)",
+            "Tropic Thunder (2008)",
+            "Little Fockers (2010)"
         ]
     },
     "Ben Whishaw": {
@@ -2861,6 +2911,7 @@ var actorMap = {
             "Spaceballs (1987)",
             "A League of Their Own (1992)",
             "Sleepless in Seattle (1993)",
+            "Lost Highway (1997)",
             "Lucky Numbers (2000)"
         ]
     },
@@ -2967,6 +3018,11 @@ var actorMap = {
             "Into the Woods (2014)"
         ]
     },
+    "Billy Ray Cyrus": {
+        "movies": [
+            "Mulholland Drive (2001)"
+        ]
+    },
     "Billy Zane": {
         "movies": [
             "Back to the Future (1985)",
@@ -3007,6 +3063,10 @@ var actorMap = {
     },
     "Blythe Danner": {
         "movies": [
+            "The Prince of Tides (1991)",
+            "Meet the Parents (2000)",
+            "Meet the Fockers (2004)",
+            "Little Fockers (2010)",
             "What's Your Number? (2011)"
         ]
     },
@@ -3187,6 +3247,7 @@ var actorMap = {
         ],
         "movies": [
             "Dune (1984)",
+            "Blue Velvet (1986)",
             "Mississippi Burning (1988)",
             "Jungle Fever (1991)",
             "Alien Resurrection (1997)",
@@ -3287,6 +3348,7 @@ var actorMap = {
             "10 Cloverfield Lane (2016)",
             "Guardians of the Galaxy Vol. 2 (2017)",
             "Avengers: Infinity War (2018)",
+            "A Star Is Born (2018)",
             "Avengers: Endgame (2019)",
             "Nightmare Alley (2021)"
         ]
@@ -3374,6 +3436,11 @@ var actorMap = {
             }
         ]
     },
+    "Brenda Vaccaro": {
+        "movies": [
+            "The Mirror Has Two Faces (1996)"
+        ]
+    },
     "Brendan Fraser": {
         "movies": [
             "Gods and Monsters (1998)",
@@ -3426,6 +3493,7 @@ var actorMap = {
         "movies": [
             "Ghost Rider (2007)",
             "The Dark Knight Rises (2012)",
+            "The Guilt Trip (2012)",
             "Joker (2019)"
         ]
     },
@@ -3894,6 +3962,11 @@ var actorMap = {
     "Cailee Spaeny": {
         "movies": [
             "Bad Times at the El Royale (2018)"
+        ]
+    },
+    "Caitlyn Jenner": {
+        "movies": [
+            "Jack and Jill (2011)"
         ]
     },
     "Caitr\u00edona Balfe": {
@@ -4438,6 +4511,11 @@ var actorMap = {
             "Space Jam (1996)"
         ]
     },
+    "Charles Bickford": {
+        "movies": [
+            "A Star Is Born (1954)"
+        ]
+    },
     "Charles Boyer": {
         "movies": [
             "Casino Royale (1967)"
@@ -4570,6 +4648,11 @@ var actorMap = {
         ],
         "movies": [
             "Dune (2021)"
+        ]
+    },
+    "Charlotte Stewart": {
+        "movies": [
+            "Eraserhead (1977)"
         ]
     },
     "Charlton Heston": {
@@ -5017,7 +5100,8 @@ var actorMap = {
     },
     "Christie Brinkley": {
         "movies": [
-            "National Lampoon's Vacation (1983)"
+            "National Lampoon's Vacation (1983)",
+            "Jack and Jill (2011)"
         ]
     },
     "Christina Applegate": {
@@ -5534,6 +5618,7 @@ var actorMap = {
         "movies": [
             "Orange County (2002)",
             "King Kong (2005)",
+            "The Guilt Trip (2012)",
             "Jumanji: Welcome to the Jungle (2017)",
             "Jumanji: The Next Level (2019)"
         ]
@@ -5723,6 +5808,7 @@ var actorMap = {
     "Crispin Glover": {
         "movies": [
             "Back to the Future (1985)",
+            "Wild at Heart (1990)",
             "Charlie's Angels (2000)",
             "Charlie's Angels: Full Throttle (2003)",
             "Alice in Wonderland (2010)"
@@ -5918,6 +6004,7 @@ var actorMap = {
             "Blood Simple (1985)",
             "The First Wives Club (1996)",
             "Alien Resurrection (1997)",
+            "Mulholland Drive (2001)",
             "Robots (2005)"
         ]
     },
@@ -5934,6 +6021,11 @@ var actorMap = {
     "Dana Barron": {
         "movies": [
             "National Lampoon's Vacation (1983)"
+        ]
+    },
+    "Dana Carvey": {
+        "movies": [
+            "Jack and Jill (2011)"
         ]
     },
     "Dana Delany": {
@@ -6219,6 +6311,11 @@ var actorMap = {
             "Doctor Sleep (2019)"
         ]
     },
+    "Danny Lockin": {
+        "movies": [
+            "Hello, Dolly! (1969)"
+        ]
+    },
     "Danny McBride": {
         "movies": [
             "Hot Rod (2007)",
@@ -6232,6 +6329,7 @@ var actorMap = {
     },
     "Danny Pudi": {
         "movies": [
+            "The Guilt Trip (2012)",
             "Captain America: The Winter Soldier (2014)",
             "Star Trek Beyond (2016)"
         ]
@@ -6304,7 +6402,8 @@ var actorMap = {
     "Dave Chappelle": {
         "movies": [
             "You've Got Mail (1998)",
-            "Screwed (2000)"
+            "Screwed (2000)",
+            "A Star Is Born (2018)"
         ]
     },
     "Dave Filoni": {
@@ -6486,7 +6585,8 @@ var actorMap = {
     },
     "David Lynch": {
         "movies": [
-            "Dune (1984)"
+            "Dune (1984)",
+            "Inland Empire (2006)"
         ]
     },
     "David Morrissey": {
@@ -6535,6 +6635,7 @@ var actorMap = {
     "David Patrick Kelly": {
         "movies": [
             "48 Hrs. (1982)",
+            "Wild at Heart (1990)",
             "The Crow (1994)",
             "John Wick (2014)"
         ]
@@ -6565,6 +6666,11 @@ var actorMap = {
             "Six Days, Seven Nights (1998)",
             "Apt Pupil (1998)",
             "John Carter (2012)"
+        ]
+    },
+    "David Spade": {
+        "movies": [
+            "Jack and Jill (2011)"
         ]
     },
     "David Strathairn": {
@@ -6686,6 +6792,7 @@ var actorMap = {
         ],
         "movies": [
             "Dune (1984)",
+            "Blue Velvet (1986)",
             "The Manchurian Candidate (2004)"
         ]
     },
@@ -6843,6 +6950,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Blue Velvet (1986)",
             "True Romance (1993)"
         ]
     },
@@ -6984,6 +7092,7 @@ var actorMap = {
     },
     "Dexter Fletcher": {
         "movies": [
+            "The Elephant Man (1980)",
             "Kick-Ass (2010)"
         ]
     },
@@ -7061,7 +7170,9 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Ghosts of Mississippi (1996)"
+            "Wild at Heart (1990)",
+            "Ghosts of Mississippi (1996)",
+            "Inland Empire (2006)"
         ]
     },
     "Diane Lane": {
@@ -7492,7 +7603,8 @@ var actorMap = {
     },
     "Drew Carey": {
         "movies": [
-            "Robots (2005)"
+            "Robots (2005)",
+            "Jack and Jill (2011)"
         ]
     },
     "Dustin Hoffman": {
@@ -7542,10 +7654,12 @@ var actorMap = {
             "Rain Man (1988)",
             "Dick Tracy (1990)",
             "Hook (1991)",
+            "Meet the Fockers (2004)",
             "Stranger than Fiction (2006)",
             "The Holiday (2006)",
             "Kung Fu Panda (2008)",
             "The Tale of Despereaux (2008)",
+            "Little Fockers (2010)",
             "Kung Fu Panda 2 (2011)",
             "Chef (2014)",
             "Kung Fu Panda 3 (2016)"
@@ -7627,6 +7741,11 @@ var actorMap = {
             "12 Angry Men (1957)",
             "Superman II (1981)",
             "Absolute Power (1997)"
+        ]
+    },
+    "E. J. Peaker": {
+        "movies": [
+            "Hello, Dolly! (1969)"
         ]
     },
     "E. L. James": {
@@ -7737,6 +7856,11 @@ var actorMap = {
     "Ed Speleers": {
         "movies": [
             "Alice Through the Looking Glass (2016)"
+        ]
+    },
+    "Eddie Griffin": {
+        "movies": [
+            "A Star Is Born (2018)"
         ]
     },
     "Eddie Izzard": {
@@ -7951,6 +8075,7 @@ var actorMap = {
     },
     "Eli Wallach": {
         "movies": [
+            "Nuts (1987)",
             "The Holiday (2006)"
         ]
     },
@@ -8726,6 +8851,11 @@ var actorMap = {
             "Holy Man (1998)"
         ]
     },
+    "Eugenio Derbez": {
+        "movies": [
+            "Jack and Jill (2011)"
+        ]
+    },
     "Eunice Gayson": {
         "movies": [
             "Dr. No (1963)",
@@ -9315,6 +9445,11 @@ var actorMap = {
             "The Greatest Showman (2017)"
         ]
     },
+    "Fredric March": {
+        "movies": [
+            "A Star Is Born (1937)"
+        ]
+    },
     "Freida Pinto": {
         "movies": [
             "Rise of the Planet of the Apes (2011)",
@@ -9448,8 +9583,10 @@ var actorMap = {
             }
         ],
         "movies": [
+            "A Star Is Born (1976)",
             "Predator 2 (1990)",
-            "The Firm (1993)"
+            "The Firm (1993)",
+            "Lost Highway (1997)"
         ]
     },
     "Gary Cooper": {
@@ -9752,6 +9889,7 @@ var actorMap = {
     },
     "George Carlin": {
         "movies": [
+            "The Prince of Tides (1991)",
             "Dogma (1999)",
             "Cars (2006)"
         ]
@@ -9800,6 +9938,11 @@ var actorMap = {
             "Gravity (2013)"
         ]
     },
+    "George Gaynes": {
+        "movies": [
+            "The Way We Were (1973)"
+        ]
+    },
     "George Hamilton": {
         "movies": [
             "Rumor Has It (2005)"
@@ -9835,6 +9978,7 @@ var actorMap = {
     "George Segal": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)",
+            "The Mirror Has Two Faces (1996)",
             "2012 (2009)"
         ]
     },
@@ -9958,6 +10102,7 @@ var actorMap = {
     },
     "Giovanni Ribisi": {
         "movies": [
+            "Lost Highway (1997)",
             "Saving Private Ryan (1998)",
             "The Virgin Suicides (2000)",
             "Lost in Translation (2003)",
@@ -10175,6 +10320,7 @@ var actorMap = {
             "Star Trek (2009)",
             "Star Wars: The Force Awakens (2015)",
             "Star Trek Beyond (2016)",
+            "A Star Is Born (2018)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -10391,7 +10537,8 @@ var actorMap = {
     },
     "Halsey": {
         "movies": [
-            "Teen Titans Go! To the Movies (2018)"
+            "Teen Titans Go! To the Movies (2018)",
+            "A Star Is Born (2018)"
         ]
     },
     "Halston Sage": {
@@ -10509,7 +10656,9 @@ var actorMap = {
     "Harry Dean Stanton": {
         "movies": [
             "Alien (1979)",
+            "Wild at Heart (1990)",
             "The Green Mile (1999)",
+            "Inland Empire (2006)",
             "The Avengers (2012)"
         ]
     },
@@ -10565,7 +10714,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "From Dusk till Dawn (1996)"
+            "From Dusk till Dawn (1996)",
+            "Little Fockers (2010)"
         ]
     },
     "Hattie McDaniel": {
@@ -10972,6 +11122,11 @@ var actorMap = {
             "Captain America: Civil War (2016)"
         ]
     },
+    "Hope Lange": {
+        "movies": [
+            "Blue Velvet (1986)"
+        ]
+    },
     "Horatio Sanz": {
         "movies": [
             "Wreck-It Ralph (2012)"
@@ -11089,6 +11244,7 @@ var actorMap = {
         "movies": [
             "Young Frankenstein (1974)",
             "Wild Wild West (1999)",
+            "Inland Empire (2006)",
             "Star Wars: The Clone Wars (2008)"
         ]
     },
@@ -11369,6 +11525,8 @@ var actorMap = {
     },
     "Isabella Rossellini": {
         "movies": [
+            "Blue Velvet (1986)",
+            "Wild at Heart (1990)",
             "Incredibles 2 (2018)"
         ]
     },
@@ -11468,6 +11626,7 @@ var actorMap = {
     },
     "J. E. Freeman": {
         "movies": [
+            "Wild at Heart (1990)",
             "Alien Resurrection (1997)"
         ]
     },
@@ -11555,7 +11714,8 @@ var actorMap = {
     "Jack Carson": {
         "movies": [
             "Bringing Up Baby (1938)",
-            "Arsenic and Old Lace (1944)"
+            "Arsenic and Old Lace (1944)",
+            "A Star Is Born (1954)"
         ]
     },
     "Jack Davenport": {
@@ -11656,7 +11816,10 @@ var actorMap = {
     },
     "Jack Nance": {
         "movies": [
-            "Dune (1984)"
+            "Eraserhead (1977)",
+            "Dune (1984)",
+            "Blue Velvet (1986)",
+            "Lost Highway (1997)"
         ]
     },
     "Jack Nicholson": {
@@ -12047,6 +12210,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Funny Lady (1975)",
             "Dick Tracy (1990)",
             "Misery (1990)"
         ]
@@ -12227,6 +12391,7 @@ var actorMap = {
     },
     "James Mason": {
         "movies": [
+            "A Star Is Born (1954)",
             "North by Northwest (1959)"
         ]
     },
@@ -12280,6 +12445,7 @@ var actorMap = {
     "James Rebhorn": {
         "movies": [
             "The Game (1997)",
+            "Meet the Parents (2000)",
             "Cold Mountain (2003)"
         ]
     },
@@ -12362,6 +12528,7 @@ var actorMap = {
         "movies": [
             "Them! (1954)",
             "Planet of the Apes (1968)",
+            "Nuts (1987)",
             "The Shawshank Redemption (1994)"
         ]
     },
@@ -12379,6 +12546,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Way We Were (1973)",
             "Chaplin (1992)",
             "Ghosts of Mississippi (1996)",
             "The Virgin Suicides (2000)"
@@ -12569,6 +12737,11 @@ var actorMap = {
         "movies": [
             "Hidden Figures (2016)",
             "Welcome to Marwen (2018)"
+        ]
+    },
+    "Janet Gaynor": {
+        "movies": [
+            "A Star Is Born (1937)"
         ]
     },
     "Janet Jackson": {
@@ -12979,6 +13152,11 @@ var actorMap = {
             "Kung Fu Panda 3 (2016)"
         ]
     },
+    "Jeanne Bates": {
+        "movies": [
+            "Eraserhead (1977)"
+        ]
+    },
     "Jeanne Tripplehorn": {
         "movies": [
             "The Firm (1993)"
@@ -13024,6 +13202,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Mirror Has Two Faces (1996)",
             "Iron Man (2008)",
             "R.I.P.D. (2013)",
             "Kingsman: The Golden Circle (2017)",
@@ -13385,6 +13564,7 @@ var actorMap = {
         "movies": [
             "The Lion King (1994)",
             "Kingdom of Heaven (2005)",
+            "Inland Empire (2006)",
             "Appaloosa (2008)",
             "The Words (2012)",
             "Batman v Superman: Dawn of Justice (2016)",
@@ -13543,6 +13723,7 @@ var actorMap = {
             "Knocked Up (2007)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
             "Valentine's Day (2010)",
+            "Little Fockers (2010)",
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
@@ -14434,6 +14615,7 @@ var actorMap = {
     },
     "John Gielgud": {
         "movies": [
+            "The Elephant Man (1980)",
             "Shine (1996)",
             "Hamlet (1996)"
         ]
@@ -14506,6 +14688,7 @@ var actorMap = {
         "movies": [
             "The Lord of the Rings (1978)",
             "Alien (1979)",
+            "The Elephant Man (1980)",
             "Spaceballs (1987)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Hellboy (2004)",
@@ -14619,6 +14802,11 @@ var actorMap = {
     "John McCain": {
         "movies": [
             "Wedding Crashers (2005)"
+        ]
+    },
+    "John McEnroe": {
+        "movies": [
+            "Jack and Jill (2011)"
         ]
     },
     "John Michael Higgins": {
@@ -14846,6 +15034,7 @@ var actorMap = {
             "Alice in Wonderland (2010)",
             "The Tourist (2010)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "Jack and Jill (2011)",
             "Dark Shadows (2012)",
             "Into the Woods (2014)",
             "Mortdecai (2015)",
@@ -14881,6 +15070,11 @@ var actorMap = {
     "Johnny Whitworth": {
         "movies": [
             "Ghost Rider: Spirit of Vengeance (2012)"
+        ]
+    },
+    "Jon Abrahams": {
+        "movies": [
+            "Meet the Parents (2000)"
         ]
     },
     "Jon Bernthal": {
@@ -15458,6 +15652,11 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles (1990)"
         ]
     },
+    "Judith Roberts": {
+        "movies": [
+            "Eraserhead (1977)"
+        ]
+    },
     "Judy Davis": {
         "leadNoms": [
             {
@@ -15473,6 +15672,11 @@ var actorMap = {
         ],
         "movies": [
             "Absolute Power (1997)"
+        ]
+    },
+    "Judy Garland": {
+        "movies": [
+            "A Star Is Born (1954)"
         ]
     },
     "Judy Greer": {
@@ -15511,6 +15715,7 @@ var actorMap = {
     },
     "Julia Ormond": {
         "movies": [
+            "Inland Empire (2006)",
             "The Curious Case of Benjamin Button (2008)",
             "My Week with Marilyn (2011)"
         ]
@@ -15889,7 +16094,9 @@ var actorMap = {
     },
     "Justin Theroux": {
         "movies": [
+            "Mulholland Drive (2001)",
             "Charlie's Angels: Full Throttle (2003)",
+            "Inland Empire (2006)",
             "Tropic Thunder (2008)",
             "Star Wars: The Last Jedi (2017)",
             "Bumblebee (2018)",
@@ -15971,6 +16178,11 @@ var actorMap = {
     "Karin Dor": {
         "movies": [
             "You Only Live Twice (1967)"
+        ]
+    },
+    "Karl Malden": {
+        "movies": [
+            "Nuts (1987)"
         ]
     },
     "Karl Urban": {
@@ -16068,6 +16280,9 @@ var actorMap = {
                 "movie": "The Prince of Tides",
                 "year": "1991"
             }
+        ],
+        "movies": [
+            "The Prince of Tides (1991)"
         ]
     },
     "Kate Walsh": {
@@ -16341,7 +16556,8 @@ var actorMap = {
         "movies": [
             "This Is My Life (1992)",
             "Hocus Pocus (1993)",
-            "WALL-E (2008)"
+            "WALL-E (2008)",
+            "The Guilt Trip (2012)"
         ]
     },
     "Katie Chang": {
@@ -16358,12 +16574,18 @@ var actorMap = {
         "movies": [
             "Batman Begins (2005)",
             "Mad Money (2008)",
+            "Jack and Jill (2011)",
             "Ocean's 8 (2018)"
         ]
     },
     "Katrina Bowden": {
         "movies": [
             "Movie 43 (2013)"
+        ]
+    },
+    "Kay Medford": {
+        "movies": [
+            "Funny Girl (1968)"
         ]
     },
     "Kaya Scodelario": {
@@ -16640,6 +16862,7 @@ var actorMap = {
     },
     "Kenneth Mars": {
         "movies": [
+            "What's Up, Doc? (1972)",
             "Young Frankenstein (1974)"
         ]
     },
@@ -16652,6 +16875,7 @@ var actorMap = {
         "movies": [
             "Star Wars (1977)",
             "The Empire Strikes Back (1980)",
+            "The Elephant Man (1980)",
             "Return of the Jedi (1983)",
             "Willow (1988)",
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
@@ -16750,6 +16974,7 @@ var actorMap = {
     },
     "Kevin Hart": {
         "movies": [
+            "Little Fockers (2010)",
             "Think Like a Man (2012)",
             "This Is the End (2013)",
             "About Last Night (2014)",
@@ -17049,6 +17274,7 @@ var actorMap = {
     },
     "Kris Kristofferson": {
         "movies": [
+            "A Star Is Born (1976)",
             "Blade (1998)",
             "Planet of the Apes (2001)",
             "Blade II (2002)",
@@ -17123,7 +17349,8 @@ var actorMap = {
     },
     "Kristin Davis": {
         "movies": [
-            "Couples Retreat (2009)"
+            "Couples Retreat (2009)",
+            "Jack and Jill (2011)"
         ]
     },
     "Kristin Scott Thomas": {
@@ -17204,7 +17431,8 @@ var actorMap = {
     },
     "Kyle MacLachlan": {
         "movies": [
-            "Dune (1984)"
+            "Dune (1984)",
+            "Blue Velvet (1986)"
         ]
     },
     "Kyle Richards": {
@@ -17253,7 +17481,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Sin City: A Dame to Kill For (2014)"
+            "Sin City: A Dame to Kill For (2014)",
+            "A Star Is Born (2018)"
         ]
     },
     "Lainie Kazan": {
@@ -17412,9 +17641,13 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Blue Velvet (1986)",
+            "Wild at Heart (1990)",
             "Jurassic Park (1993)",
             "Jurassic Park III (2001)",
             "I Am Sam (2001)",
+            "Inland Empire (2006)",
+            "Little Fockers (2010)",
             "Wild (2014)",
             "Star Wars: The Last Jedi (2017)",
             "Marriage Story (2019)",
@@ -17442,7 +17675,9 @@ var actorMap = {
     },
     "Laura Harring": {
         "movies": [
-            "The Punisher (2004)"
+            "Mulholland Drive (2001)",
+            "The Punisher (2004)",
+            "Inland Empire (2006)"
         ]
     },
     "Laura Linney": {
@@ -17479,7 +17714,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Misery (1990)"
+            "Misery (1990)",
+            "The Mirror Has Two Faces (1996)"
         ]
     },
     "Lauren Cohan": {
@@ -17611,7 +17847,8 @@ var actorMap = {
     },
     "Lee Grant": {
         "movies": [
-            "Shampoo (1975)"
+            "Shampoo (1975)",
+            "Mulholland Drive (2001)"
         ]
     },
     "Lee J. Cobb": {
@@ -17829,6 +18066,11 @@ var actorMap = {
             "Knocked Up (2007)",
             "The Bling Ring (2013)",
             "Welcome to Marwen (2018)"
+        ]
+    },
+    "Leslie Nielsen": {
+        "movies": [
+            "Nuts (1987)"
         ]
     },
     "Leslie Odom Jr.": {
@@ -18144,7 +18386,8 @@ var actorMap = {
     },
     "Lionel Stander": {
         "movies": [
-            "Mr. Deeds Goes to Town (1936)"
+            "Mr. Deeds Goes to Town (1936)",
+            "A Star Is Born (1937)"
         ]
     },
     "Lisa Kudrow": {
@@ -18215,6 +18458,11 @@ var actorMap = {
             "The Bling Ring (2013)"
         ]
     },
+    "Lois Chiles": {
+        "movies": [
+            "The Way We Were (1973)"
+        ]
+    },
     "Lois Maxwell": {
         "movies": [
             "Dr. No (1963)",
@@ -18280,6 +18528,11 @@ var actorMap = {
             "The Incredibles (2004)",
             "Cars (2006)",
             "Ratatouille (2007)"
+        ]
+    },
+    "Louis Armstrong": {
+        "movies": [
+            "Hello, Dolly! (1969)"
         ]
     },
     "Louis Ashbourne Serkis": {
@@ -18548,6 +18801,7 @@ var actorMap = {
     "M. Emmet Walsh": {
         "movies": [
             "Escape from the Planet of the Apes (1971)",
+            "What's Up, Doc? (1972)",
             "Blood Simple (1985)",
             "Wild Wild West (1999)",
             "Knives Out (2019)"
@@ -18602,6 +18856,7 @@ var actorMap = {
     },
     "Madeline Kahn": {
         "movies": [
+            "What's Up, Doc? (1972)",
             "Young Frankenstein (1974)",
             "Mixed Nuts (1994)",
             "A Bug's Life (1998)"
@@ -18813,6 +19068,7 @@ var actorMap = {
     },
     "Mandy Patinkin": {
         "movies": [
+            "Yentl (1983)",
             "Dick Tracy (1990)"
         ]
     },
@@ -18992,6 +19248,11 @@ var actorMap = {
             "RoboCop (2014)"
         ]
     },
+    "Marianne McAndrew": {
+        "movies": [
+            "Hello, Dolly! (1969)"
+        ]
+    },
     "Mariel Hemingway": {
         "movies": [
             "Superman IV: The Quest for Peace (1987)"
@@ -18999,6 +19260,7 @@ var actorMap = {
     },
     "Marilyn Manson": {
         "movies": [
+            "Lost Highway (1997)",
             "The New Mutants (2020)"
         ]
     },
@@ -19546,6 +19808,7 @@ var actorMap = {
         "movies": [
             "Back to the Future Part III (1990)",
             "I Am Sam (2001)",
+            "Inland Empire (2006)",
             "Four Christmases (2008)",
             "The Help (2011)",
             "Book Club (2018)",
@@ -19809,6 +20072,11 @@ var actorMap = {
             "Insomnia (2002)"
         ]
     },
+    "Maureen Stapleton": {
+        "movies": [
+            "Nuts (1987)"
+        ]
+    },
     "Maurice Evans": {
         "movies": [
             "Planet of the Apes (1968)",
@@ -19873,6 +20141,7 @@ var actorMap = {
     },
     "May Robson": {
         "movies": [
+            "A Star Is Born (1937)",
             "Bringing Up Baby (1938)"
         ]
     },
@@ -20000,6 +20269,7 @@ var actorMap = {
     },
     "Melinda Dillon": {
         "movies": [
+            "The Prince of Tides (1991)",
             "Magnolia (1999)"
         ]
     },
@@ -20016,6 +20286,7 @@ var actorMap = {
     },
     "Melissa George": {
         "movies": [
+            "Mulholland Drive (2001)",
             "30 Days of Night (2007)"
         ]
     },
@@ -20416,6 +20687,11 @@ var actorMap = {
             "The Hustler (1961)"
         ]
     },
+    "Michael Crawford": {
+        "movies": [
+            "Hello, Dolly! (1969)"
+        ]
+    },
     "Michael Cudlitz": {
         "movies": [
             "Surrogates (2009)"
@@ -20666,6 +20942,7 @@ var actorMap = {
     },
     "Michael Murphy": {
         "movies": [
+            "What's Up, Doc? (1972)",
             "Batman Returns (1992)",
             "Magnolia (1999)",
             "X-Men: The Last Stand (2006)"
@@ -21086,6 +21363,7 @@ var actorMap = {
         "movies": [
             "Chaplin (1992)",
             "Dazed and Confused (1993)",
+            "The Mirror Has Two Faces (1996)",
             "The Fifth Element (1997)",
             "He Got Game (1998)",
             "The Three Musketeers (2011)",
@@ -21112,6 +21390,7 @@ var actorMap = {
     },
     "Mimi Rogers": {
         "movies": [
+            "The Mirror Has Two Faces (1996)",
             "Austin Powers: International Man of Mystery (1997)"
         ]
     },
@@ -21208,9 +21487,11 @@ var actorMap = {
     },
     "Miriam Margolyes": {
         "movies": [
+            "Yentl (1983)",
             "Little Shop of Horrors (1986)",
             "Harry Potter and the Chamber of Secrets (2002)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "The Guilt Trip (2012)"
         ]
     },
     "Mischa Auer": {
@@ -21408,7 +21689,8 @@ var actorMap = {
     "Murray Hamilton": {
         "movies": [
             "The Hustler (1961)",
-            "The Graduate (1967)"
+            "The Graduate (1967)",
+            "The Way We Were (1973)"
         ]
     },
     "Muse Watson": {
@@ -21482,7 +21764,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Mulholland Drive (2001)",
             "King Kong (2005)",
+            "Inland Empire (2006)",
             "The Impossible (2012)",
             "Movie 43 (2013)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
@@ -21812,7 +22096,8 @@ var actorMap = {
     "Nick Kroll": {
         "movies": [
             "I Love You, Man (2009)",
-            "Date Night (2010)"
+            "Date Night (2010)",
+            "Little Fockers (2010)"
         ]
     },
     "Nick Lachey": {
@@ -21840,6 +22125,7 @@ var actorMap = {
         "movies": [
             "48 Hrs. (1982)",
             "Cape Fear (1991)",
+            "The Prince of Tides (1991)",
             "Hulk (2003)",
             "Tropic Thunder (2008)",
             "Noah (2014)"
@@ -21869,7 +22155,8 @@ var actorMap = {
         "movies": [
             "Malibu's Most Wanted (2003)",
             "Blades of Glory (2007)",
-            "Just Go with It (2011)"
+            "Just Go with It (2011)",
+            "Jack and Jill (2011)"
         ]
     },
     "Nicola Peltz": {
@@ -21897,6 +22184,7 @@ var actorMap = {
         ],
         "movies": [
             "The Outsiders (1983)",
+            "Wild at Heart (1990)",
             "Ghost Rider (2007)",
             "G-Force (2009)",
             "Kick-Ass (2010)",
@@ -22075,7 +22363,8 @@ var actorMap = {
     },
     "Norm Macdonald": {
         "movies": [
-            "Screwed (2000)"
+            "Screwed (2000)",
+            "Jack and Jill (2011)"
         ]
     },
     "Norma Aleandro": {
@@ -22317,6 +22606,12 @@ var actorMap = {
             "Baby Boy (2001)"
         ]
     },
+    "Omar Sharif": {
+        "movies": [
+            "Funny Girl (1968)",
+            "Funny Lady (1975)"
+        ]
+    },
     "Omar Sy": {
         "movies": [
             "X-Men: Days of Future Past (2014)",
@@ -22423,10 +22718,13 @@ var actorMap = {
     },
     "Owen Wilson": {
         "movies": [
+            "Meet the Parents (2000)",
             "The Royal Tenenbaums (2001)",
+            "Meet the Fockers (2004)",
             "Wedding Crashers (2005)",
             "Cars (2006)",
-            "How Do You Know (2010)"
+            "How Do You Know (2010)",
+            "Little Fockers (2010)"
         ]
     },
     "Ozzy Osbourne": {
@@ -22530,7 +22828,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "True Romance (1993)"
+            "True Romance (1993)",
+            "Lost Highway (1997)"
         ]
     },
     "Patricia Clarkson": {
@@ -22584,7 +22883,8 @@ var actorMap = {
     },
     "Patrick Fischler": {
         "movies": [
-            "Ghost World (2001)"
+            "Ghost World (2001)",
+            "Mulholland Drive (2001)"
         ]
     },
     "Patrick Fugit": {
@@ -22976,6 +23276,11 @@ var actorMap = {
         "movies": [
             "Kingsman: The Golden Circle (2017)",
             "Wonder Woman 1984 (2020)"
+        ]
+    },
+    "Peggy Wood": {
+        "movies": [
+            "A Star Is Born (1937)"
         ]
     },
     "Penelope Ann Miller": {
@@ -23437,6 +23742,7 @@ var actorMap = {
     "Pierce Brosnan": {
         "movies": [
             "Love Affair (1994)",
+            "The Mirror Has Two Faces (1996)",
             "The Tailor of Panama (2001)"
         ]
     },
@@ -23703,7 +24009,8 @@ var actorMap = {
     },
     "Rafi Gavron": {
         "movies": [
-            "Inkheart (2009)"
+            "Inkheart (2009)",
+            "A Star Is Born (2018)"
         ]
     },
     "Rainn Wilson": {
@@ -23807,6 +24114,7 @@ var actorMap = {
     },
     "Randy Quaid": {
         "movies": [
+            "What's Up, Doc? (1972)",
             "National Lampoon's Vacation (1983)",
             "Days of Thunder (1990)"
         ]
@@ -24044,6 +24352,11 @@ var actorMap = {
             "You Again (2010)"
         ]
     },
+    "Regis Philbin": {
+        "movies": [
+            "Jack and Jill (2011)"
+        ]
+    },
     "Reid Scott": {
         "movies": [
             "Venom (2018)",
@@ -24233,6 +24546,7 @@ var actorMap = {
         "movies": [
             "The Graduate (1967)",
             "Stand by Me (1986)",
+            "Nuts (1987)",
             "Red (2010)",
             "Book Club (2018)",
             "Polar (2019)"
@@ -24382,7 +24696,8 @@ var actorMap = {
     },
     "Richard Pryor": {
         "movies": [
-            "Superman III (1983)"
+            "Superman III (1983)",
+            "Lost Highway (1997)"
         ]
     },
     "Richard Roundtree": {
@@ -24416,6 +24731,11 @@ var actorMap = {
     "Rick Fox": {
         "movies": [
             "He Got Game (1998)"
+        ]
+    },
+    "Rick Gonzalez": {
+        "movies": [
+            "The Guilt Trip (2012)"
         ]
     },
     "Rick Moranis": {
@@ -24615,6 +24935,11 @@ var actorMap = {
             "Mary Poppins (1964)"
         ]
     },
+    "Robert Blake": {
+        "movies": [
+            "Lost Highway (1997)"
+        ]
+    },
     "Robert Carradine": {
         "movies": [
             "Ghosts of Mars (2001)"
@@ -24674,7 +24999,10 @@ var actorMap = {
         "movies": [
             "The Deer Hunter (1978)",
             "Cape Fear (1991)",
+            "Meet the Parents (2000)",
             "Showtime (2002)",
+            "Meet the Fockers (2004)",
+            "Little Fockers (2010)",
             "New Year's Eve (2011)",
             "Silver Linings Playbook (2012)",
             "American Hustle (2013)",
@@ -24762,6 +25090,11 @@ var actorMap = {
             "Widows (2018)"
         ]
     },
+    "Robert Englund": {
+        "movies": [
+            "A Star Is Born (1976)"
+        ]
+    },
     "Robert Forster": {
         "suppNoms": [
             {
@@ -24771,6 +25104,7 @@ var actorMap = {
         ],
         "movies": [
             "Psycho (1998)",
+            "Mulholland Drive (2001)",
             "Charlie's Angels: Full Throttle (2003)",
             "Firewall (2006)",
             "Ghosts of Girlfriends Past (2009)"
@@ -24796,6 +25130,7 @@ var actorMap = {
         "movies": [
             "Armed and Dangerous (1986)",
             "Big (1988)",
+            "Lost Highway (1997)",
             "Holy Man (1998)"
         ]
     },
@@ -24839,6 +25174,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Way We Were (1973)",
             "Lions for Lambs (2007)",
             "Captain America: The Winter Soldier (2014)",
             "Pete's Dragon (2016)",
@@ -24963,6 +25299,7 @@ var actorMap = {
             "Escape from the Planet of the Apes (1971)",
             "Conquest of the Planet of the Apes (1972)",
             "Battle for the Planet of the Apes (1973)",
+            "Funny Lady (1975)",
             "A Bug's Life (1998)"
         ]
     },
@@ -25006,6 +25343,7 @@ var actorMap = {
     },
     "Rohan Chand": {
         "movies": [
+            "Jack and Jill (2011)",
             "Jumanji: Welcome to the Jungle (2017)",
             "Mowgli: Legend of the Jungle (2018)"
         ]
@@ -25438,6 +25776,7 @@ var actorMap = {
     },
     "Ryan O'Neal": {
         "movies": [
+            "What's Up, Doc? (1972)",
             "Malibu's Most Wanted (2003)"
         ]
     },
@@ -25577,6 +25916,10 @@ var actorMap = {
                 "movie": "Anna",
                 "year": "1987"
             }
+        ],
+        "movies": [
+            "The Way We Were (1973)",
+            "A Star Is Born (1976)"
         ]
     },
     "Salma Hayek": {
@@ -25621,7 +25964,8 @@ var actorMap = {
         "movies": [
             "Tombstone (1993)",
             "Hulk (2003)",
-            "Ghost Rider (2007)"
+            "Ghost Rider (2007)",
+            "A Star Is Born (2018)"
         ]
     },
     "Sam Hargrave": {
@@ -26026,6 +26370,7 @@ var actorMap = {
     },
     "Scatman Crothers": {
         "movies": [
+            "Hello, Dolly! (1969)",
             "The Shining (1980)",
             "The Transformers: The Movie (1986)"
         ]
@@ -26297,6 +26642,7 @@ var actorMap = {
             "The Green Hornet (2011)",
             "Kung Fu Panda 2 (2011)",
             "50/50 (2011)",
+            "The Guilt Trip (2012)",
             "This Is the End (2013)",
             "Kung Fu Panda 3 (2016)",
             "Long Shot (2019)",
@@ -26356,6 +26702,7 @@ var actorMap = {
         "movies": [
             "Steel (1997)",
             "When in Rome (2010)",
+            "Jack and Jill (2011)",
             "The Lego Movie (2014)",
             "What Men Want (2019)"
         ]
@@ -26452,6 +26799,11 @@ var actorMap = {
     "Sherri Shepherd": {
         "movies": [
             "Think Like a Man (2012)"
+        ]
+    },
+    "Sheryl Lee": {
+        "movies": [
+            "Wild at Heart (1990)"
         ]
     },
     "Shia LaBeouf": {
@@ -27664,6 +28016,13 @@ var actorMap = {
             "Ghost World (2001)"
         ]
     },
+    "Teri Polo": {
+        "movies": [
+            "Meet the Parents (2000)",
+            "Meet the Fockers (2004)",
+            "Little Fockers (2010)"
+        ]
+    },
     "Terrence Howard": {
         "leadNoms": [
             {
@@ -27698,6 +28057,7 @@ var actorMap = {
     "Terry Crews": {
         "movies": [
             "Malibu's Most Wanted (2003)",
+            "Inland Empire (2006)",
             "Bridesmaids (2011)",
             "Deadpool 2 (2018)"
         ]
@@ -27935,6 +28295,7 @@ var actorMap = {
     "Tim Blake Nelson": {
         "movies": [
             "Minority Report (2002)",
+            "Meet the Fockers (2004)",
             "The Incredible Hulk (2008)",
             "Fantastic Four (2015)",
             "Nightmare Alley (2021)"
@@ -27980,6 +28341,7 @@ var actorMap = {
     "Tim Meadows": {
         "movies": [
             "Mean Girls (2004)",
+            "Jack and Jill (2011)",
             "Trainwreck (2015)"
         ]
     },
@@ -28421,7 +28783,9 @@ var actorMap = {
     },
     "Tom McCarthy": {
         "movies": [
-            "2012 (2009)"
+            "Meet the Parents (2000)",
+            "2012 (2009)",
+            "Little Fockers (2010)"
         ]
     },
     "Tom Noonan": {
@@ -29368,7 +29732,13 @@ var actorMap = {
     "Walter Matthau": {
         "movies": [
             "Charade (1963)",
+            "Hello, Dolly! (1969)",
             "Hanging Up (2000)"
+        ]
+    },
+    "Walter Pidgeon": {
+        "movies": [
+            "Funny Girl (1968)"
         ]
     },
     "Walton Goggins": {
@@ -29458,6 +29828,11 @@ var actorMap = {
             "Bridesmaids (2011)",
             "Think Like a Man Too (2014)",
             "What Men Want (2019)"
+        ]
+    },
+    "Wendy Hiller": {
+        "movies": [
+            "The Elephant Man (1980)"
         ]
     },
     "Wendy Williams": {
@@ -29673,6 +30048,7 @@ var actorMap = {
         "movies": [
             "Mississippi Burning (1988)",
             "Born on the Fourth of July (1989)",
+            "Wild at Heart (1990)",
             "Spider-Man (2002)",
             "Finding Nemo (2003)",
             "Spider-Man 2 (2004)",
@@ -29732,6 +30108,7 @@ var actorMap = {
             "Jurassic Park III (2001)",
             "Cellular (2004)",
             "Sahara (2005)",
+            "Inland Empire (2006)",
             "The Tale of Despereaux (2008)"
         ]
     },
@@ -30057,6 +30434,7 @@ var actorMap = {
     },
     "Yvonne Strahovski": {
         "movies": [
+            "The Guilt Trip (2012)",
             "I, Frankenstein (2014)",
             "The Predator (2018)"
         ]

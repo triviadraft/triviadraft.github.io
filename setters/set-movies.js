@@ -1440,6 +1440,14 @@ var movieMap = {
             "Classics",
             "Dramas",
             "Romance"
+        ],
+        "cast": [
+            "Adolphe Menjou",
+            "Fredric March",
+            "Janet Gaynor",
+            "Lionel Stander",
+            "May Robson",
+            "Peggy Wood"
         ]
     },
     "Shall We Dance (1937)": {
@@ -5301,6 +5309,12 @@ var movieMap = {
             "Dramas",
             "Remakes & Reboots",
             "Romance"
+        ],
+        "cast": [
+            "Charles Bickford",
+            "Jack Carson",
+            "James Mason",
+            "Judy Garland"
         ]
     },
     "White Christmas (1954)": {
@@ -10216,6 +10230,13 @@ var movieMap = {
             "Barbra Streisand",
             "Classics",
             "Musicals"
+        ],
+        "cast": [
+            "Anne Francis",
+            "Barbra Streisand",
+            "Kay Medford",
+            "Omar Sharif",
+            "Walter Pidgeon"
         ]
     },
     "Salt and Pepper (1968)": {
@@ -10851,6 +10872,16 @@ var movieMap = {
             "Barbra Streisand",
             "Classics",
             "Musicals"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Danny Lockin",
+            "E. J. Peaker",
+            "Louis Armstrong",
+            "Marianne McAndrew",
+            "Michael Crawford",
+            "Scatman Crothers",
+            "Walter Matthau"
         ]
     },
     "Anne of the Thousand Days (1969)": {
@@ -11919,6 +11950,15 @@ var movieMap = {
         "categories": [
             "1970s",
             "Barbra Streisand"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Kenneth Mars",
+            "M. Emmet Walsh",
+            "Madeline Kahn",
+            "Michael Murphy",
+            "Randy Quaid",
+            "Ryan O'Neal"
         ]
     },
     "The Godfather (1972)": {
@@ -12988,6 +13028,15 @@ var movieMap = {
             "Barbra Streisand",
             "Paul Newman & Robert Redford",
             "Romance"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "George Gaynes",
+            "James Woods",
+            "Lois Chiles",
+            "Murray Hamilton",
+            "Robert Redford",
+            "Sally Kirkland"
         ]
     },
     "Robin Hood (1973)": {
@@ -13892,6 +13941,12 @@ var movieMap = {
             "1970s",
             "Barbra Streisand",
             "Musicals"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "James Caan",
+            "Omar Sharif",
+            "Roddy McDowall"
         ]
     },
     "Tommy (1975)": {
@@ -14980,6 +15035,13 @@ var movieMap = {
             "Dramas",
             "Remakes & Reboots",
             "Romance"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Gary Busey",
+            "Kris Kristofferson",
+            "Robert Englund",
+            "Sally Kirkland"
         ]
     },
     "Freaky Friday (1976)": {
@@ -15480,6 +15542,12 @@ var movieMap = {
         "categories": [
             "1970s",
             "David Lynch"
+        ],
+        "cast": [
+            "Charlotte Stewart",
+            "Jack Nance",
+            "Jeanne Bates",
+            "Judith Roberts"
         ]
     },
     "Julia (1977)": {
@@ -17698,6 +17766,15 @@ var movieMap = {
             "1980s",
             "Biopics",
             "David Lynch"
+        ],
+        "cast": [
+            "Anne Bancroft",
+            "Anthony Hopkins",
+            "Dexter Fletcher",
+            "John Gielgud",
+            "John Hurt",
+            "Kenny Baker",
+            "Wendy Hiller"
         ]
     },
     "Kagemusha (1980)": {
@@ -21194,6 +21271,12 @@ var movieMap = {
         "categories": [
             "1980s",
             "Barbra Streisand"
+        ],
+        "cast": [
+            "Amy Irving",
+            "Barbra Streisand",
+            "Mandy Patinkin",
+            "Miriam Margolyes"
         ]
     },
     "Terms of Endearment (1983)": {
@@ -25647,6 +25730,16 @@ var movieMap = {
         "categories": [
             "1980s",
             "David Lynch"
+        ],
+        "cast": [
+            "Brad Dourif",
+            "Dean Stockwell",
+            "Dennis Hopper",
+            "Hope Lange",
+            "Isabella Rossellini",
+            "Jack Nance",
+            "Kyle MacLachlan",
+            "Laura Dern"
         ]
     },
     "The Name of the Rose (1986)": {
@@ -27573,6 +27666,15 @@ var movieMap = {
             "1980s",
             "Barbra Streisand",
             "Courtroom Dramas & Legal Thrillers"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Eli Wallach",
+            "James Whitmore",
+            "Karl Malden",
+            "Leslie Nielsen",
+            "Maureen Stapleton",
+            "Richard Dreyfuss"
         ]
     },
     "Throw Momma from the Train (1987)": {
@@ -32494,6 +32596,18 @@ var movieMap = {
             "David Lynch",
             "Horror/Thriller",
             "Nicolas Cage"
+        ],
+        "cast": [
+            "Crispin Glover",
+            "David Patrick Kelly",
+            "Diane Ladd",
+            "Harry Dean Stanton",
+            "Isabella Rossellini",
+            "J. E. Freeman",
+            "Laura Dern",
+            "Nicolas Cage",
+            "Sheryl Lee",
+            "Willem Dafoe"
         ]
     },
     "Pump Up the Volume (1990)": {
@@ -35040,6 +35154,14 @@ var movieMap = {
         "categories": [
             "1990s",
             "Barbra Streisand"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Blythe Danner",
+            "George Carlin",
+            "Kate Nelligan",
+            "Melinda Dillon",
+            "Nick Nolte"
         ]
     },
     "Fried Green Tomatoes (1991)": {
@@ -46868,6 +46990,16 @@ var movieMap = {
             "1990s",
             "Barbra Streisand",
             "Romance"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Brenda Vaccaro",
+            "George Segal",
+            "Jeff Bridges",
+            "Lauren Bacall",
+            "Milla Jovovich",
+            "Mimi Rogers",
+            "Pierce Brosnan"
         ]
     },
     "Jingle All the Way (1996)": {
@@ -47739,6 +47871,18 @@ var movieMap = {
         "categories": [
             "1990s",
             "David Lynch"
+        ],
+        "cast": [
+            "Balthazar Getty",
+            "Bill Pullman",
+            "Gary Busey",
+            "Giovanni Ribisi",
+            "Jack Nance",
+            "Marilyn Manson",
+            "Patricia Arquette",
+            "Richard Pryor",
+            "Robert Blake",
+            "Robert Loggia"
         ]
     },
     "Rosewood (1997)": {
@@ -57275,6 +57419,16 @@ var movieMap = {
             "Comedies",
             "Frat Pack",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Ben Stiller",
+            "Blythe Danner",
+            "James Rebhorn",
+            "Jon Abrahams",
+            "Owen Wilson",
+            "Robert De Niro",
+            "Teri Polo",
+            "Tom McCarthy"
         ]
     },
     "Requiem for a Dream (2000)": {
@@ -59974,6 +60128,18 @@ var movieMap = {
             "David Lynch",
             "Horror/Thriller",
             "Thriller"
+        ],
+        "cast": [
+            "Angelo Badalamenti",
+            "Billy Ray Cyrus",
+            "Dan Hedaya",
+            "Justin Theroux",
+            "Laura Harring",
+            "Lee Grant",
+            "Melissa George",
+            "Naomi Watts",
+            "Patrick Fischler",
+            "Robert Forster"
         ]
     },
     "Riding in Cars with Boys (2001)": {
@@ -70167,6 +70333,17 @@ var movieMap = {
             "Comedies",
             "Frat Pack",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Alanna Ubach",
+            "Barbra Streisand",
+            "Ben Stiller",
+            "Blythe Danner",
+            "Dustin Hoffman",
+            "Owen Wilson",
+            "Robert De Niro",
+            "Teri Polo",
+            "Tim Blake Nelson"
         ]
     },
     "The Phantom of the Opera (2004)": {
@@ -76573,6 +76750,21 @@ var movieMap = {
         "categories": [
             "2000s",
             "David Lynch"
+        ],
+        "cast": [
+            "David Lynch",
+            "Diane Ladd",
+            "Harry Dean Stanton",
+            "Ian Abercrombie",
+            "Jeremy Irons",
+            "Julia Ormond",
+            "Justin Theroux",
+            "Laura Dern",
+            "Laura Harring",
+            "Mary Steenburgen",
+            "Naomi Watts",
+            "Terry Crews",
+            "William H. Macy"
         ]
     },
     "Apocalypto (2006)": {
@@ -89988,6 +90180,21 @@ var movieMap = {
             "Frat Pack",
             "Kevin Hart",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Barbra Streisand",
+            "Ben Stiller",
+            "Blythe Danner",
+            "Dustin Hoffman",
+            "Harvey Keitel",
+            "Jessica Alba",
+            "Kevin Hart",
+            "Laura Dern",
+            "Nick Kroll",
+            "Owen Wilson",
+            "Robert De Niro",
+            "Teri Polo",
+            "Tom McCarthy"
         ]
     },
     "True Grit (2010)": {
@@ -92931,6 +93138,27 @@ var movieMap = {
             "Al Pacino",
             "Comedies",
             "Happy Madison & Adam Sandler"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Al Pacino",
+            "Allen Covert",
+            "Caitlyn Jenner",
+            "Christie Brinkley",
+            "Dana Carvey",
+            "David Spade",
+            "Drew Carey",
+            "Eugenio Derbez",
+            "John McEnroe",
+            "Johnny Depp",
+            "Katie Holmes",
+            "Kristin Davis",
+            "Nick Swardson",
+            "Norm Macdonald",
+            "Regis Philbin",
+            "Rohan Chand",
+            "Shaquille O'Neal",
+            "Tim Meadows"
         ]
     },
     "The Descendants (2011)": {
@@ -96471,6 +96699,19 @@ var movieMap = {
             "2010s",
             "Barbra Streisand",
             "Frat Pack"
+        ],
+        "cast": [
+            "Adam Scott",
+            "Ari Graynor",
+            "Barbra Streisand",
+            "Brett Cullen",
+            "Colin Hanks",
+            "Danny Pudi",
+            "Kathy Najimy",
+            "Miriam Margolyes",
+            "Rick Gonzalez",
+            "Seth Rogen",
+            "Yvonne Strahovski"
         ]
     },
     "Zero Dark Thirty (2012)": {
@@ -118478,6 +118719,19 @@ var movieMap = {
             "Musicians in Film",
             "Remakes & Reboots",
             "Romance"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Andrew Dice Clay",
+            "Anthony Ramos",
+            "Bradley Cooper",
+            "Dave Chappelle",
+            "Eddie Griffin",
+            "Greg Grunberg",
+            "Halsey",
+            "Lady Gaga",
+            "Rafi Gavron",
+            "Sam Elliott"
         ]
     },
     "Malevolent (2018)": {
