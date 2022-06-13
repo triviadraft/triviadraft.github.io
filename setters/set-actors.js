@@ -2625,7 +2625,13 @@ var actorMap = {
         "movies": [
             "Traffic (2000)",
             "Catwoman (2004)",
+            "Ride Along 2 (2016)",
             "Doctor Strange (2016)"
+        ]
+    },
+    "Benjamin Flores Jr.": {
+        "movies": [
+            "Ride Along (2014)"
         ]
     },
     "Benjamin Walker": {
@@ -3486,6 +3492,7 @@ var actorMap = {
     },
     "Bresha Webb": {
         "movies": [
+            "Ride Along 2 (2016)",
             "Acrimony (2018)"
         ]
     },
@@ -3769,7 +3776,9 @@ var actorMap = {
         "movies": [
             "Timecop (1994)",
             "Collateral (2004)",
-            "Elizabethtown (2005)"
+            "Elizabethtown (2005)",
+            "Ride Along (2014)",
+            "Ride Along 2 (2016)"
         ]
     },
     "Bruce Willis": {
@@ -4757,7 +4766,8 @@ var actorMap = {
     },
     "Chi McBride": {
         "movies": [
-            "The Terminal (2004)"
+            "The Terminal (2004)",
+            "Annapolis (2006)"
         ]
     },
     "China Anne McClain": {
@@ -6475,6 +6485,12 @@ var actorMap = {
             "The Lord of the Rings (1978)"
         ]
     },
+    "David Carradine": {
+        "movies": [
+            "Death Race 2000 (1975)",
+            "Death Race (2008)"
+        ]
+    },
     "David Caruso": {
         "movies": [
             "Twins (1988)"
@@ -7508,7 +7524,8 @@ var actorMap = {
     },
     "Donnie Wahlberg": {
         "movies": [
-            "Dreamcatcher (2003)"
+            "Dreamcatcher (2003)",
+            "Annapolis (2006)"
         ]
     },
     "Donnie Yen": {
@@ -10125,6 +10142,7 @@ var actorMap = {
     },
     "Glen Powell": {
         "movies": [
+            "Ride Along 2 (2016)",
             "Hidden Figures (2016)"
         ]
     },
@@ -11326,6 +11344,7 @@ var actorMap = {
         "movies": [
             "Hot Rod (2007)",
             "Kung Fu Panda (2008)",
+            "Death Race (2008)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
             "Snow White and the Huntsman (2012)",
             "Hercules (2014)",
@@ -11337,7 +11356,9 @@ var actorMap = {
     "Ice Cube": {
         "movies": [
             "Boyz n the Hood (1991)",
-            "Ghosts of Mars (2001)"
+            "Ghosts of Mars (2001)",
+            "Ride Along (2014)",
+            "Ride Along 2 (2016)"
         ]
     },
     "Idina Menzel": {
@@ -12036,6 +12057,11 @@ var actorMap = {
             "Spider-Man: No Way Home (2021)"
         ]
     },
+    "Jacob Latimore": {
+        "movies": [
+            "Ride Along (2014)"
+        ]
+    },
     "Jacob Tremblay": {
         "movies": [
             "The Book of Henry (2017)",
@@ -12326,6 +12352,7 @@ var actorMap = {
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
+            "Annapolis (2006)",
             "The Holiday (2006)",
             "Spider-Man 3 (2007)",
             "Knocked Up (2007)",
@@ -12850,6 +12877,7 @@ var actorMap = {
     },
     "Jason Clarke": {
         "movies": [
+            "Death Race (2008)",
             "Zero Dark Thirty (2012)",
             "Dawn of the Planet of the Apes (2014)",
             "Terminator Genisys (2015)",
@@ -12979,6 +13007,7 @@ var actorMap = {
             "Ghosts of Mars (2001)",
             "Collateral (2004)",
             "Cellular (2004)",
+            "Death Race (2008)",
             "Fast & Furious 6 (2013)",
             "Furious 7 (2015)",
             "The Fate of the Furious (2017)",
@@ -13071,6 +13100,11 @@ var actorMap = {
     "Jay Mohr": {
         "movies": [
             "Jerry Maguire (1996)"
+        ]
+    },
+    "Jay Pharoah": {
+        "movies": [
+            "Ride Along (2014)"
         ]
     },
     "Jay Ryan": {
@@ -14093,6 +14127,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Death Race (2008)",
             "A Good Marriage (2014)"
         ]
     },
@@ -14726,6 +14761,7 @@ var actorMap = {
     "John Landis": {
         "movies": [
             "Battle for the Planet of the Apes (1973)",
+            "Death Race 2000 (1975)",
             "An American Werewolf in London (1981)",
             "Spider-Man 2 (2004)"
         ]
@@ -14746,6 +14782,7 @@ var actorMap = {
             "Kick-Ass 2 (2013)",
             "The Counselor (2013)",
             "The Counselor (2013)",
+            "Ride Along (2014)",
             "Chef (2014)",
             "John Wick (2014)"
         ]
@@ -15340,6 +15377,7 @@ var actorMap = {
     "Jordana Brewster": {
         "movies": [
             "The Fast and the Furious (2001)",
+            "Annapolis (2006)",
             "Fast & Furious (2009)",
             "Fast Five (2011)",
             "Fast & Furious 6 (2013)",
@@ -16790,6 +16828,7 @@ var actorMap = {
             "Knocked Up (2007)",
             "Couples Retreat (2009)",
             "Transformers: Dark of the Moon (2011)",
+            "Ride Along 2 (2016)",
             "Crazy Rich Asians (2018)",
             "Avengers: Endgame (2019)"
         ]
@@ -16977,8 +17016,10 @@ var actorMap = {
             "Little Fockers (2010)",
             "Think Like a Man (2012)",
             "This Is the End (2013)",
+            "Ride Along (2014)",
             "About Last Night (2014)",
             "Think Like a Man Too (2014)",
+            "Ride Along 2 (2016)",
             "Jumanji: Welcome to the Jungle (2017)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
             "Jumanji: The Next Level (2019)"
@@ -17751,6 +17792,7 @@ var actorMap = {
             "Predators (2010)",
             "Contagion (2011)",
             "Man of Steel (2013)",
+            "Ride Along (2014)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Ant-Man and the Wasp (2018)"
         ]
@@ -19637,6 +19679,11 @@ var actorMap = {
     "Martin Hewitt": {
         "movies": [
             "Endless Love (1981)"
+        ]
+    },
+    "Martin Kove": {
+        "movies": [
+            "Death Race 2000 (1975)"
         ]
     },
     "Martin Landau": {
@@ -21825,6 +21872,11 @@ var actorMap = {
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
+    "Natalie Martinez": {
+        "movies": [
+            "Death Race (2008)"
+        ]
+    },
     "Natalie Portman": {
         "leadNoms": [
             {
@@ -22546,6 +22598,7 @@ var actorMap = {
             "Date Night (2010)",
             "Iron Man 2 (2010)",
             "Mortdecai (2015)",
+            "Ride Along 2 (2016)",
             "X-Men: Apocalypse (2016)",
             "Ocean's 8 (2018)",
             "The Predator (2018)"
@@ -25246,6 +25299,11 @@ var actorMap = {
             "Star Trek IV: The Voyage Home (1986)"
         ]
     },
+    "Robin Shou": {
+        "movies": [
+            "Death Race (2008)"
+        ]
+    },
     "Robin Williams": {
         "leadNoms": [
             {
@@ -26798,7 +26856,8 @@ var actorMap = {
     },
     "Sherri Shepherd": {
         "movies": [
-            "Think Like a Man (2012)"
+            "Think Like a Man (2012)",
+            "Ride Along 2 (2016)"
         ]
     },
     "Sheryl Lee": {
@@ -26998,6 +27057,11 @@ var actorMap = {
             "Star Trek Beyond (2016)",
             "Ready Player One (2018)",
             "Mission: Impossible \u2013 Fallout (2018)"
+        ]
+    },
+    "Simone Griffeth": {
+        "movies": [
+            "Death Race 2000 (1975)"
         ]
     },
     "Simu Liu": {
@@ -27760,6 +27824,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Death Race 2000 (1975)",
             "Rocky (1976)",
             "Rocky II (1979)",
             "Rocky III (1982)",
@@ -28240,6 +28305,8 @@ var actorMap = {
         "movies": [
             "What's Your Number? (2011)",
             "Think Like a Man (2012)",
+            "Ride Along (2014)",
+            "Ride Along 2 (2016)",
             "Nobody's Fool (2018)"
         ]
     },
@@ -29234,12 +29301,15 @@ var actorMap = {
             "Baby Boy (2001)",
             "2 Fast 2 Furious (2003)",
             "Four Brothers (2005)",
+            "Annapolis (2006)",
             "Transformers (2007)",
+            "Death Race (2008)",
             "Transformers: Revenge of the Fallen (2009)",
             "Fast Five (2011)",
             "Transformers: Dark of the Moon (2011)",
             "Fast & Furious 6 (2013)",
             "Furious 7 (2015)",
+            "Ride Along 2 (2016)",
             "The Fate of the Furious (2017)",
             "F9 (2021)"
         ]
@@ -29283,6 +29353,7 @@ var actorMap = {
     },
     "Utkarsh Ambudkar": {
         "movies": [
+            "Ride Along 2 (2016)",
             "Free Guy (2021)"
         ]
     },

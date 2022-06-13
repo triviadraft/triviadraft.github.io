@@ -14040,6 +14040,13 @@ var movieMap = {
         "categories": [
             "1970s",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "David Carradine",
+            "John Landis",
+            "Martin Kove",
+            "Simone Griffeth",
+            "Sylvester Stallone"
         ]
     },
     "Monty Python and the Holy Grail (1975)": {
@@ -73905,6 +73912,13 @@ var movieMap = {
         ],
         "categories": [
             "2000s"
+        ],
+        "cast": [
+            "Chi McBride",
+            "Donnie Wahlberg",
+            "James Franco",
+            "Jordana Brewster",
+            "Tyrese Gibson"
         ]
     },
     "Big Momma's House 2 (2006)": {
@@ -82494,6 +82508,16 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Andersons"
+        ],
+        "cast": [
+            "David Carradine",
+            "Ian McShane",
+            "Jason Clarke",
+            "Jason Statham",
+            "Joan Allen",
+            "Natalie Martinez",
+            "Robin Shou",
+            "Tyrese Gibson"
         ]
     },
     "The House Bunny (2008)": {
@@ -100464,6 +100488,17 @@ var movieMap = {
             "Comedies",
             "Ice Cube",
             "Kevin Hart"
+        ],
+        "cast": [
+            "Benjamin Flores Jr.",
+            "Bruce McGill",
+            "Ice Cube",
+            "Jacob Latimore",
+            "Jay Pharoah",
+            "John Leguizamo",
+            "Kevin Hart",
+            "Laurence Fishburne",
+            "Tika Sumpter"
         ]
     },
     "I, Frankenstein (2014)": {
@@ -107611,6 +107646,20 @@ var movieMap = {
             "Comedies",
             "Ice Cube",
             "Kevin Hart"
+        ],
+        "cast": [
+            "Benjamin Bratt",
+            "Bresha Webb",
+            "Bruce McGill",
+            "Glen Powell",
+            "Ice Cube",
+            "Ken Jeong",
+            "Kevin Hart",
+            "Olivia Munn",
+            "Sherri Shepherd",
+            "Tika Sumpter",
+            "Tyrese Gibson",
+            "Utkarsh Ambudkar"
         ]
     },
     "Dirty Grandpa (2016)": {
