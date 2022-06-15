@@ -119464,7 +119464,7 @@ var movieMap = {
     "Slice (2018)": {
         "title": "Slice",
         "year": "2018",
-        "synopsis": "In Kingfisher, a neighborhood with ghost citizens, the murders of pizza deliverymen leaves people nervous. They accuse the innocent werewolf Dax.",
+        "synopsis": "In Kingfisher, a neighborhood with ghost citizens, the murders of pizza deliverymen leave its people nervous. They accuse the innocent werewolf Dax.",
         "directors": [
             "Austin Vesely"
         ],
