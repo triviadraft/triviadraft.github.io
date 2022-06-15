@@ -466,6 +466,11 @@ var actorMap = {
             "Firewall (2006)"
         ]
     },
+    "Alan Cox": {
+        "movies": [
+            "Young Sherlock Holmes (1985)"
+        ]
+    },
     "Alan Cumming": {
         "movies": [
             "Eyes Wide Shut (1999)",
@@ -1762,6 +1767,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bugsy (1991)",
             "Love Affair (1994)",
             "Captain Marvel (2019)",
             "Death on the Nile (2022)"
@@ -1850,6 +1856,11 @@ var actorMap = {
     "Anthony Gonzalez": {
         "movies": [
             "Coco (2017)"
+        ]
+    },
+    "Anthony Higgins": {
+        "movies": [
+            "Young Sherlock Holmes (1985)"
         ]
     },
     "Anthony Hopkins": {
@@ -2358,6 +2369,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Natural (1984)",
             "Riding the Bullet (2004)"
         ]
     },
@@ -2469,6 +2481,7 @@ var actorMap = {
     },
     "Bebe Neuwirth": {
         "movies": [
+            "Bugsy (1991)",
             "Jumanji (1995)",
             "Jumanji: The Next Level (2019)"
         ]
@@ -2563,6 +2576,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bugsy (1991)",
             "Shutter Island (2010)",
             "Iron Man 3 (2013)",
             "The Jungle Book (2016)",
@@ -3127,6 +3141,7 @@ var actorMap = {
     "Blake Clark": {
         "movies": [
             "St. Elmo's Fire (1985)",
+            "Toys (1992)",
             "The Mask (1994)",
             "The Waterboy (1998)",
             "Toy Story 3 (2010)",
@@ -3901,6 +3916,11 @@ var actorMap = {
             "Split (2017)",
             "Glass (2019)",
             "The Lego Movie 2: The Second Part (2019)"
+        ]
+    },
+    "Bruno Kirby": {
+        "movies": [
+            "Good Morning, Vietnam (1987)"
         ]
     },
     "Bryan Brown": {
@@ -4885,6 +4905,11 @@ var actorMap = {
     "China Anne McClain": {
         "movies": [
             "Daddy's Little Girls (2007)"
+        ]
+    },
+    "Chintara Sukapatana": {
+        "movies": [
+            "Good Morning, Vietnam (1987)"
         ]
     },
     "Chip Zien": {
@@ -7657,6 +7682,11 @@ var actorMap = {
             "The Lion King (2019)"
         ]
     },
+    "Donald O'Connor": {
+        "movies": [
+            "Toys (1992)"
+        ]
+    },
     "Donald Pleasence": {
         "movies": [
             "You Only Live Twice (1967)",
@@ -8565,6 +8595,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bugsy (1991)",
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
@@ -9369,6 +9400,7 @@ var actorMap = {
         "movies": [
             "Fast Times at Ridgemont High (1982)",
             "The Color of Money (1986)",
+            "Good Morning, Vietnam (1987)",
             "Panic Room (2002)",
             "Lee Daniels' The Butler (2013)",
             "Rogue One: A Star Wars Story (2016)",
@@ -10425,6 +10457,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Natural (1984)",
             "Hook (1991)",
             "Mary Reilly (1996)",
             "Guardians of the Galaxy (2014)"
@@ -10949,6 +10982,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Bugsy (1991)",
             "From Dusk till Dawn (1996)",
             "Little Fockers (2010)"
         ]
@@ -11929,6 +11963,7 @@ var actorMap = {
     },
     "J. T. Walsh": {
         "movies": [
+            "Good Morning, Vietnam (1987)",
             "Misery (1990)",
             "Needful Things (1993)"
         ]
@@ -12208,7 +12243,8 @@ var actorMap = {
     "Jack Warden": {
         "movies": [
             "12 Angry Men (1957)",
-            "Shampoo (1975)"
+            "Shampoo (1975)",
+            "Toys (1992)"
         ]
     },
     "Jack Whitehall": {
@@ -12876,6 +12912,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Toys (1992)",
             "Collateral (2004)",
             "Ray (2004)",
             "Dreamgirls (2006)",
@@ -14432,6 +14469,7 @@ var actorMap = {
         ],
         "movies": [
             "Sixteen Candles (1984)",
+            "Toys (1992)",
             "Toy Story 2 (1999)",
             "Toy Story 3 (2010)",
             "The Perks of Being a Wallflower (2012)",
@@ -14633,6 +14671,7 @@ var actorMap = {
     "Joe Mantegna": {
         "movies": [
             "Three Amigos (1986)",
+            "Bugsy (1991)",
             "Cars 2 (2011)"
         ]
     },
@@ -14898,6 +14937,11 @@ var actorMap = {
     "John Fiedler": {
         "movies": [
             "12 Angry Men (1957)"
+        ]
+    },
+    "John Finnegan": {
+        "movies": [
+            "The Natural (1984)"
         ]
     },
     "John Forsythe": {
@@ -17542,6 +17586,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Natural (1984)",
             "Batman (1989)",
             "Cellular (2004)"
         ]
@@ -17851,6 +17896,7 @@ var actorMap = {
     },
     "LL Cool J": {
         "movies": [
+            "Toys (1992)",
             "Charlie's Angels (2000)",
             "Last Holiday (2006)"
         ]
@@ -21229,6 +21275,7 @@ var actorMap = {
     },
     "Michael Gambon": {
         "movies": [
+            "Toys (1992)",
             "Mary Reilly (1996)",
             "Sleepy Hollow (1999)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
@@ -21372,6 +21419,7 @@ var actorMap = {
     },
     "Michael Madsen": {
         "movies": [
+            "The Natural (1984)",
             "Sin City (2005)",
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)",
             "The Hateful Eight (2015)"
@@ -22530,6 +22578,7 @@ var actorMap = {
     },
     "Nicholas Rowe": {
         "movies": [
+            "Young Sherlock Holmes (1985)",
             "Mr. Holmes (2015)"
         ]
     },
@@ -25109,6 +25158,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Natural (1984)",
             "Misery (1990)"
         ]
     },
@@ -25623,6 +25673,7 @@ var actorMap = {
         "movies": [
             "Network (1976)",
             "Invasion of the Body Snatchers (1978)",
+            "The Natural (1984)",
             "Days of Thunder (1990)",
             "Four Christmases (2008)",
             "Jack Reacher (2012)",
@@ -25700,6 +25751,7 @@ var actorMap = {
     },
     "Robert Prosky": {
         "movies": [
+            "The Natural (1984)",
             "Far and Away (1992)",
             "Last Action Hero (1993)",
             "Rudy (1993)"
@@ -25714,6 +25766,7 @@ var actorMap = {
         ],
         "movies": [
             "The Way We Were (1973)",
+            "The Natural (1984)",
             "Lions for Lambs (2007)",
             "Captain America: The Winter Soldier (2014)",
             "Pete's Dragon (2016)",
@@ -25767,6 +25820,7 @@ var actorMap = {
     },
     "Robert Wuhl": {
         "movies": [
+            "Good Morning, Vietnam (1987)",
             "Batman (1989)"
         ]
     },
@@ -25823,7 +25877,9 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Good Morning, Vietnam (1987)",
             "Hook (1991)",
+            "Toys (1992)",
             "Jumanji (1995)",
             "Hamlet (1996)",
             "Insomnia (2002)",
@@ -25834,6 +25890,7 @@ var actorMap = {
     },
     "Robin Wright": {
         "movies": [
+            "Toys (1992)",
             "Forrest Gump (1994)",
             "Message in a Bottle (1999)",
             "Unbreakable (2000)",
@@ -27766,6 +27823,11 @@ var actorMap = {
         "movies": [
             "X-Men: Apocalypse (2016)",
             "Dark Phoenix (2019)"
+        ]
+    },
+    "Sophie Ward": {
+        "movies": [
+            "Young Sherlock Holmes (1985)"
         ]
     },
     "Spencer Breslin": {
@@ -29768,6 +29830,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Tung Thanh Tran": {
+        "movies": [
+            "Good Morning, Vietnam (1987)"
+        ]
+    },
     "Ty Burrell": {
         "movies": [
             "Black Hawk Down (2001)",
@@ -30393,6 +30460,7 @@ var actorMap = {
         "movies": [
             "Shampoo (1975)",
             "Dick Tracy (1990)",
+            "Bugsy (1991)",
             "Love Affair (1994)"
         ]
     },
@@ -30542,6 +30610,7 @@ var actorMap = {
     "Wilford Brimley": {
         "movies": [
             "The Thing (1982)",
+            "The Natural (1984)",
             "The Firm (1993)"
         ]
     },
@@ -31013,6 +31082,7 @@ var actorMap = {
     },
     "Yeardley Smith": {
         "movies": [
+            "Toys (1992)",
             "As Good as It Gets (1997)"
         ]
     },

@@ -21953,6 +21953,18 @@ var movieMap = {
             "Dramas",
             "Paul Newman & Robert Redford",
             "Sports"
+        ],
+        "cast": [
+            "Barbara Hershey",
+            "Glenn Close",
+            "John Finnegan",
+            "Kim Basinger",
+            "Michael Madsen",
+            "Richard Farnsworth",
+            "Robert Duvall",
+            "Robert Prosky",
+            "Robert Redford",
+            "Wilford Brimley"
         ]
     },
     "Finders Keepers (1984)": {
@@ -24518,6 +24530,12 @@ var movieMap = {
             "1980s",
             "Amblin",
             "Mystery"
+        ],
+        "cast": [
+            "Alan Cox",
+            "Anthony Higgins",
+            "Nicholas Rowe",
+            "Sophie Ward"
         ]
     },
     "Spies Like Us (1985)": {
@@ -27983,6 +28001,15 @@ var movieMap = {
         "categories": [
             "1980s",
             "Robin Williams"
+        ],
+        "cast": [
+            "Bruno Kirby",
+            "Chintara Sukapatana",
+            "Forest Whitaker",
+            "J. T. Walsh",
+            "Robert Wuhl",
+            "Robin Williams",
+            "Tung Thanh Tran"
         ]
     },
     "She's Having a Baby (1988)": {
@@ -35160,6 +35187,15 @@ var movieMap = {
         "categories": [
             "1990s",
             "Biopics"
+        ],
+        "cast": [
+            "Annette Bening",
+            "Bebe Neuwirth",
+            "Ben Kingsley",
+            "Elliott Gould",
+            "Harvey Keitel",
+            "Joe Mantegna",
+            "Warren Beatty"
         ]
     },
     "The Last Boy Scout (1991)": {
@@ -37219,6 +37255,18 @@ var movieMap = {
             "1990s",
             "Cusacks",
             "Robin Williams"
+        ],
+        "cast": [
+            "Blake Clark",
+            "Donald O'Connor",
+            "Jack Warden",
+            "Jamie Foxx",
+            "Joan Cusack",
+            "LL Cool J",
+            "Michael Gambon",
+            "Robin Williams",
+            "Robin Wright",
+            "Yeardley Smith"
         ]
     },
     "Scent of a Woman (1992)": {
