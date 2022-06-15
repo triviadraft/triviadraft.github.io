@@ -296,10 +296,6 @@ def generate_jsons():
         for row in csvReader:
             movie = row['movie']
 
-            if not movie.endswith(')'):
-                title = title[:-7]
-                movie += ' (' + row['release'][-4:] + ')'
-
             if 'taglines' not in ig_movie_dict[movie]:
                 ig_movie_dict[movie]['taglines'] = []
 

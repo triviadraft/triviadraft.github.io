@@ -200,6 +200,13 @@ var igActorMap = {
             ]
         }
     },
+    "Adria Arjona": {
+        "movies": {
+            "Morbius (2022)": [
+                "Morbius (2022)"
+            ]
+        }
+    },
     "Adrian Martinez": {
         "movies": {
             "Kick-Ass": [
@@ -302,6 +309,13 @@ var igActorMap = {
         "movies": {
             "Hercules (2014)": [
                 "Hercules (2014)"
+            ]
+        }
+    },
+    "Al Madrigal": {
+        "movies": {
+            "Morbius (2022)": [
+                "Morbius (2022)"
             ]
         }
     },
@@ -3009,6 +3023,13 @@ var igActorMap = {
             ]
         }
     },
+    "Charlie Shotwell": {
+        "movies": {
+            "Morbius (2022)": [
+                "Morbius (2022)"
+            ]
+        }
+    },
     "Charlize Theron": {
         "movies": {
             "Alien": [
@@ -3771,6 +3792,22 @@ var igActorMap = {
         "movies": {
             "MCU": [
                 "Iron Man 3 (2013)"
+            ]
+        }
+    },
+    "Corey Johnson": {
+        "movies": {
+            "Hellboy": [
+                "Hellboy (2004)"
+            ],
+            "Kick-Ass": [
+                "Kick-Ass (2010)"
+            ],
+            "Kingsman": [
+                "Kingsman: The Secret Service (2015)"
+            ],
+            "Morbius (2022)": [
+                "Morbius (2022)"
             ]
         }
     },
@@ -8607,11 +8644,21 @@ var igActorMap = {
             ]
         }
     },
+    "Jared Harris": {
+        "movies": {
+            "Morbius (2022)": [
+                "Morbius (2022)"
+            ]
+        }
+    },
     "Jared Leto": {
         "movies": {
             "DCEU": [
                 "Suicide Squad (2016)",
                 "Zack Snyder's Justice League (2021)"
+            ],
+            "Morbius (2022)": [
+                "Morbius (2022)"
             ]
         }
     },
@@ -9018,6 +9065,9 @@ var igActorMap = {
     },
     "Jenny Agutter": {
         "movies": {
+            "Darkman (1990)": [
+                "Darkman (1990)"
+            ],
             "MCU": [
                 "The Avengers (2012)",
                 "Captain America: The Winter Soldier (2014)"
@@ -13237,6 +13287,9 @@ var igActorMap = {
         "movies": {
             "Terminator": [
                 "Terminator Genisys (2015)"
+            ],
+            "Morbius (2022)": [
+                "Morbius (2022)"
             ]
         }
     },
@@ -13820,6 +13873,9 @@ var igActorMap = {
             ],
             "MCU": [
                 "Spider-Man: Homecoming (2017)"
+            ],
+            "Morbius (2022)": [
+                "Morbius (2022)"
             ]
         }
     },
@@ -19908,6 +19964,9 @@ var igActorMap = {
                 "Transformers (2007)",
                 "Transformers: Revenge of the Fallen (2009)",
                 "Transformers: Dark of the Moon (2011)"
+            ],
+            "Morbius (2022)": [
+                "Morbius (2022)"
             ]
         }
     },

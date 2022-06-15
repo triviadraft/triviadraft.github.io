@@ -1,4 +1,9 @@
 var actorMap = {
+    "A. J. Buckley": {
+        "movies": [
+            "The Good Dinosaur (2015)"
+        ]
+    },
     "A. J. Cook": {
         "movies": [
             "The Virgin Suicides (2000)"
@@ -233,6 +238,11 @@ var actorMap = {
             "State of the Union (1948)"
         ]
     },
+    "Adria Arjona": {
+        "movies": [
+            "Morbius (2022)"
+        ]
+    },
     "Adrian Grenier": {
         "movies": [
             "The Devil Wears Prada (2006)"
@@ -339,6 +349,11 @@ var actorMap = {
         "movies": [
             "Trading Places (1983)",
             "The Manchurian Candidate (2004)"
+        ]
+    },
+    "Al Madrigal": {
+        "movies": [
+            "Morbius (2022)"
         ]
     },
     "Al Pacino": {
@@ -473,6 +488,11 @@ var actorMap = {
             "Batman (1966)"
         ]
     },
+    "Alan Oppenheimer": {
+        "movies": [
+            "Toy Story 4 (2019)"
+        ]
+    },
     "Alan Rickman": {
         "movies": [
             "Die Hard (1988)",
@@ -530,7 +550,8 @@ var actorMap = {
     },
     "Alanna Ubach": {
         "movies": [
-            "Meet the Fockers (2004)"
+            "Meet the Fockers (2004)",
+            "Coco (2017)"
         ]
     },
     "Albert Brooks": {
@@ -542,7 +563,8 @@ var actorMap = {
         ],
         "movies": [
             "Terms of Endearment (1983)",
-            "Finding Nemo (2003)"
+            "Finding Nemo (2003)",
+            "Finding Dory (2016)"
         ]
     },
     "Albert Finney": {
@@ -697,7 +719,8 @@ var actorMap = {
     },
     "Alexander Gould": {
         "movies": [
-            "Finding Nemo (2003)"
+            "Finding Nemo (2003)",
+            "Finding Dory (2016)"
         ]
     },
     "Alexander Knox": {
@@ -768,6 +791,7 @@ var actorMap = {
             "Raiders of the Lost Ark (1981)",
             "Magnolia (1999)",
             "Spider-Man 2 (2004)",
+            "Monsters University (2013)",
             "Strange Magic (2015)",
             "Ralph Breaks the Internet (2018)",
             "Promising Young Woman (2020)",
@@ -807,6 +831,7 @@ var actorMap = {
             "I Am Legend (2007)",
             "Predators (2010)",
             "The New Mutants (2020)",
+            "Soul (2020)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -921,7 +946,13 @@ var actorMap = {
             "Finding Nemo (2003)",
             "Hairspray (2007)",
             "Juno (2007)",
-            "The Help (2011)"
+            "The Help (2011)",
+            "Finding Dory (2016)"
+        ]
+    },
+    "Ally Maki": {
+        "movies": [
+            "Toy Story 4 (2019)"
         ]
     },
     "Ally Sheedy": {
@@ -1081,6 +1112,7 @@ var actorMap = {
             "Blades of Glory (2007)",
             "Horton Hears a Who! (2008)",
             "Monsters vs. Aliens (2009)",
+            "Inside Out (2015)",
             "Wine Country (2019)"
         ]
     },
@@ -1128,6 +1160,11 @@ var actorMap = {
             "Wine Country (2019)"
         ]
     },
+    "Ana Ofelia Murgu\u00eda": {
+        "movies": [
+            "Coco (2017)"
+        ]
+    },
     "Ana de Armas": {
         "movies": [
             "Knives Out (2019)"
@@ -1157,6 +1194,9 @@ var actorMap = {
                 "movie": "The United States vs. Billie Holiday",
                 "year": "2021"
             }
+        ],
+        "movies": [
+            "Cars 3 (2017)"
         ]
     },
     "Andre Braugher": {
@@ -1241,10 +1281,11 @@ var actorMap = {
     "Andrew Stanton": {
         "movies": [
             "Toy Story 2 (1999)",
-            "Finding Nemo (2003)"
+            "Finding Nemo (2003)",
+            "Finding Dory (2016)"
         ]
     },
-    "Andr\u00e9 3000": {
+    "Andr\u00e9 Benjamin": {
         "movies": [
             "Four Brothers (2005)"
         ]
@@ -1344,7 +1385,8 @@ var actorMap = {
             "Black Panther (2018)",
             "Mission: Impossible \u2013 Fallout (2018)",
             "Bumblebee (2018)",
-            "Avengers: Endgame (2019)"
+            "Avengers: Endgame (2019)",
+            "Soul (2020)"
         ]
     },
     "Angela Lansbury": {
@@ -1423,6 +1465,11 @@ var actorMap = {
             "Star Wars (1977)",
             "Hellboy (2004)",
             "Rogue One: A Star Wars Story (2016)"
+        ]
+    },
+    "Angus MacLane": {
+        "movies": [
+            "Finding Dory (2016)"
         ]
     },
     "Angus Macfadyen": {
@@ -1564,7 +1611,8 @@ var actorMap = {
             "Almost Famous (2000)",
             "X2 (2003)",
             "X-Men: The Last Stand (2006)",
-            "X-Men: Days of Future Past (2014)"
+            "X-Men: Days of Future Past (2014)",
+            "The Good Dinosaur (2015)"
         ]
     },
     "Anna Popplewell": {
@@ -1740,6 +1788,7 @@ var actorMap = {
             "Toy Story (1995)",
             "Toy Story 2 (1999)",
             "Ghostbusters (2016)",
+            "Toy Story 4 (2019)",
             "Ghostbusters: Afterlife (2021)"
         ]
     },
@@ -1792,6 +1841,11 @@ var actorMap = {
             "Top Gun (1986)",
             "Pet Sematary Two (1992)",
             "Zodiac (2007)"
+        ]
+    },
+    "Anthony Gonzalez": {
+        "movies": [
+            "Coco (2017)"
         ]
     },
     "Anthony Hopkins": {
@@ -2029,6 +2083,7 @@ var actorMap = {
     },
     "Armie Hammer": {
         "movies": [
+            "Cars 3 (2017)",
             "Death on the Nile (2022)"
         ]
     },
@@ -2123,7 +2178,8 @@ var actorMap = {
     },
     "Aubrey Plaza": {
         "movies": [
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Monsters University (2013)"
         ]
     },
     "Audra McDonald": {
@@ -2196,6 +2252,11 @@ var actorMap = {
     "Austin Stowell": {
         "movies": [
             "Whiplash (2014)"
+        ]
+    },
+    "Ava Morse": {
+        "movies": [
+            "Turning Red (2022)"
         ]
     },
     "Avan Jogia": {
@@ -2626,7 +2687,8 @@ var actorMap = {
             "Traffic (2000)",
             "Catwoman (2004)",
             "Ride Along 2 (2016)",
-            "Doctor Strange (2016)"
+            "Doctor Strange (2016)",
+            "Coco (2017)"
         ]
     },
     "Benjamin Flores Jr.": {
@@ -2764,7 +2826,8 @@ var actorMap = {
     "Betty White": {
         "movies": [
             "Holy Man (1998)",
-            "You Again (2010)"
+            "You Again (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Beulah Bondi": {
@@ -2833,10 +2896,14 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
+            "Monsters University (2013)",
             "Her (2013)",
+            "Inside Out (2015)",
             "Trainwreck (2015)",
+            "Finding Dory (2016)",
             "Power Rangers (2017)",
             "Ralph Breaks the Internet (2018)",
+            "Toy Story 4 (2019)",
             "It Chapter Two (2019)"
         ]
     },
@@ -2978,6 +3045,7 @@ var actorMap = {
         "movies": [
             "Timeline (2003)",
             "The Last Samurai (2003)",
+            "Brave (2012)",
             "The Hobbit: The Battle of the Five Armies (2014)"
         ]
     },
@@ -2995,7 +3063,8 @@ var actorMap = {
         "movies": [
             "Hamlet (1996)",
             "Monsters, Inc. (2001)",
-            "Cars (2006)"
+            "Cars (2006)",
+            "Monsters University (2013)"
         ]
     },
     "Billy Dee Williams": {
@@ -3053,7 +3122,8 @@ var actorMap = {
             "St. Elmo's Fire (1985)",
             "The Mask (1994)",
             "The Waterboy (1998)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Blake Lively": {
@@ -3094,7 +3164,8 @@ var actorMap = {
     },
     "Bob Costas": {
         "movies": [
-            "Cars (2006)"
+            "Cars (2006)",
+            "Cars 3 (2017)"
         ]
     },
     "Bob Gunton": {
@@ -3135,7 +3206,10 @@ var actorMap = {
         "movies": [
             "Monsters, Inc. (2001)",
             "Finding Nemo (2003)",
-            "Up (2009)"
+            "Up (2009)",
+            "Monsters University (2013)",
+            "Finding Dory (2016)",
+            "Cars 3 (2017)"
         ]
     },
     "Bobb'e J. Thompson": {
@@ -3162,7 +3236,9 @@ var actorMap = {
     "Bobby Moynihan": {
         "movies": [
             "When in Rome (2010)",
+            "Monsters University (2013)",
             "Delivery Man (2013)",
+            "Inside Out (2015)",
             "The Book of Henry (2017)"
         ]
     },
@@ -3195,7 +3271,11 @@ var actorMap = {
             "Monsters, Inc. (2001)",
             "Cars (2006)",
             "Toy Story 3 (2010)",
-            "Zootopia (2016)"
+            "Cars 2 (2011)",
+            "Monsters University (2013)",
+            "Zootopia (2016)",
+            "Cars 3 (2017)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Bonnie Wright": {
@@ -3267,6 +3347,7 @@ var actorMap = {
             "Finding Nemo (2003)",
             "Ratatouille (2007)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
+            "Finding Dory (2016)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -3720,7 +3801,8 @@ var actorMap = {
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Sky High (2005)",
-            "Spider-Man 3 (2007)"
+            "Spider-Man 3 (2007)",
+            "Cars 2 (2011)"
         ]
     },
     "Bruce Davison": {
@@ -4099,7 +4181,8 @@ var actorMap = {
         "movies": [
             "Ocean's Eleven (2001)",
             "Ocean's Twelve (2004)",
-            "Ocean's Thirteen (2007)"
+            "Ocean's Thirteen (2007)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Carl Weathers": {
@@ -4109,7 +4192,8 @@ var actorMap = {
             "Rocky III (1982)",
             "Rocky IV (1985)",
             "Predator (1987)",
-            "Think Like a Man Too (2014)"
+            "Think Like a Man Too (2014)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Carla Gugino": {
@@ -4134,7 +4218,8 @@ var actorMap = {
     },
     "Carol Burnett": {
         "movies": [
-            "Horton Hears a Who! (2008)"
+            "Horton Hears a Who! (2008)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Carol Kane": {
@@ -4577,6 +4662,7 @@ var actorMap = {
     },
     "Charlie Day": {
         "movies": [
+            "Monsters University (2013)",
             "The Lego Movie (2014)",
             "The Lego Movie 2: The Second Part (2019)"
         ]
@@ -4703,7 +4789,10 @@ var actorMap = {
             "Ghostbusters II (1989)",
             "The Lion King (1994)",
             "From Dusk till Dawn (1996)",
-            "Cars (2006)"
+            "Cars (2006)",
+            "Cars 2 (2011)",
+            "Cars 3 (2017)",
+            "Coco (2017)"
         ]
     },
     "Chelsea Handler": {
@@ -4869,6 +4958,7 @@ var actorMap = {
             "The Town (2010)",
             "August: Osage County (2013)",
             "The Amazing Spider-Man 2 (2014)",
+            "Cars 3 (2017)",
             "Little Women (2019)"
         ]
     },
@@ -5117,6 +5207,11 @@ var actorMap = {
     "Christina Applegate": {
         "movies": [
             "View from the Top (2003)"
+        ]
+    },
+    "Christina Hendricks": {
+        "movies": [
+            "Toy Story 4 (2019)"
         ]
     },
     "Christina Milian": {
@@ -5789,7 +5884,8 @@ var actorMap = {
     },
     "Craig Ferguson": {
         "movies": [
-            "Kick-Ass (2010)"
+            "Kick-Ass (2010)",
+            "Brave (2012)"
         ]
     },
     "Craig Robinson": {
@@ -5822,6 +5918,11 @@ var actorMap = {
             "Charlie's Angels (2000)",
             "Charlie's Angels: Full Throttle (2003)",
             "Alice in Wonderland (2010)"
+        ]
+    },
+    "Cristela Alonzo": {
+        "movies": [
+            "Cars 3 (2017)"
         ]
     },
     "Cristin Milioti": {
@@ -6021,6 +6122,11 @@ var actorMap = {
     "Dan Kwan": {
         "movies": [
             "Everything Everywhere All at Once (2022)"
+        ]
+    },
+    "Dan Scanlon": {
+        "movies": [
+            "Monsters University (2013)"
         ]
     },
     "Dan Stevens": {
@@ -6425,7 +6531,8 @@ var actorMap = {
         "movies": [
             "A Bug's Life (1998)",
             "Sky High (2005)",
-            "Cars (2006)"
+            "Cars (2006)",
+            "Monsters University (2013)"
         ]
     },
     "Dave Franco": {
@@ -6438,6 +6545,11 @@ var actorMap = {
     "Dave Thomas": {
         "movies": [
             "Stripes (1981)"
+        ]
+    },
+    "Daveed Diggs": {
+        "movies": [
+            "Soul (2020)"
         ]
     },
     "David Alan Grier": {
@@ -7161,6 +7273,7 @@ var actorMap = {
             "Hanging Up (2000)",
             "Something's Gotta Give (2003)",
             "Mad Money (2008)",
+            "Finding Dory (2016)",
             "Book Club (2018)"
         ]
     },
@@ -7202,6 +7315,7 @@ var actorMap = {
             "The Outsiders (1983)",
             "Chaplin (1992)",
             "Man of Steel (2013)",
+            "Inside Out (2015)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -7274,6 +7388,11 @@ var actorMap = {
     "Diddy": {
         "movies": [
             "Girls Trip (2017)"
+        ]
+    },
+    "Diedrich Bader": {
+        "movies": [
+            "Cars 3 (2017)"
         ]
     },
     "Diego Boneta": {
@@ -7386,7 +7505,8 @@ var actorMap = {
             "Chicago (2002)",
             "300 (2007)",
             "Punisher: War Zone (2008)",
-            "John Carter (2012)"
+            "John Carter (2012)",
+            "Finding Dory (2016)"
         ]
     },
     "Dominique Fishback": {
@@ -7464,7 +7584,8 @@ var actorMap = {
         "movies": [
             "Toy Story (1995)",
             "Toy Story 2 (1999)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Don Siegel": {
@@ -7851,6 +7972,7 @@ var actorMap = {
         "movies": [
             "Lucky Numbers (2000)",
             "Wreck-It Ralph (2012)",
+            "Finding Dory (2016)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -7887,6 +8009,7 @@ var actorMap = {
             "Ocean's Thirteen (2007)",
             "The Chronicles of Narnia: Prince Caspian (2008)",
             "Valkyrie (2008)",
+            "Cars 2 (2011)",
             "The Lego Batman Movie (2017)"
         ]
     },
@@ -7967,6 +8090,7 @@ var actorMap = {
             "A Bug's Life (1998)",
             "Hanging Up (2000)",
             "Cars (2006)",
+            "Cars 2 (2011)",
             "Wreck-It Ralph (2012)"
         ]
     },
@@ -8004,7 +8128,8 @@ var actorMap = {
         ],
         "movies": [
             "The Green Hornet (2011)",
-            "2 Guns (2013)"
+            "2 Guns (2013)",
+            "Coco (2017)"
         ]
     },
     "Edward Norton": {
@@ -8346,7 +8471,8 @@ var actorMap = {
     },
     "Ellen DeGeneres": {
         "movies": [
-            "Finding Nemo (2003)"
+            "Finding Nemo (2003)",
+            "Finding Dory (2016)"
         ]
     },
     "Ellen Greene": {
@@ -8501,6 +8627,7 @@ var actorMap = {
     "Emily Mortimer": {
         "movies": [
             "Shutter Island (2010)",
+            "Cars 2 (2011)",
             "Mary Poppins Returns (2018)"
         ]
     },
@@ -8542,6 +8669,11 @@ var actorMap = {
         "movies": [
             "Chef (2014)",
             "The Jungle Book (2016)"
+        ]
+    },
+    "Emma Berman": {
+        "movies": [
+            "Luca (2021)"
         ]
     },
     "Emma Mackey": {
@@ -8629,6 +8761,7 @@ var actorMap = {
             "I Am Legend (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
+            "Brave (2012)",
             "Saving Mr. Banks (2013)",
             "Beauty and the Beast (2017)",
             "Missing Link (2019)",
@@ -8676,6 +8809,11 @@ var actorMap = {
     "Emmy Rossum": {
         "movies": [
             "The Phantom of the Opera (2004)"
+        ]
+    },
+    "Enrico Casarosa": {
+        "movies": [
+            "Luca (2021)"
         ]
     },
     "Eric Allan Kramer": {
@@ -8802,7 +8940,8 @@ var actorMap = {
         "movies": [
             "This Is My Life (1992)",
             "Toy Story 2 (1999)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Ethan Embry": {
@@ -8865,7 +9004,8 @@ var actorMap = {
             "Heavy Metal (1981)",
             "National Lampoon's Vacation (1983)",
             "Armed and Dangerous (1986)",
-            "Holy Man (1998)"
+            "Holy Man (1998)",
+            "Finding Dory (2016)"
         ]
     },
     "Eugenio Derbez": {
@@ -9091,6 +9231,11 @@ var actorMap = {
             "Ghostbusters: Afterlife (2021)"
         ]
     },
+    "Finneas O'Connell": {
+        "movies": [
+            "Turning Red (2022)"
+        ]
+    },
     "Fiona Shaw": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -9109,7 +9254,9 @@ var actorMap = {
         "movies": [
             "Back to the Future Part II (1989)",
             "Back to the Future Part III (1990)",
-            "Psycho (1998)"
+            "Psycho (1998)",
+            "Inside Out (2015)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Florence Henderson": {
@@ -9179,6 +9326,11 @@ var actorMap = {
             "Lee Daniels' The Butler (2013)",
             "Rogue One: A Star Wars Story (2016)",
             "Black Panther (2018)"
+        ]
+    },
+    "Fortune Feimster": {
+        "movies": [
+            "Soul (2020)"
         ]
     },
     "Fra Fee": {
@@ -9263,7 +9415,8 @@ var actorMap = {
             "Primal Fear (1996)",
             "Almost Famous (2000)",
             "Something's Gotta Give (2003)",
-            "Transformers: Dark of the Moon (2011)"
+            "Transformers: Dark of the Moon (2011)",
+            "The Good Dinosaur (2015)"
         ]
     },
     "Frances O'Connor": {
@@ -9288,6 +9441,7 @@ var actorMap = {
     },
     "Franco Nero": {
         "movies": [
+            "Cars 2 (2011)",
             "The Lost City of Z (2017)",
             "The Lost City of Z (2017)"
         ]
@@ -9348,6 +9502,7 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Zathura: A Space Adventure (2005)",
+            "Inside Out (2015)",
             "Star Wars: The Last Jedi (2017)",
             "Knives Out (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -9484,6 +9639,11 @@ var actorMap = {
             "The Brothers Grimsby (2016)"
         ]
     },
+    "Gabriel Iglesias": {
+        "movies": [
+            "Coco (2017)"
+        ]
+    },
     "Gabriel Luna": {
         "movies": [
             "Terminator: Dark Fate (2019)"
@@ -9522,6 +9682,7 @@ var actorMap = {
     },
     "Gael Garc\u00eda Bernal": {
         "movies": [
+            "Coco (2017)",
             "Old (2021)"
         ]
     },
@@ -10319,6 +10480,11 @@ var actorMap = {
             "Aquaman (2018)"
         ]
     },
+    "Graham Norton": {
+        "movies": [
+            "Soul (2020)"
+        ]
+    },
     "Grant Heslov": {
         "movies": [
             "The Scorpion King (2002)"
@@ -10765,6 +10931,11 @@ var actorMap = {
             "Remember the Titans (2000)"
         ]
     },
+    "Hayden Rolence": {
+        "movies": [
+            "Finding Dory (2016)"
+        ]
+    },
     "Hayley Atwell": {
         "movies": [
             "Captain America: The First Avenger (2011)",
@@ -10906,6 +11077,7 @@ var actorMap = {
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Inkheart (2009)",
             "Red (2010)",
+            "Monsters University (2013)",
             "Red 2 (2013)",
             "The Fate of the Furious (2017)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)",
@@ -11235,6 +11407,11 @@ var actorMap = {
             "Rocky III (1982)"
         ]
     },
+    "Hyein Park": {
+        "movies": [
+            "Turning Red (2022)"
+        ]
+    },
     "Hynden Walch": {
         "movies": [
             "Groundhog Day (1993)",
@@ -11379,6 +11556,7 @@ var actorMap = {
             "Avengers: Age of Ultron (2015)",
             "Zootopia (2016)",
             "The Jungle Book (2016)",
+            "Finding Dory (2016)",
             "Star Trek Beyond (2016)",
             "The Dark Tower (2017)",
             "Thor: Ragnarok (2017)",
@@ -11600,7 +11778,8 @@ var actorMap = {
     "Isiah Whitlock Jr.": {
         "movies": [
             "1408 (2007)",
-            "Pete's Dragon (2016)"
+            "Pete's Dragon (2016)",
+            "Cars 3 (2017)"
         ]
     },
     "Isla Fisher": {
@@ -11732,6 +11911,11 @@ var actorMap = {
             "Jumanji: The Next Level (2019)"
         ]
     },
+    "Jack Bright": {
+        "movies": [
+            "The Good Dinosaur (2015)"
+        ]
+    },
     "Jack Carson": {
         "movies": [
             "Bringing Up Baby (1938)",
@@ -11751,7 +11935,8 @@ var actorMap = {
         "movies": [
             "It (2017)",
             "Shazam! (2019)",
-            "It Chapter Two (2019)"
+            "It Chapter Two (2019)",
+            "Luca (2021)"
         ]
     },
     "Jack Gleeson": {
@@ -12066,7 +12251,8 @@ var actorMap = {
         "movies": [
             "The Book of Henry (2017)",
             "The Predator (2018)",
-            "Doctor Sleep (2019)"
+            "Doctor Sleep (2019)",
+            "Luca (2021)"
         ]
     },
     "Jacqueline Bisset": {
@@ -12386,6 +12572,7 @@ var actorMap = {
             "Kung Fu Panda 2 (2011)",
             "R.I.P.D. (2013)",
             "Kung Fu Panda 3 (2016)",
+            "Turning Red (2022)",
             "Everything Everywhere All at Once (2022)"
         ]
     },
@@ -12643,6 +12830,7 @@ var actorMap = {
             "The Amazing Spider-Man 2 (2014)",
             "A Million Ways to Die in the West (2014)",
             "Project Power (2020)",
+            "Soul (2020)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -12825,7 +13013,8 @@ var actorMap = {
         "movies": [
             "Ocean's Twelve (2004)",
             "Lady in the Water (2006)",
-            "The Curious Case of Benjamin Button (2008)"
+            "The Curious Case of Benjamin Button (2008)",
+            "Morbius (2022)"
         ]
     },
     "Jared Leto": {
@@ -12846,7 +13035,8 @@ var actorMap = {
             "Panic Room (2002)",
             "Alexander (2004)",
             "Suicide Squad (2016)",
-            "Zack Snyder's Justice League (2021)"
+            "Zack Snyder's Justice League (2021)",
+            "Morbius (2022)"
         ]
     },
     "Jared Rushton": {
@@ -12906,6 +13096,7 @@ var actorMap = {
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "Cars 2 (2011)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
         ]
     },
@@ -13087,7 +13278,8 @@ var actorMap = {
     },
     "Jay Hernandez": {
         "movies": [
-            "Suicide Squad (2016)"
+            "Suicide Squad (2016)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Jay Leno": {
@@ -13265,6 +13457,8 @@ var actorMap = {
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "WALL-E (2008)",
             "Toy Story 3 (2010)",
+            "Cars 2 (2011)",
+            "Toy Story 4 (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
@@ -13287,7 +13481,8 @@ var actorMap = {
         "movies": [
             "Toy Story 2 (1999)",
             "Monsters, Inc. (2001)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Jeffrey Combs": {
@@ -13332,6 +13527,7 @@ var actorMap = {
             "The Hunger Games: Catching Fire (2013)",
             "The Hunger Games: Mockingjay \u2013 Part 1 (2014)",
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)",
+            "The Good Dinosaur (2015)",
             "The Batman (2022)"
         ]
     },
@@ -13354,8 +13550,10 @@ var actorMap = {
         "movies": [
             "Mystery Men (1999)",
             "Cars (2006)",
+            "Cars 2 (2011)",
             "Think Like a Man (2012)",
-            "Think Like a Man Too (2014)"
+            "Think Like a Man Too (2014)",
+            "Cars 3 (2017)"
         ]
     },
     "Jenna Coleman": {
@@ -14018,6 +14216,11 @@ var actorMap = {
             "Pete's Dragon (1977)"
         ]
     },
+    "Jim Gaffigan": {
+        "movies": [
+            "Luca (2021)"
+        ]
+    },
     "Jim O'Heir": {
         "movies": [
             "Bad Times at the El Royale (2018)"
@@ -14174,7 +14377,8 @@ var actorMap = {
             "Toy Story 2 (1999)",
             "Toy Story 3 (2010)",
             "The Perks of Being a Wallflower (2012)",
-            "Instant Family (2018)"
+            "Instant Family (2018)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Joan Fontaine": {
@@ -14367,6 +14571,12 @@ var actorMap = {
             "Zack Snyder's Justice League (2021)"
         ]
     },
+    "Joe Mantegna": {
+        "movies": [
+            "Three Amigos (1986)",
+            "Cars 2 (2011)"
+        ]
+    },
     "Joe Morton": {
         "movies": [
             "Terminator 2: Judgment Day (1991)",
@@ -14472,6 +14682,11 @@ var actorMap = {
             "Spider-Man 2 (2004)",
             "What's Your Number? (2011)",
             "Ted (2012)"
+        ]
+    },
+    "Joel Murray": {
+        "movies": [
+            "Monsters University (2013)"
         ]
     },
     "Joely Fisher": {
@@ -14666,6 +14881,7 @@ var actorMap = {
         "movies": [
             "Monsters, Inc. (2001)",
             "Cars (2006)",
+            "Monsters University (2013)",
             "Transformers: Age of Extinction (2014)",
             "10 Cloverfield Lane (2016)",
             "Kong: Skull Island (2017)",
@@ -14753,6 +14969,7 @@ var actorMap = {
             "The Holiday (2006)",
             "Dreamgirls (2006)",
             "Monsters vs. Aliens (2009)",
+            "Monsters University (2013)",
             "A Quiet Place (2018)",
             "A Quiet Place Part II (2021)",
             "Free Guy (2021)"
@@ -14770,6 +14987,11 @@ var actorMap = {
         "movies": [
             "Stripes (1981)",
             "Star Trek III: The Search for Spock (1984)"
+        ]
+    },
+    "John Lasseter": {
+        "movies": [
+            "Cars 2 (2011)"
         ]
     },
     "John Legend": {
@@ -14865,7 +15087,8 @@ var actorMap = {
         "movies": [
             "Toy Story (1995)",
             "Toy Story 2 (1999)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "John Mulaney": {
@@ -14914,7 +15137,16 @@ var actorMap = {
             "WALL-E (2008)",
             "Up (2009)",
             "Toy Story 3 (2010)",
+            "Cars 2 (2011)",
+            "Brave (2012)",
+            "Monsters University (2013)",
+            "Inside Out (2015)",
+            "The Good Dinosaur (2015)",
+            "Finding Dory (2016)",
+            "Cars 3 (2017)",
+            "Coco (2017)",
             "Incredibles 2 (2018)",
+            "Toy Story 4 (2019)",
             "Onward (2020)"
         ]
     },
@@ -14998,6 +15230,7 @@ var actorMap = {
             "Secret Window (2004)",
             "Transformers (2007)",
             "Transformers: Revenge of the Fallen (2009)",
+            "Cars 2 (2011)",
             "Transformers: Dark of the Moon (2011)",
             "Transformers: The Last Knight (2017)",
             "The Batman (2022)"
@@ -15364,6 +15597,11 @@ var actorMap = {
             "The Wolf of Wall Street (2013)"
         ]
     },
+    "Jordan Fisher": {
+        "movies": [
+            "Turning Red (2022)"
+        ]
+    },
     "Jordan Nagai": {
         "movies": [
             "Up (2009)"
@@ -15371,7 +15609,8 @@ var actorMap = {
     },
     "Jordan Peele": {
         "movies": [
-            "Us (2019)"
+            "Us (2019)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Jordana Brewster": {
@@ -15473,7 +15712,8 @@ var actorMap = {
     },
     "Josh Cooley": {
         "movies": [
-            "Up (2009)"
+            "Up (2009)",
+            "Inside Out (2015)"
         ]
     },
     "Josh Dallas": {
@@ -15810,6 +16050,11 @@ var actorMap = {
             "Hustlers (2019)"
         ]
     },
+    "Julia Sweeney": {
+        "movies": [
+            "Monsters University (2013)"
+        ]
+    },
     "Julian Dennison": {
         "movies": [
             "Deadpool 2 (2018)",
@@ -16003,6 +16248,7 @@ var actorMap = {
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Brave (2012)",
             "Mary Poppins Returns (2018)"
         ]
     },
@@ -16067,6 +16313,10 @@ var actorMap = {
                 "movie": "Nebraska",
                 "year": "2013"
             }
+        ],
+        "movies": [
+            "Toy Story 4 (2019)",
+            "Soul (2020)"
         ]
     },
     "Juno Temple": {
@@ -16152,6 +16402,16 @@ var actorMap = {
             "Something's Gotta Give (2003)",
             "Fever Pitch (2005)",
             "American Gangster (2007)"
+        ]
+    },
+    "Kaitlin Olson": {
+        "movies": [
+            "Finding Dory (2016)"
+        ]
+    },
+    "Kaitlyn Dias": {
+        "movies": [
+            "Inside Out (2015)"
         ]
     },
     "Kal Penn": {
@@ -16303,6 +16563,7 @@ var actorMap = {
     },
     "Kate McKinnon": {
         "movies": [
+            "Finding Dory (2016)",
             "Ghostbusters (2016)"
         ]
     },
@@ -16483,7 +16744,9 @@ var actorMap = {
     },
     "Katherine Helmond": {
         "movies": [
-            "Cars (2006)"
+            "Cars (2006)",
+            "Cars 2 (2011)",
+            "Cars 3 (2017)"
         ]
     },
     "Katherine Langford": {
@@ -16662,6 +16925,7 @@ var actorMap = {
             "Constantine (2005)",
             "The Lake House (2006)",
             "John Wick (2014)",
+            "Toy Story 4 (2019)",
             "The Matrix Resurrections (2021)"
         ]
     },
@@ -16670,6 +16934,7 @@ var actorMap = {
             "Due Date (2010)",
             "Just Go with It (2011)",
             "The Predator (2018)",
+            "Toy Story 4 (2019)",
             "The Lion King (2019)"
         ]
     },
@@ -16767,6 +17032,7 @@ var actorMap = {
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "No Country for Old Men (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Brave (2012)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -16945,7 +17211,8 @@ var actorMap = {
             "Mr. & Mrs. Smith (2005)",
             "Fantastic Four (2005)",
             "Fantastic Four: Rise of the Silver Surfer (2007)",
-            "For Colored Girls (2010)"
+            "For Colored Girls (2010)",
+            "Cars 3 (2017)"
         ]
     },
     "Kevin Anderson": {
@@ -17075,7 +17342,8 @@ var actorMap = {
     },
     "Kevin McKidd": {
         "movies": [
-            "Kingdom of Heaven (2005)"
+            "Kingdom of Heaven (2005)",
+            "Brave (2012)"
         ]
     },
     "Kevin McNally": {
@@ -17350,7 +17618,8 @@ var actorMap = {
         "movies": [
             "Kate & Leopold (2001)",
             "When in Rome (2010)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Kristen Stewart": {
@@ -17473,7 +17742,8 @@ var actorMap = {
     "Kyle MacLachlan": {
         "movies": [
             "Dune (1984)",
-            "Blue Velvet (1986)"
+            "Blue Velvet (1986)",
+            "Inside Out (2015)"
         ]
     },
     "Kyle Richards": {
@@ -17650,7 +17920,9 @@ var actorMap = {
     },
     "Larry the Cable Guy": {
         "movies": [
-            "Cars (2006)"
+            "Cars (2006)",
+            "Cars 2 (2011)",
+            "Cars 3 (2017)"
         ]
     },
     "Lashana Lynch": {
@@ -17830,7 +18102,8 @@ var actorMap = {
             "Toy Story (1995)",
             "Scream 2 (1997)",
             "Toy Story 2 (1999)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Laverne Cox": {
@@ -18159,6 +18432,11 @@ var actorMap = {
     "Lew Ayres": {
         "movies": [
             "Battle for the Planet of the Apes (1973)"
+        ]
+    },
+    "Lewis Black": {
+        "movies": [
+            "Inside Out (2015)"
         ]
     },
     "Lewis MacDougall": {
@@ -18891,6 +19169,12 @@ var actorMap = {
             "West Side Story (2021)"
         ]
     },
+    "Madeleine McGraw": {
+        "movies": [
+            "Cars 3 (2017)",
+            "Toy Story 4 (2019)"
+        ]
+    },
     "Madeline Brewer": {
         "movies": [
             "Hustlers (2019)"
@@ -19065,6 +19349,11 @@ var actorMap = {
             "The New Mutants (2020)"
         ]
     },
+    "Maitreyi Ramakrishnan": {
+        "movies": [
+            "Turning Red (2022)"
+        ]
+    },
     "Majel Barrett": {
         "movies": [
             "Star Trek IV: The Voyage Home (1986)"
@@ -19175,9 +19464,19 @@ var actorMap = {
             "The Mist (2007)"
         ]
     },
+    "Marco Barricelli": {
+        "movies": [
+            "Luca (2021)"
+        ]
+    },
     "Marcus Chong": {
         "movies": [
             "The Matrix (1999)"
+        ]
+    },
+    "Marcus Scribner": {
+        "movies": [
+            "The Good Dinosaur (2015)"
         ]
     },
     "Mare Winningham": {
@@ -19201,6 +19500,7 @@ var actorMap = {
             "Million Dollar Baby (2004)",
             "August: Osage County (2013)",
             "Mother's Day (2016)",
+            "Cars 3 (2017)",
             "Instant Family (2018)",
             "The Kitchen (2019)"
         ]
@@ -19990,6 +20290,11 @@ var actorMap = {
             "Fast Five (2011)"
         ]
     },
+    "Matt Smith": {
+        "movies": [
+            "Morbius (2022)"
+        ]
+    },
     "Matt Walsh": {
         "movies": [
             "Due Date (2010)",
@@ -20209,7 +20514,8 @@ var actorMap = {
             "Big Hero 6 (2014)",
             "Strange Magic (2015)",
             "The Lego Movie 2: The Second Part (2019)",
-            "Wine Country (2019)"
+            "Wine Country (2019)",
+            "Luca (2021)"
         ]
     },
     "Mckenna Grace": {
@@ -20277,7 +20583,8 @@ var actorMap = {
             "Young Frankenstein (1974)",
             "Spaceballs (1987)",
             "Robots (2005)",
-            "The Producers (2005)"
+            "The Producers (2005)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Mel Ferrer": {
@@ -20389,7 +20696,8 @@ var actorMap = {
     },
     "Melissa Villase\u00f1or": {
         "movies": [
-            "Ralph Breaks the Internet (2018)"
+            "Ralph Breaks the Internet (2018)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Melora Hardin": {
@@ -20686,6 +20994,7 @@ var actorMap = {
             "Bewitched (2005)",
             "The Prestige (2006)",
             "The Dark Knight (2008)",
+            "Cars 2 (2011)",
             "The Dark Knight Rises (2012)",
             "Now You See Me (2013)",
             "Kingsman: The Secret Service (2015)",
@@ -20934,7 +21243,8 @@ var actorMap = {
             "Toy Story 3 (2010)",
             "RoboCop (2014)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
-            "Spider-Man: Homecoming (2017)"
+            "Spider-Man: Homecoming (2017)",
+            "Morbius (2022)"
         ]
     },
     "Michael Kelly": {
@@ -21446,6 +21756,7 @@ var actorMap = {
             "No Strings Attached (2011)",
             "Wreck-It Ralph (2012)",
             "This Is the End (2013)",
+            "Inside Out (2015)",
             "A Wrinkle in Time (2018)",
             "Ocean's 8 (2018)"
         ]
@@ -21857,6 +22168,11 @@ var actorMap = {
             "Stuck in Love (2013)"
         ]
     },
+    "Natalia Cordova-Buckley": {
+        "movies": [
+            "Coco (2017)"
+        ]
+    },
     "Natalia Reyes": {
         "movies": [
             "Terminator: Dark Fate (2019)"
@@ -21980,7 +22296,9 @@ var actorMap = {
     "Nathan Fillion": {
         "movies": [
             "Saving Private Ryan (1998)",
+            "Monsters University (2013)",
             "Guardians of the Galaxy (2014)",
+            "Cars 3 (2017)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -22708,6 +23026,11 @@ var actorMap = {
             "A Wrinkle in Time (2018)"
         ]
     },
+    "Orion Lee": {
+        "movies": [
+            "Turning Red (2022)"
+        ]
+    },
     "Orlando Bloom": {
         "movies": [
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
@@ -22777,7 +23100,9 @@ var actorMap = {
             "Wedding Crashers (2005)",
             "Cars (2006)",
             "How Do You Know (2010)",
-            "Little Fockers (2010)"
+            "Little Fockers (2010)",
+            "Cars 2 (2011)",
+            "Cars 3 (2017)"
         ]
     },
     "Ozzy Osbourne": {
@@ -22882,7 +23207,8 @@ var actorMap = {
         ],
         "movies": [
             "True Romance (1993)",
-            "Lost Highway (1997)"
+            "Lost Highway (1997)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Patricia Clarkson": {
@@ -22927,6 +23253,11 @@ var actorMap = {
             "Sweet Home Alabama (2002)",
             "Valentine's Day (2010)",
             "Transformers: Dark of the Moon (2011)"
+        ]
+    },
+    "Patrick Doyle": {
+        "movies": [
+            "Brave (2012)"
         ]
     },
     "Patrick Ewing": {
@@ -23042,7 +23373,9 @@ var actorMap = {
             "Sixteen Candles (1984)",
             "Insomnia (2002)",
             "Cars (2006)",
-            "Hairspray (2007)"
+            "Hairspray (2007)",
+            "Cars 2 (2011)",
+            "Cars 3 (2017)"
         ]
     },
     "Paul Feig": {
@@ -23149,7 +23482,8 @@ var actorMap = {
             "The Color of Money (1986)",
             "Message in a Bottle (1999)",
             "Road to Perdition (2002)",
-            "Cars (2006)"
+            "Cars (2006)",
+            "Cars 3 (2017)"
         ]
     },
     "Paul Raci": {
@@ -23304,6 +23638,7 @@ var actorMap = {
     "Paula Pell": {
         "movies": [
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
+            "Inside Out (2015)",
             "Wine Country (2019)"
         ]
     },
@@ -23419,7 +23754,8 @@ var actorMap = {
     },
     "Pete Docter": {
         "movies": [
-            "Up (2009)"
+            "Up (2009)",
+            "Inside Out (2015)"
         ]
     },
     "Pete Ploszek": {
@@ -23668,7 +24004,10 @@ var actorMap = {
     },
     "Peter Sohn": {
         "movies": [
-            "Ratatouille (2007)"
+            "Ratatouille (2007)",
+            "Monsters University (2013)",
+            "The Good Dinosaur (2015)",
+            "Luca (2021)"
         ]
     },
     "Peter Spears": {
@@ -23784,12 +24123,18 @@ var actorMap = {
         "movies": [
             "For Colored Girls (2010)",
             "Creed (2015)",
-            "Creed II (2018)"
+            "Creed II (2018)",
+            "Soul (2020)"
         ]
     },
     "Phyllis Diller": {
         "movies": [
             "A Bug's Life (1998)"
+        ]
+    },
+    "Phyllis Smith": {
+        "movies": [
+            "Inside Out (2015)"
         ]
     },
     "Pierce Brosnan": {
@@ -23911,6 +24256,11 @@ var actorMap = {
             "From Dusk till Dawn (1996)"
         ]
     },
+    "Questlove": {
+        "movies": [
+            "Soul (2020)"
+        ]
+    },
     "Quincy Jones": {
         "movies": [
             "Austin Powers in Goldmember (2002)"
@@ -23984,7 +24334,8 @@ var actorMap = {
     },
     "Rachel House": {
         "movies": [
-            "Thor: Ragnarok (2017)"
+            "Thor: Ragnarok (2017)",
+            "Soul (2020)"
         ]
     },
     "Rachel McAdams": {
@@ -24185,6 +24536,7 @@ var actorMap = {
     "Rashida Jones": {
         "movies": [
             "I Love You, Man (2009)",
+            "Inside Out (2015)",
             "Tag (2018)",
             "The Grinch (2018)",
             "Spies in Disguise (2019)"
@@ -24266,7 +24618,8 @@ var actorMap = {
     },
     "Raymond Ochoa": {
         "movies": [
-            "Land of the Lost (2009)"
+            "Land of the Lost (2009)",
+            "The Good Dinosaur (2015)"
         ]
     },
     "Reba McEntire": {
@@ -24431,6 +24784,11 @@ var actorMap = {
             "Avengers: Endgame (2019)"
         ]
     },
+    "Ren\u00e9e Victor": {
+        "movies": [
+            "Coco (2017)"
+        ]
+    },
     "Ren\u00e9e Zellweger": {
         "leadNoms": [
             {
@@ -24541,7 +24899,8 @@ var actorMap = {
     },
     "Richard Ayoade": {
         "movies": [
-            "The Lego Movie 2: The Second Part (2019)"
+            "The Lego Movie 2: The Second Part (2019)",
+            "Soul (2020)"
         ]
     },
     "Richard Beymer": {
@@ -24722,7 +25081,9 @@ var actorMap = {
             "Bewitched (2005)",
             "The Producers (2005)",
             "Cars (2006)",
-            "Toy Story 3 (2010)"
+            "Toy Story 3 (2010)",
+            "Cars 2 (2011)",
+            "Inside Out (2015)"
         ]
     },
     "Richard M. Sherman": {
@@ -24744,7 +25105,8 @@ var actorMap = {
     },
     "Richard Petty": {
         "movies": [
-            "Cars (2006)"
+            "Cars (2006)",
+            "Cars 3 (2017)"
         ]
     },
     "Richard Pryor": {
@@ -24973,7 +25335,8 @@ var actorMap = {
             "The Brothers Bloom (2009)",
             "Harry Potter and the Half-Blood Prince (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Brave (2012)"
         ]
     },
     "Robbie Rist": {
@@ -25522,6 +25885,11 @@ var actorMap = {
             "I Feel Pretty (2018)"
         ]
     },
+    "Rosalie Chiang": {
+        "movies": [
+            "Turning Red (2022)"
+        ]
+    },
     "Rosalind Chao": {
         "movies": [
             "Memoirs of an Invisible Man (1992)",
@@ -25891,7 +26259,8 @@ var actorMap = {
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
             "Les Mis\u00e9rables (2012)",
             "The Brothers Grimsby (2016)",
-            "Alice Through the Looking Glass (2016)"
+            "Alice Through the Looking Glass (2016)",
+            "Luca (2021)"
         ]
     },
     "Saffron Burrows": {
@@ -26023,6 +26392,7 @@ var actorMap = {
             "Tombstone (1993)",
             "Hulk (2003)",
             "Ghost Rider (2007)",
+            "The Good Dinosaur (2015)",
             "A Star Is Born (2018)"
         ]
     },
@@ -26260,12 +26630,18 @@ var actorMap = {
     },
     "Sandra Oh": {
         "movies": [
-            "The Princess Diaries (2001)"
+            "The Princess Diaries (2001)",
+            "Turning Red (2022)"
         ]
     },
     "Sandy Dennis": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)"
+        ]
+    },
+    "Sandy Martin": {
+        "movies": [
+            "Luca (2021)"
         ]
     },
     "Saniyya Sidney": {
@@ -26377,6 +26753,11 @@ var actorMap = {
     "Sasheer Zamata": {
         "movies": [
             "I Feel Pretty (2018)"
+        ]
+    },
+    "Saverio Raimondo": {
+        "movies": [
+            "Luca (2021)"
         ]
     },
     "Sa\u00efd Taghmaoui": {
@@ -26553,7 +26934,8 @@ var actorMap = {
     },
     "Sean Hayes": {
         "movies": [
-            "The Bucket List (2007)"
+            "The Bucket List (2007)",
+            "Monsters University (2013)"
         ]
     },
     "Sean Marshall": {
@@ -27029,6 +27411,7 @@ var actorMap = {
             "Avatar (2009)",
             "You Again (2010)",
             "The Cabin in the Woods (2012)",
+            "Finding Dory (2016)",
             "Ghostbusters (2016)",
             "A Monster Calls (2016)",
             "Ghostbusters: Afterlife (2021)"
@@ -27531,7 +27914,8 @@ var actorMap = {
         "movies": [
             "Finding Nemo (2003)",
             "No Country for Old Men (2007)",
-            "Mad Money (2008)"
+            "Mad Money (2008)",
+            "Finding Dory (2016)"
         ]
     },
     "Stephen Tobolowsky": {
@@ -27566,6 +27950,7 @@ var actorMap = {
             "Ghost World (2001)",
             "Monsters, Inc. (2001)",
             "G-Force (2009)",
+            "Monsters University (2013)",
             "Transformers: The Last Knight (2017)"
         ]
     },
@@ -27630,6 +28015,7 @@ var actorMap = {
         "movies": [
             "You've Got Mail (1998)",
             "Sahara (2005)",
+            "The Good Dinosaur (2015)",
             "War for the Planet of the Apes (2017)"
         ]
     },
@@ -28238,6 +28624,7 @@ var actorMap = {
             "King Kong (2005)",
             "Wanted (2008)",
             "Valkyrie (2008)",
+            "Cars 2 (2011)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)"
         ]
@@ -28351,7 +28738,8 @@ var actorMap = {
             "Galaxy Quest (1999)",
             "Cars (2006)",
             "Toy Story 3 (2010)",
-            "Ralph Breaks the Internet (2018)"
+            "Ralph Breaks the Internet (2018)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Tim Bagley": {
@@ -28456,7 +28844,8 @@ var actorMap = {
             "The Lion in Winter (1968)",
             "The Rocketeer (1991)",
             "Toy Story 3 (2010)",
-            "The Tourist (2010)"
+            "The Tourist (2010)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Timothy Hutton": {
@@ -28526,6 +28915,7 @@ var actorMap = {
             "Date Night (2010)",
             "This Is Where I Leave You (2014)",
             "Wine Country (2019)",
+            "Soul (2020)",
             "Free Guy (2021)"
         ]
     },
@@ -28765,7 +29155,8 @@ var actorMap = {
             "Toy Story 3 (2010)",
             "Cloud Atlas (2012)",
             "Saving Mr. Banks (2013)",
-            "The Circle (2017)"
+            "The Circle (2017)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Tom Hardy": {
@@ -29064,7 +29455,8 @@ var actorMap = {
         "movies": [
             "Stranger than Fiction (2006)",
             "The Tale of Despereaux (2008)",
-            "Transformers: The Last Knight (2017)"
+            "Transformers: The Last Knight (2017)",
+            "Toy Story 4 (2019)"
         ]
     },
     "Tony Haygarth": {
@@ -29108,8 +29500,10 @@ var actorMap = {
             "Cars (2006)",
             "1408 (2007)",
             "How Do You Know (2010)",
+            "Cars 2 (2011)",
             "Teenage Mutant Ninja Turtles (2014)",
-            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
+            "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
+            "Cars 3 (2017)"
         ]
     },
     "Tony Todd": {
@@ -29233,7 +29627,8 @@ var actorMap = {
     "Ty Burrell": {
         "movies": [
             "Black Hawk Down (2001)",
-            "The Incredible Hulk (2008)"
+            "The Incredible Hulk (2008)",
+            "Finding Dory (2016)"
         ]
     },
     "Ty Simpkins": {
@@ -29263,7 +29658,8 @@ var actorMap = {
     },
     "Tyler Labine": {
         "movies": [
-            "Rise of the Planet of the Apes (2011)"
+            "Rise of the Planet of the Apes (2011)",
+            "Monsters University (2013)"
         ]
     },
     "Tyler Mane": {
@@ -29311,7 +29707,8 @@ var actorMap = {
             "Furious 7 (2015)",
             "Ride Along 2 (2016)",
             "The Fate of the Furious (2017)",
-            "F9 (2021)"
+            "F9 (2021)",
+            "Morbius (2022)"
         ]
     },
     "T\u00e9a Leoni": {
@@ -29463,6 +29860,7 @@ var actorMap = {
             "Mission: Impossible (1996)",
             "Girl, Interrupted (1999)",
             "Atonement (2007)",
+            "Cars 2 (2011)",
             "Lee Daniels' The Butler (2013)",
             "Foxcatcher (2014)"
         ]
@@ -29766,7 +30164,8 @@ var actorMap = {
     },
     "Wai Ching Ho": {
         "movies": [
-            "Hustlers (2019)"
+            "Hustlers (2019)",
+            "Turning Red (2022)"
         ]
     },
     "Walker Scobell": {
@@ -29781,6 +30180,7 @@ var actorMap = {
             "The Incredibles (2004)",
             "Toy Story 3 (2010)",
             "Book Club (2018)",
+            "Toy Story 4 (2019)",
             "Marriage Story (2019)"
         ]
     },
@@ -29934,7 +30334,8 @@ var actorMap = {
     "Wes Studi": {
         "movies": [
             "Mystery Men (1999)",
-            "A Million Ways to Die in the West (2014)"
+            "A Million Ways to Die in the West (2014)",
+            "Soul (2020)"
         ]
     },
     "Wesley Snipes": {
@@ -30128,6 +30529,7 @@ var actorMap = {
             "Spider-Man 3 (2007)",
             "John Carter (2012)",
             "John Wick (2014)",
+            "Finding Dory (2016)",
             "The Florida Project (2017)",
             "Aquaman (2018)",
             "The Lighthouse (2019)",

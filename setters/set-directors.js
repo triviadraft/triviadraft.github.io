@@ -735,6 +735,12 @@ var directorMap = {
             "year": "2005"
         }
     ],
+    "Billy Bob Thornton": [
+        {
+            "movie": "Sling Blade",
+            "year": "1996"
+        }
+    ],
     "Billy Wilder": [
         {
             "movie": "Double Indemnity",
@@ -2805,6 +2811,10 @@ var directorMap = {
             "year": "2008"
         },
         {
+            "movie": "Beyond the Lights",
+            "year": "2014"
+        },
+        {
             "movie": "The Old Guard",
             "year": "2020"
         }
@@ -2963,6 +2973,10 @@ var directorMap = {
         {
             "movie": "Promised Land",
             "year": "2012"
+        },
+        {
+            "movie": "The Sea of Trees",
+            "year": "2016"
         }
     ],
     "Guy Ritchie": [

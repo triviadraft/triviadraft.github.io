@@ -9439,11 +9439,6 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Jenny Agutter",
-                "name": "doctor treating Westlake's burns",
-                "description": ""
-            },
-            {
                 "actor": "Neal McDonough",
                 "name": "dockworker",
                 "description": ""
@@ -9499,6 +9494,11 @@ var igMovieMap = {
                 "actor": "Jessie Lawrence Ferguson",
                 "name": "Eddie Black",
                 "description": "rival crime boss dispatched by Durant"
+            },
+            {
+                "actor": "Jenny Agutter",
+                "name": "doctor treating Westlake's burns",
+                "description": ""
             },
             {
                 "actor": "Joel Coen",
@@ -11266,11 +11266,6 @@ var igMovieMap = {
                 "description": ""
             },
             {
-                "actor": "Corey Johnson",
-                "name": "Agent Clay",
-                "description": ""
-            },
-            {
                 "actor": "Brian Caspe",
                 "name": "Agent Lime",
                 "description": ""
@@ -11310,6 +11305,11 @@ var igMovieMap = {
             {
                 "actor": "David Hyde Pierce",
                 "name": "voice of Abe Sapien",
+                "description": ""
+            },
+            {
+                "actor": "Corey Johnson",
+                "name": "Agent Clay",
                 "description": ""
             },
             {
@@ -13130,6 +13130,11 @@ var igMovieMap = {
                 "description": ""
             },
             {
+                "actor": "Corey Johnson",
+                "name": "Sporty Goon",
+                "description": ""
+            },
+            {
                 "actor": "Adrian Martinez",
                 "name": "Ginger Goon",
                 "description": ""
@@ -13159,11 +13164,6 @@ var igMovieMap = {
             {
                 "actor": "Kofi Natei",
                 "name": "Rasul",
-                "description": ""
-            },
-            {
-                "actor": "Corey Johnson",
-                "name": "Sporty Goon",
                 "description": ""
             },
             {
@@ -15846,6 +15846,11 @@ var igMovieMap = {
                 "actor": "Ralph Ineson",
                 "name": "police interviewer after Eggsy's arrest",
                 "description": ""
+            },
+            {
+                "actor": "Corey Johnson",
+                "name": "fanatic church leader",
+                "description": ""
             }
         ],
         "minorCast": [
@@ -15892,11 +15897,6 @@ var igMovieMap = {
             {
                 "actor": "Fiona Hampton",
                 "name": "Amelia",
-                "description": ""
-            },
-            {
-                "actor": "Corey Johnson",
-                "name": "fanatic church leader",
                 "description": ""
             },
             {
@@ -19448,6 +19448,75 @@ var igMovieMap = {
             }
         ]
     },
+    "Morbius (2022)": {
+        "title": "Morbius",
+        "year": "2022",
+        "categories": [
+            "Comic Book",
+            "Marvel"
+        ],
+        "franchise": "",
+        "taglines": [
+            "The line between hero and villain will be broken.",
+            "A new Marvel legend arrives."
+        ],
+        "mainCast": [
+            {
+                "actor": "Jared Leto",
+                "name": "Dr. Michael Morbius",
+                "description": ""
+            },
+            {
+                "actor": "Matt Smith",
+                "name": "Lucien / Milo",
+                "description": ""
+            },
+            {
+                "actor": "Adria Arjona",
+                "name": "Martine Bancroft",
+                "description": ""
+            },
+            {
+                "actor": "Jared Harris",
+                "name": "Dr. Emil Nicholas",
+                "description": ""
+            },
+            {
+                "actor": "Michael Keaton",
+                "name": "Adrian Toomes / Vulture",
+                "description": ""
+            }
+        ],
+        "supportingCast": [
+            {
+                "actor": "Charlie Shotwell",
+                "name": "young Michael Morbius",
+                "description": ""
+            },
+            {
+                "actor": "Al Madrigal",
+                "name": "Alberto \"Al\" Rodriguez",
+                "description": ""
+            },
+            {
+                "actor": "Tyrese Gibson",
+                "name": "Simon Stroud",
+                "description": ""
+            },
+            {
+                "actor": "Corey Johnson",
+                "name": "Mr. Fox",
+                "description": ""
+            }
+        ],
+        "minorCast": [
+            {
+                "actor": "Joseph Esson",
+                "name": "young Milo",
+                "description": ""
+            }
+        ]
+    },
     "Planet of the Apes (1968)": {
         "title": "Planet of the Apes",
         "year": "1968",
@@ -19558,11 +19627,6 @@ var igMovieMap = {
             "Planet of the Apes"
         ],
         "franchise": "Planet of the Apes",
-        "taglines": [
-            "Now civilization's final battle between man and ape is about to begin.",
-            "The bizarre world you met in 'Planet of the Apes' was only the beginning... What lies beneath may be the end!",
-            "An army of civilized apes...A fortress of radiation-crazed super humans...Earth's final battle is about to begin - Beneath the atomic rubble of what was once the city of New York!"
-        ],
         "supportingCast": [
             {
                 "actor": "James Franciscus",
@@ -19860,6 +19924,9 @@ var igMovieMap = {
         ],
         "franchise": "Planet of the Apes",
         "taglines": [
+            "Now civilization's final battle between man and ape is about to begin.",
+            "The bizarre world you met in 'Planet of the Apes' was only the beginning... What lies beneath may be the end!",
+            "An army of civilized apes...A fortress of radiation-crazed super humans...Earth's final battle is about to begin - Beneath the atomic rubble of what was once the city of New York!",
             "The final chapter in the incredible Apes saga. The most suspenseful showdown ever filmed as two civilizations battle for the right to inherit what's left of the earth!"
         ],
         "mainCast": [
