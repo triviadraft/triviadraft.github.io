@@ -72,6 +72,7 @@ var actorMap = {
     },
     "Abe Vigoda": {
         "movies": [
+            "Look Who's Talking (1989)",
             "Batman: Mask of the Phantasm (1993)",
             "North (1994)"
         ]
@@ -865,6 +866,7 @@ var actorMap = {
     },
     "Alicia Silverstone": {
         "movies": [
+            "Clueless (1995)",
             "Batman & Robin (1997)",
             "Tropic Thunder (2008)",
             "Book Club (2018)"
@@ -1009,6 +1011,7 @@ var actorMap = {
     },
     "Amanda Wyss": {
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "Silverado (1985)"
         ]
     },
@@ -1838,6 +1841,7 @@ var actorMap = {
     },
     "Anthony Edwards": {
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "Top Gun (1986)",
             "Pet Sematary Two (1992)",
             "Zodiac (2007)"
@@ -2290,6 +2294,7 @@ var actorMap = {
     "Aziz Ansari": {
         "movies": [
             "I Love You, Man (2009)",
+            "Get Him to the Greek (2010)",
             "What's Your Number? (2011)",
             "This Is the End (2013)"
         ]
@@ -2893,6 +2898,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Hot Rod (2007)",
+            "Forgetting Sarah Marshall (2008)",
             "Tropic Thunder (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
@@ -3032,6 +3038,7 @@ var actorMap = {
     },
     "Billy Bush": {
         "movies": [
+            "Get Him to the Greek (2010)",
             "Big Hero 6 (2014)"
         ]
     },
@@ -3348,6 +3355,7 @@ var actorMap = {
             "Ratatouille (2007)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)",
             "Finding Dory (2016)",
+            "Christopher Robin (2018)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -3482,6 +3490,7 @@ var actorMap = {
     },
     "Breckin Meyer": {
         "movies": [
+            "Clueless (1995)",
             "Kate & Leopold (2001)",
             "Ghosts of Girlfriends Past (2009)"
         ]
@@ -3588,6 +3597,11 @@ var actorMap = {
     "Bria Vinaite": {
         "movies": [
             "The Florida Project (2017)"
+        ]
+    },
+    "Brian Backer": {
+        "movies": [
+            "Fast Times at Ridgemont High (1982)"
         ]
     },
     "Brian Baumgartner": {
@@ -3748,6 +3762,7 @@ var actorMap = {
     },
     "Brittany Murphy": {
         "movies": [
+            "Clueless (1995)",
             "Drop Dead Gorgeous (1999)",
             "Girl, Interrupted (1999)",
             "Sin City (2005)"
@@ -3768,6 +3783,11 @@ var actorMap = {
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek VI: The Undiscovered Country (1991)",
             "Ghosts of Mississippi (1996)"
+        ]
+    },
+    "Bronte Carmichael": {
+        "movies": [
+            "Christopher Robin (2018)"
         ]
     },
     "Brooke Adams": {
@@ -3866,6 +3886,8 @@ var actorMap = {
     "Bruce Willis": {
         "movies": [
             "Die Hard (1988)",
+            "Look Who's Talking (1989)",
+            "Look Who's Talking Too (1990)",
             "North (1994)",
             "The Fifth Element (1997)",
             "Unbreakable (2000)",
@@ -4602,6 +4624,7 @@ var actorMap = {
     },
     "Charles Barkley": {
         "movies": [
+            "Look Who's Talking Now (1993)",
             "Space Jam (1996)"
         ]
     },
@@ -5204,6 +5227,11 @@ var actorMap = {
             "Jack and Jill (2011)"
         ]
     },
+    "Christina Aguilera": {
+        "movies": [
+            "Get Him to the Greek (2010)"
+        ]
+    },
     "Christina Applegate": {
         "movies": [
             "View from the Top (2003)"
@@ -5756,7 +5784,8 @@ var actorMap = {
     },
     "Colm Meaney": {
         "movies": [
-            "Far and Away (1992)"
+            "Far and Away (1992)",
+            "Get Him to the Greek (2010)"
         ]
     },
     "Colman Domingo": {
@@ -6066,6 +6095,7 @@ var actorMap = {
     },
     "Damon Wayans": {
         "movies": [
+            "Look Who's Talking Too (1990)",
             "Last Action Hero (1993)"
         ]
     },
@@ -6113,6 +6143,7 @@ var actorMap = {
     "Dan Hedaya": {
         "movies": [
             "Blood Simple (1985)",
+            "Clueless (1995)",
             "The First Wives Club (1996)",
             "Alien Resurrection (1997)",
             "Mulholland Drive (2001)",
@@ -6383,9 +6414,11 @@ var actorMap = {
     "Danny DeVito": {
         "movies": [
             "Terms of Endearment (1983)",
+            "Johnny Dangerously (1984)",
             "Twins (1988)",
             "Batman Returns (1992)",
             "Last Action Hero (1993)",
+            "Look Who's Talking Now (1993)",
             "Space Jam (1996)",
             "The Virgin Suicides (2000)",
             "Screwed (2000)",
@@ -6977,6 +7010,11 @@ var actorMap = {
             "Shang-Chi and the Legend of the Ten Rings (2021)"
         ]
     },
+    "Dee Snider": {
+        "movies": [
+            "Get Him to the Greek (2010)"
+        ]
+    },
     "Deep Roy": {
         "movies": [
             "Charlie and the Chocolate Factory (2005)"
@@ -7269,6 +7307,7 @@ var actorMap = {
         ],
         "movies": [
             "Annie Hall (1977)",
+            "Look Who's Talking Now (1993)",
             "The First Wives Club (1996)",
             "Hanging Up (2000)",
             "Something's Gotta Give (2003)",
@@ -7451,6 +7490,7 @@ var actorMap = {
     },
     "Dom DeLuise": {
         "movies": [
+            "Johnny Dangerously (1984)",
             "Spaceballs (1987)"
         ]
     },
@@ -7604,6 +7644,7 @@ var actorMap = {
     },
     "Donald Faison": {
         "movies": [
+            "Clueless (1995)",
             "Waiting to Exhale (1995)",
             "Remember the Titans (2000)",
             "Kick-Ass 2 (2013)"
@@ -8224,6 +8265,7 @@ var actorMap = {
     "Elias Koteas": {
         "movies": [
             "Teenage Mutant Ninja Turtles (1990)",
+            "Look Who's Talking Too (1990)",
             "Teenage Mutant Ninja Turtles III (1993)",
             "Apt Pupil (1998)",
             "Zodiac (2007)",
@@ -8254,6 +8296,7 @@ var actorMap = {
     "Elisabeth Moss": {
         "movies": [
             "Girl, Interrupted (1999)",
+            "Get Him to the Greek (2010)",
             "Us (2019)",
             "The Kitchen (2019)",
             "The Invisible Man (2020)"
@@ -8496,6 +8539,7 @@ var actorMap = {
     },
     "Ellie Kemper": {
         "movies": [
+            "Get Him to the Greek (2010)",
             "Bridesmaids (2011)",
             "The Lego Batman Movie (2017)"
         ]
@@ -8860,6 +8904,7 @@ var actorMap = {
     },
     "Eric Stoltz": {
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "Jerry Maguire (1996)"
         ]
     },
@@ -9106,6 +9151,7 @@ var actorMap = {
             "Mortdecai (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Beauty and the Beast (2017)",
+            "Christopher Robin (2018)",
             "Doctor Sleep (2019)",
             "Star Wars: The Rise of Skywalker (2019)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)"
@@ -9321,6 +9367,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "The Color of Money (1986)",
             "Panic Room (2002)",
             "Lee Daniels' The Butler (2013)",
@@ -10156,6 +10203,8 @@ var actorMap = {
     "George Segal": {
         "movies": [
             "Who's Afraid of Virginia Woolf? (1966)",
+            "Look Who's Talking (1989)",
+            "Look Who's Talking Now (1993)",
             "The Mirror Has Two Faces (1996)",
             "2012 (2009)"
         ]
@@ -10251,6 +10300,7 @@ var actorMap = {
     },
     "Gilbert Gottfried": {
         "movies": [
+            "Look Who's Talking Too (1990)",
             "A Million Ways to Die in the West (2014)"
         ]
     },
@@ -10544,6 +10594,7 @@ var actorMap = {
     "Griffin Dunne": {
         "movies": [
             "An American Werewolf in London (1981)",
+            "Johnny Dangerously (1984)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -10943,6 +10994,7 @@ var actorMap = {
             "Cinderella (2015)",
             "Avengers: Age of Ultron (2015)",
             "Ant-Man (2015)",
+            "Christopher Robin (2018)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -12015,6 +12067,7 @@ var actorMap = {
     },
     "Jack McBrayer": {
         "movies": [
+            "Forgetting Sarah Marshall (2008)",
             "Wreck-It Ralph (2012)",
             "Movie 43 (2013)",
             "Ralph Breaks the Internet (2018)"
@@ -12353,6 +12406,7 @@ var actorMap = {
     },
     "Jake Johnson": {
         "movies": [
+            "Get Him to the Greek (2010)",
             "No Strings Attached (2011)",
             "Jurassic World (2015)",
             "The Mummy (2017)",
@@ -13059,6 +13113,7 @@ var actorMap = {
         "movies": [
             "Smokin' Aces (2007)",
             "Juno (2007)",
+            "Forgetting Sarah Marshall (2008)",
             "Tropic Thunder (2008)",
             "Couples Retreat (2009)",
             "This Is Where I Leave You (2014)",
@@ -13189,6 +13244,7 @@ var actorMap = {
     "Jason Segel": {
         "movies": [
             "Knocked Up (2007)",
+            "Forgetting Sarah Marshall (2008)",
             "I Love You, Man (2009)",
             "This Is the End (2013)"
         ]
@@ -13663,6 +13719,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "Dolores Claiborne (1995)",
             "Road to Perdition (2002)",
             "Kill Your Darlings (2013)",
@@ -14208,7 +14265,8 @@ var actorMap = {
     "Jim Cummings": {
         "movies": [
             "The Lion King (1994)",
-            "The Pagemaster (1994)"
+            "The Pagemaster (1994)",
+            "Christopher Robin (2018)"
         ]
     },
     "Jim Dale": {
@@ -14401,6 +14459,7 @@ var actorMap = {
     "Joan Rivers": {
         "movies": [
             "Spaceballs (1987)",
+            "Look Who's Talking (1989)",
             "Iron Man 3 (2013)"
         ]
     },
@@ -14616,6 +14675,11 @@ var actorMap = {
                 "movie": "Goodfellas",
                 "year": "1990"
             }
+        ]
+    },
+    "Joe Piscopo": {
+        "movies": [
+            "Johnny Dangerously (1984)"
         ]
     },
     "Joe Ranft": {
@@ -15214,6 +15278,9 @@ var actorMap = {
         ],
         "movies": [
             "Carrie (1976)",
+            "Look Who's Talking (1989)",
+            "Look Who's Talking Too (1990)",
+            "Look Who's Talking Now (1993)",
             "Michael (1996)",
             "Lucky Numbers (2000)",
             "Swordfish (2001)",
@@ -15491,6 +15558,8 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Horton Hears a Who! (2008)",
+            "Forgetting Sarah Marshall (2008)",
+            "Get Him to the Greek (2010)",
             "This Is the End (2013)",
             "The Wolf of Wall Street (2013)",
             "The Lego Movie (2014)",
@@ -15865,7 +15934,8 @@ var actorMap = {
     },
     "Judge Reinhold": {
         "movies": [
-            "Stripes (1981)"
+            "Stripes (1981)",
+            "Fast Times at Ridgemont High (1982)"
         ]
     },
     "Judi Dench": {
@@ -16423,7 +16493,8 @@ var actorMap = {
     },
     "Kali Hawk": {
         "movies": [
-            "Couples Retreat (2009)"
+            "Couples Retreat (2009)",
+            "Get Him to the Greek (2010)"
         ]
     },
     "Kara Hayward": {
@@ -17558,6 +17629,9 @@ var actorMap = {
     "Kirstie Alley": {
         "movies": [
             "Star Trek II: The Wrath of Khan (1982)",
+            "Look Who's Talking (1989)",
+            "Look Who's Talking Too (1990)",
+            "Look Who's Talking Now (1993)",
             "Drop Dead Gorgeous (1999)"
         ]
     },
@@ -17598,8 +17672,10 @@ var actorMap = {
     },
     "Kristen Bell": {
         "movies": [
+            "Forgetting Sarah Marshall (2008)",
             "Couples Retreat (2009)",
             "When in Rome (2010)",
+            "Get Him to the Greek (2010)",
             "You Again (2010)",
             "Movie 43 (2013)",
             "Stuck in Love (2013)",
@@ -17618,6 +17694,7 @@ var actorMap = {
         "movies": [
             "Kate & Leopold (2001)",
             "When in Rome (2010)",
+            "Get Him to the Greek (2010)",
             "Toy Story 3 (2010)",
             "Toy Story 4 (2019)"
         ]
@@ -19600,6 +19677,11 @@ var actorMap = {
             "Superman IV: The Quest for Peace (1987)"
         ]
     },
+    "Marilu Henner": {
+        "movies": [
+            "Johnny Dangerously (1984)"
+        ]
+    },
     "Marilyn Manson": {
         "movies": [
             "Lost Highway (1997)",
@@ -19621,6 +19703,11 @@ var actorMap = {
                 "movie": "Roma",
                 "year": "2018"
             }
+        ]
+    },
+    "Mario Lopez": {
+        "movies": [
+            "Get Him to the Greek (2010)"
         ]
     },
     "Marion Cotillard": {
@@ -19705,7 +19792,8 @@ var actorMap = {
     },
     "Mark Gatiss": {
         "movies": [
-            "Victor Frankenstein (2015)"
+            "Victor Frankenstein (2015)",
+            "Christopher Robin (2018)"
         ]
     },
     "Mark Hamill": {
@@ -19943,6 +20031,7 @@ var actorMap = {
     },
     "Martin Brest": {
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "Spies Like Us (1985)"
         ]
     },
@@ -20196,7 +20285,8 @@ var actorMap = {
     },
     "Matt Berry": {
         "movies": [
-            "Moon (2009)"
+            "Moon (2009)",
+            "Christopher Robin (2018)"
         ]
     },
     "Matt Damon": {
@@ -20426,6 +20516,7 @@ var actorMap = {
     },
     "Maureen Stapleton": {
         "movies": [
+            "Johnny Dangerously (1984)",
             "Nuts (1987)"
         ]
     },
@@ -20568,6 +20659,11 @@ var actorMap = {
             "About Last Night (1986)"
         ]
     },
+    "Meghan Markle": {
+        "movies": [
+            "Get Him to the Greek (2010)"
+        ]
+    },
     "Mehcad Brooks": {
         "movies": [
             "Nobody's Fool (2018)"
@@ -20582,6 +20678,7 @@ var actorMap = {
         "movies": [
             "Young Frankenstein (1974)",
             "Spaceballs (1987)",
+            "Look Who's Talking Too (1990)",
             "Robots (2005)",
             "The Producers (2005)",
             "Toy Story 4 (2019)"
@@ -21237,6 +21334,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Johnny Dangerously (1984)",
             "Batman (1989)",
             "Batman Returns (1992)",
             "Cars (2006)",
@@ -21696,6 +21794,7 @@ var actorMap = {
     },
     "Mila Kunis": {
         "movies": [
+            "Forgetting Sarah Marshall (2008)",
             "Date Night (2010)",
             "Ted (2012)"
         ]
@@ -22467,6 +22566,7 @@ var actorMap = {
         "movies": [
             "I Love You, Man (2009)",
             "Date Night (2010)",
+            "Get Him to the Greek (2010)",
             "Little Fockers (2010)"
         ]
     },
@@ -22553,6 +22653,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "The Outsiders (1983)",
             "Wild at Heart (1990)",
             "Ghost Rider (2007)",
@@ -22965,6 +23066,11 @@ var actorMap = {
                 "movie": "Moonstruck",
                 "year": "1987"
             }
+        ],
+        "movies": [
+            "Look Who's Talking (1989)",
+            "Look Who's Talking Too (1990)",
+            "Look Who's Talking Now (1993)"
         ]
     },
     "Omar Epps": {
@@ -23109,11 +23215,6 @@ var actorMap = {
         "movies": [
             "Austin Powers in Goldmember (2002)",
             "Ghostbusters (2016)"
-        ]
-    },
-    "P. Diddy": {
-        "movies": [
-            "Made (2001)"
         ]
     },
     "P. J. Byrne": {
@@ -23514,7 +23615,9 @@ var actorMap = {
     },
     "Paul Rudd": {
         "movies": [
+            "Clueless (1995)",
             "Knocked Up (2007)",
+            "Forgetting Sarah Marshall (2008)",
             "I Love You, Man (2009)",
             "Monsters vs. Aliens (2009)",
             "How Do You Know (2010)",
@@ -23805,6 +23908,7 @@ var actorMap = {
     "Peter Boyle": {
         "movies": [
             "Young Frankenstein (1974)",
+            "Johnny Dangerously (1984)",
             "Monster's Ball (2001)"
         ]
     },
@@ -23815,6 +23919,7 @@ var actorMap = {
     },
     "Peter Capaldi": {
         "movies": [
+            "Christopher Robin (2018)",
             "The Suicide Squad (2021)"
         ]
     },
@@ -24036,6 +24141,7 @@ var actorMap = {
     },
     "Pharrell Williams": {
         "movies": [
+            "Get Him to the Greek (2010)",
             "The Grinch (2018)"
         ]
     },
@@ -24114,6 +24220,11 @@ var actorMap = {
             "The Hunger Games: Mockingjay \u2013 Part 2 (2015)"
         ]
     },
+    "Phoebe Cates": {
+        "movies": [
+            "Fast Times at Ridgemont High (1982)"
+        ]
+    },
     "Phoebe Waller-Bridge": {
         "movies": [
             "Solo: A Star Wars Story (2018)"
@@ -24151,7 +24262,8 @@ var actorMap = {
     },
     "Pink": {
         "movies": [
-            "Charlie's Angels: Full Throttle (2003)"
+            "Charlie's Angels: Full Throttle (2003)",
+            "Get Him to the Greek (2010)"
         ]
     },
     "Piper Laurie": {
@@ -24589,6 +24701,12 @@ var actorMap = {
             "The Three Musketeers (2011)",
             "Thor: The Dark World (2013)",
             "Thor: Ragnarok (2017)"
+        ]
+    },
+    "Ray Walston": {
+        "movies": [
+            "Fast Times at Ridgemont High (1982)",
+            "Johnny Dangerously (1984)"
         ]
     },
     "Ray Winstone": {
@@ -25178,6 +25296,11 @@ var actorMap = {
             "Hairspray (2007)"
         ]
     },
+    "Ricky Schroder": {
+        "movies": [
+            "Get Him to the Greek (2010)"
+        ]
+    },
     "Rihanna": {
         "movies": [
             "This Is the End (2013)",
@@ -25603,6 +25726,11 @@ var actorMap = {
             "Sin City: A Dame to Kill For (2014)"
         ]
     },
+    "Robert Romanus": {
+        "movies": [
+            "Fast Times at Ridgemont High (1982)"
+        ]
+    },
     "Robert Schwartzman": {
         "movies": [
             "The Virgin Suicides (2000)",
@@ -25938,6 +26066,7 @@ var actorMap = {
             "Star Wars: Episode II \u2013 Attack of the Clones (2002)",
             "Troy (2004)",
             "Sunshine (2007)",
+            "Get Him to the Greek (2010)",
             "Bridesmaids (2011)",
             "X-Men: First Class (2011)",
             "This Is Where I Leave You (2014)",
@@ -25954,6 +26083,11 @@ var actorMap = {
         "movies": [
             "Scream (1996)",
             "Conan the Barbarian (2011)"
+        ]
+    },
+    "Roseanne Barr": {
+        "movies": [
+            "Look Who's Talking Too (1990)"
         ]
     },
     "Rosemarie DeWitt": {
@@ -26105,6 +26239,8 @@ var actorMap = {
     },
     "Russell Brand": {
         "movies": [
+            "Forgetting Sarah Marshall (2008)",
+            "Get Him to the Greek (2010)",
             "Rock of Ages (2012)",
             "Death on the Nile (2022)"
         ]
@@ -26888,7 +27024,9 @@ var actorMap = {
     },
     "Sean Combs": {
         "movies": [
-            "Monster's Ball (2001)"
+            "Made (2001)",
+            "Monster's Ball (2001)",
+            "Get Him to the Greek (2010)"
         ]
     },
     "Sean Connery": {
@@ -26984,6 +27122,7 @@ var actorMap = {
         ],
         "movies": [
             "Taps (1981)",
+            "Fast Times at Ridgemont High (1982)",
             "The Game (1997)",
             "I Am Sam (2001)",
             "Tropic Thunder (2008)",
@@ -27618,6 +27757,7 @@ var actorMap = {
         ],
         "movies": [
             "The Secret Life of Bees (2008)",
+            "Christopher Robin (2018)",
             "Hellboy (2019)",
             "Death on the Nile (2022)"
         ]
@@ -27718,6 +27858,7 @@ var actorMap = {
     },
     "Stacey Dash": {
         "movies": [
+            "Clueless (1995)",
             "View from the Top (2003)"
         ]
     },
@@ -28245,6 +28386,7 @@ var actorMap = {
     },
     "T.J. Miller": {
         "movies": [
+            "Get Him to the Greek (2010)",
             "Rock of Ages (2012)",
             "Transformers: Age of Extinction (2014)",
             "Big Hero 6 (2014)",
@@ -28964,7 +29106,8 @@ var actorMap = {
             "The Hunger Games: Catching Fire (2013)",
             "Captain America: The Winter Soldier (2014)",
             "Atomic Blonde (2017)",
-            "Jurassic World: Fallen Kingdom (2018)"
+            "Jurassic World: Fallen Kingdom (2018)",
+            "Christopher Robin (2018)"
         ]
     },
     "Toby Kebbell": {
@@ -29087,6 +29230,7 @@ var actorMap = {
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Half-Blood Prince (2009)",
+            "Get Him to the Greek (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Rise of the Planet of the Apes (2011)"
@@ -30036,6 +30180,7 @@ var actorMap = {
     },
     "Vincent Schiavelli": {
         "movies": [
+            "Fast Times at Ridgemont High (1982)",
             "Batman Returns (1992)"
         ]
     },
@@ -30175,6 +30320,7 @@ var actorMap = {
     },
     "Wallace Shawn": {
         "movies": [
+            "Clueless (1995)",
             "Toy Story (1995)",
             "Toy Story 2 (1999)",
             "The Incredibles (2004)",
@@ -30542,6 +30688,11 @@ var actorMap = {
         "movies": [
             "Ghostbusters (1984)",
             "Die Hard (1988)"
+        ]
+    },
+    "William Baldwin": {
+        "movies": [
+            "Forgetting Sarah Marshall (2008)"
         ]
     },
     "William Dafoe": {

@@ -19937,6 +19937,22 @@ var movieMap = {
             "Comedies",
             "Coming of Age",
             "Nicolas Cage"
+        ],
+        "cast": [
+            "Amanda Wyss",
+            "Anthony Edwards",
+            "Brian Backer",
+            "Eric Stoltz",
+            "Forest Whitaker",
+            "Jennifer Jason Leigh",
+            "Judge Reinhold",
+            "Martin Brest",
+            "Nicolas Cage",
+            "Phoebe Cates",
+            "Ray Walston",
+            "Robert Romanus",
+            "Sean Penn",
+            "Vincent Schiavelli"
         ]
     },
     "Friday the 13th Part III (1982)": {
@@ -22981,6 +22997,17 @@ var movieMap = {
         "categories": [
             "1980s",
             "Michael Keaton"
+        ],
+        "cast": [
+            "Danny DeVito",
+            "Dom DeLuise",
+            "Griffin Dunne",
+            "Joe Piscopo",
+            "Marilu Henner",
+            "Maureen Stapleton",
+            "Michael Keaton",
+            "Peter Boyle",
+            "Ray Walston"
         ]
     },
     "The Flamingo Kid (1984)": {
@@ -31160,6 +31187,15 @@ var movieMap = {
         "categories": [
             "1980s",
             "Bruce Willis"
+        ],
+        "cast": [
+            "Abe Vigoda",
+            "Bruce Willis",
+            "George Segal",
+            "Joan Rivers",
+            "John Travolta",
+            "Kirstie Alley",
+            "Olympia Dukakis"
         ]
     },
     "The Fabulous Baker Boys (1989)": {
@@ -33366,6 +33402,17 @@ var movieMap = {
             "Bruce Willis",
             "Mel Brooks",
             "Wayans Family"
+        ],
+        "cast": [
+            "Bruce Willis",
+            "Damon Wayans",
+            "Elias Koteas",
+            "Gilbert Gottfried",
+            "John Travolta",
+            "Kirstie Alley",
+            "Mel Brooks",
+            "Olympia Dukakis",
+            "Roseanne Barr"
         ]
     },
     "Hamlet (1990)": {
@@ -39250,6 +39297,15 @@ var movieMap = {
         "categories": [
             "1990s",
             "Holiday"
+        ],
+        "cast": [
+            "Charles Barkley",
+            "Danny DeVito",
+            "Diane Keaton",
+            "George Segal",
+            "John Travolta",
+            "Kirstie Alley",
+            "Olympia Dukakis"
         ]
     },
     "RoboCop 3 (1993)": {
@@ -43496,6 +43552,16 @@ var movieMap = {
             "Frat Pack",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Alicia Silverstone",
+            "Breckin Meyer",
+            "Brittany Murphy",
+            "Dan Hedaya",
+            "Donald Faison",
+            "Paul Rudd",
+            "Stacey Dash",
+            "Wallace Shawn"
         ]
     },
     "Free Willy 2: The Adventure Home (1995)": {
@@ -59460,9 +59526,9 @@ var movieMap = {
             "Faizon Love",
             "Famke Janssen",
             "Jon Favreau",
-            "P. Diddy",
             "Peter Falk",
             "Sam Rockwell",
+            "Sean Combs",
             "Vince Vaughn",
             "Vincent Pastore"
         ]
@@ -81737,6 +81803,18 @@ var movieMap = {
             "Frat Pack",
             "Rom-Coms",
             "Romance"
+        ],
+        "cast": [
+            "Bill Hader",
+            "Jack McBrayer",
+            "Jason Bateman",
+            "Jason Segel",
+            "Jonah Hill",
+            "Kristen Bell",
+            "Mila Kunis",
+            "Paul Rudd",
+            "Russell Brand",
+            "William Baldwin"
         ]
     },
     "The Forbidden Kingdom (2008)": {
@@ -88339,6 +88417,31 @@ var movieMap = {
             "2010s",
             "Comedies",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Aziz Ansari",
+            "Billy Bush",
+            "Christina Aguilera",
+            "Colm Meaney",
+            "Dee Snider",
+            "Elisabeth Moss",
+            "Ellie Kemper",
+            "Jake Johnson",
+            "Jonah Hill",
+            "Kali Hawk",
+            "Kristen Bell",
+            "Kristen Schaal",
+            "Mario Lopez",
+            "Meghan Markle",
+            "Nick Kroll",
+            "Pharrell Williams",
+            "Pink",
+            "Ricky Schroder",
+            "Rose Byrne",
+            "Russell Brand",
+            "Sean Combs",
+            "T.J. Miller",
+            "Tom Felton"
         ]
     },
     "Killers (2010)": {
@@ -119008,6 +119111,18 @@ var movieMap = {
         "categories": [
             "2010s",
             "Disney"
+        ],
+        "cast": [
+            "Brad Garrett",
+            "Bronte Carmichael",
+            "Ewan McGregor",
+            "Hayley Atwell",
+            "Jim Cummings",
+            "Mark Gatiss",
+            "Matt Berry",
+            "Peter Capaldi",
+            "Sophie Okonedo",
+            "Toby Jones"
         ]
     },
     "Like Father (2018)": {
