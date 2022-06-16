@@ -17342,6 +17342,12 @@ var movieMap = {
             "1980s",
             "Action/Adventure",
             "Dystopian Future & Time Travel"
+        ],
+        "cast": [
+            "Hugh Keays-Byrne",
+            "Joanne Samuel",
+            "Mel Gibson",
+            "Steve Bisley"
         ]
     },
     "The Changeling (1980)": {
@@ -17925,6 +17931,15 @@ var movieMap = {
             "1980s",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Brian Blessed",
+            "Chaim Topol",
+            "Max von Sydow",
+            "Melody Anderson",
+            "Robbie Coltrane",
+            "Sam J. Jones",
+            "Timothy Dalton"
         ]
     },
     "Popeye (1980)": {
@@ -19523,6 +19538,11 @@ var movieMap = {
             "1980s",
             "Action/Adventure",
             "Dystopian Future & Time Travel"
+        ],
+        "cast": [
+            "Bruce Spence",
+            "Kjell Nilsson",
+            "Mel Gibson"
         ]
     },
     "Rocky III (1982)": {
@@ -22905,6 +22925,7 @@ var movieMap = {
             "Linda Hunt",
             "Max von Sydow",
             "Patrick Stewart",
+            "Paul L. Smith",
             "Sean Young",
             "Sting",
             "Virginia Madsen"
@@ -23845,6 +23866,14 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Arnold Schwarzenegger",
+            "Brigitte Nielsen",
+            "Ernie Reyes Jr.",
+            "Paul L. Smith",
+            "Ronald Lacey",
+            "Sandahl Bergman"
         ]
     },
     "Mad Max Beyond Thunderdome (1985)": {
@@ -23867,6 +23896,12 @@ var movieMap = {
             "1980s",
             "Action/Adventure",
             "Dystopian Future & Time Travel"
+        ],
+        "cast": [
+            "Bruce Spence",
+            "Helen Buday",
+            "Mel Gibson",
+            "Tina Turner"
         ]
     },
     "Silverado (1985)": {
@@ -25313,6 +25348,12 @@ var movieMap = {
             "Jennifer Connelly",
             "Lucasfilm",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Brian Henson",
+            "David Bowie",
+            "Jennifer Connelly",
+            "Ron Mueck"
         ]
     },
     "Running Scared (1986)": {
@@ -27136,6 +27177,17 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Daniel O'Herlihy",
+            "John Landis",
+            "Kurtwood Smith",
+            "Miguel Ferrer",
+            "Nancy Allen",
+            "Paul Verhoeven",
+            "Peter Weller",
+            "Ray Wise",
+            "Ronny Cox"
         ]
     },
     "La Bamba (1987)": {
@@ -32368,6 +32420,17 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Belinda Bauer",
+            "Dan O'Herlihy",
+            "Frank Miller",
+            "Gabriel Damon",
+            "John Glover",
+            "Nancy Allen",
+            "Peter Weller",
+            "Tom Noonan",
+            "Tzi Ma"
         ]
     },
     "Days of Thunder (1990)": {
@@ -32803,6 +32866,15 @@ var movieMap = {
             "Frances McDormand",
             "IG Fantasy/Sci-Fi",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Colin Friels",
+            "Ethan Coen",
+            "Frances McDormand",
+            "Jenny Agutter",
+            "Joel Coen",
+            "Larry Drake",
+            "Liam Neeson"
         ]
     },
     "Men at Work (1990)": {
@@ -39376,6 +39448,16 @@ var movieMap = {
             "Action/Adventure",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Bradley Whitford",
+            "Jeff Garlin",
+            "Jill Hennessy",
+            "Mako",
+            "Nancy Allen",
+            "Rip Torn",
+            "Robert John Burke",
+            "Stephen Root"
         ]
     },
     "The Remains of the Day (1993)": {
@@ -40834,6 +40916,17 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Alec Baldwin",
+            "Andr\u00e9 Gregory",
+            "Ian McKellen",
+            "James Hong",
+            "John Lone",
+            "Jonathan Winters",
+            "Penelope Ann Miller",
+            "Peter Boyle",
+            "Tim Curry"
         ]
     },
     "Forrest Gump (1994)": {
@@ -42071,6 +42164,14 @@ var movieMap = {
             "Douglases",
             "Horror/Thriller",
             "Thriller"
+        ],
+        "cast": [
+            "Caroline Goodall",
+            "Demi Moore",
+            "Donal Logue",
+            "Donald Sutherland",
+            "Dylan Baker",
+            "Michael Douglas"
         ]
     },
     "Drop Zone (1994)": {
@@ -42848,6 +42949,18 @@ var movieMap = {
             "Cusacks",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Ann Cusack",
+            "Doug Jones",
+            "Ice-T",
+            "Iggy Pop",
+            "James Hong",
+            "Lori Petty",
+            "Malcolm McDowell",
+            "Naomi Watts",
+            "Reg E. Cathey",
+            "Richard Schiff"
         ]
     },
     "Tommy Boy (1995)": {
@@ -43451,6 +43564,20 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Sly & Arnie"
+        ],
+        "cast": [
+            "Adrienne Barbeau",
+            "Angus MacInnes",
+            "Armand Assante",
+            "Diane Lane",
+            "Ewen Bremner",
+            "James Earl Jones",
+            "James Remar",
+            "Joan Chen",
+            "Max von Sydow",
+            "Rob Schneider",
+            "Scott Wilson",
+            "Sylvester Stallone"
         ]
     },
     "Mighty Morphin Power Rangers: The Movie (1995)": {
@@ -43473,6 +43600,15 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Amy Jo Johnson",
+            "David Yost",
+            "Jason David Frank",
+            "Johnny Yong Bosch",
+            "Karan Ashley",
+            "Paul Freeman",
+            "Steve Cardenas"
         ]
     },
     "First Knight (1995)": {
@@ -43692,6 +43828,14 @@ var movieMap = {
             "Dystopian Future & Time Travel",
             "Fantasy/Sci-Fi",
             "Frat Pack"
+        ],
+        "cast": [
+            "Dennis Hopper",
+            "Jack Black",
+            "Jeanne Tripplehorn",
+            "Kevin Costner",
+            "Michael Jeter",
+            "Tina Majorino"
         ]
     },
     "Babe (1995)": {
@@ -44479,6 +44623,17 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Sheens"
+        ],
+        "cast": [
+            "Annette Bening",
+            "David Paymer",
+            "John Mahoney",
+            "Martin Sheen",
+            "Michael Douglas",
+            "Michael J. Fox",
+            "Richard Dreyfuss",
+            "Samantha Mathis",
+            "Shawna Waldron"
         ]
     },
     "Casino (1995)": {
@@ -45940,6 +46095,15 @@ var movieMap = {
             "1990s",
             "Comic Book",
             "Swashbuckling & Pulp Adventure"
+        ],
+        "cast": [
+            "Billy Zane",
+            "Cary-Hiroyuki Tagawa",
+            "Catherine Zeta-Jones",
+            "James Remar",
+            "Kristy Swanson",
+            "Samantha Eggar",
+            "Treat Williams"
         ]
     },
     "The Rock (1996)": {
@@ -46599,6 +46763,15 @@ var movieMap = {
             "1990s",
             "Happy Madison & Adam Sandler",
             "Wayans Family"
+        ],
+        "cast": [
+            "Adam Sandler",
+            "Allen Covert",
+            "Bill Nunn",
+            "Damon Wayans",
+            "James Caan",
+            "Kristen Wilson",
+            "Monica Potter"
         ]
     },
     "Fly Away Home (1996)": {
@@ -46924,6 +47097,21 @@ var movieMap = {
             "Crime",
             "Dramas",
             "Robert De Niro & Joe Pesci"
+        ],
+        "cast": [
+            "Billy Crudup",
+            "Brad Pitt",
+            "Brad Renfro",
+            "Bruno Kirby",
+            "Dustin Hoffman",
+            "Jason Patric",
+            "Jeffrey Donovan",
+            "Jonathan Tucker",
+            "Kevin Bacon",
+            "Minnie Driver",
+            "Peter McRobbie",
+            "Robert De Niro",
+            "Ron Eldard"
         ]
     },
     "Swingers (1996)": {
@@ -48334,6 +48522,17 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Hasbro",
             "IG Fantasy/Sci-Fi"
+        ],
+        "cast": [
+            "Amy Jo Johnson",
+            "Austin St. John",
+            "Blake Foster",
+            "Catherine Sutherland",
+            "Hilary Shepard Turner",
+            "Jason David Frank",
+            "Johnny Yong Bosch",
+            "Nakia Burrise",
+            "Steve Cardenas"
         ]
     },
     "Chasing Amy (1997)": {
@@ -49131,6 +49330,16 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Sheens"
+        ],
+        "cast": [
+            "D. B. Sweeney",
+            "Frank Welker",
+            "John Leguizamo",
+            "Martin Sheen",
+            "Michael Jai White",
+            "Nicol Williamson",
+            "Theresa Randle",
+            "Todd McFarlane"
         ]
     },
     "Conspiracy Theory (1997)": {
@@ -50383,6 +50592,24 @@ var movieMap = {
             "Frat Pack",
             "Robert De Niro & Joe Pesci",
             "SCTV Alumni"
+        ],
+        "cast": [
+            "Andrea Martin",
+            "Anne Heche",
+            "Craig T. Nelson",
+            "David Koechner",
+            "Denis Leary",
+            "Dustin Hoffman",
+            "George Gaynes",
+            "Jay Leno",
+            "Jim Belushi",
+            "John Cho",
+            "John Michael Higgins",
+            "Kirsten Dunst",
+            "Robert De Niro",
+            "William H. Macy",
+            "Willie Nelson",
+            "Woody Harrelson"
         ]
     },
     "Firestorm (1998)": {
@@ -50599,6 +50826,15 @@ var movieMap = {
             "Musicians in Film",
             "Queen Latifah",
             "Samuel L. Jackson"
+        ],
+        "cast": [
+            "Dustin Hoffman",
+            "Huey Lewis",
+            "Liev Schreiber",
+            "Peter Coyote",
+            "Queen Latifah",
+            "Samuel L. Jackson",
+            "Sharon Stone"
         ]
     },
     "The Wedding Singer (1998)": {
@@ -55986,6 +56222,28 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Kevin Smith"
+        ],
+        "cast": [
+            "Carrie Fisher",
+            "Courteney Cox",
+            "David Arquette",
+            "Emily Mortimer",
+            "Heather Matarazzo",
+            "Jamie Kennedy",
+            "Jason Mewes",
+            "Jenny McCarthy",
+            "Josh Pais",
+            "Kevin Smith",
+            "Lance Henriksen",
+            "Liev Schreiber",
+            "Matthew Lillard",
+            "Neve Campbell",
+            "Parker Posey",
+            "Patrick Dempsey",
+            "Patrick Warburton",
+            "Roger L. Jackson",
+            "Scott Foley",
+            "Skeet Ulrich"
         ]
     },
     "The Beach (2000)": {
@@ -65418,6 +65676,7 @@ var movieMap = {
             "Barry Humphries",
             "Bob Peterson",
             "Brad Garrett",
+            "Bruce Spence",
             "Elizabeth Perkins",
             "Ellen DeGeneres",
             "Eric Bana",
@@ -66787,6 +67046,7 @@ var movieMap = {
         ],
         "cast": [
             "Anthony Zerbe",
+            "Bruce Spence",
             "Carrie-Anne Moss",
             "Gina Torres",
             "Harold Perrineau",
@@ -69399,6 +69659,14 @@ var movieMap = {
             "Andersons",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Colin Salmon",
+            "Ewen Bremner",
+            "Lance Henriksen",
+            "Raoul Bova",
+            "Sanaa Lathan",
+            "Tommy Flanagan"
         ]
     },
     "Exorcist: The Beginning (2004)": {
@@ -71752,6 +72020,7 @@ var movieMap = {
         "cast": [
             "Ahmed Best",
             "Anthony Daniels",
+            "Bruce Spence",
             "Christopher Lee",
             "Ewan McGregor",
             "Frank Oz",
@@ -80889,6 +81158,15 @@ var movieMap = {
             "Alien & Predator",
             "Fantasy/Sci-Fi",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Ariel Gade",
+            "John Ortiz",
+            "Johnny Lewis",
+            "Liam James",
+            "Reiko Aylesworth",
+            "Sam Trammell",
+            "Steven Pasquale"
         ]
     },
     "The Bucket List (2007)": {
@@ -90339,6 +90617,7 @@ var movieMap = {
         "cast": [
             "Anna Popplewell",
             "Ben Barnes",
+            "Bruce Spence",
             "Georgie Henley",
             "Liam Neeson",
             "Nathaniel Parker",
@@ -91424,6 +91703,26 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Adam Brody",
+            "Aimee Teegarden",
+            "Alison Brie",
+            "Anna Paquin",
+            "Anthony Anderson",
+            "Britt Robertson",
+            "Courteney Cox",
+            "David Arquette",
+            "Emma Roberts",
+            "Erik Knudsen",
+            "Hayden Panettiere",
+            "Kristen Bell",
+            "Lucy Hale",
+            "Marley Shelton",
+            "Mary McDonnell",
+            "Neve Campbell",
+            "Roger L. Jackson",
+            "Rory Culkin"
         ]
     },
     "Incendies (2011)": {
@@ -98843,6 +99142,18 @@ var movieMap = {
             "Remakes & Reboots",
             "Swashbuckling & Pulp Adventure",
             "Westerns"
+        ],
+        "cast": [
+            "Armie Hammer",
+            "Barry Pepper",
+            "Helena Bonham Carter",
+            "James Badge Dale",
+            "Johnny Depp",
+            "Mason Cook",
+            "Ruth Wilson",
+            "Stephen Root",
+            "Tom Wilkinson",
+            "William Fichtner"
         ]
     },
     "Stuck in Love (2013)": {
@@ -100937,6 +101248,7 @@ var movieMap = {
         "cast": [
             "Aaron Eckhart",
             "Bill Nighy",
+            "Bruce Spence",
             "Chris Pang",
             "Jai Courtney",
             "Miranda Otto",
@@ -102364,6 +102676,18 @@ var movieMap = {
             "Ed Harris",
             "Fantasy/Sci-Fi",
             "Octavia Spencer"
+        ],
+        "cast": [
+            "Allison Pill",
+            "Chris Evans",
+            "Ed Harris",
+            "Ewen Bremner",
+            "Go Ah-sung",
+            "Jamie Bell",
+            "John Hurt",
+            "Octavia Spencer",
+            "Song Kang-ho",
+            "Tilda Swinton"
         ]
     },
     "Transformers: Age of Extinction (2014)": {
@@ -105683,6 +106007,19 @@ var movieMap = {
             "Charlize Theron",
             "Dystopian Future & Time Travel",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Abbey Lee",
+            "Charlize Theron",
+            "Courtney Eaton",
+            "Hugh Keays-Byrne",
+            "Josh Helman",
+            "Nathan Jones",
+            "Nicholas Hoult",
+            "Riley Keough",
+            "Rosie Huntington-Whiteley",
+            "Tom Hardy",
+            "Zo\u00eb Kravitz"
         ]
     },
     "Pitch Perfect 2 (2015)": {
@@ -113154,12 +113491,14 @@ var movieMap = {
             "Remakes & Reboots"
         ],
         "cast": [
+            "Amy Jo Johnson",
             "Becky G",
             "Bill Hader",
             "Bryan Cranston",
             "Dacre Montgomery",
             "David Denman",
             "Elizabeth Banks",
+            "Jason David Frank",
             "Ludi Lin",
             "Naomi Scott",
             "RJ Cyler"
@@ -133211,6 +133550,35 @@ var movieMap = {
             "Barrymore Family",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Adam Brody",
+            "Chelsea Rebecca",
+            "Courteney Cox",
+            "David Arquette",
+            "Drew Barrymore",
+            "Dylan Minnette",
+            "Hayden Panettiere",
+            "Heather Matarazzo",
+            "Henry Winkler",
+            "Jack Quaid",
+            "James A. Janisse",
+            "Jamie Kennedy",
+            "Jasmin Savoy Brown",
+            "Jenna Ortega",
+            "Kyle Gallner",
+            "Marco Beltrami",
+            "Marley Shelton",
+            "Mason Gooding",
+            "Matt Bettinelli-Olpin",
+            "Matthew Lillard",
+            "Melissa Barrera",
+            "Mikey Madison",
+            "Neve Campbell",
+            "Rian Johnson",
+            "Roger L. Jackson",
+            "Skeet Ulrich",
+            "Tyler Gillett"
         ]
     },
     "Sex Appeal (2022)": {
