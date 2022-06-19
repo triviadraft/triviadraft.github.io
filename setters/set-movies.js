@@ -48657,6 +48657,16 @@ var movieMap = {
             "Jennifer Lopez",
             "Monster",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Danny Trejo",
+            "Eric Stoltz",
+            "Ice Cube",
+            "Jennifer Lopez",
+            "Jon Voight",
+            "Jonathan Hyde",
+            "Kari Wuhrer",
+            "Owen Wilson"
         ]
     },
     "Grosse Pointe Blank (1997)": {
@@ -127945,6 +127955,18 @@ var movieMap = {
             "Dramas",
             "Spike Lee",
             "Streaming"
+        ],
+        "cast": [
+            "Chadwick Boseman",
+            "Clarke Peters",
+            "Delroy Lindo",
+            "Isiah Whitlock Jr.",
+            "Jean Reno",
+            "Jonathan Majors",
+            "M\u00e9lanie Thierry",
+            "Norm Lewis",
+            "Paul Walter Hauser",
+            "Veronica Ngo"
         ]
     },
     "The King of Staten Island (2020)": {

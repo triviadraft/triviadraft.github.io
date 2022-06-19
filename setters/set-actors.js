@@ -4719,7 +4719,8 @@ var actorMap = {
             "Black Panther (2018)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
-            "21 Bridges (2019)"
+            "21 Bridges (2019)",
+            "Da 5 Bloods (2020)"
         ]
     },
     "Chaim Topol": {
@@ -5701,7 +5702,8 @@ var actorMap = {
     },
     "Clarke Peters": {
         "movies": [
-            "John Wick (2014)"
+            "John Wick (2014)",
+            "Da 5 Bloods (2020)"
         ]
     },
     "Claude Akins": {
@@ -6687,6 +6689,7 @@ var actorMap = {
     "Danny Trejo": {
         "movies": [
             "From Dusk till Dawn (1996)",
+            "Anaconda (1997)",
             "Six Days, Seven Nights (1998)",
             "Predators (2010)"
         ]
@@ -7235,7 +7238,8 @@ var actorMap = {
     "Delroy Lindo": {
         "movies": [
             "Sahara (2005)",
-            "Up (2009)"
+            "Up (2009)",
+            "Da 5 Bloods (2020)"
         ]
     },
     "Demi Moore": {
@@ -9153,7 +9157,8 @@ var actorMap = {
     "Eric Stoltz": {
         "movies": [
             "Fast Times at Ridgemont High (1982)",
-            "Jerry Maguire (1996)"
+            "Jerry Maguire (1996)",
+            "Anaconda (1997)"
         ]
     },
     "Eric Stonestreet": {
@@ -11903,6 +11908,7 @@ var actorMap = {
     "Ice Cube": {
         "movies": [
             "Boyz n the Hood (1991)",
+            "Anaconda (1997)",
             "Ghosts of Mars (2001)",
             "Ride Along (2014)",
             "Ride Along 2 (2016)"
@@ -12155,7 +12161,8 @@ var actorMap = {
         "movies": [
             "1408 (2007)",
             "Pete's Dragon (2016)",
-            "Cars 3 (2017)"
+            "Cars 3 (2017)",
+            "Da 5 Bloods (2020)"
         ]
     },
     "Isla Fisher": {
@@ -13790,7 +13797,8 @@ var actorMap = {
             "Mission: Impossible (1996)",
             "Godzilla (1998)",
             "Flushed Away (2006)",
-            "Couples Retreat (2009)"
+            "Couples Retreat (2009)",
+            "Da 5 Bloods (2020)"
         ]
     },
     "Jean Smart": {
@@ -14151,6 +14159,7 @@ var actorMap = {
     },
     "Jennifer Lopez": {
         "movies": [
+            "Anaconda (1997)",
             "Antz (1998)",
             "Enough (2002)",
             "Gigli (2003)",
@@ -15976,6 +15985,7 @@ var actorMap = {
         ],
         "movies": [
             "Mission: Impossible (1996)",
+            "Anaconda (1997)",
             "The Manchurian Candidate (2004)",
             "Transformers (2007)",
             "Tropic Thunder (2008)",
@@ -16047,6 +16057,7 @@ var actorMap = {
     "Jonathan Hyde": {
         "movies": [
             "Jumanji (1995)",
+            "Anaconda (1997)",
             "The Mummy (1999)",
             "The Tailor of Panama (2001)"
         ]
@@ -16060,6 +16071,11 @@ var actorMap = {
     "Jonathan Lipnicki": {
         "movies": [
             "Jerry Maguire (1996)"
+        ]
+    },
+    "Jonathan Majors": {
+        "movies": [
+            "Da 5 Bloods (2020)"
         ]
     },
     "Jonathan Pryce": {
@@ -17002,6 +17018,11 @@ var actorMap = {
             "Avengers: Endgame (2019)",
             "Jumanji: The Next Level (2019)",
             "Spies in Disguise (2019)"
+        ]
+    },
+    "Kari Wuhrer": {
+        "movies": [
+            "Anaconda (1997)"
         ]
     },
     "Karin Dor": {
@@ -22772,6 +22793,11 @@ var actorMap = {
             "Now You See Me (2013)"
         ]
     },
+    "M\u00e9lanie Thierry": {
+        "movies": [
+            "Da 5 Bloods (2020)"
+        ]
+    },
     "N'Bushe Wright": {
         "movies": [
             "Blade (1998)"
@@ -23456,6 +23482,11 @@ var actorMap = {
             "Hocus Pocus (1993)"
         ]
     },
+    "Norm Lewis": {
+        "movies": [
+            "Da 5 Bloods (2020)"
+        ]
+    },
     "Norm Macdonald": {
         "movies": [
             "Screwed (2000)",
@@ -23825,6 +23856,7 @@ var actorMap = {
     },
     "Owen Wilson": {
         "movies": [
+            "Anaconda (1997)",
             "Meet the Parents (2000)",
             "The Royal Tenenbaums (2001)",
             "Meet the Fockers (2004)",
@@ -24329,6 +24361,7 @@ var actorMap = {
     },
     "Paul Walter Hauser": {
         "movies": [
+            "Da 5 Bloods (2020)",
             "Cruella (2021)"
         ]
     },
@@ -30883,6 +30916,11 @@ var actorMap = {
             "Invasion of the Body Snatchers (1978)",
             "Alien (1979)",
             "The Witches of Eastwick (1987)"
+        ]
+    },
+    "Veronica Ngo": {
+        "movies": [
+            "Da 5 Bloods (2020)"
         ]
     },
     "Veronica Ng\u00f4": {
