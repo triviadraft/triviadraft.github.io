@@ -309,6 +309,7 @@ var actorMap = {
     },
     "Adrienne Barbeau": {
         "movies": [
+            "The Cannonball Run (1981)",
             "Swamp Thing (1982)",
             "Judge Dredd (1995)"
         ]
@@ -1511,6 +1512,7 @@ var actorMap = {
     },
     "Angie Dickinson": {
         "movies": [
+            "Rio Bravo (1959)",
             "Ocean's 11 (1960)"
         ]
     },
@@ -2565,6 +2567,11 @@ var actorMap = {
             "Power Rangers (2017)"
         ]
     },
+    "Bel Powley": {
+        "movies": [
+            "Mary Shelley (2018)"
+        ]
+    },
     "Belinda Bauer": {
         "movies": [
             "RoboCop 2 (1990)"
@@ -2624,7 +2631,8 @@ var actorMap = {
     },
     "Ben Hardy": {
         "movies": [
-            "X-Men: Apocalypse (2016)"
+            "X-Men: Apocalypse (2016)",
+            "Mary Shelley (2018)"
         ]
     },
     "Ben Kingsley": {
@@ -4144,6 +4152,9 @@ var actorMap = {
                 "movie": "Boogie Nights",
                 "year": "1997"
             }
+        ],
+        "movies": [
+            "The Cannonball Run (1981)"
         ]
     },
     "Burt Ward": {
@@ -5733,6 +5744,7 @@ var actorMap = {
     },
     "Claude Akins": {
         "movies": [
+            "Rio Bravo (1959)",
             "Battle for the Planet of the Apes (1973)"
         ]
     },
@@ -6671,6 +6683,7 @@ var actorMap = {
         "movies": [
             "Places in the Heart (1984)",
             "Silverado (1985)",
+            "Lethal Weapon (1987)",
             "Predator 2 (1990)",
             "Maverick (1994)",
             "Antz (1998)",
@@ -6745,6 +6758,11 @@ var actorMap = {
     "Darius Miles": {
         "movies": [
             "The Perfect Score (2004)"
+        ]
+    },
+    "Darlene Love": {
+        "movies": [
+            "Lethal Weapon (1987)"
         ]
     },
     "Daryl Hannah": {
@@ -7183,7 +7201,10 @@ var actorMap = {
     },
     "Dean Martin": {
         "movies": [
-            "Ocean's 11 (1960)"
+            "Rio Bravo (1959)",
+            "Ocean's 11 (1960)",
+            "Sergeants 3 (1962)",
+            "The Cannonball Run (1981)"
         ]
     },
     "Dean Norris": {
@@ -7753,6 +7774,7 @@ var actorMap = {
     },
     "Dom DeLuise": {
         "movies": [
+            "The Cannonball Run (1981)",
             "Johnny Dangerously (1984)",
             "Spaceballs (1987)"
         ]
@@ -8007,7 +8029,8 @@ var actorMap = {
     },
     "Douglas Booth": {
         "movies": [
-            "Noah (2014)"
+            "Noah (2014)",
+            "Mary Shelley (2018)"
         ]
     },
     "Douglas Fairbanks Jr.": {
@@ -8744,7 +8767,8 @@ var actorMap = {
             "I Am Sam (2001)",
             "D\u00e9j\u00e0 Vu (2006)",
             "The Curious Case of Benjamin Button (2008)",
-            "We Bought a Zoo (2011)"
+            "We Bought a Zoo (2011)",
+            "Mary Shelley (2018)"
         ]
     },
     "Ellen Albertini Dow": {
@@ -9533,6 +9557,11 @@ var actorMap = {
             "X-Men: Days of Future Past (2014)"
         ]
     },
+    "Farrah Fawcett": {
+        "movies": [
+            "The Cannonball Run (1981)"
+        ]
+    },
     "Faye Dunaway": {
         "movies": [
             "Network (1976)",
@@ -9885,6 +9914,7 @@ var actorMap = {
     "Frank Sinatra": {
         "movies": [
             "Ocean's 11 (1960)",
+            "Sergeants 3 (1962)",
             "The Manchurian Candidate (1962)"
         ]
     },
@@ -10144,6 +10174,7 @@ var actorMap = {
         ],
         "movies": [
             "A Star Is Born (1976)",
+            "Lethal Weapon (1987)",
             "Predator 2 (1990)",
             "The Firm (1993)",
             "Lost Highway (1997)"
@@ -11068,6 +11099,11 @@ var actorMap = {
         ],
         "movies": [
             "The Firm (1993)"
+        ]
+    },
+    "Hal Needham": {
+        "movies": [
+            "The Cannonball Run (1981)"
         ]
     },
     "Haley Joel Osment": {
@@ -12627,6 +12663,7 @@ var actorMap = {
     },
     "Jackie Chan": {
         "movies": [
+            "The Cannonball Run (1981)",
             "Kung Fu Panda (2008)",
             "The Karate Kid (2010)",
             "Kung Fu Panda 2 (2011)",
@@ -14969,6 +15006,11 @@ var actorMap = {
             "Love Actually (2003)"
         ]
     },
+    "Joanne Froggatt": {
+        "movies": [
+            "Mary Shelley (2018)"
+        ]
+    },
     "Joanne Samuel": {
         "movies": [
             "Mad Max (1980)"
@@ -15262,7 +15304,8 @@ var actorMap = {
     },
     "Joey Bishop": {
         "movies": [
-            "Ocean's 11 (1960)"
+            "Ocean's 11 (1960)",
+            "Sergeants 3 (1962)"
         ]
     },
     "Joey King": {
@@ -15400,7 +15443,8 @@ var actorMap = {
     },
     "John Fiedler": {
         "movies": [
-            "12 Angry Men (1957)"
+            "12 Angry Men (1957)",
+            "The Cannonball Run (1981)"
         ]
     },
     "John Finnegan": {
@@ -15844,6 +15888,9 @@ var actorMap = {
                 "movie": "True Grit",
                 "year": "1969"
             }
+        ],
+        "movies": [
+            "Rio Bravo (1959)"
         ]
     },
     "John Williams": {
@@ -20053,6 +20100,7 @@ var actorMap = {
     },
     "Maisie Williams": {
         "movies": [
+            "Mary Shelley (2018)",
             "The New Mutants (2020)"
         ]
     },
@@ -20847,6 +20895,7 @@ var actorMap = {
     },
     "Mary Ellen Trainor": {
         "movies": [
+            "Lethal Weapon (1987)",
             "Ghostbusters II (1989)"
         ]
     },
@@ -21378,6 +21427,7 @@ var actorMap = {
             "Mad Max (1980)",
             "The Road Warrior (1982)",
             "Mad Max Beyond Thunderdome (1985)",
+            "Lethal Weapon (1987)",
             "Maverick (1994)",
             "Conspiracy Theory (1997)",
             "Chicken Run (2000)"
@@ -22689,6 +22739,12 @@ var actorMap = {
     "Mitch Pileggi": {
         "movies": [
             "Transformers: The Last Knight (2017)"
+        ]
+    },
+    "Mitchell Ryan": {
+        "movies": [
+            "Lethal Weapon (1987)",
+            "Judge Dredd (1995)"
         ]
     },
     "Mitchell Whitfield": {
@@ -24757,6 +24813,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Cannonball Run (1981)",
             "Ghost Rider (2007)"
         ]
     },
@@ -24781,7 +24838,8 @@ var actorMap = {
     },
     "Peter Lawford": {
         "movies": [
-            "Ocean's 11 (1960)"
+            "Ocean's 11 (1960)",
+            "Sergeants 3 (1962)"
         ]
     },
     "Peter Lorre": {
@@ -26112,6 +26170,11 @@ var actorMap = {
             "Hairspray (2007)"
         ]
     },
+    "Ricky Nelson": {
+        "movies": [
+            "Rio Bravo (1959)"
+        ]
+    },
     "Ricky Schroder": {
         "movies": [
             "Get Him to the Greek (2010)"
@@ -26726,6 +26789,11 @@ var actorMap = {
             "Scream 3 (2000)",
             "Scream 4 (2011)",
             "Scream (2022)"
+        ]
+    },
+    "Roger Moore": {
+        "movies": [
+            "The Cannonball Run (1981)"
         ]
     },
     "Rohan Chand": {
@@ -27549,7 +27617,9 @@ var actorMap = {
     },
     "Sammy Davis Jr.": {
         "movies": [
-            "Ocean's 11 (1960)"
+            "Ocean's 11 (1960)",
+            "Sergeants 3 (1962)",
+            "The Cannonball Run (1981)"
         ]
     },
     "Samuel L. Jackson": {
@@ -28880,7 +28950,8 @@ var actorMap = {
     "Stephen Dillane": {
         "movies": [
             "The Hours (2002)",
-            "Zero Dark Thirty (2012)"
+            "Zero Dark Thirty (2012)",
+            "Mary Shelley (2018)"
         ]
     },
     "Stephen Dorff": {
@@ -29575,6 +29646,7 @@ var actorMap = {
     },
     "Terry Bradshaw": {
         "movies": [
+            "The Cannonball Run (1981)",
             "Failure to Launch (2006)"
         ]
     },
@@ -30643,6 +30715,11 @@ var actorMap = {
             "Onward (2020)"
         ]
     },
+    "Traci Wolfe": {
+        "movies": [
+            "Lethal Weapon (1987)"
+        ]
+    },
     "Tracie Thoms": {
         "movies": [
             "Rent (2005)",
@@ -30892,7 +30969,8 @@ var actorMap = {
     "Valerie Perrine": {
         "movies": [
             "Superman (1978)",
-            "Superman II (1981)"
+            "Superman II (1981)",
+            "The Cannonball Run (1981)"
         ]
     },
     "Valeriia Karam\u00e4n": {
@@ -31308,6 +31386,11 @@ var actorMap = {
             "Book Club (2018)",
             "Toy Story 4 (2019)",
             "Marriage Story (2019)"
+        ]
+    },
+    "Walter Brennan": {
+        "movies": [
+            "Rio Bravo (1959)"
         ]
     },
     "Walter Connolly": {

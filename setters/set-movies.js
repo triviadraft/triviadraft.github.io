@@ -6833,6 +6833,14 @@ var movieMap = {
             "Classics",
             "Rat Pack",
             "Westerns"
+        ],
+        "cast": [
+            "Angie Dickinson",
+            "Claude Akins",
+            "Dean Martin",
+            "John Wayne",
+            "Ricky Nelson",
+            "Walter Brennan"
         ]
     },
     "Some Like It Hot (1959)": {
@@ -7700,6 +7708,13 @@ var movieMap = {
             "Classics",
             "Rat Pack",
             "Westerns"
+        ],
+        "cast": [
+            "Dean Martin",
+            "Frank Sinatra",
+            "Joey Bishop",
+            "Peter Lawford",
+            "Sammy Davis Jr."
         ]
     },
     "Cape Fear (1962)": {
@@ -18517,6 +18532,21 @@ var movieMap = {
             "1980s",
             "Jackie Chan",
             "Rat Pack"
+        ],
+        "cast": [
+            "Adrienne Barbeau",
+            "Burt Reynolds",
+            "Dean Martin",
+            "Dom DeLuise",
+            "Farrah Fawcett",
+            "Hal Needham",
+            "Jackie Chan",
+            "John Fiedler",
+            "Peter Fonda",
+            "Roger Moore",
+            "Sammy Davis Jr.",
+            "Terry Bradshaw",
+            "Valerie Perrine"
         ]
     },
     "Dragonslayer (1981)": {
@@ -26608,6 +26638,15 @@ var movieMap = {
             "Action/Adventure",
             "Holiday",
             "Richard Donner"
+        ],
+        "cast": [
+            "Danny Glover",
+            "Darlene Love",
+            "Gary Busey",
+            "Mary Ellen Trainor",
+            "Mel Gibson",
+            "Mitchell Ryan",
+            "Traci Wolfe"
         ]
     },
     "Evil Dead II (1987)": {
@@ -43628,6 +43667,7 @@ var movieMap = {
             "James Remar",
             "Joan Chen",
             "Max von Sydow",
+            "Mitchell Ryan",
             "Rob Schneider",
             "Scott Wilson",
             "Sylvester Stallone"
@@ -118845,6 +118885,15 @@ var movieMap = {
         "categories": [
             "2010s",
             "Period Pieces & Costume Dramas"
+        ],
+        "cast": [
+            "Bel Powley",
+            "Ben Hardy",
+            "Douglas Booth",
+            "Elle Fanning",
+            "Joanne Froggatt",
+            "Maisie Williams",
+            "Stephen Dillane"
         ]
     },
     "Solo: A Star Wars Story (2018)": {
