@@ -1923,7 +1923,7 @@ var igMovieMap = {
                 "description": "China Town resident who becomes an ally of the Shadow"
             },
             {
-                "actor": "Andre Gregory",
+                "actor": "Andr\u00e9 Gregory",
                 "name": "Burbank",
                 "description": "ally of the Shadow"
             },
@@ -9914,6 +9914,11 @@ var igMovieMap = {
                 "description": ""
             },
             {
+                "actor": "Mitchell Ryan",
+                "name": "Vartis Hammond",
+                "description": ""
+            },
+            {
                 "actor": "Scott Wilson",
                 "name": "Pa Angel",
                 "description": ""
@@ -9953,11 +9958,6 @@ var igMovieMap = {
             {
                 "actor": "Ian Dury",
                 "name": "Geiger",
-                "description": ""
-            },
-            {
-                "actor": "Mitchell Ryan",
-                "name": "Vartis Hammond",
                 "description": ""
             },
             {
@@ -31202,6 +31202,11 @@ var igMovieMap = {
                 "description": "mother searching for her son and husband"
             },
             {
+                "actor": "Liam James",
+                "name": "Sam Benson",
+                "description": ""
+            },
+            {
                 "actor": "Tom Woodruff Jr.",
                 "name": "Aliens and the Predalien",
                 "description": ""
@@ -31222,11 +31227,6 @@ var igMovieMap = {
                 "actor": "David Hornsby",
                 "name": "Drew Roberts",
                 "description": "pizza parlor supervisor"
-            },
-            {
-                "actor": "Liam James",
-                "name": "Sam Benson",
-                "description": ""
             },
             {
                 "actor": "Kurt Max Runte",

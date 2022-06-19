@@ -789,13 +789,6 @@ var igActorMap = {
             ]
         }
     },
-    "Andre Gregory": {
-        "movies": {
-            "The Shadow (1994)": [
-                "The Shadow (1994)"
-            ]
-        }
-    },
     "Andrea Riseborough": {
         "movies": {
             "Oblivion (2013)": [
@@ -843,6 +836,13 @@ var igActorMap = {
             "300": [
                 "300 (2007)",
                 "300: Rise of an Empire (2014)"
+            ]
+        }
+    },
+    "Andr\u00e9 Gregory": {
+        "movies": {
+            "The Shadow (1994)": [
+                "The Shadow (1994)"
             ]
         }
     },
@@ -12075,6 +12075,13 @@ var igActorMap = {
             ]
         }
     },
+    "Liam James": {
+        "movies": {
+            "Alien": [
+                "Aliens vs. Predator: Requiem (2007)"
+            ]
+        }
+    },
     "Liam Neeson": {
         "movies": {
             "Darkman (1990)": [
@@ -14227,6 +14234,13 @@ var igActorMap = {
         "movies": {
             "Transformers": [
                 "Transformers: The Last Knight (2017)"
+            ]
+        }
+    },
+    "Mitchell Ryan": {
+        "movies": {
+            "Judge Dredd (1995)": [
+                "Judge Dredd (1995)"
             ]
         }
     },
