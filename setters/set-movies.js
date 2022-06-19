@@ -27434,6 +27434,13 @@ var movieMap = {
             "1980s",
             "Dance",
             "Dramas"
+        ],
+        "cast": [
+            "Cynthia Rhodes",
+            "Jennifer Grey",
+            "Jerry Orbach",
+            "Patrick Swayze",
+            "Wayne Knight"
         ]
     },
     "The Big Easy (1987)": {
@@ -47554,6 +47561,14 @@ var movieMap = {
             "Family",
             "John Hughes",
             "Remakes & Reboots"
+        ],
+        "cast": [
+            "Glenn Close",
+            "Hugh Laurie",
+            "Jeff Daniels",
+            "Joan Plowright",
+            "Joely Richardson",
+            "Mark Williams"
         ]
     },
     "Sling Blade (1996)": {
@@ -76231,6 +76246,14 @@ var movieMap = {
             "2000s",
             "Dance",
             "Dramas"
+        ],
+        "cast": [
+            "Alyson Stoner",
+            "Channing Tatum",
+            "Drew Sidora",
+            "Jenna Dewan",
+            "Mario",
+            "Rachel Griffiths"
         ]
     },
     "Zoom (2006)": {
@@ -95952,6 +95975,21 @@ var movieMap = {
             "Dramas",
             "Steven Soderbergh",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Adam Rodriguez",
+            "Alex Pettyfer",
+            "Betsy Brandt",
+            "Channing Tatum",
+            "Cody Horn",
+            "Gabriel Iglesias",
+            "Joe Manganiello",
+            "Kevin Nash",
+            "Matt Bomer",
+            "Matthew McConaughey",
+            "Olivia Munn",
+            "Riley Keough",
+            "Wendi McLendon-Covey"
         ]
     },
     "Ted (2012)": {

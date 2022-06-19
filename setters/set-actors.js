@@ -200,6 +200,11 @@ var actorMap = {
             "Rent (2005)"
         ]
     },
+    "Adam Rodriguez": {
+        "movies": [
+            "Magic Mike (2012)"
+        ]
+    },
     "Adam Sandler": {
         "movies": [
             "Mixed Nuts (1994)",
@@ -709,6 +714,7 @@ var actorMap = {
     },
     "Alex Pettyfer": {
         "movies": [
+            "Magic Mike (2012)",
             "Lee Daniels' The Butler (2013)"
         ]
     },
@@ -1001,6 +1007,11 @@ var actorMap = {
     "Aly Raisman": {
         "movies": [
             "Charlie's Angels (2019)"
+        ]
+    },
+    "Alyson Stoner": {
+        "movies": [
+            "Step Up (2006)"
         ]
     },
     "Alyssa Milano": {
@@ -2828,6 +2839,11 @@ var actorMap = {
             "Rain Man (1988)",
             "The Dark Half (1993)",
             "No Country for Old Men (2007)"
+        ]
+    },
+    "Betsy Brandt": {
+        "movies": [
+            "Magic Mike (2012)"
         ]
     },
     "Bette Davis": {
@@ -4748,6 +4764,8 @@ var actorMap = {
     },
     "Channing Tatum": {
         "movies": [
+            "Step Up (2006)",
+            "Magic Mike (2012)",
             "This Is the End (2013)",
             "The Lego Movie (2014)",
             "Foxcatcher (2014)",
@@ -5864,6 +5882,11 @@ var actorMap = {
             "Spider-Man: Far From Home (2019)"
         ]
     },
+    "Cody Horn": {
+        "movies": [
+            "Magic Mike (2012)"
+        ]
+    },
     "Cole Hauser": {
         "movies": [
             "Dazed and Confused (1993)",
@@ -6196,6 +6219,11 @@ var actorMap = {
         "movies": [
             "Bad Times at the El Royale (2018)",
             "Widows (2018)"
+        ]
+    },
+    "Cynthia Rhodes": {
+        "movies": [
+            "Dirty Dancing (1987)"
         ]
     },
     "D'Urville Martin": {
@@ -8030,6 +8058,11 @@ var actorMap = {
         "movies": [
             "Robots (2005)",
             "Jack and Jill (2011)"
+        ]
+    },
+    "Drew Sidora": {
+        "movies": [
+            "Step Up (2006)"
         ]
     },
     "Dustin Hoffman": {
@@ -9989,6 +10022,7 @@ var actorMap = {
     },
     "Gabriel Iglesias": {
         "movies": [
+            "Magic Mike (2012)",
             "Coco (2017)"
         ]
     },
@@ -10733,6 +10767,7 @@ var actorMap = {
             "The Natural (1984)",
             "Hook (1991)",
             "Mary Reilly (1996)",
+            "101 Dalmatians (1996)",
             "Guardians of the Galaxy (2014)"
         ]
     },
@@ -11769,6 +11804,7 @@ var actorMap = {
     "Hugh Laurie": {
         "movies": [
             "Sense and Sensibility (1995)",
+            "101 Dalmatians (1996)",
             "Monsters vs. Aliens (2009)"
         ]
     },
@@ -13896,6 +13932,7 @@ var actorMap = {
     "Jeff Daniels": {
         "movies": [
             "Terms of Endearment (1983)",
+            "101 Dalmatians (1996)",
             "The Hours (2002)",
             "RV (2006)"
         ]
@@ -14021,6 +14058,11 @@ var actorMap = {
             "Captain America: The First Avenger (2011)"
         ]
     },
+    "Jenna Dewan": {
+        "movies": [
+            "Step Up (2006)"
+        ]
+    },
     "Jenna Fischer": {
         "movies": [
             "Blades of Glory (2007)"
@@ -14096,6 +14138,11 @@ var actorMap = {
             "Valentine's Day (2010)",
             "Mother's Day (2016)",
             "The Adam Project (2022)"
+        ]
+    },
+    "Jennifer Grey": {
+        "movies": [
+            "Dirty Dancing (1987)"
         ]
     },
     "Jennifer Holland": {
@@ -14352,6 +14399,11 @@ var actorMap = {
             "Stand by Me (1986)",
             "Jerry Maguire (1996)",
             "Scream 2 (1997)"
+        ]
+    },
+    "Jerry Orbach": {
+        "movies": [
+            "Dirty Dancing (1987)"
         ]
     },
     "Jerry Reed": {
@@ -14888,7 +14940,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "Last Action Hero (1993)"
+            "Last Action Hero (1993)",
+            "101 Dalmatians (1996)"
         ]
     },
     "Joan Rivers": {
@@ -15067,6 +15120,7 @@ var actorMap = {
         "movies": [
             "Spider-Man (2002)",
             "Spider-Man 3 (2007)",
+            "Magic Mike (2012)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
         ]
@@ -15199,6 +15253,11 @@ var actorMap = {
     "Joely Fisher": {
         "movies": [
             "Mixed Nuts (1994)"
+        ]
+    },
+    "Joely Richardson": {
+        "movies": [
+            "101 Dalmatians (1996)"
         ]
     },
     "Joey Bishop": {
@@ -17954,6 +18013,7 @@ var actorMap = {
             "Teenage Mutant Ninja Turtles II: The Secret of the Ooze (1991)",
             "The Punisher (2004)",
             "Rock of Ages (2012)",
+            "Magic Mike (2012)",
             "John Wick (2014)"
         ]
     },
@@ -20285,6 +20345,11 @@ var actorMap = {
             }
         ]
     },
+    "Mario": {
+        "movies": [
+            "Step Up (2006)"
+        ]
+    },
     "Mario Lopez": {
         "movies": [
             "Get Him to the Greek (2010)"
@@ -20506,6 +20571,7 @@ var actorMap = {
     },
     "Mark Williams": {
         "movies": [
+            "101 Dalmatians (1996)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
@@ -20897,6 +20963,11 @@ var actorMap = {
             "Scream (2022)"
         ]
     },
+    "Matt Bomer": {
+        "movies": [
+            "Magic Mike (2012)"
+        ]
+    },
     "Matt Damon": {
         "leadNoms": [
             {
@@ -21088,6 +21159,7 @@ var actorMap = {
             "Failure to Launch (2006)",
             "Tropic Thunder (2008)",
             "Ghosts of Girlfriends Past (2009)",
+            "Magic Mike (2012)",
             "The Wolf of Wall Street (2013)",
             "The Dark Tower (2017)"
         ]
@@ -23697,6 +23769,7 @@ var actorMap = {
         "movies": [
             "Date Night (2010)",
             "Iron Man 2 (2010)",
+            "Magic Mike (2012)",
             "Mortdecai (2015)",
             "Ride Along 2 (2016)",
             "X-Men: Apocalypse (2016)",
@@ -24090,7 +24163,8 @@ var actorMap = {
     },
     "Patrick Swayze": {
         "movies": [
-            "The Outsiders (1983)"
+            "The Outsiders (1983)",
+            "Dirty Dancing (1987)"
         ]
     },
     "Patrick Warburton": {
@@ -25155,6 +25229,7 @@ var actorMap = {
         ],
         "movies": [
             "Blow (2001)",
+            "Step Up (2006)",
             "Saving Mr. Banks (2013)"
         ]
     },
@@ -26067,6 +26142,7 @@ var actorMap = {
     },
     "Riley Keough": {
         "movies": [
+            "Magic Mike (2012)",
             "Mad Max: Fury Road (2015)"
         ]
     },
@@ -31332,6 +31408,7 @@ var actorMap = {
     },
     "Wayne Knight": {
         "movies": [
+            "Dirty Dancing (1987)",
             "Jurassic Park (1993)",
             "Space Jam (1996)",
             "Toy Story 2 (1999)",
@@ -31349,6 +31426,7 @@ var actorMap = {
     "Wendi McLendon-Covey": {
         "movies": [
             "Bridesmaids (2011)",
+            "Magic Mike (2012)",
             "Think Like a Man Too (2014)",
             "What Men Want (2019)"
         ]
