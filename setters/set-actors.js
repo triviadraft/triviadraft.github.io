@@ -162,6 +162,7 @@ var actorMap = {
             "This Is Where I Leave You (2014)",
             "Star Wars: The Force Awakens (2015)",
             "Midnight Special (2016)",
+            "Silence (2016)",
             "Star Wars: The Last Jedi (2017)",
             "Marriage Story (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -617,6 +618,7 @@ var actorMap = {
     "Alden Ehrenreich": {
         "movies": [
             "Blue Jasmine (2013)",
+            "Hail, Caesar! (2016)",
             "Solo: A Star Wars Story (2018)"
         ]
     },
@@ -808,6 +810,7 @@ var actorMap = {
             "Raiders of the Lost Ark (1981)",
             "Magnolia (1999)",
             "Spider-Man 2 (2004)",
+            "Abduction (2011)",
             "Monsters University (2013)",
             "Strange Magic (2015)",
             "Ralph Breaks the Internet (2018)",
@@ -928,7 +931,8 @@ var actorMap = {
     "Alison Pill": {
         "movies": [
             "Milk (2008)",
-            "Scott Pilgrim vs. the World (2010)"
+            "Scott Pilgrim vs. the World (2010)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "Alison Sudol": {
@@ -1290,6 +1294,7 @@ var actorMap = {
             "The Other Boleyn Girl (2008)",
             "The Amazing Spider-Man (2012)",
             "The Amazing Spider-Man 2 (2014)",
+            "Silence (2016)",
             "Spider-Man: No Way Home (2021)"
         ]
     },
@@ -1603,6 +1608,7 @@ var actorMap = {
     },
     "Anna Faris": {
         "movies": [
+            "Scary Movie (2000)",
             "Lost in Translation (2003)",
             "Take Me Home Tonight (2011)",
             "What's Your Number? (2011)",
@@ -3025,11 +3031,13 @@ var actorMap = {
             "G-Force (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Total Recall (2012)",
+            "About Time (2013)",
             "I, Frankenstein (2014)"
         ]
     },
     "Bill Nunn": {
         "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Bulletproof (1996)",
             "He Got Game (1998)",
             "Spider-Man (2002)",
@@ -3989,6 +3997,7 @@ var actorMap = {
             "Die Hard (1988)",
             "Look Who's Talking (1989)",
             "Look Who's Talking Too (1990)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "North (1994)",
             "The Fifth Element (1997)",
             "Unbreakable (2000)",
@@ -4343,6 +4352,11 @@ var actorMap = {
             "Fantastic Beasts and Where to Find Them (2016)",
             "Alien: Covenant (2017)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
+        ]
+    },
+    "Carmen Electra": {
+        "movies": [
+            "Scary Movie (2000)"
         ]
     },
     "Carol Burnett": {
@@ -4730,6 +4744,7 @@ var actorMap = {
             "The Lego Movie (2014)",
             "Foxcatcher (2014)",
             "The Hateful Eight (2015)",
+            "Hail, Caesar! (2016)",
             "The Lego Batman Movie (2017)",
             "Kingsman: The Golden Circle (2017)",
             "The Lego Movie 2: The Second Part (2019)",
@@ -4836,6 +4851,7 @@ var actorMap = {
     },
     "Charlie Sheen": {
         "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Due Date (2010)"
         ]
     },
@@ -4976,6 +4992,11 @@ var actorMap = {
         ],
         "movies": [
             "The Witches of Eastwick (1987)"
+        ]
+    },
+    "Cheri Oteri": {
+        "movies": [
+            "Scary Movie (2000)"
         ]
     },
     "Cherry Jones": {
@@ -5211,6 +5232,7 @@ var actorMap = {
     },
     "Chris Owen": {
         "movies": [
+            "Major Payne (1995)",
             "The Mist (2007)"
         ]
     },
@@ -5454,7 +5476,8 @@ var actorMap = {
     },
     "Christopher Lambert": {
         "movies": [
-            "Ghost Rider: Spirit of Vengeance (2012)"
+            "Ghost Rider: Spirit of Vengeance (2012)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "Christopher Lee": {
@@ -5606,6 +5629,7 @@ var actorMap = {
             "The Woman in Black (2012)",
             "Ghost Rider: Spirit of Vengeance (2012)",
             "John Carter (2012)",
+            "Silence (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)",
             "Belfast (2021)"
@@ -5649,6 +5673,7 @@ var actorMap = {
             "The Shawshank Redemption (1994)",
             "Green Lantern (2011)",
             "Cowboys & Aliens (2011)",
+            "Hail, Caesar! (2016)",
             "Thor: Ragnarok (2017)",
             "Promising Young Woman (2020)"
         ]
@@ -6020,6 +6045,7 @@ var actorMap = {
             "Stand by Me (1986)",
             "The 'Burbs (1989)",
             "Teenage Mutant Ninja Turtles (1990)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Teenage Mutant Ninja Turtles III (1993)"
         ]
     },
@@ -6254,6 +6280,7 @@ var actorMap = {
         "movies": [
             "Look Who's Talking Too (1990)",
             "Last Action Hero (1993)",
+            "Major Payne (1995)",
             "Bulletproof (1996)"
         ]
     },
@@ -6743,6 +6770,11 @@ var actorMap = {
             "Now You See Me 2 (2016)"
         ]
     },
+    "Dave Sheridan": {
+        "movies": [
+            "Scary Movie (2000)"
+        ]
+    },
     "Dave Thomas": {
         "movies": [
             "Stripes (1981)"
@@ -6908,7 +6940,8 @@ var actorMap = {
         "movies": [
             "Ray (2004)",
             "I Love You, Man (2009)",
-            "This Is the End (2013)"
+            "This Is the End (2013)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "David Leitch": {
@@ -7244,6 +7277,7 @@ var actorMap = {
     },
     "Denis Leary": {
         "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Wag the Dog (1997)",
             "A Bug's Life (1998)",
             "The Amazing Spider-Man (2012)",
@@ -7264,6 +7298,7 @@ var actorMap = {
     },
     "Denise Richards": {
         "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Drop Dead Gorgeous (1999)",
             "Love Actually (2003)"
         ]
@@ -7376,6 +7411,7 @@ var actorMap = {
     },
     "Denzel Whitaker": {
         "movies": [
+            "Abduction (2011)",
             "Black Panther (2018)"
         ]
     },
@@ -7404,6 +7440,7 @@ var actorMap = {
     "Dermot Mulroney": {
         "movies": [
             "Zodiac (2007)",
+            "Abduction (2011)",
             "August: Osage County (2013)"
         ]
     },
@@ -7667,6 +7704,7 @@ var actorMap = {
     "Dolph Lundgren": {
         "movies": [
             "Rocky IV (1985)",
+            "Hail, Caesar! (2016)",
             "Creed II (2018)",
             "Aquaman (2018)"
         ]
@@ -7682,6 +7720,7 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Dredd (2012)",
+            "About Time (2013)",
             "Ex Machina (2015)",
             "Star Wars: The Force Awakens (2015)",
             "Mother! (2017)",
@@ -8835,6 +8874,7 @@ var actorMap = {
             "The Outsiders (1983)",
             "The Breakfast Club (1985)",
             "St. Elmo's Fire (1985)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Mission: Impossible (1996)"
         ]
     },
@@ -8844,9 +8884,16 @@ var actorMap = {
             "Doctor Sleep (2019)"
         ]
     },
+    "Emily Beecham": {
+        "movies": [
+            "Hail, Caesar! (2016)",
+            "Cruella (2021)"
+        ]
+    },
     "Emily Blunt": {
         "movies": [
             "The Devil Wears Prada (2006)",
+            "The Young Victoria (2009)",
             "Edge of Tomorrow (2014)",
             "Into the Woods (2014)",
             "The Huntsman: Winter's War (2016)",
@@ -9112,6 +9159,11 @@ var actorMap = {
     "Eric Stonestreet": {
         "movies": [
             "Almost Famous (2000)"
+        ]
+    },
+    "Erik Estrada": {
+        "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)"
         ]
     },
     "Erik Knudsen": {
@@ -9389,6 +9441,7 @@ var actorMap = {
     },
     "F. Murray Abraham": {
         "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Last Action Hero (1993)",
             "Star Trek: Insurrection (1998)"
         ]
@@ -9505,6 +9558,11 @@ var actorMap = {
     "Fionnula Flanagan": {
         "movies": [
             "Four Brothers (2005)"
+        ]
+    },
+    "Fisher Stevens": {
+        "movies": [
+            "Hail, Caesar! (2016)"
         ]
     },
     "Flea": {
@@ -9676,7 +9734,8 @@ var actorMap = {
             "Almost Famous (2000)",
             "Something's Gotta Give (2003)",
             "Transformers: Dark of the Moon (2011)",
-            "The Good Dinosaur (2015)"
+            "The Good Dinosaur (2015)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "Frances O'Connor": {
@@ -9740,6 +9799,11 @@ var actorMap = {
             "Superman Returns (2006)",
             "The Tale of Despereaux (2008)",
             "Noah (2014)"
+        ]
+    },
+    "Frank McRae": {
+        "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)"
         ]
     },
     "Frank Miller": {
@@ -9823,7 +9887,8 @@ var actorMap = {
     },
     "Fred Melamed": {
         "movies": [
-            "Bone Tomahawk (2015)"
+            "Bone Tomahawk (2015)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "Fred Savage": {
@@ -10380,7 +10445,8 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Ocean's Thirteen (2007)",
             "Michael Clayton (2007)",
-            "Gravity (2013)"
+            "Gravity (2013)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "George Gaynes": {
@@ -12116,6 +12182,11 @@ var actorMap = {
             "Little (2019)"
         ]
     },
+    "Issey Ogata": {
+        "movies": [
+            "Silence (2016)"
+        ]
+    },
     "Ivan Reitman": {
         "movies": [
             "Ghostbusters (1984)",
@@ -12189,6 +12260,7 @@ var actorMap = {
         "movies": [
             "Good Morning, Vietnam (1987)",
             "Misery (1990)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Needful Things (1993)"
         ]
     },
@@ -12817,6 +12889,7 @@ var actorMap = {
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Star Trek Generations (1994)"
         ]
     },
@@ -13059,6 +13132,11 @@ var actorMap = {
             "Back to the Future Part III (1990)",
             "Dick Tracy (1990)",
             "Bone Tomahawk (2015)"
+        ]
+    },
+    "James Van Der Beek": {
+        "movies": [
+            "Scary Movie (2000)"
         ]
     },
     "James Vanderbilt": {
@@ -13442,7 +13520,8 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Cars 2 (2011)",
-            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)"
+            "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Abduction (2011)"
         ]
     },
     "Jason Lee": {
@@ -14260,6 +14339,11 @@ var actorMap = {
             "Hairspray (2007)"
         ]
     },
+    "Jesper Christensen as Baron Stockmar": {
+        "movies": [
+            "The Young Victoria (2009)"
+        ]
+    },
     "Jesse Eisenberg": {
         "leadNoms": [
             {
@@ -14542,6 +14626,7 @@ var actorMap = {
             "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
             "Inkheart (2009)",
             "Harry Potter and the Half-Blood Prince (2009)",
+            "The Young Victoria (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Cloud Atlas (2012)",
@@ -15768,6 +15853,7 @@ var actorMap = {
     },
     "Jon Abrahams": {
         "movies": [
+            "Scary Movie (2000)",
             "Meet the Parents (2000)"
         ]
     },
@@ -15840,6 +15926,7 @@ var actorMap = {
             "Three Amigos (1986)",
             "Big (1988)",
             "A League of Their Own (1992)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "North (1994)",
             "The Wedding Singer (1998)",
             "The Producers (2005)",
@@ -15920,6 +16007,7 @@ var actorMap = {
             "This Is the End (2013)",
             "The Wolf of Wall Street (2013)",
             "The Lego Movie (2014)",
+            "Hail, Caesar! (2016)",
             "The Lego Batman Movie (2017)",
             "The Lego Movie 2: The Second Part (2019)",
             "Don't Look Up (2021)"
@@ -16136,6 +16224,7 @@ var actorMap = {
             "Guardians of the Galaxy (2014)",
             "Sin City: A Dame to Kill For (2014)",
             "Avengers: Age of Ultron (2015)",
+            "Hail, Caesar! (2016)",
             "Avengers: Infinity War (2018)",
             "Deadpool 2 (2018)",
             "Avengers: Endgame (2019)",
@@ -16501,7 +16590,8 @@ var actorMap = {
             "The Empire Strikes Back (1980)",
             "Indiana Jones and the Last Crusade (1989)",
             "Harry Potter and the Chamber of Secrets (2002)",
-            "Troy (2004)"
+            "Troy (2004)",
+            "The Young Victoria (2009)"
         ]
     },
     "Julian McMahon": {
@@ -16944,6 +17034,11 @@ var actorMap = {
             "What Men Want (2019)"
         ]
     },
+    "Karyn Parsons": {
+        "movies": [
+            "Major Payne (1995)"
+        ]
+    },
     "Kasi Lemmons": {
         "movies": [
             "The Silence of the Lambs (1991)"
@@ -17294,6 +17389,11 @@ var actorMap = {
             "Valentine's Day (2010)"
         ]
     },
+    "Kathy Ireland": {
+        "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)"
+        ]
+    },
     "Kathy Najimy": {
         "movies": [
             "This Is My Life (1992)",
@@ -17377,6 +17477,11 @@ var actorMap = {
             "The Predator (2018)",
             "Toy Story 4 (2019)",
             "The Lion King (2019)"
+        ]
+    },
+    "Keenen Ivory Wayans": {
+        "movies": [
+            "Scary Movie (2000)"
         ]
     },
     "Keira Knightley": {
@@ -18165,6 +18270,7 @@ var actorMap = {
         "movies": [
             "The Running Man (1987)",
             "Ghostbusters II (1989)",
+            "Scary Movie (2000)",
             "Ray (2004)"
         ]
     },
@@ -18324,6 +18430,11 @@ var actorMap = {
             "Scream 3 (2000)",
             "Alien vs. Predator (2004)",
             "Appaloosa (2008)"
+        ]
+    },
+    "Lance Kinsey": {
+        "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)"
         ]
     },
     "Lance Reddick": {
@@ -18991,6 +19102,7 @@ var actorMap = {
             "A Million Ways to Die in the West (2014)",
             "The Huntsman: Winter's War (2016)",
             "A Monster Calls (2016)",
+            "Silence (2016)",
             "Widows (2018)",
             "Men in Black: International (2019)",
             "Star Wars: The Rise of Skywalker (2019)"
@@ -19050,6 +19162,7 @@ var actorMap = {
     "Lily Collins": {
         "movies": [
             "Priest (2011)",
+            "Abduction (2011)",
             "Stuck in Love (2013)"
         ]
     },
@@ -19069,6 +19182,11 @@ var actorMap = {
             "9 to 5 (1980)",
             "Orange County (2002)",
             "Spider-Man: Into the Spider-Verse (2018)"
+        ]
+    },
+    "Lin Shaye": {
+        "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)"
         ]
     },
     "Lin-Manuel Miranda": {
@@ -19150,6 +19268,7 @@ var actorMap = {
         "movies": [
             "Star Wars: Episode I \u2013 The Phantom Menace (1999)",
             "Alice in Wonderland (2010)",
+            "About Time (2013)",
             "Birdman or (The Unexpected Virtue of Ignorance) (2014)",
             "Alice Through the Looking Glass (2016)"
         ]
@@ -20018,6 +20137,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "About Time (2013)",
             "The Wolf of Wall Street (2013)",
             "Suicide Squad (2016)",
             "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn) (2020)",
@@ -20037,6 +20157,7 @@ var actorMap = {
             "Secret Window (2004)",
             "A History of Violence (2005)",
             "The Mummy: Tomb of the Dragon Emperor (2008)",
+            "Abduction (2011)",
             "Prisoners (2013)"
         ]
     },
@@ -20304,6 +20425,7 @@ var actorMap = {
     "Mark Strong": {
         "movies": [
             "Sunshine (2007)",
+            "The Young Victoria (2009)",
             "Kick-Ass (2010)",
             "Green Lantern (2011)",
             "John Carter (2012)",
@@ -20419,6 +20541,11 @@ var actorMap = {
         "movies": [
             "Superman (1978)",
             "Superman Returns (2006)"
+        ]
+    },
+    "Marlon Wayans": {
+        "movies": [
+            "Scary Movie (2000)"
         ]
     },
     "Marsai Martin": {
@@ -21694,6 +21821,7 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "The King's Speech (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Hail, Caesar! (2016)",
             "Kingsman: The Golden Circle (2017)"
         ]
     },
@@ -21735,6 +21863,7 @@ var actorMap = {
         "movies": [
             "Top Gun (1986)",
             "Total Recall (1990)",
+            "Major Payne (1995)",
             "Heavy Metal 2000 (2000)",
             "Terminator Salvation (2009)"
         ]
@@ -21865,6 +21994,7 @@ var actorMap = {
     },
     "Michael Nyqvist": {
         "movies": [
+            "Abduction (2011)",
             "Mission: Impossible \u2013 Ghost Protocol (2011)",
             "John Wick (2014)"
         ]
@@ -22122,6 +22252,7 @@ var actorMap = {
     },
     "Michiel Huisman": {
         "movies": [
+            "The Young Victoria (2009)",
             "Wild (2014)"
         ]
     },
@@ -22400,7 +22531,8 @@ var actorMap = {
             "The Hours (2002)",
             "The Phantom of the Opera (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
-            "Fred Claus (2007)"
+            "Fred Claus (2007)",
+            "The Young Victoria (2009)"
         ]
     },
     "Mireille Enos": {
@@ -23864,7 +23996,8 @@ var actorMap = {
     "Patrick Fischler": {
         "movies": [
             "Ghost World (2001)",
-            "Mulholland Drive (2001)"
+            "Mulholland Drive (2001)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "Patrick Fugit": {
@@ -23943,6 +24076,7 @@ var actorMap = {
             "Iron Man (2008)",
             "The Secret Life of Bees (2008)",
             "Inkheart (2009)",
+            "The Young Victoria (2009)",
             "Iron Man 2 (2010)",
             "The Tourist (2010)",
             "Priest (2011)",
@@ -24010,7 +24144,8 @@ var actorMap = {
     "Paul Gleason": {
         "movies": [
             "Trading Places (1983)",
-            "The Breakfast Club (1985)"
+            "The Breakfast Club (1985)",
+            "National Lampoon's Loaded Weapon 1 (1993)"
         ]
     },
     "Paul L. Smith": {
@@ -24677,6 +24812,7 @@ var actorMap = {
         "movies": [
             "Jumpin' Jack Flash (1986)",
             "Three Amigos (1986)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "The Pagemaster (1994)"
         ]
     },
@@ -24979,6 +25115,7 @@ var actorMap = {
         "movies": [
             "Mean Girls (2004)",
             "Wedding Crashers (2005)",
+            "About Time (2013)",
             "Doctor Strange (2016)"
         ]
     },
@@ -25083,6 +25220,7 @@ var actorMap = {
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
+            "Hail, Caesar! (2016)",
             "The Lego Batman Movie (2017)",
             "The Lego Movie 2: The Second Part (2019)",
             "Dolittle (2020)",
@@ -25366,6 +25504,7 @@ var actorMap = {
     "Regina Hall": {
         "movies": [
             "The Best Man (1999)",
+            "Scary Movie (2000)",
             "Malibu's Most Wanted (2003)",
             "Think Like a Man (2012)",
             "The Best Man Holiday (2013)",
@@ -25624,6 +25763,7 @@ var actorMap = {
         ],
         "movies": [
             "Corpse Bride (2005)",
+            "About Time (2013)",
             "Logan (2017)",
             "Star Wars: The Rise of Skywalker (2019)"
         ]
@@ -25668,7 +25808,8 @@ var actorMap = {
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
-            "Pirates of the Caribbean: On Stranger Tides (2011)"
+            "Pirates of the Caribbean: On Stranger Tides (2011)",
+            "About Time (2013)"
         ]
     },
     "Richard Harris": {
@@ -25794,6 +25935,11 @@ var actorMap = {
     "Richard T. Jones": {
         "movies": [
             "Godzilla (2014)"
+        ]
+    },
+    "Rick Ducommun": {
+        "movies": [
+            "National Lampoon's Loaded Weapon 1 (1993)"
         ]
     },
     "Rick Fox": {
@@ -26790,6 +26936,11 @@ var actorMap = {
             "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005)"
         ]
     },
+    "Rupert Friend": {
+        "movies": [
+            "The Young Victoria (2009)"
+        ]
+    },
     "Rupert Grint": {
         "movies": [
             "Harry Potter and the Sorcerer's Stone (2001)",
@@ -27274,6 +27425,7 @@ var actorMap = {
         ],
         "movies": [
             "Jungle Fever (1991)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Jurassic Park (1993)",
             "True Romance (1993)",
             "Sphere (1998)",
@@ -27519,6 +27671,7 @@ var actorMap = {
             "Captain America: The Winter Soldier (2014)",
             "Chef (2014)",
             "Avengers: Age of Ultron (2015)",
+            "Hail, Caesar! (2016)",
             "The Jungle Book (2016)",
             "Captain America: Civil War (2016)",
             "Avengers: Infinity War (2018)",
@@ -27865,6 +28018,7 @@ var actorMap = {
     },
     "Shannon Elizabeth": {
         "movies": [
+            "Scary Movie (2000)",
             "Love Actually (2003)"
         ]
     },
@@ -27935,6 +28089,11 @@ var actorMap = {
     "Shawn Roberts": {
         "movies": [
             "X-Men (2000)"
+        ]
+    },
+    "Shawn Wayans": {
+        "movies": [
+            "Scary Movie (2000)"
         ]
     },
     "Shawna Waldron": {
@@ -28151,6 +28310,7 @@ var actorMap = {
             "The Tale of Despereaux (2008)",
             "Avatar (2009)",
             "You Again (2010)",
+            "Abduction (2011)",
             "The Cabin in the Woods (2012)",
             "Finding Dory (2016)",
             "Ghostbusters (2016)",
@@ -29032,6 +29192,7 @@ var actorMap = {
         "movies": [
             "Thor (2011)",
             "Thor: The Dark World (2013)",
+            "Silence (2016)",
             "Thor: Ragnarok (2017)"
         ]
     },
@@ -29170,7 +29331,8 @@ var actorMap = {
     },
     "Taylor Lautner": {
         "movies": [
-            "Valentine's Day (2010)"
+            "Valentine's Day (2010)",
+            "Abduction (2011)"
         ]
     },
     "Taylor Swift": {
@@ -29400,6 +29562,7 @@ var actorMap = {
             "King Kong (2005)",
             "Wanted (2008)",
             "Valkyrie (2008)",
+            "The Young Victoria (2009)",
             "Cars 2 (2011)",
             "Captain America: The Winter Soldier (2014)",
             "Avengers: Age of Ultron (2015)"
@@ -29504,6 +29667,7 @@ var actorMap = {
             "We Need to Talk About Kevin (2011)",
             "Snowpiercer (2014)",
             "Trainwreck (2015)",
+            "Hail, Caesar! (2016)",
             "Doctor Strange (2016)",
             "Avengers: Endgame (2019)"
         ]
@@ -29544,6 +29708,7 @@ var actorMap = {
         "movies": [
             "The Rocky Horror Picture Show (1975)",
             "Legend (1986)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "The Shadow (1994)",
             "Charlie's Angels (2000)"
         ]
@@ -30006,6 +30171,7 @@ var actorMap = {
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Valkyrie (2008)",
+            "About Time (2013)",
             "Mission: Impossible \u2013 Rogue Nation (2015)",
             "Mowgli: Legend of the Jungle (2018)",
             "The King's Man (2021)"
@@ -30627,6 +30793,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "About Time (2013)",
             "Mission: Impossible \u2013 Fallout (2018)",
             "Fast & Furious Presents: Hobbs & Shaw (2019)"
         ]
@@ -31104,7 +31271,8 @@ var actorMap = {
             "Space Jam (1996)",
             "Toy Story 2 (1999)",
             "Punisher: War Zone (2008)",
-            "Kung Fu Panda 3 (2016)"
+            "Kung Fu Panda 3 (2016)",
+            "Hail, Caesar! (2016)"
         ]
     },
     "Wayne Newton": {
@@ -31192,6 +31360,7 @@ var actorMap = {
         ],
         "movies": [
             "Jumpin' Jack Flash (1986)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "The Lion King (1994)",
             "Star Trek Generations (1994)",
             "The Pagemaster (1994)",
@@ -31417,6 +31586,11 @@ var actorMap = {
             "The Invisible Man (1933)"
         ]
     },
+    "William Hickey": {
+        "movies": [
+            "Major Payne (1995)"
+        ]
+    },
     "William Holden": {
         "movies": [
             "Casino Royale (1967)",
@@ -31497,6 +31671,7 @@ var actorMap = {
             "Star Trek IV: The Voyage Home (1986)",
             "Star Trek V: The Final Frontier (1989)",
             "Star Trek VI: The Undiscovered Country (1991)",
+            "National Lampoon's Loaded Weapon 1 (1993)",
             "Star Trek Generations (1994)",
             "Showtime (2002)"
         ]

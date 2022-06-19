@@ -37575,6 +37575,31 @@ var movieMap = {
             "Sheens",
             "Spoof",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Bill Nunn",
+            "Bruce Willis",
+            "Charlie Sheen",
+            "Corey Feldman",
+            "Denis Leary",
+            "Denise Richards",
+            "Emilio Estevez",
+            "Erik Estrada",
+            "F. Murray Abraham",
+            "Frank McRae",
+            "J. T. Walsh",
+            "James Doohan",
+            "Jon Lovitz",
+            "Kathy Ireland",
+            "Lance Kinsey",
+            "Lin Shaye",
+            "Paul Gleason",
+            "Phil Hartman",
+            "Rick Ducommun",
+            "Samuel L. Jackson",
+            "Tim Curry",
+            "Whoopi Goldberg",
+            "William Shatner"
         ]
     },
     "The Vanishing (1993)": {
@@ -42906,6 +42931,13 @@ var movieMap = {
             "Black Cinema",
             "Comedies",
             "Wayans Family"
+        ],
+        "cast": [
+            "Chris Owen",
+            "Damon Wayans",
+            "Karyn Parsons",
+            "Michael Ironside",
+            "William Hickey"
         ]
     },
     "Tall Tale (1995)": {
@@ -57338,6 +57370,20 @@ var movieMap = {
             "Reginas",
             "Spoof",
             "Wayans Family"
+        ],
+        "cast": [
+            "Anna Faris",
+            "Carmen Electra",
+            "Cheri Oteri",
+            "Dave Sheridan",
+            "James Van Der Beek",
+            "Jon Abrahams",
+            "Keenen Ivory Wayans",
+            "Kurt Fuller",
+            "Marlon Wayans",
+            "Regina Hall",
+            "Shannon Elizabeth",
+            "Shawn Wayans"
         ]
     },
     "Heavy Metal 2000 (2000)": {
@@ -87537,6 +87583,18 @@ var movieMap = {
             "2000s",
             "Emily Blunt",
             "Period Pieces & Costume Dramas"
+        ],
+        "cast": [
+            "Emily Blunt",
+            "Jesper Christensen as Baron Stockmar",
+            "Jim Broadbent",
+            "Julian Glover",
+            "Mark Strong",
+            "Michiel Huisman",
+            "Miranda Richardson",
+            "Paul Bettany",
+            "Rupert Friend",
+            "Thomas Kretschmann"
         ]
     },
     "Alvin and the Chipmunks: The Squeakquel (2009)": {
@@ -93148,6 +93206,17 @@ var movieMap = {
             "2010s",
             "John Singleton",
             "Sigourney Weaver"
+        ],
+        "cast": [
+            "Alfred Molina",
+            "Denzel Whitaker",
+            "Dermot Mulroney",
+            "Jason Isaacs",
+            "Lily Collins",
+            "Maria Bello",
+            "Michael Nyqvist",
+            "Sigourney Weaver",
+            "Taylor Lautner"
         ]
     },
     "Dolphin Tale (2011)": {
@@ -100304,6 +100373,17 @@ var movieMap = {
             "2010s",
             "Margot Robbie",
             "Romance"
+        ],
+        "cast": [
+            "Bill Nighy",
+            "Domhnall Gleeson",
+            "Lindsay Duncan",
+            "Margot Robbie",
+            "Rachel McAdams",
+            "Richard E. Grant",
+            "Richard Griffiths",
+            "Tom Hollander",
+            "Vanessa Kirby"
         ]
     },
     "Dallas Buyers Club (2013)": {
@@ -108766,6 +108846,28 @@ var movieMap = {
             "Comedies",
             "Frances McDormand",
             "Scarlett Johansson"
+        ],
+        "cast": [
+            "Alden Ehrenreich",
+            "Alison Pill",
+            "Channing Tatum",
+            "Christopher Lambert",
+            "Clancy Brown",
+            "David Krumholtz",
+            "Dolph Lundgren",
+            "Emily Beecham",
+            "Fisher Stevens",
+            "Frances McDormand",
+            "Fred Melamed",
+            "George Clooney",
+            "Jonah Hill",
+            "Josh Brolin",
+            "Michael Gambon",
+            "Patrick Fischler",
+            "Ralph Fiennes",
+            "Scarlett Johansson",
+            "Tilda Swinton",
+            "Wayne Knight"
         ]
     },
     "Pride and Prejudice and Zombies (2016)": {
@@ -112610,6 +112712,14 @@ var movieMap = {
             "2010s",
             "Historical Epics & Dramas",
             "Martin Scorsese"
+        ],
+        "cast": [
+            "Adam Driver",
+            "Andrew Garfield",
+            "Ciar\u00e1n Hinds",
+            "Issey Ogata",
+            "Liam Neeson",
+            "Tadanobu Asano"
         ]
     },
     "Why Him? (2016)": {
@@ -130890,6 +131000,7 @@ var movieMap = {
             "Emmas"
         ],
         "cast": [
+            "Emily Beecham",
             "Emma Stone",
             "Emma Thompson",
             "Joel Fry",

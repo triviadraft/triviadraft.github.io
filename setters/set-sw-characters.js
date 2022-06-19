@@ -1541,6 +1541,12 @@ var swCharacterMap = {
         "species": "Human",
         "actor": "Angus Wright"
     },
+    "Kalit": {
+        "name": "Kalit",
+        "homeworld": "Tatooine",
+        "species": "Jawa",
+        "actor": ""
+    },
     "Kaljach Sonmi": {
         "name": "Kaljach Sonmi",
         "homeworld": "",
@@ -3022,6 +3028,12 @@ var swCharacterMap = {
         "homeworld": "",
         "species": "Human",
         "actor": "Ray Hassett"
+    },
+    "Tikkes": {
+        "name": "Tikkes",
+        "homeworld": "Mon Cala",
+        "species": "Quarren",
+        "actor": ""
     },
     "Tion Medon": {
         "name": "Tion Medon",
