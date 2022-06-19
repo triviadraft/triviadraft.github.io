@@ -5262,6 +5262,13 @@ var movieMap = {
             "James Stewart",
             "Mystery",
             "Thriller"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Grace Kelly",
+            "James Stewart",
+            "Raymond Burr",
+            "Thelma Ritter"
         ]
     },
     "Sabrina (1954)": {
@@ -5817,6 +5824,14 @@ var movieMap = {
             "Alfred Hitchcock",
             "Classics",
             "Horror/Thriller",
+            "James Stewart"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Bernard Miles",
+            "Brenda de Banzie",
+            "Carolyn Jones",
+            "Doris Day",
             "James Stewart"
         ]
     },
@@ -52436,6 +52451,17 @@ var movieMap = {
             "Comedies",
             "Frat Pack",
             "SNL & Lorne Michaels"
+        ],
+        "cast": [
+            "Chazz Palminteri",
+            "Chris Kattan",
+            "Colin Quinn",
+            "Dan Hedaya",
+            "Eva Mendes",
+            "Jennifer Coolidge",
+            "Joe Ranft",
+            "Molly Shannon",
+            "Will Ferrell"
         ]
     },
     "Antz (1998)": {
@@ -88809,6 +88835,19 @@ var movieMap = {
             "2010s",
             "Comedies",
             "SNL & Lorne Michaels"
+        ],
+        "cast": [
+            "Big Show",
+            "Chris Jericho",
+            "Kane",
+            "Kristen Wiig",
+            "Marielle Heller",
+            "Maya Rudolph",
+            "Powers Boothe",
+            "Ryan Phillippe",
+            "The Great Khali",
+            "Val Kilmer",
+            "Will Forte"
         ]
     },
     "Shrek Forever After (2010)": {

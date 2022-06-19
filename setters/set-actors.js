@@ -813,7 +813,9 @@ var actorMap = {
     "Alfred Hitchcock": {
         "movies": [
             "Suspicion (1941)",
+            "Rear Window (1954)",
             "To Catch a Thief (1955)",
+            "The Man Who Knew Too Much (1956)",
             "North by Northwest (1959)"
         ]
     },
@@ -2828,6 +2830,11 @@ var actorMap = {
             "Diamonds Are Forever (1971)"
         ]
     },
+    "Bernard Miles": {
+        "movies": [
+            "The Man Who Knew Too Much (1956)"
+        ]
+    },
     "Bernie Mac": {
         "movies": [
             "Ocean's Eleven (2001)",
@@ -2969,7 +2976,8 @@ var actorMap = {
     },
     "Big Show": {
         "movies": [
-            "The Waterboy (1998)"
+            "The Waterboy (1998)",
+            "MacGruber (2010)"
         ]
     },
     "Bill Burr": {
@@ -3655,6 +3663,11 @@ var actorMap = {
     "Brenda Vaccaro": {
         "movies": [
             "The Mirror Has Two Faces (1996)"
+        ]
+    },
+    "Brenda de Banzie": {
+        "movies": [
+            "The Man Who Knew Too Much (1956)"
         ]
     },
     "Brendan Fraser": {
@@ -4419,6 +4432,11 @@ var actorMap = {
             "Casino Royale (1967)"
         ]
     },
+    "Carolyn Jones": {
+        "movies": [
+            "The Man Who Knew Too Much (1956)"
+        ]
+    },
     "Carrie Coon": {
         "movies": [
             "Avengers: Infinity War (2018)",
@@ -4980,6 +4998,9 @@ var actorMap = {
                 "movie": "Bullets over Broadway",
                 "year": "1994"
             }
+        ],
+        "movies": [
+            "A Night at the Roxbury (1998)"
         ]
     },
     "Cheech Marin": {
@@ -5234,6 +5255,16 @@ var actorMap = {
             "Avengers: Endgame (2019)",
             "Men in Black: International (2019)",
             "Extraction (2020)"
+        ]
+    },
+    "Chris Jericho": {
+        "movies": [
+            "MacGruber (2010)"
+        ]
+    },
+    "Chris Kattan": {
+        "movies": [
+            "A Night at the Roxbury (1998)"
         ]
     },
     "Chris McKay": {
@@ -5971,6 +6002,7 @@ var actorMap = {
     },
     "Colin Quinn": {
         "movies": [
+            "A Night at the Roxbury (1998)",
             "Trainwreck (2015)"
         ]
     },
@@ -6382,6 +6414,7 @@ var actorMap = {
             "Clueless (1995)",
             "The First Wives Club (1996)",
             "Alien Resurrection (1997)",
+            "A Night at the Roxbury (1998)",
             "Mulholland Drive (2001)",
             "Robots (2005)"
         ]
@@ -7990,6 +8023,11 @@ var actorMap = {
             "Rogue One: A Star Wars Story (2016)"
         ]
     },
+    "Doris Day": {
+        "movies": [
+            "The Man Who Knew Too Much (1956)"
+        ]
+    },
     "Dorothy Dandridge": {
         "leadNoms": [
             {
@@ -9413,6 +9451,7 @@ var actorMap = {
     },
     "Eva Mendes": {
         "movies": [
+            "A Night at the Roxbury (1998)",
             "2 Fast 2 Furious (2003)",
             "Ghost Rider (2007)",
             "Knocked Up (2007)",
@@ -10882,6 +10921,7 @@ var actorMap = {
     },
     "Grace Kelly": {
         "movies": [
+            "Rear Window (1954)",
             "To Catch a Thief (1955)"
         ]
     },
@@ -13221,7 +13261,9 @@ var actorMap = {
         "movies": [
             "You Can't Take It with You (1938)",
             "Mr. Smith Goes to Washington (1939)",
-            "The Philadelphia Story (1940)"
+            "The Philadelphia Story (1940)",
+            "Rear Window (1954)",
+            "The Man Who Knew Too Much (1956)"
         ]
     },
     "James Tolkan": {
@@ -14145,6 +14187,7 @@ var actorMap = {
     },
     "Jennifer Coolidge": {
         "movies": [
+            "A Night at the Roxbury (1998)",
             "Robots (2005)",
             "Promising Young Woman (2020)"
         ]
@@ -15222,6 +15265,7 @@ var actorMap = {
     },
     "Joe Ranft": {
         "movies": [
+            "A Night at the Roxbury (1998)",
             "A Bug's Life (1998)",
             "Toy Story 2 (1999)",
             "Finding Nemo (2003)",
@@ -17097,6 +17141,11 @@ var actorMap = {
             "Get Him to the Greek (2010)"
         ]
     },
+    "Kane": {
+        "movies": [
+            "MacGruber (2010)"
+        ]
+    },
     "Kara Hayward": {
         "movies": [
             "Us (2019)"
@@ -18355,6 +18404,7 @@ var actorMap = {
         "movies": [
             "Knocked Up (2007)",
             "Date Night (2010)",
+            "MacGruber (2010)",
             "Bridesmaids (2011)",
             "Her (2013)",
             "Ghostbusters (2016)",
@@ -20366,6 +20416,11 @@ var actorMap = {
             "Superman IV: The Quest for Peace (1987)"
         ]
     },
+    "Marielle Heller": {
+        "movies": [
+            "MacGruber (2010)"
+        ]
+    },
     "Marilu Henner": {
         "movies": [
             "Johnny Dangerously (1984)"
@@ -21335,6 +21390,7 @@ var actorMap = {
     "Maya Rudolph": {
         "movies": [
             "As Good as It Gets (1997)",
+            "MacGruber (2010)",
             "Bridesmaids (2011)",
             "Big Hero 6 (2014)",
             "Strange Magic (2015)",
@@ -22804,6 +22860,7 @@ var actorMap = {
     },
     "Molly Shannon": {
         "movies": [
+            "A Night at the Roxbury (1998)",
             "Promising Young Woman (2020)"
         ]
     },
@@ -25168,6 +25225,7 @@ var actorMap = {
         "movies": [
             "Tombstone (1993)",
             "Sin City (2005)",
+            "MacGruber (2010)",
             "The Avengers (2012)",
             "Sin City: A Dame to Kill For (2014)"
         ]
@@ -25584,6 +25642,11 @@ var actorMap = {
         "movies": [
             "Swamp Thing (1982)",
             "RoboCop (1987)"
+        ]
+    },
+    "Raymond Burr": {
+        "movies": [
+            "Rear Window (1954)"
         ]
     },
     "Raymond Cruz": {
@@ -27284,7 +27347,8 @@ var actorMap = {
         "movies": [
             "I Know What You Did Last Summer (1997)",
             "Cruel Intentions (1999)",
-            "Crash (2005)"
+            "Crash (2005)",
+            "MacGruber (2010)"
         ]
     },
     "Ryan Potter": {
@@ -29727,6 +29791,16 @@ var actorMap = {
             "Solo: A Star Wars Story (2018)"
         ]
     },
+    "The Great Khali": {
+        "movies": [
+            "MacGruber (2010)"
+        ]
+    },
+    "Thelma Ritter": {
+        "movies": [
+            "Rear Window (1954)"
+        ]
+    },
     "Theresa Randle": {
         "movies": [
             "Jungle Fever (1991)",
@@ -30970,7 +31044,8 @@ var actorMap = {
             "Batman Forever (1995)",
             "The Prince of Egypt (1998)",
             "Alexander (2004)",
-            "D\u00e9j\u00e0 Vu (2006)"
+            "D\u00e9j\u00e0 Vu (2006)",
+            "MacGruber (2010)"
         ]
     },
     "Valeria Golino": {
@@ -31650,6 +31725,7 @@ var actorMap = {
     "Will Ferrell": {
         "movies": [
             "Austin Powers: International Man of Mystery (1997)",
+            "A Night at the Roxbury (1998)",
             "Austin Powers: The Spy Who Shagged Me (1999)",
             "Bewitched (2005)",
             "Wedding Crashers (2005)",
@@ -31663,6 +31739,7 @@ var actorMap = {
     },
     "Will Forte": {
         "movies": [
+            "MacGruber (2010)",
             "Rock of Ages (2012)",
             "The Lego Movie (2014)",
             "The Lego Movie 2: The Second Part (2019)"
