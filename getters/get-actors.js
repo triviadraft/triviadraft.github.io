@@ -4,6 +4,7 @@ function getMapWithThreeMovies(map) {
     const mapWithThreeMovies = Object.fromEntries(filtered);
     delete mapWithThreeMovies['Anthony Daniels'];
     delete mapWithThreeMovies['John Ratzenberger'];
+    delete mapWithThreeMovies['Kevin Dunn'];
     delete mapWithThreeMovies['Tom Felton'];
     delete mapWithThreeMovies['Tony Burton'];
     return mapWithThreeMovies;
