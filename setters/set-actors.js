@@ -17674,6 +17674,7 @@ var actorMap = {
     "Keith David": {
         "movies": [
             "The Thing (1982)",
+            "They Live (1988)",
             "Crash (2005)",
             "Mr. & Mrs. Smith (2005)",
             "Cloud Atlas (2012)",
@@ -21361,6 +21362,11 @@ var actorMap = {
             "The Rocky Horror Picture Show (1975)"
         ]
     },
+    "Meg Foster": {
+        "movies": [
+            "They Live (1988)"
+        ]
+    },
     "Meg Ryan": {
         "movies": [
             "Top Gun (1986)",
@@ -23657,7 +23663,8 @@ var actorMap = {
     "Norman Alden": {
         "movies": [
             "Back to the Future (1985)",
-            "The Transformers: The Movie (1986)"
+            "The Transformers: The Movie (1986)",
+            "They Live (1988)"
         ]
     },
     "Norman Bird": {
@@ -26748,6 +26755,11 @@ var actorMap = {
             "Battle for the Planet of the Apes (1973)",
             "Funny Lady (1975)",
             "A Bug's Life (1998)"
+        ]
+    },
+    "Roddy Piper": {
+        "movies": [
+            "They Live (1988)"
         ]
     },
     "Rodger Bumpass": {

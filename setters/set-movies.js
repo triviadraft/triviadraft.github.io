@@ -29511,6 +29511,12 @@ var movieMap = {
             "Horror/Thriller",
             "John Carpenter",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Keith David",
+            "Meg Foster",
+            "Norman Alden",
+            "Roddy Piper"
         ]
     },
     "Child's Play (1988)": {
