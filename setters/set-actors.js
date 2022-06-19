@@ -35,6 +35,11 @@ var actorMap = {
             "The King's Man (2021)"
         ]
     },
+    "Aaron Yoo": {
+        "movies": [
+            "Money Monster (2016)"
+        ]
+    },
     "Aasif Mandvi": {
         "movies": [
             "Spider-Man 2 (2004)",
@@ -808,6 +813,7 @@ var actorMap = {
     "Alfred Molina": {
         "movies": [
             "Raiders of the Lost Ark (1981)",
+            "Maverick (1994)",
             "Magnolia (1999)",
             "Spider-Man 2 (2004)",
             "Abduction (2011)",
@@ -4201,6 +4207,7 @@ var actorMap = {
     "Caitr\u00edona Balfe": {
         "movies": [
             "Now You See Me (2013)",
+            "Money Monster (2016)",
             "Belfast (2021)"
         ]
     },
@@ -6048,7 +6055,8 @@ var actorMap = {
             "The 'Burbs (1989)",
             "Teenage Mutant Ninja Turtles (1990)",
             "National Lampoon's Loaded Weapon 1 (1993)",
-            "Teenage Mutant Ninja Turtles III (1993)"
+            "Teenage Mutant Ninja Turtles III (1993)",
+            "Maverick (1994)"
         ]
     },
     "Corey Hawkins": {
@@ -6330,6 +6338,7 @@ var actorMap = {
     "Dan Hedaya": {
         "movies": [
             "Blood Simple (1985)",
+            "Maverick (1994)",
             "Clueless (1995)",
             "The First Wives Club (1996)",
             "Alien Resurrection (1997)",
@@ -6635,6 +6644,7 @@ var actorMap = {
             "Places in the Heart (1984)",
             "Silverado (1985)",
             "Predator 2 (1990)",
+            "Maverick (1994)",
             "Antz (1998)",
             "The Prince of Egypt (1998)",
             "The Royal Tenenbaums (2001)",
@@ -7772,6 +7782,7 @@ var actorMap = {
             "300 (2007)",
             "Punisher: War Zone (2008)",
             "John Carter (2012)",
+            "Money Monster (2016)",
             "Finding Dory (2016)"
         ]
     },
@@ -10451,7 +10462,8 @@ var actorMap = {
             "Ocean's Thirteen (2007)",
             "Michael Clayton (2007)",
             "Gravity (2013)",
-            "Hail, Caesar! (2016)"
+            "Hail, Caesar! (2016)",
+            "Money Monster (2016)"
         ]
     },
     "George Gaynes": {
@@ -10576,7 +10588,8 @@ var actorMap = {
             "Trading Places (1983)",
             "Waiting to Exhale (1995)",
             "Last Holiday (2006)",
-            "The Jungle Book (2016)"
+            "The Jungle Book (2016)",
+            "Money Monster (2016)"
         ]
     },
     "Gigi Hadid": {
@@ -10814,6 +10827,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Maverick (1994)",
             "North (1994)",
             "The Green Mile (1999)",
             "Wind River (2017)"
@@ -12504,7 +12518,8 @@ var actorMap = {
     },
     "Jack O'Connell": {
         "movies": [
-            "300: Rise of an Empire (2014)"
+            "300: Rise of an Empire (2014)",
+            "Money Monster (2016)"
         ]
     },
     "Jack Palance": {
@@ -12844,6 +12859,7 @@ var actorMap = {
         ],
         "movies": [
             "Charade (1963)",
+            "Maverick (1994)",
             "Monsters, Inc. (2001)"
         ]
     },
@@ -12963,6 +12979,11 @@ var actorMap = {
         "movies": [
             "True Romance (1993)",
             "Zero Dark Thirty (2012)"
+        ]
+    },
+    "James Garner": {
+        "movies": [
+            "Maverick (1994)"
         ]
     },
     "James Gunn": {
@@ -15016,6 +15037,7 @@ var actorMap = {
         ],
         "movies": [
             "The Silence of the Lambs (1991)",
+            "Maverick (1994)",
             "Panic Room (2002)",
             "Inside Man (2006)"
         ]
@@ -16576,7 +16598,8 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Valentine's Day (2010)",
             "August: Osage County (2013)",
-            "Mother's Day (2016)"
+            "Mother's Day (2016)",
+            "Money Monster (2016)"
         ]
     },
     "Julia Sawalha": {
@@ -20141,7 +20164,8 @@ var actorMap = {
             "Superman (1978)",
             "Superman II (1981)",
             "Superman III (1983)",
-            "Superman IV: The Quest for Peace (1987)"
+            "Superman IV: The Quest for Peace (1987)",
+            "Maverick (1994)"
         ]
     },
     "Margot Robbie": {
@@ -21282,6 +21306,7 @@ var actorMap = {
             "Mad Max (1980)",
             "The Road Warrior (1982)",
             "Mad Max Beyond Thunderdome (1985)",
+            "Maverick (1994)",
             "Conspiracy Theory (1997)",
             "Chicken Run (2000)"
         ]
@@ -24183,7 +24208,8 @@ var actorMap = {
     "Paul L. Smith": {
         "movies": [
             "Dune (1984)",
-            "Red Sonja (1985)"
+            "Red Sonja (1985)",
+            "Maverick (1994)"
         ]
     },
     "Paul Lukas": {
@@ -25438,6 +25464,7 @@ var actorMap = {
     },
     "Reba McEntire": {
         "movies": [
+            "Maverick (1994)",
             "North (1994)",
             "Spies in Disguise (2019)"
         ]

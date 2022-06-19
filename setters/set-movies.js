@@ -40659,6 +40659,20 @@ var movieMap = {
             "Jodie Foster",
             "Richard Donner",
             "Westerns"
+        ],
+        "cast": [
+            "Alfred Molina",
+            "Corey Feldman",
+            "Dan Hedaya",
+            "Danny Glover",
+            "Graham Greene",
+            "James Coburn",
+            "James Garner",
+            "Jodie Foster",
+            "Margot Kidder",
+            "Mel Gibson",
+            "Paul L. Smith",
+            "Reba McEntire"
         ]
     },
     "Beverly Hills Cop III (1994)": {
@@ -110037,6 +110051,15 @@ var movieMap = {
             "Brad Pitt & George Clooney",
             "Dramas",
             "Jodie Foster",
+            "Julia Roberts"
+        ],
+        "cast": [
+            "Aaron Yoo",
+            "Caitr\u00edona Balfe",
+            "Dominic West",
+            "George Clooney",
+            "Giancarlo Esposito",
+            "Jack O'Connell",
             "Julia Roberts"
         ]
     },
