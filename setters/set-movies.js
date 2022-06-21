@@ -3788,6 +3788,12 @@ var movieMap = {
             "Classics",
             "Horror/Thriller",
             "James Stewart"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Farley Granger",
+            "James Stewart",
+            "John Dall"
         ]
     },
     "Macbeth (1948)": {
@@ -17571,6 +17577,12 @@ var movieMap = {
         "categories": [
             "1980s",
             "Romance"
+        ],
+        "cast": [
+            "Brooke Shields",
+            "Christopher Atkins",
+            "Leo McKern",
+            "William Daniels"
         ]
     },
     "The Blues Brothers (1980)": {
@@ -36880,6 +36892,15 @@ var movieMap = {
             "Al Pacino",
             "Dramas",
             "Ed Harris"
+        ],
+        "cast": [
+            "Al Pacino",
+            "Alan Arkin",
+            "Alec Baldwin",
+            "Ed Harris",
+            "Jack Lemmon",
+            "Jonathan Pryce",
+            "Kevin Spacey"
         ]
     },
     "The Mighty Ducks (1992)": {
@@ -59178,6 +59199,14 @@ var movieMap = {
             "Horror/Thriller",
             "Mystery",
             "Thriller"
+        ],
+        "cast": [
+            "Carrie-Anne Moss",
+            "Guy Pearce",
+            "Joe Pantoliano",
+            "Mark Boone Junior",
+            "Stephen Tobolowsky",
+            "Thomas Lennon"
         ]
     },
     "Heartbreakers (2001)": {
@@ -67024,6 +67053,19 @@ var movieMap = {
             "Crime",
             "Dramas",
             "Eastwoods"
+        ],
+        "cast": [
+            "Ari Graynor",
+            "Cayden Boyd",
+            "Eli Wallach",
+            "Emmy Rossum",
+            "Kevin Bacon",
+            "Laura Linney",
+            "Laurence Fishburne",
+            "Marcia Gay Harden",
+            "Sean Penn",
+            "Spencer Treat Clark",
+            "Tim Robbins"
         ]
     },
     "Runaway Jury (2003)": {
@@ -70707,6 +70749,12 @@ var movieMap = {
         "categories": [
             "2000s",
             "Dramas",
+            "Julia Roberts",
+            "Natalie Portman"
+        ],
+        "cast": [
+            "Clive Owen",
+            "Jude Law",
             "Julia Roberts",
             "Natalie Portman"
         ]
@@ -75255,6 +75303,11 @@ var movieMap = {
             "2000s",
             "Horror/Thriller",
             "Thriller"
+        ],
+        "cast": [
+            "Elliot Page",
+            "Patrick Wilson",
+            "Sandra Oh"
         ]
     },
     "Scary Movie 4 (2006)": {
@@ -80420,6 +80473,11 @@ var movieMap = {
         ],
         "categories": [
             "2000s"
+        ],
+        "cast": [
+            "Jude Law",
+            "Kenneth Branagh",
+            "Michael Caine"
         ]
     },
     "We Own the Night (2007)": {
@@ -80515,6 +80573,18 @@ var movieMap = {
             "Matt & Ben",
             "Morgan Freeman",
             "Mystery"
+        ],
+        "cast": [
+            "Amy Madigan",
+            "Amy Ryan",
+            "Casey Affleck",
+            "Ed Harris",
+            "Edi Gathegi",
+            "Mark Margolis",
+            "Michael K. Williams",
+            "Michelle Monaghan",
+            "Morgan Freeman",
+            "Titus Welliver"
         ]
     },
     "Before the Devil Knows You're Dead (2007)": {
@@ -82566,6 +82636,11 @@ var movieMap = {
             "2000s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Glenn Howerton",
+            "Liv Tyler",
+            "Scott Speedman"
         ]
     },
     "Kung Fu Panda (2008)": {
@@ -87417,6 +87492,16 @@ var movieMap = {
         "categories": [
             "2000s",
             "Charlize Theron"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "Garret Dillahunt",
+            "Guy Pearce",
+            "Kodi Smit-McPhee",
+            "Michael K. Williams",
+            "Molly Parker",
+            "Robert Duvall",
+            "Viggo Mortensen"
         ]
     },
     "Brothers (2009)": {
@@ -90398,6 +90483,14 @@ var movieMap = {
             "2010s",
             "Biopics",
             "Dramas"
+        ],
+        "cast": [
+            "Amber Tamblyn",
+            "Cl\u00e9mence Po\u00e9sy",
+            "James Franco",
+            "Kate Mara",
+            "Lizzy Caplan",
+            "Treat Williams"
         ]
     },
     "Due Date (2010)": {
@@ -91767,6 +91860,13 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Gyllenhaals"
+        ],
+        "cast": [
+            "Jake Gyllenhaal",
+            "Jeffrey Wright",
+            "Michelle Monaghan",
+            "Russell Peters",
+            "Vera Farmiga"
         ]
     },
     "Super (2011)": {
@@ -97428,6 +97528,12 @@ var movieMap = {
         "categories": [
             "2010s",
             "Dramas"
+        ],
+        "cast": [
+            "G\u00e9rard Depardieu",
+            "Irrfan Khan",
+            "Rafe Spall",
+            "Suraj Sharma"
         ]
     },
     "Rise of the Guardians (2012)": {
@@ -100892,6 +100998,17 @@ var movieMap = {
             "2010s",
             "Animated",
             "Disney"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Chris Williams",
+            "Ciar\u00e1n Hinds",
+            "Idina Menzel",
+            "Jennifer Lee",
+            "Jonathan Groff",
+            "Josh Gad",
+            "Kristen Bell",
+            "Santino Fontana"
         ]
     },
     "Homefront (2013)": {
@@ -103459,6 +103576,22 @@ var movieMap = {
         "categories": [
             "2010s",
             "A24"
+        ],
+        "cast": [
+            "Adam Pally",
+            "Alia Shawkat",
+            "Anna Kendrick",
+            "Aubrey Plaza",
+            "Cheryl Hines",
+            "Dane DeHaan",
+            "Garry Marshall",
+            "Jim O'Heir",
+            "John C. Reilly",
+            "Matthew Gray Gubler",
+            "Molly Shannon",
+            "Paul Reiser",
+            "Paul Weitz",
+            "Rob Delaney"
         ]
     },
     "The Expendables 3 (2014)": {
@@ -112074,6 +112207,16 @@ var movieMap = {
             "Dramas",
             "LGBTQ Cinema",
             "Musicians in Film"
+        ],
+        "cast": [
+            "Alex Hibbert",
+            "Andr\u00e9 Holland",
+            "Ashton Sanders",
+            "Janelle Mon\u00e1e",
+            "Jharrel Jerome",
+            "Mahershala Ali",
+            "Naomie Harris",
+            "Trevante Rhodes"
         ]
     },
     "Ouija: Origin of Evil (2016)": {
@@ -113732,6 +113875,12 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Gyllenhaals",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Hiroyuki Sanada",
+            "Jake Gyllenhaal",
+            "Rebecca Ferguson",
+            "Ryan Reynolds"
         ]
     },
     "Power Rangers (2017)": {
@@ -114334,6 +114483,11 @@ var movieMap = {
         "categories": [
             "2010s",
             "Wrestlers in Film"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "John Cena",
+            "Laith Nakli"
         ]
     },
     "Alien: Covenant (2017)": {
@@ -114619,6 +114773,11 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Claire Holt",
+            "Mandy Moore",
+            "Matthew Modine"
         ]
     },
     "All Eyez on Me (2017)": {
@@ -117909,6 +118068,12 @@ var movieMap = {
             "2010s",
             "Horror",
             "Horror/Thriller"
+        ],
+        "cast": [
+            "Bailee Madison",
+            "Christina Hendricks",
+            "Lewis Pullman",
+            "Martin Henderson"
         ]
     },
     "Love, Simon (2018)": {
@@ -126303,6 +126468,20 @@ var movieMap = {
             "2010s",
             "Animated",
             "Disney"
+        ],
+        "cast": [
+            "Alan Tudyk",
+            "Alfred Molina",
+            "Ciar\u00e1n Hinds",
+            "Evan Rachel Wood",
+            "Idina Menzel",
+            "Jason Ritter",
+            "Jonathan Groff",
+            "Josh Gad",
+            "Kristen Bell",
+            "Martha Plimpton",
+            "Rachel Matthews",
+            "Sterling K. Brown"
         ]
     },
     "Hala (2019)": {
