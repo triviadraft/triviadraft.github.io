@@ -829,6 +829,7 @@ var actorMap = {
             "Rear Window (1954)",
             "To Catch a Thief (1955)",
             "The Man Who Knew Too Much (1956)",
+            "Vertigo (1958)",
             "North by Northwest (1959)"
         ]
     },
@@ -2472,6 +2473,11 @@ var actorMap = {
     "Barbara Babcock": {
         "movies": [
             "Far and Away (1992)"
+        ]
+    },
+    "Barbara Bel Geddes": {
+        "movies": [
+            "Vertigo (1958)"
         ]
     },
     "Barbara Hershey": {
@@ -8926,6 +8932,11 @@ var actorMap = {
             }
         ]
     },
+    "Ellen Corby": {
+        "movies": [
+            "Vertigo (1958)"
+        ]
+    },
     "Ellen DeGeneres": {
         "movies": [
             "Finding Nemo (2003)",
@@ -13357,7 +13368,8 @@ var actorMap = {
             "The Philadelphia Story (1940)",
             "Rope (1948)",
             "Rear Window (1954)",
-            "The Man Who Knew Too Much (1956)"
+            "The Man Who Knew Too Much (1956)",
+            "Vertigo (1958)"
         ]
     },
     "James Tolkan": {
@@ -18379,6 +18391,11 @@ var actorMap = {
     "Kim Kardashian": {
         "movies": [
             "Ocean's 8 (2018)"
+        ]
+    },
+    "Kim Novak": {
+        "movies": [
+            "Vertigo (1958)"
         ]
     },
     "Kimberly Elise": {

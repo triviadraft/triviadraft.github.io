@@ -6532,6 +6532,13 @@ var movieMap = {
             "Horror/Thriller",
             "James Stewart",
             "Thriller"
+        ],
+        "cast": [
+            "Alfred Hitchcock",
+            "Barbara Bel Geddes",
+            "Ellen Corby",
+            "James Stewart",
+            "Kim Novak"
         ]
     },
     "Gigi (1958)": {
