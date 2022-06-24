@@ -7316,6 +7316,7 @@ var actorMap = {
             "Red 2 (2013)",
             "The Theory of Everything (2014)",
             "Regression (2016)",
+            "Regression (2016)",
             "Wonder Woman (2017)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -7718,6 +7719,11 @@ var actorMap = {
         "movies": [
             "2 Fast 2 Furious (2003)",
             "Sin City (2005)"
+        ]
+    },
+    "Devon Bostick": {
+        "movies": [
+            "Regression (2016)"
         ]
     },
     "Dexter Fletcher": {
@@ -9373,6 +9379,7 @@ var actorMap = {
             "The Bling Ring (2013)",
             "Noah (2014)",
             "Regression (2016)",
+            "Regression (2016)",
             "Beauty and the Beast (2017)",
             "The Circle (2017)",
             "Little Women (2019)"
@@ -9563,6 +9570,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Regression (2016)",
             "Regression (2016)"
         ]
     },

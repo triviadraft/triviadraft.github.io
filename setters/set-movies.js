@@ -109398,7 +109398,11 @@ var movieMap = {
         "cast": [
             "David Dencik",
             "David Thewlis",
+            "David Thewlis",
+            "Devon Bostick",
             "Emma Watson",
+            "Emma Watson",
+            "Ethan Hawke",
             "Ethan Hawke"
         ]
     },
