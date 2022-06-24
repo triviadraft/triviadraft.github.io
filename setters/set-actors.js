@@ -38,6 +38,7 @@ var actorMap = {
     },
     "Aaron Yoo": {
         "movies": [
+            "Nick & Norah's Infinite Playlist (2008)",
             "Money Monster (2016)"
         ]
     },
@@ -344,6 +345,14 @@ var actorMap = {
             "Jonah Hex (2010)"
         ]
     },
+    "Aidan Turner": {
+        "movies": [
+            "The Hobbit: An Unexpected Journey (2012)",
+            "The Mortal Instruments: City of Bones (2013)",
+            "The Hobbit: The Desolation of Smaug (2013)",
+            "The Hobbit: The Battle of the Five Armies (2014)"
+        ]
+    },
     "Aidy Bryant": {
         "movies": [
             "The Amazing Spider-Man 2 (2014)",
@@ -634,6 +643,7 @@ var actorMap = {
     },
     "Alden Ehrenreich": {
         "movies": [
+            "Beautiful Creatures (2013)",
             "Blue Jasmine (2013)",
             "Hail, Caesar! (2016)",
             "Solo: A Star Wars Story (2018)"
@@ -727,8 +737,14 @@ var actorMap = {
     },
     "Alex Pettyfer": {
         "movies": [
+            "I Am Number Four (2011)",
             "Magic Mike (2012)",
             "Lee Daniels' The Butler (2013)"
+        ]
+    },
+    "Alex Russell": {
+        "movies": [
+            "The Host (2013)"
         ]
     },
     "Alex Trebek": {
@@ -796,11 +812,13 @@ var actorMap = {
     },
     "Alexis Bledel": {
         "movies": [
-            "Sin City (2005)"
+            "Sin City (2005)",
+            "The Sisterhood of the Traveling Pants (2005)"
         ]
     },
     "Alexis Dziena": {
         "movies": [
+            "Nick & Norah's Infinite Playlist (2008)",
             "When in Rome (2010)"
         ]
     },
@@ -893,6 +911,7 @@ var actorMap = {
     },
     "Alice Englert": {
         "movies": [
+            "Beautiful Creatures (2013)",
             "The Power of the Dog (2021)"
         ]
     },
@@ -1099,7 +1118,13 @@ var actorMap = {
     },
     "Amber Tamblyn": {
         "movies": [
+            "The Sisterhood of the Traveling Pants (2005)",
             "127 Hours (2010)"
+        ]
+    },
+    "America Ferrera": {
+        "movies": [
+            "The Sisterhood of the Traveling Pants (2005)"
         ]
     },
     "Aml Ameen": {
@@ -1427,6 +1452,7 @@ var actorMap = {
     "Andy Samberg": {
         "movies": [
             "Hot Rod (2007)",
+            "Nick & Norah's Infinite Playlist (2008)",
             "I Love You, Man (2009)",
             "What's Your Number? (2011)"
         ]
@@ -1683,8 +1709,12 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
             "Scott Pilgrim vs. the World (2010)",
             "50/50 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
             "Life After Beth (2014)",
             "Into the Woods (2014)"
         ]
@@ -2141,6 +2171,7 @@ var actorMap = {
     "Ari Graynor": {
         "movies": [
             "Mystic River (2003)",
+            "Nick & Norah's Infinite Playlist (2008)",
             "Date Night (2010)",
             "What's Your Number? (2011)",
             "The Guilt Trip (2012)"
@@ -2263,6 +2294,15 @@ var actorMap = {
         "movies": [
             "Star Wars: The Clone Wars (2008)",
             "Star Wars: The Rise of Skywalker (2019)"
+        ]
+    },
+    "Ashley Greene": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Ashley Judd": {
@@ -3093,6 +3133,7 @@ var actorMap = {
             "Charlie's Angels (2000)",
             "The Royal Tenenbaums (2001)",
             "Lost in Translation (2003)",
+            "City of Ember (2008)",
             "Zombieland (2009)",
             "The Jungle Book (2016)",
             "Ghostbusters (2016)",
@@ -3193,6 +3234,15 @@ var actorMap = {
             "The Lord of the Rings: The Fellowship of the Ring (2001)",
             "The Lord of the Rings: The Two Towers (2002)",
             "The Lord of the Rings: The Return of the King (2003)"
+        ]
+    },
+    "Billy Burke": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Billy Bush": {
@@ -3302,6 +3352,7 @@ var actorMap = {
     },
     "Blake Lively": {
         "movies": [
+            "The Sisterhood of the Traveling Pants (2005)",
             "The Town (2010)",
             "Green Lantern (2011)"
         ]
@@ -3425,6 +3476,7 @@ var actorMap = {
         "movies": [
             "Ray (2004)",
             "Total Recall (2012)",
+            "The Host (2013)",
             "Spider-Man: Homecoming (2017)",
             "Ghostbusters: Afterlife (2021)"
         ]
@@ -3466,6 +3518,8 @@ var actorMap = {
     },
     "Booboo Stewart": {
         "movies": [
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "X-Men: Days of Future Past (2014)"
         ]
     },
@@ -3487,6 +3541,7 @@ var actorMap = {
     },
     "Boyd Holbrook": {
         "movies": [
+            "The Host (2013)",
             "Logan (2017)",
             "The Predator (2018)"
         ]
@@ -3626,6 +3681,7 @@ var actorMap = {
         "movies": [
             "RoboCop 3 (1993)",
             "Kate & Leopold (2001)",
+            "The Sisterhood of the Traveling Pants (2005)",
             "The Cabin in the Woods (2012)",
             "Saving Mr. Banks (2013)",
             "Godzilla: King of the Monsters (2019)"
@@ -4039,6 +4095,7 @@ var actorMap = {
         "movies": [
             "The 'Burbs (1989)",
             "The Hateful Eight (2015)",
+            "Our Souls at Night (2017)",
             "The Peanut Butter Falcon (2019)"
         ]
     },
@@ -4147,6 +4204,7 @@ var actorMap = {
             "Lady in the Water (2006)",
             "Spider-Man 3 (2007)",
             "Terminator Salvation (2009)",
+            "The Twilight Saga: Eclipse (2010)",
             "The Help (2011)",
             "50/50 (2011)",
             "Jurassic World (2015)",
@@ -4301,6 +4359,11 @@ var actorMap = {
             "The Florida Project (2017)"
         ]
     },
+    "Callan McAuliffe": {
+        "movies": [
+            "I Am Number Four (2011)"
+        ]
+    },
     "Callum Turner": {
         "movies": [
             "Victor Frankenstein (2015)",
@@ -4310,6 +4373,7 @@ var actorMap = {
     },
     "Cam Gigandet": {
         "movies": [
+            "Twilight (2008)",
             "Priest (2011)"
         ]
     },
@@ -4320,7 +4384,10 @@ var actorMap = {
     },
     "Cameron Bright": {
         "movies": [
-            "X-Men: The Last Stand (2006)"
+            "X-Men: The Last Stand (2006)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Cameron Crowe": {
@@ -4613,6 +4680,9 @@ var actorMap = {
                 "movie": "Maria Full of Grace",
                 "year": "2004"
             }
+        ],
+        "movies": [
+            "The Twilight Saga: Eclipse (2010)"
         ]
     },
     "Cate Blanchett": {
@@ -5488,6 +5558,13 @@ var actorMap = {
     "Christian Rub": {
         "movies": [
             "You Can't Take It with You (1938)"
+        ]
+    },
+    "Christian Serratos": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)"
         ]
     },
     "Christian Slater": {
@@ -6400,6 +6477,9 @@ var actorMap = {
             "Sweet Home Alabama (2002)",
             "War of the Worlds (2005)",
             "The Secret Life of Bees (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "Ocean's 8 (2018)"
         ]
     },
@@ -7703,6 +7783,7 @@ var actorMap = {
     "Diane Kruger": {
         "movies": [
             "Troy (2004)",
+            "The Host (2013)",
             "Welcome to Marwen (2018)"
         ]
     },
@@ -7747,6 +7828,7 @@ var actorMap = {
     },
     "Dianna Agron": {
         "movies": [
+            "I Am Number Four (2011)",
             "Ralph Breaks the Internet (2018)"
         ]
     },
@@ -8479,6 +8561,11 @@ var actorMap = {
             "Ocean's Thirteen (2007)"
         ]
     },
+    "Eddie Kaye Thomas": {
+        "movies": [
+            "Nick & Norah's Infinite Playlist (2008)"
+        ]
+    },
     "Eddie Marsan": {
         "movies": [
             "V for Vendetta (2006)",
@@ -8540,6 +8627,8 @@ var actorMap = {
     "Edi Gathegi": {
         "movies": [
             "Gone Baby Gone (2007)",
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
             "X-Men: First Class (2011)"
         ]
     },
@@ -8813,6 +8902,15 @@ var actorMap = {
             "About Last Night (1986)",
             "Big (1988)",
             "Finding Nemo (2003)"
+        ]
+    },
+    "Elizabeth Reaser": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Elizabeth Taylor": {
@@ -9092,6 +9190,11 @@ var actorMap = {
             "Jungle Cruise (2021)"
         ]
     },
+    "Emily Browning": {
+        "movies": [
+            "The Host (2013)"
+        ]
+    },
     "Emily Deschanel": {
         "movies": [
             "Cold Mountain (2003)",
@@ -9243,6 +9346,7 @@ var actorMap = {
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
             "Men in Black 3 (2012)",
             "Brave (2012)",
+            "Beautiful Creatures (2013)",
             "Saving Mr. Banks (2013)",
             "Beauty and the Beast (2017)",
             "Missing Link (2019)",
@@ -9290,7 +9394,8 @@ var actorMap = {
     "Emmy Rossum": {
         "movies": [
             "Mystic River (2003)",
-            "The Phantom of the Opera (2004)"
+            "The Phantom of the Opera (2004)",
+            "Beautiful Creatures (2013)"
         ]
     },
     "Enrico Casarosa": {
@@ -9883,7 +9988,8 @@ var actorMap = {
     },
     "Frances Fisher": {
         "movies": [
-            "Unforgiven (1992)"
+            "Unforgiven (1992)",
+            "The Host (2013)"
         ]
     },
     "Frances McDormand": {
@@ -10791,6 +10897,9 @@ var actorMap = {
     },
     "Gil Birmingham": {
         "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
             "Transformers: The Last Knight (2017)",
             "Wind River (2017)"
         ]
@@ -11029,6 +11138,7 @@ var actorMap = {
             "Maverick (1994)",
             "North (1994)",
             "The Green Mile (1999)",
+            "The Twilight Saga: New Moon (2009)",
             "Wind River (2017)"
         ]
     },
@@ -11458,6 +11568,12 @@ var actorMap = {
     "Harry Styles": {
         "movies": [
             "Eternals (2021)"
+        ]
+    },
+    "Harry Treadaway": {
+        "movies": [
+            "City of Ember (2008)",
+            "The Lone Ranger (2013)"
         ]
     },
     "Harvey Keitel": {
@@ -12024,6 +12140,11 @@ var actorMap = {
             "New Year's Eve (2011)",
             "Mother's Day (2016)",
             "The Lego Batman Movie (2017)"
+        ]
+    },
+    "Iain Armitage": {
+        "movies": [
+            "Our Souls at Night (2017)"
         ]
     },
     "Iain Glen": {
@@ -12850,6 +12971,15 @@ var actorMap = {
             "The Book of Henry (2017)"
         ]
     },
+    "Jackson Rathbone": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
+        ]
+    },
     "Jaclyn Smith": {
         "movies": [
             "Charlie's Angels: Full Throttle (2003)",
@@ -12948,6 +13078,13 @@ var actorMap = {
     "Jaimz Woolvett": {
         "movies": [
             "Unforgiven (1992)"
+        ]
+    },
+    "Jake Abel": {
+        "movies": [
+            "The Lovely Bones (2009)",
+            "I Am Number Four (2011)",
+            "The Host (2013)"
         ]
     },
     "Jake Busey": {
@@ -13443,7 +13580,11 @@ var actorMap = {
     "Jamie Campbell Bower": {
         "movies": [
             "Sweeney Todd: The Demon Barber of Fleet Street (2007)",
+            "The Twilight Saga: New Moon (2009)",
             "Harry Potter and the Deathly Hallows \u2013 Part 1 (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
+            "The Mortal Instruments: City of Bones (2013)",
             "Fantastic Beasts: The Crimes of Grindelwald (2018)"
         ]
     },
@@ -13579,6 +13720,7 @@ var actorMap = {
             "Monster-in-Law (2005)",
             "Lee Daniels' The Butler (2013)",
             "This Is Where I Leave You (2014)",
+            "Our Souls at Night (2017)",
             "Book Club (2018)"
         ]
     },
@@ -13674,6 +13816,7 @@ var actorMap = {
             "Ocean's Twelve (2004)",
             "Lady in the Water (2006)",
             "The Curious Case of Benjamin Button (2008)",
+            "The Mortal Instruments: City of Bones (2013)",
             "Morbius (2022)"
         ]
     },
@@ -13938,6 +14081,7 @@ var actorMap = {
             "Million Dollar Baby (2004)",
             "Knocked Up (2007)",
             "Tropic Thunder (2008)",
+            "Nick & Norah's Infinite Playlist (2008)",
             "This Is the End (2013)",
             "RoboCop (2014)"
         ]
@@ -14245,6 +14389,11 @@ var actorMap = {
             "Cars 3 (2017)"
         ]
     },
+    "Jenna Boyd": {
+        "movies": [
+            "The Sisterhood of the Traveling Pants (2005)"
+        ]
+    },
     "Jenna Coleman": {
         "movies": [
             "Captain America: The First Avenger (2011)"
@@ -14518,6 +14667,7 @@ var actorMap = {
             "Inland Empire (2006)",
             "Appaloosa (2008)",
             "The Words (2012)",
+            "Beautiful Creatures (2013)",
             "Batman v Superman: Dawn of Justice (2016)",
             "Justice League (2017)",
             "Zack Snyder's Justice League (2021)"
@@ -15577,6 +15727,7 @@ var actorMap = {
         "movies": [
             "Wag the Dog (1997)",
             "Solaris (2002)",
+            "Nick & Norah's Infinite Playlist (2008)",
             "Star Trek (2009)",
             "Total Recall (2012)",
             "Star Trek Into Darkness (2013)",
@@ -16402,7 +16553,8 @@ var actorMap = {
         "movies": [
             "Michael Collins (1996)",
             "Alexander (2004)",
-            "Mission: Impossible III (2006)"
+            "Mission: Impossible III (2006)",
+            "The Mortal Instruments: City of Bones (2013)"
         ]
     },
     "Jonathan Taylor Thomas": {
@@ -16778,7 +16930,8 @@ var actorMap = {
     },
     "Judith Hoag": {
         "movies": [
-            "Teenage Mutant Ninja Turtles (1990)"
+            "Teenage Mutant Ninja Turtles (1990)",
+            "I Am Number Four (2011)"
         ]
     },
     "Judith Roberts": {
@@ -16818,6 +16971,7 @@ var actorMap = {
             "Jurassic World (2015)",
             "Ant-Man (2015)",
             "War for the Planet of the Apes (2017)",
+            "Our Souls at Night (2017)",
             "Ant-Man and the Wasp (2018)"
         ]
     },
@@ -16831,6 +16985,8 @@ var actorMap = {
     "Julia Jones": {
         "movies": [
             "Jonah Hex (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "Wind River (2017)"
         ]
     },
@@ -17210,6 +17366,13 @@ var actorMap = {
             "War of the Worlds (2005)"
         ]
     },
+    "Justin Chon": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)"
+        ]
+    },
     "Justin Hartley": {
         "movies": [
             "Little (2019)"
@@ -17385,6 +17548,7 @@ var actorMap = {
     },
     "Kat Dennings": {
         "movies": [
+            "Nick & Norah's Infinite Playlist (2008)",
             "Thor (2011)",
             "Thor: The Dark World (2013)"
         ]
@@ -17899,6 +18063,11 @@ var actorMap = {
     },
     "Kellan Lutz": {
         "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "What Men Want (2019)"
         ]
     },
@@ -18166,6 +18335,8 @@ var actorMap = {
             "Walking Tall (2004)",
             "Smokin' Aces (2007)",
             "X-Men Origins: Wolverine (2009)",
+            "I Am Number Four (2011)",
+            "The Mortal Instruments: City of Bones (2013)",
             "Noah (2014)"
         ]
     },
@@ -18548,7 +18719,12 @@ var actorMap = {
         "movies": [
             "Panic Room (2002)",
             "Zathura: A Space Adventure (2005)",
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
             "Snow White and the Huntsman (2012)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "Charlie's Angels (2019)"
         ]
     },
@@ -18661,6 +18837,7 @@ var actorMap = {
     },
     "Kyle Gallner": {
         "movies": [
+            "Beautiful Creatures (2013)",
             "American Sniper (2014)",
             "Scream (2022)"
         ]
@@ -19125,6 +19302,7 @@ var actorMap = {
     "Lee Pace": {
         "movies": [
             "When in Rome (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "The Hobbit: The Desolation of Smaug (2013)",
             "Guardians of the Galaxy (2014)",
             "The Hobbit: The Battle of the Five Armies (2014)",
@@ -19164,6 +19342,7 @@ var actorMap = {
             "The Remains of the Day (1993)",
             "300 (2007)",
             "Dredd (2012)",
+            "The Mortal Instruments: City of Bones (2013)",
             "300: Rise of an Empire (2014)"
         ]
     },
@@ -19294,6 +19473,7 @@ var actorMap = {
     "Leonardo Nam": {
         "movies": [
             "The Perfect Score (2004)",
+            "The Sisterhood of the Traveling Pants (2005)",
             "The Fast and the Furious: Tokyo Drift (2006)",
             "He's Just Not That into You (2009)"
         ]
@@ -19530,7 +19710,8 @@ var actorMap = {
         "movies": [
             "Priest (2011)",
             "Abduction (2011)",
-            "Stuck in Love (2013)"
+            "Stuck in Love (2013)",
+            "The Mortal Instruments: City of Bones (2013)"
         ]
     },
     "Lily James": {
@@ -19763,6 +19944,11 @@ var actorMap = {
     "Lonette McKee": {
         "movies": [
             "Jungle Fever (1991)"
+        ]
+    },
+    "Lorene Scafaria": {
+        "movies": [
+            "Nick & Norah's Infinite Playlist (2008)"
         ]
     },
     "Loretta Devine": {
@@ -20129,6 +20315,12 @@ var actorMap = {
             "Terminator: Dark Fate (2019)"
         ]
     },
+    "Mackenzie Foy": {
+        "movies": [
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
+        ]
+    },
     "Macy Gray": {
         "movies": [
             "Spider-Man (2002)",
@@ -20201,7 +20393,9 @@ var actorMap = {
     },
     "Maggie Grace": {
         "movies": [
-            "Knight and Day (2010)"
+            "Knight and Day (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Maggie Gyllenhaal": {
@@ -20481,6 +20675,7 @@ var actorMap = {
             "Ghosts of Mississippi (1996)",
             "The Hours (2002)",
             "Million Dollar Baby (2004)",
+            "Beautiful Creatures (2013)",
             "August: Osage County (2013)",
             "Mother's Day (2016)",
             "Cars 3 (2017)",
@@ -20573,6 +20768,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "City of Ember (2008)",
             "RoboCop (2014)"
         ]
     },
@@ -20835,6 +21031,7 @@ var actorMap = {
         "movies": [
             "Planet of the Apes (2001)",
             "Four Brothers (2005)",
+            "The Lovely Bones (2009)",
             "Date Night (2010)",
             "Ted (2012)",
             "2 Guns (2013)",
@@ -21034,7 +21231,8 @@ var actorMap = {
         ],
         "movies": [
             "North by Northwest (1959)",
-            "Sleepy Hollow (1999)"
+            "Sleepy Hollow (1999)",
+            "City of Ember (2008)"
         ]
     },
     "Martin Lawrence": {
@@ -21152,11 +21350,9 @@ var actorMap = {
     "Mary Kay Place": {
         "movies": [
             "Terms of Endearment (1983)",
-            "Terms of Endearment (1983)",
-            "Girl, Interrupted (1999)",
             "Girl, Interrupted (1999)",
             "Sweet Home Alabama (2002)",
-            "Sweet Home Alabama (2002)",
+            "City of Ember (2008)",
             "Julie & Julia (2009)"
         ]
     },
@@ -21467,6 +21663,7 @@ var actorMap = {
     },
     "Matthias Schoenaerts": {
         "movies": [
+            "Our Souls at Night (2017)",
             "The Old Guard (2020)"
         ]
     },
@@ -21504,6 +21701,11 @@ var actorMap = {
         "movies": [
             "What Men Want (2019)",
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Max Irons": {
+        "movies": [
+            "The Host (2013)"
         ]
     },
     "Max Minghella": {
@@ -22092,6 +22294,7 @@ var actorMap = {
     "Michael Cera": {
         "movies": [
             "Juno (2007)",
+            "Nick & Norah's Infinite Playlist (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "This Is the End (2013)",
             "The Lego Batman Movie (2017)"
@@ -22267,6 +22470,7 @@ var actorMap = {
         "movies": [
             "Lean on Me (1989)",
             "Jungle Fever (1991)",
+            "The Lovely Bones (2009)",
             "Oldboy (2013)"
         ]
     },
@@ -22498,7 +22702,10 @@ var actorMap = {
             "Mary Reilly (1996)",
             "Timeline (2003)",
             "Kingdom of Heaven (2005)",
+            "The Twilight Saga: New Moon (2009)",
             "Alice in Wonderland (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "Alice Through the Looking Glass (2016)",
             "Dolittle (2020)"
         ]
@@ -22780,6 +22987,7 @@ var actorMap = {
     },
     "Mike Vogel": {
         "movies": [
+            "The Sisterhood of the Traveling Pants (2005)",
             "Blue Valentine (2010)",
             "The Help (2011)"
         ]
@@ -23237,7 +23445,8 @@ var actorMap = {
     },
     "Nancy Travis": {
         "movies": [
-            "Chaplin (1992)"
+            "Chaplin (1992)",
+            "The Sisterhood of the Traveling Pants (2005)"
         ]
     },
     "Naomi Ackie": {
@@ -23805,6 +24014,15 @@ var actorMap = {
             "Hairspray (2007)"
         ]
     },
+    "Nikki Reed": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
+        ]
+    },
     "Nikolaj Coster-Waldau": {
         "movies": [
             "Black Hawk Down (2001)",
@@ -23853,6 +24071,7 @@ var actorMap = {
     },
     "Noel Fisher": {
         "movies": [
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "Teenage Mutant Ninja Turtles (2014)",
             "Teenage Mutant Ninja Turtles: Out of the Shadows (2016)"
         ]
@@ -25048,7 +25267,12 @@ var actorMap = {
     },
     "Peter Facinelli": {
         "movies": [
-            "The Scorpion King (2002)"
+            "The Scorpion King (2002)",
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Peter Falk": {
@@ -25530,6 +25754,7 @@ var actorMap = {
     },
     "Rachel Brosnahan": {
         "movies": [
+            "Beautiful Creatures (2013)",
             "Spies in Disguise (2019)"
         ]
     },
@@ -25586,7 +25811,8 @@ var actorMap = {
     },
     "Rachel Ticotin": {
         "movies": [
-            "Total Recall (1990)"
+            "Total Recall (1990)",
+            "The Sisterhood of the Traveling Pants (2005)"
         ]
     },
     "Rachel Weisz": {
@@ -25613,12 +25839,19 @@ var actorMap = {
             "Fred Claus (2007)",
             "Definitely, Maybe (2008)",
             "The Brothers Bloom (2009)",
+            "The Lovely Bones (2009)",
             "Black Widow (2021)"
         ]
     },
     "Rachel Zegler": {
         "movies": [
             "West Side Story (2021)"
+        ]
+    },
+    "Rachelle Lefevre": {
+        "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)"
         ]
     },
     "Radha Mitchell": {
@@ -25641,6 +25874,7 @@ var actorMap = {
     },
     "Rafi Gavron": {
         "movies": [
+            "Nick & Norah's Infinite Playlist (2008)",
             "Inkheart (2009)",
             "A Star Is Born (2018)"
         ]
@@ -25714,6 +25948,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "Oldboy (2013)",
             "Dolittle (2020)"
         ]
@@ -25928,6 +26163,12 @@ var actorMap = {
     "Red Buttons": {
         "movies": [
             "Pete's Dragon (1977)"
+        ]
+    },
+    "Reece Ritchie": {
+        "movies": [
+            "The Lovely Bones (2009)",
+            "Hercules (2014)"
         ]
     },
     "Reese Witherspoon": {
@@ -26860,6 +27101,11 @@ var actorMap = {
     "Robert Pattinson": {
         "movies": [
             "Harry Potter and the Goblet of Fire (2005)",
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
+            "The Twilight Saga: Eclipse (2010)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)",
             "The Lost City of Z (2017)",
             "The Lost City of Z (2017)",
             "The Lighthouse (2019)",
@@ -26887,6 +27133,7 @@ var actorMap = {
             "Lions for Lambs (2007)",
             "Captain America: The Winter Soldier (2014)",
             "Pete's Dragon (2016)",
+            "Our Souls at Night (2017)",
             "Avengers: Endgame (2019)"
         ]
     },
@@ -26910,6 +27157,11 @@ var actorMap = {
     "Robert Shaw": {
         "movies": [
             "From Russia with Love (1964)"
+        ]
+    },
+    "Robert Sheehan": {
+        "movies": [
+            "The Mortal Instruments: City of Bones (2013)"
         ]
     },
     "Robert Smigel": {
@@ -27283,6 +27535,11 @@ var actorMap = {
         "movies": [
             "Scream (1996)",
             "Conan the Barbarian (2011)"
+        ]
+    },
+    "Rose McIver": {
+        "movies": [
+            "The Lovely Bones (2009)"
         ]
     },
     "Roseanne Barr": {
@@ -28043,6 +28300,9 @@ var actorMap = {
         ],
         "movies": [
             "Atonement (2007)",
+            "City of Ember (2008)",
+            "The Lovely Bones (2009)",
+            "The Host (2013)",
             "Little Women (2019)"
         ]
     },
@@ -28460,6 +28720,7 @@ var actorMap = {
     },
     "Seth Meyers": {
         "movies": [
+            "Nick & Norah's Infinite Playlist (2008)",
             "New Year's Eve (2011)"
         ]
     },
@@ -29166,6 +29427,7 @@ var actorMap = {
             "The Devil Wears Prada (2006)",
             "The Tale of Despereaux (2008)",
             "Julie & Julia (2009)",
+            "The Lovely Bones (2009)",
             "Captain America: The First Avenger (2011)",
             "The Hunger Games (2012)",
             "The Hunger Games: Catching Fire (2013)",
@@ -29606,6 +29868,7 @@ var actorMap = {
             "The Witches of Eastwick (1987)",
             "Stepmom (1998)",
             "Elizabethtown (2005)",
+            "The Lovely Bones (2009)",
             "Cloud Atlas (2012)"
         ]
     },
@@ -29842,8 +30105,13 @@ var actorMap = {
     },
     "Taylor Lautner": {
         "movies": [
+            "Twilight (2008)",
+            "The Twilight Saga: New Moon (2009)",
             "Valentine's Day (2010)",
-            "Abduction (2011)"
+            "The Twilight Saga: Eclipse (2010)",
+            "Abduction (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 1 (2011)",
+            "The Twilight Saga: Breaking Dawn \u2013 Part 2 (2012)"
         ]
     },
     "Taylor Swift": {
@@ -29905,6 +30173,7 @@ var actorMap = {
     },
     "Teresa Palmer": {
         "movies": [
+            "I Am Number Four (2011)",
             "Take Me Home Tonight (2011)"
         ]
     },
@@ -30102,6 +30371,7 @@ var actorMap = {
     "Thomas Mann": {
         "movies": [
             "Hansel & Gretel: Witch Hunters (2013)",
+            "Beautiful Creatures (2013)",
             "Kong: Skull Island (2017)"
         ]
     },
@@ -30288,6 +30558,7 @@ var actorMap = {
             "Mystic River (2003)",
             "War of the Worlds (2005)",
             "Zathura: A Space Adventure (2005)",
+            "City of Ember (2008)",
             "Green Lantern (2011)"
         ]
     },
@@ -30342,6 +30613,7 @@ var actorMap = {
             "The First Wives Club (1996)",
             "Scream 2 (1997)",
             "Dreamcatcher (2003)",
+            "I Am Number Four (2011)",
             "This Is Where I Leave You (2014)",
             "Mother's Day (2016)",
             "Missing Link (2019)"
@@ -30431,6 +30703,7 @@ var actorMap = {
         "movies": [
             "Harry Potter and the Chamber of Secrets (2002)",
             "The Mist (2007)",
+            "City of Ember (2008)",
             "Captain America: The First Avenger (2011)",
             "My Week with Marilyn (2011)",
             "The Adventures of Tintin (2011)",
@@ -30727,6 +31000,7 @@ var actorMap = {
         "movies": [
             "Meet the Parents (2000)",
             "2012 (2009)",
+            "The Lovely Bones (2009)",
             "Little Fockers (2010)"
         ]
     },
@@ -31623,6 +31897,7 @@ var actorMap = {
             "Doubt (2008)",
             "Knight and Day (2010)",
             "The Help (2011)",
+            "Beautiful Creatures (2013)",
             "Prisoners (2013)",
             "Blackhat (2015)",
             "Suicide Squad (2016)",
@@ -32181,6 +32456,7 @@ var actorMap = {
             "The Village (2004)",
             "A History of Violence (2005)",
             "The Incredible Hulk (2008)",
+            "The Host (2013)",
             "Captain America: Civil War (2016)",
             "Avengers: Infinity War (2018)",
             "Avengers: Endgame (2019)",
@@ -32586,6 +32862,7 @@ var actorMap = {
     },
     "Zoey Deutch": {
         "movies": [
+            "Beautiful Creatures (2013)",
             "Zombieland: Double Tap (2019)"
         ]
     },

@@ -21494,7 +21494,6 @@ var movieMap = {
             "Jeff Daniels",
             "John Lithgow",
             "Mary Kay Place",
-            "Mary Kay Place",
             "Shirley MacLaine"
         ]
     },
@@ -56163,7 +56162,6 @@ var movieMap = {
             "KaDee Strickland",
             "Kurtwood Smith",
             "Mary Kay Place",
-            "Mary Kay Place",
             "Vanessa Redgrave",
             "Whoopi Goldberg",
             "Winona Ryder"
@@ -63722,7 +63720,6 @@ var movieMap = {
             "Fred Ward",
             "Jean Smart",
             "Josh Lucas",
-            "Mary Kay Place",
             "Mary Kay Place",
             "Melanie Lynskey",
             "Patrick Dempsey",
@@ -72339,6 +72336,18 @@ var movieMap = {
             "2000s",
             "Coming of Age",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Alexis Bledel",
+            "Amber Tamblyn",
+            "America Ferrera",
+            "Blake Lively",
+            "Bradley Whitford",
+            "Jenna Boyd",
+            "Leonardo Nam",
+            "Mike Vogel",
+            "Nancy Travis",
+            "Rachel Ticotin"
         ]
     },
     "Cinderella Man (2005)": {
@@ -83776,6 +83785,20 @@ var movieMap = {
             "Rom-Coms",
             "Romance",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Aaron Yoo",
+            "Alexis Dziena",
+            "Andy Samberg",
+            "Ari Graynor",
+            "Eddie Kaye Thomas",
+            "Jay Baruchel",
+            "John Cho",
+            "Kat Dennings",
+            "Lorene Scafaria",
+            "Michael Cera",
+            "Rafi Gavron",
+            "Seth Meyers"
         ]
     },
     "Rachel Getting Married (2008)": {
@@ -83860,6 +83883,16 @@ var movieMap = {
             "2000s",
             "Bill Murray",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Bill Murray",
+            "Harry Treadaway",
+            "Marianne Jean-Baptiste",
+            "Martin Landau",
+            "Mary Kay Place",
+            "Saoirse Ronan",
+            "Tim Robbins",
+            "Toby Jones"
         ]
     },
     "Quarantine (2008)": {
@@ -84244,6 +84277,25 @@ var movieMap = {
             "2000s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Ashley Greene",
+            "Billy Burke",
+            "Cam Gigandet",
+            "Christian Serratos",
+            "Edi Gathegi",
+            "Elizabeth Reaser",
+            "Gil Birmingham",
+            "Jackson Rathbone",
+            "Justin Chon",
+            "Kellan Lutz",
+            "Kristen Stewart",
+            "Nikki Reed",
+            "Peter Facinelli",
+            "Rachelle Lefevre",
+            "Robert Pattinson",
+            "Taylor Lautner"
         ]
     },
     "Australia (2008)": {
@@ -87438,6 +87490,29 @@ var movieMap = {
             "2000s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Ashley Greene",
+            "Billy Burke",
+            "Cameron Bright",
+            "Christian Serratos",
+            "Dakota Fanning",
+            "Edi Gathegi",
+            "Elizabeth Reaser",
+            "Gil Birmingham",
+            "Graham Greene",
+            "Jackson Rathbone",
+            "Jamie Campbell Bower",
+            "Justin Chon",
+            "Kellan Lutz",
+            "Kristen Stewart",
+            "Michael Sheen",
+            "Nikki Reed",
+            "Peter Facinelli",
+            "Rachelle Lefevre",
+            "Robert Pattinson",
+            "Taylor Lautner"
         ]
     },
     "Me and Orson Welles (2009)": {
@@ -87643,6 +87718,18 @@ var movieMap = {
             "Stanley Tucci",
             "Thriller",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Jake Abel",
+            "Mark Wahlberg",
+            "Michael Imperioli",
+            "Rachel Weisz",
+            "Reece Ritchie",
+            "Rose McIver",
+            "Saoirse Ronan",
+            "Stanley Tucci",
+            "Susan Sarandon",
+            "Tom McCarthy"
         ]
     },
     "The Princess and the Frog (2009)": {
@@ -89367,6 +89454,23 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Ashley Greene",
+            "Billy Burke",
+            "Bryce Dallas Howard",
+            "Cameron Bright",
+            "Catalina Sandino Moreno",
+            "Dakota Fanning",
+            "Elizabeth Reaser",
+            "Jackson Rathbone",
+            "Kellan Lutz",
+            "Kristen Stewart",
+            "Nikki Reed",
+            "Peter Facinelli",
+            "Robert Pattinson",
+            "Taylor Lautner"
         ]
     },
     "The Last Airbender (2010)": {
@@ -91491,6 +91595,16 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Alex Pettyfer",
+            "Callan McAuliffe",
+            "Dianna Agron",
+            "Jake Abel",
+            "Judith Hoag",
+            "Kevin Durand",
+            "Teresa Palmer",
+            "Timothy Olyphant"
         ]
     },
     "Unknown (2011)": {
@@ -94209,6 +94323,28 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Ashley Greene",
+            "Billy Burke",
+            "Booboo Stewart",
+            "Christian Serratos",
+            "Elizabeth Reaser",
+            "Gil Birmingham",
+            "Jackson Rathbone",
+            "Jamie Campbell Bower",
+            "Julia Jones",
+            "Justin Chon",
+            "Kellan Lutz",
+            "Kristen Stewart",
+            "Mackenzie Foy",
+            "Maggie Grace",
+            "Michael Sheen",
+            "Nikki Reed",
+            "Peter Facinelli",
+            "Robert Pattinson",
+            "Taylor Lautner"
         ]
     },
     "Arthur Christmas (2011)": {
@@ -97515,6 +97651,29 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Ashley Greene",
+            "Billy Burke",
+            "Booboo Stewart",
+            "Cameron Bright",
+            "Dakota Fanning",
+            "Elizabeth Reaser",
+            "Jackson Rathbone",
+            "Jamie Campbell Bower",
+            "Julia Jones",
+            "Kellan Lutz",
+            "Kristen Stewart",
+            "Lee Pace",
+            "Mackenzie Foy",
+            "Maggie Grace",
+            "Michael Sheen",
+            "Nikki Reed",
+            "Noel Fisher",
+            "Peter Facinelli",
+            "Rami Malek",
+            "Robert Pattinson",
+            "Taylor Lautner"
         ]
     },
     "Life of Pi (2012)": {
@@ -97703,6 +97862,7 @@ var movieMap = {
             "Middle-earth"
         ],
         "cast": [
+            "Aidan Turner",
             "Andy Serkis",
             "Benedict Cumberbatch",
             "Cate Blanchett",
@@ -98312,6 +98472,19 @@ var movieMap = {
             "2010s",
             "Viola Davis",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Alden Ehrenreich",
+            "Alice Englert",
+            "Emma Thompson",
+            "Emmy Rossum",
+            "Jeremy Irons",
+            "Kyle Gallner",
+            "Margo Martindale",
+            "Rachel Brosnahan",
+            "Thomas Mann",
+            "Viola Davis",
+            "Zoey Deutch"
         ]
     },
     "Snitch (2013)": {
@@ -98611,6 +98784,18 @@ var movieMap = {
             "2010s",
             "Fantasy/Sci-Fi",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Alex Russell",
+            "Bokeem Woodbine",
+            "Boyd Holbrook",
+            "Diane Kruger",
+            "Emily Browning",
+            "Frances Fisher",
+            "Jake Abel",
+            "Max Irons",
+            "Saoirse Ronan",
+            "William Hurt"
         ]
     },
     "The Place Beyond the Pines (2013)": {
@@ -99475,6 +99660,7 @@ var movieMap = {
         "cast": [
             "Armie Hammer",
             "Barry Pepper",
+            "Harry Treadaway",
             "Helena Bonham Carter",
             "James Badge Dale",
             "Johnny Depp",
@@ -100093,6 +100279,16 @@ var movieMap = {
         "categories": [
             "2010s",
             "Young Adult Adaptations"
+        ],
+        "cast": [
+            "Aidan Turner",
+            "Jamie Campbell Bower",
+            "Jared Harris",
+            "Jonathan Rhys Meyers",
+            "Kevin Durand",
+            "Lena Headey",
+            "Lily Collins",
+            "Robert Sheehan"
         ]
     },
     "The World's End (2013)": {
@@ -101231,6 +101427,7 @@ var movieMap = {
             "Middle-earth"
         ],
         "cast": [
+            "Aidan Turner",
             "Benedict Cumberbatch",
             "Cate Blanchett",
             "Evangeline Lilly",
@@ -103330,6 +103527,7 @@ var movieMap = {
             "John Hurt",
             "Joseph Fiennes",
             "Rebecca Ferguson",
+            "Reece Ritchie",
             "Rufus Sewell"
         ]
     },
@@ -104996,6 +105194,7 @@ var movieMap = {
             "Middle-earth"
         ],
         "cast": [
+            "Aidan Turner",
             "Benedict Cumberbatch",
             "Billy Connolly",
             "Cate Blanchett",
@@ -116131,6 +116330,14 @@ var movieMap = {
             "2010s",
             "Paul Newman & Robert Redford",
             "Streaming"
+        ],
+        "cast": [
+            "Bruce Dern",
+            "Iain Armitage",
+            "Jane Fonda",
+            "Judy Greer",
+            "Matthias Schoenaerts",
+            "Robert Redford"
         ]
     },
     "Better Watch Out (2017)": {
