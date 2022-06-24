@@ -36174,6 +36174,17 @@ var movieMap = {
             "1990s",
             "Comedies",
             "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Adrienne-Joi Johnson",
+            "Bill Nunn",
+            "Ellen Albertini Dow",
+            "Harvey Keitel",
+            "Jenifer Lewis",
+            "Kathy Najimy",
+            "Maggie Smith",
+            "Wendy Makkena",
+            "Whoopi Goldberg"
         ]
     },
     "Class Act (1992)": {
@@ -39847,6 +39858,19 @@ var movieMap = {
         "categories": [
             "1990s",
             "Comedies",
+            "Whoopi Goldberg"
+        ],
+        "cast": [
+            "Alanna Ubach",
+            "James Coburn",
+            "Jennifer Love Hewitt",
+            "Kathy Najimy",
+            "Lauryn Hill",
+            "Maggie Smith",
+            "Michael Jeter",
+            "Monica Calhoun",
+            "Sheryl Lee Ralph",
+            "Wendy Makkena",
             "Whoopi Goldberg"
         ]
     },
@@ -81193,6 +81217,24 @@ var movieMap = {
             "2000s",
             "Fantasy/Sci-Fi",
             "Nicole Kidman"
+        ],
+        "cast": [
+            "Christopher Lee",
+            "Clare Higgins",
+            "Dakota Blue Richards",
+            "Daniel Craig",
+            "Derek Jacobi",
+            "Eva Green",
+            "Freddie Highmore",
+            "Ian McKellen",
+            "Ian McShane",
+            "Jim Carter",
+            "Kathy Bates",
+            "Kristin Scott Thomas",
+            "Magda Szubanski",
+            "Nicole Kidman",
+            "Sam Elliott",
+            "Tom Courtenay"
         ]
     },
     "The Perfect Holiday (2007)": {

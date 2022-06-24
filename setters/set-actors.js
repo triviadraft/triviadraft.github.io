@@ -319,6 +319,7 @@ var actorMap = {
     },
     "Adrienne-Joi Johnson": {
         "movies": [
+            "Sister Act (1992)",
             "Baby Boy (2001)"
         ]
     },
@@ -593,6 +594,7 @@ var actorMap = {
     },
     "Alanna Ubach": {
         "movies": [
+            "Sister Act 2: Back in the Habit (1993)",
             "Meet the Fockers (2004)",
             "Coco (2017)"
         ]
@@ -3158,6 +3160,7 @@ var actorMap = {
     },
     "Bill Nunn": {
         "movies": [
+            "Sister Act (1992)",
             "National Lampoon's Loaded Weapon 1 (1993)",
             "Bulletproof (1996)",
             "He Got Game (1998)",
@@ -5693,6 +5696,7 @@ var actorMap = {
             "Star Wars: Episode III \u2013 Revenge of the Sith (2005)",
             "Charlie and the Chocolate Factory (2005)",
             "Corpse Bride (2005)",
+            "The Golden Compass (2007)",
             "Star Wars: The Clone Wars (2008)",
             "Alice in Wonderland (2010)",
             "Dark Shadows (2012)",
@@ -5887,6 +5891,11 @@ var actorMap = {
             "Hail, Caesar! (2016)",
             "Thor: Ragnarok (2017)",
             "Promising Young Woman (2020)"
+        ]
+    },
+    "Clare Higgins": {
+        "movies": [
+            "The Golden Compass (2007)"
         ]
     },
     "Clark Duke": {
@@ -6471,6 +6480,11 @@ var actorMap = {
             "Star Wars: The Rise of Skywalker (2019)"
         ]
     },
+    "Dakota Blue Richards": {
+        "movies": [
+            "The Golden Compass (2007)"
+        ]
+    },
     "Dakota Fanning": {
         "movies": [
             "I Am Sam (2001)",
@@ -6648,6 +6662,7 @@ var actorMap = {
     "Daniel Craig": {
         "movies": [
             "Road to Perdition (2002)",
+            "The Golden Compass (2007)",
             "Cowboys & Aliens (2011)",
             "The Adventures of Tintin (2011)",
             "Star Wars: The Force Awakens (2015)",
@@ -7664,6 +7679,7 @@ var actorMap = {
     "Derek Jacobi": {
         "movies": [
             "Hamlet (1996)",
+            "The Golden Compass (2007)",
             "The King's Speech (2010)",
             "My Week with Marilyn (2011)",
             "Cinderella (2015)",
@@ -8989,6 +9005,7 @@ var actorMap = {
     "Ellen Albertini Dow": {
         "movies": [
             "Memoirs of an Invisible Man (1992)",
+            "Sister Act (1992)",
             "The Wedding Singer (1998)",
             "Wedding Crashers (2005)"
         ]
@@ -9631,6 +9648,7 @@ var actorMap = {
     "Eva Green": {
         "movies": [
             "Kingdom of Heaven (2005)",
+            "The Golden Compass (2007)",
             "Dark Shadows (2012)",
             "300: Rise of an Empire (2014)",
             "Sin City: A Dame to Kill For (2014)"
@@ -10238,7 +10256,8 @@ var actorMap = {
     },
     "Freddie Highmore": {
         "movies": [
-            "Charlie and the Chocolate Factory (2005)"
+            "Charlie and the Chocolate Factory (2005)",
+            "The Golden Compass (2007)"
         ]
     },
     "Freddie Prinze Jr.": {
@@ -11593,6 +11612,7 @@ var actorMap = {
         ],
         "movies": [
             "Bugsy (1991)",
+            "Sister Act (1992)",
             "From Dusk till Dawn (1996)",
             "Little Fockers (2010)"
         ]
@@ -12235,6 +12255,7 @@ var actorMap = {
             "The Lord of the Rings: The Return of the King (2003)",
             "X-Men: The Last Stand (2006)",
             "Flushed Away (2006)",
+            "The Golden Compass (2007)",
             "The Hobbit: An Unexpected Journey (2012)",
             "The Wolverine (2013)",
             "The Hobbit: The Desolation of Smaug (2013)",
@@ -12247,6 +12268,7 @@ var actorMap = {
     "Ian McShane": {
         "movies": [
             "Hot Rod (2007)",
+            "The Golden Compass (2007)",
             "Kung Fu Panda (2008)",
             "Death Race (2008)",
             "Pirates of the Caribbean: On Stranger Tides (2011)",
@@ -13220,6 +13242,7 @@ var actorMap = {
         ],
         "movies": [
             "Charade (1963)",
+            "Sister Act 2: Back in the Habit (1993)",
             "Maverick (1994)",
             "Monsters, Inc. (2001)"
         ]
@@ -14389,6 +14412,7 @@ var actorMap = {
     },
     "Jenifer Lewis": {
         "movies": [
+            "Sister Act (1992)",
             "Mystery Men (1999)",
             "Cars (2006)",
             "Cars 2 (2011)",
@@ -14592,6 +14616,7 @@ var actorMap = {
     },
     "Jennifer Love Hewitt": {
         "movies": [
+            "Sister Act 2: Back in the Habit (1993)",
             "I Know What You Did Last Summer (1997)",
             "I Still Know What You Did Last Summer (1998)",
             "Heartbreakers (2001)",
@@ -15095,6 +15120,7 @@ var actorMap = {
     "Jim Carter": {
         "movies": [
             "Shakespeare in Love (1998)",
+            "The Golden Compass (2007)",
             "Alice in Wonderland (2010)",
             "Transformers: The Last Knight (2017)"
         ]
@@ -17898,6 +17924,7 @@ var actorMap = {
             "Rumor Has It (2005)",
             "Failure to Launch (2006)",
             "Fred Claus (2007)",
+            "The Golden Compass (2007)",
             "Valentine's Day (2010)"
         ]
     },
@@ -17909,7 +17936,9 @@ var actorMap = {
     "Kathy Najimy": {
         "movies": [
             "This Is My Life (1992)",
+            "Sister Act (1992)",
             "Hocus Pocus (1993)",
+            "Sister Act 2: Back in the Habit (1993)",
             "WALL-E (2008)",
             "The Guilt Trip (2012)"
         ]
@@ -18778,6 +18807,7 @@ var actorMap = {
         ],
         "movies": [
             "Mission: Impossible (1996)",
+            "The Golden Compass (2007)",
             "The Other Boleyn Girl (2008)"
         ]
     },
@@ -19235,6 +19265,11 @@ var actorMap = {
             "Toy Story 2 (1999)",
             "Toy Story 3 (2010)",
             "Toy Story 4 (2019)"
+        ]
+    },
+    "Lauryn Hill": {
+        "movies": [
+            "Sister Act 2: Back in the Habit (1993)"
         ]
     },
     "Laverne Cox": {
@@ -20396,7 +20431,8 @@ var actorMap = {
     },
     "Magda Szubanski": {
         "movies": [
-            "Son of the Mask (2005)"
+            "Son of the Mask (2005)",
+            "The Golden Compass (2007)"
         ]
     },
     "Maggie Grace": {
@@ -20467,6 +20503,8 @@ var actorMap = {
         ],
         "movies": [
             "Hook (1991)",
+            "Sister Act (1992)",
+            "Sister Act 2: Back in the Habit (1993)",
             "The First Wives Club (1996)",
             "Harry Potter and the Sorcerer's Stone (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
@@ -22519,6 +22557,7 @@ var actorMap = {
     },
     "Michael Jeter": {
         "movies": [
+            "Sister Act 2: Back in the Habit (1993)",
             "Waterworld (1995)",
             "The Green Mile (1999)",
             "Jurassic Park III (2001)"
@@ -23275,6 +23314,7 @@ var actorMap = {
     },
     "Monica Calhoun": {
         "movies": [
+            "Sister Act 2: Back in the Habit (1993)",
             "The Best Man (1999)",
             "The Best Man Holiday (2013)"
         ]
@@ -23977,6 +24017,7 @@ var actorMap = {
             "The Hours (2002)",
             "Cold Mountain (2003)",
             "Bewitched (2005)",
+            "The Golden Compass (2007)",
             "Nine (2009)",
             "Just Go with It (2011)",
             "Aquaman (2018)"
@@ -28003,6 +28044,7 @@ var actorMap = {
             "Tombstone (1993)",
             "Hulk (2003)",
             "Ghost Rider (2007)",
+            "The Golden Compass (2007)",
             "The Good Dinosaur (2015)",
             "A Star Is Born (2018)"
         ]
@@ -28916,6 +28958,11 @@ var actorMap = {
     "Sheryl Lee": {
         "movies": [
             "Wild at Heart (1990)"
+        ]
+    },
+    "Sheryl Lee Ralph": {
+        "movies": [
+            "Sister Act 2: Back in the Habit (1993)"
         ]
     },
     "Shia LaBeouf": {
@@ -30773,6 +30820,11 @@ var actorMap = {
             "Born on the Fourth of July (1989)"
         ]
     },
+    "Tom Courtenay": {
+        "movies": [
+            "The Golden Compass (2007)"
+        ]
+    },
     "Tom Cruise": {
         "leadNoms": [
             {
@@ -32124,6 +32176,12 @@ var actorMap = {
             "The Elephant Man (1980)"
         ]
     },
+    "Wendy Makkena": {
+        "movies": [
+            "Sister Act (1992)",
+            "Sister Act 2: Back in the Habit (1993)"
+        ]
+    },
     "Wendy Williams": {
         "movies": [
             "Think Like a Man (2012)",
@@ -32191,7 +32249,9 @@ var actorMap = {
         ],
         "movies": [
             "Jumpin' Jack Flash (1986)",
+            "Sister Act (1992)",
             "National Lampoon's Loaded Weapon 1 (1993)",
+            "Sister Act 2: Back in the Habit (1993)",
             "The Lion King (1994)",
             "Star Trek Generations (1994)",
             "The Pagemaster (1994)",
