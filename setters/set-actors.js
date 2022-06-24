@@ -502,6 +502,11 @@ var actorMap = {
             "Firewall (2006)"
         ]
     },
+    "Alan Bates": {
+        "movies": [
+            "Gosford Park (2001)"
+        ]
+    },
     "Alan Cox": {
         "movies": [
             "Young Sherlock Holmes (1985)"
@@ -3387,6 +3392,7 @@ var actorMap = {
     "Bob Balaban": {
         "movies": [
             "Ghost World (2001)",
+            "Gosford Park (2001)",
             "Lady in the Water (2006)"
         ]
     },
@@ -4953,6 +4959,7 @@ var actorMap = {
             "Alien 3 (1992)",
             "Last Action Hero (1993)",
             "Michael Collins (1996)",
+            "Gosford Park (2001)",
             "The Imitation Game (2014)",
             "Victor Frankenstein (2015)",
             "Ghostbusters (2016)",
@@ -6043,6 +6050,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Gosford Park (2001)",
             "Closer (2004)",
             "Sin City (2005)",
             "Inside Man (2006)"
@@ -7679,6 +7687,7 @@ var actorMap = {
     "Derek Jacobi": {
         "movies": [
             "Hamlet (1996)",
+            "Gosford Park (2001)",
             "The Golden Compass (2007)",
             "The King's Speech (2010)",
             "My Week with Marilyn (2011)",
@@ -9265,6 +9274,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Gosford Park (2001)",
             "Punch-Drunk Love (2002)",
             "Corpse Bride (2005)",
             "The Theory of Everything (2014)",
@@ -11799,6 +11809,7 @@ var actorMap = {
         ],
         "movies": [
             "The Prince of Egypt (1998)",
+            "Gosford Park (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "Inkheart (2009)",
             "Red (2010)",
@@ -14708,7 +14719,8 @@ var actorMap = {
     },
     "Jeremy Northam": {
         "movies": [
-            "Amistad (1997)"
+            "Amistad (1997)",
+            "Gosford Park (2001)"
         ]
     },
     "Jeremy Piven": {
@@ -18122,6 +18134,7 @@ var actorMap = {
     },
     "Kelly Macdonald": {
         "movies": [
+            "Gosford Park (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "No Country for Old Men (2007)",
             "Harry Potter and the Deathly Hallows \u2013 Part 2 (2011)",
@@ -18807,6 +18820,7 @@ var actorMap = {
         ],
         "movies": [
             "Mission: Impossible (1996)",
+            "Gosford Park (2001)",
             "The Golden Compass (2007)",
             "The Other Boleyn Girl (2008)"
         ]
@@ -20507,6 +20521,7 @@ var actorMap = {
             "Sister Act 2: Back in the Habit (1993)",
             "The First Wives Club (1996)",
             "Harry Potter and the Sorcerer's Stone (2001)",
+            "Gosford Park (2001)",
             "Harry Potter and the Chamber of Secrets (2002)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
@@ -22474,6 +22489,7 @@ var actorMap = {
             "Toys (1992)",
             "Mary Reilly (1996)",
             "Sleepy Hollow (1999)",
+            "Gosford Park (2001)",
             "Harry Potter and the Prisoner of Azkaban (2004)",
             "Harry Potter and the Goblet of Fire (2005)",
             "Harry Potter and the Order of the Phoenix (2007)",
@@ -26519,6 +26535,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "Gosford Park (2001)",
             "Corpse Bride (2005)",
             "About Time (2013)",
             "Logan (2017)",
@@ -27860,6 +27877,7 @@ var actorMap = {
         "movies": [
             "I Know What You Did Last Summer (1997)",
             "Cruel Intentions (1999)",
+            "Gosford Park (2001)",
             "Crash (2005)",
             "MacGruber (2010)"
         ]
@@ -29580,6 +29598,7 @@ var actorMap = {
     },
     "Stephen Fry": {
         "movies": [
+            "Gosford Park (2001)",
             "The Hitchhiker's Guide to the Galaxy (2005)",
             "V for Vendetta (2006)",
             "Alice in Wonderland (2010)",
@@ -31026,6 +31045,7 @@ var actorMap = {
     },
     "Tom Hollander": {
         "movies": [
+            "Gosford Park (2001)",
             "Pirates of the Caribbean: Dead Man's Chest (2006)",
             "Pirates of the Caribbean: At World's End (2007)",
             "Valkyrie (2008)",

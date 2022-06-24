@@ -61609,6 +61609,24 @@ var movieMap = {
         "categories": [
             "2000s",
             "Mystery"
+        ],
+        "cast": [
+            "Alan Bates",
+            "Bob Balaban",
+            "Charles Dance",
+            "Clive Owen",
+            "Derek Jacobi",
+            "Emily Watson",
+            "Helen Mirren",
+            "Jeremy Northam",
+            "Kelly Macdonald",
+            "Kristin Scott Thomas",
+            "Maggie Smith",
+            "Michael Gambon",
+            "Richard E. Grant",
+            "Ryan Phillippe",
+            "Stephen Fry",
+            "Tom Hollander"
         ]
     },
     "Monster's Ball (2001)": {
