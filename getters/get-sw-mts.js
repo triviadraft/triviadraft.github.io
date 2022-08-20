@@ -4,7 +4,9 @@ function getFilteredList(list, filterVal) {
     } else if (filterVal === 'Original Trilogy') {
         return list.filter((item) => item['category'] === 'A New Hope' || item['category'] === 'The Empire Strikes Back' || item['category'] === 'Return of the Jedi');
     } else if (filterVal === 'Prequel Trilogy') {
-        return list.filter((item) => item['category'] === 'The Phantom Menace' || item['category'] === 'Attack of the Clones' || item['category'] === 'Revenge of the Sith');
+        return list.filter((item) => item['category'] === 'The Phantom Menace' || item['category'] === 'Attack of the Clones' || item['category'] === 'Revenge of the Sith'); 
+    } else if (filterVal === 'Quotes') {
+        return list.filter((item) => item['category'] === 'Who Said It?');
     } else if (filterVal === 'Sequel Trilogy') {
         return list.filter((item) => item['category'] === 'The Force Awakens' || item['category'] === 'A Last Jedi' || item['category'] === 'The Rise of Skywalker');
     } else if (filterVal === 'Vehicles & Weapons') {
