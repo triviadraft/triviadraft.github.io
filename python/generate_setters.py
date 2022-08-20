@@ -136,6 +136,21 @@ def generate_jsons():
 
     set_mts_variable('setters/set-ig-mts.js', ig_mts_question_dict)
 
+    sw_mts_question_dict = {}
+    sw_mts_question_dict['questions'] = []
+    with open(r'python/csv/MTS History - SW.csv', encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
+        for row in csvReader:
+            if row['Movies'] != 'N/A':
+                single_question_dict = {
+                    'question': row['Question'],
+                    'answer': row['Answer'],
+                    'category': row['Category']
+                }
+                sw_mts_question_dict['questions'].append(single_question_dict)
+
+    set_mts_variable('setters/set-sw-mts.js', sw_mts_question_dict)
+
 
     # director data
     director_dict = {}
