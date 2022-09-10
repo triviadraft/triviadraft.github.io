@@ -3105,6 +3105,7 @@ var actorMap = {
             "Tropic Thunder (2008)",
             "Scott Pilgrim vs. the World (2010)",
             "Men in Black 3 (2012)",
+            "Star Trek Into Darkness (2013)",
             "Monsters University (2013)",
             "Her (2013)",
             "Inside Out (2015)",
@@ -5064,6 +5065,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Cider House Rules (1999)",
             "The Road (2009)",
             "Snow White and the Huntsman (2012)",
             "Prometheus (2012)",
@@ -7502,6 +7504,7 @@ var actorMap = {
     },
     "Delroy Lindo": {
         "movies": [
+            "The Cider House Rules (1999)",
             "Sahara (2005)",
             "Up (2009)",
             "Da 5 Bloods (2020)"
@@ -9558,6 +9561,7 @@ var actorMap = {
     },
     "Erykah Badu": {
         "movies": [
+            "The Cider House Rules (1999)",
             "What Men Want (2019)"
         ]
     },
@@ -12631,6 +12635,7 @@ var actorMap = {
         ],
         "movies": [
             "The First Wives Club (1996)",
+            "The Cider House Rules (1999)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",
@@ -13699,6 +13704,7 @@ var actorMap = {
         "movies": [
             "Kramer vs. Kramer (1979)",
             "Glory (1989)",
+            "The Cider House Rules (1999)",
             "Terminator Salvation (2009)"
         ]
     },
@@ -17667,7 +17673,8 @@ var actorMap = {
             }
         ],
         "movies": [
-            "The Prince of Tides (1991)"
+            "The Prince of Tides (1991)",
+            "The Cider House Rules (1999)"
         ]
     },
     "Kate Walsh": {
@@ -17896,6 +17903,7 @@ var actorMap = {
     },
     "Kathy Baker": {
         "movies": [
+            "The Cider House Rules (1999)",
             "Cold Mountain (2003)",
             "Saving Mr. Banks (2013)"
         ]
@@ -18558,6 +18566,7 @@ var actorMap = {
     },
     "Kieran Culkin": {
         "movies": [
+            "The Cider House Rules (1999)",
             "Scott Pilgrim vs. the World (2010)",
             "Movie 43 (2013)"
         ]
@@ -22339,6 +22348,7 @@ var actorMap = {
             }
         ],
         "movies": [
+            "The Cider House Rules (1999)",
             "Austin Powers in Goldmember (2002)",
             "Batman Begins (2005)",
             "Bewitched (2005)",
@@ -24982,6 +24992,7 @@ var actorMap = {
     "Paul Rudd": {
         "movies": [
             "Clueless (1995)",
+            "The Cider House Rules (1999)",
             "Knocked Up (2007)",
             "Forgetting Sarah Marshall (2008)",
             "I Love You, Man (2009)",
@@ -30760,6 +30771,7 @@ var actorMap = {
     },
     "Tobey Maguire": {
         "movies": [
+            "The Cider House Rules (1999)",
             "Spider-Man (2002)",
             "Spider-Man 2 (2004)",
             "Spider-Man 3 (2007)",

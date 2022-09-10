@@ -83,6 +83,12 @@ var swCharacterMap = {
         "species": "Togruta",
         "actor": "Ashley Eckstein (voice)"
     },
+    "Ainlee Teem": {
+        "name": "Ainlee Teem",
+        "homeworld": "Malastare",
+        "species": "Gran",
+        "actor": ""
+    },
     "Aks Moe": {
         "name": "Aks Moe",
         "homeworld": "Malastare",
@@ -227,6 +233,12 @@ var swCharacterMap = {
         "species": "Zabrak (Dathomirian)",
         "actor": "Nika Futterman (voice)"
     },
+    "Ashla": {
+        "name": "Ashla",
+        "homeworld": "",
+        "species": "Togruta",
+        "actor": ""
+    },
     "Ask Aak": {
         "name": "Ask Aak",
         "homeworld": "Malastare",
@@ -256,6 +268,12 @@ var swCharacterMap = {
         "homeworld": "Kijimi",
         "species": "Anzellan",
         "actor": "Shirley Henderson (voice)"
+    },
+    "Bail Antilles": {
+        "name": "Bail Antilles",
+        "homeworld": "Alderaan",
+        "species": "Human",
+        "actor": ""
     },
     "Bail Prestor Organa": {
         "name": "Bail Prestor Organa",

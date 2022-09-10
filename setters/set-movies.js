@@ -56940,6 +56940,19 @@ var movieMap = {
             "Charlize Theron",
             "Dramas",
             "Frat Pack"
+        ],
+        "cast": [
+            "Charlize Theron",
+            "Delroy Lindo",
+            "Erykah Badu",
+            "J. K. Simmons",
+            "Jane Alexander",
+            "Kate Nelligan",
+            "Kathy Baker",
+            "Kieran Culkin",
+            "Michael Caine",
+            "Paul Rudd",
+            "Tobey Maguire"
         ]
     },
     "The Green Mile (1999)": {
@@ -100342,6 +100355,7 @@ var movieMap = {
             "Alice Eve",
             "Anton Yelchin",
             "Benedict Cumberbatch",
+            "Bill Hader",
             "Bruce Greenwood",
             "Chris Pine",
             "Heather Langenkamp",

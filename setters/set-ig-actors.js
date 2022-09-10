@@ -1710,6 +1710,9 @@ var igActorMap = {
             "Men in Black": [
                 "Men in Black 3 (2012)"
             ],
+            "Star Trek": [
+                "Star Trek Into Darkness (2013)"
+            ],
             "Power Rangers": [
                 "Power Rangers (2017)"
             ]
