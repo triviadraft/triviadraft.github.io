@@ -269,6 +269,10 @@ var directorMap = {
             "year": "1948"
         },
         {
+            "movie": "Under Capricorn",
+            "year": "1949"
+        },
+        {
             "movie": "Stage Fright",
             "year": "1950"
         },
@@ -482,6 +486,10 @@ var directorMap = {
         }
     ],
     "Antoine Fuqua": [
+        {
+            "movie": "The Replacement Killers",
+            "year": "1998"
+        },
         {
             "movie": "Bait",
             "year": "2000"
@@ -739,6 +747,10 @@ var directorMap = {
         {
             "movie": "Sling Blade",
             "year": "1996"
+        },
+        {
+            "movie": "All the Pretty Horses",
+            "year": "2000"
         }
     ],
     "Billy Wilder": [
@@ -1060,6 +1072,10 @@ var directorMap = {
         }
     ],
     "Catherine Hardwicke": [
+        {
+            "movie": "Lords of Dogtown",
+            "year": "2005"
+        },
         {
             "movie": "The Nativity Story",
             "year": "2006"
@@ -1867,6 +1883,12 @@ var directorMap = {
             "year": "2021"
         }
     ],
+    "Don Cheadle": [
+        {
+            "movie": "Miles Ahead",
+            "year": "2016"
+        }
+    ],
     "Doug Liman": [
         {
             "movie": "Swingers",
@@ -2653,12 +2675,20 @@ var directorMap = {
             "year": "1979"
         },
         {
+            "movie": "Knightriders",
+            "year": "1981"
+        },
+        {
             "movie": "Creepshow",
             "year": "1982"
         },
         {
             "movie": "Day of the Dead",
             "year": "1985"
+        },
+        {
+            "movie": "Monkey Shines",
+            "year": "1988"
         },
         {
             "movie": "The Dark Half",
@@ -3981,6 +4011,48 @@ var directorMap = {
             "year": "1964"
         }
     ],
+    "John G. Avildsen": [
+        {
+            "movie": "Save the Tiger",
+            "year": "1973"
+        },
+        {
+            "movie": "Rocky",
+            "year": "1976"
+        },
+        {
+            "movie": "Neighbors",
+            "year": "1981"
+        },
+        {
+            "movie": "The Karate Kid",
+            "year": "1984"
+        },
+        {
+            "movie": "The Karate Kid Part II",
+            "year": "1986"
+        },
+        {
+            "movie": "Happy New Year",
+            "year": "1987"
+        },
+        {
+            "movie": "Lean on Me",
+            "year": "1989"
+        },
+        {
+            "movie": "The Karate Kid Part III",
+            "year": "1989"
+        },
+        {
+            "movie": "Rocky V",
+            "year": "1990"
+        },
+        {
+            "movie": "8 Seconds",
+            "year": "1994"
+        }
+    ],
     "John Hughes": [
         {
             "movie": "Sixteen Candles",
@@ -4831,6 +4903,10 @@ var directorMap = {
     ],
     "M. Night Shyamalan": [
         {
+            "movie": "Wide Awake",
+            "year": "1998"
+        },
+        {
             "movie": "The Sixth Sense",
             "year": "1999"
         },
@@ -4876,6 +4952,12 @@ var directorMap = {
         },
         {
             "movie": "Old",
+            "year": "2021"
+        }
+    ],
+    "Maggie Gyllenhaal": [
+        {
+            "movie": "The Lost Daughter",
             "year": "2021"
         }
     ],
@@ -5495,6 +5577,16 @@ var directorMap = {
         {
             "movie": "Hellboy",
             "year": "2019"
+        }
+    ],
+    "Nick Castle": [
+        {
+            "movie": "Dennis the Menace",
+            "year": "1993"
+        },
+        {
+            "movie": "Major Payne",
+            "year": "1995"
         }
     ],
     "Nicolas Cage": [
@@ -7051,6 +7143,10 @@ var directorMap = {
             "year": "1980"
         },
         {
+            "movie": "Under Fire",
+            "year": "1983"
+        },
+        {
             "movie": "The Best of Times",
             "year": "1986"
         },
@@ -7359,6 +7455,10 @@ var directorMap = {
         {
             "movie": "Oz the Great and Powerful",
             "year": "2013"
+        },
+        {
+            "movie": "Doctor Strange in the Multiverse of Madness",
+            "year": "2022"
         }
     ],
     "Sean Penn": [

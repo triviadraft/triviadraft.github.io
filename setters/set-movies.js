@@ -755,6 +755,27 @@ var movieMap = {
             "Crime"
         ]
     },
+    "Grand Hotel (1932)": {
+        "title": "Grand Hotel",
+        "year": "1932",
+        "synopsis": "In Berlin, at a luxurious hotel, Baron Felix is poor, Russian ballerina Grusinskaya's career is waning, and stenographer Flaemmchen dreams of acting.",
+        "directors": [
+            "Edmund Goulding"
+        ],
+        "leads": [
+            "Greta Garbo",
+            "John Barrymore",
+            "Joan Crawford"
+        ],
+        "music": [
+            "William Axt",
+            "Charles Maxwell"
+        ],
+        "categories": [
+            "Barrymore Family",
+            "Classics"
+        ]
+    },
     "American Madness (1932)": {
         "title": "American Madness",
         "year": "1932",
@@ -812,7 +833,30 @@ var movieMap = {
         ],
         "categories": [
             "Classics",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Monster"
+        ]
+    },
+    "Cavalcade (1933)": {
+        "title": "Cavalcade",
+        "year": "1933",
+        "synopsis": "From 1899 to 1933, London residents Robert and Jane, their children, friends, and servants witness several big historical events that affect their lives.",
+        "directors": [
+            "Frank Lloyd"
+        ],
+        "leads": [
+            "Diana Wynyard",
+            "Clive Brook",
+            "Una O'Connor"
+        ],
+        "music": [
+            "Peter Brunelli",
+            "Louis De Francesco",
+            "Arthur Lange",
+            "J. S. Zamecnik"
+        ],
+        "categories": [
+            "Classics"
         ]
     },
     "The Bitter Tea of General Yen (1933)": {
@@ -1067,6 +1111,25 @@ var movieMap = {
             "Mystery"
         ]
     },
+    "Imitation of Life (1934)": {
+        "title": "Imitation of Life",
+        "year": "1934",
+        "synopsis": "Widow Bea and her daughter Jessie take in black housekeeper Delilah and her white-looking child Peola. They start a successful pancake business.",
+        "directors": [
+            "John M. Stahl"
+        ],
+        "leads": [
+            "Claudette Colbert",
+            "Warren William",
+            "Rochelle Hudson"
+        ],
+        "music": [
+            "Heinz Roemheld"
+        ],
+        "categories": [
+            "Classics"
+        ]
+    },
     "Broadway Bill (1934)": {
         "title": "Broadway Bill",
         "year": "1934",
@@ -1190,6 +1253,26 @@ var movieMap = {
         "categories": [
             "Classics",
             "Dance"
+        ]
+    },
+    "Mutiny on the Bounty (1935)": {
+        "title": "Mutiny on the Bounty",
+        "year": "1935",
+        "synopsis": "In 1787, a merchant vessel sets sail from England to Tahiti. After Captain Bligh abuses his crew, first mate Christian heads a revolt and sets him adrift.",
+        "directors": [
+            "Frank Lloyd"
+        ],
+        "leads": [
+            "Charles Laughton",
+            "Clark Gable",
+            "Franchot Tone"
+        ],
+        "music": [
+            "Herbert Stothart",
+            "Nat W. Finston"
+        ],
+        "categories": [
+            "Classics"
         ]
     },
     "A Night at the Opera (1935)": {
@@ -1507,6 +1590,25 @@ var movieMap = {
             "Walter Jurmann",
             "Bronislau Kaper",
             "Franz Waxman"
+        ],
+        "categories": [
+            "Classics"
+        ]
+    },
+    "The Life of Emile Zola (1937)": {
+        "title": "The Life of Emile Zola",
+        "year": "1937",
+        "synopsis": "French muckraking writer \u00c9mile befriends painter C\u00e9zanne and rises in fame. He fights the injustice of the Dreyfus Affair, proclaiming a Jew innocent.",
+        "directors": [
+            "William Dieterle"
+        ],
+        "leads": [
+            "Paul Muni",
+            "Gloria Holden",
+            "Gale Sondergaard"
+        ],
+        "music": [
+            "Max Steiner"
         ],
         "categories": [
             "Classics"
@@ -2867,6 +2969,25 @@ var movieMap = {
             "Classics"
         ]
     },
+    "Going My Way (1944)": {
+        "title": "Going My Way",
+        "year": "1944",
+        "synopsis": "Unconventional Father Chuck is transferred to St. Dominic's Church in New York City. He sides with boys often, upsetting the older pastor Fitzgibbon.",
+        "directors": [
+            "Leo McCarey"
+        ],
+        "leads": [
+            "Bing Crosby",
+            "Barry Fitzgerald",
+            "Frank McHugh"
+        ],
+        "music": [
+            "Robert Emmett Dolan"
+        ],
+        "categories": [
+            "Classics"
+        ]
+    },
     "Gaslight (1944)": {
         "title": "Gaslight",
         "year": "1944",
@@ -3437,6 +3558,26 @@ var movieMap = {
             "Classics"
         ]
     },
+    "The Secret Life of Walter Mitty (1947)": {
+        "title": "The Secret Life of Walter Mitty",
+        "year": "1947",
+        "synopsis": "In New Jersey, daydreamer Walter is harassed by everyone in his life such as his bossy mother and his fianc\u00e9e. He is caught up in a jewel conspiracy.",
+        "directors": [
+            "Norman Z. McLeod"
+        ],
+        "leads": [
+            "Danny Kaye",
+            "Virginia Mayo",
+            "Boris Karloff"
+        ],
+        "music": [
+            "Sylvia Fine",
+            "David Raksin"
+        ],
+        "categories": [
+            "Classics"
+        ]
+    },
     "Mother Wore Tights (1947)": {
         "title": "Mother Wore Tights",
         "year": "1947",
@@ -3796,6 +3937,25 @@ var movieMap = {
             "John Dall"
         ]
     },
+    "Hamlet (1948)": {
+        "title": "Hamlet",
+        "year": "1948",
+        "synopsis": "A prince returns to Denmark, his father murdered and his mother remarrying the killer Claudius, his uncle. He feigns a madness as war slowly brews.",
+        "directors": [
+            "Laurence Olivier"
+        ],
+        "leads": [
+            "Laurence Olivier",
+            "Basil Sydney",
+            "Eileen Herlie"
+        ],
+        "music": [
+            "William Walton"
+        ],
+        "categories": [
+            "Classics"
+        ]
+    },
     "Macbeth (1948)": {
         "title": "Macbeth",
         "year": "1948",
@@ -3874,6 +4034,27 @@ var movieMap = {
             "Crime"
         ]
     },
+    "Under Capricorn (1949)": {
+        "title": "Under Capricorn",
+        "year": "1949",
+        "synopsis": "In 1831 Sydney, gentleman Charles reunites with his now married childhood sweetheart Henrietta, only to learn she is alcoholic and harbors secrets.",
+        "directors": [
+            "Alfred Hitchcock"
+        ],
+        "leads": [
+            "Michael Wilding",
+            "Ingrid Bergman",
+            "Joseph Cotten"
+        ],
+        "music": [
+            "Richard Addinsell",
+            "Louis Levy"
+        ],
+        "categories": [
+            "Alfred Hitchcock",
+            "Classics"
+        ]
+    },
     "The Adventures of Ichabod and Mr. Toad (1949)": {
         "title": "The Adventures of Ichabod and Mr. Toad",
         "year": "1949",
@@ -3911,6 +4092,25 @@ var movieMap = {
         ],
         "music": [
             "Aaron Copland"
+        ],
+        "categories": [
+            "Classics"
+        ]
+    },
+    "All the King's Men (1949)": {
+        "title": "All the King's Men",
+        "year": "1949",
+        "synopsis": "In the American South, politician Willie rises from a rural county seat to the governor's mansion. He becomes corrupt and has a son that drinks often.",
+        "directors": [
+            "Robert Rossen"
+        ],
+        "leads": [
+            "Broderick Crawford",
+            "John Ireland",
+            "Mercedes McCambridge"
+        ],
+        "music": [
+            "Louis Gruenberg"
         ],
         "categories": [
             "Classics"
@@ -5439,6 +5639,26 @@ var movieMap = {
             "Classics"
         ]
     },
+    "Marty (1955)": {
+        "title": "Marty",
+        "year": "1955",
+        "synopsis": "A 34-year-old butcher who lives with his mother in the Bronx befriends Clara, a science teacher, at a dance. They fall for each other but get objections.",
+        "directors": [
+            "Delbert Mann"
+        ],
+        "leads": [
+            "Ernest Borgnine",
+            "Betsy Blair",
+            "Joe Mantell"
+        ],
+        "music": [
+            "Roy Webb"
+        ],
+        "categories": [
+            "1950s",
+            "Classics"
+        ]
+    },
     "The Seven Year Itch (1955)": {
         "title": "The Seven Year Itch",
         "year": "1955",
@@ -6026,6 +6246,26 @@ var movieMap = {
             "1950s",
             "Classics",
             "Dramas"
+        ]
+    },
+    "Around the World in 80 Days (1956)": {
+        "title": "Around the World in 80 Days",
+        "year": "1956",
+        "synopsis": "In 1972, to win a bet, English inventor Fogg, with his resourceful French valet Passepartout and the princess Aouda, heads on a trip around the world.",
+        "directors": [
+            "Michael Anderson"
+        ],
+        "leads": [
+            "David Niven",
+            "Cantinflas",
+            "Shirley MacLaine"
+        ],
+        "music": [
+            "Victor Young"
+        ],
+        "categories": [
+            "1950s",
+            "Classics"
         ]
     },
     "Love Me Tender (1956)": {
@@ -6894,6 +7134,28 @@ var movieMap = {
             "Romance"
         ]
     },
+    "Imitation of Life (1959)": {
+        "title": "Imitation of Life",
+        "year": "1959",
+        "synopsis": "Actress Laura and her daughter Susie live with a black mother, Annie, and her daughter that looks white and desperately tries to act so, Sarah Jane.",
+        "directors": [
+            "Douglas Sirk"
+        ],
+        "leads": [
+            "Lana Turner",
+            "Juanita Moore",
+            "John Gavin"
+        ],
+        "music": [
+            "Frank Skinner",
+            "Sammy Fain",
+            "Henry Mancini"
+        ],
+        "categories": [
+            "1950s",
+            "Classics"
+        ]
+    },
     "Anatomy of a Murder (1959)": {
         "title": "Anatomy of a Murder",
         "year": "1959",
@@ -7173,6 +7435,27 @@ var movieMap = {
             "Comedies"
         ]
     },
+    "13 Ghosts (1960)": {
+        "title": "13 Ghosts",
+        "year": "1960",
+        "synopsis": "Impoverished Cyrus and his family inherit a large house that comes with ghosts occultist Dr. Zorba collected. An estate executor wants a big fortune.",
+        "directors": [
+            "William Castle"
+        ],
+        "leads": [
+            "Charles Herbert",
+            "Jo Morrow",
+            "Rosemary DeCamp"
+        ],
+        "music": [
+            "Von Dexter"
+        ],
+        "categories": [
+            "1960s",
+            "Classics",
+            "Horror"
+        ]
+    },
     "The Little Shop of Horrors (1960)": {
         "title": "The Little Shop of Horrors",
         "year": "1960",
@@ -7191,6 +7474,7 @@ var movieMap = {
         "categories": [
             "1960s",
             "Classics",
+            "Horror",
             "Jack Nicholson"
         ]
     },
@@ -7937,6 +8221,26 @@ var movieMap = {
             "Classics"
         ]
     },
+    "Mutiny on the Bounty (1962)": {
+        "title": "Mutiny on the Bounty",
+        "year": "1962",
+        "synopsis": "In 1787, a merchant vessel sets sail from England to Tahiti. After Captain Bligh abuses his crew, first mate Christian heads a revolt and sets him adrift.",
+        "directors": [
+            "Lewis Milestone"
+        ],
+        "leads": [
+            "Marlon Brando",
+            "Trevor Howard",
+            "Richard Harris"
+        ],
+        "music": [
+            "Bronis\u0142aw Kaper"
+        ],
+        "categories": [
+            "1960s",
+            "Classics"
+        ]
+    },
     "Lawrence of Arabia (1962)": {
         "title": "Lawrence of Arabia",
         "year": "1962",
@@ -8271,6 +8575,26 @@ var movieMap = {
             "1960s",
             "Classics",
             "Rat Pack"
+        ]
+    },
+    "Tom Jones (1963)": {
+        "title": "Tom Jones",
+        "year": "1963",
+        "synopsis": "In 1700s England, an adopted bastard grows up in privilege. He is popular with women but actually loves Sophie, who is desired by bad-natured Blifil.",
+        "directors": [
+            "Tony Richardson"
+        ],
+        "leads": [
+            "Albert Finney",
+            "Susannah York",
+            "Hugh Griffith"
+        ],
+        "music": [
+            "John Addison"
+        ],
+        "categories": [
+            "1960s",
+            "Classics"
         ]
     },
     "It's a Mad, Mad, Mad, Mad World (1963)": {
@@ -10049,6 +10373,7 @@ var movieMap = {
         ],
         "categories": [
             "1960s",
+            "Action/Adventure",
             "Classics",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
@@ -11145,6 +11470,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -11541,6 +11867,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -12066,7 +12393,8 @@ var movieMap = {
             "Al Pacino",
             "Coppolas",
             "Crime",
-            "Dramas"
+            "Dramas",
+            "Modern Classics"
         ]
     },
     "Fritz the Cat (1972)": {
@@ -12191,6 +12519,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -12467,6 +12796,25 @@ var movieMap = {
             "Action/Adventure"
         ]
     },
+    "Sleuth (1972)": {
+        "title": "Sleuth",
+        "year": "1972",
+        "synopsis": "On his sprawling country estate, an aging British author matches wits with businessman Milo, who has taken his wife's heart. They play mind games.",
+        "directors": [
+            "Joseph L. Mankiewicz"
+        ],
+        "leads": [
+            "Laurence Olivier",
+            "Michael Caine",
+            "Alec Cawthorne"
+        ],
+        "music": [
+            "John Addison"
+        ],
+        "categories": [
+            "1970s"
+        ]
+    },
     "Man of La Mancha (1972)": {
         "title": "Man of La Mancha",
         "year": "1972",
@@ -12633,7 +12981,7 @@ var movieMap = {
     "Charlotte's Web (1973)": {
         "title": "Charlotte's Web",
         "year": "1973",
-        "synopsis": "A gentle and wise grey spider with a flair for promotion pledges to save a young pig from slaughter for dinner food.",
+        "synopsis": "To prevent becoming dinner, Wilbur the pig works with a spider in his pen to convince humans he is special with descriptions she writes on her web.",
         "directors": [
             "Charles A. Nichols",
             "Iwao Takamoto"
@@ -12832,6 +13180,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -13764,6 +14113,7 @@ var movieMap = {
         "categories": [
             "1970s",
             "Crime",
+            "Dramas",
             "Mystery",
             "Sean Connery"
         ]
@@ -14660,6 +15010,27 @@ var movieMap = {
         "categories": [
             "1970s",
             "Alfred Hitchcock"
+        ]
+    },
+    "Grizzly (1976)": {
+        "title": "Grizzly",
+        "year": "1976",
+        "synopsis": "Park ranger Michael tries to halt the wild rampage of an 18-foot-tall bear that scares a national park and eats humans. A drunk hunting party impedes.",
+        "directors": [
+            "William Girdler",
+            "David Sheldon"
+        ],
+        "leads": [
+            "Christopher George",
+            "Andrew Prine",
+            "Richard Jaeckel"
+        ],
+        "music": [
+            "Robert O. Ragland"
+        ],
+        "categories": [
+            "1970s",
+            "Horror"
         ]
     },
     "The Man Who Fell to Earth (1976)": {
@@ -15984,7 +16355,7 @@ var movieMap = {
     "Grease (1978)": {
         "title": "Grease",
         "year": "1978",
-        "synopsis": "Good girl Sandy and greaser Danny fall in love over the summer. When they unexpectedly discover they're now in the same high school, they hope to rekindle their romance.",
+        "synopsis": "In 1958, T-Birds leader greaser Danny has a brief romance with Australian good girl Sandy. The two reconnect at Rydell High School but act different.",
         "directors": [
             "Randal Kleiser"
         ],
@@ -15998,6 +16369,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Modern Classics",
             "Musicals"
         ]
     },
@@ -16198,6 +16570,7 @@ var movieMap = {
         ],
         "categories": [
             "1970s",
+            "Musicians in Film",
             "Sly & Arnie"
         ]
     },
@@ -16219,6 +16592,7 @@ var movieMap = {
         "categories": [
             "1970s",
             "Crime",
+            "Dramas",
             "Mystery"
         ]
     },
@@ -16835,6 +17209,26 @@ var movieMap = {
             "Eastwoods"
         ]
     },
+    "The Main Event (1979)": {
+        "title": "The Main Event",
+        "year": "1979",
+        "synopsis": "Perfume magnate Hillary works loses a company so helps washed-out boxer Eddie, whom she had picked up as a tax loss, back into the fighting ring.",
+        "directors": [
+            "Howard Zieff"
+        ],
+        "leads": [
+            "Barbra Streisand",
+            "Ryan O'Neal",
+            "Paul Sand"
+        ],
+        "music": [
+            "Michael Melvoin"
+        ],
+        "categories": [
+            "1970s",
+            "Barbra Streisand"
+        ]
+    },
     "The Muppet Movie (1979)": {
         "title": "The Muppet Movie",
         "year": "1979",
@@ -17243,6 +17637,25 @@ var movieMap = {
             "1970s"
         ]
     },
+    "Being There (1979)": {
+        "title": "Being There",
+        "year": "1979",
+        "synopsis": "When his benefactor's death forces him out of his home, simple-minded gardener Chance becomes an unlikely trusted advisor to business titan Rand.",
+        "directors": [
+            "Hal Ashby"
+        ],
+        "leads": [
+            "Peter Sellers",
+            "Shirley MacLaine",
+            "Melvyn Douglas"
+        ],
+        "music": [
+            "Johnny Mandel"
+        ],
+        "categories": [
+            "1970s"
+        ]
+    },
     "The Black Hole (1979)": {
         "title": "The Black Hole",
         "year": "1979",
@@ -17472,7 +17885,8 @@ var movieMap = {
             "Michael Gore"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Coming of Age"
         ]
     },
     "The Empire Strikes Back (1980)": {
@@ -18332,6 +18746,27 @@ var movieMap = {
             "Fantasy/Sci-Fi"
         ]
     },
+    "Knightriders (1981)": {
+        "title": "Knightriders",
+        "year": "1981",
+        "synopsis": "A medieval reenactment troupe led by Billy find it increasingly difficult to keep their group together, with pressures from corrupt cops and promoters.",
+        "directors": [
+            "George A. Romero"
+        ],
+        "leads": [
+            "Ed Harris",
+            "Gary Lahti",
+            "Tom Savini"
+        ],
+        "music": [
+            "Donald Rubinstein"
+        ],
+        "categories": [
+            "1980s",
+            "Ed Harris",
+            "Stephen King"
+        ]
+    },
     "Nighthawks (1981)": {
         "title": "Nighthawks",
         "year": "1981",
@@ -18452,7 +18887,8 @@ var movieMap = {
         "categories": [
             "1980s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Monster"
         ]
     },
     "History of the World, Part I (1981)": {
@@ -19339,7 +19775,8 @@ var movieMap = {
         ],
         "categories": [
             "1980s",
-            "Coppolas"
+            "Coppolas",
+            "Musicians in Film"
         ]
     },
     "Shoot the Moon (1982)": {
@@ -19508,6 +19945,26 @@ var movieMap = {
         "categories": [
             "1980s",
             "Musicals"
+        ]
+    },
+    "Basket Case (1982)": {
+        "title": "Basket Case",
+        "year": "1982",
+        "synopsis": "In New York City, Duane carries a big basket that contains his deformed, formerly conjoined brother Belial. They murder doctors who separated them.",
+        "directors": [
+            "Frank Henenlotter"
+        ],
+        "leads": [
+            "Kevin Van Hentenryck",
+            "Terri Susan Smith",
+            "Beverly Bonner"
+        ],
+        "music": [
+            "Gus Russo"
+        ],
+        "categories": [
+            "1980s",
+            "Horror"
         ]
     },
     "Conan the Barbarian (1982)": {
@@ -20080,6 +20537,26 @@ var movieMap = {
             "1980s"
         ]
     },
+    "Amityville II: The Possession (1982)": {
+        "title": "Amityville II: The Possession",
+        "year": "1982",
+        "synopsis": "The dysfunctional Montelli family moves into their new house, but Sonny starts to act strangely, as if he is controlled. Catholic priest Frank meets evil.",
+        "directors": [
+            "Damiano Damiani"
+        ],
+        "leads": [
+            "James Olson",
+            "Burt Young",
+            "Rutanya Alda"
+        ],
+        "music": [
+            "Lalo Schifrin"
+        ],
+        "categories": [
+            "1980s",
+            "Horror"
+        ]
+    },
     "Lookin' to Get Out (1982)": {
         "title": "Lookin' to Get Out",
         "year": "1982",
@@ -20575,6 +21052,7 @@ var movieMap = {
             "Brat Pack",
             "Coming of Age",
             "Coppolas",
+            "Musicians in Film",
             "Nicolas Cage",
             "Sheens",
             "Tom Cruise",
@@ -20680,7 +21158,8 @@ var movieMap = {
         ],
         "categories": [
             "1980s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Martial Arts"
         ]
     },
     "Something Wicked This Way Comes (1983)": {
@@ -21300,6 +21779,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Coppolas",
+            "Musicians in Film",
             "Nicolas Cage"
         ]
     },
@@ -21376,6 +21856,27 @@ var movieMap = {
             "Ed Harris"
         ]
     },
+    "Under Fire (1983)": {
+        "title": "Under Fire",
+        "year": "1983",
+        "synopsis": "In Nicaragua, photojournalist Russell covers a big military conflict between a government and rebels led by Rafael. He starts an affair with a journalist.",
+        "directors": [
+            "Roger Spottiswoode"
+        ],
+        "leads": [
+            "Nick Nolte",
+            "Gene Hackman",
+            "Joanna Cassidy"
+        ],
+        "music": [
+            "Jerry Goldsmith"
+        ],
+        "categories": [
+            "1980s",
+            "Ed Harris",
+            "Gene Hackman"
+        ]
+    },
     "Possession (1983)": {
         "title": "Possession",
         "year": "1983",
@@ -21417,6 +21918,27 @@ var movieMap = {
             "1980s",
             "Family",
             "Holiday"
+        ]
+    },
+    "Amityville 3-D (1983)": {
+        "title": "Amityville 3-D",
+        "year": "1983",
+        "synopsis": "Reporter John moves into a house in defiance of supernatural events but finds people around him besieged by evil manifestations connected to evil.",
+        "directors": [
+            "Richard Fleischer"
+        ],
+        "leads": [
+            "Tony Roberts",
+            "Tess Harper",
+            "Robert Joy"
+        ],
+        "music": [
+            "Howard Blake"
+        ],
+        "categories": [
+            "1980s",
+            "Horror",
+            "Meg Ryan"
         ]
     },
     "Sleepaway Camp (1983)": {
@@ -21977,7 +22499,9 @@ var movieMap = {
             "Comedies",
             "Coming of Age",
             "Cusacks",
-            "John Hughes"
+            "John Hughes",
+            "Rom-Coms",
+            "Romance"
         ],
         "cast": [
             "Anthony Michael Hall",
@@ -22615,6 +23139,26 @@ var movieMap = {
             "Action/Adventure"
         ]
     },
+    "Dreamscape (1984)": {
+        "title": "Dreamscape",
+        "year": "1984",
+        "synopsis": "Psychic Alex is recruited by a government agency to help cure the U.S. President of his nightmares about nuclear war by joining and altering dreams.",
+        "directors": [
+            "Joseph Ruben"
+        ],
+        "leads": [
+            "Dennis Quaid",
+            "Max von Sydow",
+            "Christopher Plummer"
+        ],
+        "music": [
+            "Maurice Jarre"
+        ],
+        "categories": [
+            "1980s",
+            "Fantasy/Sci-Fi"
+        ]
+    },
     "Tightrope (1984)": {
         "title": "Tightrope",
         "year": "1984",
@@ -23031,7 +23575,8 @@ var movieMap = {
             "Jerry Goldsmith"
         ],
         "categories": [
-            "1980s"
+            "1980s",
+            "Musicians in Film"
         ]
     },
     "Starman (1984)": {
@@ -23072,6 +23617,7 @@ var movieMap = {
         "categories": [
             "1980s",
             "Coppolas",
+            "Musicians in Film",
             "Nicolas Cage"
         ]
     },
@@ -26168,6 +26714,28 @@ var movieMap = {
             "1980s"
         ]
     },
+    "Trick or Treat (1986)": {
+        "title": "Trick or Treat",
+        "year": "1986",
+        "synopsis": "High school outcast Eddie is devastated after the death of heavy metal star Sammi. As Halloween approaches, he is forced to stop a devilish return.",
+        "directors": [
+            "Charles Martin Smith"
+        ],
+        "leads": [
+            "Marc Price",
+            "Tony Fields",
+            "Gene Simmons"
+        ],
+        "music": [
+            "Fastway",
+            "Christopher Young"
+        ],
+        "categories": [
+            "1980s",
+            "Horror",
+            "Musicians in Film"
+        ]
+    },
     "The Mission (1986)": {
         "title": "The Mission",
         "year": "1986",
@@ -26935,6 +27503,26 @@ var movieMap = {
             "Comedies",
             "Eddie Murphy",
             "Scotts"
+        ]
+    },
+    "Ernest Goes to Camp (1987)": {
+        "title": "Ernest Goes to Camp",
+        "year": "1987",
+        "synopsis": "Kamp Kikakee maintenace man Ernest desires to become a guidance counselor. He begins to bond with delinquents while a mining corporation plans.",
+        "directors": [
+            "John Cherry"
+        ],
+        "leads": [
+            "Jim Varney",
+            "Victoria Racimo",
+            "John Vernon"
+        ],
+        "music": [
+            "Shane Keister"
+        ],
+        "categories": [
+            "1980s",
+            "Comedies"
         ]
     },
     "The Untouchables (1987)": {
@@ -28089,7 +28677,8 @@ var movieMap = {
         "categories": [
             "1980s",
             "Jack Nicholson",
-            "Meryl Streep"
+            "Meryl Streep",
+            "Musicians in Film"
         ]
     },
     "Overboard (1987)": {
@@ -28734,6 +29323,26 @@ var movieMap = {
             "Tom Hanks"
         ]
     },
+    "Funny Farm (1988)": {
+        "title": "Funny Farm",
+        "year": "1988",
+        "synopsis": "Sports writer Andy and his secret children's book author wife Elizabeth move to Rosebud so he can finish his novel. They do not fit in and hate a farm.",
+        "directors": [
+            "George Roy Hill"
+        ],
+        "leads": [
+            "Chevy Chase",
+            "Madolyn Smith",
+            "Kevin O'Morrison"
+        ],
+        "music": [
+            "Elmer Bernstein"
+        ],
+        "categories": [
+            "1980s",
+            "Comedies"
+        ]
+    },
     "Poltergeist III (1988)": {
         "title": "Poltergeist III",
         "year": "1988",
@@ -29119,6 +29728,26 @@ var movieMap = {
             "Gina Gershon",
             "Laurence Luckinbill",
             "Tom Cruise"
+        ]
+    },
+    "Monkey Shines (1988)": {
+        "title": "Monkey Shines",
+        "year": "1988",
+        "synopsis": "Athlete Allan becomes quadriplegic after a crash. He develops a bond with monkey named Ella who becomes homicidal after she gets a secret serum.",
+        "directors": [
+            "George A. Romero"
+        ],
+        "leads": [
+            "Jason Beghe",
+            "John Pankow",
+            "Kate McNeil"
+        ],
+        "music": [
+            "David Shire"
+        ],
+        "categories": [
+            "1980s",
+            "Stanley Tucci"
         ]
     },
     "The Blob (1988)": {
@@ -29593,6 +30222,27 @@ var movieMap = {
             "Courtroom Dramas & Legal Thrillers",
             "Dramas",
             "Meryl Streep"
+        ]
+    },
+    "Ernest Saves Christmas (1988)": {
+        "title": "Ernest Saves Christmas",
+        "year": "1988",
+        "synopsis": "Taxicab driver Ernest helps Santa get to Orlando to find children's program host Joe, his successor. Runaway Harmony joins and discovers his magic.",
+        "directors": [
+            "John Cherry"
+        ],
+        "leads": [
+            "Jim Varney",
+            "Douglas Seale",
+            "Oliver Clark"
+        ],
+        "music": [
+            "Mark Snow"
+        ],
+        "categories": [
+            "1980s",
+            "Comedies",
+            "Holiday"
         ]
     },
     "Fresh Horses (1988)": {
@@ -31951,7 +32601,8 @@ var movieMap = {
             "1990s",
             "Fantasy/Sci-Fi",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Monster"
         ]
     },
     "Cinema Paradiso (1990)": {
@@ -32013,6 +32664,26 @@ var movieMap = {
         "categories": [
             "1990s",
             "Action/Adventure"
+        ]
+    },
+    "Stanley & Iris (1990)": {
+        "title": "Stanley & Iris",
+        "year": "1990",
+        "synopsis": "In Connecticut, a widow with two children falls in love with an illiterate short order cook whom she teaches to read and write in her kitchen each day.",
+        "directors": [
+            "Martin Ritt"
+        ],
+        "leads": [
+            "Jane Fonda",
+            "Robert De Niro",
+            "Swoosie Kurtz"
+        ],
+        "music": [
+            "John Williams"
+        ],
+        "categories": [
+            "1990s",
+            "Robert De Niro & Joe Pesci"
         ]
     },
     "Nightbreed (1990)": {
@@ -32120,7 +32791,10 @@ var movieMap = {
         "categories": [
             "1990s",
             "Amblin",
+            "Comedies",
             "Meg Ryan",
+            "Rom-Coms",
+            "Romance",
             "Tom Hanks"
         ]
     },
@@ -32202,6 +32876,27 @@ var movieMap = {
             "Robbie Rist",
             "Sam Rockwell",
             "Skeet Ulrich"
+        ]
+    },
+    "Ernest Goes to Jail (1990)": {
+        "title": "Ernest Goes to Jail",
+        "year": "1990",
+        "synopsis": "Night custodian Ernest creates a mess at a bank. He is summoned to jury duty but is mistaken for a death row inmate, Nash, who pretends to be him.",
+        "directors": [
+            "John Cherry"
+        ],
+        "leads": [
+            "Jim Varney",
+            "Gailard Sartain",
+            "Bill Byrge"
+        ],
+        "music": [
+            "Bruce Arntson",
+            "Kirby Shelstad"
+        ],
+        "categories": [
+            "1990s",
+            "Comedies"
         ]
     },
     "I Love You to Death (1990)": {
@@ -32829,7 +33524,8 @@ var movieMap = {
         "categories": [
             "1990s",
             "Crime",
-            "Jack Nicholson"
+            "Jack Nicholson",
+            "Musicians in Film"
         ]
     },
     "My Blue Heaven (1990)": {
@@ -33002,6 +33698,26 @@ var movieMap = {
             "1990s"
         ]
     },
+    "Death Warrant (1990)": {
+        "title": "Death Warrant",
+        "year": "1990",
+        "synopsis": "Police detective Louis goes undercover to explore murders in a corrupt facility. As he works with his attorney, he runs into his nemesis, the Sandman.",
+        "directors": [
+            "Deran Sarafian"
+        ],
+        "leads": [
+            "Jean-Claude van Damme",
+            "Robert Guillaume",
+            "Cynthia Gibb"
+        ],
+        "music": [
+            "Gary Chang"
+        ],
+        "categories": [
+            "1990s",
+            "Martial Arts"
+        ]
+    },
     "Postcards from the Edge (1990)": {
         "title": "Postcards from the Edge",
         "year": "1990",
@@ -33089,6 +33805,26 @@ var movieMap = {
             "Frances McDormand"
         ]
     },
+    "I Come in Peace (1990)": {
+        "title": "I Come in Peace",
+        "year": "1990",
+        "synopsis": "In Houston, rule-breaking police officer Jack looks into mysterious drug-related murders. He learns alien Talec is shooting folks with synthetic heroin.",
+        "directors": [
+            "Craig R. Baxley"
+        ],
+        "leads": [
+            "Dolph Lundgren",
+            "Brian Benben",
+            "Betsy Brantley"
+        ],
+        "music": [
+            "Jan Hammer"
+        ],
+        "categories": [
+            "1990s",
+            "Action/Adventure"
+        ]
+    },
     "King of New York (1990)": {
         "title": "King of New York",
         "year": "1990",
@@ -33107,6 +33843,26 @@ var movieMap = {
         "categories": [
             "1990s",
             "Crime"
+        ]
+    },
+    "Pacific Heights (1990)": {
+        "title": "Pacific Heights",
+        "year": "1990",
+        "synopsis": "In San Francisco, couple Drake and Patty fix their house and become landlords. Tenant Hayes does not pay, locks himself inside, and ruins their lives.",
+        "directors": [
+            "John Schlesinger"
+        ],
+        "leads": [
+            "Melanie Griffith",
+            "Matthew Modine",
+            "Michael Keaton"
+        ],
+        "music": [
+            "Hans Zimmer"
+        ],
+        "categories": [
+            "1990s",
+            "Michael Keaton"
         ]
     },
     "Marked for Death (1990)": {
@@ -33187,7 +33943,8 @@ var movieMap = {
             "1990s",
             "Horror",
             "Horror/Thriller",
-            "Monster"
+            "Monster",
+            "Remakes & Reboots"
         ]
     },
     "Reversal of Fortune (1990)": {
@@ -34387,6 +35144,7 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Comic Book",
             "Fantasy/Sci-Fi",
             "IG Fantasy/Sci-Fi",
             "Jennifer Connelly",
@@ -34716,7 +35474,8 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Martial Arts"
         ]
     },
     "Barton Fink (1991)": {
@@ -34823,6 +35582,7 @@ var movieMap = {
         "categories": [
             "1990s",
             "Dramas",
+            "Musicians in Film",
             "Robin Williams"
         ]
     },
@@ -34945,6 +35705,27 @@ var movieMap = {
         ],
         "categories": [
             "1990s"
+        ]
+    },
+    "Ernest Scared Stupid (1991)": {
+        "title": "Ernest Scared Stupid",
+        "year": "1991",
+        "synopsis": "In Briarville, sanitation worker Ernest accidentally unleashes evil troll Trantor on a Halloween night. He must help his middle school friends fight back.",
+        "directors": [
+            "John Cherry"
+        ],
+        "leads": [
+            "Jim Varney",
+            "Eartha Kitt",
+            "Austin Nagler"
+        ],
+        "music": [
+            "Bruce Arntson",
+            "Kirby Shelstad"
+        ],
+        "categories": [
+            "1990s",
+            "Comedies"
         ]
     },
     "Frankie and Johnny (1991)": {
@@ -36411,6 +37192,7 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi"
         ]
     },
@@ -37113,7 +37895,8 @@ var movieMap = {
             "Horror",
             "Horror/Thriller",
             "Keanu Reeves",
-            "Monster"
+            "Monster",
+            "Musicians in Film"
         ]
     },
     "Love Potion No. 9 (1992)": {
@@ -38324,7 +39107,7 @@ var movieMap = {
         ],
         "leads": [
             "Tyrin Turner",
-            "Jada Pinkett",
+            "Jada Pinkett Smith",
             "Bill Duke"
         ],
         "music": [
@@ -39364,6 +40147,7 @@ var movieMap = {
         "categories": [
             "1990s",
             "Frances McDormand",
+            "Musicians in Film",
             "Robert Downey Jr."
         ]
     },
@@ -39529,6 +40313,46 @@ var movieMap = {
             "Tim Burton"
         ]
     },
+    "A Home of Our Own (1993)": {
+        "title": "A Home of Our Own",
+        "year": "1993",
+        "synopsis": "In 1962, widow mother Frances Lacey and her six children decide to leave L.A. for Idaho. They build a house and meet Mr. Munimura. Her son is mad.",
+        "directors": [
+            "Tony Bill"
+        ],
+        "leads": [
+            "Kathy Bates",
+            "Edward Furlong",
+            "Soon-Tek Oh"
+        ],
+        "music": [
+            "Michael Convertino"
+        ],
+        "categories": [
+            "1990s",
+            "Dramas"
+        ]
+    },
+    "Flesh and Bone (1993)": {
+        "title": "Flesh and Bone",
+        "year": "1993",
+        "synopsis": "In Texas, Arlis helps his father Roy rob a family's home and leave just one survivor. Decades later, he encounters Kay, who leaves her bad husband.",
+        "directors": [
+            "Steve Kloves"
+        ],
+        "leads": [
+            "Dennis Quaid",
+            "Meg Ryan",
+            "James Caan"
+        ],
+        "music": [
+            "Thomas Newman"
+        ],
+        "categories": [
+            "1990s",
+            "Meg Ryan"
+        ]
+    },
     "Look Who's Talking Now (1993)": {
         "title": "Look Who's Talking Now",
         "year": "1993",
@@ -39639,6 +40463,27 @@ var movieMap = {
             "Al Pacino",
             "Crime",
             "Dramas"
+        ]
+    },
+    "Ernest Rides Again (1993)": {
+        "title": "Ernest Rides Again",
+        "year": "1993",
+        "synopsis": "Janitor Ernest and ridiculed college professor Dr. Melon unearth a cannon that contains the Crown Jewels of England. An antiquity collector chases.",
+        "directors": [
+            "John Cherry"
+        ],
+        "leads": [
+            "Jim Varney",
+            "Ron James",
+            "Duke Ernsberger"
+        ],
+        "music": [
+            "Bruce Arntson",
+            "Kirby Shelstad"
+        ],
+        "categories": [
+            "1990s",
+            "Comedies"
         ]
     },
     "My Life (1993)": {
@@ -42243,6 +43088,7 @@ var movieMap = {
         "categories": [
             "1990s",
             "Animated",
+            "Family",
             "Fantasy/Sci-Fi",
             "Whoopi Goldberg"
         ],
@@ -42647,7 +43493,7 @@ var movieMap = {
         "leads": [
             "Billy Zane",
             "William Sadler",
-            "Jada Pinkett"
+            "Jada Pinkett Smith"
         ],
         "music": [
             "Edward Shearmur"
@@ -43555,6 +44401,7 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Keanu Reeves"
         ]
@@ -44291,7 +45138,8 @@ var movieMap = {
             "N/A"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Coming of Age"
         ]
     },
     "Seven (1995)": {
@@ -46687,6 +47535,27 @@ var movieMap = {
             "Fantasy/Sci-Fi"
         ]
     },
+    "Basquiat (1996)": {
+        "title": "Basquiat",
+        "year": "1996",
+        "synopsis": "Artist Jean-Michel works his way up from living in a cardboard box to the New York art world during the 1980s with help from many influential friends.",
+        "directors": [
+            "Julian Schnabel"
+        ],
+        "leads": [
+            "Jeffrey Wright",
+            "David Bowie",
+            "Benicio del Toro"
+        ],
+        "music": [
+            "John Cale",
+            "Julian Schnabel"
+        ],
+        "categories": [
+            "1990s",
+            "Musicians in Film"
+        ]
+    },
     "Escape from L.A. (1996)": {
         "title": "Escape from L.A.",
         "year": "1996",
@@ -47416,7 +48285,7 @@ var movieMap = {
             "F. Gary Gray"
         ],
         "leads": [
-            "Jada Pinkett",
+            "Jada Pinkett Smith",
             "Queen Latifah",
             "Vivica A. Fox"
         ],
@@ -48563,7 +49432,8 @@ var movieMap = {
         ],
         "categories": [
             "1990s",
-            "Biopics"
+            "Biopics",
+            "Musicians in Film"
         ]
     },
     "Liar Liar (1997)": {
@@ -50988,6 +51858,46 @@ var movieMap = {
             "SNL & Lorne Michaels"
         ]
     },
+    "The Night Flier (1998)": {
+        "title": "The Night Flier",
+        "year": "1998",
+        "synopsis": "Cynical tabloid reporter Richard investigates a set of bloody murders in airfields by Renfield. Novice Katherine performs a parallel hunt of the vampire.",
+        "directors": [
+            "Mark Pavia"
+        ],
+        "leads": [
+            "Miguel Ferrer",
+            "Julie Entwisle",
+            "Dan Monahan"
+        ],
+        "music": [
+            "Brian Keane"
+        ],
+        "categories": [
+            "1990s",
+            "Stephen King"
+        ]
+    },
+    "The Replacement Killers (1998)": {
+        "title": "The Replacement Killers",
+        "year": "1998",
+        "synopsis": "In L.A., troubled hitman John looks for help from a forger for papers to China to save his mother and sister. A drug lord hires others to finish a murder.",
+        "directors": [
+            "Antoine Fuqua"
+        ],
+        "leads": [
+            "Chow Yun-fat",
+            "Mira Sorvino",
+            "Michael Rooker"
+        ],
+        "music": [
+            "Harry Gregson-Williams"
+        ],
+        "categories": [
+            "1990s",
+            "Action/Adventure"
+        ]
+    },
     "Sphere (1998)": {
         "title": "Sphere",
         "year": "1998",
@@ -51168,6 +52078,26 @@ var movieMap = {
         ],
         "categories": [
             "1990s"
+        ]
+    },
+    "Wide Awake (1998)": {
+        "title": "Wide Awake",
+        "year": "1998",
+        "synopsis": "10-year-old Joshua attends Catholic boys' school Waldron Mercy Academy and sets out to find God to ask about and process his grandfather's death.",
+        "directors": [
+            "M. Night Shyamalan"
+        ],
+        "leads": [
+            "Joseph Cross",
+            "Denis Leary",
+            "Dana Delany"
+        ],
+        "music": [
+            "Edmund Choi"
+        ],
+        "categories": [
+            "1990s",
+            "M. Night Shyamalan"
         ]
     },
     "Wild Things (1998)": {
@@ -51550,7 +52480,8 @@ var movieMap = {
             "Ray Cooper"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Comedies"
         ]
     },
     "Almost Heroes (1998)": {
@@ -52950,7 +53881,8 @@ var movieMap = {
             "Carter Burwell"
         ],
         "categories": [
-            "1990s"
+            "1990s",
+            "Musicals"
         ]
     },
     "I Still Know What You Did Last Summer (1998)": {
@@ -54132,7 +55064,7 @@ var movieMap = {
     "10 Things I Hate About You (1999)": {
         "title": "10 Things I Hate About You",
         "year": "1999",
-        "synopsis": "A pretty, popular teenager can't go out on a date until her ill-tempered older sister does.",
+        "synopsis": "New Padua High School student Cameron falls in love with Bianca. To obey her father, he asks bad boy Patrick to date her ill-tempered big sister Kat.",
         "directors": [
             "Gil Junger"
         ],
@@ -54375,7 +55307,8 @@ var movieMap = {
         "categories": [
             "1990s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Monster"
         ],
         "cast": [
             "Arnold Vosloo",
@@ -54407,6 +55340,26 @@ var movieMap = {
             "1990s",
             "Michelle Pfeiffer",
             "Stanley Tucci"
+        ]
+    },
+    "Black Mask (1999)": {
+        "title": "Black Mask",
+        "year": "1999",
+        "synopsis": "In Hong Kong, Simon tries to lead a quiet life as a librarian after surviving a supersoldier project. He must battle his past comrades as a masked hero.",
+        "directors": [
+            "Daniel Lee"
+        ],
+        "leads": [
+            "Jet Li",
+            "Lau Ching-wan",
+            "Karen Mok"
+        ],
+        "music": [
+            "Teddy Robin"
+        ],
+        "categories": [
+            "1990s",
+            "Martial Arts"
         ]
     },
     "Star Wars: Episode I \u2013 The Phantom Menace (1999)": {
@@ -54896,7 +55849,8 @@ var movieMap = {
             "1990s",
             "Frat Pack",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Remakes & Reboots"
         ]
     },
     "Deep Blue Sea (1999)": {
@@ -54982,7 +55936,8 @@ var movieMap = {
         "categories": [
             "1990s",
             "Comic Book",
-            "Frat Pack"
+            "Frat Pack",
+            "Musicians in Film"
         ],
         "cast": [
             "Artie Lange",
@@ -56216,7 +57171,7 @@ var movieMap = {
     "Man on the Moon (1999)": {
         "title": "Man on the Moon",
         "year": "1999",
-        "synopsis": "Andy Kaufman is an eccentric comedian who goes on to enjoy a career as lovable foreign car mechanic Latka Gravas on TV's Taxi, and later gains infamy as an inter-gender wrestling champ.",
+        "synopsis": "Eccentric comedian Andy Kaufman enjoys his job on television, becomes a wrestler with a feud, and upsets audiences before he dies with lung cancer.",
         "directors": [
             "Milo\u0161 Forman"
         ],
@@ -56233,7 +57188,8 @@ var movieMap = {
             "Biopics",
             "Dramas",
             "Frat Pack",
-            "Jim Carrey"
+            "Jim Carrey",
+            "Wrestlers in Film"
         ]
     },
     "Galaxy Quest (1999)": {
@@ -57597,6 +58553,7 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Halle Berry",
             "Marvel",
+            "Wrestlers in Film",
             "X-Men"
         ],
         "cast": [
@@ -58359,6 +59316,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Happy Madison & Adam Sandler",
+            "Musicians in Film",
             "Quentin Tarantino & Robert Rodriguez",
             "Reese Witherspoon"
         ]
@@ -58904,6 +59862,28 @@ var movieMap = {
             "Keanu Reeves"
         ]
     },
+    "All the Pretty Horses (2000)": {
+        "title": "All the Pretty Horses",
+        "year": "2000",
+        "synopsis": "In 1949, Texas cowboy Cole and his close friend Rawlins head to Mexico to find work. The two get iin trouble after Cole falls for a rancher's daughter.",
+        "directors": [
+            "Billy Bob Thornton"
+        ],
+        "leads": [
+            "Matt Damon",
+            "Henry Thomas",
+            "Pen\u00e9lope Cruz"
+        ],
+        "music": [
+            "Marty Stuart",
+            "Kristin Wilkinson",
+            "Larry Paxton"
+        ],
+        "categories": [
+            "2000s",
+            "Matt & Ben"
+        ]
+    },
     "Thirteen Days (2000)": {
         "title": "Thirteen Days",
         "year": "2000",
@@ -59442,7 +60422,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Comedies",
-            "Happy Madison & Adam Sandler"
+            "Happy Madison & Adam Sandler",
+            "Wrestlers in Film"
         ]
     },
     "Josie and the Pussycats (2001)": {
@@ -59528,6 +60509,7 @@ var movieMap = {
             "Action/Adventure",
             "Dwayne Johnson",
             "Fantasy/Sci-Fi",
+            "Monster",
             "Wrestlers in Film"
         ],
         "cast": [
@@ -59615,6 +60597,7 @@ var movieMap = {
             "2000s",
             "Action/Adventure",
             "Dramas",
+            "Historical Epics & Dramas",
             "Matt & Ben"
         ]
     },
@@ -59636,6 +60619,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Musicals",
+            "Musicians in Film",
             "Nicole Kidman",
             "Romance"
         ]
@@ -60180,6 +61164,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes",
             "Remakes & Reboots",
@@ -60877,6 +61862,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Musicians in Film",
             "Paul Newman & Robert Redford"
         ]
     },
@@ -60964,7 +61950,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Remakes & Reboots"
         ]
     },
     "Am\u00e9lie (2001)": {
@@ -62183,6 +63170,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Action/Adventure",
             "Comedies",
             "Eddie Murphy",
             "Musicians in Film",
@@ -62673,7 +63661,10 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Reese Witherspoon"
+            "Comedies",
+            "Reese Witherspoon",
+            "Rom-Coms",
+            "Romance"
         ]
     },
     "Enough (2002)": {
@@ -63207,6 +64198,7 @@ var movieMap = {
             "2000s",
             "Horror",
             "Horror/Thriller",
+            "Monster",
             "Scarlett Johansson"
         ]
     },
@@ -63393,6 +64385,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Fantasy/Sci-Fi",
+            "Horror",
             "Horror/Thriller",
             "M. Night Shyamalan"
         ]
@@ -63694,6 +64687,25 @@ var movieMap = {
             "Ice Cube"
         ]
     },
+    "Stealing Harvard (2002)": {
+        "title": "Stealing Harvard",
+        "year": "2002",
+        "synopsis": "John turns to crime to pay for a niece's university tuition, but his girlfriend wants him to pay $30,000 for a house down payment. He has a weird friend.",
+        "directors": [
+            "Bruce McCulloch"
+        ],
+        "leads": [
+            "Tom Green",
+            "Jason Lee",
+            "Leslie Mann"
+        ],
+        "music": [
+            "Christophe Beck"
+        ],
+        "categories": [
+            "2000s"
+        ]
+    },
     "Spirited Away (2002)": {
         "title": "Spirited Away",
         "year": "2002",
@@ -63906,6 +64918,25 @@ var movieMap = {
             "Luis Guzm\u00e1n",
             "Philip Seymour Hoffman",
             "Robert Smigel"
+        ]
+    },
+    "The Rules of Attraction (2002)": {
+        "title": "The Rules of Attraction",
+        "year": "2002",
+        "synopsis": "In New Hampshire, at Camden College, Sean is a drug dealer that gets love letters, Lauren wants to lose her virginity, and bisexual Paul looks for love.",
+        "directors": [
+            "Roger Avary"
+        ],
+        "leads": [
+            "James Van Der Beek",
+            "Shannyn Sossamon",
+            "Ian Somerhalder"
+        ],
+        "music": [
+            "Tomandandy"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "The Transporter (2002)": {
@@ -64336,7 +65367,7 @@ var movieMap = {
     "Treasure Planet (2002)": {
         "title": "Treasure Planet",
         "year": "2002",
-        "synopsis": "When space galleon cabin boy Jim Hawkins discovers a map to an intergalactic \u201cloot of a thousand worlds,\u201d a cyborg cook named John Silver teaches him to battle supernovas. Soon, Jim realizes Silver is a pirate intent on mutiny.",
+        "synopsis": "After inn worker Jim finds a map to a loot, he joins Amelia's space galleon crew as a cabin boy and grows close to cyborg cook John, who has plans.",
         "directors": [
             "Ron Clements",
             "John Musker"
@@ -64428,7 +65459,7 @@ var movieMap = {
     "Drumline (2002)": {
         "title": "Drumline",
         "year": "2002",
-        "synopsis": "A band director recruits a Harlem street drummer to play at a Southern university.",
+        "synopsis": "Harlem street drummer Devon attends historically black Atlanta A&T University, recruited by Dr. Lee for his marching band, but he cannot read music.",
         "directors": [
             "Charles Stone III"
         ],
@@ -64744,6 +65775,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Dramas",
             "Ed Harris",
             "LGBTQ Cinema",
             "Meryl Streep",
@@ -67558,7 +68590,7 @@ var movieMap = {
     "The Haunted Mansion (2003)": {
         "title": "The Haunted Mansion",
         "year": "2003",
-        "synopsis": "A realtor and his wife and children are summoned to a mansion, which they soon discover is haunted, and while they attempt to escape, he learns an important lesson about the family he has neglected.",
+        "synopsis": "Workaholic realtor Jim takes his family to Gracey Manor. They learn it was cursed a century ago by its owner Edward and his love Elizabeth's deaths.",
         "directors": [
             "Rob Minkoff"
         ],
@@ -69073,6 +70105,26 @@ var movieMap = {
             "Marshalls",
             "Rom-Coms",
             "Romance"
+        ]
+    },
+    "Saved! (2004)": {
+        "title": "Saved!",
+        "year": "2004",
+        "synopsis": "Devout Christian teenager Mary has sex with her gay boyfriend to help, but she becomes pregnant. Friends ignore her. She sees pastor's son Patrick.",
+        "directors": [
+            "Brian Dannelly"
+        ],
+        "leads": [
+            "Jena Malone",
+            "Mandy Moore",
+            "Macaulay Culkin"
+        ],
+        "music": [
+            "Christophe Beck"
+        ],
+        "categories": [
+            "2000s",
+            "Coming of Age"
         ]
     },
     "Soul Plane (2004)": {
@@ -71568,6 +72620,7 @@ var movieMap = {
             "Comedies",
             "Dwayne Johnson",
             "Frat Pack",
+            "Musicians in Film",
             "Wrestlers in Film"
         ]
     },
@@ -72242,6 +73295,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Action/Adventure",
+            "Martial Arts",
             "Morgan Freeman"
         ]
     },
@@ -72410,6 +73464,26 @@ var movieMap = {
         "categories": [
             "2000s",
             "Sports"
+        ]
+    },
+    "Lords of Dogtown (2005)": {
+        "title": "Lords of Dogtown",
+        "year": "2005",
+        "synopsis": "In 1970s Venice, surfers Tony, Stacy, and Jay join the Z-Boys, a team created by the board designer Skip. They gain fame winning major competitions.",
+        "directors": [
+            "Catherine Hardwicke"
+        ],
+        "leads": [
+            "Emile Hirsch",
+            "John Robinson",
+            "Victor Rasuk"
+        ],
+        "music": [
+            "Mark Mothersbaugh"
+        ],
+        "categories": [
+            "2000s",
+            "Biopics"
         ]
     },
     "Howl's Moving Castle (2005)": {
@@ -72894,7 +73968,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Wrestlers in Film"
         ]
     },
     "The Island (2005)": {
@@ -73645,6 +74720,7 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
+            "Musicians in Film",
             "Scotts"
         ]
     },
@@ -76616,7 +77692,8 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Musicians in Film"
         ]
     },
     "Crossover (2006)": {
@@ -76825,6 +77902,26 @@ var movieMap = {
         "categories": [
             "2000s",
             "Biopics"
+        ]
+    },
+    "A Guide to Recognizing Your Saints (2006)": {
+        "title": "A Guide to Recognizing Your Saints",
+        "year": "2006",
+        "synopsis": "In 1986 Astoria, Dito spends his time with volatile Antonio and Scottish Mike. He returns home as a writer to visit his sick father and see past friends.",
+        "directors": [
+            "Dito Montiel"
+        ],
+        "leads": [
+            "Robert Downey Jr.",
+            "Shia LaBeouf",
+            "Rosario Dawson"
+        ],
+        "music": [
+            "Jonathan Elias"
+        ],
+        "categories": [
+            "2000s",
+            "Robert Downey Jr."
         ]
     },
     "Open Season (2006)": {
@@ -78306,7 +79403,8 @@ var movieMap = {
             "Aaron Zigman"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Disney"
         ]
     },
     "Ghost Rider (2007)": {
@@ -80129,13 +81227,13 @@ var movieMap = {
     "Halloween (2007)": {
         "title": "Halloween",
         "year": "2007",
-        "synopsis": "After being committed for 17 years, Michael Myers escapes from the mental institution and immediately returns to Haddonfield to find his baby sister Laurie.",
+        "synopsis": "15 years after murdering his sister, Michael Myers escapes from Smith's Grove Sanitarium, heads to Haddonfield, and follows babysitter Laurie Strode.",
         "directors": [
             "Rob Zombie"
         ],
         "leads": [
             "Malcolm McDowell",
-            "Sheri Moon Zombie",
+            "Scout Taylor-Compton",
             "Tyler Mane"
         ],
         "music": [
@@ -80144,7 +81242,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Wrestlers in Film"
         ]
     },
     "3:10 to Yuma (2007)": {
@@ -80517,7 +81616,7 @@ var movieMap = {
     "Sleuth (2007)": {
         "title": "Sleuth",
         "year": "2007",
-        "synopsis": "On his sprawling country estate, an aging British writer matches wits with the struggling actor who has taken his wife's heart. They play mind games.",
+        "synopsis": "On his sprawling country estate, an aging British author matches wits with the struggling actor who has taken his wife's heart. They play mind games.",
         "directors": [
             "Kenneth Branagh"
         ],
@@ -83234,7 +84333,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Monster"
         ],
         "cast": [
             "Anthony Wong",
@@ -85703,7 +86803,8 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Action/Adventure"
+            "Action/Adventure",
+            "Musicians in Film"
         ]
     },
     "State of Play (2009)": {
@@ -85728,6 +86829,26 @@ var movieMap = {
             "Matt & Ben",
             "Thriller",
             "Viola Davis"
+        ]
+    },
+    "Fighting (2009)": {
+        "title": "Fighting",
+        "year": "2009",
+        "synopsis": "In New York City, counterfeiter Shawn is invited to the world of underground street brawling by ticket scalper Harvey, who becomes his lying manager.",
+        "directors": [
+            "Dito Montiel"
+        ],
+        "leads": [
+            "Channing Tatum",
+            "Terrence Howard",
+            "Zulay Henao"
+        ],
+        "music": [
+            "David Wittman",
+            "Jonathan Elias"
+        ],
+        "categories": [
+            "2000s"
         ]
     },
     "Obsessed (2009)": {
@@ -86781,7 +87902,7 @@ var movieMap = {
     "Halloween II (2009)": {
         "title": "Halloween II",
         "year": "2009",
-        "synopsis": "Laurie Strode struggles to come to terms with her brother Michael's deadly return to Haddonfield. Michael prepares for another reunion.",
+        "synopsis": "As Dr. Loomis writes his book, Laurie struggles to process her brother Michael Myers' deadly return to Haddonfield and hallucinations of their mother.",
         "directors": [
             "Rob Zombie"
         ],
@@ -86797,7 +87918,8 @@ var movieMap = {
             "2000s",
             "Horror",
             "Horror/Thriller",
-            "Octavia Spencer"
+            "Octavia Spencer",
+            "Wrestlers in Film"
         ]
     },
     "The Final Destination (2009)": {
@@ -86859,7 +87981,8 @@ var movieMap = {
         "categories": [
             "2000s",
             "Frat Pack",
-            "Matt & Ben"
+            "Matt & Ben",
+            "Musicians in Film"
         ]
     },
     "Gamer (2009)": {
@@ -86900,6 +88023,7 @@ var movieMap = {
         "categories": [
             "2000s",
             "Black Cinema",
+            "Musicians in Film",
             "Tyler Perry"
         ]
     },
@@ -87025,7 +88149,8 @@ var movieMap = {
             "Mark Isham"
         ],
         "categories": [
-            "2000s"
+            "2000s",
+            "Coming of Age"
         ]
     },
     "Surrogates (2009)": {
@@ -88035,7 +89160,8 @@ var movieMap = {
         ],
         "categories": [
             "2000s",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Musicians in Film"
         ]
     },
     "Daybreakers (2010)": {
@@ -88125,7 +89251,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Denzel Washington"
+            "Denzel Washington",
+            "Musicians in Film"
         ]
     },
     "The Spy Next Door (2010)": {
@@ -88310,7 +89437,8 @@ var movieMap = {
             "Fantasy/Sci-Fi",
             "Horror",
             "Horror/Thriller",
-            "Monster"
+            "Monster",
+            "Remakes & Reboots"
         ]
     },
     "Valentine's Day (2010)": {
@@ -88382,6 +89510,7 @@ var movieMap = {
             "Horror/Thriller",
             "Leonardo DiCaprio",
             "Martin Scorsese",
+            "Mystery",
             "Thriller"
         ],
         "cast": [
@@ -88719,7 +89848,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Monster"
         ]
     },
     "Why Did I Get Married Too? (2010)": {
@@ -89759,7 +90889,7 @@ var movieMap = {
     "Flipped (2010)": {
         "title": "Flipped",
         "year": "2010",
-        "synopsis": "Two eighth-graders start to have feelings for each other despite being total opposites.",
+        "synopsis": "In 1963, eighth-grader Bryce begins to fall for his neighbor Juli, his total opposite. His grandfather talks with her and pushes him to be open-minded.",
         "directors": [
             "Rob Reiner"
         ],
@@ -90632,7 +91762,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Musicians in Film"
         ]
     },
     "127 Hours (2010)": {
@@ -91529,6 +92660,26 @@ var movieMap = {
         ],
         "categories": [
             "2010s"
+        ]
+    },
+    "Cedar Rapids (2011)": {
+        "title": "Cedar Rapids",
+        "year": "2011",
+        "synopsis": "Insurance agent Tim is sent to Iowa to represent a company at an insurance convention. He learns from three convention veterans and sees bribing.",
+        "directors": [
+            "Miguel Arteta"
+        ],
+        "leads": [
+            "Ed Helms",
+            "John C. Reilly",
+            "Anne Heche"
+        ],
+        "music": [
+            "Christophe Beck"
+        ],
+        "categories": [
+            "2010s",
+            "Sigourney Weaver"
         ]
     },
     "Gnomeo & Juliet (2011)": {
@@ -93264,6 +94415,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -94508,6 +95660,7 @@ var movieMap = {
             "Emily Blunt",
             "Family",
             "Frat Pack",
+            "Musicians in Film",
             "Remakes & Reboots",
             "Whoopi Goldberg"
         ]
@@ -95589,7 +96742,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Action/Adventure",
-            "Fantasy/Sci-Fi"
+            "Fantasy/Sci-Fi",
+            "Monster"
         ]
     },
     "American Reunion (2012)": {
@@ -96183,6 +97337,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Musicals",
+            "Musicians in Film",
             "Tom Cruise",
             "Wrestlers in Film"
         ],
@@ -96261,7 +97416,8 @@ var movieMap = {
             "Henry Jackman"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Horror"
         ]
     },
     "Brave (2012)": {
@@ -97380,7 +98536,8 @@ var movieMap = {
             "Carter Burwell"
         ],
         "categories": [
-            "2010s"
+            "2010s",
+            "Musicians in Film"
         ]
     },
     "Sinister (2012)": {
@@ -99903,6 +101060,25 @@ var movieMap = {
             "Samuel L. Jackson"
         ]
     },
+    "Only God Forgives (2013)": {
+        "title": "Only God Forgives",
+        "year": "2013",
+        "synopsis": "Drug smuggler and boxing club lead Julian thrives in Bangkok's criminal underworld. His mother tells him to kill Lieutenant Chang, who killed a brother.",
+        "directors": [
+            "Nicolas Winding Refn"
+        ],
+        "leads": [
+            "Ryan Gosling",
+            "Kristin Scott Thomas",
+            "Vithaya Pansringarm"
+        ],
+        "music": [
+            "Cliff Martinez"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "R.I.P.D. (2013)": {
         "title": "R.I.P.D.",
         "year": "2013",
@@ -100319,6 +101495,26 @@ var movieMap = {
             "Robin Williams",
             "Terrence Howard",
             "Vanessa Redgrave"
+        ]
+    },
+    "Paranoia (2013)": {
+        "title": "Paranoia",
+        "year": "2013",
+        "synopsis": "After inventor Adam uses a company credit card, he must spy on his boss Wyatt's mentor Goddard to secure for him a multi-billion dollar advantage.",
+        "directors": [
+            "Robert Luketic"
+        ],
+        "leads": [
+            "Liam Hemsworth",
+            "Gary Oldman",
+            "Harrison Ford"
+        ],
+        "music": [
+            "Junkie XL"
+        ],
+        "categories": [
+            "2010s",
+            "Harrison Ford"
         ]
     },
     "The Mortal Instruments: City of Bones (2013)": {
@@ -101632,7 +102828,7 @@ var movieMap = {
     "The Secret Life of Walter Mitty (2013)": {
         "title": "The Secret Life of Walter Mitty",
         "year": "2013",
-        "synopsis": "When both he and a colleague are about to lose their magazine jobs, Walter takes action by embarking on an extraordinary adventure.",
+        "synopsis": "After Life magazine assets manager Walter thinks he will lose his job without a negative, he sets out to find it for a final issue while often daydreaming.",
         "directors": [
             "Ben Stiller"
         ],
@@ -101648,7 +102844,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Frat Pack"
+            "Frat Pack",
+            "Remakes & Reboots"
         ]
     },
     "The Wolf of Wall Street (2013)": {
@@ -103412,6 +104609,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -105564,6 +106762,27 @@ var movieMap = {
             "Horror/Thriller"
         ]
     },
+    "Predestination (2015)": {
+        "title": "Predestination",
+        "year": "2015",
+        "synopsis": "For his final assignment, a temporal agent seeks a criminal that has eluded him. In a bar, he hears the story of John, who was a sad mother in 1963.",
+        "directors": [
+            "Peter Spierig",
+            "Michael Spierig"
+        ],
+        "leads": [
+            "Ethan Hawke",
+            "Sarah Snook",
+            "Noah Taylor"
+        ],
+        "music": [
+            "Peter Spierig"
+        ],
+        "categories": [
+            "2010s",
+            "Fantasy/Sci-Fi"
+        ]
+    },
     "Taken 3 (2015)": {
         "title": "Taken 3",
         "year": "2015",
@@ -106518,6 +107737,25 @@ var movieMap = {
             "Dramas",
             "Harrison Ford",
             "Romance"
+        ]
+    },
+    "The Death of \"Superman Lives\": What Happened? (2015)": {
+        "title": "The Death of \"Superman Lives\": What Happened?",
+        "year": "2015",
+        "synopsis": "Jon explains the pre-production of a reboot of the Superman film series based on a 1992 DC comic that was cancelled three weeks before its filming.",
+        "directors": [
+            "Jon Schnepp"
+        ],
+        "leads": [
+            "Tim Burton",
+            "Kevin Smith",
+            "Dan Gilroy"
+        ],
+        "music": [
+            "Frederick William Scott"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Avengers: Age of Ultron (2015)": {
@@ -110089,6 +111327,27 @@ var movieMap = {
             "Spoof"
         ]
     },
+    "Miles Ahead (2016)": {
+        "title": "Miles Ahead",
+        "year": "2016",
+        "synopsis": "Miles Davis works to get his career back on track after inactivity and drug addiction in the 1970s. A journalist tries to profile him. He marries a dancer.",
+        "directors": [
+            "Don Cheadle"
+        ],
+        "leads": [
+            "Don Cheadle",
+            "Ewan McGregor",
+            "Emayatzy Corinealdi"
+        ],
+        "music": [
+            "Robert Glasper"
+        ],
+        "categories": [
+            "2010s",
+            "Biopics",
+            "Black Cinema"
+        ]
+    },
     "Demolition (2016)": {
         "title": "Demolition",
         "year": "2016",
@@ -111427,6 +112686,7 @@ var movieMap = {
             "Bill Murray",
             "Comedies",
             "Fantasy/Sci-Fi",
+            "Musicians in Film",
             "Sigourney Weaver"
         ],
         "cast": [
@@ -111734,6 +112994,25 @@ var movieMap = {
             "2010s",
             "Frat Pack",
             "Streaming"
+        ]
+    },
+    "Blood Father (2016)": {
+        "title": "Blood Father",
+        "year": "2016",
+        "synopsis": "Ex-con John reunites with his estranged wayward 17-year-old daughter Lydia to save her from drug dealers like Jonah who are aiming to murder her.",
+        "directors": [
+            "Jean-Fran\u00e7ois Richet"
+        ],
+        "leads": [
+            "Mel Gibson",
+            "Erin Moriarty",
+            "Diego Luna"
+        ],
+        "music": [
+            "Sven Faulconer"
+        ],
+        "categories": [
+            "2010s"
         ]
     },
     "Florence Foster Jenkins (2016)": {
@@ -112122,6 +113401,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Biopics",
+            "Dramas",
             "Eastwoods",
             "Nicolas Cage"
         ]
@@ -112965,6 +114245,25 @@ var movieMap = {
             "Natalie Portman"
         ]
     },
+    "Man Down (2016)": {
+        "title": "Man Down",
+        "year": "2016",
+        "synopsis": "U.S. Marine Gabriel fights in a war in Afghanistan with his friend Devin. After an ambush, he returns home to find his child in a seemingly ruined world.",
+        "directors": [
+            "Dito Montiel"
+        ],
+        "leads": [
+            "Shia LaBeouf",
+            "Jai Courtney",
+            "Gary Oldman"
+        ],
+        "music": [
+            "Clint Mansell"
+        ],
+        "categories": [
+            "2010s"
+        ]
+    },
     "The Founder (2016)": {
         "title": "The Founder",
         "year": "2016",
@@ -113308,7 +114607,8 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
-            "Comedies"
+            "Comedies",
+            "Musicians in Film"
         ]
     },
     "Fences (2016)": {
@@ -114026,6 +115326,7 @@ var movieMap = {
             "Disney",
             "Emmas",
             "Fantasy/Sci-Fi",
+            "Musicals",
             "Remakes & Reboots",
             "Stanley Tucci"
         ],
@@ -115478,6 +116779,7 @@ var movieMap = {
         ],
         "categories": [
             "2010s",
+            "Action/Adventure",
             "Fantasy/Sci-Fi",
             "Planet of the Apes"
         ],
@@ -117009,6 +118311,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Crime",
+            "Dramas",
             "Michelle Pfeiffer",
             "Mystery"
         ],
@@ -118524,7 +119827,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Animated",
-            "Emily Blunt"
+            "Emily Blunt",
+            "Musicians in Film"
         ]
     },
     "Unsane (2018)": {
@@ -121652,6 +122956,7 @@ var movieMap = {
         "categories": [
             "2010s",
             "Coen Brothers",
+            "Musicians in Film",
             "Streaming",
             "Westerns"
         ]
@@ -124525,7 +125830,8 @@ var movieMap = {
         "categories": [
             "2010s",
             "Bill Murray",
-            "Comedies"
+            "Comedies",
+            "Musicians in Film"
         ]
     },
     "Beats (2019)": {
@@ -127945,6 +129251,7 @@ var movieMap = {
         ],
         "categories": [
             "2020s",
+            "Fantasy/Sci-Fi",
             "Horror",
             "Horror/Thriller"
         ],
@@ -130954,6 +132261,27 @@ var movieMap = {
             "Streaming"
         ]
     },
+    "Willy's Wonderland (2021)": {
+        "title": "Willy's Wonderland",
+        "year": "2021",
+        "synopsis": "In Hayesville, a drifter is tricked into starting a job as a janitor at a family entertainment center. The task becomes a battle with demonic animatronics.",
+        "directors": [
+            "Kevin Lewis"
+        ],
+        "leads": [
+            "Nicolas Cage",
+            "Emily Tosta",
+            "Ric Reitz"
+        ],
+        "music": [
+            "\u00c9moi"
+        ],
+        "categories": [
+            "2020s",
+            "Horror",
+            "Nicolas Cage"
+        ]
+    },
     "Flora & Ulysses (2021)": {
         "title": "Flora & Ulysses",
         "year": "2021",
@@ -132547,6 +133875,29 @@ var movieMap = {
             "Horror/Thriller"
         ]
     },
+    "Respect (2021)": {
+        "title": "Respect",
+        "year": "2021",
+        "synopsis": "Aretha Franklin is born as a musical prodigy. She faces the loss of her mother and struggles to rise to stardom as she endures her abusive marriage.",
+        "directors": [
+            "Liesl Tommy"
+        ],
+        "leads": [
+            "Jennifer Hudson",
+            "Forest Whitaker",
+            "Marlon Wayans"
+        ],
+        "music": [
+            "Kris Bowers"
+        ],
+        "categories": [
+            "2020s",
+            "Biopics",
+            "Black Cinema",
+            "Musicians in Film",
+            "Wayans Family"
+        ]
+    },
     "Reminiscence (2021)": {
         "title": "Reminiscence",
         "year": "2021",
@@ -133841,7 +135192,8 @@ var movieMap = {
         ],
         "categories": [
             "2020s",
-            "Andersons"
+            "Andersons",
+            "Musicians in Film"
         ]
     },
     "Back to the Outback (2021)": {
@@ -134107,6 +135459,26 @@ var movieMap = {
         "categories": [
             "2020s",
             "Streaming"
+        ]
+    },
+    "The Lost Daughter (2021)": {
+        "title": "The Lost Daughter",
+        "year": "2021",
+        "synopsis": "In Greece, college professor and noted translator Leda befriends mother Nina and her daughter at a beach. She recalls her own parenting struggles.",
+        "directors": [
+            "Maggie Gyllenhaal"
+        ],
+        "leads": [
+            "Olivia Colman",
+            "Dakota Johnson",
+            "Jessie Buckley"
+        ],
+        "music": [
+            "Dickon Hinchliffe"
+        ],
+        "categories": [
+            "2020s",
+            "Gyllenhaals"
         ]
     },
     "Sing 2 (2021)": {
@@ -134471,6 +135843,7 @@ var movieMap = {
         "categories": [
             "2020s",
             "Crime",
+            "Dramas",
             "Mystery"
         ],
         "cast": [
@@ -134487,6 +135860,28 @@ var movieMap = {
             "Russell Brand",
             "Sophie Okonedo",
             "Tom Bateman"
+        ]
+    },
+    "Marry Me (2022)": {
+        "title": "Marry Me",
+        "year": "2022",
+        "synopsis": "After pop superstar Kat learns fianc\u00e9 Bastian has been unfaithful, she spots divorced math teacher Charlie holding a sign at her concert. They marry.",
+        "directors": [
+            "Kat Coiro"
+        ],
+        "leads": [
+            "Jennifer Lopez",
+            "Owen Wilson",
+            "Maluma"
+        ],
+        "music": [
+            "John Debney"
+        ],
+        "categories": [
+            "2020s",
+            "Frat Pack",
+            "Jennifer Lopez",
+            "Musicians in Film"
         ]
     },
     "The Sky Is Everywhere (2022)": {
@@ -134756,7 +136151,8 @@ var movieMap = {
             "2020s",
             "A24",
             "Horror",
-            "Horror/Thriller"
+            "Horror/Thriller",
+            "Musicians in Film"
         ]
     },
     "Everything Everywhere All at Once (2022)": {
@@ -134874,6 +136270,69 @@ var movieMap = {
             "Matt Smith",
             "Michael Keaton",
             "Tyrese Gibson"
+        ]
+    },
+    "Ambulance (2022)": {
+        "title": "Ambulance",
+        "year": "2022",
+        "synopsis": "Brother bank robbers Danny and Will take control of a medical vehicle after a heist. They take EMT Cam and a hurt officer as hostages before a deal.",
+        "directors": [
+            "Michael Bay"
+        ],
+        "leads": [
+            "Jake Gyllenhaal",
+            "Yahya Abdul-Mateen II",
+            "Eiza Gonz\u00e1lez"
+        ],
+        "music": [
+            "Lorne Balfe"
+        ],
+        "categories": [
+            "2020s",
+            "Gyllenhaals"
+        ]
+    },
+    "Sonic the Hedgehog 2 (2022)": {
+        "title": "Sonic the Hedgehog 2",
+        "year": "2022",
+        "synopsis": "When the manic Dr Robotnik returns to Earth with Knuckles for the Master Emerald, Sonic and Tails oppose them. Tom goes to Hawaii for a wedding.",
+        "directors": [
+            "Jeff Fowler"
+        ],
+        "leads": [
+            "Ben Schwartz",
+            "Jim Carrey",
+            "James Marsden"
+        ],
+        "music": [
+            "Tom Holkenborg"
+        ],
+        "categories": [
+            "2020s",
+            "Family",
+            "Jim Carrey"
+        ]
+    },
+    "Doctor Strange in the Multiverse of Madness (2022)": {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "year": "2022",
+        "synopsis": "Stephen protects America, a teenager capable of traveling the multiverse, from Wanda, who strives to reunite with her children but murders to do so.",
+        "directors": [
+            "Sam Raimi"
+        ],
+        "leads": [
+            "Benedict Cumberbatch",
+            "Elizabeth Olsen",
+            "Benedict Wong"
+        ],
+        "music": [
+            "Danny Elfman"
+        ],
+        "categories": [
+            "2020s",
+            "Charlize Theron",
+            "Comic Book",
+            "Marvel"
         ]
     }
 }
